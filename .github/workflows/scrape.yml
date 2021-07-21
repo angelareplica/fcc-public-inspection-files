@@ -14,19 +14,21 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl 'https://www.fcc.gov/search/api/?t=opif&q=page%20offset%200&s=0&o=new' \
-          -H 'authority: www.fcc.gov' \
-          -H 'sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"' \
-          -H 'accept: application/json, text/javascript, */*; q=0.01' \
-          -H 'sec-ch-ua-mobile: ?0' \
-          -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36' \
-          -H 'origin: https://publicfiles.fcc.gov' \
-          -H 'sec-fetch-site: same-site' \
-          -H 'sec-fetch-mode: cors' \
-          -H 'sec-fetch-dest: empty' \
-          -H 'referer: https://publicfiles.fcc.gov/' \
-          -H 'accept-language: en-US,en;q=0.9' \
-          --compressed | jq . > files.json
+            curl 'https://www.fcc.gov/search/api/?t=opif&q=page%20offset%200&s=0&o=new' \
+              -H 'authority: www.fcc.gov' \
+              -H 'pragma: no-cache' \
+              -H 'cache-control: no-cache' \
+              -H 'sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"' \
+              -H 'accept: application/json, text/javascript, */*; q=0.01' \
+              -H 'sec-ch-ua-mobile: ?0' \
+              -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36' \
+              -H 'origin: https://publicfiles.fcc.gov' \
+              -H 'sec-fetch-site: same-site' \
+              -H 'sec-fetch-mode: cors' \
+              -H 'sec-fetch-dest: empty' \
+              -H 'referer: https://publicfiles.fcc.gov/' \
+              -H 'accept-language: en-US,en;q=0.9' \
+              --compressed | jq . > files.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
