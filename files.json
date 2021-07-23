@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 493120,
+    "numFound": 493122,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "c591f676-529a-cb46-14ab-55654fcfd70d",
+        "file_id": "c591f676-529a-cb46-14ab-55654fcfd70d",
+        "file_name": "Stop GOP Newsom Recall 072621-080821",
+        "file_extension": "pdf",
+        "file_size": 240725,
+        "file_status": "com_cpy",
+        "folder_id": "10b237d6-88c5-f924-3495-2cfa6e856137",
+        "create_ts": "2021-07-23T15:49:08.993Z",
+        "last_update_ts": "2021-07-23T15:50:00.321Z",
+        "active_ind": "Y",
+        "file_manager_id": "c2862370-7617-4735-ac56-6626aaa33772",
+        "file_folder_path": "Political Files/2021/State/GAVIN NEWSOM - STOP THE RECALL",
+        "full_qualified_file_name": "Political Files/2021/State/GAVIN NEWSOM - STOP THE RECALL/Stop GOP Newsom Recall 072621-080821",
+        "entity_id": "35078",
+        "source_service_code": "FM",
+        "callsign": "KLOS",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1706091189995831300,
+        "score": 0.24995705
+      },
+      {
+        "id": "42c815fd-65d9-9417-35e2-fcb995a56e18",
+        "file_id": "42c815fd-65d9-9417-35e2-fcb995a56e18",
+        "file_name": "62908971-STOP REPUBLICAN RECALL OF GOV NEWSOM-7.19-21-8.1.21-0777-REV #2 CDR",
+        "file_extension": "pdf",
+        "file_size": 11928,
+        "file_status": "com_cpy",
+        "folder_id": "bcd5d72e-9c89-33a0-dde3-ad1c52d8c907",
+        "create_ts": "2021-07-23T15:32:56.998Z",
+        "last_update_ts": "2021-07-23T15:33:48.246Z",
+        "active_ind": "Y",
+        "file_manager_id": "ce2b1fa0-5dec-413c-8096-206566d25fc2",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/California/Stop the Republican Recall of Governor Newsom",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/California/Stop the Republican Recall of Governor Newsom/62908971-STOP REPUBLICAN RECALL OF GOV NEWSOM-7.19-21-8.1.21-0777-REV #2 CDR",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1706090170706559000,
+        "score": 0.24995705
+      },
       {
         "id": "d73eb260-5b4f-32b8-07c3-3eeec9cfa95e",
         "file_id": "d73eb260-5b4f-32b8-07c3-3eeec9cfa95e",
@@ -185,52 +229,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1706083859845611500,
         "score": 0.24995705
-      },
-      {
-        "id": "48bb67b6-b8af-58ba-37a9-1f0d5f787800",
-        "file_id": "48bb67b6-b8af-58ba-37a9-1f0d5f787800",
-        "file_name": "Jack Ciattarelli  –NJ Governor 07-21-2021",
-        "file_extension": "pdf",
-        "file_size": 120919,
-        "file_status": "com_cpy",
-        "folder_id": "b4fa6e3f-8dec-7af7-df6a-5fe029ce02d0",
-        "create_ts": "2021-07-23T13:52:30.425Z",
-        "last_update_ts": "2021-07-23T13:53:21.639Z",
-        "active_ind": "Y",
-        "file_manager_id": "6328462d-eb3d-4748-8fe3-756bcb800bd9",
-        "file_folder_path": "Political Files/2021/State/Jack Ciattarelli - NJ Governor",
-        "full_qualified_file_name": "Political Files/2021/State/Jack Ciattarelli - NJ Governor/Jack Ciattarelli  –NJ Governor 07-21-2021",
-        "entity_id": "61089",
-        "source_service_code": "FM",
-        "callsign": "WLIR-FM",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1706083851385700400,
-        "score": 0.24995705
-      },
-      {
-        "id": "29fdefbb-63b1-0a5b-b242-368ac223aaf9",
-        "file_id": "29fdefbb-63b1-0a5b-b242-368ac223aaf9",
-        "file_name": "Anne Donnelly –Nassau DA 07-21-2021",
-        "file_extension": "pdf",
-        "file_size": 118401,
-        "file_status": "com_cpy",
-        "folder_id": "e8c44a4f-be0a-012a-ead8-cdf54f8fb510",
-        "create_ts": "2021-07-23T13:42:09.304Z",
-        "last_update_ts": "2021-07-23T13:43:28.656Z",
-        "active_ind": "Y",
-        "file_manager_id": "8ccf0e59-17fc-4276-9292-38b825bc7cc9",
-        "file_folder_path": "Political Files/2021/Local/Anne Donnelly - Nassau DA",
-        "full_qualified_file_name": "Political Files/2021/Local/Anne Donnelly - Nassau DA/Anne Donnelly –Nassau DA 07-21-2021",
-        "entity_id": "70658",
-        "source_service_code": "AM",
-        "callsign": "WABC",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1706083200074252300,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -408,12 +406,12 @@
         "2018": 68215,
         "2019": 14265,
         "2020": 126450,
-        "2021": 9220,
+        "2021": 9222,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 63811,
+        "State": 63812,
         "US Senate": 48288,
         "US House": 41513,
         "Presidential": 39286,
@@ -450,13 +448,13 @@
       "source_service_code": {
         "TV": 231407,
         "CABLE": 111090,
-        "FM": 106052,
+        "FM": 106053,
         "AM": 39583,
-        "DBS": 4988
+        "DBS": 4989
       },
       "political_file_type": {
-        "PA": 216518,
-        "NCIA": 112388
+        "PA": 216519,
+        "NCIA": 112389
       }
     }
   },
@@ -472,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 201,
-    "processTime": 207,
-    "responseTime": 208
+    "queryTime": 206,
+    "processTime": 214,
+    "responseTime": 214
   }
 }
