@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 493243,
+    "numFound": 493245,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "82fb7084-b412-b959-dadd-e3244fc450f3",
+        "file_id": "82fb7084-b412-b959-dadd-e3244fc450f3",
+        "file_name": "CItizens for Chuck Gray Page 2",
+        "file_extension": "pdf",
+        "file_size": 209144,
+        "file_status": "com_cpy",
+        "folder_id": "63894506-ea9a-37a7-21ec-c8a92eabf22b",
+        "create_ts": "2021-07-25T17:45:23.401Z",
+        "last_update_ts": "2021-07-25T17:46:43.886Z",
+        "active_ind": "Y",
+        "file_manager_id": "2fe440c6-a097-4390-b30d-8303f58c2519",
+        "file_folder_path": "Political Files/2021/Federal/US House",
+        "full_qualified_file_name": "Political Files/2021/Federal/US House/CItizens for Chuck Gray Page 2",
+        "entity_id": "17683",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "RAPID CITY",
+        "callsign": "KNEP",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2021",
+        "_version_": 1706279697129668600,
+        "score": 0.00012497853
+      },
+      {
+        "id": "950c1df4-b1f1-2131-689c-830a11d17463",
+        "file_id": "950c1df4-b1f1-2131-689c-830a11d17463",
+        "file_name": "CItizens for Chuck Gray Page 1",
+        "file_extension": "pdf",
+        "file_size": 88897,
+        "file_status": "com_cpy",
+        "folder_id": "63894506-ea9a-37a7-21ec-c8a92eabf22b",
+        "create_ts": "2021-07-25T17:45:23.347Z",
+        "last_update_ts": "2021-07-25T17:46:15.227Z",
+        "active_ind": "Y",
+        "file_manager_id": "37f5bd02-62d2-447f-9f86-c1d3b57cfff3",
+        "file_folder_path": "Political Files/2021/Federal/US House",
+        "full_qualified_file_name": "Political Files/2021/Federal/US House/CItizens for Chuck Gray Page 1",
+        "entity_id": "17683",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "RAPID CITY",
+        "callsign": "KNEP",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2021",
+        "_version_": 1706279696998596600,
+        "score": 0.00012497853
+      },
       {
         "id": "f2dbc9e2-cb60-4c1e-8b24-9c15fe32381e",
         "file_id": "f2dbc9e2-cb60-4c1e-8b24-9c15fe32381e",
@@ -191,51 +241,6 @@
         "campaign_year": "2021",
         "_version_": 1706122824864759800,
         "score": 0.24995705
-      },
-      {
-        "id": "91a4c8c9-86c4-df58-a36c-41d4fc9709ae",
-        "file_id": "91a4c8c9-86c4-df58-a36c-41d4fc9709ae",
-        "file_name": "Rick Scott for FL NAB (002)",
-        "file_extension": "pdf",
-        "file_size": 834411,
-        "file_status": "com_cpy",
-        "folder_id": "144333ca-3b3b-d8fd-c117-04796aa4679b",
-        "create_ts": "2021-07-24T00:06:38.279Z",
-        "last_update_ts": "2021-07-24T00:07:30.159Z",
-        "active_ind": "Y",
-        "file_manager_id": "eb4f2298-5802-4eed-a95c-bd7c9c9307bb",
-        "file_folder_path": "Political Files/2021/State/2021 ISSUES",
-        "full_qualified_file_name": "Political Files/2021/State/2021 ISSUES/Rick Scott for FL NAB (002)",
-        "entity_id": "10073",
-        "source_service_code": "TV",
-        "callsign": "WTMO-CD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1706122489704218600,
-        "score": 0.24995705
-      },
-      {
-        "id": "a3ace603-1ce2-4518-ed9c-7885d279c05b",
-        "file_id": "a3ace603-1ce2-4518-ed9c-7885d279c05b",
-        "file_name": "2021 AB Foundation 07222021, order Est 3553, NAB Form, Proof of Payment",
-        "file_extension": "pdf",
-        "file_size": 1185026,
-        "file_status": "com_cpy",
-        "folder_id": "96439f71-5656-87a9-da07-add1e1984cf6",
-        "create_ts": "2021-07-23T23:53:25.84Z",
-        "last_update_ts": "2021-07-23T23:54:17.691Z",
-        "active_ind": "Y",
-        "file_manager_id": "12a7a4ad-572a-4302-9e2e-522527129e3c",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/2021 AB Foundation 07222021, order Est 3553, NAB Form, Proof of Payment",
-        "entity_id": "66365",
-        "source_service_code": "AM",
-        "callsign": "WFUZ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1706121658745487400,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -342,7 +347,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56611,
+        "ABC": 56613,
         "NBC": 55474,
         "CBS": 37609,
         "FOX": 27020,
@@ -413,14 +418,14 @@
         "2018": 68215,
         "2019": 14264,
         "2020": 126450,
-        "2021": 9324,
+        "2021": 9326,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 63829,
         "US Senate": 48289,
-        "US House": 41526,
+        "US House": 41528,
         "Presidential": 39285,
         "Local": 22583
       },
@@ -453,14 +458,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231473,
+        "TV": 231475,
         "CABLE": 111100,
         "FM": 106086,
         "AM": 39593,
         "DBS": 4991
       },
       "political_file_type": {
-        "PA": 216552,
+        "PA": 216554,
         "NCIA": 112457
       }
     }
@@ -477,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 200,
-    "processTime": 207,
-    "responseTime": 208
+    "queryTime": 206,
+    "processTime": 214,
+    "responseTime": 215
   }
 }
