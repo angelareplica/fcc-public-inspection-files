@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 493245,
+    "numFound": 493246,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "ffd30e37-43bb-a391-ef4b-9e1ba080b91f",
+        "file_id": "ffd30e37-43bb-a391-ef4b-9e1ba080b91f",
+        "file_name": "Denise Pedrow - Final Invoice 454120-1 for DECEMBER 2019 - Flight #1 - 12-01-19 thru 12-31-19",
+        "file_extension": "pdf",
+        "file_size": 34110,
+        "file_status": "com_cpy",
+        "folder_id": "0f19baf8-2705-356a-494f-9757862cb647",
+        "create_ts": "2021-07-25T21:29:33.385Z",
+        "last_update_ts": "2021-07-25T21:30:25.31Z",
+        "active_ind": "Y",
+        "file_manager_id": "222fd274-a57e-4a18-bf68-e08d0d1325ea",
+        "file_folder_path": "Political Files/2019/State/Denise Pedrow",
+        "full_qualified_file_name": "Political Files/2019/State/Denise Pedrow/Denise Pedrow - Final Invoice 454120-1 for DECEMBER 2019 - Flight #1 - 12-01-19 thru 12-31-19",
+        "entity_id": "3077",
+        "source_service_code": "FM",
+        "callsign": "KDAR",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2019",
+        "_version_": 1706293800317485000,
+        "score": 0.24995705
+      },
       {
         "id": "045cc149-c509-bd29-7fec-2c495a173d52",
         "file_id": "045cc149-c509-bd29-7fec-2c495a173d52",
@@ -209,30 +232,6 @@
         "campaign_year": "2021",
         "_version_": 1706126675330203600,
         "score": 0.24995705
-      },
-      {
-        "id": "52f74a7e-9413-9929-978b-892945907b4f",
-        "file_id": "52f74a7e-9413-9929-978b-892945907b4f",
-        "file_name": "Stand for Children 07-22 to 7-28 AFJ NAB FINAL",
-        "file_extension": "pdf",
-        "file_size": 145549,
-        "file_status": "com_cpy",
-        "folder_id": "f7de2393-4ea9-e927-e001-4c3660f66d2b",
-        "create_ts": "2021-07-24T01:13:10.361Z",
-        "last_update_ts": "2021-07-24T01:14:01.715Z",
-        "active_ind": "Y",
-        "file_manager_id": "beb04c1e-ab66-4c2a-8f7c-4bdb4cb8ee73",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Stand for Children",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Stand for Children/Stand for Children 07-22 to 7-28 AFJ NAB FINAL",
-        "entity_id": "000341",
-        "source_service_code": "CABLE",
-        "legal_name": "GCI CABLE INC",
-        "operator_city_name": "ANCHORAGE",
-        "operator_state_name": "AK",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1706126675159285800,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -408,14 +407,14 @@
         "2016": 68688,
         "2017": 10346,
         "2018": 68215,
-        "2019": 14264,
+        "2019": 14265,
         "2020": 126450,
         "2021": 9326,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 63829,
+        "State": 63830,
         "US Senate": 48289,
         "US House": 41528,
         "Presidential": 39285,
@@ -452,12 +451,12 @@
       "source_service_code": {
         "TV": 231475,
         "CABLE": 111100,
-        "FM": 106086,
+        "FM": 106087,
         "AM": 39593,
         "DBS": 4991
       },
       "political_file_type": {
-        "PA": 216554,
+        "PA": 216555,
         "NCIA": 112457
       }
     }
@@ -475,7 +474,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 200,
-    "processTime": 210,
-    "responseTime": 211
+    "processTime": 209,
+    "responseTime": 209
   }
 }
