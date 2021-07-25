@@ -5,6 +5,27 @@
     "maxScore": 0.5001641,
     "docs": [
       {
+        "id": "045cc149-c509-bd29-7fec-2c495a173d52",
+        "file_id": "045cc149-c509-bd29-7fec-2c495a173d52",
+        "file_name": "Issues and Programming List - Q3 2018 - File 02",
+        "file_extension": "pdf",
+        "file_size": 1422651,
+        "file_status": "com_cpy",
+        "folder_id": "53cbd76a-5d9e-9d23-dbc3-e644d3d20172",
+        "create_ts": "2018-10-11T17:21:47.782Z",
+        "last_update_ts": "2021-07-25T20:53:28.464Z",
+        "active_ind": "Y",
+        "file_manager_id": "5528a3f4-e4a8-4d7f-bdf5-24b752809cee",
+        "file_folder_path": "Issues and Programs Lists/2018 - Issues and Programming",
+        "full_qualified_file_name": "Issues and Programs Lists/2018 - Issues and Programming/Issues and Programming List - Q3 2018 - File 02",
+        "entity_id": "3077",
+        "source_service_code": "FM",
+        "callsign": "KDAR",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1706291445946646500,
+        "score": 0.24995705
+      },
+      {
         "id": "3cd048d8-5e73-f040-e2b2-08330748f8ac",
         "file_id": "3cd048d8-5e73-f040-e2b2-08330748f8ac",
         "file_name": "Cover letter - late upload for Gov Shutdown-01-2019",
@@ -211,30 +232,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1706126675159285800,
-        "score": 0.24995705
-      },
-      {
-        "id": "b1e1fcb1-37d6-6fac-1649-0f5911483482",
-        "file_id": "b1e1fcb1-37d6-6fac-1649-0f5911483482",
-        "file_name": "Stand for Children 07-29 to 08-04 AFJ NAB",
-        "file_extension": "pdf",
-        "file_size": 148012,
-        "file_status": "com_cpy",
-        "folder_id": "a4a24f9c-b25f-4f28-ca7a-cb33e4feb7f6",
-        "create_ts": "2021-07-24T01:12:10.41Z",
-        "last_update_ts": "2021-07-24T01:13:01.97Z",
-        "active_ind": "Y",
-        "file_manager_id": "76442aa4-b095-45eb-b8df-627c3efa8390",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Stand for Children",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Stand for Children/Stand for Children 07-29 to 08-04 AFJ NAB",
-        "entity_id": "008120",
-        "source_service_code": "CABLE",
-        "legal_name": "GCI CABLE INC",
-        "operator_city_name": "ANCHORAGE",
-        "operator_state_name": "AK",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1706126612476461000,
         "score": 0.24995705
       }
     ],
@@ -477,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 215,
-    "responseTime": 215
+    "queryTime": 200,
+    "processTime": 210,
+    "responseTime": 211
   }
 }
