@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 493258,
+    "numFound": 493259,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "2cf04e95-254e-4509-5bc9-1328baacf9c6",
+        "file_id": "2cf04e95-254e-4509-5bc9-1328baacf9c6",
+        "file_name": "AB Foundation Philadelphia Traffic Instructions 07-23-2021",
+        "file_extension": "doc",
+        "file_size": 50176,
+        "file_status": "com_prc",
+        "folder_id": "01de22ba-409a-964f-b34c-0509a9fbba79",
+        "create_ts": "2021-07-26T13:33:48.33Z",
+        "last_update_ts": "2021-07-26T13:35:10.172Z",
+        "active_ind": "Y",
+        "file_manager_id": "992849d3-7e21-4796-b5c1-75e3ad91e62c",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AB FOUNDATION",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AB FOUNDATION/AB Foundation Philadelphia Traffic Instructions 07-23-2021",
+        "entity_id": "25453",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "PHILADELPHIA",
+        "callsign": "KYW-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1706354466842738700,
+        "score": 0.24995705
+      },
       {
         "id": "ca99e1d4-eee7-8b08-7604-9927dfd44765",
         "file_id": "ca99e1d4-eee7-8b08-7604-9927dfd44765",
@@ -219,30 +243,6 @@
         "campaign_year": "2021",
         "_version_": 1706350635502272500,
         "score": 0.24995705
-      },
-      {
-        "id": "22ddbcf9-61d2-755d-10f4-e9eb424f8a2e",
-        "file_id": "22ddbcf9-61d2-755d-10f4-e9eb424f8a2e",
-        "file_name": "Defending Democracy Together Waco 0279 2.8-2.11",
-        "file_extension": "pdf",
-        "file_size": 7337,
-        "file_status": "com_cpy",
-        "folder_id": "8820953e-c801-73f5-3808-c413110eb8b8",
-        "create_ts": "2021-07-15T12:56:35.988Z",
-        "last_update_ts": "2021-07-26T12:30:25.22Z",
-        "active_ind": "Y",
-        "file_manager_id": "0c160aa1-c64b-4f97-9299-a01843b471a3",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/SUDDENLINK",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/SUDDENLINK/Defending Democracy Together Waco 0279 2.8-2.11",
-        "entity_id": "005383",
-        "source_service_code": "CABLE",
-        "legal_name": "ZITO WEST HOLDING LLC",
-        "operator_city_name": "COUDERSPORT",
-        "operator_state_name": "PA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1706350393187893200,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -283,7 +283,7 @@
         "BIRMINGHAM (ANN TUSC)": 2135,
         "PEORIA-BLOOMINGTON": 2114,
         "LEXINGTON": 2077,
-        "PHILADELPHIA": 2003,
+        "PHILADELPHIA": 2004,
         "ROCHESTR-MASON CITY-AUSTIN": 1985,
         "SIOUX CITY": 1948,
         "GREAT FALLS": 1923,
@@ -351,7 +351,7 @@
       "network_affiliation": {
         "ABC": 56615,
         "NBC": 55474,
-        "CBS": 37609,
+        "CBS": 37610,
         "FOX": 27020,
         "PBS": 13932,
         "CW": 11899,
@@ -420,7 +420,7 @@
         "2018": 68215,
         "2019": 14266,
         "2020": 126450,
-        "2021": 9336,
+        "2021": 9337,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -460,7 +460,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231477,
+        "TV": 231478,
         "CABLE": 111108,
         "FM": 106089,
         "AM": 39593,
@@ -468,7 +468,7 @@
       },
       "political_file_type": {
         "PA": 216561,
-        "NCIA": 112462
+        "NCIA": 112463
       }
     }
   },
@@ -484,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1691,
-    "processTime": 699,
-    "responseTime": 1699
+    "queryTime": 206,
+    "processTime": 214,
+    "responseTime": 215
   }
 }
