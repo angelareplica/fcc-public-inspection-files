@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 493315,
+    "numFound": 493316,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "607270b1-59aa-6647-61e0-76b882ee6f84",
+        "file_id": "607270b1-59aa-6647-61e0-76b882ee6f84",
+        "file_name": "POL 001 Rick Scott  20210723162306037",
+        "file_extension": "pdf",
+        "file_size": 200644,
+        "file_status": "com_cpy",
+        "folder_id": "d316810d-651b-afa7-9aa4-a85dda72c44d",
+        "create_ts": "2021-07-26T18:38:03.323Z",
+        "last_update_ts": "2021-07-26T18:38:55.61Z",
+        "active_ind": "Y",
+        "file_manager_id": "075a3082-2bd8-4440-8f25-2121b8563509",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/POL 001 Rick Scott  20210723162306037",
+        "entity_id": "60165",
+        "source_service_code": "TV",
+        "callsign": "WJAN-CD",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1706373607441039400,
+        "score": 0.24995705
+      },
       {
         "id": "c2b1ba39-8ac9-80a0-7e6a-2e5012de0691",
         "file_id": "c2b1ba39-8ac9-80a0-7e6a-2e5012de0691",
@@ -216,30 +238,6 @@
         "campaign_year": "2021",
         "_version_": 1706372031024464000,
         "score": 0.24995705
-      },
-      {
-        "id": "e4b29b00-f2db-de70-c8a9-6a7f35a6d13f",
-        "file_id": "e4b29b00-f2db-de70-c8a9-6a7f35a6d13f",
-        "file_name": "Protect Freedom PAC-Inv 8320022-2021-07-18-WSYX 6.3",
-        "file_extension": "pdf",
-        "file_size": 140042,
-        "file_status": "com_cpy",
-        "folder_id": "1503098b-cfcc-e970-453b-7985041832f0",
-        "create_ts": "2021-07-26T18:11:11.866Z",
-        "last_update_ts": "2021-07-26T18:12:32.803Z",
-        "active_ind": "Y",
-        "file_manager_id": "25e35f9e-500a-4493-a048-e1c59967f8d0",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Protect Freedom PAC",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Protect Freedom PAC/Protect Freedom PAC-Inv 8320022-2021-07-18-WSYX 6.3",
-        "entity_id": "56549",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "COLUMBUS OH",
-        "callsign": "WSYX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1706371917782450200,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -417,7 +415,7 @@
         "2018": 68215,
         "2019": 14266,
         "2020": 126459,
-        "2021": 9386,
+        "2021": 9387,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -457,7 +455,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231494,
+        "TV": 231495,
         "CABLE": 111108,
         "FM": 106123,
         "AM": 39599,
@@ -465,7 +463,7 @@
       },
       "political_file_type": {
         "PA": 216582,
-        "NCIA": 112500
+        "NCIA": 112501
       }
     }
   },
@@ -481,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1692,
-    "processTime": 700,
-    "responseTime": 1701
+    "queryTime": 1687,
+    "processTime": 695,
+    "responseTime": 1696
   }
 }
