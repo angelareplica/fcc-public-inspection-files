@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 493384,
+    "numFound": 493386,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "d01a8dba-331a-f197-9c65-e4fc8e7e3a86",
+        "file_id": "d01a8dba-331a-f197-9c65-e4fc8e7e3a86",
+        "file_name": "WGEM-GGEM-EGEM-HGEM Quincy Political Disclosure Statement 110420-2021 Illinois -CURRENT (003)",
+        "file_extension": "pdf",
+        "file_size": 100560,
+        "file_status": "com_cpy",
+        "folder_id": "8376ec0c-22df-1d70-3148-f1155ad92301",
+        "create_ts": "2021-07-27T18:51:21.152Z",
+        "last_update_ts": "2021-07-27T18:52:42.695Z",
+        "active_ind": "Y",
+        "file_manager_id": "62370393-24dc-4561-8f9f-e2c0e48a0b24",
+        "file_folder_path": "Political Files/2020/Terms and Disclosures",
+        "full_qualified_file_name": "Political Files/2020/Terms and Disclosures/WGEM-GGEM-EGEM-HGEM Quincy Political Disclosure Statement 110420-2021 Illinois -CURRENT (003)",
+        "entity_id": "54275",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "QUINCY-HANNIBAL-KEOKUK",
+        "callsign": "WGEM-TV",
+        "political_file_type": "PA",
+        "campaign_year": "2020",
+        "_version_": 1706465041218273300,
+        "score": 0.24995705
+      },
+      {
+        "id": "56416f74-1518-bbe3-8074-99cf3950dc31",
+        "file_id": "56416f74-1518-bbe3-8074-99cf3950dc31",
+        "file_name": "WGEM-GGEM-EGEM-HGEM Quincy Political Disclosure Statement 110420-2021 Illinois -CURRENT (003)",
+        "file_extension": "pdf",
+        "file_size": 100560,
+        "file_status": "com_cpy",
+        "folder_id": "283d37ed-1259-ea15-e70f-c1d63ce80eee",
+        "create_ts": "2021-07-27T18:50:40.12Z",
+        "last_update_ts": "2021-07-27T18:51:32.761Z",
+        "active_ind": "Y",
+        "file_manager_id": "d7ae44e2-e6d4-4c43-b2c4-50e443bb0a8b",
+        "file_folder_path": "Political Files/2021/Terms and Disclosures",
+        "full_qualified_file_name": "Political Files/2021/Terms and Disclosures/WGEM-GGEM-EGEM-HGEM Quincy Political Disclosure Statement 110420-2021 Illinois -CURRENT (003)",
+        "entity_id": "54275",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "QUINCY-HANNIBAL-KEOKUK",
+        "callsign": "WGEM-TV",
+        "political_file_type": "PA",
+        "campaign_year": "2021",
+        "_version_": 1706464997999116300,
+        "score": 0.24995705
+      },
       {
         "id": "1be5c092-c502-a287-50cd-ef9a8aa1197b",
         "file_id": "1be5c092-c502-a287-50cd-ef9a8aa1197b",
@@ -193,54 +241,6 @@
         "campaign_year": "2021",
         "_version_": 1706461812757627000,
         "score": 0.24995705
-      },
-      {
-        "id": "d0dd4f64-ffa9-ecaa-ee45-e5c6064d5165",
-        "file_id": "d0dd4f64-ffa9-ecaa-ee45-e5c6064d5165",
-        "file_name": "INVOICE AARP WRAL EST 9939 053121-053121 281923-2",
-        "file_extension": "pdf",
-        "file_size": 18267,
-        "file_status": "com_cpy",
-        "folder_id": "d9223a66-1532-2c5e-7100-f8f8ad62a469",
-        "create_ts": "2021-07-27T17:58:22.279Z",
-        "last_update_ts": "2021-07-27T17:59:43.52Z",
-        "active_ind": "Y",
-        "file_manager_id": "92af6c7e-7dce-41d0-958a-546487ccf2f8",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AARP/EST 9939",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AARP/EST 9939/INVOICE AARP WRAL EST 9939 053121-053121 281923-2",
-        "entity_id": "8688",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "RALEIGH-DURHAM (FAYETVLLE)",
-        "callsign": "WRAL-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1706461707616911400,
-        "score": 0.24995705
-      },
-      {
-        "id": "2459a0d3-aad5-e9d1-94eb-3da37c5c5fb0",
-        "file_id": "2459a0d3-aad5-e9d1-94eb-3da37c5c5fb0",
-        "file_name": "INVOICE AARP WRAL EST 9939 042621-053021 281923-1",
-        "file_extension": "pdf",
-        "file_size": 18724,
-        "file_status": "com_cpy",
-        "folder_id": "d9223a66-1532-2c5e-7100-f8f8ad62a469",
-        "create_ts": "2021-07-27T17:58:22.279Z",
-        "last_update_ts": "2021-07-27T17:59:14.78Z",
-        "active_ind": "Y",
-        "file_manager_id": "d43a797f-6908-4ad3-bcbc-70b34b7a9fd3",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AARP/EST 9939",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AARP/EST 9939/INVOICE AARP WRAL EST 9939 042621-053021 281923-1",
-        "entity_id": "8688",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "RALEIGH-DURHAM (FAYETVLLE)",
-        "callsign": "WRAL-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1706461707619008500,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -274,7 +274,7 @@
         "CHICAGO": 2484,
         "FRESNO-VISALIA": 2426,
         "SAVANNAH": 2391,
-        "QUINCY-HANNIBAL-KEOKUK": 2381,
+        "QUINCY-HANNIBAL-KEOKUK": 2383,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
         "Greenville-Spartanburg-Asheville-Anderson": 2166,
         "TAMPA-ST. PETE (SARASOTA)": 2148,
@@ -348,7 +348,7 @@
       },
       "network_affiliation": {
         "ABC": 56641,
-        "NBC": 55495,
+        "NBC": 55497,
         "CBS": 37612,
         "FOX": 27029,
         "PBS": 13932,
@@ -417,8 +417,8 @@
         "2017": 10346,
         "2018": 68215,
         "2019": 14266,
-        "2020": 126459,
-        "2021": 9448,
+        "2020": 126460,
+        "2021": 9449,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -458,14 +458,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231542,
+        "TV": 231544,
         "CABLE": 111113,
         "FM": 106131,
         "AM": 39604,
         "DBS": 4994
       },
       "political_file_type": {
-        "PA": 216592,
+        "PA": 216594,
         "NCIA": 112552
       }
     }
@@ -482,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1686,
-    "processTime": 694,
-    "responseTime": 1695
+    "queryTime": 206,
+    "processTime": 215,
+    "responseTime": 215
   }
 }
