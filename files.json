@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 493341,
+    "numFound": 493342,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "9a244f97-fa7c-df70-1886-f3fdc12363ed",
+        "file_id": "9a244f97-fa7c-df70-1886-f3fdc12363ed",
+        "file_name": "LOCV 0727-0802 - 3133806 NAB",
+        "file_extension": "pdf",
+        "file_size": 311027,
+        "file_status": "com_cpy",
+        "folder_id": "9907cca1-ceeb-1625-ce6f-3a2cd1dfffa7",
+        "create_ts": "2021-07-27T15:20:04.823Z",
+        "last_update_ts": "2021-07-27T15:21:26.457Z",
+        "active_ind": "Y",
+        "file_manager_id": "48348b4f-6011-4544-a7df-451d4a612f5a",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/LOCV League of Conservation Voters/NAB Forms",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/LOCV League of Conservation Voters/NAB Forms/LOCV 0727-0802 - 3133806 NAB",
+        "entity_id": "35042",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KLAS-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1706451749295882200,
+        "score": 0.24995705
+      },
       {
         "id": "59ee36fb-9e2d-50c3-e727-8eac0cec3515",
         "file_id": "59ee36fb-9e2d-50c3-e727-8eac0cec3515",
@@ -223,30 +247,6 @@
         "campaign_year": "2021",
         "_version_": 1706393899897979000,
         "score": 0.24995705
-      },
-      {
-        "id": "dc6e07eb-048a-401d-3648-d952adc4bf10",
-        "file_id": "dc6e07eb-048a-401d-3648-d952adc4bf10",
-        "file_name": "Issue_StopGOPNewsomRecall_2533_080221-091921",
-        "file_extension": "pdf",
-        "file_size": 283336,
-        "file_status": "com_cpy",
-        "folder_id": "e6ab2836-b341-041c-34bf-e458ccf2ae4d",
-        "create_ts": "2021-07-26T23:32:58.546Z",
-        "last_update_ts": "2021-07-26T23:34:19.711Z",
-        "active_ind": "Y",
-        "file_manager_id": "268d02f6-6890-45e3-b32c-cd9ba940911e",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Stop Republic Recall of Gov Newsom",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Stop Republic Recall of Gov Newsom/Issue_StopGOPNewsomRecall_2533_080221-091921",
-        "entity_id": "35594",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "FRESNO-VISALIA",
-        "callsign": "KSEE",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1706392162436907000,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -255,7 +255,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7031,
         "WILKES BARRE-SCRANTON": 6627,
         "WEST PALM BEACH-FT. PIERCE": 5745,
-        "LAS VEGAS": 5629,
+        "LAS VEGAS": 5630,
         "PITTSBURGH": 5297,
         "HONOLULU": 5188,
         "DULUTH-SUPERIOR": 4644,
@@ -355,7 +355,7 @@
       "network_affiliation": {
         "ABC": 56632,
         "NBC": 55487,
-        "CBS": 37611,
+        "CBS": 37612,
         "FOX": 27023,
         "PBS": 13932,
         "CW": 11899,
@@ -424,7 +424,7 @@
         "2018": 68215,
         "2019": 14266,
         "2020": 126459,
-        "2021": 9412,
+        "2021": 9413,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -464,7 +464,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231512,
+        "TV": 231513,
         "CABLE": 111108,
         "FM": 106126,
         "AM": 39601,
@@ -472,7 +472,7 @@
       },
       "political_file_type": {
         "PA": 216591,
-        "NCIA": 112517
+        "NCIA": 112518
       }
     }
   },
@@ -488,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 201,
-    "processTime": 209,
-    "responseTime": 210
+    "queryTime": 206,
+    "processTime": 215,
+    "responseTime": 215
   }
 }
