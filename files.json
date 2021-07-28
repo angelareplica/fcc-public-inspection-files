@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 493430,
+    "numFound": 493432,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "6c65f998-5d34-7977-c9dd-d48700bde319",
+        "file_id": "6c65f998-5d34-7977-c9dd-d48700bde319",
+        "file_name": "2021 Disclosure statement Primary  page 2",
+        "file_extension": "doc",
+        "file_size": 174080,
+        "file_status": "com_prc",
+        "folder_id": "87b3411b-72fe-81d0-2894-2ba3520ec80e",
+        "create_ts": "2021-07-28T17:06:43.109Z",
+        "last_update_ts": "2021-07-28T17:08:07.66Z",
+        "active_ind": "Y",
+        "file_manager_id": "cc797203-fdc0-4912-a5cb-4328dae9bc09",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2021 Disclosure statement Primary  page 2",
+        "entity_id": "22974",
+        "source_service_code": "FM",
+        "callsign": "KHSL-FM",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1706549057868005400,
+        "score": 0.00012497853
+      },
+      {
+        "id": "ba77ce5d-d5f4-7189-7e03-b6b499f830bf",
+        "file_id": "ba77ce5d-d5f4-7189-7e03-b6b499f830bf",
+        "file_name": "2021  Disclosure statement Primary  Page 1",
+        "file_extension": "doc",
+        "file_size": 174080,
+        "file_status": "com_prc",
+        "folder_id": "87b3411b-72fe-81d0-2894-2ba3520ec80e",
+        "create_ts": "2021-07-28T17:06:43.109Z",
+        "last_update_ts": "2021-07-28T17:07:38.589Z",
+        "active_ind": "Y",
+        "file_manager_id": "08884720-611c-4d8c-8006-6882645f37f5",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2021  Disclosure statement Primary  Page 1",
+        "entity_id": "22974",
+        "source_service_code": "FM",
+        "callsign": "KHSL-FM",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1706549057656193000,
+        "score": 0.00012497853
+      },
       {
         "id": "b245bb48-bd8d-1815-d2da-562aca74780a",
         "file_id": "b245bb48-bd8d-1815-d2da-562aca74780a",
@@ -176,52 +218,6 @@
         "callsign": "WNWC",
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1706544894075469800,
-        "score": 0.24995705
-      },
-      {
-        "id": "c7e9941c-7d27-51a8-5494-60838ee13925",
-        "file_id": "c7e9941c-7d27-51a8-5494-60838ee13925",
-        "file_name": "TONY DUGHAISH MOBILE CITY COUNCIL DIST 6 REV ORDER CONFIRMATION 07.28.21",
-        "file_extension": "pdf",
-        "file_size": 2162571,
-        "file_status": "com_cpy",
-        "folder_id": "4ba7020e-98bb-8b4b-5cb0-1c0cfa511166",
-        "create_ts": "2021-07-28T15:49:48.447Z",
-        "last_update_ts": "2021-07-28T15:51:10.864Z",
-        "active_ind": "Y",
-        "file_manager_id": "39d3885a-c511-45bf-9557-bc6130319f75",
-        "file_folder_path": "Political Files/2021/Local/TONY DUGHAISH CITY COUNCIL 6",
-        "full_qualified_file_name": "Political Files/2021/Local/TONY DUGHAISH CITY COUNCIL 6/TONY DUGHAISH MOBILE CITY COUNCIL DIST 6 REV ORDER CONFIRMATION 07.28.21",
-        "entity_id": "3636",
-        "source_service_code": "FM",
-        "callsign": "WAVH",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1706544216837980200,
-        "score": 0.24995705
-      },
-      {
-        "id": "42acbf06-1b99-d38d-796b-56713b95ef48",
-        "file_id": "42acbf06-1b99-d38d-796b-56713b95ef48",
-        "file_name": "ANNUAL EEO PUBLIC FILE REPORT July 31 2019 (002)",
-        "file_extension": "doc",
-        "file_size": 77824,
-        "file_status": "com_prc",
-        "folder_id": "9dbb05db-277a-11bc-3cb4-b09eef85e091",
-        "create_ts": "2019-07-26T20:18:56.655Z",
-        "last_update_ts": "2021-07-28T14:08:07.722Z",
-        "active_ind": "Y",
-        "file_manager_id": "202792bf-69c0-46b0-9c72-a1a3a5fc8a18",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/EEO Public File Reports",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/EEO Public File Reports/ANNUAL EEO PUBLIC FILE REPORT July 31 2019 (002)",
-        "entity_id": "71561",
-        "source_service_code": "TV",
-        "network_affiliation": "PBS",
-        "nielsen_dma_rank": "QUINCY-HANNIBAL-KEOKUK",
-        "callsign": "WQEC",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1706537733424414700,
         "score": 0.24995705
       }
     ],
@@ -414,7 +410,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54202,
         "Issues and Programs Lists": 42742,
-        "Equal Employment Opportunity Records": 36737,
+        "Equal Employment Opportunity Records": 36739,
         "Donor Lists - Applicable Only for NCEs": 11132,
         "FCC Authorizations": 7055,
         "Local Public Notice Announcements": 1658,
@@ -442,7 +438,7 @@
       "source_service_code": {
         "TV": 231564,
         "CABLE": 111113,
-        "FM": 106144,
+        "FM": 106146,
         "AM": 39614,
         "DBS": 4995
       },
@@ -464,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 212,
-    "responseTime": 212
+    "queryTime": 1696,
+    "processTime": 703,
+    "responseTime": 1703
   }
 }
