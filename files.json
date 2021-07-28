@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 493474,
+    "numFound": 493475,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "e5ceba7e-f8cd-6fb9-a3c7-0b405d686a31",
+        "file_id": "e5ceba7e-f8cd-6fb9-a3c7-0b405d686a31",
+        "file_name": "Woodfin 0729 to 0802",
+        "file_extension": "pdf",
+        "file_size": 881675,
+        "file_status": "com_cpy",
+        "folder_id": "99eae898-4ce2-e460-0d7a-17c11313130f",
+        "create_ts": "2021-07-28T20:24:26.296Z",
+        "last_update_ts": "2021-07-28T20:25:49.851Z",
+        "active_ind": "Y",
+        "file_manager_id": "cfc7a6ba-6794-4c32-a9f0-a5403291f6bd",
+        "file_folder_path": "Political Files/2021/Local/Mayor/Woodfin",
+        "full_qualified_file_name": "Political Files/2021/Local/Mayor/Woodfin/Woodfin 0729 to 0802",
+        "entity_id": "5360",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
+        "callsign": "WIAT",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1706561496217026600,
+        "score": 0.24995705
+      },
       {
         "id": "d7cf3bf9-899b-6054-52ae-7941020d6cc0",
         "file_id": "d7cf3bf9-899b-6054-52ae-7941020d6cc0",
@@ -198,28 +223,6 @@
         "campaign_year": "2021",
         "_version_": 1706558769140334600,
         "score": 0.24995705
-      },
-      {
-        "id": "eb2a2a3f-140e-8042-35dd-a17b2d1d597f",
-        "file_id": "eb2a2a3f-140e-8042-35dd-a17b2d1d597f",
-        "file_name": "One Nation 52165 INVOICE 072521",
-        "file_extension": "pdf",
-        "file_size": 30534,
-        "file_status": "com_cpy",
-        "folder_id": "38cfaedf-4b42-dcca-c3c7-778d99f04bf7",
-        "create_ts": "2021-07-28T19:40:31.876Z",
-        "last_update_ts": "2021-07-28T19:41:24.75Z",
-        "active_ind": "Y",
-        "file_manager_id": "19c6609e-1ad0-45f4-bac2-71799bdfa0ce",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/One Nation 52165",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/One Nation 52165/One Nation 52165 INVOICE 072521",
-        "entity_id": "47105",
-        "source_service_code": "FM",
-        "callsign": "WTLP",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1706558731948392400,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -257,7 +260,7 @@
         "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
         "Greenville-Spartanburg-Asheville-Anderson": 2166,
         "TAMPA-ST. PETE (SARASOTA)": 2148,
-        "BIRMINGHAM (ANN TUSC)": 2135,
+        "BIRMINGHAM (ANN TUSC)": 2136,
         "PEORIA-BLOOMINGTON": 2115,
         "LEXINGTON": 2077,
         "PHILADELPHIA": 2009,
@@ -328,7 +331,7 @@
       "network_affiliation": {
         "ABC": 56645,
         "NBC": 55506,
-        "CBS": 37617,
+        "CBS": 37618,
         "FOX": 27032,
         "PBS": 13935,
         "CW": 11901,
@@ -397,7 +400,7 @@
         "2018": 68213,
         "2019": 14266,
         "2020": 126460,
-        "2021": 9520,
+        "2021": 9521,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -406,7 +409,7 @@
         "US Senate": 48292,
         "US House": 41539,
         "Presidential": 39285,
-        "Local": 22610
+        "Local": 22611
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54202,
@@ -437,14 +440,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231568,
+        "TV": 231569,
         "CABLE": 111113,
         "FM": 106175,
         "AM": 39623,
         "DBS": 4995
       },
       "political_file_type": {
-        "PA": 216624,
+        "PA": 216625,
         "NCIA": 112591
       }
     }
@@ -461,8 +464,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1692,
-    "processTime": 701,
-    "responseTime": 1701
+    "queryTime": 1690,
+    "processTime": 695,
+    "responseTime": 1696
   }
 }
