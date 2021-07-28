@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 493423,
+    "numFound": 493424,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "c7e9941c-7d27-51a8-5494-60838ee13925",
+        "file_id": "c7e9941c-7d27-51a8-5494-60838ee13925",
+        "file_name": "TONY DUGHAISH MOBILE CITY COUNCIL DIST 6 REV ORDER CONFIRMATION 07.28.21",
+        "file_extension": "pdf",
+        "file_size": 2162571,
+        "file_status": "com_cpy",
+        "folder_id": "4ba7020e-98bb-8b4b-5cb0-1c0cfa511166",
+        "create_ts": "2021-07-28T15:49:48.447Z",
+        "last_update_ts": "2021-07-28T15:51:10.864Z",
+        "active_ind": "Y",
+        "file_manager_id": "39d3885a-c511-45bf-9557-bc6130319f75",
+        "file_folder_path": "Political Files/2021/Local/TONY DUGHAISH CITY COUNCIL 6",
+        "full_qualified_file_name": "Political Files/2021/Local/TONY DUGHAISH CITY COUNCIL 6/TONY DUGHAISH MOBILE CITY COUNCIL DIST 6 REV ORDER CONFIRMATION 07.28.21",
+        "entity_id": "3636",
+        "source_service_code": "FM",
+        "callsign": "WAVH",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1706544216837980200,
+        "score": 0.24995705
+      },
       {
         "id": "42acbf06-1b99-d38d-796b-56713b95ef48",
         "file_id": "42acbf06-1b99-d38d-796b-56713b95ef48",
@@ -210,27 +233,6 @@
         "non_political_file_folder": "FCC Authorizations",
         "_version_": 1706535458142421000,
         "score": 0.24995705
-      },
-      {
-        "id": "b5ef4f3d-f638-1e78-1f5c-7135e5e25902",
-        "file_id": "b5ef4f3d-f638-1e78-1f5c-7135e5e25902",
-        "file_name": "InfoTrak_wknd_of_04-03-21_295_min_issues_sheet",
-        "file_extension": "pdf",
-        "file_size": 101404,
-        "file_status": "com_cpy",
-        "folder_id": "dcd22b2b-3311-de1b-8ff1-91524886753c",
-        "create_ts": "2021-07-28T13:29:05.188Z",
-        "last_update_ts": "2021-07-28T13:30:26.837Z",
-        "active_ind": "Y",
-        "file_manager_id": "571ba424-0c6d-4c73-8583-6ddcdabc69fb",
-        "file_folder_path": "FCC Authorizations/Additional Documents",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/InfoTrak_wknd_of_04-03-21_295_min_issues_sheet",
-        "entity_id": "63979",
-        "source_service_code": "AM",
-        "callsign": "WIGN",
-        "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1706535362676916200,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -408,7 +410,7 @@
         "2018": 68215,
         "2019": 14266,
         "2020": 126460,
-        "2021": 9475,
+        "2021": 9476,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -417,7 +419,7 @@
         "US Senate": 48292,
         "US House": 41538,
         "Presidential": 39285,
-        "Local": 22609
+        "Local": 22610
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54202,
@@ -450,12 +452,12 @@
       "source_service_code": {
         "TV": 231564,
         "CABLE": 111113,
-        "FM": 106138,
+        "FM": 106139,
         "AM": 39613,
         "DBS": 4995
       },
       "political_file_type": {
-        "PA": 216604,
+        "PA": 216605,
         "NCIA": 112568
       }
     }
@@ -472,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1691,
-    "processTime": 700,
-    "responseTime": 1700
+    "queryTime": 208,
+    "processTime": 216,
+    "responseTime": 216
   }
 }
