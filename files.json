@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 493432,
+    "numFound": 493434,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "07ec8463-86cd-159c-f85d-b7797723ed3c",
+        "file_id": "07ec8463-86cd-159c-f85d-b7797723ed3c",
+        "file_name": "KKBO Renewal Card 05052021",
+        "file_extension": "pdf",
+        "file_size": 335003,
+        "file_status": "com_cpy",
+        "folder_id": "cd73b785-cd78-6152-81c8-dcb9162ca266",
+        "create_ts": "2021-07-28T17:41:26.306Z",
+        "last_update_ts": "2021-07-28T17:42:48.084Z",
+        "active_ind": "Y",
+        "file_manager_id": "cedef16a-9b89-4431-aa63-3b6a2222cade",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/KKBO Renewal Card 05052021",
+        "entity_id": "166041",
+        "source_service_code": "FM",
+        "callsign": "KKBO",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1706551239349633000,
+        "score": 0.24995705
+      },
+      {
+        "id": "3679e9e4-a838-b2b3-d581-b8558eee34b4",
+        "file_id": "3679e9e4-a838-b2b3-d581-b8558eee34b4",
+        "file_name": "KXRV Renewal Card 05052021",
+        "file_extension": "pdf",
+        "file_size": 335009,
+        "file_status": "com_cpy",
+        "folder_id": "f812816f-04de-e301-26c0-5d0107f3936d",
+        "create_ts": "2021-07-28T17:39:42.111Z",
+        "last_update_ts": "2021-07-28T17:40:35.119Z",
+        "active_ind": "Y",
+        "file_manager_id": "5ddb4a93-bde1-4530-9043-ee4b9391f1d4",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/KXRV Renewal Card 05052021",
+        "entity_id": "165952",
+        "source_service_code": "FM",
+        "callsign": "KXRV",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1706551130180288500,
+        "score": 0.24995705
+      },
       {
         "id": "6c65f998-5d34-7977-c9dd-d48700bde319",
         "file_id": "6c65f998-5d34-7977-c9dd-d48700bde319",
@@ -177,48 +219,6 @@
         "campaign_year": "2021",
         "_version_": 1706546781347643400,
         "score": 0.00012497853
-      },
-      {
-        "id": "b4e5037e-8b05-084d-6d51-e1eb8725a0b6",
-        "file_id": "b4e5037e-8b05-084d-6d51-e1eb8725a0b6",
-        "file_name": "08-01-2021 EEO Report Madison",
-        "file_extension": "pdf",
-        "file_size": 246765,
-        "file_status": "com_cpy",
-        "folder_id": "d2869e5e-aaa9-198c-6568-3fb2e03e1a20",
-        "create_ts": "2021-07-28T16:03:04.141Z",
-        "last_update_ts": "2021-07-28T16:04:26.115Z",
-        "active_ind": "Y",
-        "file_manager_id": "ade6ba3e-cbd1-4b0a-bef0-cee8a8759d60",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2021 EEO Report",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2021 EEO Report/08-01-2021 EEO Report Madison",
-        "entity_id": "49781",
-        "source_service_code": "FM",
-        "callsign": "WNWC-FM",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1706545051205632000,
-        "score": 0.24995705
-      },
-      {
-        "id": "20c25976-a158-ce65-8d51-6e2eb2e8ff7d",
-        "file_id": "20c25976-a158-ce65-8d51-6e2eb2e8ff7d",
-        "file_name": "08-01-2021 EEO Report Madison",
-        "file_extension": "pdf",
-        "file_size": 246765,
-        "file_status": "com_cpy",
-        "folder_id": "02d33e33-367d-374e-757f-a1ba5bcaaca0",
-        "create_ts": "2021-07-28T16:00:34.32Z",
-        "last_update_ts": "2021-07-28T16:01:56.717Z",
-        "active_ind": "Y",
-        "file_manager_id": "22e3584f-0c00-4858-8d68-4759fda011a8",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2021",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2021/08-01-2021 EEO Report Madison",
-        "entity_id": "17381",
-        "source_service_code": "AM",
-        "callsign": "WNWC",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1706544894075469800,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -412,7 +412,7 @@
         "Issues and Programs Lists": 42742,
         "Equal Employment Opportunity Records": 36739,
         "Donor Lists - Applicable Only for NCEs": 11132,
-        "FCC Authorizations": 7055,
+        "FCC Authorizations": 7057,
         "Local Public Notice Announcements": 1658,
         "Availability of Signals": 1504,
         "Applications and Related Materials": 1494,
@@ -438,7 +438,7 @@
       "source_service_code": {
         "TV": 231564,
         "CABLE": 111113,
-        "FM": 106146,
+        "FM": 106148,
         "AM": 39614,
         "DBS": 4995
       },
@@ -460,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1696,
-    "processTime": 703,
-    "responseTime": 1703
+    "queryTime": 205,
+    "processTime": 212,
+    "responseTime": 212
   }
 }
