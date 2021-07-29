@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 493500,
+    "numFound": 493501,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "a0bf09e6-5d3f-1a7d-27f5-4da39bcaa60e",
+        "file_id": "a0bf09e6-5d3f-1a7d-27f5-4da39bcaa60e",
+        "file_name": "KIST-FM Public Affairs Programming Log 03-14 JF",
+        "file_extension": "docx",
+        "file_size": 19659,
+        "file_status": "com_prc",
+        "folder_id": "8582f822-caf0-d24d-496f-48a3a5a4daec",
+        "create_ts": "2021-07-29T06:54:48.141Z",
+        "last_update_ts": "2021-07-29T06:55:44.996Z",
+        "active_ind": "Y",
+        "file_manager_id": "1dcb3fbb-d8a7-4292-aee9-803d4c31e78e",
+        "file_folder_path": "Issues and Programs Lists/Issue Program List 2014 - 1st and 2nd Qtr Updated",
+        "full_qualified_file_name": "Issues and Programs Lists/Issue Program List 2014 - 1st and 2nd Qtr Updated/KIST-FM Public Affairs Programming Log 03-14 JF",
+        "entity_id": "31434",
+        "source_service_code": "FM",
+        "callsign": "KIST-FM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1706601157420384300,
+        "score": 0.24995705
+      },
       {
         "id": "6e71e664-aeb8-7994-8033-1f5cd3220535",
         "file_id": "6e71e664-aeb8-7994-8033-1f5cd3220535",
@@ -198,28 +219,6 @@
         "campaign_year": "2021",
         "_version_": 1706565932824920000,
         "score": 0.24995705
-      },
-      {
-        "id": "56daff69-fec6-1072-14a3-2c904dbce90b",
-        "file_id": "56daff69-fec6-1072-14a3-2c904dbce90b",
-        "file_name": "2021 AB Foundation 07272021, order Est 3563, NAB Form, Proof of Payment",
-        "file_extension": "pdf",
-        "file_size": 1276464,
-        "file_status": "com_cpy",
-        "folder_id": "7fcec08e-1c59-78b8-278a-f33656dcc30f",
-        "create_ts": "2021-07-28T21:33:00.086Z",
-        "last_update_ts": "2021-07-28T21:33:53.407Z",
-        "active_ind": "Y",
-        "file_manager_id": "ec06de5a-aff3-48ab-a0b4-95dbfa821cb9",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/2021 AB Foundation 07272021, order Est 3563, NAB Form, Proof of Payment",
-        "entity_id": "88753",
-        "source_service_code": "FM",
-        "callsign": "WPZX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1706565808389357600,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -410,7 +409,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54202,
-        "Issues and Programs Lists": 42749,
+        "Issues and Programs Lists": 42750,
         "Equal Employment Opportunity Records": 36739,
         "Donor Lists - Applicable Only for NCEs": 11132,
         "FCC Authorizations": 7057,
@@ -439,7 +438,7 @@
       "source_service_code": {
         "TV": 231579,
         "CABLE": 111114,
-        "FM": 106188,
+        "FM": 106189,
         "AM": 39624,
         "DBS": 4995
       },
@@ -461,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1695,
-    "processTime": 719,
-    "responseTime": 1720
+    "queryTime": 205,
+    "processTime": 212,
+    "responseTime": 212
   }
 }
