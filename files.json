@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 493593,
+    "numFound": 493592,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
@@ -452,7 +452,7 @@
         "Class A TV Continuing Eligibility": 623,
         "Political Matters and Controversial Issues Disclosures": 550,
         "State and Local Franchising Related Materials": 468,
-        "Time Brokerage Agreements": 396,
+        "Time Brokerage Agreements": 395,
         "Channels Delivered": 275,
         "Compatibility with Consumer Electronics Equipment": 142,
         "Information on Third-Party Fundraising - For NCE Stations Only": 85,
@@ -468,7 +468,7 @@
         "TV": 231631,
         "CABLE": 111114,
         "FM": 106214,
-        "AM": 39636,
+        "AM": 39635,
         "DBS": 4998
       },
       "political_file_type": {
@@ -489,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1696,
-    "processTime": 707,
-    "responseTime": 1707
+    "queryTime": 1700,
+    "processTime": 708,
+    "responseTime": 1708
   }
 }
