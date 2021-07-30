@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 493744,
+    "numFound": 493745,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "97422357-6e26-1407-9478-77dc48266fd0",
+        "file_id": "97422357-6e26-1407-9478-77dc48266fd0",
+        "file_name": "AB Foundation 07-30-21",
+        "file_extension": "pdf",
+        "file_size": 310404,
+        "file_status": "com_cpy",
+        "folder_id": "c6db6bc6-d5b0-cc05-c94a-e8ab26a0951b",
+        "create_ts": "2021-07-30T21:32:13.008Z",
+        "last_update_ts": "2021-07-30T21:33:35.969Z",
+        "active_ind": "Y",
+        "file_manager_id": "32f65dca-6a4b-4fcc-bc41-73fdb93debc9",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation/AB Foundation 07-30-21",
+        "entity_id": "37174",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SAVANNAH",
+        "callsign": "WJCL",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1706746952787427300,
+        "score": 0.24995705
+      },
       {
         "id": "e9dbbb77-2624-cce7-4291-e80a24074a6e",
         "file_id": "e9dbbb77-2624-cce7-4291-e80a24074a6e",
@@ -223,30 +247,6 @@
         "campaign_year": "2021",
         "_version_": 1706745052460482600,
         "score": 0.24995705
-      },
-      {
-        "id": "a573c3a5-7b5e-80d9-caf1-33f2627d52d2",
-        "file_id": "a573c3a5-7b5e-80d9-caf1-33f2627d52d2",
-        "file_name": "CASM NAB 073021 - 080921",
-        "file_extension": "pdf",
-        "file_size": 1090626,
-        "file_status": "com_cpy",
-        "folder_id": "6bd0494f-62fd-43f3-bdc1-b14417da6e97",
-        "create_ts": "2021-07-30T20:55:24.657Z",
-        "last_update_ts": "2021-07-30T20:56:18.58Z",
-        "active_ind": "Y",
-        "file_manager_id": "e0f80340-5cd5-4a9a-81db-4448b13655ad",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/CASM",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/CASM/CASM NAB 073021 - 080921",
-        "entity_id": "1051",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "WASHINGTON DC (HAGRSTWN)",
-        "callsign": "WJLA-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1706744637295689700,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -279,7 +279,7 @@
         "GREENSBORO-H.POINT-W.SALEM": 2517,
         "CHICAGO": 2484,
         "FRESNO-VISALIA": 2428,
-        "SAVANNAH": 2392,
+        "SAVANNAH": 2393,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
         "Greenville-Spartanburg-Asheville-Anderson": 2166,
@@ -353,7 +353,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56672,
+        "ABC": 56673,
         "NBC": 55556,
         "CBS": 37630,
         "FOX": 27033,
@@ -424,7 +424,7 @@
         "2018": 68209,
         "2019": 14266,
         "2020": 126472,
-        "2021": 9656,
+        "2021": 9657,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -464,7 +464,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231669,
+        "TV": 231670,
         "CABLE": 111138,
         "FM": 106291,
         "AM": 39645,
@@ -472,7 +472,7 @@
       },
       "political_file_type": {
         "PA": 216675,
-        "NCIA": 112684
+        "NCIA": 112685
       }
     }
   },
@@ -488,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1692,
-    "processTime": 701,
-    "responseTime": 1702
+    "queryTime": 1696,
+    "processTime": 706,
+    "responseTime": 1707
   }
 }
