@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 493687,
+    "numFound": 493688,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "349414ff-4c1c-a290-8931-7fccca406e31",
+        "file_id": "349414ff-4c1c-a290-8931-7fccca406e31",
+        "file_name": "NI Citizens for Responsible Ene WITZ-FM 080221",
+        "file_extension": "pdf",
+        "file_size": 323918,
+        "file_status": "com_cpy",
+        "folder_id": "56d5829b-71bf-2e75-7f8a-18e86b505d84",
+        "create_ts": "2021-07-30T18:43:59.783Z",
+        "last_update_ts": "2021-07-30T18:44:53.518Z",
+        "active_ind": "Y",
+        "file_manager_id": "01308824-6a4f-4c5f-805c-cbe2e656263a",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/NI Citizens for Responsible Ene WITZ-FM 080221",
+        "entity_id": "30584",
+        "source_service_code": "FM",
+        "callsign": "WITZ-FM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1706736369237229600,
+        "score": 0.24995705
+      },
       {
         "id": "897d5892-b0cd-6c43-455d-8f2e80c06ad4",
         "file_id": "897d5892-b0cd-6c43-455d-8f2e80c06ad4",
@@ -205,27 +227,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1706728856253104000,
         "score": 0.24995705
-      },
-      {
-        "id": "1de5d5ef-c88b-debe-d1cb-7a031a13451d",
-        "file_id": "1de5d5ef-c88b-debe-d1cb-7a031a13451d",
-        "file_name": "PSA ROTATION 0919",
-        "file_extension": "pdf",
-        "file_size": 61820,
-        "file_status": "com_cpy",
-        "folder_id": "703e3ec2-588e-409e-62c3-1bc19723db2c",
-        "create_ts": "2021-07-30T16:44:34.914Z",
-        "last_update_ts": "2021-07-30T16:45:57.671Z",
-        "active_ind": "Y",
-        "file_manager_id": "6eef5545-ffb6-434a-a1ef-ba07b6cce2e7",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/PSA ROTATION 0919",
-        "entity_id": "166070",
-        "source_service_code": "FM",
-        "callsign": "KQMX",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1706728856255201300,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -403,7 +404,7 @@
         "2018": 68209,
         "2019": 14266,
         "2020": 126472,
-        "2021": 9606,
+        "2021": 9607,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -445,13 +446,13 @@
       "source_service_code": {
         "TV": 231646,
         "CABLE": 111115,
-        "FM": 106286,
+        "FM": 106287,
         "AM": 39642,
         "DBS": 4998
       },
       "political_file_type": {
         "PA": 216667,
-        "NCIA": 112642
+        "NCIA": 112643
       }
     }
   },
@@ -467,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 201,
-    "processTime": 210,
-    "responseTime": 211
+    "queryTime": 1688,
+    "processTime": 696,
+    "responseTime": 1696
   }
 }
