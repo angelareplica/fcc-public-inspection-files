@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 493597,
+    "numFound": 493596,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
@@ -450,7 +450,7 @@
         "Class A TV Continuing Eligibility": 623,
         "Political Matters and Controversial Issues Disclosures": 550,
         "State and Local Franchising Related Materials": 468,
-        "Time Brokerage Agreements": 395,
+        "Time Brokerage Agreements": 394,
         "Channels Delivered": 275,
         "Compatibility with Consumer Electronics Equipment": 142,
         "Information on Third-Party Fundraising - For NCE Stations Only": 85,
@@ -465,7 +465,7 @@
       "source_service_code": {
         "TV": 231635,
         "CABLE": 111115,
-        "FM": 106214,
+        "FM": 106213,
         "AM": 39635,
         "DBS": 4998
       },
@@ -488,7 +488,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 205,
-    "processTime": 212,
-    "responseTime": 212
+    "processTime": 216,
+    "responseTime": 216
   }
 }
