@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 493609,
+    "numFound": 493610,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "9de079b5-356a-cf48-8b5d-891c20088f05",
+        "file_id": "9de079b5-356a-cf48-8b5d-891c20088f05",
+        "file_name": "Nat'l Biodiesel Board 19488 0802 0807 WOBT",
+        "file_extension": "pdf",
+        "file_size": 852688,
+        "file_status": "com_cpy",
+        "folder_id": "cd33a1f4-3263-0a9b-7262-eb44699bf26d",
+        "create_ts": "2021-07-30T14:04:13.568Z",
+        "last_update_ts": "2021-07-30T14:05:08.445Z",
+        "active_ind": "Y",
+        "file_manager_id": "15045710-45fc-4bf7-a41a-6c397c383f8e",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/National Biodiesel Board",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/National Biodiesel Board/Nat'l Biodiesel Board 19488 0802 0807 WOBT",
+        "entity_id": "49801",
+        "source_service_code": "AM",
+        "callsign": "WOBT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1706718768928915500,
+        "score": 0.24995705
+      },
       {
         "id": "84e28a53-fcc0-ebb2-5061-c9f62df03c98",
         "file_id": "84e28a53-fcc0-ebb2-5061-c9f62df03c98",
@@ -194,29 +216,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1706714091805999000,
         "score": 0.24995705
-      },
-      {
-        "id": "43a9cc9d-368c-7152-a58e-1bceffbbd173",
-        "file_id": "43a9cc9d-368c-7152-a58e-1bceffbbd173",
-        "file_name": "Ted Budd for US Senate Log Times 07.29.21",
-        "file_extension": "pdf",
-        "file_size": 71678,
-        "file_status": "com_cpy",
-        "folder_id": "31c8ed7c-4240-e58d-1fa5-69aac72745e2",
-        "create_ts": "2021-07-30T12:46:17.741Z",
-        "last_update_ts": "2021-07-30T12:47:11.233Z",
-        "active_ind": "Y",
-        "file_manager_id": "68324310-754e-4643-9f99-1e988f6ee05b",
-        "file_folder_path": "Political Files/2021/Federal/US Senate",
-        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Ted Budd for US Senate Log Times 07.29.21",
-        "entity_id": "61259",
-        "source_service_code": "FM",
-        "callsign": "WKJO",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2021",
-        "_version_": 1706713864509325300,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -394,7 +393,7 @@
         "2018": 68209,
         "2019": 14266,
         "2020": 126472,
-        "2021": 9600,
+        "2021": 9601,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -437,12 +436,12 @@
         "TV": 231641,
         "CABLE": 111115,
         "FM": 106219,
-        "AM": 39636,
+        "AM": 39637,
         "DBS": 4998
       },
       "political_file_type": {
         "PA": 216667,
-        "NCIA": 112636
+        "NCIA": 112637
       }
     }
   },
@@ -458,8 +457,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 201,
-    "processTime": 208,
-    "responseTime": 208
+    "queryTime": 206,
+    "processTime": 223,
+    "responseTime": 223
   }
 }
