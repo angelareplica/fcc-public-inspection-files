@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 493594,
+    "numFound": 493596,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "67577792-bf36-fb92-ce6d-a5ab60219ef4",
+        "file_id": "67577792-bf36-fb92-ce6d-a5ab60219ef4",
+        "file_name": "Intake Stop the Rep Recall of Governor Newsom_ KFTR Contract 156665 rev 072921",
+        "file_extension": "pdf",
+        "file_size": 1822690,
+        "file_status": "com_cpy",
+        "folder_id": "3d85c8be-43a5-c3a0-3822-bfb74e61bc10",
+        "create_ts": "2021-07-30T06:49:17.304Z",
+        "last_update_ts": "2021-07-30T06:50:40.47Z",
+        "active_ind": "Y",
+        "file_manager_id": "cbf51bf2-4cfd-4802-833a-f9eef131908e",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Stop the Rep Recall Gov Newsom/Contract  156665",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Stop the Rep Recall Gov Newsom/Contract  156665/Intake Stop the Rep Recall of Governor Newsom_ KFTR Contract 156665 rev 072921",
+        "entity_id": "60549",
+        "source_service_code": "TV",
+        "network_affiliation": "UNIMAS",
+        "nielsen_dma_rank": "LOS ANGELES",
+        "callsign": "KFTR-DT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1706691404252577800,
+        "score": 0.24995705
+      },
+      {
+        "id": "8b9b6430-a8ca-7777-a29a-77dcd69db3bd",
+        "file_id": "8b9b6430-a8ca-7777-a29a-77dcd69db3bd",
+        "file_name": "Intake Stop the Rep Recall of Governor Newsom_ KMEX Contract 156666 rev 072921",
+        "file_extension": "pdf",
+        "file_size": 1831211,
+        "file_status": "com_cpy",
+        "folder_id": "ac910cb7-13b9-47bc-fd98-13b5c2c7c2b2",
+        "create_ts": "2021-07-30T06:48:07.952Z",
+        "last_update_ts": "2021-07-30T06:49:01.871Z",
+        "active_ind": "Y",
+        "file_manager_id": "abe64ec7-ad59-400e-a891-a635edc3bf44",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Stop the Rep Recall Gov Newsom/Contract 156666",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Stop the Rep Recall Gov Newsom/Contract 156666/Intake Stop the Rep Recall of Governor Newsom_ KMEX Contract 156666 rev 072921",
+        "entity_id": "35123",
+        "source_service_code": "TV",
+        "network_affiliation": "UNIVISION",
+        "nielsen_dma_rank": "LOS ANGELES",
+        "callsign": "KMEX-DT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1706691331349282800,
+        "score": 0.24995705
+      },
       {
         "id": "787baacc-fdda-debd-811b-04ed2a59f94b",
         "file_id": "787baacc-fdda-debd-811b-04ed2a59f94b",
@@ -197,55 +245,6 @@
         "campaign_year": "2021",
         "_version_": 1706658807642325000,
         "score": 0.24995705
-      },
-      {
-        "id": "929650bb-f052-a1e2-2975-0718149058fb",
-        "file_id": "929650bb-f052-a1e2-2975-0718149058fb",
-        "file_name": "United Mine Workers 5.18-5.30.21 M1 M2",
-        "file_extension": "pdf",
-        "file_size": 733990,
-        "file_status": "com_cpy",
-        "folder_id": "aca8afe6-a0f6-eed4-9b59-8eefa0e8cfb3",
-        "create_ts": "2021-07-29T22:05:24.423Z",
-        "last_update_ts": "2021-07-29T22:06:18.057Z",
-        "active_ind": "Y",
-        "file_manager_id": "ea9266a3-d4ef-4f38-ab40-78d18d756bfb",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/United Mine Workers of America/United Mine Workers of America 051821-053021",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/United Mine Workers of America/United Mine Workers of America 051821-053021/United Mine Workers 5.18-5.30.21 M1 M2",
-        "entity_id": "74173",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
-        "callsign": "WVTM-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1706658444126191600,
-        "score": 0.24995705
-      },
-      {
-        "id": "579c1f5f-2498-324c-c580-21f216a72b31",
-        "file_id": "579c1f5f-2498-324c-c580-21f216a72b31",
-        "file_name": "Darrell O'Quinn 8.18-8.24.21 order, NAB, contract",
-        "file_extension": "pdf",
-        "file_size": 2286654,
-        "file_status": "com_cpy",
-        "folder_id": "3a9b8aa7-f0d1-aee6-669b-01858bb06ec9",
-        "create_ts": "2021-07-29T22:00:29.554Z",
-        "last_update_ts": "2021-07-29T22:01:52.357Z",
-        "active_ind": "Y",
-        "file_manager_id": "6b7d9ea0-b850-4590-af2e-8c362ae7fc30",
-        "file_folder_path": "Political Files/2021/Local/Darrell OQuinn/Darrell OQuinn 081821-082421",
-        "full_qualified_file_name": "Political Files/2021/Local/Darrell OQuinn/Darrell OQuinn 081821-082421/Darrell O'Quinn 8.18-8.24.21 order, NAB, contract",
-        "entity_id": "74173",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
-        "callsign": "WVTM-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1706658135111893000,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -309,8 +308,8 @@
         "GAINESVILLE": 1238,
         "PROVIDENCE-NEW BEDFORD": 1194,
         "ANCHORAGE": 1174,
+        "LOS ANGELES": 1115,
         "CHARLOTTE": 1113,
-        "LOS ANGELES": 1113,
         "JOHNSTOWN-ALTOONA-ST COLGE": 1112,
         "SALT LAKE CITY": 1103,
         "DENVER": 1068,
@@ -360,7 +359,7 @@
         "CW": 11901,
         "IND": 2979,
         "MYTV": 2216,
-        "UNIVISION": 1822,
+        "UNIVISION": 1823,
         "MY NETWORK": 1542,
         "CBS/NBC": 1060,
         "FAMILYNET": 881,
@@ -368,7 +367,7 @@
         "MNT": 806,
         "ION": 730,
         "N/A": 643,
-        "UNIMAS": 611,
+        "UNIMAS": 612,
         "CBS/CW": 424,
         "INDEPENDENT": 402,
         "NBC & CBS": 376,
@@ -423,7 +422,7 @@
         "2018": 68209,
         "2019": 14266,
         "2020": 126472,
-        "2021": 9597,
+        "2021": 9599,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -463,7 +462,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231635,
+        "TV": 231637,
         "CABLE": 111115,
         "FM": 106213,
         "AM": 39633,
@@ -471,7 +470,7 @@
       },
       "political_file_type": {
         "PA": 216666,
-        "NCIA": 112634
+        "NCIA": 112636
       }
     }
   },
@@ -487,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 212,
-    "responseTime": 212
+    "queryTime": 1713,
+    "processTime": 721,
+    "responseTime": 1722
   }
 }
