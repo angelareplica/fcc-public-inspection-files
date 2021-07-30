@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 493596,
+    "numFound": 493597,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "787baacc-fdda-debd-811b-04ed2a59f94b",
+        "file_id": "787baacc-fdda-debd-811b-04ed2a59f94b",
+        "file_name": "PIR -del cielo  commitmet to seniors_ (002)",
+        "file_extension": "pdf",
+        "file_size": 611466,
+        "file_status": "com_cpy",
+        "folder_id": "fe1fc1d1-6dc0-2126-d842-06856057fe57",
+        "create_ts": "2021-07-30T01:33:57.147Z",
+        "last_update_ts": "2021-07-30T01:35:19.962Z",
+        "active_ind": "Y",
+        "file_manager_id": "82d1d015-d21c-40d3-8bea-9766d98eee36",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Commitment to Seniors/Commitment to Seniors Est 727804",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Commitment to Seniors/Commitment to Seniors Est 727804/PIR -del cielo  commitmet to seniors_ (002)",
+        "entity_id": "47904",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WASHINGTON DC (HAGRSTWN)",
+        "callsign": "WRC-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1706671564761596000,
+        "score": 0.24995705
+      },
       {
         "id": "ea697c79-1e74-657c-62e5-ce1618cb8f58",
         "file_id": "ea697c79-1e74-657c-62e5-ce1618cb8f58",
@@ -222,31 +246,6 @@
         "campaign_year": "2021",
         "_version_": 1706658135111893000,
         "score": 0.24995705
-      },
-      {
-        "id": "90e1cce2-fb64-3792-c8b5-ddc0a0403ca8",
-        "file_id": "90e1cce2-fb64-3792-c8b5-ddc0a0403ca8",
-        "file_name": "WKBN-MIKE GIBBONS US SENATE OH-NAB-072621-081521",
-        "file_extension": "pdf",
-        "file_size": 80323,
-        "file_status": "com_cpy",
-        "folder_id": "b4ca869f-d194-5ae8-d84f-d3ef7a824f84",
-        "create_ts": "2021-07-29T21:28:08.634Z",
-        "last_update_ts": "2021-07-29T21:29:01.933Z",
-        "active_ind": "Y",
-        "file_manager_id": "e66c73b9-32a9-43aa-99bd-04cb49f9047e",
-        "file_folder_path": "Political Files/2021/Federal/US Senate/WKBN-MIKE GIBBONS US SENATE OH",
-        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/WKBN-MIKE GIBBONS US SENATE OH/WKBN-MIKE GIBBONS US SENATE OH-NAB-072621-081521",
-        "entity_id": "73153",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "YOUNGSTOWN",
-        "callsign": "WKBN-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2021",
-        "_version_": 1706656099378135000,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -291,7 +290,7 @@
         "ROCHESTR-MASON CITY-AUSTIN": 1985,
         "SIOUX CITY": 1948,
         "GREAT FALLS": 1923,
-        "WASHINGTON DC (HAGRSTWN)": 1827,
+        "WASHINGTON DC (HAGRSTWN)": 1828,
         "LA CROSSE-EAU CLAIRE": 1796,
         "BLUEFIELD-BECKLEY-OAK HILL": 1709,
         "ALBUQUERQUE-SANTA FE": 1692,
@@ -354,7 +353,7 @@
       },
       "network_affiliation": {
         "ABC": 56657,
-        "NBC": 55554,
+        "NBC": 55555,
         "CBS": 37622,
         "FOX": 27032,
         "PBS": 13934,
@@ -424,7 +423,7 @@
         "2018": 68211,
         "2019": 14266,
         "2020": 126472,
-        "2021": 9596,
+        "2021": 9597,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -464,7 +463,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231634,
+        "TV": 231635,
         "CABLE": 111115,
         "FM": 106214,
         "AM": 39635,
@@ -472,7 +471,7 @@
       },
       "political_file_type": {
         "PA": 216667,
-        "NCIA": 112634
+        "NCIA": 112635
       }
     }
   },
@@ -489,7 +488,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 1697,
-    "processTime": 705,
-    "responseTime": 1706
+    "processTime": 708,
+    "responseTime": 1709
   }
 }
