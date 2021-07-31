@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 493720,
+    "numFound": 493719,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
@@ -412,7 +412,7 @@
         "2015": 6083,
         "2016": 68688,
         "2017": 10346,
-        "2018": 68209,
+        "2018": 68208,
         "2019": 14262,
         "2020": 126472,
         "2021": 9661,
@@ -458,12 +458,12 @@
         "TV": 231666,
         "CABLE": 111140,
         "FM": 106276,
-        "AM": 39637,
+        "AM": 39636,
         "DBS": 5001
       },
       "political_file_type": {
         "PA": 216674,
-        "NCIA": 112686
+        "NCIA": 112685
       }
     }
   },
@@ -479,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 210,
-    "responseTime": 210
+    "queryTime": 207,
+    "processTime": 214,
+    "responseTime": 215
   }
 }
