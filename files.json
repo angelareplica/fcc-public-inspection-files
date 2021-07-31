@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 493725,
+    "numFound": 493720,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
@@ -429,7 +429,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54202,
         "Issues and Programs Lists": 42804,
-        "Equal Employment Opportunity Records": 36760,
+        "Equal Employment Opportunity Records": 36755,
         "Donor Lists - Applicable Only for NCEs": 11135,
         "FCC Authorizations": 7064,
         "Local Public Notice Announcements": 1658,
@@ -458,7 +458,7 @@
         "TV": 231666,
         "CABLE": 111140,
         "FM": 106276,
-        "AM": 39642,
+        "AM": 39637,
         "DBS": 5001
       },
       "political_file_type": {
@@ -479,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 213,
-    "responseTime": 213
+    "queryTime": 205,
+    "processTime": 215,
+    "responseTime": 216
   }
 }
