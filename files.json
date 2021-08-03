@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 493815,
+    "numFound": 493817,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "6a8c7236-5c6b-aff9-bc42-72d1b5f4eda9",
+        "file_id": "6a8c7236-5c6b-aff9-bc42-72d1b5f4eda9",
+        "file_name": "2021-07 Donor List Specific Programs",
+        "file_extension": "pdf",
+        "file_size": 68124,
+        "file_status": "com_cpy",
+        "folder_id": "96d8f17b-1d84-774e-c4d2-21b6e9db6b9d",
+        "create_ts": "2021-08-03T20:49:52.793Z",
+        "last_update_ts": "2021-08-03T20:51:17.43Z",
+        "active_ind": "Y",
+        "file_manager_id": "f97a0a96-d2f0-48fb-8488-72031eb8ee9c",
+        "file_folder_path": "Donor Lists - Applicable Only for NCEs",
+        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/2021-07 Donor List Specific Programs",
+        "entity_id": "93744",
+        "source_service_code": "FM",
+        "callsign": "WZPE",
+        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
+        "_version_": 1707106676761428000,
+        "score": 0.24995705
+      },
+      {
+        "id": "02d17feb-7bca-c830-f4ad-f77c292c8ce4",
+        "file_id": "02d17feb-7bca-c830-f4ad-f77c292c8ce4",
+        "file_name": "2021-07 Donor List Specific Programs",
+        "file_extension": "pdf",
+        "file_size": 68124,
+        "file_status": "com_cpy",
+        "folder_id": "8209a292-aa88-4eea-4c83-d5db4a49f97d",
+        "create_ts": "2021-08-03T20:48:35.881Z",
+        "last_update_ts": "2021-08-03T20:49:30.761Z",
+        "active_ind": "Y",
+        "file_manager_id": "afa8eae7-d521-4194-bfdd-fccda3a2b38f",
+        "file_folder_path": "Donor Lists - Applicable Only for NCEs",
+        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/2021-07 Donor List Specific Programs",
+        "entity_id": "18831",
+        "source_service_code": "FM",
+        "callsign": "WCPE",
+        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
+        "_version_": 1707106596136419300,
+        "score": 0.24995705
+      },
       {
         "id": "e18ba56e-62cb-1324-f7f1-e8078aace805",
         "file_id": "e18ba56e-62cb-1324-f7f1-e8078aace805",
@@ -187,50 +229,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1707102398720245800,
-        "score": 0.24995705
-      },
-      {
-        "id": "e8eeb19e-a6e0-ba66-dcca-6145ee8c4d0e",
-        "file_id": "e8eeb19e-a6e0-ba66-dcca-6145ee8c4d0e",
-        "file_name": "2021 AB Foundation 08032021, order Est 3563, NAB Form, Proof of Payment, & Spot Times",
-        "file_extension": "pdf",
-        "file_size": 1385563,
-        "file_status": "com_cpy",
-        "folder_id": "7fcec08e-1c59-78b8-278a-f33656dcc30f",
-        "create_ts": "2021-08-03T19:40:01.496Z",
-        "last_update_ts": "2021-08-03T19:40:56.926Z",
-        "active_ind": "Y",
-        "file_manager_id": "215143ae-2476-493d-b4db-7d19c615921e",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/2021 AB Foundation 08032021, order Est 3563, NAB Form, Proof of Payment, & Spot Times",
-        "entity_id": "88753",
-        "source_service_code": "FM",
-        "callsign": "WPZX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1707102282489790500,
-        "score": 0.24995705
-      },
-      {
-        "id": "038a945f-b2c0-0d53-65ca-d974eb8c8b64",
-        "file_id": "038a945f-b2c0-0d53-65ca-d974eb8c8b64",
-        "file_name": "2021 AB Foundation 08032021, order Est 3563, NAB Form, Proof of Payment, & Spot Times",
-        "file_extension": "pdf",
-        "file_size": 1385563,
-        "file_status": "com_cpy",
-        "folder_id": "ac04db81-4412-d9c6-7bce-d6b350c7b11c",
-        "create_ts": "2021-08-03T19:38:01.421Z",
-        "last_update_ts": "2021-08-03T19:38:56.709Z",
-        "active_ind": "Y",
-        "file_manager_id": "716c602b-e7e5-4c14-a486-b0837e6d6015",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/2021 AB Foundation 08032021, order Est 3563, NAB Form, Proof of Payment, & Spot Times",
-        "entity_id": "66364",
-        "source_service_code": "FM",
-        "callsign": "WEZX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1707102156442566700,
         "score": 0.24995705
       }
     ],
@@ -424,7 +422,7 @@
         "Records Concerning Commercial Limits in Childrens Programs": 54202,
         "Issues and Programs Lists": 42805,
         "Equal Employment Opportunity Records": 36772,
-        "Donor Lists - Applicable Only for NCEs": 11138,
+        "Donor Lists - Applicable Only for NCEs": 11140,
         "FCC Authorizations": 7064,
         "Local Public Notice Announcements": 1658,
         "Applications and Related Materials": 1510,
@@ -451,7 +449,7 @@
       "source_service_code": {
         "TV": 231714,
         "CABLE": 111140,
-        "FM": 106300,
+        "FM": 106302,
         "AM": 39660,
         "DBS": 5001
       },
@@ -473,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1696,
-    "processTime": 704,
-    "responseTime": 1705
+    "queryTime": 206,
+    "processTime": 214,
+    "responseTime": 215
   }
 }
