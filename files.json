@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 493809,
+    "numFound": 493810,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "3d47dd74-128b-c225-9b9a-4c0e8558e644",
+        "file_id": "3d47dd74-128b-c225-9b9a-4c0e8558e644",
+        "file_name": "JB Pritzker for Governor 1095751-0",
+        "file_extension": "pdf",
+        "file_size": 111659,
+        "file_status": "com_cpy",
+        "folder_id": "84d18116-84bf-00c1-ebc9-fd6c8baf43a9",
+        "create_ts": "2021-08-03T20:00:29.029Z",
+        "last_update_ts": "2021-08-03T20:01:23.941Z",
+        "active_ind": "Y",
+        "file_manager_id": "a517f002-d136-4cf9-b446-d0f718cec819",
+        "file_folder_path": "Political Files/2021/State/JB Pritzker for Governor",
+        "full_qualified_file_name": "Political Files/2021/State/JB Pritzker for Governor/JB Pritzker for Governor 1095751-0",
+        "entity_id": "22211",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "CHICAGO",
+        "callsign": "WFLD",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1707103569120854000,
+        "score": 0.24995705
+      },
+      {
+        "id": "845fb47a-a959-9290-44ea-3229e0cc3d73",
+        "file_id": "845fb47a-a959-9290-44ea-3229e0cc3d73",
+        "file_name": "0804_001 (1)",
+        "file_extension": "pdf",
+        "file_size": 47453,
+        "file_status": "com_cpy",
+        "folder_id": "83cf2e85-c8ba-fa7a-b62b-81bcb08f30b5",
+        "create_ts": "2021-08-03T19:47:05.976Z",
+        "last_update_ts": "2021-08-03T19:48:00.831Z",
+        "active_ind": "Y",
+        "file_manager_id": "ca4dcc1d-dac1-411b-85e6-db573e9fb23d",
+        "file_folder_path": "FCC Investigations or Complaints/EEO Audit",
+        "full_qualified_file_name": "FCC Investigations or Complaints/EEO Audit/0804_001 (1)",
+        "entity_id": "48381",
+        "source_service_code": "AM",
+        "callsign": "WTMC",
+        "non_political_file_folder": "FCC Investigations or Complaints",
+        "_version_": 1707102726981156900,
+        "score": 0.24995705
+      },
       {
         "id": "e7790df9-9a58-9fe9-0364-b11baffa3ee1",
         "file_id": "e7790df9-9a58-9fe9-0364-b11baffa3ee1",
@@ -176,50 +222,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1707098451175538700,
         "score": 0.24995705
-      },
-      {
-        "id": "ad0aede2-5e9f-b8ce-1a3d-ee93065c9f3e",
-        "file_id": "ad0aede2-5e9f-b8ce-1a3d-ee93065c9f3e",
-        "file_name": "Yes on 22 09-14-2020 TO 9202020",
-        "file_extension": "pdf",
-        "file_size": 50027,
-        "file_status": "com_cpy",
-        "folder_id": "4799360c-eb04-4201-b3a4-0aa1e98dccd7",
-        "create_ts": "2021-08-03T18:39:29.423Z",
-        "last_update_ts": "2021-08-03T18:40:24.268Z",
-        "active_ind": "Y",
-        "file_manager_id": "bb31014d-577d-432e-8a43-dcfd1cbb27cc",
-        "file_folder_path": "Political Files/2020/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2020/Non-Candidate Issue Ads/Yes on 22 09-14-2020 TO 9202020",
-        "entity_id": "41594",
-        "source_service_code": "AM",
-        "callsign": "KSCO",
-        "political_file_type": "NCIA",
-        "campaign_year": "2020",
-        "_version_": 1707098473382281200,
-        "score": 0.24995705
-      },
-      {
-        "id": "f0cc35b4-28b3-e3b3-194b-86ebdfe07a6f",
-        "file_id": "f0cc35b4-28b3-e3b3-194b-86ebdfe07a6f",
-        "file_name": "no on 23 09-21-2020 TO 10182020",
-        "file_extension": "pdf",
-        "file_size": 49709,
-        "file_status": "com_cpy",
-        "folder_id": "4799360c-eb04-4201-b3a4-0aa1e98dccd7",
-        "create_ts": "2021-08-03T18:39:29.247Z",
-        "last_update_ts": "2021-08-03T18:40:24.133Z",
-        "active_ind": "Y",
-        "file_manager_id": "8f91e76f-582d-4a1e-bdfd-6c7f1b0e599d",
-        "file_folder_path": "Political Files/2020/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2020/Non-Candidate Issue Ads/no on 23 09-21-2020 TO 10182020",
-        "entity_id": "41594",
-        "source_service_code": "AM",
-        "callsign": "KSCO",
-        "political_file_type": "NCIA",
-        "campaign_year": "2020",
-        "_version_": 1707098479431516200,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -326,10 +328,10 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56675,
+        "ABC": 56674,
         "NBC": 55574,
         "CBS": 37639,
-        "FOX": 27037,
+        "FOX": 27038,
         "PBS": 13938,
         "CW": 11902,
         "IND": 2979,
@@ -395,14 +397,14 @@
         "2016": 68688,
         "2017": 10346,
         "2018": 68208,
-        "2019": 14260,
+        "2019": 14259,
         "2020": 126478,
-        "2021": 9726,
+        "2021": 9727,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 63863,
+        "State": 63864,
         "US Senate": 48307,
         "US House": 41545,
         "Presidential": 39297,
@@ -417,7 +419,7 @@
         "Local Public Notice Announcements": 1658,
         "Applications and Related Materials": 1510,
         "Availability of Signals": 1504,
-        "FCC Investigations or Complaints": 1374,
+        "FCC Investigations or Complaints": 1375,
         "Must-Carry or Retransmission Consent": 1334,
         "Childrens TV Programming Reports": 1113,
         "Ownership Reports": 1062,
@@ -440,12 +442,12 @@
         "TV": 231710,
         "CABLE": 111140,
         "FM": 106300,
-        "AM": 39658,
+        "AM": 39659,
         "DBS": 5001
       },
       "political_file_type": {
-        "PA": 216707,
-        "NCIA": 112721
+        "PA": 216708,
+        "NCIA": 112720
       }
     }
   },
@@ -461,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1711,
-    "processTime": 735,
-    "responseTime": 1736
+    "queryTime": 1688,
+    "processTime": 695,
+    "responseTime": 1696
   }
 }
