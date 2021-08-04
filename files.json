@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 493856,
+    "numFound": 493857,
     "start": 0,
     "maxScore": 0.5001641,
     "docs": [
+      {
+        "id": "5d7b5297-5b6a-30a8-28e2-ed2bef55f429",
+        "file_id": "5d7b5297-5b6a-30a8-28e2-ed2bef55f429",
+        "file_name": "EFO Addiego, Natale & Eckel for LD 8 316947 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 131305,
+        "file_status": "com_cpy",
+        "folder_id": "c26718cd-ff7e-039c-646a-318601244aa6",
+        "create_ts": "2021-08-04T14:18:07.946Z",
+        "last_update_ts": "2021-08-04T14:19:03.15Z",
+        "active_ind": "Y",
+        "file_manager_id": "16c327ad-00f1-4808-8242-cbfb0e00cc02",
+        "file_folder_path": "Political Files/2021/Local/New Jersey/EFO Addiego Natale  Eckel for LD 8",
+        "full_qualified_file_name": "Political Files/2021/Local/New Jersey/EFO Addiego Natale  Eckel for LD 8/EFO Addiego, Natale & Eckel for LD 8 316947 Rev 0",
+        "entity_id": "8616",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "PHILADELPHIA",
+        "callsign": "WPVI-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1707172627219480600,
+        "score": 0.24995705
+      },
       {
         "id": "b1f33c44-3234-eca9-2c7c-5b04d0f5e66c",
         "file_id": "b1f33c44-3234-eca9-2c7c-5b04d0f5e66c",
@@ -212,30 +237,6 @@
         "campaign_year": "2021",
         "_version_": 1707125226303651800,
         "score": 0.24995705
-      },
-      {
-        "id": "99291650-d2d6-3885-07c3-ce7d2973222d",
-        "file_id": "99291650-d2d6-3885-07c3-ce7d2973222d",
-        "file_name": "AFL-CIO 10014 08-24 to 09-19 Statewide NAB TEMP",
-        "file_extension": "pdf",
-        "file_size": 389584,
-        "file_status": "com_cpy",
-        "folder_id": "041af51e-7f90-86cb-83c8-5455bab8c6fa",
-        "create_ts": "2021-08-04T01:43:31.004Z",
-        "last_update_ts": "2021-08-04T01:44:56.044Z",
-        "active_ind": "Y",
-        "file_manager_id": "2f3d603b-bbc4-43d4-b791-2e28f8ea793f",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AFL-CIO",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AFL-CIO/AFL-CIO 10014 08-24 to 09-19 Statewide NAB TEMP",
-        "entity_id": "006553",
-        "source_service_code": "CABLE",
-        "legal_name": "GCI CABLE INC",
-        "operator_city_name": "ANCHORAGE",
-        "operator_state_name": "AK",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1707125151132287000,
-        "score": 0.24995705
       }
     ],
     "facets": {
@@ -276,7 +277,7 @@
         "BIRMINGHAM (ANN TUSC)": 2148,
         "TAMPA-ST. PETE (SARASOTA)": 2148,
         "LEXINGTON": 2077,
-        "PHILADELPHIA": 2010,
+        "PHILADELPHIA": 2011,
         "ROCHESTR-MASON CITY-AUSTIN": 1985,
         "SIOUX CITY": 1948,
         "GREAT FALLS": 1923,
@@ -342,7 +343,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56676,
+        "ABC": 56677,
         "NBC": 55577,
         "CBS": 37639,
         "FOX": 27038,
@@ -413,7 +414,7 @@
         "2018": 68208,
         "2019": 14256,
         "2020": 126478,
-        "2021": 9764,
+        "2021": 9765,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -422,7 +423,7 @@
         "US Senate": 48308,
         "US House": 41545,
         "Presidential": 39297,
-        "Local": 22643
+        "Local": 22644
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54202,
@@ -453,14 +454,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231720,
+        "TV": 231721,
         "CABLE": 111162,
         "FM": 106309,
         "AM": 39664,
         "DBS": 5001
       },
       "political_file_type": {
-        "PA": 216714,
+        "PA": 216715,
         "NCIA": 112748
       }
     }
@@ -477,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 215,
-    "responseTime": 215
+    "queryTime": 202,
+    "processTime": 208,
+    "responseTime": 209
   }
 }
