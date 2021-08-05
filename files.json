@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 493999,
+    "numFound": 494000,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "71009593-fbc7-6e83-9d41-82c7bbce7e53",
+        "file_id": "71009593-fbc7-6e83-9d41-82c7bbce7e53",
+        "file_name": "Randall Woodfin 8.4-8.9.21 M2",
+        "file_extension": "pdf",
+        "file_size": 93692,
+        "file_status": "com_cpy",
+        "folder_id": "b6649760-4df8-f4a2-d1df-76a80537ea4b",
+        "create_ts": "2021-08-05T18:35:06.518Z",
+        "last_update_ts": "2021-08-05T18:36:02.056Z",
+        "active_ind": "Y",
+        "file_manager_id": "1b6ee6c4-847c-4aaf-94e5-6ce80dfdf2d2",
+        "file_folder_path": "Political Files/2021/Local/Randall Woodfin/Randall Woodfin 080421-080921",
+        "full_qualified_file_name": "Political Files/2021/Local/Randall Woodfin/Randall Woodfin 080421-080921/Randall Woodfin 8.4-8.9.21 M2",
+        "entity_id": "74173",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
+        "callsign": "WVTM-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1707279391676956700,
+        "score": 0.24995703
+      },
       {
         "id": "18b1b5ac-4cbe-92e3-44ca-0e449d6d3546",
         "file_id": "18b1b5ac-4cbe-92e3-44ca-0e449d6d3546",
@@ -199,30 +224,6 @@
         "campaign_year": "2021",
         "_version_": 1707263981978124300,
         "score": 0.24995703
-      },
-      {
-        "id": "fdfa5f2a-5d5f-070b-3e26-c443b1fc29ad",
-        "file_id": "fdfa5f2a-5d5f-070b-3e26-c443b1fc29ad",
-        "file_name": "07.16.21 11115041 Sched_LeagueConservationofVoters-AZAmpersand_",
-        "file_extension": "pdf",
-        "file_size": 256454,
-        "file_status": "com_cpy",
-        "folder_id": "cb8275be-a293-f9cd-4de3-0246ee73e51a",
-        "create_ts": "2021-08-05T14:30:10.459Z",
-        "last_update_ts": "2021-08-05T14:31:06.081Z",
-        "active_ind": "Y",
-        "file_manager_id": "68f4ff33-624e-4f3c-bf57-8efd2d9aa06e",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/07.16.21 11115041 Sched_LeagueConservationofVoters-AZAmpersand_",
-        "entity_id": "003605",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLE ONE INC",
-        "operator_city_name": "PHOENIX",
-        "operator_state_name": "AZ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1707263981877461000,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -260,7 +261,7 @@
         "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
         "Greenville-Spartanburg-Asheville-Anderson": 2166,
         "PEORIA-BLOOMINGTON": 2162,
-        "BIRMINGHAM (ANN TUSC)": 2148,
+        "BIRMINGHAM (ANN TUSC)": 2149,
         "TAMPA-ST. PETE (SARASOTA)": 2148,
         "LEXINGTON": 2077,
         "PHILADELPHIA": 2015,
@@ -330,7 +331,7 @@
       },
       "network_affiliation": {
         "ABC": 56689,
-        "NBC": 55582,
+        "NBC": 55583,
         "CBS": 37651,
         "FOX": 27041,
         "PBS": 13940,
@@ -400,7 +401,7 @@
         "2018": 68208,
         "2019": 14255,
         "2020": 126478,
-        "2021": 9884,
+        "2021": 9885,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -409,7 +410,7 @@
         "US Senate": 48311,
         "US House": 41551,
         "Presidential": 39296,
-        "Local": 22659
+        "Local": 22660
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54202,
@@ -440,14 +441,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231769,
+        "TV": 231770,
         "CABLE": 111176,
         "FM": 106353,
         "AM": 39699,
         "DBS": 5002
       },
       "political_file_type": {
-        "PA": 216742,
+        "PA": 216743,
         "NCIA": 112839
       }
     }
@@ -464,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1745,
-    "processTime": 753,
-    "responseTime": 1754
+    "queryTime": 211,
+    "processTime": 219,
+    "responseTime": 219
   }
 }
