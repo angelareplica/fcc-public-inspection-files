@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 494002,
+    "numFound": 494004,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "b892d707-f20d-b7cd-d9a8-df97564ac047",
+        "file_id": "b892d707-f20d-b7cd-d9a8-df97564ac047",
+        "file_name": "AB Foundation 08-5-21 1",
+        "file_extension": "pdf",
+        "file_size": 615403,
+        "file_status": "com_cpy",
+        "folder_id": "c6db6bc6-d5b0-cc05-c94a-e8ab26a0951b",
+        "create_ts": "2021-08-05T19:35:19.615Z",
+        "last_update_ts": "2021-08-05T19:36:15.482Z",
+        "active_ind": "Y",
+        "file_manager_id": "0d3c14c3-0a5c-4304-bf5f-afd0b4293951",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation/AB Foundation 08-5-21 1",
+        "entity_id": "37174",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SAVANNAH",
+        "callsign": "WJCL",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1707283180623495200,
+        "score": 0.24995703
+      },
+      {
+        "id": "7297d8e8-71b6-ad23-1522-35f50ba596d7",
+        "file_id": "7297d8e8-71b6-ad23-1522-35f50ba596d7",
+        "file_name": "AB Foundation 08-5-21",
+        "file_extension": "pdf",
+        "file_size": 50262,
+        "file_status": "com_cpy",
+        "folder_id": "c6db6bc6-d5b0-cc05-c94a-e8ab26a0951b",
+        "create_ts": "2021-08-05T19:27:49.699Z",
+        "last_update_ts": "2021-08-05T19:28:45.171Z",
+        "active_ind": "Y",
+        "file_manager_id": "beb3a159-5162-4a9c-a984-93b0a2234ba5",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation/AB Foundation 08-5-21",
+        "entity_id": "37174",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SAVANNAH",
+        "callsign": "WJCL",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1707282708431896600,
+        "score": 0.24995703
+      },
       {
         "id": "e33dcb7c-ebd9-4dc6-48c4-b209ec327dc8",
         "file_id": "e33dcb7c-ebd9-4dc6-48c4-b209ec327dc8",
@@ -181,49 +229,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1707269046837182500,
         "score": 0.24995703
-      },
-      {
-        "id": "838193a9-1343-fa16-5704-cfde8f2a6306",
-        "file_id": "838193a9-1343-fa16-5704-cfde8f2a6306",
-        "file_name": "2021-07 Donor List",
-        "file_extension": "pdf",
-        "file_size": 39890,
-        "file_status": "com_cpy",
-        "folder_id": "4dbf9778-a396-f490-c39a-89fd5366491a",
-        "create_ts": "2021-08-05T15:46:39.467Z",
-        "last_update_ts": "2021-08-05T15:47:34.932Z",
-        "active_ind": "Y",
-        "file_manager_id": "b6da5a86-e129-4bfc-811e-21919ed6ad7c",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/2021-07 Donor List",
-        "entity_id": "66581",
-        "source_service_code": "FM",
-        "callsign": "WUNC",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1707268793630195700,
-        "score": 0.24995703
-      },
-      {
-        "id": "64ab824b-1c32-0ced-92b8-cb3e7644cddd",
-        "file_id": "64ab824b-1c32-0ced-92b8-cb3e7644cddd",
-        "file_name": "Pete for Governor D25083 VA completed 02.10-5.7.21",
-        "file_extension": "pdf",
-        "file_size": 88853,
-        "file_status": "com_cpy",
-        "folder_id": "dd823c2d-7b65-d690-6720-24e78c482f39",
-        "create_ts": "2021-08-05T15:38:56.075Z",
-        "last_update_ts": "2021-08-05T15:40:21.658Z",
-        "active_ind": "Y",
-        "file_manager_id": "11f4c063-b050-4cfe-a18f-72a2e906fb91",
-        "file_folder_path": "Political Files/2021/State/Virginia/Pete Snyder VA Governor",
-        "full_qualified_file_name": "Political Files/2021/State/Virginia/Pete Snyder VA Governor/Pete for Governor D25083 VA completed 02.10-5.7.21",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1707268307762020400,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -256,7 +261,7 @@
         "GREENSBORO-H.POINT-W.SALEM": 2517,
         "CHICAGO": 2479,
         "FRESNO-VISALIA": 2428,
-        "SAVANNAH": 2393,
+        "SAVANNAH": 2395,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
         "Greenville-Spartanburg-Asheville-Anderson": 2166,
@@ -330,7 +335,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56689,
+        "ABC": 56691,
         "NBC": 55584,
         "CBS": 37651,
         "FOX": 27041,
@@ -401,7 +406,7 @@
         "2018": 68208,
         "2019": 14255,
         "2020": 126478,
-        "2021": 9887,
+        "2021": 9889,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -441,7 +446,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231772,
+        "TV": 231774,
         "CABLE": 111176,
         "FM": 106353,
         "AM": 39699,
@@ -449,7 +454,7 @@
       },
       "political_file_type": {
         "PA": 216743,
-        "NCIA": 112841
+        "NCIA": 112843
       }
     }
   },
@@ -465,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 214,
-    "responseTime": 214
+    "queryTime": 233,
+    "processTime": 241,
+    "responseTime": 241
   }
 }
