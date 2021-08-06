@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 494062,
+    "numFound": 494063,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "323677b8-51ed-3db2-d566-c5a8434aa514",
+        "file_id": "323677b8-51ed-3db2-d566-c5a8434aa514",
+        "file_name": "FCC Order - Political File Consent Decree 08 04 21 (01548741xB3D1E)",
+        "file_extension": "pdf",
+        "file_size": 2585723,
+        "file_status": "com_cpy",
+        "folder_id": "ada9a571-82c8-bcb3-db46-84ffed4570dc",
+        "create_ts": "2021-08-06T18:42:34.928Z",
+        "last_update_ts": "2021-08-06T18:43:31.904Z",
+        "active_ind": "Y",
+        "file_manager_id": "12e7b22a-0ae0-42f9-9e7d-ef9e99206651",
+        "file_folder_path": "FCC Investigations or Complaints",
+        "full_qualified_file_name": "FCC Investigations or Complaints/FCC Order - Political File Consent Decree 08 04 21 (01548741xB3D1E)",
+        "entity_id": "32199",
+        "source_service_code": "AM",
+        "callsign": "WEKR",
+        "non_political_file_folder": "FCC Investigations or Complaints",
+        "_version_": 1707370460004483000,
+        "score": 0.24995703
+      },
       {
         "id": "49b188e0-a0b9-ee6d-a6a2-44245822e1c1",
         "file_id": "49b188e0-a0b9-ee6d-a6a2-44245822e1c1",
@@ -226,30 +247,6 @@
         "campaign_year": "2021",
         "_version_": 1707360798252204000,
         "score": 0.24995703
-      },
-      {
-        "id": "ff797667-5348-cf3d-0fc2-cd08ab828aec",
-        "file_id": "ff797667-5348-cf3d-0fc2-cd08ab828aec",
-        "file_name": "Amer Clean Power 080821 2021 NAB signed",
-        "file_extension": "pdf",
-        "file_size": 547709,
-        "file_status": "com_cpy",
-        "folder_id": "462b3ec5-e19c-f998-d053-bf8a8ea82a8e",
-        "create_ts": "2021-08-06T15:44:08.521Z",
-        "last_update_ts": "2021-08-06T15:45:34.825Z",
-        "active_ind": "Y",
-        "file_manager_id": "91046581-b39b-408d-887b-b63b4473988f",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Clean Power",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Clean Power/Amer Clean Power 080821 2021 NAB signed",
-        "entity_id": "1051",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "WASHINGTON DC (HAGRSTWN)",
-        "callsign": "WJLA-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1707359232594018300,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -447,7 +444,7 @@
         "Local Public Notice Announcements": 1658,
         "Applications and Related Materials": 1514,
         "Availability of Signals": 1504,
-        "FCC Investigations or Complaints": 1376,
+        "FCC Investigations or Complaints": 1377,
         "Must-Carry or Retransmission Consent": 1334,
         "Childrens TV Programming Reports": 1113,
         "Ownership Reports": 1075,
@@ -470,7 +467,7 @@
         "TV": 231805,
         "CABLE": 111176,
         "FM": 106374,
-        "AM": 39705,
+        "AM": 39706,
         "DBS": 5002
       },
       "political_file_type": {
@@ -491,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 216,
-    "responseTime": 216
+    "queryTime": 1700,
+    "processTime": 707,
+    "responseTime": 1708
   }
 }
