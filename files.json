@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 494063,
+    "numFound": 494065,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "678b6ac1-4610-ba97-3fc9-a65629ef6bac",
+        "file_id": "678b6ac1-4610-ba97-3fc9-a65629ef6bac",
+        "file_name": "American Clean Power 080821 order 2156964 including NAB spot Knowing",
+        "file_extension": "pdf",
+        "file_size": 1595683,
+        "file_status": "com_cpy",
+        "folder_id": "4dd503b3-4180-7fc1-c194-7432de61e807",
+        "create_ts": "2021-08-06T19:12:32.389Z",
+        "last_update_ts": "2021-08-06T19:13:59.085Z",
+        "active_ind": "Y",
+        "file_manager_id": "ab81a389-11de-46ab-a761-8ed8135283a0",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Clean Power",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Clean Power/American Clean Power 080821 order 2156964 including NAB spot Knowing",
+        "entity_id": "36912",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
+        "callsign": "WSAZ-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1707372344242077700,
+        "score": 0.24995703
+      },
+      {
+        "id": "d72d661a-3d07-a816-c424-bd546908c4df",
+        "file_id": "d72d661a-3d07-a816-c424-bd546908c4df",
+        "file_name": "BBT 08.05.21-08.10.21 899523 Ord Rev",
+        "file_extension": "pdf",
+        "file_size": 29944,
+        "file_status": "com_cpy",
+        "folder_id": "74a5c7bf-88aa-16c3-5583-d8dc7c7f7719",
+        "create_ts": "2021-08-06T18:59:44.416Z",
+        "last_update_ts": "2021-08-06T19:01:10.543Z",
+        "active_ind": "Y",
+        "file_manager_id": "36726297-ee6f-4ce0-a9a8-459be057baa7",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Building Back Together",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Building Back Together/BBT 08.05.21-08.10.21 899523 Ord Rev",
+        "entity_id": "74100",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KTNV-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1707371538330681300,
+        "score": 0.24995703
+      },
       {
         "id": "323677b8-51ed-3db2-d566-c5a8434aa514",
         "file_id": "323677b8-51ed-3db2-d566-c5a8434aa514",
@@ -199,54 +247,6 @@
         "campaign_year": "2021",
         "_version_": 1707361051625914400,
         "score": 0.24995703
-      },
-      {
-        "id": "1d1f8b31-54d3-ff6b-5d99-9f251452eb64",
-        "file_id": "1d1f8b31-54d3-ff6b-5d99-9f251452eb64",
-        "file_name": "Governor_Faulconer_2477_090921-091521",
-        "file_extension": "pdf",
-        "file_size": 258598,
-        "file_status": "com_cpy",
-        "folder_id": "b05f5927-b651-f880-3cd3-b93e9f7bb931",
-        "create_ts": "2021-08-06T16:13:03.292Z",
-        "last_update_ts": "2021-08-06T16:14:29.487Z",
-        "active_ind": "Y",
-        "file_manager_id": "f984e229-c75e-4ce4-bba5-35fef2e4cf7f",
-        "file_folder_path": "Political Files/2021/State/California/CA Governor/Kevin Faulconer",
-        "full_qualified_file_name": "Political Files/2021/State/California/CA Governor/Kevin Faulconer/Governor_Faulconer_2477_090921-091521",
-        "entity_id": "56034",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "FRESNO-VISALIA",
-        "callsign": "KGPE",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1707361051532591000,
-        "score": 0.24995703
-      },
-      {
-        "id": "ec217110-635e-2e11-05bc-e3418fe76a37",
-        "file_id": "ec217110-635e-2e11-05bc-e3418fe76a37",
-        "file_name": "Ted Budd for US Senate Log Times 08.05.21",
-        "file_extension": "pdf",
-        "file_size": 71583,
-        "file_status": "com_cpy",
-        "folder_id": "31c8ed7c-4240-e58d-1fa5-69aac72745e2",
-        "create_ts": "2021-08-06T16:09:01.87Z",
-        "last_update_ts": "2021-08-06T16:10:27.938Z",
-        "active_ind": "Y",
-        "file_manager_id": "9abd413e-65e4-4a32-af24-f9c089cee470",
-        "file_folder_path": "Political Files/2021/Federal/US Senate",
-        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Ted Budd for US Senate Log Times 08.05.21",
-        "entity_id": "61259",
-        "source_service_code": "FM",
-        "callsign": "WKJO",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2021",
-        "_version_": 1707360798252204000,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -255,11 +255,11 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7034,
         "WILKES BARRE-SCRANTON": 6627,
         "WEST PALM BEACH-FT. PIERCE": 5750,
-        "LAS VEGAS": 5637,
+        "LAS VEGAS": 5638,
         "PITTSBURGH": 5297,
         "HONOLULU": 5188,
         "DULUTH-SUPERIOR": 4649,
-        "CHARLESTON-HUNTINGTON": 4242,
+        "CHARLESTON-HUNTINGTON": 4243,
         "PORTLAND-AUBURN": 4032,
         "TALLAHASSEE-THOMASVILLE": 3939,
         "OMAHA": 3658,
@@ -353,8 +353,8 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56694,
-        "NBC": 55595,
+        "ABC": 56695,
+        "NBC": 55596,
         "CBS": 37654,
         "FOX": 27041,
         "PBS": 13943,
@@ -424,7 +424,7 @@
         "2018": 68208,
         "2019": 14255,
         "2020": 126478,
-        "2021": 9929,
+        "2021": 9931,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -464,7 +464,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231805,
+        "TV": 231807,
         "CABLE": 111176,
         "FM": 106374,
         "AM": 39706,
@@ -472,7 +472,7 @@
       },
       "political_file_type": {
         "PA": 216764,
-        "NCIA": 112862
+        "NCIA": 112864
       }
     }
   },
@@ -488,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1700,
-    "processTime": 707,
-    "responseTime": 1708
+    "queryTime": 1695,
+    "processTime": 712,
+    "responseTime": 1712
   }
 }
