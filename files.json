@@ -23,7 +23,7 @@
         "callsign": "WTOP-FM",
         "political_file_type": "NCIA",
         "campaign_year": "2021",
-        "_version_": 1707307544408490000,
+        "_version_": 1707307544469307400,
         "score": 0.24995703
       },
       {
@@ -465,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 63,
-    "processTime": 69,
-    "responseTime": 70
+    "queryTime": 1696,
+    "processTime": 705,
+    "responseTime": 1706
   }
 }
