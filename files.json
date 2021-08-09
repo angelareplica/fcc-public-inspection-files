@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 494278,
+    "numFound": 494279,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "248a50c1-f70b-11ca-d304-b04164d75e2c",
+        "file_id": "248a50c1-f70b-11ca-d304-b04164d75e2c",
+        "file_name": "Grow Louisiana NAB 08092021",
+        "file_extension": "pdf",
+        "file_size": 157635,
+        "file_status": "com_cpy",
+        "folder_id": "59eae517-5873-5f03-fb45-4def7df14fa2",
+        "create_ts": "2021-08-09T20:25:27.358Z",
+        "last_update_ts": "2021-08-09T20:26:54.937Z",
+        "active_ind": "Y",
+        "file_manager_id": "6334ab06-93b4-47d7-b1e2-cba1db851ee4",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Grow Louisiana",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Grow Louisiana/Grow Louisiana NAB 08092021",
+        "entity_id": "74192",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "NEW ORLEANS",
+        "callsign": "WWL-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1707648722005917700,
+        "score": 0.24995703
+      },
       {
         "id": "cf151f3c-596a-01f8-5c08-f74c2b7b08f5",
         "file_id": "cf151f3c-596a-01f8-5c08-f74c2b7b08f5",
@@ -223,27 +247,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1707646603933778000,
         "score": 0.24995703
-      },
-      {
-        "id": "f25b319f-7ea8-30c8-b983-6a025280d2cc",
-        "file_id": "f25b319f-7ea8-30c8-b983-6a025280d2cc",
-        "file_name": "FCC EEO Audit DA-21-822A1 08-06-21",
-        "file_extension": "pdf",
-        "file_size": 240116,
-        "file_status": "com_cpy",
-        "folder_id": "52d78116-82ca-9ef4-0eaa-e805d07834a4",
-        "create_ts": "2021-08-09T19:49:32.487Z",
-        "last_update_ts": "2021-08-09T19:51:00.116Z",
-        "active_ind": "Y",
-        "file_manager_id": "8ae7aed6-550f-4a91-83ef-90c6291d1b71",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints/FCC EEO Audit DA-21-822A1 08-06-21",
-        "entity_id": "43969",
-        "source_service_code": "FM",
-        "callsign": "WSJR",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1707646462538547200,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -352,7 +355,7 @@
       "network_affiliation": {
         "ABC": 56701,
         "NBC": 55604,
-        "CBS": 37657,
+        "CBS": 37658,
         "FOX": 27047,
         "PBS": 13950,
         "CW": 11900,
@@ -421,7 +424,7 @@
         "2018": 68207,
         "2019": 14255,
         "2020": 126478,
-        "2021": 10002,
+        "2021": 10003,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -461,7 +464,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231837,
+        "TV": 231838,
         "CABLE": 111182,
         "FM": 106501,
         "AM": 39756,
@@ -469,7 +472,7 @@
       },
       "political_file_type": {
         "PA": 216817,
-        "NCIA": 112881
+        "NCIA": 112882
       }
     }
   },
@@ -485,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1882,
-    "processTime": 889,
-    "responseTime": 1889
+    "queryTime": 1694,
+    "processTime": 703,
+    "responseTime": 1704
   }
 }
