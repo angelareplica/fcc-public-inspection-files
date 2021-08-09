@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 494180,
+    "numFound": 494182,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "46d40f75-e257-b13f-0823-17e5dfdf7561",
+        "file_id": "46d40f75-e257-b13f-0823-17e5dfdf7561",
+        "file_name": "KJCEAM-Political Inv 072021",
+        "file_extension": "pdf",
+        "file_size": 17030,
+        "file_status": "com_cpy",
+        "folder_id": "e7cbef7f-72d1-bb24-b642-bd9d223d6d46",
+        "create_ts": "2021-08-09T14:18:10.048Z",
+        "last_update_ts": "2021-08-09T14:19:37.523Z",
+        "active_ind": "Y",
+        "file_manager_id": "47df84a9-95d2-476f-9923-399ce5f43ee0",
+        "file_folder_path": "Political Files/2021/Terms and Disclosures/Invoices",
+        "full_qualified_file_name": "Political Files/2021/Terms and Disclosures/Invoices/KJCEAM-Political Inv 072021",
+        "entity_id": "1243",
+        "source_service_code": "AM",
+        "callsign": "KJCE",
+        "political_file_type": "PA",
+        "campaign_year": "2021",
+        "_version_": 1707625614223081500,
+        "score": 0.24995703
+      },
+      {
+        "id": "3b48c53a-4e18-e79d-f183-21da002d38b8",
+        "file_id": "3b48c53a-4e18-e79d-f183-21da002d38b8",
+        "file_name": "WSTRFM-Political Inv 072021",
+        "file_extension": "pdf",
+        "file_size": 23037,
+        "file_status": "com_cpy",
+        "folder_id": "6fa8f6fe-2262-ac37-7492-6f1541a1fe99",
+        "create_ts": "2021-08-09T14:16:15.657Z",
+        "last_update_ts": "2021-08-09T14:17:12.606Z",
+        "active_ind": "Y",
+        "file_manager_id": "91452e8a-6ddc-4a38-b87f-04724dda3e25",
+        "file_folder_path": "Political Files/2021/Terms and Disclosures/Invoices",
+        "full_qualified_file_name": "Political Files/2021/Terms and Disclosures/Invoices/WSTRFM-Political Inv 072021",
+        "entity_id": "30822",
+        "source_service_code": "FM",
+        "callsign": "WSTR",
+        "political_file_type": "PA",
+        "campaign_year": "2021",
+        "_version_": 1707625494434807800,
+        "score": 0.24995703
+      },
       {
         "id": "75cda595-49a0-5df9-b6ee-ae814f78a96a",
         "file_id": "75cda595-49a0-5df9-b6ee-ae814f78a96a",
@@ -178,52 +222,6 @@
         "callsign": "KOPB-TV",
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1707392903294222300,
-        "score": 0.24995703
-      },
-      {
-        "id": "61891aab-606e-8ebc-e4ea-6b9f4b7fa23b",
-        "file_id": "61891aab-606e-8ebc-e4ea-6b9f4b7fa23b",
-        "file_name": "Local Productions_070121-073121",
-        "file_extension": "pdf",
-        "file_size": 55005,
-        "file_status": "com_cpy",
-        "folder_id": "cb28681d-9a04-5670-03ab-824b3782cabf",
-        "create_ts": "2021-08-07T00:39:20.991Z",
-        "last_update_ts": "2021-08-07T00:40:16.882Z",
-        "active_ind": "Y",
-        "file_manager_id": "4d3bb31f-977b-4fa6-b94f-641ad8e2ebce",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/Local Productions",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/Local Productions/Local Productions_070121-073121",
-        "entity_id": "50590",
-        "source_service_code": "TV",
-        "network_affiliation": "PBS",
-        "nielsen_dma_rank": "EUGENE",
-        "callsign": "KOAC-TV",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1707392904654225400,
-        "score": 0.24995703
-      },
-      {
-        "id": "cf621997-f637-c1bb-41cf-716a925dcf09",
-        "file_id": "cf621997-f637-c1bb-41cf-716a925dcf09",
-        "file_name": "Local Productions_070121-073121",
-        "file_extension": "pdf",
-        "file_size": 55005,
-        "file_status": "com_cpy",
-        "folder_id": "3416f9e2-35f9-a547-f5ee-edbdcaa18fcf",
-        "create_ts": "2021-08-07T00:39:17.769Z",
-        "last_update_ts": "2021-08-07T00:40:13.864Z",
-        "active_ind": "Y",
-        "file_manager_id": "18bd3517-a5d4-4690-8cf8-e932630054b2",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/Local Productions",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/Local Productions/Local Productions_070121-073121",
-        "entity_id": "50588",
-        "source_service_code": "TV",
-        "network_affiliation": "PBS",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOAB-TV",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1707392901500108800,
         "score": 0.24995703
       }
     ],
@@ -402,7 +400,7 @@
         "2018": 68208,
         "2019": 14255,
         "2020": 126478,
-        "2021": 9940,
+        "2021": 9942,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -444,12 +442,12 @@
       "source_service_code": {
         "TV": 231817,
         "CABLE": 111176,
-        "FM": 106462,
-        "AM": 39723,
+        "FM": 106463,
+        "AM": 39724,
         "DBS": 5002
       },
       "political_file_type": {
-        "PA": 216769,
+        "PA": 216771,
         "NCIA": 112868
       }
     }
@@ -466,8 +464,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1696,
-    "processTime": 704,
-    "responseTime": 1705
+    "queryTime": 206,
+    "processTime": 215,
+    "responseTime": 215
   }
 }
