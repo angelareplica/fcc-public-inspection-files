@@ -1,9 +1,78 @@
 {
   "response": {
-    "numFound": 494361,
+    "numFound": 494363,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "8d9a17c7-438f-88fa-22e6-22f28f9b01cb",
+        "file_id": "8d9a17c7-438f-88fa-22e6-22f28f9b01cb",
+        "file_name": "End Citizen United NAB signed 01",
+        "file_extension": "pdf",
+        "file_size": 280071,
+        "file_status": "com_cpy",
+        "folder_id": "b88082bf-fadf-bd31-1163-f7ad4d79ef9d",
+        "create_ts": "2021-08-10T23:42:29.475Z",
+        "last_update_ts": "2021-08-10T23:43:57.757Z",
+        "active_ind": "Y",
+        "file_manager_id": "a4c6a428-5940-432a-b417-c96638985f90",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/End Citizen United 2021/NAB",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/End Citizen United 2021/NAB/End Citizen United NAB signed 01",
+        "entity_id": "44052",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "TUCSON (SIERRA VISTA)",
+        "callsign": "KMSB",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1707751715552362500,
+        "score": 0.24995703
+      },
+      {
+        "id": "7d9f7651-2274-46e4-a80d-d6366d5832c2",
+        "file_id": "7d9f7651-2274-46e4-a80d-d6366d5832c2",
+        "file_name": "End Citizen United NAB signed 02",
+        "file_extension": "pdf",
+        "file_size": 281676,
+        "file_status": "com_cpy",
+        "folder_id": "b88082bf-fadf-bd31-1163-f7ad4d79ef9d",
+        "create_ts": "2021-08-10T23:42:29.505Z",
+        "last_update_ts": "2021-08-10T23:43:57.675Z",
+        "active_ind": "Y",
+        "file_manager_id": "2e8e4ebc-cb52-49fb-a4ce-5ba83957455a",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/End Citizen United 2021/NAB",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/End Citizen United 2021/NAB/End Citizen United NAB signed 02",
+        "entity_id": "44052",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "TUCSON (SIERRA VISTA)",
+        "callsign": "KMSB",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1707751715483156500,
+        "score": 0.24995703
+      },
+      {
+        "id": "13bf558f-3a4c-4877-72df-b817cb628665",
+        "file_id": "13bf558f-3a4c-4877-72df-b817cb628665",
+        "file_name": "62912199-STOP REPUBLICAN RECALL OF GOV NEWSOM-8.2-21-9.12.21-0777-REV #2 CDR",
+        "file_extension": "pdf",
+        "file_size": 31507,
+        "file_status": "com_cpy",
+        "folder_id": "bcd5d72e-9c89-33a0-dde3-ad1c52d8c907",
+        "create_ts": "2021-08-10T23:25:08.952Z",
+        "last_update_ts": "2021-08-10T23:26:06.285Z",
+        "active_ind": "Y",
+        "file_manager_id": "fc0a467c-9f06-4f2e-8319-e5f530a9691f",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/California/Stop the Republican Recall of Governor Newsom",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/California/Stop the Republican Recall of Governor Newsom/62912199-STOP REPUBLICAN RECALL OF GOV NEWSOM-8.2-21-9.12.21-0777-REV #2 CDR",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1707750624411517000,
+        "score": 0.24995703
+      },
       {
         "id": "3fdf223d-2a27-7566-8edd-6715e417b163",
         "file_id": "3fdf223d-2a27-7566-8edd-6715e417b163",
@@ -160,69 +229,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1707746713727402000,
         "score": 0.24995703
-      },
-      {
-        "id": "cba85cf7-17e5-8080-e34f-e1bde658fa7c",
-        "file_id": "cba85cf7-17e5-8080-e34f-e1bde658fa7c",
-        "file_name": "NEWS 8-05-21 FM",
-        "file_extension": "pdf",
-        "file_size": 50097,
-        "file_status": "com_cpy",
-        "folder_id": "86b8d6c8-fe81-214b-d90a-785b64bfadcb",
-        "create_ts": "2021-08-10T22:22:59.4Z",
-        "last_update_ts": "2021-08-10T22:24:27.452Z",
-        "active_ind": "Y",
-        "file_manager_id": "4e9ca1a7-fa4c-4042-801f-eaa635c14095",
-        "file_folder_path": "Issues and Programs Lists/August 2021 News",
-        "full_qualified_file_name": "Issues and Programs Lists/August 2021 News/NEWS 8-05-21 FM",
-        "entity_id": "24952",
-        "source_service_code": "AM",
-        "callsign": "KUHL",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1707746713548095500,
-        "score": 0.24995703
-      },
-      {
-        "id": "4b402f65-e1db-0c01-fe35-fcdae8e4db14",
-        "file_id": "4b402f65-e1db-0c01-fe35-fcdae8e4db14",
-        "file_name": "NEWS 8-04-21 FM",
-        "file_extension": "pdf",
-        "file_size": 50335,
-        "file_status": "com_cpy",
-        "folder_id": "86b8d6c8-fe81-214b-d90a-785b64bfadcb",
-        "create_ts": "2021-08-10T22:22:59.282Z",
-        "last_update_ts": "2021-08-10T22:24:27.343Z",
-        "active_ind": "Y",
-        "file_manager_id": "bc55085f-578f-4eaa-827d-3434f33fe3be",
-        "file_folder_path": "Issues and Programs Lists/August 2021 News",
-        "full_qualified_file_name": "Issues and Programs Lists/August 2021 News/NEWS 8-04-21 FM",
-        "entity_id": "24952",
-        "source_service_code": "AM",
-        "callsign": "KUHL",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1707746713436946400,
-        "score": 0.24995703
-      },
-      {
-        "id": "57075d18-df82-832c-6ed7-8429245891df",
-        "file_id": "57075d18-df82-832c-6ed7-8429245891df",
-        "file_name": "NEWS 8-03-21 FM",
-        "file_extension": "pdf",
-        "file_size": 50000,
-        "file_status": "com_cpy",
-        "folder_id": "86b8d6c8-fe81-214b-d90a-785b64bfadcb",
-        "create_ts": "2021-08-10T22:22:59.169Z",
-        "last_update_ts": "2021-08-10T22:24:27.166Z",
-        "active_ind": "Y",
-        "file_manager_id": "1020b246-d14c-4036-a617-1f3dd8a858c2",
-        "file_folder_path": "Issues and Programs Lists/August 2021 News",
-        "full_qualified_file_name": "Issues and Programs Lists/August 2021 News/NEWS 8-03-21 FM",
-        "entity_id": "24952",
-        "source_service_code": "AM",
-        "callsign": "KUHL",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1707746713247154200,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -332,7 +338,7 @@
         "ABC": 56704,
         "NBC": 55616,
         "CBS": 37664,
-        "FOX": 27053,
+        "FOX": 27054,
         "PBS": 13953,
         "CW": 11900,
         "IND": 2980,
@@ -400,7 +406,7 @@
         "2018": 68207,
         "2019": 14254,
         "2020": 126485,
-        "2021": 10053,
+        "2021": 10055,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -440,15 +446,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231871,
+        "TV": 231872,
         "CABLE": 111183,
         "FM": 106535,
         "AM": 39769,
-        "DBS": 5003
+        "DBS": 5004
       },
       "political_file_type": {
         "PA": 216849,
-        "NCIA": 112906
+        "NCIA": 112908
       }
     }
   },
@@ -464,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 213,
-    "responseTime": 213
+    "queryTime": 1695,
+    "processTime": 703,
+    "responseTime": 1704
   }
 }
