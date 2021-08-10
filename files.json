@@ -5,6 +5,31 @@
     "maxScore": 0.50016403,
     "docs": [
       {
+        "id": "61a648df-9ded-bd17-3726-ad15bbf293c2",
+        "file_id": "61a648df-9ded-bd17-3726-ad15bbf293c2",
+        "file_name": "Randall Woodfin 8.10-8.16.21 order, NAB, contract",
+        "file_extension": "pdf",
+        "file_size": 1129511,
+        "file_status": "com_cpy",
+        "folder_id": "48b6ec39-b401-b818-1a18-f1f1fcfdeb48",
+        "create_ts": "2021-08-10T17:36:53.465Z",
+        "last_update_ts": "2021-08-10T17:37:51.008Z",
+        "active_ind": "Y",
+        "file_manager_id": "debe549d-1f4a-4486-bd48-e41b71e61145",
+        "file_folder_path": "Political Files/2021/Local/Randall Woodfin/Randall Woodfin 081021-081621",
+        "full_qualified_file_name": "Political Files/2021/Local/Randall Woodfin/Randall Woodfin 081021-081621/Randall Woodfin 8.10-8.16.21 order, NAB, contract",
+        "entity_id": "74173",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
+        "callsign": "WVTM-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1707728714210476000,
+        "score": 0.24995703
+      },
+      {
         "id": "0c27e1dc-c691-48f1-20c6-7d0ffbcd67b7",
         "file_id": "0c27e1dc-c691-48f1-20c6-7d0ffbcd67b7",
         "file_name": "Governor_Cox_811820_081121-082121",
@@ -200,27 +225,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1707724456061829000,
         "score": 0.24995703
-      },
-      {
-        "id": "b3d2e1b3-8842-85c5-9440-b4b36be4212b",
-        "file_id": "b3d2e1b3-8842-85c5-9440-b4b36be4212b",
-        "file_name": "Foundation Underwriters_July 2021",
-        "file_extension": "pdf",
-        "file_size": 10482,
-        "file_status": "com_cpy",
-        "folder_id": "ce36996c-a3c1-dc07-1a33-e0f43f161014",
-        "create_ts": "2021-08-10T16:29:13.059Z",
-        "last_update_ts": "2021-08-10T16:30:40.945Z",
-        "active_ind": "Y",
-        "file_manager_id": "706452ef-8f32-4771-a17b-bfd47cf51b52",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/2021/07 - July 2021",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/2021/07 - July 2021/Foundation Underwriters_July 2021",
-        "entity_id": "25103",
-        "source_service_code": "FM",
-        "callsign": "WGMS",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1707724456064974800,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -258,7 +262,7 @@
         "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
         "Greenville-Spartanburg-Asheville-Anderson": 2166,
         "PEORIA-BLOOMINGTON": 2166,
-        "BIRMINGHAM (ANN TUSC)": 2149,
+        "BIRMINGHAM (ANN TUSC)": 2150,
         "TAMPA-ST. PETE (SARASOTA)": 2148,
         "LEXINGTON": 2077,
         "PHILADELPHIA": 2017,
@@ -328,7 +332,7 @@
       },
       "network_affiliation": {
         "ABC": 56702,
-        "NBC": 55605,
+        "NBC": 55606,
         "CBS": 37663,
         "FOX": 27052,
         "PBS": 13953,
@@ -398,7 +402,7 @@
         "2018": 68207,
         "2019": 14254,
         "2020": 126485,
-        "2021": 10024,
+        "2021": 10025,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -407,7 +411,7 @@
         "US Senate": 48315,
         "US House": 41552,
         "Presidential": 39295,
-        "Local": 22664
+        "Local": 22665
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54202,
@@ -425,7 +429,7 @@
         "Class A TV Continuing Eligibility": 623,
         "Political Matters and Controversial Issues Disclosures": 552,
         "State and Local Franchising Related Materials": 472,
-        "Time Brokerage Agreements": 396,
+        "Time Brokerage Agreements": 395,
         "Channels Delivered": 275,
         "Compatibility with Consumer Electronics Equipment": 142,
         "Information on Third-Party Fundraising - For NCE Stations Only": 85,
@@ -438,14 +442,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231855,
+        "TV": 231856,
         "CABLE": 111183,
         "FM": 106519,
-        "AM": 39763,
+        "AM": 39762,
         "DBS": 5003
       },
       "political_file_type": {
-        "PA": 216831,
+        "PA": 216832,
         "NCIA": 112895
       }
     }
@@ -462,8 +466,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 214,
-    "responseTime": 214
+    "queryTime": 1697,
+    "processTime": 704,
+    "responseTime": 1705
   }
 }
