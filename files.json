@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 494444,
+    "numFound": 494445,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "5405ca3e-0ae9-fa14-00c7-6451409ebcf8",
+        "file_id": "5405ca3e-0ae9-fa14-00c7-6451409ebcf8",
+        "file_name": "WWTO-TV License Authorization File No. 0000114897",
+        "file_extension": "pdf",
+        "file_size": 187530,
+        "file_status": "com_cpy",
+        "folder_id": "6d7d2ca1-9925-9a83-c61f-63e8757044dc",
+        "create_ts": "2021-08-11T20:35:24.439Z",
+        "last_update_ts": "2021-08-11T20:36:53.132Z",
+        "active_ind": "Y",
+        "file_manager_id": "8850b024-2e37-46d3-9216-55ac15428929",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/WWTO-TV License Authorization File No. 0000114897",
+        "entity_id": "998",
+        "source_service_code": "TV",
+        "network_affiliation": "TRINITY BROADCASTING NETWORK",
+        "nielsen_dma_rank": "CHICAGO",
+        "callsign": "WWTO-TV",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1707830542227996700,
+        "score": 0.24995703
+      },
       {
         "id": "52a0e2c3-804a-eb97-c71d-b639970d830e",
         "file_id": "52a0e2c3-804a-eb97-c71d-b639970d830e",
@@ -213,30 +236,6 @@
         "campaign_year": "2021",
         "_version_": 1707826276819009500,
         "score": 0.24995703
-      },
-      {
-        "id": "17eed1c0-c2f2-3b2d-bf7d-c994df113b0e",
-        "file_id": "17eed1c0-c2f2-3b2d-bf7d-c994df113b0e",
-        "file_name": "BBT-0812-0818-3150570 REQ",
-        "file_extension": "pdf",
-        "file_size": 19517,
-        "file_status": "com_cpy",
-        "folder_id": "9dfa89b4-07f8-d953-3e5d-e8869fd42234",
-        "create_ts": "2021-08-11T19:10:11.655Z",
-        "last_update_ts": "2021-08-11T19:11:40.089Z",
-        "active_ind": "Y",
-        "file_manager_id": "690941cb-0d79-4891-ab85-a0649514be60",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/BBT Build Back Together/Orders and Revisions",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/BBT Build Back Together/Orders and Revisions/BBT-0812-0818-3150570 REQ",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1707825180842131500,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -267,7 +266,7 @@
         "MILWAUKEE": 2619,
         "BEND OR": 2586,
         "GREENSBORO-H.POINT-W.SALEM": 2517,
-        "CHICAGO": 2486,
+        "CHICAGO": 2487,
         "FRESNO-VISALIA": 2440,
         "SAVANNAH": 2396,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
@@ -368,7 +367,7 @@
         "NONE": 200,
         "ETV": 197,
         "NBC & CW (DIGITAL ONLY)": 161,
-        "TRINITY BROADCASTING NETWORK": 160,
+        "TRINITY BROADCASTING NETWORK": 161,
         "Independent": 157,
         "MeTV": 124,
         "THE CW NETWORK": 121,
@@ -430,7 +429,7 @@
         "Issues and Programs Lists": 42855,
         "Equal Employment Opportunity Records": 36789,
         "Donor Lists - Applicable Only for NCEs": 11263,
-        "FCC Authorizations": 7072,
+        "FCC Authorizations": 7073,
         "Local Public Notice Announcements": 1661,
         "Applications and Related Materials": 1515,
         "Availability of Signals": 1504,
@@ -454,7 +453,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231920,
+        "TV": 231921,
         "CABLE": 111187,
         "FM": 106550,
         "AM": 39780,
@@ -478,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 213,
-    "responseTime": 214
+    "queryTime": 200,
+    "processTime": 208,
+    "responseTime": 208
   }
 }
