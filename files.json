@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 494435,
+    "numFound": 494437,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "70571215-a74b-9662-92f8-a9a928b731e1",
+        "file_id": "70571215-a74b-9662-92f8-a9a928b731e1",
+        "file_name": "Pritzker 081121 3148293 mkgd from 3142221",
+        "file_extension": "pdf",
+        "file_size": 4437028,
+        "file_status": "com_cpy",
+        "folder_id": "40633280-fa16-8a4f-4e35-3f50d10e5aaa",
+        "create_ts": "2021-08-11T19:27:35.584Z",
+        "last_update_ts": "2021-08-11T19:28:34.478Z",
+        "active_ind": "Y",
+        "file_manager_id": "35dd0039-c4e5-45e2-ace5-3fb8e6c5e048",
+        "file_folder_path": "Political Files/2021/State/JB Pritzker Gov IL Dem",
+        "full_qualified_file_name": "Political Files/2021/State/JB Pritzker Gov IL Dem/Pritzker 081121 3148293 mkgd from 3142221",
+        "entity_id": "42121",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "PEORIA-BLOOMINGTON",
+        "callsign": "WMBD-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1707826276975247400,
+        "score": 0.24995703
+      },
+      {
+        "id": "06bfe31f-d6ba-9eaf-2b23-c3509d9b0c4b",
+        "file_id": "06bfe31f-d6ba-9eaf-2b23-c3509d9b0c4b",
+        "file_name": "Pritzker 081121 3142221 request credit",
+        "file_extension": "pdf",
+        "file_size": 4105341,
+        "file_status": "com_cpy",
+        "folder_id": "40633280-fa16-8a4f-4e35-3f50d10e5aaa",
+        "create_ts": "2021-08-11T19:27:34.799Z",
+        "last_update_ts": "2021-08-11T19:28:34.324Z",
+        "active_ind": "Y",
+        "file_manager_id": "6c24029f-1af6-4338-92f1-f80eec9d0d44",
+        "file_folder_path": "Political Files/2021/State/JB Pritzker Gov IL Dem",
+        "full_qualified_file_name": "Political Files/2021/State/JB Pritzker Gov IL Dem/Pritzker 081121 3142221 request credit",
+        "entity_id": "42121",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "PEORIA-BLOOMINGTON",
+        "callsign": "WMBD-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1707826276819009500,
+        "score": 0.24995703
+      },
       {
         "id": "17eed1c0-c2f2-3b2d-bf7d-c994df113b0e",
         "file_id": "17eed1c0-c2f2-3b2d-bf7d-c994df113b0e",
@@ -196,50 +246,6 @@
         "campaign_year": "2021",
         "_version_": 1707821656937857000,
         "score": 0.24995703
-      },
-      {
-        "id": "19ee57c3-8803-db2c-7f13-6dd538c08a37",
-        "file_id": "19ee57c3-8803-db2c-7f13-6dd538c08a37",
-        "file_name": "08-13-21 #383854 ID FREEDOM FOUNDATION ORDER",
-        "file_extension": "pdf",
-        "file_size": 275416,
-        "file_status": "com_cpy",
-        "folder_id": "725dd790-a1e4-d13a-be1e-70b67897ca9b",
-        "create_ts": "2021-08-11T18:16:14.786Z",
-        "last_update_ts": "2021-08-11T18:17:12.43Z",
-        "active_ind": "Y",
-        "file_manager_id": "fad85092-4877-40b4-8286-bba2c9b0c3c6",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Idaho Freedom Foundation/KQBL-HD3",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Idaho Freedom Foundation/KQBL-HD3/08-13-21 #383854 ID FREEDOM FOUNDATION ORDER",
-        "entity_id": "54509",
-        "source_service_code": "FM",
-        "callsign": "KQBL",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1707821786943455200,
-        "score": 0.24995703
-      },
-      {
-        "id": "38981947-1fd0-5659-b7b5-c7efa1d97f2f",
-        "file_id": "38981947-1fd0-5659-b7b5-c7efa1d97f2f",
-        "file_name": "08-13-21 #383854 ID FREEDOM FOUNDATION ORDER",
-        "file_extension": "pdf",
-        "file_size": 275416,
-        "file_status": "com_cpy",
-        "folder_id": "c29f0b26-2af2-8c28-07ea-a6a0196a9e96",
-        "create_ts": "2021-08-11T18:13:51.375Z",
-        "last_update_ts": "2021-08-11T18:14:49.058Z",
-        "active_ind": "Y",
-        "file_manager_id": "79ff661c-d35a-43dc-b731-b44df8e888fb",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Idaho Freedom Foundation/KQBL-HD2",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Idaho Freedom Foundation/KQBL-HD2/08-13-21 #383854 ID FREEDOM FOUNDATION ORDER",
-        "entity_id": "54509",
-        "source_service_code": "FM",
-        "callsign": "KQBL",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1707821636607017000,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -274,7 +280,7 @@
         "FRESNO-VISALIA": 2440,
         "SAVANNAH": 2396,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
-        "PEORIA-BLOOMINGTON": 2174,
+        "PEORIA-BLOOMINGTON": 2176,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
         "Greenville-Spartanburg-Asheville-Anderson": 2166,
         "BIRMINGHAM (ANN TUSC)": 2152,
@@ -348,7 +354,7 @@
       "network_affiliation": {
         "ABC": 56724,
         "NBC": 55618,
-        "CBS": 37673,
+        "CBS": 37675,
         "FOX": 27063,
         "PBS": 13953,
         "CW": 11900,
@@ -417,12 +423,12 @@
         "2018": 68207,
         "2019": 14254,
         "2020": 126485,
-        "2021": 10114,
+        "2021": 10116,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 63935,
+        "State": 63937,
         "US Senate": 48316,
         "US House": 41558,
         "Presidential": 39295,
@@ -457,14 +463,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231915,
+        "TV": 231917,
         "CABLE": 111187,
         "FM": 106547,
         "AM": 39779,
         "DBS": 5007
       },
       "political_file_type": {
-        "PA": 216862,
+        "PA": 216864,
         "NCIA": 112954
       }
     }
@@ -481,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1693,
-    "processTime": 701,
-    "responseTime": 1701
+    "queryTime": 1698,
+    "processTime": 705,
+    "responseTime": 1705
   }
 }
