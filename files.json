@@ -1,9 +1,58 @@
 {
   "response": {
-    "numFound": 494485,
+    "numFound": 494487,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "682a7fe9-1cc6-5282-f8a9-2ce7d5ecf139",
+        "file_id": "682a7fe9-1cc6-5282-f8a9-2ce7d5ecf139",
+        "file_name": "60 Plus campaign loa centriply SIGNED 7-23-21 (002)",
+        "file_extension": "pdf",
+        "file_size": 109812,
+        "file_status": "com_cpy",
+        "folder_id": "703e7713-8a40-3c21-4462-024bc53b107d",
+        "create_ts": "2021-08-12T00:37:14.616Z",
+        "last_update_ts": "2021-08-12T00:38:43.368Z",
+        "active_ind": "Y",
+        "file_manager_id": "582d1602-d205-47c6-82fe-8be8c182f772",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/60 PLUS",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/60 PLUS/60 Plus campaign loa centriply SIGNED 7-23-21 (002)",
+        "entity_id": "41223",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
+        "callsign": "KPHO-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1707845757263937500,
+        "score": 0.24995703
+      },
+      {
+        "id": "7147ec3a-0188-bc1a-2a15-2c192522b275",
+        "file_id": "7147ec3a-0188-bc1a-2a15-2c192522b275",
+        "file_name": "FAULCONER.R.GOVERNOR 081221-081821 2168317 CONTRACT NAB",
+        "file_extension": "pdf",
+        "file_size": 520605,
+        "file_status": "com_cpy",
+        "folder_id": "64c8a33f-93e7-f3d2-7d18-b525f017812b",
+        "create_ts": "2021-08-12T00:09:16.983Z",
+        "last_update_ts": "2021-08-12T00:10:14.893Z",
+        "active_ind": "Y",
+        "file_manager_id": "e66f4798-f26b-4e22-badb-c613adf71e3c",
+        "file_folder_path": "Political Files/2021/State/FAULCONER-R-GOVERNOR",
+        "full_qualified_file_name": "Political Files/2021/State/FAULCONER-R-GOVERNOR/FAULCONER.R.GOVERNOR 081221-081821 2168317 CONTRACT NAB",
+        "entity_id": "33875",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
+        "callsign": "KCRA-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1707843998292377600,
+        "score": 0.24995703
+      },
       {
         "id": "270bf05f-39b3-79ca-6370-e9a9e2752f54",
         "file_id": "270bf05f-39b3-79ca-6370-e9a9e2752f54",
@@ -196,56 +245,6 @@
         "campaign_year": "2021",
         "_version_": 1707835906492203000,
         "score": 0.24995703
-      },
-      {
-        "id": "a277714f-23bc-6015-963d-81f3c9a34d39",
-        "file_id": "a277714f-23bc-6015-963d-81f3c9a34d39",
-        "file_name": "Boozman for Arkansas 62915528 08.12-09.12.21 0378 9972",
-        "file_extension": "pdf",
-        "file_size": 47157,
-        "file_status": "com_cpy",
-        "folder_id": "a40e753a-50af-c2fe-b27c-c60071036985",
-        "create_ts": "2021-08-11T22:00:40.19Z",
-        "last_update_ts": "2021-08-11T22:02:08.647Z",
-        "active_ind": "Y",
-        "file_manager_id": "b7082723-46a8-4fea-87f4-b7efe2ff02ce",
-        "file_folder_path": "Political Files/2021/Federal/US Senate/Boozman for Arkansas",
-        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Boozman for Arkansas/Boozman for Arkansas 62915528 08.12-09.12.21 0378 9972",
-        "entity_id": "020585",
-        "source_service_code": "CABLE",
-        "legal_name": "COXCOM, LLC",
-        "operator_city_name": "Atlanta",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2021",
-        "_version_": 1707835906199650300,
-        "score": 0.24995703
-      },
-      {
-        "id": "9aa3f4ef-28dd-cfb7-06a8-2df03198c188",
-        "file_id": "9aa3f4ef-28dd-cfb7-06a8-2df03198c188",
-        "file_name": "Boozman for Arkansas 62915534 08.12-09.12.21 6213",
-        "file_extension": "pdf",
-        "file_size": 27116,
-        "file_status": "com_cpy",
-        "folder_id": "a40e753a-50af-c2fe-b27c-c60071036985",
-        "create_ts": "2021-08-11T22:00:40.147Z",
-        "last_update_ts": "2021-08-11T22:02:08.607Z",
-        "active_ind": "Y",
-        "file_manager_id": "a4d223de-2b90-488c-88ed-7d4d29aba827",
-        "file_folder_path": "Political Files/2021/Federal/US Senate/Boozman for Arkansas",
-        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Boozman for Arkansas/Boozman for Arkansas 62915534 08.12-09.12.21 6213",
-        "entity_id": "020585",
-        "source_service_code": "CABLE",
-        "legal_name": "COXCOM, LLC",
-        "operator_city_name": "Atlanta",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2021",
-        "_version_": 1707835906170290200,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -272,7 +271,7 @@
         "WAUSAU-RHINELANDER": 2731,
         "FT. WAYNE": 2714,
         "KANSAS CITY": 2699,
-        "SACRAMNTO-STKTON-MODESTO": 2647,
+        "SACRAMNTO-STKTON-MODESTO": 2648,
         "MILWAUKEE": 2619,
         "BEND OR": 2586,
         "GREENSBORO-H.POINT-W.SALEM": 2517,
@@ -300,7 +299,7 @@
         "GREENVLL-SPART-ASHEVLL-AND": 1498,
         "MADISON": 1485,
         "BINGHAMTON": 1442,
-        "PHOENIX (PRESCOTT)": 1423,
+        "PHOENIX (PRESCOTT)": 1424,
         "FARGO-VALLEY CITY": 1415,
         "BURLINGTON-PLATTSBURGH": 1388,
         "PADUCAH-CAPE GIRARD-HARSBG": 1382,
@@ -353,8 +352,8 @@
       },
       "network_affiliation": {
         "ABC": 56733,
-        "NBC": 55623,
-        "CBS": 37676,
+        "NBC": 55624,
+        "CBS": 37677,
         "FOX": 27064,
         "PBS": 13953,
         "CW": 11900,
@@ -423,12 +422,12 @@
         "2018": 68207,
         "2019": 14254,
         "2020": 126485,
-        "2021": 10163,
+        "2021": 10165,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 63939,
+        "State": 63940,
         "US Senate": 48341,
         "US House": 41558,
         "Presidential": 39295,
@@ -463,15 +462,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231934,
+        "TV": 231936,
         "CABLE": 111213,
         "FM": 106550,
         "AM": 39780,
         "DBS": 5008
       },
       "political_file_type": {
-        "PA": 216892,
-        "NCIA": 112973
+        "PA": 216893,
+        "NCIA": 112974
       }
     }
   },
@@ -487,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1692,
-    "processTime": 700,
-    "responseTime": 1700
+    "queryTime": 205,
+    "processTime": 211,
+    "responseTime": 212
   }
 }
