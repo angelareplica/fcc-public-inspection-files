@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 494591,
+    "numFound": 494592,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "d72ca24c-ee95-ec75-7265-e7c208fb2ec6",
+        "file_id": "d72ca24c-ee95-ec75-7265-e7c208fb2ec6",
+        "file_name": "Political issue spot COST NV-03",
+        "file_extension": "pdf",
+        "file_size": 79576,
+        "file_status": "com_cpy",
+        "folder_id": "4468228a-0dc1-5466-597a-8f5c6e763c48",
+        "create_ts": "2021-08-12T22:35:53.593Z",
+        "last_update_ts": "2021-08-12T22:37:22.623Z",
+        "active_ind": "Y",
+        "file_manager_id": "cac329cc-dcc7-4f9f-906b-b4a945510a33",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Action Network",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Action Network/Political issue spot COST NV-03",
+        "entity_id": "35870",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KVVU-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1707928719349252000,
+        "score": 0.24995703
+      },
       {
         "id": "c1889480-7cf5-1675-8849-245cef4d2c90",
         "file_id": "c1889480-7cf5-1675-8849-245cef4d2c90",
@@ -203,28 +227,6 @@
         "campaign_year": "2021",
         "_version_": 1707924268424102000,
         "score": 0.24995703
-      },
-      {
-        "id": "973bcd8c-699b-fb13-7d08-c0ebcde9a69b",
-        "file_id": "973bcd8c-699b-fb13-7d08-c0ebcde9a69b",
-        "file_name": "2622951-2",
-        "file_extension": "pdf",
-        "file_size": 18165,
-        "file_status": "com_cpy",
-        "folder_id": "64eb0607-b84c-d703-fc4c-01e457ebe5dd",
-        "create_ts": "2021-08-12T21:13:49.164Z",
-        "last_update_ts": "2021-08-12T21:15:18.192Z",
-        "active_ind": "Y",
-        "file_manager_id": "d0f453e8-a9dc-46f0-b5ca-17d17998d5e0",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Clean Energy Matters/Clean Energy Matters 06-22-21 - 06-29-21",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Clean Energy Matters/Clean Energy Matters 06-22-21 - 06-29-21/2622951-2",
-        "entity_id": "22878",
-        "source_service_code": "FM",
-        "callsign": "WBLM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1707923555737403400,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -233,7 +235,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7034,
         "WILKES BARRE-SCRANTON": 6634,
         "WEST PALM BEACH-FT. PIERCE": 5750,
-        "LAS VEGAS": 5658,
+        "LAS VEGAS": 5659,
         "PITTSBURGH": 5297,
         "HONOLULU": 5188,
         "DULUTH-SUPERIOR": 4649,
@@ -334,7 +336,7 @@
         "ABC": 56744,
         "NBC": 55625,
         "CBS": 37682,
-        "FOX": 27067,
+        "FOX": 27068,
         "PBS": 13949,
         "CW": 11900,
         "IND": 2980,
@@ -402,7 +404,7 @@
         "2018": 68207,
         "2019": 14254,
         "2020": 126485,
-        "2021": 10258,
+        "2021": 10259,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -442,7 +444,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231955,
+        "TV": 231956,
         "CABLE": 111258,
         "FM": 106587,
         "AM": 39783,
@@ -450,7 +452,7 @@
       },
       "political_file_type": {
         "PA": 216907,
-        "NCIA": 113053
+        "NCIA": 113054
       }
     }
   },
@@ -466,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1699,
-    "processTime": 706,
-    "responseTime": 1707
+    "queryTime": 208,
+    "processTime": 215,
+    "responseTime": 215
   }
 }
