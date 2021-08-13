@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 494594,
+    "numFound": 494595,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "e64922c9-a6e1-47a5-f9a7-91d622a132da",
+        "file_id": "e64922c9-a6e1-47a5-f9a7-91d622a132da",
+        "file_name": "American Action Network 1097142-0",
+        "file_extension": "pdf",
+        "file_size": 110369,
+        "file_status": "com_cpy",
+        "folder_id": "fae68720-b00e-77c9-61b4-516c534f1efd",
+        "create_ts": "2021-08-12T23:45:27.613Z",
+        "last_update_ts": "2021-08-12T23:46:56.545Z",
+        "active_ind": "Y",
+        "file_manager_id": "38aa75eb-9eba-4396-9176-fa390ad6cfb4",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Action Network",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Action Network/American Action Network 1097142-0",
+        "entity_id": "22211",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "CHICAGO",
+        "callsign": "WFLD",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1707933096006910000,
+        "score": 0.24995703
+      },
       {
         "id": "46c3144f-5d85-0a41-4d4f-1af86b7382be",
         "file_id": "46c3144f-5d85-0a41-4d4f-1af86b7382be",
@@ -209,28 +233,6 @@
         "campaign_year": "2021",
         "_version_": 1707925233022795800,
         "score": 0.24995703
-      },
-      {
-        "id": "5c9fc627-9dd3-b322-8b6c-455da0f7e6eb",
-        "file_id": "5c9fc627-9dd3-b322-8b6c-455da0f7e6eb",
-        "file_name": "Business Round Table WHOM Katz IO est TAXAD7  07-19-21 - 07-30-21",
-        "file_extension": "pdf",
-        "file_size": 58392,
-        "file_status": "com_cpy",
-        "folder_id": "aeb01f19-d327-7bc9-bd07-533c666c9003",
-        "create_ts": "2021-08-12T21:40:27.442Z",
-        "last_update_ts": "2021-08-12T21:41:25.66Z",
-        "active_ind": "Y",
-        "file_manager_id": "953cc550-9969-402c-a825-fe5b6d59418c",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Business Round Table/Business Round Table 7-19-21 - 7-30-21",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Business Round Table/Business Round Table 7-19-21 - 7-30-21/Business Round Table WHOM Katz IO est TAXAD7  07-19-21 - 07-30-21",
-        "entity_id": "49687",
-        "source_service_code": "FM",
-        "callsign": "WHOM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1707925231948005400,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -261,7 +263,7 @@
         "MILWAUKEE": 2619,
         "BEND OR": 2586,
         "GREENSBORO-H.POINT-W.SALEM": 2517,
-        "CHICAGO": 2487,
+        "CHICAGO": 2488,
         "FRESNO-VISALIA": 2440,
         "SAVANNAH": 2396,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
@@ -340,7 +342,7 @@
         "ABC": 56744,
         "NBC": 55625,
         "CBS": 37682,
-        "FOX": 27070,
+        "FOX": 27071,
         "PBS": 13949,
         "CW": 11900,
         "IND": 2980,
@@ -408,7 +410,7 @@
         "2018": 68207,
         "2019": 14254,
         "2020": 126485,
-        "2021": 10261,
+        "2021": 10262,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -448,7 +450,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 231958,
+        "TV": 231959,
         "CABLE": 111258,
         "FM": 106587,
         "AM": 39783,
@@ -456,7 +458,7 @@
       },
       "political_file_type": {
         "PA": 216907,
-        "NCIA": 113056
+        "NCIA": 113057
       }
     }
   },
@@ -472,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 229,
-    "responseTime": 230
+    "queryTime": 202,
+    "processTime": 211,
+    "responseTime": 212
   }
 }
