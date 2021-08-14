@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 494720,
+    "numFound": 494721,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "68c82bf8-07d9-2a1f-ce8e-71d91e2da40a",
+        "file_id": "68c82bf8-07d9-2a1f-ce8e-71d91e2da40a",
+        "file_name": "Job Creators Network 08-16 to 09-12 Statewide NAB",
+        "file_extension": "pdf",
+        "file_size": 92067,
+        "file_status": "com_cpy",
+        "folder_id": "05225796-1f34-7cc8-0b2d-740e26787f60",
+        "create_ts": "2021-08-14T02:01:30.217Z",
+        "last_update_ts": "2021-08-14T02:02:59.938Z",
+        "active_ind": "Y",
+        "file_manager_id": "f054c2b7-0043-47f5-a86f-f037745f941e",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Job Creators Network",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Job Creators Network/Job Creators Network 08-16 to 09-12 Statewide NAB",
+        "entity_id": "009004",
+        "source_service_code": "CABLE",
+        "legal_name": "GCI CABLE INC",
+        "operator_city_name": "ANCHORAGE",
+        "operator_state_name": "AK",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708032252455157800,
+        "score": 0.24995703
+      },
       {
         "id": "5a8227bb-1e75-4003-7ca3-3df2394ea59d",
         "file_id": "5a8227bb-1e75-4003-7ca3-3df2394ea59d",
@@ -219,30 +243,6 @@
         "campaign_year": "2021",
         "_version_": 1708031169699774500,
         "score": 0.24995703
-      },
-      {
-        "id": "211269c7-6742-7b59-a917-db7b1f12ac9a",
-        "file_id": "211269c7-6742-7b59-a917-db7b1f12ac9a",
-        "file_name": "Job Creators Network 08-16 to 09-12 Statewide NAB",
-        "file_extension": "pdf",
-        "file_size": 92067,
-        "file_status": "com_cpy",
-        "folder_id": "92f4faa2-32e1-be8c-d242-6f594af263bf",
-        "create_ts": "2021-08-14T01:42:10.586Z",
-        "last_update_ts": "2021-08-14T01:43:40.129Z",
-        "active_ind": "Y",
-        "file_manager_id": "df218bf2-84bd-4b02-83b3-a22ea9ade54d",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Job Creators Network",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Job Creators Network/Job Creators Network 08-16 to 09-12 Statewide NAB",
-        "entity_id": "009000",
-        "source_service_code": "CABLE",
-        "legal_name": "GCI CABLE INC",
-        "operator_city_name": "ANCHORAGE",
-        "operator_state_name": "AK",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708031036261138400,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -420,7 +420,7 @@
         "2018": 68207,
         "2019": 14254,
         "2020": 126485,
-        "2021": 10381,
+        "2021": 10382,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -461,14 +461,14 @@
       },
       "source_service_code": {
         "TV": 231992,
-        "CABLE": 111311,
+        "CABLE": 111312,
         "FM": 106609,
         "AM": 39796,
         "DBS": 5012
       },
       "political_file_type": {
         "PA": 216916,
-        "NCIA": 113167
+        "NCIA": 113168
       }
     }
   },
@@ -484,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 63,
-    "processTime": 70,
-    "responseTime": 71
+    "queryTime": 1697,
+    "processTime": 705,
+    "responseTime": 1705
   }
 }
