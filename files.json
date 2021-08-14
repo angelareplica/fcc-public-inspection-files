@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 494721,
+    "numFound": 494723,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "8c5b7074-4a4c-9e55-0f38-ffbac7076cba",
+        "file_id": "8c5b7074-4a4c-9e55-0f38-ffbac7076cba",
+        "file_name": "David A. Lyons, Candidate Order Confirmation# 9569-00002",
+        "file_extension": "pdf",
+        "file_size": 107465,
+        "file_status": "com_cpy",
+        "folder_id": "7f96d6a7-0c56-217c-ce72-13d9a2f749b5",
+        "create_ts": "2021-08-14T13:39:50.724Z",
+        "last_update_ts": "2021-08-14T13:40:49.611Z",
+        "active_ind": "Y",
+        "file_manager_id": "a89ddd3c-edd7-414c-8ad4-f3f7495a9e9b",
+        "file_folder_path": "Political Files/2021/Local/Hendry County Special Election 2021/David A Lyons",
+        "full_qualified_file_name": "Political Files/2021/Local/Hendry County Special Election 2021/David A Lyons/David A. Lyons, Candidate Order Confirmation# 9569-00002",
+        "entity_id": "24229",
+        "source_service_code": "AM",
+        "callsign": "WAFC",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1708076188522512400,
+        "score": 0.24995703
+      },
+      {
+        "id": "308b55eb-350e-2d20-fc76-aa8ed78b4cda",
+        "file_id": "308b55eb-350e-2d20-fc76-aa8ed78b4cda",
+        "file_name": "David A. Lyons-candidate for re-election City of Labelle Mayor-Commissioner-Nonpartisan-City Election-Spot Times by Order# 9569-00002",
+        "file_extension": "pdf",
+        "file_size": 110139,
+        "file_status": "com_cpy",
+        "folder_id": "7f96d6a7-0c56-217c-ce72-13d9a2f749b5",
+        "create_ts": "2021-08-14T13:39:50.522Z",
+        "last_update_ts": "2021-08-14T13:40:48.927Z",
+        "active_ind": "Y",
+        "file_manager_id": "aa117fc5-9927-478a-8ec1-a8f6119779e5",
+        "file_folder_path": "Political Files/2021/Local/Hendry County Special Election 2021/David A Lyons",
+        "full_qualified_file_name": "Political Files/2021/Local/Hendry County Special Election 2021/David A Lyons/David A. Lyons-candidate for re-election City of Labelle Mayor-Commissioner-Nonpartisan-City Election-Spot Times by Order# 9569-00002",
+        "entity_id": "24229",
+        "source_service_code": "AM",
+        "callsign": "WAFC",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1708076187806335000,
+        "score": 0.24995703
+      },
       {
         "id": "68c82bf8-07d9-2a1f-ce8e-71d91e2da40a",
         "file_id": "68c82bf8-07d9-2a1f-ce8e-71d91e2da40a",
@@ -195,54 +241,6 @@
         "campaign_year": "2021",
         "_version_": 1708031404608061400,
         "score": 0.24995703
-      },
-      {
-        "id": "88d46995-1015-2992-59c3-0c3f4a9d9502",
-        "file_id": "88d46995-1015-2992-59c3-0c3f4a9d9502",
-        "file_name": "Job Creators Network 08-16 to 09-12 Statewide NAB",
-        "file_extension": "pdf",
-        "file_size": 92067,
-        "file_status": "com_cpy",
-        "folder_id": "2642c90a-20c8-0a6e-f852-b802ce5ea6dc",
-        "create_ts": "2021-08-14T01:46:06.347Z",
-        "last_update_ts": "2021-08-14T01:47:04.586Z",
-        "active_ind": "Y",
-        "file_manager_id": "6d78e788-78bc-406e-af7e-69227ca5785b",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Job Creators Network",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Job Creators Network/Job Creators Network 08-16 to 09-12 Statewide NAB",
-        "entity_id": "016891",
-        "source_service_code": "CABLE",
-        "legal_name": "GCI CABLE INC",
-        "operator_city_name": "ANCHORAGE",
-        "operator_state_name": "AK",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708031283441959000,
-        "score": 0.24995703
-      },
-      {
-        "id": "60050924-ad02-1ffb-e7e9-142d956a8b72",
-        "file_id": "60050924-ad02-1ffb-e7e9-142d956a8b72",
-        "file_name": "Job Creators Network 08-16 to 09-12 Statewide NAB",
-        "file_extension": "pdf",
-        "file_size": 92067,
-        "file_status": "com_cpy",
-        "folder_id": "1ee028e6-4541-e2a6-7116-0e8de190814e",
-        "create_ts": "2021-08-14T01:44:17.905Z",
-        "last_update_ts": "2021-08-14T01:45:16.14Z",
-        "active_ind": "Y",
-        "file_manager_id": "ccbefcd4-01ef-4e55-876f-5bc5bcc34520",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Job Creators Network",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Job Creators Network/Job Creators Network 08-16 to 09-12 Statewide NAB",
-        "entity_id": "008533",
-        "source_service_code": "CABLE",
-        "legal_name": "GCI CABLE INC",
-        "operator_city_name": "ANCHORAGE",
-        "operator_state_name": "AK",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708031169699774500,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -420,7 +418,7 @@
         "2018": 68207,
         "2019": 14254,
         "2020": 126485,
-        "2021": 10382,
+        "2021": 10384,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -429,7 +427,7 @@
         "US Senate": 48342,
         "US House": 41559,
         "Presidential": 39295,
-        "Local": 22675
+        "Local": 22677
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54202,
@@ -463,11 +461,11 @@
         "TV": 231992,
         "CABLE": 111312,
         "FM": 106609,
-        "AM": 39796,
+        "AM": 39798,
         "DBS": 5012
       },
       "political_file_type": {
-        "PA": 216916,
+        "PA": 216918,
         "NCIA": 113168
       }
     }
@@ -484,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 209,
-    "responseTime": 210
+    "queryTime": 1692,
+    "processTime": 704,
+    "responseTime": 1705
   }
 }
