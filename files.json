@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 494772,
+    "numFound": 494774,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "93e4cb4a-ea05-07b5-d8c5-526cf8d3dbbd",
+        "file_id": "93e4cb4a-ea05-07b5-d8c5-526cf8d3dbbd",
+        "file_name": "CRE 081721—083021_210816100650_0001",
+        "file_extension": "pdf",
+        "file_size": 145420,
+        "file_status": "com_cpy",
+        "folder_id": "9bda8fbb-6750-c9b2-9fce-b30231e21975",
+        "create_ts": "2021-08-16T15:43:44.224Z",
+        "last_update_ts": "2021-08-16T15:45:14.949Z",
+        "active_ind": "Y",
+        "file_manager_id": "ee7bd3fe-ad15-49e1-80fb-14260d195da2",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/ORDERS",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/ORDERS/CRE 081721—083021_210816100650_0001",
+        "entity_id": "18389",
+        "source_service_code": "AM",
+        "callsign": "KOAL",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708265176609849300,
+        "score": 0.24995703
+      },
+      {
+        "id": "dba9154b-d06a-72b1-fb0c-48e3e096faea",
+        "file_id": "dba9154b-d06a-72b1-fb0c-48e3e096faea",
+        "file_name": "MOVEON ORG 0816-090621 REV1",
+        "file_extension": "pdf",
+        "file_size": 69864,
+        "file_status": "com_cpy",
+        "folder_id": "7ffeb44c-a93c-ba20-c243-b301c0a14a15",
+        "create_ts": "2021-08-16T15:41:52.125Z",
+        "last_update_ts": "2021-08-16T15:42:51.219Z",
+        "active_ind": "Y",
+        "file_manager_id": "99f2fe1d-1267-4b6a-bae1-2fe82adfe26a",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/MOVEONE ORG",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/MOVEONE ORG/MOVEON ORG 0816-090621 REV1",
+        "entity_id": "7893",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "LA CROSSE-EAU CLAIRE",
+        "callsign": "WEAU",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708265059303555000,
+        "score": 0.24995703
+      },
       {
         "id": "eba21720-0421-71d2-bad0-251443adf538",
         "file_id": "eba21720-0421-71d2-bad0-251443adf538",
@@ -203,56 +249,6 @@
         "campaign_year": "2021",
         "_version_": 1708263459740713000,
         "score": 0.24995703
-      },
-      {
-        "id": "165bb617-fbf7-f3fe-ccd8-a7a109cc940e",
-        "file_id": "165bb617-fbf7-f3fe-ccd8-a7a109cc940e",
-        "file_name": "Sarah For Governor Novar 62915918 09.11-10.24.21 0378 9972",
-        "file_extension": "pdf",
-        "file_size": 118008,
-        "file_status": "com_cpy",
-        "folder_id": "0d8a5c42-6f9f-3be8-2248-470081b9dd30",
-        "create_ts": "2021-08-16T15:14:49.657Z",
-        "last_update_ts": "2021-08-16T15:15:48.739Z",
-        "active_ind": "Y",
-        "file_manager_id": "6a06091a-6916-4daa-955e-4f57b92b4f9d",
-        "file_folder_path": "Political Files/2021/State/Sarah for Governor",
-        "full_qualified_file_name": "Political Files/2021/State/Sarah for Governor/Sarah For Governor Novar 62915918 09.11-10.24.21 0378 9972",
-        "entity_id": "007850",
-        "source_service_code": "CABLE",
-        "legal_name": "COXCOM, LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1708263357712171000,
-        "score": 0.24995703
-      },
-      {
-        "id": "ab1d1f49-0d6b-7195-5fac-d23e5490a1f2",
-        "file_id": "ab1d1f49-0d6b-7195-5fac-d23e5490a1f2",
-        "file_name": "Sarah For Governor Novar 62915924 09.11-10.24.21 6213",
-        "file_extension": "pdf",
-        "file_size": 98681,
-        "file_status": "com_cpy",
-        "folder_id": "0d8a5c42-6f9f-3be8-2248-470081b9dd30",
-        "create_ts": "2021-08-16T15:14:49.62Z",
-        "last_update_ts": "2021-08-16T15:15:48.685Z",
-        "active_ind": "Y",
-        "file_manager_id": "18dd05ed-2298-4c49-bb53-24eda06a628f",
-        "file_folder_path": "Political Files/2021/State/Sarah for Governor",
-        "full_qualified_file_name": "Political Files/2021/State/Sarah for Governor/Sarah For Governor Novar 62915924 09.11-10.24.21 6213",
-        "entity_id": "007850",
-        "source_service_code": "CABLE",
-        "legal_name": "COXCOM, LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1708263357657645000,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -298,7 +294,7 @@
         "SIOUX CITY": 1947,
         "GREAT FALLS": 1923,
         "WASHINGTON DC (HAGRSTWN)": 1851,
-        "LA CROSSE-EAU CLAIRE": 1797,
+        "LA CROSSE-EAU CLAIRE": 1798,
         "BLUEFIELD-BECKLEY-OAK HILL": 1710,
         "ALBUQUERQUE-SANTA FE": 1692,
         "ROCKFORD": 1602,
@@ -360,7 +356,7 @@
       },
       "network_affiliation": {
         "ABC": 56758,
-        "NBC": 55627,
+        "NBC": 55628,
         "CBS": 37695,
         "FOX": 27083,
         "PBS": 13949,
@@ -430,7 +426,7 @@
         "2018": 68202,
         "2019": 14248,
         "2020": 126485,
-        "2021": 10443,
+        "2021": 10445,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -470,15 +466,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232007,
+        "TV": 232008,
         "CABLE": 111336,
         "FM": 106610,
-        "AM": 39807,
+        "AM": 39808,
         "DBS": 5012
       },
       "political_file_type": {
         "PA": 216961,
-        "NCIA": 113173
+        "NCIA": 113175
       }
     }
   },
@@ -495,7 +491,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 206,
-    "processTime": 215,
-    "responseTime": 215
+    "processTime": 223,
+    "responseTime": 224
   }
 }
