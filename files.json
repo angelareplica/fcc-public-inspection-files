@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 494823,
+    "numFound": 494825,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "d80aa0f4-e2da-ff4f-9785-8fb56ec1fbfd",
+        "file_id": "d80aa0f4-e2da-ff4f-9785-8fb56ec1fbfd",
+        "file_name": "Youngkin for Governer Primary NAB 2.1.21 Extreme 081621",
+        "file_extension": "pdf",
+        "file_size": 102366,
+        "file_status": "com_cpy",
+        "folder_id": "8d739f2f-1902-1814-6956-80d7de70b0ff",
+        "create_ts": "2021-08-16T22:54:31.692Z",
+        "last_update_ts": "2021-08-16T22:55:30.916Z",
+        "active_ind": "Y",
+        "file_manager_id": "54d3033a-e07c-445d-94b1-2d5534dd1c9a",
+        "file_folder_path": "Political Files/2021/State/Virginia/Glenn Youngkin VA Governor",
+        "full_qualified_file_name": "Political Files/2021/State/Virginia/Glenn Youngkin VA Governor/Youngkin for Governer Primary NAB 2.1.21 Extreme 081621",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1708292279607754800,
+        "score": 0.24995703
+      },
+      {
+        "id": "0962ce8c-dc0d-87f2-fd42-fdeee6e183f0",
+        "file_id": "0962ce8c-dc0d-87f2-fd42-fdeee6e183f0",
+        "file_name": "Youngkin for Governer Primary NAB 2.1.21 Dangerous 081621",
+        "file_extension": "pdf",
+        "file_size": 102347,
+        "file_status": "com_cpy",
+        "folder_id": "8d739f2f-1902-1814-6956-80d7de70b0ff",
+        "create_ts": "2021-08-16T22:54:31.614Z",
+        "last_update_ts": "2021-08-16T22:55:30.829Z",
+        "active_ind": "Y",
+        "file_manager_id": "8e05e85f-219b-4461-84d8-a9529ebac301",
+        "file_folder_path": "Political Files/2021/State/Virginia/Glenn Youngkin VA Governor",
+        "full_qualified_file_name": "Political Files/2021/State/Virginia/Glenn Youngkin VA Governor/Youngkin for Governer Primary NAB 2.1.21 Dangerous 081621",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1708292279520723000,
+        "score": 0.24995703
+      },
       {
         "id": "373d98d5-7b09-bb7b-8859-43778b6d4a46",
         "file_id": "373d98d5-7b09-bb7b-8859-43778b6d4a46",
@@ -198,56 +242,6 @@
         "campaign_year": "2021",
         "_version_": 1708286600877703200,
         "score": 0.24995703
-      },
-      {
-        "id": "387d4638-4b8b-9591-b1f2-d3b6c605e8fa",
-        "file_id": "387d4638-4b8b-9591-b1f2-d3b6c605e8fa",
-        "file_name": "29658-contract-619252-081621",
-        "file_extension": "pdf",
-        "file_size": 271514,
-        "file_status": "com_cpy",
-        "folder_id": "c1a6ae9e-624e-4513-617f-7ea9bc8ed882",
-        "create_ts": "2021-08-16T21:20:14.095Z",
-        "last_update_ts": "2021-08-16T21:21:45.365Z",
-        "active_ind": "Y",
-        "file_manager_id": "0aec3488-a17c-43bf-834f-9cc8d8eff238",
-        "file_folder_path": "Political Files/2021/State/Illinois/Governor/JB Pritzker/JB for Governor 29658",
-        "full_qualified_file_name": "Political Files/2021/State/Illinois/Governor/JB Pritzker/JB for Governor 29658/29658-contract-619252-081621",
-        "entity_id": "24801",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PEORIA-BLOOMINGTON",
-        "callsign": "WEEK-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1708286347683299300,
-        "score": 0.24995703
-      },
-      {
-        "id": "93981c80-3052-9883-a1e9-4f7579cc638e",
-        "file_id": "93981c80-3052-9883-a1e9-4f7579cc638e",
-        "file_name": "29658-request-619260-081621",
-        "file_extension": "pdf",
-        "file_size": 304308,
-        "file_status": "com_cpy",
-        "folder_id": "c1a6ae9e-624e-4513-617f-7ea9bc8ed882",
-        "create_ts": "2021-08-16T21:20:14.101Z",
-        "last_update_ts": "2021-08-16T21:21:45.347Z",
-        "active_ind": "Y",
-        "file_manager_id": "68c4f17e-0925-47c1-b250-c391befc23e8",
-        "file_folder_path": "Political Files/2021/State/Illinois/Governor/JB Pritzker/JB for Governor 29658",
-        "full_qualified_file_name": "Political Files/2021/State/Illinois/Governor/JB Pritzker/JB for Governor 29658/29658-request-619260-081621",
-        "entity_id": "24801",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PEORIA-BLOOMINGTON",
-        "callsign": "WEEK-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1708286347660230700,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -425,12 +419,12 @@
         "2018": 68175,
         "2019": 14248,
         "2020": 126485,
-        "2021": 10518,
+        "2021": 10520,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 63996,
+        "State": 63998,
         "US Senate": 48343,
         "US House": 41559,
         "Presidential": 39295,
@@ -469,10 +463,10 @@
         "CABLE": 111345,
         "FM": 106586,
         "AM": 39809,
-        "DBS": 5015
+        "DBS": 5017
       },
       "political_file_type": {
-        "PA": 216980,
+        "PA": 216982,
         "NCIA": 113202
       }
     }
@@ -490,7 +484,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 206,
-    "processTime": 213,
-    "responseTime": 214
+    "processTime": 215,
+    "responseTime": 216
   }
 }
