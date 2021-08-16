@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 494794,
+    "numFound": 494778,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "89c87c46-9f25-f6e7-f95a-b104d1829c2b",
+        "file_id": "89c87c46-9f25-f6e7-f95a-b104d1829c2b",
+        "file_name": "AB Foundation 08-16-2021 REVISED",
+        "file_extension": "pdf",
+        "file_size": 739497,
+        "file_status": "com_cpy",
+        "folder_id": "c6db6bc6-d5b0-cc05-c94a-e8ab26a0951b",
+        "create_ts": "2021-08-16T18:09:08.612Z",
+        "last_update_ts": "2021-08-16T18:10:08.427Z",
+        "active_ind": "Y",
+        "file_manager_id": "9e27181e-cbb2-448c-b555-80363b825e07",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation/AB Foundation 08-16-2021 REVISED",
+        "entity_id": "37174",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SAVANNAH",
+        "callsign": "WJCL",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708274325666136000,
+        "score": 0.24995703
+      },
       {
         "id": "fb427191-7b15-72f3-e745-805aa1ae4646",
         "file_id": "fb427191-7b15-72f3-e745-805aa1ae4646",
@@ -220,29 +244,6 @@
         "campaign_year": "2021",
         "_version_": 1708268987253522400,
         "score": 0.24995703
-      },
-      {
-        "id": "8f659c33-b0aa-c763-375c-c903f94634be",
-        "file_id": "8f659c33-b0aa-c763-375c-c903f94634be",
-        "file_name": "WDBT - Mo Brooks - 10156-00006 - Invoice",
-        "file_extension": "pdf",
-        "file_size": 102572,
-        "file_status": "com_cpy",
-        "folder_id": "3ccef57c-9aa1-d7c2-8c85-f9821fad54ab",
-        "create_ts": "2021-08-16T16:37:06.502Z",
-        "last_update_ts": "2021-08-16T16:38:37.417Z",
-        "active_ind": "Y",
-        "file_manager_id": "eed5d93d-6bf7-41b2-ae45-976b2340e4d4",
-        "file_folder_path": "Political Files/2021/Federal/US Senate/Mo Brooks",
-        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Mo Brooks/WDBT - Mo Brooks - 10156-00006 - Invoice",
-        "entity_id": "63945",
-        "source_service_code": "FM",
-        "callsign": "WDBT",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2021",
-        "_version_": 1708268534653517800,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -275,7 +276,7 @@
         "GREENSBORO-H.POINT-W.SALEM": 2517,
         "CHICAGO": 2488,
         "FRESNO-VISALIA": 2440,
-        "SAVANNAH": 2398,
+        "SAVANNAH": 2399,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
         "PEORIA-BLOOMINGTON": 2177,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
@@ -349,7 +350,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56762,
+        "ABC": 56763,
         "NBC": 55630,
         "CBS": 37696,
         "FOX": 27084,
@@ -417,15 +418,15 @@
         "2015": 6083,
         "2016": 68688,
         "2017": 10346,
-        "2018": 68202,
+        "2018": 68185,
         "2019": 14248,
         "2020": 126485,
-        "2021": 10465,
+        "2021": 10466,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 63985,
+        "State": 63978,
         "US Senate": 48343,
         "US House": 41559,
         "Presidential": 39295,
@@ -460,15 +461,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232018,
+        "TV": 232019,
         "CABLE": 111343,
-        "FM": 106612,
+        "FM": 106595,
         "AM": 39808,
         "DBS": 5013
       },
       "political_file_type": {
-        "PA": 216964,
-        "NCIA": 113192
+        "PA": 216957,
+        "NCIA": 113183
       }
     }
   },
@@ -484,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1699,
-    "processTime": 706,
-    "responseTime": 1706
+    "queryTime": 200,
+    "processTime": 210,
+    "responseTime": 211
   }
 }
