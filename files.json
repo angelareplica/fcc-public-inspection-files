@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 495023,
+    "numFound": 495024,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "c8bb1d70-c56b-2cf0-cd7e-4515624ffcc3",
+        "file_id": "c8bb1d70-c56b-2cf0-cd7e-4515624ffcc3",
+        "file_name": "League of Conservation Voters 317909 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 130908,
+        "file_status": "com_cpy",
+        "folder_id": "7861cace-1d54-6aa3-cde2-6847be603076",
+        "create_ts": "2021-08-18T22:06:57.533Z",
+        "last_update_ts": "2021-08-18T22:07:57.395Z",
+        "active_ind": "Y",
+        "file_manager_id": "967eff50-8588-43bd-b05d-3313bf1eaa21",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters Inc",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters Inc/League of Conservation Voters 317909 Rev 0",
+        "entity_id": "8616",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "PHILADELPHIA",
+        "callsign": "WPVI-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708470480753655800,
+        "score": 0.24995703
+      },
       {
         "id": "2dc111b9-3fb7-1f33-f594-3ddc181d14e6",
         "file_id": "2dc111b9-3fb7-1f33-f594-3ddc181d14e6",
@@ -213,27 +237,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1708464572201959400,
         "score": 0.24995703
-      },
-      {
-        "id": "d018f2fc-fd35-bdee-041d-490d8691a109",
-        "file_id": "d018f2fc-fd35-bdee-041d-490d8691a109",
-        "file_name": "WTRT Sponsored Programs 2021-04",
-        "file_extension": "pdf",
-        "file_size": 59407,
-        "file_status": "com_cpy",
-        "folder_id": "20c764c9-bbe4-63fe-6d6e-adede438f369",
-        "create_ts": "2021-05-01T18:29:12.302Z",
-        "last_update_ts": "2021-08-18T20:34:27.147Z",
-        "active_ind": "Y",
-        "file_manager_id": "3f24469f-80f3-476d-af01-519fc202e82c",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/WTRT Sponsored Programs 2021",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/WTRT Sponsored Programs 2021/WTRT Sponsored Programs 2021-04",
-        "entity_id": "88122",
-        "source_service_code": "FM",
-        "callsign": "WTRT",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1708464597990637600,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -274,7 +277,7 @@
         "Greenville-Spartanburg-Asheville-Anderson": 2166,
         "TAMPA-ST. PETE (SARASOTA)": 2148,
         "LEXINGTON": 2082,
-        "PHILADELPHIA": 2026,
+        "PHILADELPHIA": 2027,
         "ROCHESTR-MASON CITY-AUSTIN": 1981,
         "SIOUX CITY": 1947,
         "GREAT FALLS": 1923,
@@ -340,7 +343,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56787,
+        "ABC": 56788,
         "NBC": 55682,
         "CBS": 37713,
         "FOX": 27101,
@@ -411,7 +414,7 @@
         "2018": 68175,
         "2019": 14248,
         "2020": 126485,
-        "2021": 10707,
+        "2021": 10708,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -451,7 +454,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232163,
+        "TV": 232164,
         "CABLE": 111382,
         "FM": 106611,
         "AM": 39842,
@@ -459,7 +462,7 @@
       },
       "political_file_type": {
         "PA": 217018,
-        "NCIA": 113353
+        "NCIA": 113354
       }
     }
   },
@@ -475,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1695,
-    "processTime": 702,
-    "responseTime": 1703
+    "queryTime": 1703,
+    "processTime": 712,
+    "responseTime": 1713
   }
 }
