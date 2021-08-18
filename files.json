@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 494925,
+    "numFound": 494927,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "05696198-8b86-6106-fd6e-12c2e7d122a2",
+        "file_id": "05696198-8b86-6106-fd6e-12c2e7d122a2",
+        "file_name": "Conservative Outsider PAC-NAB PB19-2021-07-26",
+        "file_extension": "pdf",
+        "file_size": 121161,
+        "file_status": "com_cpy",
+        "folder_id": "1460dce5-d377-081b-09fb-ea4e3625a71a",
+        "create_ts": "2021-08-18T13:21:28.929Z",
+        "last_update_ts": "2021-08-18T13:23:00.573Z",
+        "active_ind": "Y",
+        "file_manager_id": "4c5ee480-dfb4-44d7-af85-92b7f02cbf95",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Political Conservative Ousider PAC",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Political Conservative Ousider PAC/Conservative Outsider PAC-NAB PB19-2021-07-26",
+        "entity_id": "56549",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "COLUMBUS OH",
+        "callsign": "WSYX",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708437420725239800,
+        "score": 0.24995703
+      },
+      {
+        "id": "5ad59628-8930-10c1-1c53-52ab9ee6a63b",
+        "file_id": "5ad59628-8930-10c1-1c53-52ab9ee6a63b",
+        "file_name": "Memo - File Move 081821",
+        "file_extension": "pdf",
+        "file_size": 244944,
+        "file_status": "com_cpy",
+        "folder_id": "1460dce5-d377-081b-09fb-ea4e3625a71a",
+        "create_ts": "2021-08-18T13:21:28.976Z",
+        "last_update_ts": "2021-08-18T13:22:28.891Z",
+        "active_ind": "Y",
+        "file_manager_id": "f92db16c-fe1c-4ab8-ad72-d9df83c3a7ec",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Political Conservative Ousider PAC",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Political Conservative Ousider PAC/Memo - File Move 081821",
+        "entity_id": "56549",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "COLUMBUS OH",
+        "callsign": "WSYX",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708437420829048800,
+        "score": 0.24995703
+      },
       {
         "id": "43e68448-7153-5fbe-5e6b-938284dda94c",
         "file_id": "43e68448-7153-5fbe-5e6b-938284dda94c",
@@ -189,55 +237,6 @@
         "campaign_year": "2021",
         "_version_": 1708385092381966300,
         "score": 0.24995703
-      },
-      {
-        "id": "34d6f3ac-143a-2f40-c1af-5794d920ee06",
-        "file_id": "34d6f3ac-143a-2f40-c1af-5794d920ee06",
-        "file_name": "Stand for Children 08-26 to 09-02 AFJ NAB",
-        "file_extension": "pdf",
-        "file_size": 164815,
-        "file_status": "com_cpy",
-        "folder_id": "a4a24f9c-b25f-4f28-ca7a-cb33e4feb7f6",
-        "create_ts": "2021-08-17T23:28:52.039Z",
-        "last_update_ts": "2021-08-17T23:29:51.68Z",
-        "active_ind": "Y",
-        "file_manager_id": "c8719143-f7ed-4473-92b8-6f95a9cb001b",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Stand for Children",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Stand for Children/Stand for Children 08-26 to 09-02 AFJ NAB",
-        "entity_id": "008120",
-        "source_service_code": "CABLE",
-        "legal_name": "GCI CABLE INC",
-        "operator_city_name": "ANCHORAGE",
-        "operator_state_name": "AK",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708385037122011100,
-        "score": 0.24995703
-      },
-      {
-        "id": "7bce0cb2-4041-faeb-eb65-eb49a7316454",
-        "file_id": "7bce0cb2-4041-faeb-eb65-eb49a7316454",
-        "file_name": "ELDER FOR GOV-EST 3163-8.16.21-8.22.21-0777-REV #1 CDR",
-        "file_extension": "pdf",
-        "file_size": 8260,
-        "file_status": "com_cpy",
-        "folder_id": "7b90a61b-7089-2d3c-9174-5296b6f40925",
-        "create_ts": "2021-08-17T22:52:17.372Z",
-        "last_update_ts": "2021-08-17T22:53:48.577Z",
-        "active_ind": "Y",
-        "file_manager_id": "6701efee-ebc4-4821-af70-111be696dabc",
-        "file_folder_path": "Political Files/2021/State/Governor/Larry Elder",
-        "full_qualified_file_name": "Political Files/2021/State/Governor/Larry Elder/ELDER FOR GOV-EST 3163-8.16.21-8.22.21-0777-REV #1 CDR",
-        "entity_id": "006633",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS CALIFORNIA, LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1708382735649734700,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -312,7 +311,7 @@
         "NEW YORK": 1009,
         "LITTLE ROCK-PINE BLUFF": 1005,
         "ST. LOUIS": 1003,
-        "COLUMBUS OH": 989,
+        "COLUMBUS OH": 991,
         "JACKSON MS": 981,
         "WICHITA-HUTCHINSON PLUS": 957,
         "FT. SMITH-FAY-SPRNGDL-RGRS": 909,
@@ -344,7 +343,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56778,
+        "ABC": 56780,
         "NBC": 55667,
         "CBS": 37709,
         "FOX": 27100,
@@ -415,7 +414,7 @@
         "2018": 68175,
         "2019": 14248,
         "2020": 126485,
-        "2021": 10614,
+        "2021": 10616,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -455,7 +454,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232116,
+        "TV": 232118,
         "CABLE": 111358,
         "FM": 106600,
         "AM": 39829,
@@ -463,7 +462,7 @@
       },
       "political_file_type": {
         "PA": 216997,
-        "NCIA": 113281
+        "NCIA": 113283
       }
     }
   },
@@ -479,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 213,
-    "responseTime": 214
+    "queryTime": 201,
+    "processTime": 210,
+    "responseTime": 210
   }
 }
