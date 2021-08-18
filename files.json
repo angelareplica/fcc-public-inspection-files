@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 494999,
+    "numFound": 495000,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "cf042794-9e01-99d1-499b-309c7d232f72",
+        "file_id": "cf042794-9e01-99d1-499b-309c7d232f72",
+        "file_name": "INQUIRY RHAM REPUBLICAN COMMITTEE 081721",
+        "file_extension": "pdf",
+        "file_size": 17888,
+        "file_status": "com_cpy",
+        "folder_id": "05d21f38-dc24-2293-5230-d41531f932cc",
+        "create_ts": "2021-08-18T18:20:40.9Z",
+        "last_update_ts": "2021-08-18T18:40:06.123Z",
+        "active_ind": "Y",
+        "file_manager_id": "d6018005-26c5-4b72-932b-7081ffca57e3",
+        "file_folder_path": "Political Files/2021/State/Rham Republican Committee",
+        "full_qualified_file_name": "Political Files/2021/State/Rham Republican Committee/INQUIRY RHAM REPUBLICAN COMMITTEE 081721",
+        "entity_id": "60105",
+        "source_service_code": "FM",
+        "callsign": "WSIG",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1708457074724176000,
+        "score": 0.24995703
+      },
+      {
+        "id": "fbbbc73b-5afa-b343-cbea-61670cdb5c4a",
+        "file_id": "fbbbc73b-5afa-b343-cbea-61670cdb5c4a",
+        "file_name": "NAB RHAM REPUBLICAN COMMITTEE 0817-082021",
+        "file_extension": "pdf",
+        "file_size": 62853,
+        "file_status": "com_cpy",
+        "folder_id": "05d21f38-dc24-2293-5230-d41531f932cc",
+        "create_ts": "2021-08-18T18:20:40.901Z",
+        "last_update_ts": "2021-08-18T18:40:05.434Z",
+        "active_ind": "Y",
+        "file_manager_id": "5f559752-6b23-4030-b0c8-ffc153c2d55a",
+        "file_folder_path": "Political Files/2021/State/Rham Republican Committee",
+        "full_qualified_file_name": "Political Files/2021/State/Rham Republican Committee/NAB RHAM REPUBLICAN COMMITTEE 0817-082021",
+        "entity_id": "60105",
+        "source_service_code": "FM",
+        "callsign": "WSIG",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1708457074078253000,
+        "score": 0.24995703
+      },
       {
         "id": "86bf5923-50fa-0fa6-0602-0fe8d2df6d1c",
         "file_id": "86bf5923-50fa-0fa6-0602-0fe8d2df6d1c",
@@ -25,29 +71,6 @@
         "office_type": "State",
         "campaign_year": "2021",
         "_version_": 1708456444894904300,
-        "score": 0.24995703
-      },
-      {
-        "id": "cf042794-9e01-99d1-499b-309c7d232f72",
-        "file_id": "cf042794-9e01-99d1-499b-309c7d232f72",
-        "file_name": "INQUIRY RHAM REPUBLICAN COMMITTEE 081721",
-        "file_extension": "pdf",
-        "file_size": 17888,
-        "file_status": "com_cpy",
-        "folder_id": "05d21f38-dc24-2293-5230-d41531f932cc",
-        "create_ts": "2021-08-18T18:20:40.9Z",
-        "last_update_ts": "2021-08-18T18:22:12.49Z",
-        "active_ind": "Y",
-        "file_manager_id": "d6018005-26c5-4b72-932b-7081ffca57e3",
-        "file_folder_path": "Political Files/2021/State/Rham Republican Committee",
-        "full_qualified_file_name": "Political Files/2021/State/Rham Republican Committee/INQUIRY RHAM REPUBLICAN COMMITTEE 081721",
-        "entity_id": "60105",
-        "source_service_code": "FM",
-        "callsign": "WSIG",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1708456244551876600,
         "score": 0.24995703
       },
       {
@@ -212,28 +235,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1708452673845461000,
-        "score": 0.24995703
-      },
-      {
-        "id": "15da75c4-07ad-8fa4-0097-5aeb7dfaa88c",
-        "file_id": "15da75c4-07ad-8fa4-0097-5aeb7dfaa88c",
-        "file_name": "The Conservative Caucus, Inc.__Flight 001__Aug 2021__Order__VOM",
-        "file_extension": "pdf",
-        "file_size": 182478,
-        "file_status": "com_cpy",
-        "folder_id": "a2a212f4-805b-57cd-c1e7-dc4b3a4df20f",
-        "create_ts": "2021-08-18T17:22:34.728Z",
-        "last_update_ts": "2021-08-18T17:24:06.447Z",
-        "active_ind": "Y",
-        "file_manager_id": "d3b14ee7-0851-4405-961d-66b39e404007",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/The Conservative CaucusInc-2021",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/The Conservative CaucusInc-2021/The Conservative Caucus, Inc.__Flight 001__Aug 2021__Order__VOM",
-        "entity_id": "4092",
-        "source_service_code": "FM",
-        "callsign": "WVOM-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708452589220135000,
         "score": 0.24995703
       }
     ],
@@ -412,12 +413,12 @@
         "2018": 68175,
         "2019": 14248,
         "2020": 126485,
-        "2021": 10683,
+        "2021": 10684,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64023,
+        "State": 64024,
         "US Senate": 48344,
         "US House": 41559,
         "Presidential": 39295,
@@ -454,12 +455,12 @@
       "source_service_code": {
         "TV": 232148,
         "CABLE": 111382,
-        "FM": 106607,
+        "FM": 106608,
         "AM": 39837,
         "DBS": 5025
       },
       "political_file_type": {
-        "PA": 217015,
+        "PA": 217016,
         "NCIA": 113332
       }
     }
@@ -476,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1692,
-    "processTime": 699,
-    "responseTime": 1699
+    "queryTime": 1699,
+    "processTime": 706,
+    "responseTime": 1707
   }
 }
