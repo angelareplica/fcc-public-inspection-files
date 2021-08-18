@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 495022,
+    "numFound": 495023,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "2dc111b9-3fb7-1f33-f594-3ddc181d14e6",
+        "file_id": "2dc111b9-3fb7-1f33-f594-3ddc181d14e6",
+        "file_name": "[Virginia Beach] [AMERICANS FOR PROSPERITY 81VA02 WGHA-02 (297102)]",
+        "file_extension": "pdf",
+        "file_size": 40426,
+        "file_status": "com_cpy",
+        "folder_id": "f81040ba-a9c6-79e1-45c5-456a4e52994e",
+        "create_ts": "2021-08-18T21:27:39.763Z",
+        "last_update_ts": "2021-08-18T21:29:11.485Z",
+        "active_ind": "Y",
+        "file_manager_id": "69200ca3-6476-4ce8-88a6-3a1c202e4d5f",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity - Issue/Station Order",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity - Issue/Station Order/[Virginia Beach] [AMERICANS FOR PROSPERITY 81VA02 WGHA-02 (297102)]",
+        "entity_id": "72103",
+        "source_service_code": "AM",
+        "callsign": "WGH",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708468008466251800,
+        "score": 0.24995703
+      },
       {
         "id": "fbcf09d5-2343-4f1a-9d18-f9f336fc38b0",
         "file_id": "fbcf09d5-2343-4f1a-9d18-f9f336fc38b0",
@@ -212,27 +234,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1708464597990637600,
         "score": 0.24995703
-      },
-      {
-        "id": "cead69ef-8cf8-cd88-d3f2-67337240dbae",
-        "file_id": "cead69ef-8cf8-cd88-d3f2-67337240dbae",
-        "file_name": "WTRT Sponsored Programs 2021-02",
-        "file_extension": "pdf",
-        "file_size": 59236,
-        "file_status": "com_cpy",
-        "folder_id": "20c764c9-bbe4-63fe-6d6e-adede438f369",
-        "create_ts": "2021-03-01T18:25:18.928Z",
-        "last_update_ts": "2021-08-18T20:33:28.84Z",
-        "active_ind": "Y",
-        "file_manager_id": "8f62a6ec-82b6-4049-aee4-720efec92d8e",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/WTRT Sponsored Programs 2021",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/WTRT Sponsored Programs 2021/WTRT Sponsored Programs 2021-02",
-        "entity_id": "88122",
-        "source_service_code": "FM",
-        "callsign": "WTRT",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1708464536846073900,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -410,7 +411,7 @@
         "2018": 68175,
         "2019": 14248,
         "2020": 126485,
-        "2021": 10706,
+        "2021": 10707,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -453,12 +454,12 @@
         "TV": 232163,
         "CABLE": 111382,
         "FM": 106611,
-        "AM": 39841,
+        "AM": 39842,
         "DBS": 5025
       },
       "political_file_type": {
         "PA": 217018,
-        "NCIA": 113352
+        "NCIA": 113353
       }
     }
   },
@@ -474,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 215,
-    "responseTime": 215
+    "queryTime": 1695,
+    "processTime": 702,
+    "responseTime": 1703
   }
 }
