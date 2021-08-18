@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 494992,
+    "numFound": 494991,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
@@ -247,7 +247,7 @@
         "RALEIGH-DURHAM (FAYETVLLE)": 3175,
         "MINNEAPOLIS-ST. PAUL": 3157,
         "PORTLAND OR": 3138,
-        "WAUSAU-RHINELANDER": 2737,
+        "WAUSAU-RHINELANDER": 2736,
         "FT. WAYNE": 2714,
         "KANSAS CITY": 2699,
         "SACRAMNTO-STKTON-MODESTO": 2670,
@@ -344,7 +344,7 @@
         "FAMILYNET": 887,
         "MNT": 824,
         "TELEMUNDO": 819,
-        "ION": 731,
+        "ION": 730,
         "N/A": 643,
         "UNIMAS": 613,
         "CBS/CW": 424,
@@ -422,7 +422,7 @@
         "Applications and Related Materials": 1515,
         "Availability of Signals": 1504,
         "FCC Investigations or Complaints": 1382,
-        "Must-Carry or Retransmission Consent": 1335,
+        "Must-Carry or Retransmission Consent": 1334,
         "Childrens TV Programming Reports": 1113,
         "Ownership Reports": 1075,
         "Class A TV Continuing Eligibility": 623,
@@ -441,7 +441,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232144,
+        "TV": 232143,
         "CABLE": 111382,
         "FM": 106606,
         "AM": 39835,
@@ -465,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1696,
-    "processTime": 703,
-    "responseTime": 1704
+    "queryTime": 200,
+    "processTime": 212,
+    "responseTime": 212
   }
 }
