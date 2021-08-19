@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 495083,
+    "numFound": 495085,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "3e91ecc8-6b29-c7ae-1ca2-b015c30cd67b",
+        "file_id": "3e91ecc8-6b29-c7ae-1ca2-b015c30cd67b",
+        "file_name": "ELDER FOR GOV EST 3161-8.23-21-8.29-21-0777- REV #2 CDR",
+        "file_extension": "pdf",
+        "file_size": 10360,
+        "file_status": "com_cpy",
+        "folder_id": "7b90a61b-7089-2d3c-9174-5296b6f40925",
+        "create_ts": "2021-08-19T23:33:33.822Z",
+        "last_update_ts": "2021-08-19T23:35:05.902Z",
+        "active_ind": "Y",
+        "file_manager_id": "892b09d7-81d6-46cd-a268-8b6770d4bfb2",
+        "file_folder_path": "Political Files/2021/State/Governor/Larry Elder",
+        "full_qualified_file_name": "Political Files/2021/State/Governor/Larry Elder/ELDER FOR GOV EST 3161-8.23-21-8.29-21-0777- REV #2 CDR",
+        "entity_id": "006633",
+        "source_service_code": "CABLE",
+        "legal_name": "COX COMMUNICATIONS CALIFORNIA, LLC",
+        "operator_city_name": "ATLANTA",
+        "operator_state_name": "GA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1708566526309695500,
+        "score": 0.24995703
+      },
+      {
+        "id": "b65f9622-eee8-a13e-8688-bf11c49bfb3e",
+        "file_id": "b65f9622-eee8-a13e-8688-bf11c49bfb3e",
+        "file_name": "ELDER FOR GOV EST 3161-8.23-21-8.29-21-0777- REV #1 CDR",
+        "file_extension": "pdf",
+        "file_size": 9796,
+        "file_status": "com_cpy",
+        "folder_id": "7b90a61b-7089-2d3c-9174-5296b6f40925",
+        "create_ts": "2021-08-19T23:33:33.852Z",
+        "last_update_ts": "2021-08-19T23:34:33.973Z",
+        "active_ind": "Y",
+        "file_manager_id": "64421646-7088-4374-9987-0ea241820ba3",
+        "file_folder_path": "Political Files/2021/State/Governor/Larry Elder",
+        "full_qualified_file_name": "Political Files/2021/State/Governor/Larry Elder/ELDER FOR GOV EST 3161-8.23-21-8.29-21-0777- REV #1 CDR",
+        "entity_id": "006633",
+        "source_service_code": "CABLE",
+        "legal_name": "COX COMMUNICATIONS CALIFORNIA, LLC",
+        "operator_city_name": "ATLANTA",
+        "operator_state_name": "GA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1708566526342201300,
+        "score": 0.24995703
+      },
       {
         "id": "4e641bfe-2557-f90d-9008-8376e4ba047f",
         "file_id": "4e641bfe-2557-f90d-9008-8376e4ba047f",
@@ -178,50 +228,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1708555640385831000,
-        "score": 0.24995703
-      },
-      {
-        "id": "d00e329c-d5c9-bc68-c9cc-f1e5808d3d6b",
-        "file_id": "d00e329c-d5c9-bc68-c9cc-f1e5808d3d6b",
-        "file_name": "2021 AB Foundation 08192021, order est 3586, NAB Form, Proof of Payment and Spot Times",
-        "file_extension": "pdf",
-        "file_size": 1384567,
-        "file_status": "com_cpy",
-        "folder_id": "7fcec08e-1c59-78b8-278a-f33656dcc30f",
-        "create_ts": "2021-08-19T20:40:31.526Z",
-        "last_update_ts": "2021-08-19T20:41:32.219Z",
-        "active_ind": "Y",
-        "file_manager_id": "0e261e52-767e-44cc-a3d3-215d6bf4fc7c",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/2021 AB Foundation 08192021, order est 3586, NAB Form, Proof of Payment and Spot Times",
-        "entity_id": "88753",
-        "source_service_code": "FM",
-        "callsign": "WPZX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708555640325013500,
-        "score": 0.24995703
-      },
-      {
-        "id": "0e0a6396-bce2-e1c8-29c2-6f48990d342e",
-        "file_id": "0e0a6396-bce2-e1c8-29c2-6f48990d342e",
-        "file_name": "2021 AB Foundation 08032021, order Est 3573, NAB Form, Proof of Payment",
-        "file_extension": "pdf",
-        "file_size": 1283967,
-        "file_status": "com_cpy",
-        "folder_id": "7fcec08e-1c59-78b8-278a-f33656dcc30f",
-        "create_ts": "2021-08-19T20:39:38.049Z",
-        "last_update_ts": "2021-08-19T20:41:10.538Z",
-        "active_ind": "Y",
-        "file_manager_id": "a30ac6e4-deca-48e4-8554-e02a7eec8256",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/2021 AB Foundation 08032021, order Est 3573, NAB Form, Proof of Payment",
-        "entity_id": "88753",
-        "source_service_code": "FM",
-        "callsign": "WPZX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708555584120291300,
         "score": 0.24995703
       }
     ],
@@ -400,12 +406,12 @@
         "2018": 68175,
         "2019": 14248,
         "2020": 126485,
-        "2021": 10766,
+        "2021": 10768,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64030,
+        "State": 64032,
         "US Senate": 48345,
         "US House": 41559,
         "Presidential": 39295,
@@ -441,13 +447,13 @@
       },
       "source_service_code": {
         "TV": 232192,
-        "CABLE": 111382,
+        "CABLE": 111384,
         "FM": 106633,
         "AM": 39849,
         "DBS": 5027
       },
       "political_file_type": {
-        "PA": 217028,
+        "PA": 217030,
         "NCIA": 113402
       }
     }
@@ -464,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1697,
-    "processTime": 705,
-    "responseTime": 1705
+    "queryTime": 201,
+    "processTime": 209,
+    "responseTime": 209
   }
 }
