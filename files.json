@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 495069,
+    "numFound": 495071,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "2314b1c5-e03c-3346-4597-1419ea9f1150",
+        "file_id": "2314b1c5-e03c-3346-4597-1419ea9f1150",
+        "file_name": "LaShunda Scales 8.22-8.24.21 order, NAB, contract",
+        "file_extension": "pdf",
+        "file_size": 695480,
+        "file_status": "com_cpy",
+        "folder_id": "a3b7455b-3703-3962-3f10-25c351ee4105",
+        "create_ts": "2021-08-19T19:37:59.719Z",
+        "last_update_ts": "2021-08-19T19:39:00.129Z",
+        "active_ind": "Y",
+        "file_manager_id": "809475e4-1f70-44ca-8176-258240539bf8",
+        "file_folder_path": "Political Files/2021/Local/LaShunda Scales/LaShunda Scales 082221-082421",
+        "full_qualified_file_name": "Political Files/2021/Local/LaShunda Scales/LaShunda Scales 082221-082421/LaShunda Scales 8.22-8.24.21 order, NAB, contract",
+        "entity_id": "74173",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
+        "callsign": "WVTM-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1708551706012287000,
+        "score": 0.24995703
+      },
+      {
+        "id": "f94491be-7439-cef3-90ce-cd08ebefd7f7",
+        "file_id": "f94491be-7439-cef3-90ce-cd08ebefd7f7",
+        "file_name": "Randall Woodfin 8.21-8.24.21 client revision",
+        "file_extension": "pdf",
+        "file_size": 157172,
+        "file_status": "com_cpy",
+        "folder_id": "ede7030d-2555-f2ed-c0ed-786a6680b52e",
+        "create_ts": "2021-08-19T19:36:34.007Z",
+        "last_update_ts": "2021-08-19T19:37:34.207Z",
+        "active_ind": "Y",
+        "file_manager_id": "0ad9bae8-004a-4c09-b131-fccf66842b2c",
+        "file_folder_path": "Political Files/2021/Local/Randall Woodfin/Randall Woodfin 082121-082421",
+        "full_qualified_file_name": "Political Files/2021/Local/Randall Woodfin/Randall Woodfin 082121-082421/Randall Woodfin 8.21-8.24.21 client revision",
+        "entity_id": "74173",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
+        "callsign": "WVTM-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1708551615911297000,
+        "score": 0.24995703
+      },
       {
         "id": "87199e7a-5e05-0285-94dc-cc25567315e8",
         "file_id": "87199e7a-5e05-0285-94dc-cc25567315e8",
@@ -184,54 +234,6 @@
         "campaign_year": "2021",
         "_version_": 1708549016573182000,
         "score": 0.24995703
-      },
-      {
-        "id": "42d7b627-30de-1042-cf1c-b42805460420",
-        "file_id": "42d7b627-30de-1042-cf1c-b42805460420",
-        "file_name": "LOCV 0824-0830 - 3156807 REQ",
-        "file_extension": "pdf",
-        "file_size": 20903,
-        "file_status": "com_cpy",
-        "folder_id": "43905731-96f0-626a-a033-7bf0640784bb",
-        "create_ts": "2021-08-19T18:54:32.28Z",
-        "last_update_ts": "2021-08-19T18:56:04.357Z",
-        "active_ind": "Y",
-        "file_manager_id": "b6be2915-468f-4f38-b4f2-4e82f0cbd6bb",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/LOCV League of Conservation Voters/Orders and Revisions",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/LOCV League of Conservation Voters/Orders and Revisions/LOCV 0824-0830 - 3156807 REQ",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708548971612340200,
-        "score": 0.24995703
-      },
-      {
-        "id": "918feeb7-d8c2-5c0c-ec90-21e2772bf5a1",
-        "file_id": "918feeb7-d8c2-5c0c-ec90-21e2772bf5a1",
-        "file_name": "LOCV 0824-0830 - 3156807 ORD",
-        "file_extension": "pdf",
-        "file_size": 44740,
-        "file_status": "com_cpy",
-        "folder_id": "43905731-96f0-626a-a033-7bf0640784bb",
-        "create_ts": "2021-08-19T18:54:32.308Z",
-        "last_update_ts": "2021-08-19T18:56:04.333Z",
-        "active_ind": "Y",
-        "file_manager_id": "44f90566-6874-4a5b-9610-c05fda942d51",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/LOCV League of Conservation Voters/Orders and Revisions",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/LOCV League of Conservation Voters/Orders and Revisions/LOCV 0824-0830 - 3156807 ORD",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708548971587174400,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -267,8 +269,8 @@
         "SAVANNAH": 2400,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
         "PEORIA-BLOOMINGTON": 2189,
+        "BIRMINGHAM (ANN TUSC)": 2170,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
-        "BIRMINGHAM (ANN TUSC)": 2168,
         "Greenville-Spartanburg-Asheville-Anderson": 2166,
         "TAMPA-ST. PETE (SARASOTA)": 2148,
         "LEXINGTON": 2082,
@@ -339,7 +341,7 @@
       },
       "network_affiliation": {
         "ABC": 56793,
-        "NBC": 55690,
+        "NBC": 55692,
         "CBS": 37722,
         "FOX": 27101,
         "PBS": 13949,
@@ -409,7 +411,7 @@
         "2018": 68175,
         "2019": 14248,
         "2020": 126485,
-        "2021": 10752,
+        "2021": 10754,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -418,7 +420,7 @@
         "US Senate": 48345,
         "US House": 41559,
         "Presidential": 39295,
-        "Local": 22718
+        "Local": 22720
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54205,
@@ -449,14 +451,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232190,
+        "TV": 232192,
         "CABLE": 111382,
         "FM": 106627,
         "AM": 39844,
         "DBS": 5026
       },
       "political_file_type": {
-        "PA": 217025,
+        "PA": 217027,
         "NCIA": 113391
       }
     }
@@ -473,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1697,
-    "processTime": 706,
-    "responseTime": 1707
+    "queryTime": 1700,
+    "processTime": 709,
+    "responseTime": 1710
   }
 }
