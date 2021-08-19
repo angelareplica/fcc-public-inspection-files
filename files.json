@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 495040,
+    "numFound": 495042,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "5db188a7-ae61-942c-4e03-6f9910239e2e",
+        "file_id": "5db188a7-ae61-942c-4e03-6f9910239e2e",
+        "file_name": "BBT 0802-0909 EST 10043",
+        "file_extension": "pdf",
+        "file_size": 43143,
+        "file_status": "com_cpy",
+        "folder_id": "66dcfc5f-3965-df17-0973-f123093236ee",
+        "create_ts": "2021-08-19T17:32:58.406Z",
+        "last_update_ts": "2021-08-19T17:34:30.492Z",
+        "active_ind": "Y",
+        "file_manager_id": "ef1da8ab-44a0-4606-affb-52ff5bee00cb",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/BBT INC",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/BBT INC/BBT 0802-0909 EST 10043",
+        "entity_id": "7893",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "LA CROSSE-EAU CLAIRE",
+        "callsign": "WEAU",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708543840054411300,
+        "score": 0.24995703
+      },
+      {
+        "id": "5c1a0f9b-ad84-c66c-fecd-f5b5aa92abda",
+        "file_id": "5c1a0f9b-ad84-c66c-fecd-f5b5aa92abda",
+        "file_name": "BBT INC NAB 0820-0909 EST 10043",
+        "file_extension": "pdf",
+        "file_size": 982722,
+        "file_status": "com_cpy",
+        "folder_id": "66dcfc5f-3965-df17-0973-f123093236ee",
+        "create_ts": "2021-08-19T17:32:58.739Z",
+        "last_update_ts": "2021-08-19T17:33:59.346Z",
+        "active_ind": "Y",
+        "file_manager_id": "7bb6bd25-b0d2-46ba-af2c-75f6e41f287a",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/BBT INC",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/BBT INC/BBT INC NAB 0820-0909 EST 10043",
+        "entity_id": "7893",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "LA CROSSE-EAU CLAIRE",
+        "callsign": "WEAU",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708543840871252000,
+        "score": 0.24995703
+      },
       {
         "id": "e79f1d0f-6891-1ca1-ab5a-5fe3fd5406f8",
         "file_id": "e79f1d0f-6891-1ca1-ab5a-5fe3fd5406f8",
@@ -190,54 +238,6 @@
         "campaign_year": "2021",
         "_version_": 1708536969724690400,
         "score": 0.24995703
-      },
-      {
-        "id": "feb21bae-863e-bd28-2c5b-fc62b7541948",
-        "file_id": "feb21bae-863e-bd28-2c5b-fc62b7541948",
-        "file_name": "A35741-CONTRACT-618622-080221",
-        "file_extension": "pdf",
-        "file_size": 42886,
-        "file_status": "com_cpy",
-        "folder_id": "bb54d5d6-27ce-fb67-c214-c76c87147e32",
-        "create_ts": "2021-08-19T15:43:46.26Z",
-        "last_update_ts": "2021-08-19T15:44:46.296Z",
-        "active_ind": "Y",
-        "file_manager_id": "f645a246-1683-45b3-b14c-3bf64db12325",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/The Campaign to Save the Boundary Waters 35741",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/The Campaign to Save the Boundary Waters 35741/A35741-CONTRACT-618622-080221",
-        "entity_id": "35678",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "ROCHESTR-MASON CITY-AUSTIN",
-        "callsign": "KTTC",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708536969534898200,
-        "score": 0.24995703
-      },
-      {
-        "id": "f41b96a2-6a5c-34b8-2f90-49448ee52ffe",
-        "file_id": "f41b96a2-6a5c-34b8-2f90-49448ee52ffe",
-        "file_name": "Empower WI NAB-Page 2",
-        "file_extension": "pdf",
-        "file_size": 1353996,
-        "file_status": "com_cpy",
-        "folder_id": "68005213-610c-be3d-592f-50ee18e982ae",
-        "create_ts": "2021-08-19T14:38:28.194Z",
-        "last_update_ts": "2021-08-19T14:40:00.607Z",
-        "active_ind": "Y",
-        "file_manager_id": "8b81d96f-87b8-4124-9879-be13ae339893",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Empower Wisconsin",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Empower Wisconsin/Empower WI NAB-Page 2",
-        "entity_id": "65680",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "MILWAUKEE",
-        "callsign": "WISN-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708532861639852000,
-        "score": 0.00012497851
       }
     ],
     "facets": {
@@ -283,7 +283,7 @@
         "SIOUX CITY": 1947,
         "GREAT FALLS": 1923,
         "WASHINGTON DC (HAGRSTWN)": 1851,
-        "LA CROSSE-EAU CLAIRE": 1798,
+        "LA CROSSE-EAU CLAIRE": 1800,
         "BLUEFIELD-BECKLEY-OAK HILL": 1718,
         "ALBUQUERQUE-SANTA FE": 1693,
         "ROCKFORD": 1608,
@@ -345,7 +345,7 @@
       },
       "network_affiliation": {
         "ABC": 56792,
-        "NBC": 55688,
+        "NBC": 55690,
         "CBS": 37713,
         "FOX": 27101,
         "PBS": 13949,
@@ -415,7 +415,7 @@
         "2018": 68175,
         "2019": 14248,
         "2020": 126485,
-        "2021": 10723,
+        "2021": 10725,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -455,7 +455,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232176,
+        "TV": 232178,
         "CABLE": 111382,
         "FM": 106613,
         "AM": 39843,
@@ -463,7 +463,7 @@
       },
       "political_file_type": {
         "PA": 217025,
-        "NCIA": 113362
+        "NCIA": 113364
       }
     }
   },
@@ -479,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1702,
-    "processTime": 711,
-    "responseTime": 1711
+    "queryTime": 202,
+    "processTime": 209,
+    "responseTime": 209
   }
 }
