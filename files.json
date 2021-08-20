@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 495114,
+    "numFound": 495116,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "01cdd714-99db-bfdd-a50b-1e79e968c997",
+        "file_id": "01cdd714-99db-bfdd-a50b-1e79e968c997",
+        "file_name": "PFCD-NAB Form 08.05.2021",
+        "file_extension": "pdf",
+        "file_size": 1073840,
+        "file_status": "com_cpy",
+        "folder_id": "8aaabf5b-6bfe-04bf-fb99-ad46ec418e9a",
+        "create_ts": "2021-08-20T15:03:58.85Z",
+        "last_update_ts": "2021-08-20T15:05:31.818Z",
+        "active_ind": "Y",
+        "file_manager_id": "ed447ab4-8d3e-4fe2-8f01-e0a396ad9ca8",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/PFCD NEW JERSEY -NYI",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/PFCD NEW JERSEY -NYI/PFCD-NAB Form 08.05.2021",
+        "entity_id": "001592",
+        "source_service_code": "CABLE",
+        "legal_name": "CABLEVISION OF BROOKHAVEN INC",
+        "operator_city_name": "BETHPAGE",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708625063732838400,
+        "score": 0.24995703
+      },
       {
         "id": "626180b9-94a0-5ea8-2ec9-444ee5c7636b",
         "file_id": "626180b9-94a0-5ea8-2ec9-444ee5c7636b",
@@ -13,7 +37,7 @@
         "file_status": "com_cpy",
         "folder_id": "9c7632e7-fefb-ac43-a0d6-61ad921dca68",
         "create_ts": "2021-08-20T14:40:18.632Z",
-        "last_update_ts": "2021-08-20T14:41:51.166Z",
+        "last_update_ts": "2021-08-20T15:00:05.506Z",
         "active_ind": "Y",
         "file_manager_id": "32bcba3d-cced-476d-8292-f6a7b14070a7",
         "file_folder_path": "Political Files/2021/State/PETE FOR GOV",
@@ -23,7 +47,31 @@
         "political_file_type": "PA",
         "office_type": "State",
         "campaign_year": "2021",
-        "_version_": 1708623574058664000,
+        "_version_": 1708624421660393500,
+        "score": 0.24995703
+      },
+      {
+        "id": "b15405cc-c80e-ded0-d196-be9f560a7508",
+        "file_id": "b15405cc-c80e-ded0-d196-be9f560a7508",
+        "file_name": "PFCD-NAB Form 08.05.2021",
+        "file_extension": "pdf",
+        "file_size": 1073840,
+        "file_status": "com_cpy",
+        "folder_id": "1d452fb2-b0b6-c457-d8f3-c78eb14cec2d",
+        "create_ts": "2021-08-20T14:53:15.723Z",
+        "last_update_ts": "2021-08-20T14:54:48.609Z",
+        "active_ind": "Y",
+        "file_manager_id": "4c3ff36d-4cf8-4be5-930e-c94c93fa64fc",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/PFCD-NEW JERSEY NYI",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/PFCD-NEW JERSEY NYI/PFCD-NAB Form 08.05.2021",
+        "entity_id": "013008",
+        "source_service_code": "CABLE",
+        "legal_name": "CABLEVISION SYSTEMS NEW YORK CITY CORPORATION",
+        "operator_city_name": "BETHPAGE",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708624389262540800,
         "score": 0.24995703
       },
       {
@@ -182,46 +230,6 @@
         "source_service_code": "DBS",
         "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
         "_version_": 1708618355873677300,
-        "score": 0.24995703
-      },
-      {
-        "id": "70545781-3b66-1c20-65de-c0e1742d3bab",
-        "file_id": "70545781-3b66-1c20-65de-c0e1742d3bab",
-        "file_name": "2020-03-31 INSP Children_s Certification",
-        "file_extension": "pdf",
-        "file_size": 423837,
-        "file_status": "com_cpy",
-        "folder_id": "1258bf7b-d446-635f-7046-47d2fea58037",
-        "create_ts": "2021-08-20T13:17:22.457Z",
-        "last_update_ts": "2021-08-20T13:18:23.062Z",
-        "active_ind": "Y",
-        "file_manager_id": "498e8db4-88bf-45f8-8f18-0c7f7b6abd71",
-        "file_folder_path": "Records Concerning Commercial Limits in Childrens Programs/THE INSPIRATIONAL NETWORK",
-        "full_qualified_file_name": "Records Concerning Commercial Limits in Childrens Programs/THE INSPIRATIONAL NETWORK/2020-03-31 INSP Children_s Certification",
-        "entity_id": "DISH",
-        "source_service_code": "DBS",
-        "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
-        "_version_": 1708618356297302000,
-        "score": 0.24995703
-      },
-      {
-        "id": "8b083f6c-e9c2-d8ca-1e39-6bdb9e16d704",
-        "file_id": "8b083f6c-e9c2-d8ca-1e39-6bdb9e16d704",
-        "file_name": "2021-06-21 Q2_Entire_2021_INSP_CPC_(Children_s Programming Cert)",
-        "file_extension": "pdf",
-        "file_size": 442616,
-        "file_status": "com_cpy",
-        "folder_id": "1258bf7b-d446-635f-7046-47d2fea58037",
-        "create_ts": "2021-08-20T13:17:20.294Z",
-        "last_update_ts": "2021-08-20T13:18:20.806Z",
-        "active_ind": "Y",
-        "file_manager_id": "33f645ef-c05a-47c5-9178-20d6c35d4b3b",
-        "file_folder_path": "Records Concerning Commercial Limits in Childrens Programs/THE INSPIRATIONAL NETWORK",
-        "full_qualified_file_name": "Records Concerning Commercial Limits in Childrens Programs/THE INSPIRATIONAL NETWORK/2021-06-21 Q2_Entire_2021_INSP_CPC_(Children_s Programming Cert)",
-        "entity_id": "DISH",
-        "source_service_code": "DBS",
-        "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
-        "_version_": 1708618353942200300,
         "score": 0.24995703
       }
     ],
@@ -400,7 +408,7 @@
         "2018": 68175,
         "2019": 14238,
         "2020": 126485,
-        "2021": 10776,
+        "2021": 10778,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -441,14 +449,14 @@
       },
       "source_service_code": {
         "TV": 232186,
-        "CABLE": 111386,
+        "CABLE": 111388,
         "FM": 106637,
         "AM": 39850,
         "DBS": 5055
       },
       "political_file_type": {
         "PA": 217022,
-        "NCIA": 113408
+        "NCIA": 113410
       }
     }
   },
@@ -464,8 +472,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1694,
-    "processTime": 704,
-    "responseTime": 1704
+    "queryTime": 1698,
+    "processTime": 705,
+    "responseTime": 1705
   }
 }
