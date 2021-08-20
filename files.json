@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 495148,
+    "numFound": 495149,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "02bfdc1d-a137-5903-4d1a-356d49adff89",
+        "file_id": "02bfdc1d-a137-5903-4d1a-356d49adff89",
+        "file_name": "PFCD-NAB Form 08.05.2021",
+        "file_extension": "pdf",
+        "file_size": 1073840,
+        "file_status": "com_cpy",
+        "folder_id": "5bcca777-ca20-dcf6-43fa-4cb18d654350",
+        "create_ts": "2021-08-20T17:37:58.543Z",
+        "last_update_ts": "2021-08-20T17:39:31.493Z",
+        "active_ind": "Y",
+        "file_manager_id": "55561601-aed4-44b1-87be-a717ddca25f5",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/PFCD-NEW JERSEY NYI",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/PFCD-NEW JERSEY NYI/PFCD-NAB Form 08.05.2021",
+        "entity_id": "006557",
+        "source_service_code": "CABLE",
+        "legal_name": "CSC TKR LLC",
+        "operator_city_name": "BETHPAGE",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708634752162988000,
+        "score": 0.24995703
+      },
       {
         "id": "a2ecc269-a69c-188c-c186-b2e330ab3de8",
         "file_id": "a2ecc269-a69c-188c-c186-b2e330ab3de8",
@@ -219,30 +243,6 @@
         "campaign_year": "2021",
         "_version_": 1708628992918028300,
         "score": 0.24995703
-      },
-      {
-        "id": "e4be8e20-3782-1913-0dc6-46df034bf081",
-        "file_id": "e4be8e20-3782-1913-0dc6-46df034bf081",
-        "file_name": "PFCD-NAB Form 08.05.2021",
-        "file_extension": "pdf",
-        "file_size": 1073840,
-        "file_status": "com_cpy",
-        "folder_id": "2d893734-0c71-9c92-8150-95a6fbe79d42",
-        "create_ts": "2021-08-20T15:55:50.214Z",
-        "last_update_ts": "2021-08-20T15:57:23.092Z",
-        "active_ind": "Y",
-        "file_manager_id": "79777cc1-1c89-41f8-898b-73c004fb8e6d",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/PFCD-NYI",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/PFCD-NYI/PFCD-NAB Form 08.05.2021",
-        "entity_id": "008368",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLEVISION SYSTEMS WESTCHESTER CORPORATION",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708628326103384000,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -420,7 +420,7 @@
         "2018": 68175,
         "2019": 14238,
         "2020": 126485,
-        "2021": 10810,
+        "2021": 10811,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -461,14 +461,14 @@
       },
       "source_service_code": {
         "TV": 232189,
-        "CABLE": 111416,
+        "CABLE": 111417,
         "FM": 106637,
         "AM": 39851,
         "DBS": 5055
       },
       "political_file_type": {
         "PA": 217022,
-        "NCIA": 113442
+        "NCIA": 113443
       }
     }
   },
@@ -484,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1677,
-    "processTime": 683,
-    "responseTime": 1684
+    "queryTime": 1698,
+    "processTime": 705,
+    "responseTime": 1706
   }
 }
