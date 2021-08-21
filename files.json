@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 495215,
+    "numFound": 495217,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "e85e7917-b626-455e-25d3-0012ae16b333",
+        "file_id": "e85e7917-b626-455e-25d3-0012ae16b333",
+        "file_name": "InfoTrak quarterly report, 2021-02_29.5 min",
+        "file_extension": "pdf",
+        "file_size": 240209,
+        "file_status": "com_cpy",
+        "folder_id": "c6ac43b9-b10b-9ee6-9404-c88386bbd862",
+        "create_ts": "2021-08-21T18:51:06.003Z",
+        "last_update_ts": "2021-08-21T18:52:06.953Z",
+        "active_ind": "Y",
+        "file_manager_id": "de1de9d1-32af-4cdb-a72e-7d2e07ca6ccd",
+        "file_folder_path": "Issues and Programs Lists/2021-2nd-quarter",
+        "full_qualified_file_name": "Issues and Programs Lists/2021-2nd-quarter/InfoTrak quarterly report, 2021-02_29.5 min",
+        "entity_id": "60922",
+        "source_service_code": "FM",
+        "callsign": "WELD-FM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1708729949430481000,
+        "score": 0.24995703
+      },
+      {
+        "id": "3b856466-7c09-8309-d7e7-b01f717aba28",
+        "file_id": "3b856466-7c09-8309-d7e7-b01f717aba28",
+        "file_name": "InfoTrak quarterly report, 2021-02_29.5 min",
+        "file_extension": "pdf",
+        "file_size": 240209,
+        "file_status": "com_cpy",
+        "folder_id": "0685ccb0-5f45-7424-7350-8bf3d842aaa0",
+        "create_ts": "2021-08-21T18:49:48.075Z",
+        "last_update_ts": "2021-08-21T18:50:48.955Z",
+        "active_ind": "Y",
+        "file_manager_id": "bc746e25-9b00-4e87-b6d9-690b5609bdc3",
+        "file_folder_path": "Issues and Programs Lists/2021-2nd-quarter",
+        "full_qualified_file_name": "Issues and Programs Lists/2021-2nd-quarter/InfoTrak quarterly report, 2021-02_29.5 min",
+        "entity_id": "30171",
+        "source_service_code": "FM",
+        "callsign": "WQWV",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1708729867649941500,
+        "score": 0.24995703
+      },
       {
         "id": "7f2e658d-46a4-f75c-8bca-9f104afffb5d",
         "file_id": "7f2e658d-46a4-f75c-8bca-9f104afffb5d",
@@ -184,50 +226,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1708658561071972400,
-        "score": 0.24995703
-      },
-      {
-        "id": "a864f9d5-5790-ebb7-a519-106ad7b70589",
-        "file_id": "a864f9d5-5790-ebb7-a519-106ad7b70589",
-        "file_name": "08.20.21 MEDIA FINANCIAL SERVICES 10263 (AFL-CIO (MFS)) 35878 BACKUP PPWK",
-        "file_extension": "pdf",
-        "file_size": 510914,
-        "file_status": "com_cpy",
-        "folder_id": "e5d331b9-1f5e-5805-e3fc-97470a35af0e",
-        "create_ts": "2021-08-20T23:54:34.567Z",
-        "last_update_ts": "2021-08-20T23:55:35.281Z",
-        "active_ind": "Y",
-        "file_manager_id": "bcbcf923-ce5d-4161-8e72-602401721318",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AFL-CIO MFS/35878",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AFL-CIO MFS/35878/08.20.21 MEDIA FINANCIAL SERVICES 10263 (AFL-CIO (MFS)) 35878 BACKUP PPWK",
-        "entity_id": "6439",
-        "source_service_code": "FM",
-        "callsign": "KWLF",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708658445538820000,
-        "score": 0.24995703
-      },
-      {
-        "id": "cd45a80a-a9c5-4a0b-b8e4-56c7ad17417d",
-        "file_id": "cd45a80a-a9c5-4a0b-b8e4-56c7ad17417d",
-        "file_name": "08.20.21 MEDIA FINANCIAL SERVICES 10263 (AFL-CIO (MFS)) 35878",
-        "file_extension": "pdf",
-        "file_size": 70547,
-        "file_status": "com_cpy",
-        "folder_id": "e5d331b9-1f5e-5805-e3fc-97470a35af0e",
-        "create_ts": "2021-08-20T23:54:33.4Z",
-        "last_update_ts": "2021-08-20T23:55:33.943Z",
-        "active_ind": "Y",
-        "file_manager_id": "82af33ce-ec84-48e9-81e8-0709e1a48053",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AFL-CIO MFS/35878",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AFL-CIO MFS/35878/08.20.21 MEDIA FINANCIAL SERVICES 10263 (AFL-CIO (MFS)) 35878",
-        "entity_id": "6439",
-        "source_service_code": "FM",
-        "callsign": "KWLF",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708658444147359700,
         "score": 0.24995703
       }
     ],
@@ -419,7 +417,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54231,
-        "Issues and Programs Lists": 42870,
+        "Issues and Programs Lists": 42872,
         "Equal Employment Opportunity Records": 36799,
         "Donor Lists - Applicable Only for NCEs": 11273,
         "FCC Authorizations": 7076,
@@ -448,7 +446,7 @@
       "source_service_code": {
         "TV": 232218,
         "CABLE": 111424,
-        "FM": 106654,
+        "FM": 106656,
         "AM": 39862,
         "DBS": 5057
       },
@@ -470,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 213,
-    "responseTime": 214
+    "queryTime": 209,
+    "processTime": 217,
+    "responseTime": 217
   }
 }
