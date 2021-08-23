@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 495235,
+    "numFound": 495236,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "f0acdaec-8781-5f0a-6cbd-d9fbec3eb47c",
+        "file_id": "f0acdaec-8781-5f0a-6cbd-d9fbec3eb47c",
+        "file_name": "Randall Woodfin 8.10-8.16.21 revision",
+        "file_extension": "pdf",
+        "file_size": 91199,
+        "file_status": "com_cpy",
+        "folder_id": "48b6ec39-b401-b818-1a18-f1f1fcfdeb48",
+        "create_ts": "2021-08-23T19:29:14.591Z",
+        "last_update_ts": "2021-08-23T19:30:16.069Z",
+        "active_ind": "Y",
+        "file_manager_id": "f189fa09-0943-4581-adbf-d47bcebedd24",
+        "file_folder_path": "Political Files/2021/Local/Randall Woodfin/Randall Woodfin 081021-081621",
+        "full_qualified_file_name": "Political Files/2021/Local/Randall Woodfin/Randall Woodfin 081021-081621/Randall Woodfin 8.10-8.16.21 revision",
+        "entity_id": "74173",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
+        "callsign": "WVTM-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1708913542972833800,
+        "score": 0.24995703
+      },
+      {
+        "id": "8c6d9634-65e5-1812-efc7-517e97275776",
+        "file_id": "8c6d9634-65e5-1812-efc7-517e97275776",
+        "file_name": "Randall Woodfin 8.21-8.24.21 revision",
+        "file_extension": "pdf",
+        "file_size": 94567,
+        "file_status": "com_cpy",
+        "folder_id": "ede7030d-2555-f2ed-c0ed-786a6680b52e",
+        "create_ts": "2021-08-23T19:28:39.482Z",
+        "last_update_ts": "2021-08-23T19:29:40.931Z",
+        "active_ind": "Y",
+        "file_manager_id": "b4f2560b-2d96-47cf-8a62-4828edee641d",
+        "file_folder_path": "Political Files/2021/Local/Randall Woodfin/Randall Woodfin 082121-082421",
+        "full_qualified_file_name": "Political Files/2021/Local/Randall Woodfin/Randall Woodfin 082121-082421/Randall Woodfin 8.21-8.24.21 revision",
+        "entity_id": "74173",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
+        "callsign": "WVTM-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1708913506134261800,
+        "score": 0.24995703
+      },
       {
         "id": "71e64b7e-98f7-db42-a116-08e5088fcb75",
         "file_id": "71e64b7e-98f7-db42-a116-08e5088fcb75",
@@ -196,50 +246,6 @@
         "campaign_year": "2021",
         "_version_": 1708904914420236300,
         "score": 0.24995703
-      },
-      {
-        "id": "030a31dd-090e-eed0-a3c5-7d79368e21ac",
-        "file_id": "030a31dd-090e-eed0-a3c5-7d79368e21ac",
-        "file_name": "Kristine Russell 092120 Payment Credit",
-        "file_extension": "pdf",
-        "file_size": 18790,
-        "file_status": "com_cpy",
-        "folder_id": "1db5f588-013f-e145-a856-1a2094bf58ed",
-        "create_ts": "2021-08-23T17:11:57.015Z",
-        "last_update_ts": "2021-08-23T17:12:58.434Z",
-        "active_ind": "Y",
-        "file_manager_id": "d4242ed1-5f77-4b5b-84be-efa02748895e",
-        "file_folder_path": "Political Files/2020/Local/KRISTINE RUSSELL",
-        "full_qualified_file_name": "Political Files/2020/Local/KRISTINE RUSSELL/Kristine Russell 092120 Payment Credit",
-        "entity_id": "8381",
-        "source_service_code": "AM",
-        "callsign": "KLEB",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2020",
-        "_version_": 1708904905222127600,
-        "score": 0.24995703
-      },
-      {
-        "id": "cd7820a3-ebcc-e165-715c-406b30e968e0",
-        "file_id": "cd7820a3-ebcc-e165-715c-406b30e968e0",
-        "file_name": "0814-0821",
-        "file_extension": "docx",
-        "file_size": 57232,
-        "file_status": "com_prc",
-        "folder_id": "a5b4e3d6-88a7-8cdb-2225-0ad110881ceb",
-        "create_ts": "2021-08-23T16:59:28.262Z",
-        "last_update_ts": "2021-08-23T17:00:45.957Z",
-        "active_ind": "Y",
-        "file_manager_id": "b2202ba4-ff31-440e-8a87-e0a974c56b38",
-        "file_folder_path": "Issues and Programs Lists/2021/2021 Q3",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/2021 Q3/0814-0821",
-        "entity_id": "15349",
-        "source_service_code": "FM",
-        "callsign": "KHLL",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1708904137184247800,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -269,13 +275,13 @@
         "SACRAMNTO-STKTON-MODESTO": 2676,
         "MILWAUKEE": 2623,
         "BEND OR": 2586,
-        "GREENSBORO-H.POINT-W.SALEM": 2517,
+        "GREENSBORO-H.POINT-W.SALEM": 2516,
         "CHICAGO": 2494,
         "FRESNO-VISALIA": 2442,
         "SAVANNAH": 2401,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
         "PEORIA-BLOOMINGTON": 2189,
-        "BIRMINGHAM (ANN TUSC)": 2171,
+        "BIRMINGHAM (ANN TUSC)": 2173,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
         "Greenville-Spartanburg-Asheville-Anderson": 2166,
         "TAMPA-ST. PETE (SARASOTA)": 2148,
@@ -347,8 +353,8 @@
       },
       "network_affiliation": {
         "ABC": 56803,
-        "NBC": 55696,
-        "CBS": 37736,
+        "NBC": 55698,
+        "CBS": 37735,
         "FOX": 27103,
         "PBS": 13949,
         "CW": 11907,
@@ -417,7 +423,7 @@
         "2018": 68175,
         "2019": 14238,
         "2020": 126487,
-        "2021": 10889,
+        "2021": 10891,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -426,12 +432,12 @@
         "US Senate": 48345,
         "US House": 41563,
         "Presidential": 39285,
-        "Local": 22724
+        "Local": 22726
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54231,
         "Issues and Programs Lists": 42874,
-        "Equal Employment Opportunity Records": 36799,
+        "Equal Employment Opportunity Records": 36798,
         "Donor Lists - Applicable Only for NCEs": 11273,
         "FCC Authorizations": 7076,
         "Local Public Notice Announcements": 1661,
@@ -457,14 +463,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232224,
+        "TV": 232225,
         "CABLE": 111424,
         "FM": 106661,
         "AM": 39868,
         "DBS": 5058
       },
       "political_file_type": {
-        "PA": 217034,
+        "PA": 217036,
         "NCIA": 113511
       }
     }
@@ -481,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 216,
-    "responseTime": 217
+    "queryTime": 1774,
+    "processTime": 783,
+    "responseTime": 1783
   }
 }
