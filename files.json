@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 495256,
+    "numFound": 495257,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "06e0fd7c-8288-3e55-b796-2d4d81f6d152",
+        "file_id": "06e0fd7c-8288-3e55-b796-2d4d81f6d152",
+        "file_name": "Americans for Prosperity addition 082321",
+        "file_extension": "pdf",
+        "file_size": 98326,
+        "file_status": "com_cpy",
+        "folder_id": "c86ab7b9-daec-aeba-40b3-071ff739f302",
+        "create_ts": "2021-08-23T23:33:50.179Z",
+        "last_update_ts": "2021-08-23T23:34:51.698Z",
+        "active_ind": "Y",
+        "file_manager_id": "0a56262f-5d41-468d-9fc4-0a3231d38456",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity/Americans for Prosperity addition 082321",
+        "entity_id": "13508",
+        "source_service_code": "AM",
+        "callsign": "KKNT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708928931444293600,
+        "score": 0.24995703
+      },
       {
         "id": "4a0b7c27-150d-bdea-2a32-ce524d54091a",
         "file_id": "4a0b7c27-150d-bdea-2a32-ce524d54091a",
@@ -201,27 +223,6 @@
         "campaign_year": "2021",
         "_version_": 1708921731914137600,
         "score": 0.24995703
-      },
-      {
-        "id": "2b757981-5680-edfa-4755-070d3d741376",
-        "file_id": "2b757981-5680-edfa-4755-070d3d741376",
-        "file_name": "62912048-STOP THE REPUBLICAN RECALL OF GOV NEWSOM-8.2-9.12-0777 SPANISH-REV #6 CDR",
-        "file_extension": "pdf",
-        "file_size": 12341,
-        "file_status": "com_cpy",
-        "folder_id": "bcd5d72e-9c89-33a0-dde3-ad1c52d8c907",
-        "create_ts": "2021-08-23T21:38:54.761Z",
-        "last_update_ts": "2021-08-23T21:39:56.177Z",
-        "active_ind": "Y",
-        "file_manager_id": "43896af3-7d80-4923-bd4f-11bc6b1f4311",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/California/Stop the Republican Recall of Governor Newsom",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/California/Stop the Republican Recall of Governor Newsom/62912048-STOP THE REPUBLICAN RECALL OF GOV NEWSOM-8.2-9.12-0777 SPANISH-REV #6 CDR",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708921700983242800,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -399,7 +400,7 @@
         "2018": 68175,
         "2019": 14238,
         "2020": 126487,
-        "2021": 10909,
+        "2021": 10910,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -442,12 +443,12 @@
         "TV": 232235,
         "CABLE": 111424,
         "FM": 106663,
-        "AM": 39869,
+        "AM": 39870,
         "DBS": 5065
       },
       "political_file_type": {
         "PA": 217042,
-        "NCIA": 113523
+        "NCIA": 113524
       }
     }
   },
@@ -463,8 +464,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1746,
-    "processTime": 761,
-    "responseTime": 1761
+    "queryTime": 1705,
+    "processTime": 715,
+    "responseTime": 1716
   }
 }
