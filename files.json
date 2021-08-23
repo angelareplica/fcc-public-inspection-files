@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 495232,
+    "numFound": 495233,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "b57f3e45-33fc-f056-db79-c63094de83de",
+        "file_id": "b57f3e45-33fc-f056-db79-c63094de83de",
+        "file_name": "JB for Governor 08.24.21-08.30.21 #318126",
+        "file_extension": "pdf",
+        "file_size": 188074,
+        "file_status": "com_cpy",
+        "folder_id": "732a7e3d-dca1-91e4-46f4-845b41a37511",
+        "create_ts": "2021-08-23T18:34:10.067Z",
+        "last_update_ts": "2021-08-23T18:35:44.056Z",
+        "active_ind": "Y",
+        "file_manager_id": "31a91e98-0433-44bc-bc96-40f691dd941b",
+        "file_folder_path": "Political Files/2021/State/JB Pritzker for Governor",
+        "full_qualified_file_name": "Political Files/2021/State/JB Pritzker for Governor/JB for Governor 08.24.21-08.30.21 #318126",
+        "entity_id": "73226",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "CHICAGO",
+        "callsign": "WLS-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1708910078007967700,
+        "score": 0.24995703
+      },
       {
         "id": "5fe33754-fd7b-c62f-e579-0bd8b46c1b5b",
         "file_id": "5fe33754-fd7b-c62f-e579-0bd8b46c1b5b",
@@ -219,31 +244,6 @@
         "campaign_year": "2021",
         "_version_": 1708900160434602000,
         "score": 0.24995703
-      },
-      {
-        "id": "6bd20167-4630-2579-e70b-12037892ef6a",
-        "file_id": "6bd20167-4630-2579-e70b-12037892ef6a",
-        "file_name": "WPEC-McCormick, Sheila-Congress D-#20 Dem #4956044 (0824-090521)",
-        "file_extension": "pdf",
-        "file_size": 175133,
-        "file_status": "com_cpy",
-        "folder_id": "6ff0e0d1-9235-a9ad-208b-ad652dcabf9c",
-        "create_ts": "2021-08-23T15:56:30.359Z",
-        "last_update_ts": "2021-08-23T15:57:31.827Z",
-        "active_ind": "Y",
-        "file_manager_id": "92068fb9-3845-405f-b7d5-71dea048ed6e",
-        "file_folder_path": "Political Files/2021/Federal/US House/MCCORMICK SHEILA - FLA HOUSE OF REP 20/ORDERS AND NABS",
-        "full_qualified_file_name": "Political Files/2021/Federal/US House/MCCORMICK SHEILA - FLA HOUSE OF REP 20/ORDERS AND NABS/WPEC-McCormick, Sheila-Congress D-#20 Dem #4956044 (0824-090521)",
-        "entity_id": "52527",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "WEST PALM BEACH-FT. PIERCE",
-        "callsign": "WPEC",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2021",
-        "_version_": 1708900158745346000,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -274,7 +274,7 @@
         "MILWAUKEE": 2623,
         "BEND OR": 2586,
         "GREENSBORO-H.POINT-W.SALEM": 2517,
-        "CHICAGO": 2493,
+        "CHICAGO": 2494,
         "FRESNO-VISALIA": 2442,
         "SAVANNAH": 2401,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
@@ -350,7 +350,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56802,
+        "ABC": 56803,
         "NBC": 55696,
         "CBS": 37736,
         "FOX": 27103,
@@ -421,12 +421,12 @@
         "2018": 68175,
         "2019": 14238,
         "2020": 126487,
-        "2021": 10886,
+        "2021": 10887,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64038,
+        "State": 64039,
         "US Senate": 48345,
         "US House": 41563,
         "Presidential": 39285,
@@ -461,14 +461,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232223,
+        "TV": 232224,
         "CABLE": 111424,
         "FM": 106659,
         "AM": 39868,
         "DBS": 5058
       },
       "political_file_type": {
-        "PA": 217033,
+        "PA": 217034,
         "NCIA": 113509
       }
     }
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1711,
-    "processTime": 718,
-    "responseTime": 1718
+    "queryTime": 205,
+    "processTime": 213,
+    "responseTime": 214
   }
 }
