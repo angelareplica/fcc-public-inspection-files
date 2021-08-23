@@ -1,9 +1,58 @@
 {
   "response": {
-    "numFound": 495236,
+    "numFound": 495238,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "73bd8176-dbb5-8476-4779-e31799d69ee7",
+        "file_id": "73bd8176-dbb5-8476-4779-e31799d69ee7",
+        "file_name": "AB Foundation 318123 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 184035,
+        "file_status": "com_cpy",
+        "folder_id": "b1fe781a-2bad-29a0-ad7c-fd945fb06a47",
+        "create_ts": "2021-08-23T20:24:20.453Z",
+        "last_update_ts": "2021-08-23T20:25:54.51Z",
+        "active_ind": "Y",
+        "file_manager_id": "faac408a-d448-4c33-a84e-b223684f49b6",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation/AB Foundation 318123 Rev 0",
+        "entity_id": "8616",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "PHILADELPHIA",
+        "callsign": "WPVI-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708917009531535400,
+        "score": 0.24995703
+      },
+      {
+        "id": "110c3771-60d3-9982-ec68-b3d3651a0091",
+        "file_id": "110c3771-60d3-9982-ec68-b3d3651a0091",
+        "file_name": "Elder Independent Mayor 08.24 to 08.30 KPAX 904812",
+        "file_extension": "pdf",
+        "file_size": 235185,
+        "file_status": "com_cpy",
+        "folder_id": "445d7175-4d53-5e4a-c3c1-d62102527136",
+        "create_ts": "2021-08-23T20:17:14.914Z",
+        "last_update_ts": "2021-08-23T20:18:16.55Z",
+        "active_ind": "Y",
+        "file_manager_id": "919ae7c1-b836-44f1-8294-8980fe62c3df",
+        "file_folder_path": "Political Files/2021/Local/Elder Independent Mayor/Orders",
+        "full_qualified_file_name": "Political Files/2021/Local/Elder Independent Mayor/Orders/Elder Independent Mayor 08.24 to 08.30 KPAX 904812",
+        "entity_id": "35455",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS/CW",
+        "nielsen_dma_rank": "MISSOULA",
+        "callsign": "KPAX-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1708916563362447400,
+        "score": 0.24995703
+      },
       {
         "id": "f0acdaec-8781-5f0a-6cbd-d9fbec3eb47c",
         "file_id": "f0acdaec-8781-5f0a-6cbd-d9fbec3eb47c",
@@ -197,55 +246,6 @@
         "campaign_year": "2021",
         "_version_": 1708906611155665000,
         "score": 0.24995703
-      },
-      {
-        "id": "5a16e10f-3318-93a7-36b9-65cba6d4c037",
-        "file_id": "5a16e10f-3318-93a7-36b9-65cba6d4c037",
-        "file_name": "J.B. Pritzker for Governor 08.15.21",
-        "file_extension": "pdf",
-        "file_size": 331066,
-        "file_status": "com_cpy",
-        "folder_id": "3da32113-4b1b-8879-224a-5b3cec63ad81",
-        "create_ts": "2021-08-23T17:39:03.311Z",
-        "last_update_ts": "2021-08-23T17:40:37.766Z",
-        "active_ind": "Y",
-        "file_manager_id": "7642c056-5c1a-45f0-b257-34b2f17aff8c",
-        "file_folder_path": "Political Files/2021/State/JB Pritzker for Governor/Invoices",
-        "full_qualified_file_name": "Political Files/2021/State/JB Pritzker for Governor/Invoices/J.B. Pritzker for Governor 08.15.21",
-        "entity_id": "62009",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "CHAMPAIGN&SPRNGFLD-DECATUR",
-        "callsign": "WRSP-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1708906611127353300,
-        "score": 0.24995703
-      },
-      {
-        "id": "6b685c01-993a-8fce-9397-50f9bbf3ae8d",
-        "file_id": "6b685c01-993a-8fce-9397-50f9bbf3ae8d",
-        "file_name": "STOP THE REPUBLICAN RECALL OF GOVERNOR NEWSOM 080221-091421 2166388 REV 3 CONTRACT NAB",
-        "file_extension": "pdf",
-        "file_size": 791523,
-        "file_status": "com_cpy",
-        "folder_id": "888d3ee2-a7ff-bf36-8754-9adca7037062",
-        "create_ts": "2021-08-23T17:12:05.579Z",
-        "last_update_ts": "2021-08-23T17:13:39.654Z",
-        "active_ind": "Y",
-        "file_manager_id": "6220682e-1ec2-4237-a529-9d27e8a825b3",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/STOP THE REPUBLICAN RECALL OF GOVERNOR NEWSOM",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/STOP THE REPUBLICAN RECALL OF GOVERNOR NEWSOM/STOP THE REPUBLICAN RECALL OF GOVERNOR NEWSOM 080221-091421 2166388 REV 3 CONTRACT NAB",
-        "entity_id": "10242",
-        "source_service_code": "TV",
-        "network_affiliation": "MNT",
-        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
-        "callsign": "KQCA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708904914420236300,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -264,7 +264,7 @@
         "OMAHA": 3658,
         "BUTTE-BOZEMAN": 3614,
         "EUGENE": 3367,
-        "MISSOULA": 3292,
+        "MISSOULA": 3293,
         "CHAMPAIGN&SPRNGFLD-DECATUR": 3196,
         "RALEIGH-DURHAM (FAYETVLLE)": 3175,
         "MINNEAPOLIS-ST. PAUL": 3157,
@@ -286,7 +286,7 @@
         "Greenville-Spartanburg-Asheville-Anderson": 2166,
         "TAMPA-ST. PETE (SARASOTA)": 2148,
         "LEXINGTON": 2082,
-        "PHILADELPHIA": 2028,
+        "PHILADELPHIA": 2029,
         "ROCHESTR-MASON CITY-AUSTIN": 1984,
         "SIOUX CITY": 1947,
         "GREAT FALLS": 1923,
@@ -352,7 +352,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56803,
+        "ABC": 56804,
         "NBC": 55698,
         "CBS": 37735,
         "FOX": 27103,
@@ -369,7 +369,7 @@
         "ION": 731,
         "N/A": 643,
         "UNIMAS": 615,
-        "CBS/CW": 424,
+        "CBS/CW": 425,
         "INDEPENDENT": 402,
         "NBC & CBS": 376,
         "MYNETWORKTV": 239,
@@ -423,7 +423,7 @@
         "2018": 68175,
         "2019": 14238,
         "2020": 126487,
-        "2021": 10891,
+        "2021": 10893,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -432,7 +432,7 @@
         "US Senate": 48345,
         "US House": 41563,
         "Presidential": 39285,
-        "Local": 22726
+        "Local": 22727
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54231,
@@ -463,15 +463,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232225,
+        "TV": 232227,
         "CABLE": 111424,
         "FM": 106661,
         "AM": 39868,
         "DBS": 5058
       },
       "political_file_type": {
-        "PA": 217036,
-        "NCIA": 113511
+        "PA": 217037,
+        "NCIA": 113512
       }
     }
   },
@@ -487,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1774,
-    "processTime": 783,
-    "responseTime": 1783
+    "queryTime": 1698,
+    "processTime": 706,
+    "responseTime": 1707
   }
 }
