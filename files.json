@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 495233,
+    "numFound": 495235,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "71e64b7e-98f7-db42-a116-08e5088fcb75",
+        "file_id": "71e64b7e-98f7-db42-a116-08e5088fcb75",
+        "file_name": "AB Foundation WHNA FM 081621 to 082921",
+        "file_extension": "pdf",
+        "file_size": 1648161,
+        "file_status": "com_cpy",
+        "folder_id": "810deba4-79db-b01d-d965-f80bd1f11b92",
+        "create_ts": "2021-08-23T19:11:36.865Z",
+        "last_update_ts": "2021-08-23T19:12:38.724Z",
+        "active_ind": "Y",
+        "file_manager_id": "319b5308-b4ce-4fb2-ae1f-f2e49a23efa3",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation WHNA FM 081621 to 082921",
+        "entity_id": "8552",
+        "source_service_code": "FM",
+        "callsign": "WHNA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708912434291409000,
+        "score": 0.24995703
+      },
+      {
+        "id": "01a06e94-bf9b-b02d-85bf-994a7c4d80ae",
+        "file_id": "01a06e94-bf9b-b02d-85bf-994a7c4d80ae",
+        "file_name": "AB Foundation WHNA FM 081621 to 082921",
+        "file_extension": "pdf",
+        "file_size": 1648161,
+        "file_status": "com_cpy",
+        "folder_id": "fdca783a-1442-2843-32e3-83fe475e3c8a",
+        "create_ts": "2021-08-23T19:10:37.544Z",
+        "last_update_ts": "2021-08-23T19:11:39.455Z",
+        "active_ind": "Y",
+        "file_manager_id": "07daf02d-e5b6-434c-b714-9538c23ac9f7",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation WHNA FM 081621 to 082921",
+        "entity_id": "40422",
+        "source_service_code": "FM",
+        "callsign": "WNNA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1708912372127629300,
+        "score": 0.24995703
+      },
       {
         "id": "b57f3e45-33fc-f056-db79-c63094de83de",
         "file_id": "b57f3e45-33fc-f056-db79-c63094de83de",
@@ -196,54 +240,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1708904137184247800,
         "score": 0.24995703
-      },
-      {
-        "id": "b0c24877-1500-2fce-c439-fb669d4355f9",
-        "file_id": "b0c24877-1500-2fce-c439-fb669d4355f9",
-        "file_name": "bo duhe 092820 payment",
-        "file_extension": "pdf",
-        "file_size": 226501,
-        "file_status": "com_cpy",
-        "folder_id": "d36761d1-4519-a89a-1d22-62011ac2577a",
-        "create_ts": "2021-08-23T16:27:20.004Z",
-        "last_update_ts": "2021-08-23T16:28:54.042Z",
-        "active_ind": "Y",
-        "file_manager_id": "b44695d6-17b1-408f-a7fe-036f92b5dd1b",
-        "file_folder_path": "Political Files/2020/Local/BOFILL DUHE",
-        "full_qualified_file_name": "Political Files/2020/Local/BOFILL DUHE/bo duhe 092820 payment",
-        "entity_id": "48452",
-        "source_service_code": "AM",
-        "callsign": "KANE",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2020",
-        "_version_": 1708902098371870700,
-        "score": 0.24995703
-      },
-      {
-        "id": "63563a47-7197-291d-be1b-d866eb883b01",
-        "file_id": "63563a47-7197-291d-be1b-d866eb883b01",
-        "file_name": "WPEC-McCormick, Sheila-Congress D-#20 Dem (order) #4956044 (0824-090521)",
-        "file_extension": "pdf",
-        "file_size": 627958,
-        "file_status": "com_cpy",
-        "folder_id": "6ff0e0d1-9235-a9ad-208b-ad652dcabf9c",
-        "create_ts": "2021-08-23T15:56:31.618Z",
-        "last_update_ts": "2021-08-23T15:57:33.435Z",
-        "active_ind": "Y",
-        "file_manager_id": "71dfcebf-8a2c-4cac-a68c-7a2472a2fe1c",
-        "file_folder_path": "Political Files/2021/Federal/US House/MCCORMICK SHEILA - FLA HOUSE OF REP 20/ORDERS AND NABS",
-        "full_qualified_file_name": "Political Files/2021/Federal/US House/MCCORMICK SHEILA - FLA HOUSE OF REP 20/ORDERS AND NABS/WPEC-McCormick, Sheila-Congress D-#20 Dem (order) #4956044 (0824-090521)",
-        "entity_id": "52527",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "WEST PALM BEACH-FT. PIERCE",
-        "callsign": "WPEC",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2021",
-        "_version_": 1708900160434602000,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -421,7 +417,7 @@
         "2018": 68175,
         "2019": 14238,
         "2020": 126487,
-        "2021": 10887,
+        "2021": 10889,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -463,13 +459,13 @@
       "source_service_code": {
         "TV": 232224,
         "CABLE": 111424,
-        "FM": 106659,
+        "FM": 106661,
         "AM": 39868,
         "DBS": 5058
       },
       "political_file_type": {
         "PA": 217034,
-        "NCIA": 113509
+        "NCIA": 113511
       }
     }
   },
@@ -485,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 205,
-    "processTime": 213,
-    "responseTime": 214
+    "queryTime": 208,
+    "processTime": 216,
+    "responseTime": 217
   }
 }
