@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 495263,
+    "numFound": 495264,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "b9d0e43e-2af7-d7b2-b590-adeb6f336028",
+        "file_id": "b9d0e43e-2af7-d7b2-b590-adeb6f336028",
+        "file_name": "WYDE-FM Antenna Damage STA Application 08242021",
+        "file_extension": "pdf",
+        "file_size": 268394,
+        "file_status": "com_cpy",
+        "folder_id": "2e5e8b79-ba53-7796-5f2c-75add65d81c0",
+        "create_ts": "2021-08-24T12:18:21.361Z",
+        "last_update_ts": "2021-08-24T12:19:55.931Z",
+        "active_ind": "Y",
+        "file_manager_id": "700e74fd-804c-4299-8f64-7e6ad6c0307e",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/WYDE-FM Antenna Damage STA Application 08242021",
+        "entity_id": "77749",
+        "source_service_code": "FM",
+        "callsign": "WYDE-FM",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1708977031203520500,
+        "score": 0.24995703
+      },
       {
         "id": "72c54ee0-c560-bc10-eea3-fc9c89b61db8",
         "file_id": "72c54ee0-c560-bc10-eea3-fc9c89b61db8",
@@ -205,27 +226,6 @@
         "campaign_year": "2021",
         "_version_": 1708925415587840000,
         "score": 0.24995703
-      },
-      {
-        "id": "5ef4fa4b-fcb6-cbc3-1b4d-9bd67d7c4b5e",
-        "file_id": "5ef4fa4b-fcb6-cbc3-1b4d-9bd67d7c4b5e",
-        "file_name": "Majority Forward - 2021 NAB August She Knows Us NH 082321",
-        "file_extension": "pdf",
-        "file_size": 570868,
-        "file_status": "com_cpy",
-        "folder_id": "2c5cb352-dcd9-3b18-75a1-009928d7c14d",
-        "create_ts": "2021-08-23T22:35:56.024Z",
-        "last_update_ts": "2021-08-23T22:36:57.698Z",
-        "active_ind": "Y",
-        "file_manager_id": "481ce9b1-927c-4ac0-85e7-dfbf4b71534f",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/New Hampshire/Majority Forward",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/New Hampshire/Majority Forward/Majority Forward - 2021 NAB August She Knows Us NH 082321",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708925288689172500,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -419,7 +419,7 @@
         "Issues and Programs Lists": 42874,
         "Equal Employment Opportunity Records": 36798,
         "Donor Lists - Applicable Only for NCEs": 11273,
-        "FCC Authorizations": 7076,
+        "FCC Authorizations": 7077,
         "Local Public Notice Announcements": 1665,
         "Applications and Related Materials": 1515,
         "Availability of Signals": 1504,
@@ -445,7 +445,7 @@
       "source_service_code": {
         "TV": 232235,
         "CABLE": 111427,
-        "FM": 106665,
+        "FM": 106666,
         "AM": 39871,
         "DBS": 5065
       },
@@ -467,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 214,
-    "responseTime": 215
+    "queryTime": 206,
+    "processTime": 213,
+    "responseTime": 214
   }
 }
