@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 495285,
+    "numFound": 495287,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "f9c1db1f-1637-1094-2bcb-0d44ece744c7",
+        "file_id": "f9c1db1f-1637-1094-2bcb-0d44ece744c7",
+        "file_name": "WV Freedom Alliance 082521 to 083121 order 2170970 including NAB spots Freedom and Ask Not",
+        "file_extension": "pdf",
+        "file_size": 803029,
+        "file_status": "com_cpy",
+        "folder_id": "e7a22f35-4564-6267-9fc6-216616de211b",
+        "create_ts": "2021-08-24T20:21:48.137Z",
+        "last_update_ts": "2021-08-24T20:23:22.786Z",
+        "active_ind": "Y",
+        "file_manager_id": "1226619b-8135-4d86-9edc-e8e14fb06c76",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/West Virginia Freedom Alliance Action Fund",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/West Virginia Freedom Alliance Action Fund/WV Freedom Alliance 082521 to 083121 order 2170970 including NAB spots Freedom and Ask Not",
+        "entity_id": "36912",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
+        "callsign": "WSAZ-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709007446945562600,
+        "score": 0.24995703
+      },
+      {
+        "id": "c028d78c-ee2a-9544-8cbe-8b587019d3c6",
+        "file_id": "c028d78c-ee2a-9544-8cbe-8b587019d3c6",
+        "file_name": "WV Freedom Alliance 082521 to 083121 WQCW order 2170745 including NAB spots Freedom and Ask Not",
+        "file_extension": "pdf",
+        "file_size": 628123,
+        "file_status": "com_cpy",
+        "folder_id": "95f48a9d-48ef-94bf-1c0a-dea55cb49fca",
+        "create_ts": "2021-08-24T20:20:10.343Z",
+        "last_update_ts": "2021-08-24T20:21:45.082Z",
+        "active_ind": "Y",
+        "file_manager_id": "69100a76-fb12-4b1a-8464-e89d05d63121",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/West Virginia Freedom Alliance Action Fund",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/West Virginia Freedom Alliance Action Fund/WV Freedom Alliance 082521 to 083121 WQCW order 2170745 including NAB spots Freedom and Ask Not",
+        "entity_id": "65130",
+        "source_service_code": "TV",
+        "network_affiliation": "CW",
+        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
+        "callsign": "WQCW",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709007344490250200,
+        "score": 0.24995703
+      },
       {
         "id": "af376838-5852-26b7-0c64-afa8888ebce3",
         "file_id": "af376838-5852-26b7-0c64-afa8888ebce3",
@@ -190,50 +238,6 @@
         "campaign_year": "2021",
         "_version_": 1708999722747822000,
         "score": 0.24995703
-      },
-      {
-        "id": "ebb3efe6-f31a-bf71-c567-2283dfaa9377",
-        "file_id": "ebb3efe6-f31a-bf71-c567-2283dfaa9377",
-        "file_name": "2021 AB Foundation 08242021, order est 3608, NAB Form Proof of Payment and Spot Times",
-        "file_extension": "pdf",
-        "file_size": 1414613,
-        "file_status": "com_cpy",
-        "folder_id": "96439f71-5656-87a9-da07-add1e1984cf6",
-        "create_ts": "2021-08-24T18:18:49.338Z",
-        "last_update_ts": "2021-08-24T18:19:51.503Z",
-        "active_ind": "Y",
-        "file_manager_id": "0922db11-60ac-48b5-8780-43c57312dfdc",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/2021 AB Foundation 08242021, order est 3608, NAB Form Proof of Payment and Spot Times",
-        "entity_id": "66365",
-        "source_service_code": "AM",
-        "callsign": "WFUZ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708999709851385900,
-        "score": 0.24995703
-      },
-      {
-        "id": "b7bf6b2d-2797-5b4d-ef1b-c938ffb5fab2",
-        "file_id": "b7bf6b2d-2797-5b4d-ef1b-c938ffb5fab2",
-        "file_name": "2021 AB Foundation 08242021, order est 3615, NAB Form, Proof of Payment",
-        "file_extension": "pdf",
-        "file_size": 1270250,
-        "file_status": "com_cpy",
-        "folder_id": "ac04db81-4412-d9c6-7bce-d6b350c7b11c",
-        "create_ts": "2021-08-24T18:15:29.989Z",
-        "last_update_ts": "2021-08-24T18:17:04.843Z",
-        "active_ind": "Y",
-        "file_manager_id": "cc4a3a51-cde2-4222-bf94-29355e4ff7c4",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/2021 AB Foundation 08242021, order est 3615, NAB Form, Proof of Payment",
-        "entity_id": "66364",
-        "source_service_code": "FM",
-        "callsign": "WEZX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708999500931006500,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -246,7 +250,7 @@
         "PITTSBURGH": 5297,
         "HONOLULU": 5188,
         "DULUTH-SUPERIOR": 4649,
-        "CHARLESTON-HUNTINGTON": 4259,
+        "CHARLESTON-HUNTINGTON": 4261,
         "PORTLAND-AUBURN": 4036,
         "TALLAHASSEE-THOMASVILLE": 3941,
         "OMAHA": 3658,
@@ -341,11 +345,11 @@
       },
       "network_affiliation": {
         "ABC": 56806,
-        "NBC": 55701,
+        "NBC": 55702,
         "CBS": 37736,
         "FOX": 27111,
         "PBS": 13949,
-        "CW": 11907,
+        "CW": 11908,
         "IND": 2980,
         "MYTV": 2216,
         "UNIVISION": 1829,
@@ -411,7 +415,7 @@
         "2018": 68175,
         "2019": 14238,
         "2020": 126487,
-        "2021": 10935,
+        "2021": 10937,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -451,7 +455,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232242,
+        "TV": 232244,
         "CABLE": 111427,
         "FM": 106673,
         "AM": 39878,
@@ -459,7 +463,7 @@
       },
       "political_file_type": {
         "PA": 217046,
-        "NCIA": 113545
+        "NCIA": 113547
       }
     }
   },
@@ -475,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 214,
-    "responseTime": 215
+    "queryTime": 208,
+    "processTime": 215,
+    "responseTime": 216
   }
 }
