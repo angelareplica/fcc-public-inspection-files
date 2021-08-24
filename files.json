@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 495257,
+    "numFound": 495259,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "1f8ad0e4-48b7-ed0e-1f1d-e2b9bf08a90f",
+        "file_id": "1f8ad0e4-48b7-ed0e-1f1d-e2b9bf08a90f",
+        "file_name": "Certificate of Public Notice KNLM 21-08-23",
+        "file_extension": "pdf",
+        "file_size": 222249,
+        "file_status": "com_cpy",
+        "folder_id": "86ddfa6a-8f5a-4661-2dac-80341f4869cd",
+        "create_ts": "2021-08-24T00:28:48.73Z",
+        "last_update_ts": "2021-08-24T00:30:22.861Z",
+        "active_ind": "Y",
+        "file_manager_id": "c9d0b08e-259f-41f5-8bb5-0b4e86692411",
+        "file_folder_path": "Local Public Notice Announcements",
+        "full_qualified_file_name": "Local Public Notice Announcements/Certificate of Public Notice KNLM 21-08-23",
+        "entity_id": "173947",
+        "source_service_code": "FM",
+        "callsign": "KNLM",
+        "non_political_file_folder": "Local Public Notice Announcements",
+        "_version_": 1708932390329516000,
+        "score": 0.24995703
+      },
+      {
+        "id": "c5c7192b-3359-1bc2-65e4-95beb0d652e2",
+        "file_id": "c5c7192b-3359-1bc2-65e4-95beb0d652e2",
+        "file_name": "Certificate of Public Notice KWTH 21-08-23",
+        "file_extension": "pdf",
+        "file_size": 209269,
+        "file_status": "com_cpy",
+        "folder_id": "f738bf45-0192-7f08-c14a-9e7a226b020f",
+        "create_ts": "2021-08-24T00:21:14.17Z",
+        "last_update_ts": "2021-08-24T00:22:48.258Z",
+        "active_ind": "Y",
+        "file_manager_id": "5e8571aa-cd87-4910-aa6c-20bcf39b7861",
+        "file_folder_path": "Local Public Notice Announcements",
+        "full_qualified_file_name": "Local Public Notice Announcements/Certificate of Public Notice KWTH 21-08-23",
+        "entity_id": "87122",
+        "source_service_code": "FM",
+        "callsign": "KWTH",
+        "non_political_file_folder": "Local Public Notice Announcements",
+        "_version_": 1708931913662595000,
+        "score": 0.24995703
+      },
       {
         "id": "06e0fd7c-8288-3e55-b796-2d4d81f6d152",
         "file_id": "06e0fd7c-8288-3e55-b796-2d4d81f6d152",
@@ -179,49 +221,6 @@
         "office_type": "State",
         "campaign_year": "2021",
         "_version_": 1708922239133417500,
-        "score": 0.24995703
-      },
-      {
-        "id": "84ed2696-95d9-1135-f846-d1e0ac9cc918",
-        "file_id": "84ed2696-95d9-1135-f846-d1e0ac9cc918",
-        "file_name": "62912199-STOP REPUBLICAN RECALL OF GOV NEWSOM-8.2-21-9.12.21-0777-REV #8 CDR",
-        "file_extension": "pdf",
-        "file_size": 32663,
-        "file_status": "com_cpy",
-        "folder_id": "bcd5d72e-9c89-33a0-dde3-ad1c52d8c907",
-        "create_ts": "2021-08-23T21:38:55.098Z",
-        "last_update_ts": "2021-08-23T21:40:28.986Z",
-        "active_ind": "Y",
-        "file_manager_id": "836d837c-5bb6-4a9c-94f8-c6d03265f2cc",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/California/Stop the Republican Recall of Governor Newsom",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/California/Stop the Republican Recall of Governor Newsom/62912199-STOP REPUBLICAN RECALL OF GOV NEWSOM-8.2-21-9.12.21-0777-REV #8 CDR",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708921701339758600,
-        "score": 0.24995703
-      },
-      {
-        "id": "8298f90b-3c36-3866-d639-6572a0730abd",
-        "file_id": "8298f90b-3c36-3866-d639-6572a0730abd",
-        "file_name": "2021-08-23 REV 1 AMER FOR PROSPERITY IO WNYM 32357004",
-        "file_extension": "pdf",
-        "file_size": 171809,
-        "file_status": "com_cpy",
-        "folder_id": "a53fc3b7-e097-ec97-8ffc-a5e2242850b6",
-        "create_ts": "2021-08-23T21:39:24.145Z",
-        "last_update_ts": "2021-08-23T21:40:25.661Z",
-        "active_ind": "Y",
-        "file_manager_id": "e9000cb3-874a-413f-8296-064a20e30f48",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Americans For Prosperity",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americans For Prosperity/2021-08-23 REV 1 AMER FOR PROSPERITY IO WNYM 32357004",
-        "entity_id": "58635",
-        "source_service_code": "AM",
-        "callsign": "WNYM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708921731914137600,
         "score": 0.24995703
       }
     ],
@@ -417,7 +416,7 @@
         "Equal Employment Opportunity Records": 36798,
         "Donor Lists - Applicable Only for NCEs": 11273,
         "FCC Authorizations": 7076,
-        "Local Public Notice Announcements": 1663,
+        "Local Public Notice Announcements": 1665,
         "Applications and Related Materials": 1515,
         "Availability of Signals": 1504,
         "FCC Investigations or Complaints": 1382,
@@ -442,7 +441,7 @@
       "source_service_code": {
         "TV": 232235,
         "CABLE": 111424,
-        "FM": 106663,
+        "FM": 106665,
         "AM": 39870,
         "DBS": 5065
       },
@@ -464,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1705,
-    "processTime": 715,
-    "responseTime": 1716
+    "queryTime": 207,
+    "processTime": 214,
+    "responseTime": 214
   }
 }
