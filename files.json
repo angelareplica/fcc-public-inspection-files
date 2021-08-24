@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 495287,
+    "numFound": 495288,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "d658d546-82df-a955-9c17-da16b8a11966",
+        "file_id": "d658d546-82df-a955-9c17-da16b8a11966",
+        "file_name": "ELDER 2291037 (080921-082921) REV6",
+        "file_extension": "pdf",
+        "file_size": 55229,
+        "file_status": "com_cpy",
+        "folder_id": "f0a71f5d-2e5f-5f3c-1014-b83c200c7e1c",
+        "create_ts": "2021-08-24T20:24:36.648Z",
+        "last_update_ts": "2021-08-24T20:25:38.39Z",
+        "active_ind": "Y",
+        "file_manager_id": "f0ab945b-208c-41e9-9b1a-688158548296",
+        "file_folder_path": "Political Files/2021/State/GOVERNOR/ELDER",
+        "full_qualified_file_name": "Political Files/2021/State/GOVERNOR/ELDER/ELDER 2291037 (080921-082921) REV6",
+        "entity_id": "25048",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
+        "callsign": "KXTV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1709007623310803000,
+        "score": 0.24995703
+      },
       {
         "id": "f9c1db1f-1637-1094-2bcb-0d44ece744c7",
         "file_id": "f9c1db1f-1637-1094-2bcb-0d44ece744c7",
@@ -214,30 +239,6 @@
         "campaign_year": "2021",
         "_version_": 1708999722814931000,
         "score": 0.24995703
-      },
-      {
-        "id": "bf3d829a-d065-c57f-3385-58b07d551490",
-        "file_id": "bf3d829a-d065-c57f-3385-58b07d551490",
-        "file_name": "7-27-21 to 8-02-21 inv",
-        "file_extension": "pdf",
-        "file_size": 124093,
-        "file_status": "com_cpy",
-        "folder_id": "0779c6b7-3d71-7b54-a21f-3fa3ce2d0270",
-        "create_ts": "2021-08-24T18:19:01.959Z",
-        "last_update_ts": "2021-08-24T18:20:03.808Z",
-        "active_ind": "Y",
-        "file_manager_id": "1ed08c87-9780-4f37-badb-524ddf4d1db2",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/7-27-21 to 8-02-21 inv",
-        "entity_id": "35870",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KVVU-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1708999722747822000,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -264,7 +265,7 @@
         "WAUSAU-RHINELANDER": 2736,
         "FT. WAYNE": 2714,
         "KANSAS CITY": 2703,
-        "SACRAMNTO-STKTON-MODESTO": 2676,
+        "SACRAMNTO-STKTON-MODESTO": 2677,
         "MILWAUKEE": 2623,
         "BEND OR": 2586,
         "GREENSBORO-H.POINT-W.SALEM": 2516,
@@ -344,7 +345,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56806,
+        "ABC": 56807,
         "NBC": 55702,
         "CBS": 37736,
         "FOX": 27111,
@@ -415,12 +416,12 @@
         "2018": 68175,
         "2019": 14238,
         "2020": 126487,
-        "2021": 10937,
+        "2021": 10938,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64045,
+        "State": 64046,
         "US Senate": 48345,
         "US House": 41563,
         "Presidential": 39285,
@@ -455,14 +456,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232244,
+        "TV": 232245,
         "CABLE": 111427,
         "FM": 106673,
         "AM": 39878,
         "DBS": 5065
       },
       "political_file_type": {
-        "PA": 217046,
+        "PA": 217047,
         "NCIA": 113547
       }
     }
@@ -479,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 215,
-    "responseTime": 216
+    "queryTime": 1703,
+    "processTime": 711,
+    "responseTime": 1711
   }
 }
