@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 495314,
+    "numFound": 495315,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "cb84ffeb-8cde-4ecf-9791-34106d96a710",
+        "file_id": "cb84ffeb-8cde-4ecf-9791-34106d96a710",
+        "file_name": "[Indianapolis] [AMERICANS UNITED PEACE 0831906 (104000)]",
+        "file_extension": "pdf",
+        "file_size": 35209,
+        "file_status": "com_cpy",
+        "folder_id": "f2916498-3b3c-9c4a-4bef-102feb52fd6d",
+        "create_ts": "2021-08-25T11:48:21.359Z",
+        "last_update_ts": "2021-08-25T11:49:56.313Z",
+        "active_ind": "Y",
+        "file_manager_id": "88275b87-f01e-44c1-b7e1-4d3de520d790",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Americans United for Peace",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americans United for Peace/[Indianapolis] [AMERICANS UNITED PEACE 0831906 (104000)]",
+        "entity_id": "19524",
+        "source_service_code": "FM",
+        "callsign": "WIBC",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709065740927107000,
+        "score": 0.24995703
+      },
       {
         "id": "49cb4c61-3773-8a71-7c97-9700fac58f8d",
         "file_id": "49cb4c61-3773-8a71-7c97-9700fac58f8d",
@@ -202,27 +224,6 @@
         "non_political_file_folder": "Class A TV Continuing Eligibility",
         "_version_": 1709016744420442000,
         "score": 0.24995703
-      },
-      {
-        "id": "eeefa0ae-d844-e83e-3f97-1e627ddadedb",
-        "file_id": "eeefa0ae-d844-e83e-3f97-1e627ddadedb",
-        "file_name": "K47GI 2017, 07 10 Continuing Eligibility",
-        "file_extension": "pdf",
-        "file_size": 239729,
-        "file_status": "com_cpy",
-        "folder_id": "a97d1ecc-f85a-df74-936e-2afedc148d1e",
-        "create_ts": "2021-08-24T22:48:50.005Z",
-        "last_update_ts": "2021-08-24T22:50:24.635Z",
-        "active_ind": "Y",
-        "file_manager_id": "5c79a97d-5b09-4c15-a61a-a2d7c2c8eaff",
-        "file_folder_path": "Class A TV Continuing Eligibility/2017",
-        "full_qualified_file_name": "Class A TV Continuing Eligibility/2017/K47GI 2017, 07 10 Continuing Eligibility",
-        "entity_id": "5011",
-        "source_service_code": "TV",
-        "callsign": "K47GI-D",
-        "non_political_file_folder": "Class A TV Continuing Eligibility",
-        "_version_": 1709016697269125000,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -400,7 +401,7 @@
         "2018": 68175,
         "2019": 14238,
         "2020": 126487,
-        "2021": 10953,
+        "2021": 10954,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -442,13 +443,13 @@
       "source_service_code": {
         "TV": 232267,
         "CABLE": 111427,
-        "FM": 106675,
+        "FM": 106676,
         "AM": 39880,
         "DBS": 5065
       },
       "political_file_type": {
         "PA": 217052,
-        "NCIA": 113557
+        "NCIA": 113558
       }
     }
   },
@@ -464,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 213,
-    "responseTime": 213
+    "queryTime": 207,
+    "processTime": 216,
+    "responseTime": 217
   }
 }
