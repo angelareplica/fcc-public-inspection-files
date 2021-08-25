@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 495386,
+    "numFound": 495385,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
@@ -351,7 +351,7 @@
         "CW": 11910,
         "IND": 2980,
         "MYTV": 2216,
-        "UNIVISION": 1829,
+        "UNIVISION": 1828,
         "MY NETWORK": 1543,
         "CBS/NBC": 1060,
         "FAMILYNET": 887,
@@ -413,7 +413,7 @@
         "2017": 10346,
         "2018": 68175,
         "2019": 14238,
-        "2020": 126487,
+        "2020": 126486,
         "2021": 11021,
         "KYAZ": 5,
         "Fede": 1
@@ -454,7 +454,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232299,
+        "TV": 232298,
         "CABLE": 111427,
         "FM": 106702,
         "AM": 39890,
@@ -462,7 +462,7 @@
       },
       "political_file_type": {
         "PA": 217069,
-        "NCIA": 113608
+        "NCIA": 113607
       }
     }
   },
@@ -478,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1699,
-    "processTime": 710,
-    "responseTime": 1710
+    "queryTime": 207,
+    "processTime": 216,
+    "responseTime": 216
   }
 }
