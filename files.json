@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 495391,
+    "numFound": 495392,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "8d7ee4e1-f02d-f17e-80f5-e5a6165d4650",
+        "file_id": "8d7ee4e1-f02d-f17e-80f5-e5a6165d4650",
+        "file_name": "NAB - American Civil Liberties Union Inc (002) Signed.edited",
+        "file_extension": "pdf",
+        "file_size": 127784,
+        "file_status": "com_cpy",
+        "folder_id": "fdc2e1e8-5a56-7b6a-6d55-2f2da0f6bbee",
+        "create_ts": "2021-08-26T13:16:33.707Z",
+        "last_update_ts": "2021-08-26T13:17:36.026Z",
+        "active_ind": "Y",
+        "file_manager_id": "4d142d08-b48a-4f56-9203-1b869d20fe6a",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/ACLU/ACLU Est 10290",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/ACLU/ACLU Est 10290/NAB - American Civil Liberties Union Inc (002) Signed.edited",
+        "entity_id": "47904",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WASHINGTON DC (HAGRSTWN)",
+        "callsign": "WRC-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709161886734352400,
+        "score": 0.24995703
+      },
+      {
+        "id": "1ba0d216-2130-d1d5-002d-c967da40819d",
+        "file_id": "1ba0d216-2130-d1d5-002d-c967da40819d",
+        "file_name": "SEIU_NAB Form Issue 08 25 2021",
+        "file_extension": "pdf",
+        "file_size": 1823117,
+        "file_status": "com_cpy",
+        "folder_id": "9ee439b4-e11b-588e-8380-5ab38631670e",
+        "create_ts": "2021-08-25T22:48:27.706Z",
+        "last_update_ts": "2021-08-26T12:49:27.603Z",
+        "active_ind": "Y",
+        "file_manager_id": "0d8c8a71-b3be-4955-a3e6-9ead2b4fbd99",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/SEIU District 1199/SEIU District 1199 Mayoral Election",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/SEIU District 1199/SEIU District 1199 Mayoral Election/SEIU_NAB Form Issue 08 25 2021",
+        "entity_id": "41389",
+        "source_service_code": "AM",
+        "callsign": "WJMO",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709160116310245400,
+        "score": 0.24995703
+      },
       {
         "id": "728d07e6-c3f1-ac94-afa9-3a3e99f20966",
         "file_id": "728d07e6-c3f1-ac94-afa9-3a3e99f20966",
@@ -186,54 +232,6 @@
         "non_political_file_folder": "Applications and Related Materials",
         "_version_": 1709111496684863500,
         "score": 0.24995703
-      },
-      {
-        "id": "1ba0d216-2130-d1d5-002d-c967da40819d",
-        "file_id": "1ba0d216-2130-d1d5-002d-c967da40819d",
-        "file_name": "SEIU_NAB Form Issue 08 25 2021",
-        "file_extension": "pdf",
-        "file_size": 1823117,
-        "file_status": "com_cpy",
-        "folder_id": "9c0cf915-903a-dcbb-ac64-ea63d1be91b8",
-        "create_ts": "2021-08-25T22:48:27.706Z",
-        "last_update_ts": "2021-08-25T22:50:03.025Z",
-        "active_ind": "Y",
-        "file_manager_id": "0d8c8a71-b3be-4955-a3e6-9ead2b4fbd99",
-        "file_folder_path": "Political Files/2021/Local/SEIU District 1199",
-        "full_qualified_file_name": "Political Files/2021/Local/SEIU District 1199/SEIU_NAB Form Issue 08 25 2021",
-        "entity_id": "41389",
-        "source_service_code": "AM",
-        "callsign": "WJMO",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1709107271104987100,
-        "score": 0.24995703
-      },
-      {
-        "id": "1e59aaa5-a194-2079-ad01-c8bfaddb64de",
-        "file_id": "1e59aaa5-a194-2079-ad01-c8bfaddb64de",
-        "file_name": "Bousselot Starts 082421R1",
-        "file_extension": "pdf",
-        "file_size": 689999,
-        "file_status": "com_cpy",
-        "folder_id": "9e758e90-36aa-44cd-94bd-46adda2bb02d",
-        "create_ts": "2021-08-25T22:23:57.675Z",
-        "last_update_ts": "2021-08-25T22:25:32.735Z",
-        "active_ind": "Y",
-        "file_manager_id": "4811b8bb-3184-4d6c-9530-c3a1a2fdc87f",
-        "file_folder_path": "Political Files/2021/State/Iowa House/Ia Rep Party-Mike Bousselot",
-        "full_qualified_file_name": "Political Files/2021/State/Iowa House/Ia Rep Party-Mike Bousselot/Bousselot Starts 082421R1",
-        "entity_id": "66221",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "DES MOINES-AMES",
-        "callsign": "WHO-DT",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1709105729403617300,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -278,7 +276,7 @@
         "ROCHESTR-MASON CITY-AUSTIN": 1984,
         "SIOUX CITY": 1947,
         "GREAT FALLS": 1923,
-        "WASHINGTON DC (HAGRSTWN)": 1849,
+        "WASHINGTON DC (HAGRSTWN)": 1850,
         "LA CROSSE-EAU CLAIRE": 1800,
         "BLUEFIELD-BECKLEY-OAK HILL": 1723,
         "ALBUQUERQUE-SANTA FE": 1693,
@@ -341,7 +339,7 @@
       },
       "network_affiliation": {
         "ABC": 56827,
-        "NBC": 55705,
+        "NBC": 55706,
         "CBS": 37751,
         "FOX": 27114,
         "PBS": 13949,
@@ -411,7 +409,7 @@
         "2018": 68175,
         "2019": 14238,
         "2020": 126486,
-        "2021": 11025,
+        "2021": 11026,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -420,7 +418,7 @@
         "US Senate": 48345,
         "US House": 41564,
         "Presidential": 39285,
-        "Local": 22733
+        "Local": 22732
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54231,
@@ -451,15 +449,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232299,
+        "TV": 232300,
         "CABLE": 111430,
         "FM": 106704,
         "AM": 39890,
         "DBS": 5068
       },
       "political_file_type": {
-        "PA": 217068,
-        "NCIA": 113612
+        "PA": 217067,
+        "NCIA": 113614
       }
     }
   },
