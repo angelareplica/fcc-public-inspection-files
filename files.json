@@ -1,9 +1,77 @@
 {
   "response": {
-    "numFound": 495390,
+    "numFound": 495391,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "728d07e6-c3f1-ac94-afa9-3a3e99f20966",
+        "file_id": "728d07e6-c3f1-ac94-afa9-3a3e99f20966",
+        "file_name": "SEIU_NAB Form Issue 08 25 2021",
+        "file_extension": "pdf",
+        "file_size": 1823117,
+        "file_status": "com_cpy",
+        "folder_id": "3391b4d9-0558-7cc7-1165-9ea5e5131d1f",
+        "create_ts": "2021-08-25T22:51:01.715Z",
+        "last_update_ts": "2021-08-26T12:27:37.359Z",
+        "active_ind": "Y",
+        "file_manager_id": "bf7874d7-8f64-4fcc-a9ac-aab0afa8a898",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/SEIU District 1199/SEIU District 1199 Mayoral Election",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/SEIU District 1199/SEIU District 1199 Mayoral Election/SEIU_NAB Form Issue 08 25 2021",
+        "entity_id": "74465",
+        "source_service_code": "FM",
+        "callsign": "WZAK",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709158742436610000,
+        "score": 0.24995703
+      },
+      {
+        "id": "64af9bf8-3270-7ee4-c62d-03782b20de93",
+        "file_id": "64af9bf8-3270-7ee4-c62d-03782b20de93",
+        "file_name": "SEIU_NAB Form Issue 08 25 2021",
+        "file_extension": "pdf",
+        "file_size": 1823117,
+        "file_status": "com_cpy",
+        "folder_id": "03dd66d2-6002-9027-54da-52ced9e15dd9",
+        "create_ts": "2021-08-25T22:44:43.994Z",
+        "last_update_ts": "2021-08-26T12:23:07.547Z",
+        "active_ind": "Y",
+        "file_manager_id": "c101066d-eb44-49dc-917f-f998e9730b53",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/SEIU District 1199/SEIU District 1199 Mayoral Election",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/SEIU District 1199/SEIU District 1199 Mayoral Election/SEIU_NAB Form Issue 08 25 2021",
+        "entity_id": "2685",
+        "source_service_code": "FM",
+        "callsign": "WENZ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709158459511931000,
+        "score": 0.24995703
+      },
+      {
+        "id": "5f040235-674e-d36e-c9eb-ef0bf8909e85",
+        "file_id": "5f040235-674e-d36e-c9eb-ef0bf8909e85",
+        "file_name": "AB Foundation 08-26-21",
+        "file_extension": "pdf",
+        "file_size": 78133,
+        "file_status": "com_cpy",
+        "folder_id": "c6db6bc6-d5b0-cc05-c94a-e8ab26a0951b",
+        "create_ts": "2021-08-26T12:12:07.697Z",
+        "last_update_ts": "2021-08-26T12:13:10.06Z",
+        "active_ind": "Y",
+        "file_manager_id": "3bfb1706-3c7f-4ca2-a5b4-46b00d4b29ac",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation/AB Foundation 08-26-21",
+        "entity_id": "37174",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SAVANNAH",
+        "callsign": "WJCL",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709157833009791000,
+        "score": 0.24995703
+      },
       {
         "id": "a0599d04-3de0-1d1b-a9d6-e6c3072a14d0",
         "file_id": "a0599d04-3de0-1d1b-a9d6-e6c3072a14d0",
@@ -120,29 +188,6 @@
         "score": 0.24995703
       },
       {
-        "id": "728d07e6-c3f1-ac94-afa9-3a3e99f20966",
-        "file_id": "728d07e6-c3f1-ac94-afa9-3a3e99f20966",
-        "file_name": "SEIU_NAB Form Issue 08 25 2021",
-        "file_extension": "pdf",
-        "file_size": 1823117,
-        "file_status": "com_cpy",
-        "folder_id": "ce2d387d-07f0-e70b-67ad-7079c8941663",
-        "create_ts": "2021-08-25T22:51:01.715Z",
-        "last_update_ts": "2021-08-25T22:52:36.985Z",
-        "active_ind": "Y",
-        "file_manager_id": "bf7874d7-8f64-4fcc-a9ac-aab0afa8a898",
-        "file_folder_path": "Political Files/2021/Local/SEIU District 1199",
-        "full_qualified_file_name": "Political Files/2021/Local/SEIU District 1199/SEIU_NAB Form Issue 08 25 2021",
-        "entity_id": "74465",
-        "source_service_code": "FM",
-        "callsign": "WZAK",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1709107432545845200,
-        "score": 0.24995703
-      },
-      {
         "id": "1ba0d216-2130-d1d5-002d-c967da40819d",
         "file_id": "1ba0d216-2130-d1d5-002d-c967da40819d",
         "file_name": "SEIU_NAB Form Issue 08 25 2021",
@@ -163,29 +208,6 @@
         "office_type": "Local",
         "campaign_year": "2021",
         "_version_": 1709107271104987100,
-        "score": 0.24995703
-      },
-      {
-        "id": "64af9bf8-3270-7ee4-c62d-03782b20de93",
-        "file_id": "64af9bf8-3270-7ee4-c62d-03782b20de93",
-        "file_name": "SEIU_NAB Form Issue 08 25 2021",
-        "file_extension": "pdf",
-        "file_size": 1823117,
-        "file_status": "com_cpy",
-        "folder_id": "d04d7e96-8740-e754-e74e-b11b3bf61921",
-        "create_ts": "2021-08-25T22:44:43.994Z",
-        "last_update_ts": "2021-08-25T22:46:19.393Z",
-        "active_ind": "Y",
-        "file_manager_id": "c101066d-eb44-49dc-917f-f998e9730b53",
-        "file_folder_path": "Political Files/2021/Local/SEIU District 1199",
-        "full_qualified_file_name": "Political Files/2021/Local/SEIU District 1199/SEIU_NAB Form Issue 08 25 2021",
-        "entity_id": "2685",
-        "source_service_code": "FM",
-        "callsign": "WENZ",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1709107036612984800,
         "score": 0.24995703
       },
       {
@@ -211,31 +233,6 @@
         "office_type": "State",
         "campaign_year": "2021",
         "_version_": 1709105729403617300,
-        "score": 0.24995703
-      },
-      {
-        "id": "3aa92a8a-cc13-bfeb-b81e-91068e5168f2",
-        "file_id": "3aa92a8a-cc13-bfeb-b81e-91068e5168f2",
-        "file_name": "Governor_Elder_3178_080221-091221",
-        "file_extension": "pdf",
-        "file_size": 270188,
-        "file_status": "com_cpy",
-        "folder_id": "cc0311e9-42a8-932d-f913-a8d6a7c640e7",
-        "create_ts": "2021-08-25T22:22:45.886Z",
-        "last_update_ts": "2021-08-25T22:24:20.896Z",
-        "active_ind": "Y",
-        "file_manager_id": "7fee75ec-3262-4d4a-8cc0-902450440e53",
-        "file_folder_path": "Political Files/2021/State/CA/CA Governor/Larry Elder",
-        "full_qualified_file_name": "Political Files/2021/State/CA/CA Governor/Larry Elder/Governor_Elder_3178_080221-091221",
-        "entity_id": "35594",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "FRESNO-VISALIA",
-        "callsign": "KSEE",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1709105654083354600,
         "score": 0.24995703
       }
     ],
@@ -269,7 +266,7 @@
         "GREENSBORO-H.POINT-W.SALEM": 2516,
         "CHICAGO": 2495,
         "FRESNO-VISALIA": 2445,
-        "SAVANNAH": 2401,
+        "SAVANNAH": 2402,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
         "PEORIA-BLOOMINGTON": 2193,
         "BIRMINGHAM (ANN TUSC)": 2173,
@@ -343,7 +340,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56826,
+        "ABC": 56827,
         "NBC": 55705,
         "CBS": 37751,
         "FOX": 27114,
@@ -414,7 +411,7 @@
         "2018": 68175,
         "2019": 14238,
         "2020": 126486,
-        "2021": 11024,
+        "2021": 11025,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -423,7 +420,7 @@
         "US Senate": 48345,
         "US House": 41564,
         "Presidential": 39285,
-        "Local": 22735
+        "Local": 22733
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54231,
@@ -454,15 +451,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232298,
+        "TV": 232299,
         "CABLE": 111430,
         "FM": 106704,
         "AM": 39890,
         "DBS": 5068
       },
       "political_file_type": {
-        "PA": 217070,
-        "NCIA": 113609
+        "PA": 217068,
+        "NCIA": 113612
       }
     }
   },
@@ -478,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1699,
-    "processTime": 707,
-    "responseTime": 1708
+    "queryTime": 206,
+    "processTime": 213,
+    "responseTime": 214
   }
 }
