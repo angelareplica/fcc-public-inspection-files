@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 495397,
+    "numFound": 495398,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "ee4ce621-13ff-9924-a2e5-2171fcb4f362",
+        "file_id": "ee4ce621-13ff-9924-a2e5-2171fcb4f362",
+        "file_name": "Center Forward 083021 to 090521 order 2174104 including NAB spot Mountains",
+        "file_extension": "pdf",
+        "file_size": 1490531,
+        "file_status": "com_cpy",
+        "folder_id": "746746d7-8b33-67b3-5fce-58105b039ed3",
+        "create_ts": "2021-08-26T20:42:36.832Z",
+        "last_update_ts": "2021-08-26T20:43:39.618Z",
+        "active_ind": "Y",
+        "file_manager_id": "de071222-845a-4b49-a7eb-027e245d46a8",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Center Forward",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Center Forward/Center Forward 083021 to 090521 order 2174104 including NAB spot Mountains",
+        "entity_id": "36912",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
+        "callsign": "WSAZ-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709189950290788400,
+        "score": 0.24995703
+      },
       {
         "id": "7c2ee640-349d-dc3b-0c82-0094c94f4f54",
         "file_id": "7c2ee640-349d-dc3b-0c82-0094c94f4f54",
@@ -205,28 +229,6 @@
         "campaign_year": "2021",
         "_version_": 1709187442250088400,
         "score": 0.24995703
-      },
-      {
-        "id": "0725360c-bb97-e37b-6034-9f1bb1a1088e",
-        "file_id": "0725360c-bb97-e37b-6034-9f1bb1a1088e",
-        "file_name": "Mainers for Fair Laws Proof of Payment Est 10055",
-        "file_extension": "pdf",
-        "file_size": 43550,
-        "file_status": "com_cpy",
-        "folder_id": "efcbc772-42c0-224c-3cdb-d6d8beb030b9",
-        "create_ts": "2021-08-26T20:02:45.201Z",
-        "last_update_ts": "2021-08-26T20:03:47.588Z",
-        "active_ind": "Y",
-        "file_manager_id": "9d1dfde3-dca3-4317-b0f9-dd5f5f6ae87a",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Mainers for Fair Laws/08-26-21 - 09-02-21",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Mainers for Fair Laws/08-26-21 - 09-02-21/Mainers for Fair Laws Proof of Payment Est 10055",
-        "entity_id": "52605",
-        "source_service_code": "FM",
-        "callsign": "WMME-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1709187442074976300,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -239,7 +241,7 @@
         "PITTSBURGH": 5297,
         "HONOLULU": 5188,
         "DULUTH-SUPERIOR": 4649,
-        "CHARLESTON-HUNTINGTON": 4262,
+        "CHARLESTON-HUNTINGTON": 4263,
         "PORTLAND-AUBURN": 4042,
         "TALLAHASSEE-THOMASVILLE": 3941,
         "OMAHA": 3658,
@@ -334,7 +336,7 @@
       },
       "network_affiliation": {
         "ABC": 56833,
-        "NBC": 55706,
+        "NBC": 55707,
         "CBS": 37743,
         "FOX": 27106,
         "PBS": 13949,
@@ -404,7 +406,7 @@
         "2018": 68170,
         "2019": 14210,
         "2020": 126486,
-        "2021": 11065,
+        "2021": 11066,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -444,7 +446,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232273,
+        "TV": 232274,
         "CABLE": 111430,
         "FM": 106732,
         "AM": 39894,
@@ -452,7 +454,7 @@
       },
       "political_file_type": {
         "PA": 217047,
-        "NCIA": 113640
+        "NCIA": 113641
       }
     }
   },
@@ -468,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 211,
-    "responseTime": 211
+    "queryTime": 1697,
+    "processTime": 703,
+    "responseTime": 1704
   }
 }
