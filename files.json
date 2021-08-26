@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 495387,
+    "numFound": 495386,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
@@ -236,7 +236,7 @@
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8349,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7037,
-        "WILKES BARRE-SCRANTON": 6651,
+        "WILKES BARRE-SCRANTON": 6650,
         "WEST PALM BEACH-FT. PIERCE": 5755,
         "LAS VEGAS": 5737,
         "PITTSBURGH": 5297,
@@ -338,7 +338,7 @@
       "network_affiliation": {
         "ABC": 56832,
         "NBC": 55706,
-        "CBS": 37744,
+        "CBS": 37743,
         "FOX": 27106,
         "PBS": 13949,
         "CW": 11893,
@@ -405,14 +405,14 @@
         "2016": 68688,
         "2017": 10346,
         "2018": 68170,
-        "2019": 14211,
+        "2019": 14210,
         "2020": 126486,
         "2021": 11054,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64063,
+        "State": 64062,
         "US Senate": 48343,
         "US House": 41563,
         "Presidential": 39285,
@@ -447,14 +447,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232272,
+        "TV": 232271,
         "CABLE": 111430,
         "FM": 106723,
         "AM": 39894,
         "DBS": 5068
       },
       "political_file_type": {
-        "PA": 217048,
+        "PA": 217047,
         "NCIA": 113629
       }
     }
@@ -471,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 216,
-    "responseTime": 216
+    "queryTime": 1701,
+    "processTime": 708,
+    "responseTime": 1709
   }
 }
