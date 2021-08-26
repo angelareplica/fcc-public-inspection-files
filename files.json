@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 495395,
+    "numFound": 495397,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "7c2ee640-349d-dc3b-0c82-0094c94f4f54",
+        "file_id": "7c2ee640-349d-dc3b-0c82-0094c94f4f54",
+        "file_name": "Center Forward 083021 to 090521 WQCW order 2174098 including NAB spot Mountains",
+        "file_extension": "pdf",
+        "file_size": 950468,
+        "file_status": "com_cpy",
+        "folder_id": "4761fc42-a259-534c-6a25-bd9ffb378e48",
+        "create_ts": "2021-08-26T20:40:31.567Z",
+        "last_update_ts": "2021-08-26T20:41:34.456Z",
+        "active_ind": "Y",
+        "file_manager_id": "d303c429-281e-494f-830d-348475a604da",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Center Forward",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Center Forward/Center Forward 083021 to 090521 WQCW order 2174098 including NAB spot Mountains",
+        "entity_id": "65130",
+        "source_service_code": "TV",
+        "network_affiliation": "CW",
+        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
+        "callsign": "WQCW",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709189819057307600,
+        "score": 0.24995703
+      },
+      {
+        "id": "ffbf00e2-59d0-e220-cb8d-1654795b3a27",
+        "file_id": "ffbf00e2-59d0-e220-cb8d-1654795b3a27",
+        "file_name": "FAIR FIGHT ACTION 082621",
+        "file_extension": "pdf",
+        "file_size": 1151403,
+        "file_status": "com_cpy",
+        "folder_id": "31d6d908-ccad-05f9-da05-2551db931a70",
+        "create_ts": "2021-08-26T20:35:57.826Z",
+        "last_update_ts": "2021-08-26T20:37:00.5Z",
+        "active_ind": "Y",
+        "file_manager_id": "710e8148-8b08-432a-8ba2-003147f22203",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT ACTION",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT ACTION/FAIR FIGHT ACTION 082621",
+        "entity_id": "37174",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SAVANNAH",
+        "callsign": "WJCL",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709189531786281000,
+        "score": 0.24995703
+      },
       {
         "id": "3d3bfd31-ccb5-480c-bb97-2788b176b296",
         "file_id": "3d3bfd31-ccb5-480c-bb97-2788b176b296",
@@ -179,53 +227,6 @@
         "campaign_year": "2021",
         "_version_": 1709187442074976300,
         "score": 0.24995703
-      },
-      {
-        "id": "4f1dd01f-c3f6-a05e-6128-a06a13204bfa",
-        "file_id": "4f1dd01f-c3f6-a05e-6128-a06a13204bfa",
-        "file_name": "Mainers for Fair Laws WMME Katz IO 8.26.21-9.2.21 Est 10055",
-        "file_extension": "pdf",
-        "file_size": 56523,
-        "file_status": "com_cpy",
-        "folder_id": "efcbc772-42c0-224c-3cdb-d6d8beb030b9",
-        "create_ts": "2021-08-26T20:02:45.232Z",
-        "last_update_ts": "2021-08-26T20:03:47.588Z",
-        "active_ind": "Y",
-        "file_manager_id": "efd89a84-00ee-4194-813e-ab482514c9a2",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Mainers for Fair Laws/08-26-21 - 09-02-21",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Mainers for Fair Laws/08-26-21 - 09-02-21/Mainers for Fair Laws WMME Katz IO 8.26.21-9.2.21 Est 10055",
-        "entity_id": "52605",
-        "source_service_code": "FM",
-        "callsign": "WMME-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1709187442079170600,
-        "score": 0.24995703
-      },
-      {
-        "id": "c370e87a-6718-54c7-a0c4-a281e2f2ee70",
-        "file_id": "c370e87a-6718-54c7-a0c4-a281e2f2ee70",
-        "file_name": "COX R GOVERNOR 082621-090121 2172869 CONTRACT NAB",
-        "file_extension": "pdf",
-        "file_size": 588503,
-        "file_status": "com_cpy",
-        "folder_id": "86450970-7a9c-5e37-110e-3992c8a199bd",
-        "create_ts": "2021-08-26T19:03:05.793Z",
-        "last_update_ts": "2021-08-26T19:04:08.418Z",
-        "active_ind": "Y",
-        "file_manager_id": "940d8001-4fe2-4d64-9aa2-7a186694132c",
-        "file_folder_path": "Political Files/2021/State/COX R GOVERNOR",
-        "full_qualified_file_name": "Political Files/2021/State/COX R GOVERNOR/COX R GOVERNOR 082621-090121 2172869 CONTRACT NAB",
-        "entity_id": "10242",
-        "source_service_code": "TV",
-        "network_affiliation": "MNT",
-        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
-        "callsign": "KQCA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1709183689089351700,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -238,7 +239,7 @@
         "PITTSBURGH": 5297,
         "HONOLULU": 5188,
         "DULUTH-SUPERIOR": 4649,
-        "CHARLESTON-HUNTINGTON": 4261,
+        "CHARLESTON-HUNTINGTON": 4262,
         "PORTLAND-AUBURN": 4042,
         "TALLAHASSEE-THOMASVILLE": 3941,
         "OMAHA": 3658,
@@ -258,7 +259,7 @@
         "GREENSBORO-H.POINT-W.SALEM": 2516,
         "CHICAGO": 2495,
         "FRESNO-VISALIA": 2443,
-        "SAVANNAH": 2402,
+        "SAVANNAH": 2403,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
         "PEORIA-BLOOMINGTON": 2193,
         "BIRMINGHAM (ANN TUSC)": 2173,
@@ -332,12 +333,12 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56832,
+        "ABC": 56833,
         "NBC": 55706,
         "CBS": 37743,
         "FOX": 27106,
         "PBS": 13949,
-        "CW": 11893,
+        "CW": 11894,
         "IND": 2980,
         "MYTV": 2216,
         "UNIVISION": 1828,
@@ -403,7 +404,7 @@
         "2018": 68170,
         "2019": 14210,
         "2020": 126486,
-        "2021": 11063,
+        "2021": 11065,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -443,7 +444,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232271,
+        "TV": 232273,
         "CABLE": 111430,
         "FM": 106732,
         "AM": 39894,
@@ -451,7 +452,7 @@
       },
       "political_file_type": {
         "PA": 217047,
-        "NCIA": 113638
+        "NCIA": 113640
       }
     }
   },
@@ -467,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1699,
-    "processTime": 706,
-    "responseTime": 1706
+    "queryTime": 202,
+    "processTime": 211,
+    "responseTime": 211
   }
 }
