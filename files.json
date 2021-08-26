@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 495392,
+    "numFound": 495394,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "49113d65-53a8-5361-6304-2ec97e7cc8ac",
+        "file_id": "49113d65-53a8-5361-6304-2ec97e7cc8ac",
+        "file_name": "POLITICAL RATE CARD WFGY WFBG 2021 9-04-21",
+        "file_extension": "pdf",
+        "file_size": 167637,
+        "file_status": "com_cpy",
+        "folder_id": "83701a42-c76e-df1b-02b5-aef826a0eff5",
+        "create_ts": "2021-08-26T13:38:16.066Z",
+        "last_update_ts": "2021-08-26T13:39:18.542Z",
+        "active_ind": "Y",
+        "file_manager_id": "4b0c79c4-147c-4e29-80f8-85b2bf909dfb",
+        "file_folder_path": "Political Files/2021/Terms and Disclosures",
+        "full_qualified_file_name": "Political Files/2021/Terms and Disclosures/POLITICAL RATE CARD WFGY WFBG 2021 9-04-21",
+        "entity_id": "38269",
+        "source_service_code": "AM",
+        "callsign": "WFBG",
+        "political_file_type": "PA",
+        "campaign_year": "2021",
+        "_version_": 1709163252523466800,
+        "score": 0.24995703
+      },
+      {
+        "id": "71030527-1017-11f5-5fc7-4d477b4ec0e7",
+        "file_id": "71030527-1017-11f5-5fc7-4d477b4ec0e7",
+        "file_name": "POLITICAL RATE CARD WRKY WALY 2021 9-04-21",
+        "file_extension": "pdf",
+        "file_size": 157376,
+        "file_status": "com_cpy",
+        "folder_id": "b14f052f-bed6-a752-da2a-286f708114b2",
+        "create_ts": "2021-08-26T13:34:59.261Z",
+        "last_update_ts": "2021-08-26T13:36:01.658Z",
+        "active_ind": "Y",
+        "file_manager_id": "defe3761-f369-4220-abbc-d3a029089f5e",
+        "file_folder_path": "Political Files/2021/Terms and Disclosures",
+        "full_qualified_file_name": "Political Files/2021/Terms and Disclosures/POLITICAL RATE CARD WRKY WALY 2021 9-04-21",
+        "entity_id": "58312",
+        "source_service_code": "FM",
+        "callsign": "WALY",
+        "political_file_type": "PA",
+        "campaign_year": "2021",
+        "_version_": 1709163046073532400,
+        "score": 0.24995703
+      },
       {
         "id": "8d7ee4e1-f02d-f17e-80f5-e5a6165d4650",
         "file_id": "8d7ee4e1-f02d-f17e-80f5-e5a6165d4650",
@@ -190,48 +234,6 @@
         "campaign_year": "2021",
         "_version_": 1709113990338052000,
         "score": 0.24995703
-      },
-      {
-        "id": "35379951-94a6-0b09-5027-42df0a5fbb8c",
-        "file_id": "35379951-94a6-0b09-5027-42df0a5fbb8c",
-        "file_name": "KPRX Statement of Comp, 2021-08-25",
-        "file_extension": "pdf",
-        "file_size": 629705,
-        "file_status": "com_cpy",
-        "folder_id": "f4a7b5a3-bf59-e537-e620-121489e958e6",
-        "create_ts": "2021-08-25T23:58:14.65Z",
-        "last_update_ts": "2021-08-25T23:59:17.137Z",
-        "active_ind": "Y",
-        "file_manager_id": "e1bd7ce4-50a2-415b-801d-53b961ff563f",
-        "file_folder_path": "Applications and Related Materials/Additional Documents/Renewal Related Documents",
-        "full_qualified_file_name": "Applications and Related Materials/Additional Documents/Renewal Related Documents/KPRX Statement of Comp, 2021-08-25",
-        "entity_id": "72186",
-        "source_service_code": "FM",
-        "callsign": "KPRX",
-        "non_political_file_folder": "Applications and Related Materials",
-        "_version_": 1709111661306052600,
-        "score": 0.24995703
-      },
-      {
-        "id": "566f1062-dece-10ef-55cc-03f399577d20",
-        "file_id": "566f1062-dece-10ef-55cc-03f399577d20",
-        "file_name": "KVPR Statement of Comp, 2021-08-25",
-        "file_extension": "pdf",
-        "file_size": 654325,
-        "file_status": "com_cpy",
-        "folder_id": "c4fb3188-6577-baba-20e6-d8ab210560fd",
-        "create_ts": "2021-08-25T23:55:37.685Z",
-        "last_update_ts": "2021-08-25T23:57:12.869Z",
-        "active_ind": "Y",
-        "file_manager_id": "b93e9f63-54c6-4c89-aad9-f02aa43885f7",
-        "file_folder_path": "Applications and Related Materials/Additional Documents/Renewal Related Documents",
-        "full_qualified_file_name": "Applications and Related Materials/Additional Documents/Renewal Related Documents/KVPR Statement of Comp, 2021-08-25",
-        "entity_id": "72188",
-        "source_service_code": "FM",
-        "callsign": "KVPR",
-        "non_political_file_folder": "Applications and Related Materials",
-        "_version_": 1709111496684863500,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -409,7 +411,7 @@
         "2018": 68175,
         "2019": 14238,
         "2020": 126486,
-        "2021": 11026,
+        "2021": 11028,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -451,12 +453,12 @@
       "source_service_code": {
         "TV": 232300,
         "CABLE": 111430,
-        "FM": 106704,
-        "AM": 39890,
+        "FM": 106705,
+        "AM": 39891,
         "DBS": 5068
       },
       "political_file_type": {
-        "PA": 217067,
+        "PA": 217069,
         "NCIA": 113614
       }
     }
@@ -473,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 213,
-    "responseTime": 214
+    "queryTime": 202,
+    "processTime": 210,
+    "responseTime": 211
   }
 }
