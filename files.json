@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 495408,
+    "numFound": 495400,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
@@ -307,7 +307,7 @@
         "FT. SMITH-FAY-SPRNGDL-RGRS": 909,
         "LANSING": 904,
         "LOUISVILLE": 893,
-        "INDIANAPOLIS": 864,
+        "INDIANAPOLIS": 856,
         "PANAMA CITY": 855,
         "GREENVILLE-N.BERN-WASHNGTN": 802,
         "TULSA": 785,
@@ -338,7 +338,7 @@
         "CBS": 37744,
         "FOX": 27114,
         "PBS": 13949,
-        "CW": 11910,
+        "CW": 11902,
         "IND": 2980,
         "MYTV": 2216,
         "UNIVISION": 1828,
@@ -402,7 +402,7 @@
         "2016": 68688,
         "2017": 10346,
         "2018": 68170,
-        "2019": 14236,
+        "2019": 14228,
         "2020": 126486,
         "2021": 11050,
         "KYAZ": 5,
@@ -413,7 +413,7 @@
         "US Senate": 48343,
         "US House": 41563,
         "Presidential": 39285,
-        "Local": 22735
+        "Local": 22727
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54229,
@@ -444,14 +444,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232296,
+        "TV": 232288,
         "CABLE": 111430,
         "FM": 106720,
         "AM": 39894,
         "DBS": 5068
       },
       "political_file_type": {
-        "PA": 217072,
+        "PA": 217064,
         "NCIA": 113626
       }
     }
@@ -468,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 215,
-    "responseTime": 215
+    "queryTime": 1783,
+    "processTime": 791,
+    "responseTime": 1791
   }
 }
