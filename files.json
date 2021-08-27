@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 495425,
+    "numFound": 495426,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "6a0108c3-9c17-0f16-8610-e219e18e4daf",
+        "file_id": "6a0108c3-9c17-0f16-8610-e219e18e4daf",
+        "file_name": "BUILD BACK TOGETHER 1653174 081221-081821 NAB",
+        "file_extension": "pdf",
+        "file_size": 747532,
+        "file_status": "com_cpy",
+        "folder_id": "91dcfdf3-701a-50e9-a2ef-6e35c3ee8579",
+        "create_ts": "2021-08-27T17:31:48.538Z",
+        "last_update_ts": "2021-08-27T17:32:51.68Z",
+        "active_ind": "Y",
+        "file_manager_id": "5281ba4c-3738-4d01-aea5-6c6ed6778e16",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/BUILD BACK TOGETHER",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/BUILD BACK TOGETHER/BUILD BACK TOGETHER 1653174 081221-081821 NAB",
+        "entity_id": "73375",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WOLF-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709268542926356500,
+        "score": 0.24995703
+      },
       {
         "id": "975b4b91-7b60-fcae-8509-ecb6b93dc9f8",
         "file_id": "975b4b91-7b60-fcae-8509-ecb6b93dc9f8",
@@ -224,37 +248,13 @@
         "campaign_year": "2021",
         "_version_": 1709264297804169200,
         "score": 0.24995703
-      },
-      {
-        "id": "32a94642-cb5a-dbe7-9700-ed6e6059392f",
-        "file_id": "32a94642-cb5a-dbe7-9700-ed6e6059392f",
-        "file_name": "AMERICAN ACTION NETWORK 1652815 081221-083121 NAB",
-        "file_extension": "pdf",
-        "file_size": 208485,
-        "file_status": "com_cpy",
-        "folder_id": "9f9258cd-b938-9938-3b78-a6bfc1e8096d",
-        "create_ts": "2021-08-27T16:24:20.166Z",
-        "last_update_ts": "2021-08-27T16:25:23.042Z",
-        "active_ind": "Y",
-        "file_manager_id": "b2870edb-ede6-4471-ac48-385b495b58f4",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AMERICAN ACTION NETWORK",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AMERICAN ACTION NETWORK/AMERICAN ACTION NETWORK 1652815 081221-083121 NAB",
-        "entity_id": "73375",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WOLF-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1709264297647931400,
-        "score": 0.24995703
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8349,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7037,
-        "WILKES BARRE-SCRANTON": 6657,
+        "WILKES BARRE-SCRANTON": 6658,
         "WEST PALM BEACH-FT. PIERCE": 5755,
         "LAS VEGAS": 5740,
         "PITTSBURGH": 5297,
@@ -357,7 +357,7 @@
         "ABC": 56833,
         "NBC": 55686,
         "CBS": 37757,
-        "FOX": 27114,
+        "FOX": 27115,
         "PBS": 13951,
         "CW": 11894,
         "IND": 2980,
@@ -425,7 +425,7 @@
         "2018": 68149,
         "2019": 14218,
         "2020": 126486,
-        "2021": 11103,
+        "2021": 11104,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -465,7 +465,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232280,
+        "TV": 232281,
         "CABLE": 111431,
         "FM": 106744,
         "AM": 39901,
@@ -473,7 +473,7 @@
       },
       "political_file_type": {
         "PA": 217051,
-        "NCIA": 113661
+        "NCIA": 113662
       }
     }
   },
@@ -489,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1811,
-    "processTime": 820,
-    "responseTime": 1821
+    "queryTime": 1698,
+    "processTime": 709,
+    "responseTime": 1709
   }
 }
