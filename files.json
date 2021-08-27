@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 495487,
+    "numFound": 495489,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "efce6954-a096-66b4-b11f-d811747fc440",
+        "file_id": "efce6954-a096-66b4-b11f-d811747fc440",
+        "file_name": "COX.R.GOVERNOR 082621-080121 2172700 CONTRACT NAB",
+        "file_extension": "pdf",
+        "file_size": 235140,
+        "file_status": "com_cpy",
+        "folder_id": "b9a2e306-5e1e-d38b-aab4-29ff0db074df",
+        "create_ts": "2021-08-27T23:41:28.33Z",
+        "last_update_ts": "2021-08-27T23:42:31.194Z",
+        "active_ind": "Y",
+        "file_manager_id": "09114791-bf98-465a-ba11-3ee6fcfe0fb5",
+        "file_folder_path": "Political Files/2021/State/COX-R-GOVERNOR",
+        "full_qualified_file_name": "Political Files/2021/State/COX-R-GOVERNOR/COX.R.GOVERNOR 082621-080121 2172700 CONTRACT NAB",
+        "entity_id": "33875",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
+        "callsign": "KCRA-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1709291799745396700,
+        "score": 0.24995703
+      },
+      {
+        "id": "6fce29b3-87fc-e460-b5af-ebc6acf503bc",
+        "file_id": "6fce29b3-87fc-e460-b5af-ebc6acf503bc",
+        "file_name": "FAULCONER.R.GOVERNOR 082621-090121 2168328 CONTRACT CXL",
+        "file_extension": "pdf",
+        "file_size": 158862,
+        "file_status": "com_cpy",
+        "folder_id": "64c8a33f-93e7-f3d2-7d18-b525f017812b",
+        "create_ts": "2021-08-27T23:26:14.504Z",
+        "last_update_ts": "2021-08-27T23:27:17.378Z",
+        "active_ind": "Y",
+        "file_manager_id": "99a7a327-7ea1-4eef-afc3-ca619daff66f",
+        "file_folder_path": "Political Files/2021/State/FAULCONER-R-GOVERNOR",
+        "full_qualified_file_name": "Political Files/2021/State/FAULCONER-R-GOVERNOR/FAULCONER.R.GOVERNOR 082621-090121 2168328 CONTRACT CXL",
+        "entity_id": "33875",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
+        "callsign": "KCRA-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1709290841539870700,
+        "score": 0.24995703
+      },
       {
         "id": "77dadaba-3e7b-716c-d3d6-e445ea905743",
         "file_id": "77dadaba-3e7b-716c-d3d6-e445ea905743",
@@ -195,53 +245,6 @@
         "campaign_year": "2021",
         "_version_": 1709284608620626000,
         "score": 0.24995703
-      },
-      {
-        "id": "6b601568-4c39-af81-9b49-dadbb815d782",
-        "file_id": "6b601568-4c39-af81-9b49-dadbb815d782",
-        "file_name": "LOCV 0810-0816 - 3148104 ORD R1",
-        "file_extension": "pdf",
-        "file_size": 46368,
-        "file_status": "com_cpy",
-        "folder_id": "43905731-96f0-626a-a033-7bf0640784bb",
-        "create_ts": "2021-08-27T21:44:19.333Z",
-        "last_update_ts": "2021-08-27T21:45:22.086Z",
-        "active_ind": "Y",
-        "file_manager_id": "5452d9b9-5534-47ea-8ba5-c02ece94afac",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/LOCV League of Conservation Voters/Orders and Revisions",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/LOCV League of Conservation Voters/Orders and Revisions/LOCV 0810-0816 - 3148104 ORD R1",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1709284429220806700,
-        "score": 0.24995703
-      },
-      {
-        "id": "3a8967e3-8fd2-1882-22aa-ac2ea7fdc6ef",
-        "file_id": "3a8967e3-8fd2-1882-22aa-ac2ea7fdc6ef",
-        "file_name": "WSVF - Youngkin for Governor - Order #2175722 Wk of 08.28.21-09.03.21",
-        "file_extension": "pdf",
-        "file_size": 103044,
-        "file_status": "com_cpy",
-        "folder_id": "bf5383fc-c0d4-97bd-a638-93e066e5b847",
-        "create_ts": "2021-08-27T21:32:23.919Z",
-        "last_update_ts": "2021-08-27T21:33:26.768Z",
-        "active_ind": "Y",
-        "file_manager_id": "2df668cb-401f-4f4b-89ac-51db55213b2d",
-        "file_folder_path": "Political Files/2021/State/Governor",
-        "full_qualified_file_name": "Political Files/2021/State/Governor/WSVF - Youngkin for Governor - Order #2175722 Wk of 08.28.21-09.03.21",
-        "entity_id": "190915",
-        "source_service_code": "TV",
-        "callsign": "WSVF-CD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1709283679151325200,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -268,7 +271,7 @@
         "WAUSAU-RHINELANDER": 2736,
         "FT. WAYNE": 2714,
         "KANSAS CITY": 2703,
-        "SACRAMNTO-STKTON-MODESTO": 2685,
+        "SACRAMNTO-STKTON-MODESTO": 2687,
         "MILWAUKEE": 2623,
         "BEND OR": 2586,
         "GREENSBORO-H.POINT-W.SALEM": 2516,
@@ -349,7 +352,7 @@
       },
       "network_affiliation": {
         "ABC": 56838,
-        "NBC": 55687,
+        "NBC": 55689,
         "CBS": 37768,
         "FOX": 27115,
         "PBS": 13952,
@@ -419,12 +422,12 @@
         "2018": 68149,
         "2019": 14218,
         "2020": 126486,
-        "2021": 11161,
+        "2021": 11163,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64086,
+        "State": 64088,
         "US Senate": 48336,
         "US House": 41559,
         "Presidential": 39285,
@@ -459,14 +462,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232305,
+        "TV": 232307,
         "CABLE": 111459,
         "FM": 106746,
         "AM": 39902,
         "DBS": 5075
       },
       "political_file_type": {
-        "PA": 217065,
+        "PA": 217067,
         "NCIA": 113705
       }
     }
@@ -483,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 201,
-    "processTime": 211,
-    "responseTime": 211
+    "queryTime": 1711,
+    "processTime": 719,
+    "responseTime": 1719
   }
 }
