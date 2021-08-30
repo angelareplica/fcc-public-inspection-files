@@ -1,9 +1,54 @@
 {
   "response": {
-    "numFound": 495573,
+    "numFound": 495575,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "43905df6-4cb7-bb97-fe7e-48a664231127",
+        "file_id": "43905df6-4cb7-bb97-fe7e-48a664231127",
+        "file_name": "2021-08-05 WFOY&W271CJ Assignment [FILED]",
+        "file_extension": "pdf",
+        "file_size": 2754002,
+        "file_status": "com_cpy",
+        "folder_id": "af0a4d24-6a10-2ad3-e153-7eae8a453ec1",
+        "create_ts": "2021-08-30T19:34:22.47Z",
+        "last_update_ts": "2021-08-30T19:35:26.973Z",
+        "active_ind": "Y",
+        "file_manager_id": "2c1537db-8ff7-426a-8b60-8c126588b898",
+        "file_folder_path": "Applications and Related Materials/Additional Documents/Assignment Related Documents",
+        "full_qualified_file_name": "Applications and Related Materials/Additional Documents/Assignment Related Documents/2021-08-05 WFOY&W271CJ Assignment [FILED]",
+        "entity_id": "60271",
+        "source_service_code": "AM",
+        "callsign": "WFOY",
+        "non_political_file_folder": "Applications and Related Materials",
+        "_version_": 1709548045341819000,
+        "score": 0.24995703
+      },
+      {
+        "id": "4081a26f-810d-cc25-1673-d1895e878397",
+        "file_id": "4081a26f-810d-cc25-1673-d1895e878397",
+        "file_name": "PFCD-NAB Form 08.05.2021",
+        "file_extension": "pdf",
+        "file_size": 1073840,
+        "file_status": "com_cpy",
+        "folder_id": "295a87c3-8408-cf9e-1ec9-3934b3dedded",
+        "create_ts": "2021-08-30T19:21:40.877Z",
+        "last_update_ts": "2021-08-30T19:22:45.003Z",
+        "active_ind": "Y",
+        "file_manager_id": "732616e1-2db5-48b9-ae8a-cfe4d1524c76",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/PFCD NJ-NYI",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/PFCD NJ-NYI/PFCD-NAB Form 08.05.2021",
+        "entity_id": "001705",
+        "source_service_code": "CABLE",
+        "legal_name": "CSC TKR, LLC",
+        "operator_city_name": "LONG ISLAND CITY",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709547246370947000,
+        "score": 0.24995703
+      },
       {
         "id": "34108777-9a69-591a-b827-9992bb5062a8",
         "file_id": "34108777-9a69-591a-b827-9992bb5062a8",
@@ -190,50 +235,6 @@
         "campaign_year": "2021",
         "_version_": 1709545074779488300,
         "score": 0.24995703
-      },
-      {
-        "id": "d28062b2-384e-8c83-3d9e-8abc59a1891e",
-        "file_id": "d28062b2-384e-8c83-3d9e-8abc59a1891e",
-        "file_name": "Mainers for Fair Laws 2021 NAB",
-        "file_extension": "pdf",
-        "file_size": 2792231,
-        "file_status": "com_cpy",
-        "folder_id": "c6fa2f53-14bc-3066-1a27-1f93f87a0bd5",
-        "create_ts": "2021-08-30T18:42:09.005Z",
-        "last_update_ts": "2021-08-30T18:43:16.108Z",
-        "active_ind": "Y",
-        "file_manager_id": "953d197e-5b4a-4fd6-8eaa-49616764e7c6",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR FAIR LAWS WMGX 083121-090721 Est 10060   Cont 1008210",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR FAIR LAWS WMGX 083121-090721 Est 10060   Cont 1008210/Mainers for Fair Laws 2021 NAB",
-        "entity_id": "58548",
-        "source_service_code": "FM",
-        "callsign": "WMGX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1709544762453786600,
-        "score": 0.24995703
-      },
-      {
-        "id": "c70a3238-5e59-707e-b85a-e48b9c5d3bff",
-        "file_id": "c70a3238-5e59-707e-b85a-e48b9c5d3bff",
-        "file_name": "MAINERS FOR FAIR LAWS WMGX 083121-090721 Est. 10060",
-        "file_extension": "pdf",
-        "file_size": 74792,
-        "file_status": "com_cpy",
-        "folder_id": "c6fa2f53-14bc-3066-1a27-1f93f87a0bd5",
-        "create_ts": "2021-08-30T18:42:08.984Z",
-        "last_update_ts": "2021-08-30T18:43:14.599Z",
-        "active_ind": "Y",
-        "file_manager_id": "1714f403-14a9-4604-bc3e-6a0e68a699ea",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR FAIR LAWS WMGX 083121-090721 Est 10060   Cont 1008210",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR FAIR LAWS WMGX 083121-090721 Est 10060   Cont 1008210/MAINERS FOR FAIR LAWS WMGX 083121-090721 Est. 10060",
-        "entity_id": "58548",
-        "source_service_code": "FM",
-        "callsign": "WMGX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1709544761008849000,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -411,7 +412,7 @@
         "2018": 68149,
         "2019": 14217,
         "2020": 126486,
-        "2021": 11243,
+        "2021": 11244,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -429,7 +430,7 @@
         "Donor Lists - Applicable Only for NCEs": 11275,
         "FCC Authorizations": 7083,
         "Local Public Notice Announcements": 1666,
-        "Applications and Related Materials": 1517,
+        "Applications and Related Materials": 1518,
         "Availability of Signals": 1504,
         "FCC Investigations or Complaints": 1382,
         "Must-Carry or Retransmission Consent": 1333,
@@ -452,14 +453,14 @@
       },
       "source_service_code": {
         "TV": 232334,
-        "CABLE": 111467,
+        "CABLE": 111468,
         "FM": 106779,
-        "AM": 39917,
+        "AM": 39918,
         "DBS": 5076
       },
       "political_file_type": {
         "PA": 217085,
-        "NCIA": 113766
+        "NCIA": 113767
       }
     }
   },
@@ -475,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1704,
-    "processTime": 711,
-    "responseTime": 1712
+    "queryTime": 207,
+    "processTime": 214,
+    "responseTime": 215
   }
 }
