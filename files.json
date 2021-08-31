@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 495575,
+    "numFound": 495576,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "5731d9d0-94fa-7df6-7f05-5a9519fdd4fb",
+        "file_id": "5731d9d0-94fa-7df6-7f05-5a9519fdd4fb",
+        "file_name": "PFCD-NAB Form 08.05.2021",
+        "file_extension": "pdf",
+        "file_size": 1073840,
+        "file_status": "com_cpy",
+        "folder_id": "f5f06cac-c5d1-45de-8ecf-a099955d8122",
+        "create_ts": "2021-08-31T12:29:42.41Z",
+        "last_update_ts": "2021-08-31T12:30:46.934Z",
+        "active_ind": "Y",
+        "file_manager_id": "dffa3722-98da-45ea-9383-7d5af61953f1",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/PFCD-NYI",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/PFCD-NYI/PFCD-NAB Form 08.05.2021",
+        "entity_id": "005501",
+        "source_service_code": "CABLE",
+        "legal_name": "CSC NC, LLC",
+        "operator_city_name": "LONG ISLAND CITY",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709611924309672000,
+        "score": 0.24995703
+      },
       {
         "id": "43905df6-4cb7-bb97-fe7e-48a664231127",
         "file_id": "43905df6-4cb7-bb97-fe7e-48a664231127",
@@ -210,31 +234,6 @@
         "campaign_year": "2021",
         "_version_": 1709545128090140700,
         "score": 0.24995703
-      },
-      {
-        "id": "62f3ea64-1846-ee5c-6d5c-1322382b6bf1",
-        "file_id": "62f3ea64-1846-ee5c-6d5c-1322382b6bf1",
-        "file_name": "Woodfin, Randall 0817 to 0824 Revision",
-        "file_extension": "pdf",
-        "file_size": 797802,
-        "file_status": "com_cpy",
-        "folder_id": "99eae898-4ce2-e460-0d7a-17c11313130f",
-        "create_ts": "2021-08-30T18:47:09.936Z",
-        "last_update_ts": "2021-08-30T18:48:14.001Z",
-        "active_ind": "Y",
-        "file_manager_id": "8632d556-c095-420b-85a4-d0d664ee8eef",
-        "file_folder_path": "Political Files/2021/Local/Mayor/Woodfin",
-        "full_qualified_file_name": "Political Files/2021/Local/Mayor/Woodfin/Woodfin, Randall 0817 to 0824 Revision",
-        "entity_id": "5360",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
-        "callsign": "WIAT",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1709545074779488300,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -412,7 +411,7 @@
         "2018": 68149,
         "2019": 14217,
         "2020": 126486,
-        "2021": 11244,
+        "2021": 11245,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -453,14 +452,14 @@
       },
       "source_service_code": {
         "TV": 232334,
-        "CABLE": 111468,
+        "CABLE": 111469,
         "FM": 106779,
         "AM": 39918,
         "DBS": 5076
       },
       "political_file_type": {
         "PA": 217085,
-        "NCIA": 113767
+        "NCIA": 113768
       }
     }
   },
@@ -476,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 61,
-    "processTime": 67,
-    "responseTime": 68
+    "queryTime": 207,
+    "processTime": 214,
+    "responseTime": 215
   }
 }
