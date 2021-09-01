@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 495762,
+    "numFound": 495763,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "2ca4e6a3-acd2-cc4c-320b-737080f5bf68",
+        "file_id": "2ca4e6a3-acd2-cc4c-320b-737080f5bf68",
+        "file_name": "08_2021_LUP Tracksheet",
+        "file_extension": "pdf",
+        "file_size": 81199,
+        "file_status": "com_cpy",
+        "folder_id": "df684e40-9279-510f-5e76-6df74b416175",
+        "create_ts": "2021-09-01T03:48:58.759Z",
+        "last_update_ts": "2021-09-01T03:50:03.02Z",
+        "active_ind": "Y",
+        "file_manager_id": "37d65256-1860-4015-8347-1b5abc1229ca",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/08_2021_LUP Tracksheet",
+        "entity_id": "48496",
+        "source_service_code": "FM",
+        "callsign": "KNLF",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1709669759425970200,
+        "score": 0.24995703
+      },
       {
         "id": "808f51d3-5434-2b02-ea49-67e545c14a24",
         "file_id": "808f51d3-5434-2b02-ea49-67e545c14a24",
@@ -209,27 +230,6 @@
         "campaign_year": "2021",
         "_version_": 1709651025216929800,
         "score": 0.24995703
-      },
-      {
-        "id": "ed990e1b-47a9-7b9e-3539-28023a493fac",
-        "file_id": "ed990e1b-47a9-7b9e-3539-28023a493fac",
-        "file_name": "KEZR Post-filing Announcement Airings 08.03.21 - 08.29.21",
-        "file_extension": "pdf",
-        "file_size": 32338,
-        "file_status": "com_cpy",
-        "folder_id": "55265a52-7537-138e-11de-23ff2131e67c",
-        "create_ts": "2021-08-31T21:43:27.341Z",
-        "last_update_ts": "2021-08-31T21:44:31.422Z",
-        "active_ind": "Y",
-        "file_manager_id": "f45f6c12-0655-46f6-9d22-be48472be3c5",
-        "file_folder_path": "Local Public Notice Announcements/More Public Inspection Files",
-        "full_qualified_file_name": "Local Public Notice Announcements/More Public Inspection Files/KEZR Post-filing Announcement Airings 08.03.21 - 08.29.21",
-        "entity_id": "1176",
-        "source_service_code": "FM",
-        "callsign": "KEZR",
-        "non_political_file_folder": "Local Public Notice Announcements",
-        "_version_": 1709646762585620500,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -420,7 +420,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54229,
-        "Issues and Programs Lists": 42877,
+        "Issues and Programs Lists": 42878,
         "Equal Employment Opportunity Records": 36805,
         "Donor Lists - Applicable Only for NCEs": 11275,
         "FCC Authorizations": 7088,
@@ -449,7 +449,7 @@
       "source_service_code": {
         "TV": 232375,
         "CABLE": 111478,
-        "FM": 106872,
+        "FM": 106873,
         "AM": 39958,
         "DBS": 5079
       },
@@ -471,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 201,
-    "processTime": 226,
-    "responseTime": 227
+    "queryTime": 202,
+    "processTime": 207,
+    "responseTime": 208
   }
 }
