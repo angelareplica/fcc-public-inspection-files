@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 496017,
+    "numFound": 496018,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "da4768e2-b97e-6101-4a5e-2e343593d45f",
+        "file_id": "da4768e2-b97e-6101-4a5e-2e343593d45f",
+        "file_name": "62912199-STOP REPUBLICAN RECALL OF GOV NEWSOM-8.2-21-9.12.21-0777-REV #14 CDR",
+        "file_extension": "pdf",
+        "file_size": 33273,
+        "file_status": "com_cpy",
+        "folder_id": "bcd5d72e-9c89-33a0-dde3-ad1c52d8c907",
+        "create_ts": "2021-09-03T20:46:03.632Z",
+        "last_update_ts": "2021-09-03T20:47:08.726Z",
+        "active_ind": "Y",
+        "file_manager_id": "7bc71875-a941-43e1-8de1-182784e62a2a",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/California/Stop the Republican Recall of Governor Newsom",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/California/Stop the Republican Recall of Governor Newsom/62912199-STOP REPUBLICAN RECALL OF GOV NEWSOM-8.2-21-9.12.21-0777-REV #14 CDR",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1709914942509940700,
+        "score": 0.24995703
+      },
       {
         "id": "1fbeb021-db67-5482-a5ef-3c3629b961e6",
         "file_id": "1fbeb021-db67-5482-a5ef-3c3629b961e6",
@@ -222,31 +243,6 @@
         "campaign_year": "2021",
         "_version_": 1709910993407049700,
         "score": 0.24995703
-      },
-      {
-        "id": "69d35a93-2194-c9c6-3bbc-38fa2c27306e",
-        "file_id": "69d35a93-2194-c9c6-3bbc-38fa2c27306e",
-        "file_name": "Bousselot Starts 082421R2",
-        "file_extension": "pdf",
-        "file_size": 815094,
-        "file_status": "com_cpy",
-        "folder_id": "9e758e90-36aa-44cd-94bd-46adda2bb02d",
-        "create_ts": "2021-09-03T19:37:47.134Z",
-        "last_update_ts": "2021-09-03T19:38:52.508Z",
-        "active_ind": "Y",
-        "file_manager_id": "8a0081fc-d63e-49cd-a42d-b80bb00ba06f",
-        "file_folder_path": "Political Files/2021/State/Iowa House/Ia Rep Party-Mike Bousselot",
-        "full_qualified_file_name": "Political Files/2021/State/Iowa House/Ia Rep Party-Mike Bousselot/Bousselot Starts 082421R2",
-        "entity_id": "66221",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "DES MOINES-AMES",
-        "callsign": "WHO-DT",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1709910647331881000,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -424,7 +420,7 @@
         "2018": 68060,
         "2019": 14178,
         "2020": 126486,
-        "2021": 11726,
+        "2021": 11727,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -468,11 +464,11 @@
         "CABLE": 111481,
         "FM": 107036,
         "AM": 39992,
-        "DBS": 5087
+        "DBS": 5088
       },
       "political_file_type": {
         "PA": 217133,
-        "NCIA": 114062
+        "NCIA": 114063
       }
     }
   },
@@ -488,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1711,
-    "processTime": 721,
-    "responseTime": 1722
+    "queryTime": 1703,
+    "processTime": 711,
+    "responseTime": 1711
   }
 }
