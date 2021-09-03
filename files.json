@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 495999,
+    "numFound": 496001,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "633d4d55-2e49-4af3-0b6c-01b1b87a364d",
+        "file_id": "633d4d55-2e49-4af3-0b6c-01b1b87a364d",
+        "file_name": "KSJX Post-Filing Certification 08.21",
+        "file_extension": "pdf",
+        "file_size": 45708,
+        "file_status": "com_cpy",
+        "folder_id": "f437fa0f-8b8e-e000-75ff-b89883dd0c09",
+        "create_ts": "2021-09-03T19:16:11.023Z",
+        "last_update_ts": "2021-09-03T19:17:16.016Z",
+        "active_ind": "Y",
+        "file_manager_id": "afe26e3f-e33d-44fd-bdb7-ad4cac4adaf3",
+        "file_folder_path": "Applications and Related Materials/Additional Documents/Renewal Related Documents",
+        "full_qualified_file_name": "Applications and Related Materials/Additional Documents/Renewal Related Documents/KSJX Post-Filing Certification 08.21",
+        "entity_id": "4118",
+        "source_service_code": "AM",
+        "callsign": "KSJX",
+        "non_political_file_folder": "Applications and Related Materials",
+        "_version_": 1709909287884554200,
+        "score": 0.24995703
+      },
+      {
+        "id": "30e9f54b-1749-2d30-27aa-52e4ad154252",
+        "file_id": "30e9f54b-1749-2d30-27aa-52e4ad154252",
+        "file_name": "KEST Post-Filing Certification 08.21",
+        "file_extension": "pdf",
+        "file_size": 46462,
+        "file_status": "com_cpy",
+        "folder_id": "479719d7-0f32-bb62-83da-cbf3a1c1fb8e",
+        "create_ts": "2021-09-03T19:14:31.76Z",
+        "last_update_ts": "2021-09-03T19:15:36.827Z",
+        "active_ind": "Y",
+        "file_manager_id": "87c20800-6b79-4e6c-bf58-316340621ae4",
+        "file_folder_path": "Applications and Related Materials/Additional Documents/Renewal Related Documents",
+        "full_qualified_file_name": "Applications and Related Materials/Additional Documents/Renewal Related Documents/KEST Post-Filing Certification 08.21",
+        "entity_id": "17410",
+        "source_service_code": "AM",
+        "callsign": "KEST",
+        "non_political_file_folder": "Applications and Related Materials",
+        "_version_": 1709909183872106500,
+        "score": 0.24995703
+      },
       {
         "id": "b777cd95-5949-08bb-f28f-8f346a725020",
         "file_id": "b777cd95-5949-08bb-f28f-8f346a725020",
@@ -193,50 +235,6 @@
         "office_type": "State",
         "campaign_year": "2021",
         "_version_": 1709905761918779400,
-        "score": 0.24995703
-      },
-      {
-        "id": "4acc9d88-2e8f-2c7e-a8f6-122101354daf",
-        "file_id": "4acc9d88-2e8f-2c7e-a8f6-122101354daf",
-        "file_name": "EDF Confirm_127703-001",
-        "file_extension": "pdf",
-        "file_size": 40033,
-        "file_status": "com_cpy",
-        "folder_id": "5bd3c348-25b0-3b00-7992-9bcf93b14b6d",
-        "create_ts": "2021-09-03T18:18:19.16Z",
-        "last_update_ts": "2021-09-03T18:19:24.197Z",
-        "active_ind": "Y",
-        "file_manager_id": "9f2b93d2-0882-4b66-9874-4b6f2a0c795d",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/EDF Confirm_127703-001",
-        "entity_id": "71690",
-        "source_service_code": "FM",
-        "callsign": "WBTQ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1709905647418474500,
-        "score": 0.24995703
-      },
-      {
-        "id": "7688252b-7acd-5a8b-7ee4-e7c3cdb3cbbb",
-        "file_id": "7688252b-7acd-5a8b-7ee4-e7c3cdb3cbbb",
-        "file_name": "EDF Confirm_127703-001",
-        "file_extension": "pdf",
-        "file_size": 40033,
-        "file_status": "com_cpy",
-        "folder_id": "8a5ee445-b3cd-45aa-4708-c4c8c14c814c",
-        "create_ts": "2021-09-03T18:15:51.199Z",
-        "last_update_ts": "2021-09-03T18:16:56.245Z",
-        "active_ind": "Y",
-        "file_manager_id": "3ea6c3d2-ca57-4034-ac31-c617240ad0c9",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/EDF Confirm_127703-001",
-        "entity_id": "6553",
-        "source_service_code": "FM",
-        "callsign": "WCLG-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1709905492275363800,
         "score": 0.24995703
       }
     ],
@@ -433,7 +431,7 @@
         "Donor Lists - Applicable Only for NCEs": 11281,
         "FCC Authorizations": 7097,
         "Local Public Notice Announcements": 1715,
-        "Applications and Related Materials": 1522,
+        "Applications and Related Materials": 1524,
         "Availability of Signals": 1504,
         "FCC Investigations or Complaints": 1382,
         "Must-Carry or Retransmission Consent": 1336,
@@ -458,7 +456,7 @@
         "TV": 232407,
         "CABLE": 111481,
         "FM": 107036,
-        "AM": 39988,
+        "AM": 39990,
         "DBS": 5087
       },
       "political_file_type": {
@@ -479,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1699,
-    "processTime": 707,
-    "responseTime": 1707
+    "queryTime": 1709,
+    "processTime": 717,
+    "responseTime": 1717
   }
 }
