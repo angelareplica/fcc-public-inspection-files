@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 496053,
+    "numFound": 496054,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "af91ca27-1580-1d20-d4f3-4be0b2d80571",
+        "file_id": "af91ca27-1580-1d20-d4f3-4be0b2d80571",
+        "file_name": "12145598_Invoice_20210906083530",
+        "file_extension": "pdf",
+        "file_size": 67850,
+        "file_status": "com_cpy",
+        "folder_id": "75a40863-8b76-a46a-72e8-b9936d7f45bd",
+        "create_ts": "2021-09-06T15:22:31.162Z",
+        "last_update_ts": "2021-09-06T15:23:37.11Z",
+        "active_ind": "Y",
+        "file_manager_id": "e5314706-ccec-47ea-8c09-d521f4490ff2",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Wilkes Barre-Scranton/AMP - AARP PA 08 - WKB",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Wilkes Barre-Scranton/AMP - AARP PA 08 - WKB/12145598_Invoice_20210906083530",
+        "entity_id": "012730",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF SOUTH EAST PENNSYLVANIA INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1710166377922297900,
+        "score": 0.24995703
+      },
       {
         "id": "5a76c566-f8fa-028e-9f06-d3961e6d0b1e",
         "file_id": "5a76c566-f8fa-028e-9f06-d3961e6d0b1e",
@@ -210,28 +234,6 @@
         "campaign_year": "2021",
         "_version_": 1709979601857413000,
         "score": 0.24995703
-      },
-      {
-        "id": "63fd2c56-d391-2ae9-c094-cf4cb9add09d",
-        "file_id": "63fd2c56-d391-2ae9-c094-cf4cb9add09d",
-        "file_name": "EPSON341",
-        "file_extension": "PDF",
-        "file_size": 27541,
-        "file_status": "com_cpy",
-        "folder_id": "8f40bb97-af11-d8fa-5dc3-2f8b3c925b46",
-        "create_ts": "2021-09-04T13:53:47.567Z",
-        "last_update_ts": "2021-09-04T13:54:52.89Z",
-        "active_ind": "Y",
-        "file_manager_id": "a49dc406-e5fa-4efe-9d37-aec72c3eeecb",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/09032021 FM Fair Fight Action/09032021 FM Fair Fight Action 2",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/09032021 FM Fair Fight Action/09032021 FM Fair Fight Action 2/EPSON341",
-        "entity_id": "36659",
-        "source_service_code": "FM",
-        "callsign": "WHLJ-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1709979601832247300,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -409,7 +411,7 @@
         "2018": 68060,
         "2019": 14178,
         "2020": 126486,
-        "2021": 11757,
+        "2021": 11758,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -450,14 +452,14 @@
       },
       "source_service_code": {
         "TV": 232425,
-        "CABLE": 111500,
+        "CABLE": 111501,
         "FM": 107045,
         "AM": 39995,
         "DBS": 5088
       },
       "political_file_type": {
         "PA": 217139,
-        "NCIA": 114087
+        "NCIA": 114088
       }
     }
   },
@@ -473,7 +475,7 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1707,
+    "queryTime": 1703,
     "processTime": 715,
     "responseTime": 1715
   }
