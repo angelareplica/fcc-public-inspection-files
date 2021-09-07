@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 496097,
+    "numFound": 496098,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "52b51aac-3e88-8185-6cd4-f2cad812ec0c",
+        "file_id": "52b51aac-3e88-8185-6cd4-f2cad812ec0c",
+        "file_name": "NAB_ORD21-000201_20210707_00002 (1)",
+        "file_extension": "pdf",
+        "file_size": 119863,
+        "file_status": "com_cpy",
+        "folder_id": "c627e976-d48e-f6c4-e26f-51ade3cc8322",
+        "create_ts": "2021-09-07T19:00:28.127Z",
+        "last_update_ts": "2021-09-07T19:01:34.425Z",
+        "active_ind": "Y",
+        "file_manager_id": "74efdd13-098e-4154-bd9c-1d0bc8532f36",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Kids Deserve Great Schools",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Kids Deserve Great Schools/NAB_ORD21-000201_20210707_00002 (1)",
+        "entity_id": "74422",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "ALBANY-SCHENECTADY-TROY",
+        "callsign": "WTEN",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1710270687130681300,
+        "score": 0.24995703
+      },
       {
         "id": "1134ceb3-8bb9-81f7-b194-8f4b84eb3c32",
         "file_id": "1134ceb3-8bb9-81f7-b194-8f4b84eb3c32",
@@ -215,30 +239,6 @@
         "campaign_year": "2021",
         "_version_": 1710263428929552400,
         "score": 0.24995703
-      },
-      {
-        "id": "da1870d8-974f-3d8c-840e-b67a0a872d70",
-        "file_id": "da1870d8-974f-3d8c-840e-b67a0a872d70",
-        "file_name": "SEMINOLE TRIBE OF FLORIDA 9787",
-        "file_extension": "pdf",
-        "file_size": 123622,
-        "file_status": "com_cpy",
-        "folder_id": "d5eae20d-6beb-0233-6923-6b8086063b8f",
-        "create_ts": "2021-09-07T17:02:08.239Z",
-        "last_update_ts": "2021-09-07T17:03:14.545Z",
-        "active_ind": "Y",
-        "file_manager_id": "2647f084-873f-4a95-966b-d6c6a139acfa",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/SEMINOLE TRIBE OF FLORIDA/SEMINOLE TRIBE OF FLORIDA 0915-092121",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/SEMINOLE TRIBE OF FLORIDA/SEMINOLE TRIBE OF FLORIDA 0915-092121/SEMINOLE TRIBE OF FLORIDA 9787",
-        "entity_id": "31590",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "TALLAHASSEE-THOMASVILLE",
-        "callsign": "WCTV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710263242307141600,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -345,7 +345,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56891,
+        "ABC": 56892,
         "NBC": 55751,
         "CBS": 37704,
         "FOX": 27158,
@@ -416,7 +416,7 @@
         "2018": 68060,
         "2019": 14175,
         "2020": 126486,
-        "2021": 11791,
+        "2021": 11792,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -456,7 +456,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232445,
+        "TV": 232446,
         "CABLE": 111509,
         "FM": 107051,
         "AM": 40003,
@@ -464,7 +464,7 @@
       },
       "political_file_type": {
         "PA": 217146,
-        "NCIA": 114111
+        "NCIA": 114112
       }
     }
   },
@@ -481,7 +481,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 202,
-    "processTime": 209,
-    "responseTime": 210
+    "processTime": 210,
+    "responseTime": 211
   }
 }
