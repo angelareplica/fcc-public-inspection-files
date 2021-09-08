@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 496153,
+    "numFound": 496154,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "82230103-046a-312d-775a-d9573944a4fa",
+        "file_id": "82230103-046a-312d-775a-d9573944a4fa",
+        "file_name": "EDF - 2021 NAB (002)- signed PB18",
+        "file_extension": "pdf",
+        "file_size": 136107,
+        "file_status": "com_cpy",
+        "folder_id": "c4fef014-909a-2e2f-7041-60c80a4476a8",
+        "create_ts": "2021-09-08T16:11:24.471Z",
+        "last_update_ts": "2021-09-08T16:12:31.55Z",
+        "active_ind": "Y",
+        "file_manager_id": "ae3e8acf-8d26-4cbc-8194-887d33fe7997",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Environmental Defense Fund/NAB",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Environmental Defense Fund/NAB/EDF - 2021 NAB (002)- signed PB18",
+        "entity_id": "35486",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
+        "callsign": "KPNX",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1710350648131715000,
+        "score": 0.24995703
+      },
       {
         "id": "ac4394f8-d211-7fee-6c20-e92e28c88080",
         "file_id": "ac4394f8-d211-7fee-6c20-e92e28c88080",
@@ -209,30 +233,6 @@
         "campaign_year": "2021",
         "_version_": 1710310475965661200,
         "score": 0.24995703
-      },
-      {
-        "id": "d4a3a1c7-9f75-8287-345b-64a8f7e6b4cd",
-        "file_id": "d4a3a1c7-9f75-8287-345b-64a8f7e6b4cd",
-        "file_name": "INTAKE - AARP PRESC DRUGS PRICING 08.25",
-        "file_extension": "docx",
-        "file_size": 36924,
-        "file_status": "com_prc",
-        "folder_id": "81de34df-853a-05f4-c78e-16b87b2bb4a4",
-        "create_ts": "2021-09-08T03:25:02.896Z",
-        "last_update_ts": "2021-09-08T03:26:25.059Z",
-        "active_ind": "Y",
-        "file_manager_id": "b04f7b97-19e7-49da-8a5c-4cf5fb472dc9",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AARP PRESC DRUG PRICING",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AARP PRESC DRUG PRICING/INTAKE - AARP PRESC DRUGS PRICING 08.25",
-        "entity_id": "74215",
-        "source_service_code": "TV",
-        "network_affiliation": "UNIVISION",
-        "nielsen_dma_rank": "NEW YORK",
-        "callsign": "WXTV-DT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710302448963289000,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -287,7 +287,7 @@
         "GREENVLL-SPART-ASHEVLL-AND": 1502,
         "MADISON": 1490,
         "BINGHAMTON": 1446,
-        "PHOENIX (PRESCOTT)": 1426,
+        "PHOENIX (PRESCOTT)": 1427,
         "FARGO-VALLEY CITY": 1415,
         "BURLINGTON-PLATTSBURGH": 1388,
         "CHATTANOOGA": 1360,
@@ -340,7 +340,7 @@
       },
       "network_affiliation": {
         "ABC": 56899,
-        "NBC": 55752,
+        "NBC": 55753,
         "CBS": 37707,
         "FOX": 27161,
         "PBS": 13955,
@@ -410,7 +410,7 @@
         "2018": 68060,
         "2019": 14175,
         "2020": 126486,
-        "2021": 11831,
+        "2021": 11832,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -450,7 +450,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232475,
+        "TV": 232476,
         "CABLE": 111510,
         "FM": 107067,
         "AM": 40009,
@@ -458,7 +458,7 @@
       },
       "political_file_type": {
         "PA": 217167,
-        "NCIA": 114130
+        "NCIA": 114131
       }
     }
   },
@@ -474,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 209,
-    "responseTime": 209
+    "queryTime": 209,
+    "processTime": 217,
+    "responseTime": 217
   }
 }
