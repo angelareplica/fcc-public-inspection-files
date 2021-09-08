@@ -1,9 +1,52 @@
 {
   "response": {
-    "numFound": 496198,
+    "numFound": 496200,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "012edfd9-b75e-a3fa-1dab-5d29892f83ca",
+        "file_id": "012edfd9-b75e-a3fa-1dab-5d29892f83ca",
+        "file_name": "ELDER FOR GOV #3196-9.4.21-9.13.21-0777-REV #3 CDR",
+        "file_extension": "pdf",
+        "file_size": 9678,
+        "file_status": "com_cpy",
+        "folder_id": "9cf41226-038a-3716-75d9-f4fa0ee23790",
+        "create_ts": "2021-09-08T20:31:08.677Z",
+        "last_update_ts": "2021-09-08T20:32:15.311Z",
+        "active_ind": "Y",
+        "file_manager_id": "17b8372d-07e2-4180-8a1c-013d8d5c885c",
+        "file_folder_path": "Political Files/2021/State/California/Larry Elder CA Governor",
+        "full_qualified_file_name": "Political Files/2021/State/California/Larry Elder CA Governor/ELDER FOR GOV #3196-9.4.21-9.13.21-0777-REV #3 CDR",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1710366988826574800,
+        "score": 0.24995703
+      },
+      {
+        "id": "e1ca1370-63f7-db3d-4d7b-01977bf64580",
+        "file_id": "e1ca1370-63f7-db3d-4d7b-01977bf64580",
+        "file_name": "62918994-STOP REPUBLICAN RECALL OF GOV NEWSOM-8.30.21-9.13.21-0777-REV #2 CDR",
+        "file_extension": "pdf",
+        "file_size": 9176,
+        "file_status": "com_cpy",
+        "folder_id": "bcd5d72e-9c89-33a0-dde3-ad1c52d8c907",
+        "create_ts": "2021-09-08T20:28:02.512Z",
+        "last_update_ts": "2021-09-08T20:29:09.413Z",
+        "active_ind": "Y",
+        "file_manager_id": "dd09ca9d-8fdf-4c1c-8266-4b2aaff28957",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/California/Stop the Republican Recall of Governor Newsom",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/California/Stop the Republican Recall of Governor Newsom/62918994-STOP REPUBLICAN RECALL OF GOV NEWSOM-8.30.21-9.13.21-0777-REV #2 CDR",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1710366793903636500,
+        "score": 0.24995703
+      },
       {
         "id": "8a476e4a-b50d-3fb3-d9aa-e3a84bf4fa15",
         "file_id": "8a476e4a-b50d-3fb3-d9aa-e3a84bf4fa15",
@@ -174,51 +217,6 @@
         "callsign": "WARM-FM",
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1710362428041068500,
-        "score": 0.24995703
-      },
-      {
-        "id": "acd464af-2a2e-2aa7-3374-6efa49dcad0c",
-        "file_id": "acd464af-2a2e-2aa7-3374-6efa49dcad0c",
-        "file_name": "FCC EEO Audit Extension Approval granted 09.07.21",
-        "file_extension": "pdf",
-        "file_size": 89801,
-        "file_status": "com_cpy",
-        "folder_id": "7d0d459e-35b7-2200-292a-6bb1f5b81275",
-        "create_ts": "2021-09-08T19:17:30.728Z",
-        "last_update_ts": "2021-09-08T19:18:37.477Z",
-        "active_ind": "Y",
-        "file_manager_id": "86cc927c-c89c-4489-a2ee-ed2fb143c10e",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints/FCC EEO Audit Extension Approval granted 09.07.21",
-        "entity_id": "55351",
-        "source_service_code": "FM",
-        "callsign": "WSOX",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1710362356410744800,
-        "score": 0.24995703
-      },
-      {
-        "id": "0eb29b25-8261-addf-3fa8-fb74f07e011c",
-        "file_id": "0eb29b25-8261-addf-3fa8-fb74f07e011c",
-        "file_name": "A35709-INVOICE-083021",
-        "file_extension": "pdf",
-        "file_size": 80981,
-        "file_status": "com_cpy",
-        "folder_id": "deadc0b8-be8d-cc7d-67d9-088a38faebc6",
-        "create_ts": "2021-09-08T19:16:09.743Z",
-        "last_update_ts": "2021-09-08T19:17:16.518Z",
-        "active_ind": "Y",
-        "file_manager_id": "7b2bfa0a-8e37-45ce-8c2a-8798e0a7c5ea",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Democracy for All 2021 Action 35709",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Democracy for All 2021 Action 35709/A35709-INVOICE-083021",
-        "entity_id": "64546",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "WAUSAU-RHINELANDER",
-        "callsign": "WAOW",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710362271521177600,
         "score": 0.24995703
       }
     ],
@@ -397,12 +395,12 @@
         "2018": 68060,
         "2019": 14175,
         "2020": 126486,
-        "2021": 11861,
+        "2021": 11863,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64153,
+        "State": 64154,
         "US Senate": 48337,
         "US House": 41560,
         "Presidential": 39267,
@@ -441,11 +439,11 @@
         "CABLE": 111510,
         "FM": 107081,
         "AM": 40014,
-        "DBS": 5094
+        "DBS": 5096
       },
       "political_file_type": {
-        "PA": 217170,
-        "NCIA": 114157
+        "PA": 217171,
+        "NCIA": 114158
       }
     }
   },
@@ -461,8 +459,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1710,
-    "processTime": 717,
-    "responseTime": 1718
+    "queryTime": 1708,
+    "processTime": 716,
+    "responseTime": 1717
   }
 }
