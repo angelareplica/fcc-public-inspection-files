@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 496143,
+    "numFound": 496144,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "d4a3a1c7-9f75-8287-345b-64a8f7e6b4cd",
+        "file_id": "d4a3a1c7-9f75-8287-345b-64a8f7e6b4cd",
+        "file_name": "INTAKE - AARP PRESC DRUGS PRICING 08.25",
+        "file_extension": "docx",
+        "file_size": 36924,
+        "file_status": "com_prc",
+        "folder_id": "81de34df-853a-05f4-c78e-16b87b2bb4a4",
+        "create_ts": "2021-09-08T03:25:02.896Z",
+        "last_update_ts": "2021-09-08T03:26:25.059Z",
+        "active_ind": "Y",
+        "file_manager_id": "b04f7b97-19e7-49da-8a5c-4cf5fb472dc9",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AARP PRESC DRUG PRICING",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AARP PRESC DRUG PRICING/INTAKE - AARP PRESC DRUGS PRICING 08.25",
+        "entity_id": "74215",
+        "source_service_code": "TV",
+        "network_affiliation": "UNIVISION",
+        "nielsen_dma_rank": "NEW YORK",
+        "callsign": "WXTV-DT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1710302448963289000,
+        "score": 0.24995703
+      },
       {
         "id": "7788a827-88a3-667c-ceb6-f433fddc3b05",
         "file_id": "7788a827-88a3-667c-ceb6-f433fddc3b05",
@@ -195,30 +219,6 @@
         "campaign_year": "2021",
         "_version_": 1710290936769020000,
         "score": 0.24995703
-      },
-      {
-        "id": "db0d2386-68b3-8e64-0b6f-82d18b6fcfd1",
-        "file_id": "db0d2386-68b3-8e64-0b6f-82d18b6fcfd1",
-        "file_name": "Climate Power IO 090721 KFTV",
-        "file_extension": "pdf",
-        "file_size": 237485,
-        "file_status": "com_cpy",
-        "folder_id": "fcbca89c-7528-edf0-405f-d6442a9823d3",
-        "create_ts": "2021-09-08T00:22:15.238Z",
-        "last_update_ts": "2021-09-08T00:23:22.007Z",
-        "active_ind": "Y",
-        "file_manager_id": "0c80491f-e3c7-4ebb-8245-ef86bc9bb323",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Climate Power/Climate Power 160825 Sep1 to Sep6",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Climate Power/Climate Power 160825 Sep1 to Sep6/Climate Power IO 090721 KFTV",
-        "entity_id": "34439",
-        "source_service_code": "TV",
-        "network_affiliation": "UNIVISION",
-        "nielsen_dma_rank": "FRESNO-VISALIA",
-        "callsign": "KFTV-DT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710290932442595300,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -290,7 +290,7 @@
         "GLENDIVE": 1060,
         "GREEN BAY-APPLETON": 1041,
         "ORLANDO-DAYTONA BCH-MELBRN": 1017,
-        "NEW YORK": 1009,
+        "NEW YORK": 1010,
         "LITTLE ROCK-PINE BLUFF": 1005,
         "ST. LOUIS": 1003,
         "COLUMBUS OH": 991,
@@ -333,7 +333,7 @@
         "CW": 11908,
         "IND": 2981,
         "MYTV": 2216,
-        "UNIVISION": 1834,
+        "UNIVISION": 1835,
         "MY NETWORK": 1543,
         "CBS/NBC": 1060,
         "FAMILYNET": 887,
@@ -396,7 +396,7 @@
         "2018": 68060,
         "2019": 14175,
         "2020": 126486,
-        "2021": 11824,
+        "2021": 11825,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -436,7 +436,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232470,
+        "TV": 232471,
         "CABLE": 111509,
         "FM": 107064,
         "AM": 40008,
@@ -444,7 +444,7 @@
       },
       "political_file_type": {
         "PA": 217166,
-        "NCIA": 114124
+        "NCIA": 114125
       }
     }
   },
@@ -460,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 220,
-    "responseTime": 220
+    "queryTime": 202,
+    "processTime": 209,
+    "responseTime": 210
   }
 }
