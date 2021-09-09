@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 496301,
+    "numFound": 496290,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "43776b80-ba24-f30b-3ef6-62088f00f20f",
+        "file_id": "43776b80-ba24-f30b-3ef6-62088f00f20f",
+        "file_name": "SAM GALLUCI IO 090921 KLLE",
+        "file_extension": "pdf",
+        "file_size": 214090,
+        "file_status": "com_cpy",
+        "folder_id": "b430c6a4-a46a-603c-6c98-fa3980ac1d3f",
+        "create_ts": "2021-09-09T15:34:29.345Z",
+        "last_update_ts": "2021-09-09T15:35:36.742Z",
+        "active_ind": "Y",
+        "file_manager_id": "7e908541-1f05-40b1-b3e8-8febe2811c94",
+        "file_folder_path": "Political Files/2021/State/Sam Gallucci for Governor 2021",
+        "full_qualified_file_name": "Political Files/2021/State/Sam Gallucci for Governor 2021/SAM GALLUCI IO 090921 KLLE",
+        "entity_id": "31716",
+        "source_service_code": "FM",
+        "callsign": "KLLE",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1710438922372251600,
+        "score": 0.24995703
+      },
+      {
+        "id": "aa2455ab-37b4-0d0d-e22f-f8b23d43e172",
+        "file_id": "aa2455ab-37b4-0d0d-e22f-f8b23d43e172",
+        "file_name": "SAM GALLUCCI IO 090921 KRDA",
+        "file_extension": "pdf",
+        "file_size": 213886,
+        "file_status": "com_cpy",
+        "folder_id": "76cb83be-e960-c7fa-5728-91d32f9dade0",
+        "create_ts": "2021-09-09T15:28:45.328Z",
+        "last_update_ts": "2021-09-09T15:29:52.566Z",
+        "active_ind": "Y",
+        "file_manager_id": "fa0c51bd-7caa-4057-907f-2fa09cc8f7c1",
+        "file_folder_path": "Political Files/2021/State/Sam Galluci for Governor 2021",
+        "full_qualified_file_name": "Political Files/2021/State/Sam Galluci for Governor 2021/SAM GALLUCCI IO 090921 KRDA",
+        "entity_id": "39567",
+        "source_service_code": "FM",
+        "callsign": "KRDA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1710438561555153000,
+        "score": 0.24995703
+      },
       {
         "id": "33ef1d86-23b2-df95-0213-d941cdf41cd0",
         "file_id": "33ef1d86-23b2-df95-0213-d941cdf41cd0",
@@ -196,60 +242,12 @@
         "campaign_year": "2021",
         "_version_": 1710434568659533800,
         "score": 0.24995703
-      },
-      {
-        "id": "336aeb14-e4d3-18b3-6a2a-740b8819f90e",
-        "file_id": "336aeb14-e4d3-18b3-6a2a-740b8819f90e",
-        "file_name": "NAB_ORD21-000201_20210707_00002 Kids Deserve Great Schools",
-        "file_extension": "pdf",
-        "file_size": 123102,
-        "file_status": "com_cpy",
-        "folder_id": "84aa764a-6348-b317-2020-7f36aca607ac",
-        "create_ts": "2021-09-09T14:18:00.032Z",
-        "last_update_ts": "2021-09-09T14:19:07.041Z",
-        "active_ind": "Y",
-        "file_manager_id": "0f415ce4-b16a-4c9f-bea6-e3d588adbeba",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Kids deserve good schools-NYI",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Kids deserve good schools-NYI/NAB_ORD21-000201_20210707_00002 Kids Deserve Great Schools",
-        "entity_id": "012939",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLEVISION SYSTEMS NEW YORK CITY CORPORATION",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710434109746053000,
-        "score": 0.24995703
-      },
-      {
-        "id": "600ba697-bb72-cabd-3e75-aba47c097103",
-        "file_id": "600ba697-bb72-cabd-3e75-aba47c097103",
-        "file_name": "NAB_ORD21-000201_20210707_00002 Kids Deserve Great Schools",
-        "file_extension": "pdf",
-        "file_size": 123102,
-        "file_status": "com_cpy",
-        "folder_id": "d146ed49-c1a1-ecc7-4e83-853578381ec8",
-        "create_ts": "2021-09-09T13:59:07.061Z",
-        "last_update_ts": "2021-09-09T14:00:14.074Z",
-        "active_ind": "Y",
-        "file_manager_id": "699c363d-54e7-4e18-8983-034ed771b1a6",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Kids deserve great schools-NYI",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Kids deserve great schools-NYI/NAB_ORD21-000201_20210707_00002 Kids Deserve Great Schools",
-        "entity_id": "001592",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLEVISION OF BROOKHAVEN INC",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710432921740902400,
-        "score": 0.24995703
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8347,
-        "CEDAR RAPIDS-WTRLO-IWC&DUB": 7036,
+        "CEDAR RAPIDS-WTRLO-IWC&DUB": 7031,
         "WILKES BARRE-SCRANTON": 6662,
         "LAS VEGAS": 5776,
         "WEST PALM BEACH-FT. PIERCE": 5757,
@@ -259,7 +257,7 @@
         "CHARLESTON-HUNTINGTON": 4273,
         "PORTLAND-AUBURN": 4055,
         "TALLAHASSEE-THOMASVILLE": 3953,
-        "OMAHA": 3653,
+        "OMAHA": 3651,
         "BUTTE-BOZEMAN": 3614,
         "EUGENE": 3372,
         "MISSOULA": 3294,
@@ -286,7 +284,7 @@
         "LEXINGTON": 2082,
         "PHILADELPHIA": 2034,
         "ROCHESTR-MASON CITY-AUSTIN": 1984,
-        "SIOUX CITY": 1943,
+        "SIOUX CITY": 1942,
         "GREAT FALLS": 1923,
         "WASHINGTON DC (HAGRSTWN)": 1856,
         "LA CROSSE-EAU CLAIRE": 1800,
@@ -354,7 +352,7 @@
         "NBC": 55749,
         "CBS": 37719,
         "FOX": 27161,
-        "PBS": 13954,
+        "PBS": 13941,
         "CW": 11909,
         "IND": 2981,
         "MYTV": 2216,
@@ -421,12 +419,12 @@
         "2018": 68060,
         "2019": 14155,
         "2020": 126486,
-        "2021": 11904,
+        "2021": 11906,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64173,
+        "State": 64175,
         "US Senate": 48337,
         "US House": 41560,
         "Presidential": 39255,
@@ -435,7 +433,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54229,
         "Issues and Programs Lists": 42891,
-        "Equal Employment Opportunity Records": 36827,
+        "Equal Employment Opportunity Records": 36814,
         "Donor Lists - Applicable Only for NCEs": 11376,
         "FCC Authorizations": 7095,
         "Local Public Notice Announcements": 1718,
@@ -461,14 +459,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232505,
+        "TV": 232492,
         "CABLE": 111518,
-        "FM": 107153,
+        "FM": 107155,
         "AM": 40024,
         "DBS": 5101
       },
       "political_file_type": {
-        "PA": 217181,
+        "PA": 217183,
         "NCIA": 114169
       }
     }
@@ -485,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1706,
-    "processTime": 717,
-    "responseTime": 1718
+    "queryTime": 207,
+    "processTime": 214,
+    "responseTime": 215
   }
 }
