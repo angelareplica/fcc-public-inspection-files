@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 496298,
+    "numFound": 496300,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "336aeb14-e4d3-18b3-6a2a-740b8819f90e",
+        "file_id": "336aeb14-e4d3-18b3-6a2a-740b8819f90e",
+        "file_name": "NAB_ORD21-000201_20210707_00002 Kids Deserve Great Schools",
+        "file_extension": "pdf",
+        "file_size": 123102,
+        "file_status": "com_cpy",
+        "folder_id": "84aa764a-6348-b317-2020-7f36aca607ac",
+        "create_ts": "2021-09-09T14:18:00.032Z",
+        "last_update_ts": "2021-09-09T14:19:07.041Z",
+        "active_ind": "Y",
+        "file_manager_id": "0f415ce4-b16a-4c9f-bea6-e3d588adbeba",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Kids deserve good schools-NYI",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Kids deserve good schools-NYI/NAB_ORD21-000201_20210707_00002 Kids Deserve Great Schools",
+        "entity_id": "012939",
+        "source_service_code": "CABLE",
+        "legal_name": "CABLEVISION SYSTEMS NEW YORK CITY CORPORATION",
+        "operator_city_name": "BETHPAGE",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1710434109746053000,
+        "score": 0.24995703
+      },
+      {
+        "id": "600ba697-bb72-cabd-3e75-aba47c097103",
+        "file_id": "600ba697-bb72-cabd-3e75-aba47c097103",
+        "file_name": "NAB_ORD21-000201_20210707_00002 Kids Deserve Great Schools",
+        "file_extension": "pdf",
+        "file_size": 123102,
+        "file_status": "com_cpy",
+        "folder_id": "d146ed49-c1a1-ecc7-4e83-853578381ec8",
+        "create_ts": "2021-09-09T13:59:07.061Z",
+        "last_update_ts": "2021-09-09T14:00:14.074Z",
+        "active_ind": "Y",
+        "file_manager_id": "699c363d-54e7-4e18-8983-034ed771b1a6",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Kids deserve great schools-NYI",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Kids deserve great schools-NYI/NAB_ORD21-000201_20210707_00002 Kids Deserve Great Schools",
+        "entity_id": "001592",
+        "source_service_code": "CABLE",
+        "legal_name": "CABLEVISION OF BROOKHAVEN INC",
+        "operator_city_name": "BETHPAGE",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1710432921740902400,
+        "score": 0.24995703
+      },
       {
         "id": "641153c1-a87d-b63d-10c6-7e536e9b041e",
         "file_id": "641153c1-a87d-b63d-10c6-7e536e9b041e",
@@ -195,55 +243,6 @@
         "campaign_year": "2021",
         "_version_": 1710425042633883600,
         "score": 0.24995703
-      },
-      {
-        "id": "9fccf8ee-ab79-aa46-c9ef-805440dd53b5",
-        "file_id": "9fccf8ee-ab79-aa46-c9ef-805440dd53b5",
-        "file_name": "Phillips Starts 090721 Rev 1",
-        "file_extension": "pdf",
-        "file_size": 815001,
-        "file_status": "com_cpy",
-        "folder_id": "ab1de17a-e5b7-613c-dd8d-0ff352ce8794",
-        "create_ts": "2021-09-09T11:49:17.827Z",
-        "last_update_ts": "2021-09-09T11:50:25.128Z",
-        "active_ind": "Y",
-        "file_manager_id": "62d813b0-d137-4596-a332-6d990da742f8",
-        "file_folder_path": "Political Files/2021/State/Iowa House/Ia Dem Party-Andrea Phillips",
-        "full_qualified_file_name": "Political Files/2021/State/Iowa House/Ia Dem Party-Andrea Phillips/Phillips Starts 090721 Rev 1",
-        "entity_id": "66221",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "DES MOINES-AMES",
-        "callsign": "WHO-DT",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1710424754500927500,
-        "score": 0.24995703
-      },
-      {
-        "id": "a7688041-8c68-048f-c7d8-c5d254368159",
-        "file_id": "a7688041-8c68-048f-c7d8-c5d254368159",
-        "file_name": "Better NV PB19 09 08",
-        "file_extension": "pdf",
-        "file_size": 924663,
-        "file_status": "com_cpy",
-        "folder_id": "d4c46c56-dc6b-42af-5814-44c154f0d555",
-        "create_ts": "2021-09-09T04:42:34.2Z",
-        "last_update_ts": "2021-09-09T04:44:21.15Z",
-        "active_ind": "Y",
-        "file_manager_id": "269af069-346f-4e26-9368-2419ea90365e",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Better Nevada PAC",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Better Nevada PAC/Better NV PB19 09 08",
-        "entity_id": "63331",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "RENO",
-        "callsign": "KOLO-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710397948805775400,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -421,7 +420,7 @@
         "2018": 68060,
         "2019": 14155,
         "2020": 126486,
-        "2021": 11895,
+        "2021": 11897,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -462,14 +461,14 @@
       },
       "source_service_code": {
         "TV": 232507,
-        "CABLE": 111513,
+        "CABLE": 111515,
         "FM": 107153,
         "AM": 40024,
         "DBS": 5101
       },
       "political_file_type": {
         "PA": 217179,
-        "NCIA": 114162
+        "NCIA": 114164
       }
     }
   },
@@ -485,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 209,
-    "responseTime": 209
+    "queryTime": 199,
+    "processTime": 207,
+    "responseTime": 208
   }
 }
