@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 496303,
+    "numFound": 496304,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "888ad775-b15a-4d9d-abb0-7436c80ae8e5",
+        "file_id": "888ad775-b15a-4d9d-abb0-7436c80ae8e5",
+        "file_name": "NAB_ORD21-000201_20210707_00002 Kids Deserve Great Schools",
+        "file_extension": "pdf",
+        "file_size": 123102,
+        "file_status": "com_cpy",
+        "folder_id": "f8c9e19e-36df-de25-50b3-8be95b58d9fd",
+        "create_ts": "2021-09-09T19:28:05.714Z",
+        "last_update_ts": "2021-09-09T19:29:13.13Z",
+        "active_ind": "Y",
+        "file_manager_id": "a2eef594-6187-42fc-b696-68b70133b851",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Kids deserve better schools-NYI",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Kids deserve better schools-NYI/NAB_ORD21-000201_20210707_00002 Kids Deserve Great Schools",
+        "entity_id": "001821",
+        "source_service_code": "CABLE",
+        "legal_name": "CABLEVISION OF MONMOUTH LLC",
+        "operator_city_name": "BETHPAGE",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1710453619560546300,
+        "score": 0.24995703
+      },
       {
         "id": "4da01d7c-72a0-6e44-d9d2-c48d223396b7",
         "file_id": "4da01d7c-72a0-6e44-d9d2-c48d223396b7",
@@ -220,31 +244,6 @@
         "campaign_year": "2021",
         "_version_": 1710448882255659000,
         "score": 0.24995703
-      },
-      {
-        "id": "c30f8ff2-bd99-4c27-5ab2-a319752da494",
-        "file_id": "c30f8ff2-bd99-4c27-5ab2-a319752da494",
-        "file_name": "WHSV - Youngkin for Governor - Order #180053 Rev 1 Wk of 09.04.21-09.10.21",
-        "file_extension": "pdf",
-        "file_size": 159433,
-        "file_status": "com_cpy",
-        "folder_id": "739f8f08-5413-47cd-9468-4fa1cc027300",
-        "create_ts": "2021-09-09T18:11:50.873Z",
-        "last_update_ts": "2021-09-09T18:12:58.053Z",
-        "active_ind": "Y",
-        "file_manager_id": "abd413a8-986c-422b-9515-a5e627d97006",
-        "file_folder_path": "Political Files/2021/State/Governor/Youngkin for Governor",
-        "full_qualified_file_name": "Political Files/2021/State/Governor/Youngkin for Governor/WHSV - Youngkin for Governor - Order #180053 Rev 1 Wk of 09.04.21-09.10.21",
-        "entity_id": "4688",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "HARRISONBURG",
-        "callsign": "WHSV-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1710448822275014700,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -422,7 +421,7 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126486,
-        "2021": 11937,
+        "2021": 11938,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -463,14 +462,14 @@
       },
       "source_service_code": {
         "TV": 232486,
-        "CABLE": 111530,
+        "CABLE": 111531,
         "FM": 107163,
         "AM": 40023,
         "DBS": 5101
       },
       "political_file_type": {
         "PA": 217182,
-        "NCIA": 114181
+        "NCIA": 114182
       }
     }
   },
@@ -486,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1699,
-    "processTime": 709,
-    "responseTime": 1710
+    "queryTime": 1719,
+    "processTime": 727,
+    "responseTime": 1728
   }
 }
