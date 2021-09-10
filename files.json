@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 496434,
+    "numFound": 496436,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "582ed2c8-b88b-c2e1-e735-120a7a40399e",
+        "file_id": "582ed2c8-b88b-c2e1-e735-120a7a40399e",
+        "file_name": "WPEC-Jackson, Phil for Congress D-20 #4971506 (0911-091721) NAB",
+        "file_extension": "pdf",
+        "file_size": 163514,
+        "file_status": "com_cpy",
+        "folder_id": "a18be81b-7640-8e94-71ec-fd8d7585ac09",
+        "create_ts": "2021-09-10T14:35:25.543Z",
+        "last_update_ts": "2021-09-10T14:36:33.89Z",
+        "active_ind": "Y",
+        "file_manager_id": "de2fe640-db37-4454-8d8a-9046c7e65b2b",
+        "file_folder_path": "Political Files/2021/Federal/US House/JACKSON PHIL - FLA HOUSE OF REP 20/ORDERS AND NABS",
+        "full_qualified_file_name": "Political Files/2021/Federal/US House/JACKSON PHIL - FLA HOUSE OF REP 20/ORDERS AND NABS/WPEC-Jackson, Phil for Congress D-20 #4971506 (0911-091721) NAB",
+        "entity_id": "52527",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WEST PALM BEACH-FT. PIERCE",
+        "callsign": "WPEC",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2021",
+        "_version_": 1710525804077645800,
+        "score": 0.24995703
+      },
+      {
+        "id": "cf82c53c-ac8a-2e92-1a7c-6dc8eed07336",
+        "file_id": "cf82c53c-ac8a-2e92-1a7c-6dc8eed07336",
+        "file_name": "WPEC-Jackson, Phil for Congress D#20 #4971506 (0911-091721)",
+        "file_extension": "pdf",
+        "file_size": 376321,
+        "file_status": "com_cpy",
+        "folder_id": "a18be81b-7640-8e94-71ec-fd8d7585ac09",
+        "create_ts": "2021-09-10T14:31:36.953Z",
+        "last_update_ts": "2021-09-10T14:35:19.443Z",
+        "active_ind": "Y",
+        "file_manager_id": "4843300b-cc45-4201-8d5d-01dd41ccdb31",
+        "file_folder_path": "Political Files/2021/Federal/US House/JACKSON PHIL - FLA HOUSE OF REP 20/ORDERS AND NABS",
+        "full_qualified_file_name": "Political Files/2021/Federal/US House/JACKSON PHIL - FLA HOUSE OF REP 20/ORDERS AND NABS/WPEC-Jackson, Phil for Congress D#20 #4971506 (0911-091721)",
+        "entity_id": "52527",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WEST PALM BEACH-FT. PIERCE",
+        "callsign": "WPEC",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2021",
+        "_version_": 1710525726012211200,
+        "score": 0.24995703
+      },
       {
         "id": "ccadb7b4-6cb5-e2b0-54bd-11d806b7c9b0",
         "file_id": "ccadb7b4-6cb5-e2b0-54bd-11d806b7c9b0",
@@ -190,54 +240,6 @@
         "campaign_year": "2021",
         "_version_": 1710521087373082600,
         "score": 0.24995703
-      },
-      {
-        "id": "5c92e7ce-fe7d-1b31-3afe-63edb22d5e4e",
-        "file_id": "5c92e7ce-fe7d-1b31-3afe-63edb22d5e4e",
-        "file_name": "American Clean Power Starts 091921",
-        "file_extension": "pdf",
-        "file_size": 346372,
-        "file_status": "com_cpy",
-        "folder_id": "2cb2849a-363e-4c16-a9ce-ad01ed311d0e",
-        "create_ts": "2021-09-10T13:17:41.629Z",
-        "last_update_ts": "2021-09-10T13:18:49.035Z",
-        "active_ind": "Y",
-        "file_manager_id": "78f84d94-47f7-4584-92ed-dac8ba463433",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Clean Power",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Clean Power/American Clean Power Starts 091921",
-        "entity_id": "66221",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "DES MOINES-AMES",
-        "callsign": "WHO-DT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710520912647815200,
-        "score": 0.24995703
-      },
-      {
-        "id": "f720e78a-a8b3-e442-4ef6-656904c18b2f",
-        "file_id": "f720e78a-a8b3-e442-4ef6-656904c18b2f",
-        "file_name": "UMWA 0518 to 0530",
-        "file_extension": "pdf",
-        "file_size": 1512276,
-        "file_status": "com_cpy",
-        "folder_id": "303cc55c-d885-7317-33c4-9386d56bf5d9",
-        "create_ts": "2021-09-10T13:00:51.571Z",
-        "last_update_ts": "2021-09-10T13:01:59.329Z",
-        "active_ind": "Y",
-        "file_manager_id": "1b4125f1-6df3-44a1-b8c1-b5db2c7ad835",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/UMWA 0518 to 0530",
-        "entity_id": "5360",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
-        "callsign": "WIAT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710519853871267800,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -246,7 +248,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7031,
         "WILKES BARRE-SCRANTON": 6662,
         "LAS VEGAS": 5792,
-        "WEST PALM BEACH-FT. PIERCE": 5757,
+        "WEST PALM BEACH-FT. PIERCE": 5759,
         "PITTSBURGH": 5297,
         "HONOLULU": 5188,
         "DULUTH-SUPERIOR": 4650,
@@ -346,7 +348,7 @@
       "network_affiliation": {
         "ABC": 56941,
         "NBC": 55764,
-        "CBS": 37714,
+        "CBS": 37716,
         "FOX": 27162,
         "PBS": 13945,
         "CW": 11914,
@@ -415,14 +417,14 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126486,
-        "2021": 12030,
+        "2021": 12032,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64190,
         "US Senate": 48339,
-        "US House": 41558,
+        "US House": 41560,
         "Presidential": 39255,
         "Local": 22774
       },
@@ -455,14 +457,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232570,
+        "TV": 232572,
         "CABLE": 111542,
         "FM": 107184,
         "AM": 40032,
         "DBS": 5106
       },
       "political_file_type": {
-        "PA": 217206,
+        "PA": 217208,
         "NCIA": 114250
       }
     }
@@ -479,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1699,
-    "processTime": 708,
-    "responseTime": 1708
+    "queryTime": 208,
+    "processTime": 218,
+    "responseTime": 218
   }
 }
