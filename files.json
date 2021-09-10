@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 496436,
+    "numFound": 496438,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "3863ae92-2269-e948-0666-f8df8da84a2b",
+        "file_id": "3863ae92-2269-e948-0666-f8df8da84a2b",
+        "file_name": "WPEC-McCormick, Sheila for Hse of Rep-Dem  #4956044 (0824-090521)  NAB",
+        "file_extension": "pdf",
+        "file_size": 1121838,
+        "file_status": "com_cpy",
+        "folder_id": "6ff0e0d1-9235-a9ad-208b-ad652dcabf9c",
+        "create_ts": "2021-09-10T14:55:47.926Z",
+        "last_update_ts": "2021-09-10T14:56:55.505Z",
+        "active_ind": "Y",
+        "file_manager_id": "be5f143b-e887-49ca-bd7c-3673ab764746",
+        "file_folder_path": "Political Files/2021/Federal/US House/MCCORMICK SHEILA - FLA HOUSE OF REP 20/ORDERS AND NABS",
+        "full_qualified_file_name": "Political Files/2021/Federal/US House/MCCORMICK SHEILA - FLA HOUSE OF REP 20/ORDERS AND NABS/WPEC-McCormick, Sheila for Hse of Rep-Dem  #4956044 (0824-090521)  NAB",
+        "entity_id": "52527",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WEST PALM BEACH-FT. PIERCE",
+        "callsign": "WPEC",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2021",
+        "_version_": 1710527085013893000,
+        "score": 0.24995703
+      },
+      {
+        "id": "1296f034-1229-206b-27be-708dd55e66da",
+        "file_id": "1296f034-1229-206b-27be-708dd55e66da",
+        "file_name": "WPEC-McCornick, Sheila-Congress District #20 Dem #4956044 (0824-090521) (FINAL)",
+        "file_extension": "pdf",
+        "file_size": 384107,
+        "file_status": "com_cpy",
+        "folder_id": "6ff0e0d1-9235-a9ad-208b-ad652dcabf9c",
+        "create_ts": "2021-09-10T14:52:46.765Z",
+        "last_update_ts": "2021-09-10T14:53:54.232Z",
+        "active_ind": "Y",
+        "file_manager_id": "4dae96d8-832d-42b8-bada-3cb56b75a598",
+        "file_folder_path": "Political Files/2021/Federal/US House/MCCORMICK SHEILA - FLA HOUSE OF REP 20/ORDERS AND NABS",
+        "full_qualified_file_name": "Political Files/2021/Federal/US House/MCCORMICK SHEILA - FLA HOUSE OF REP 20/ORDERS AND NABS/WPEC-McCornick, Sheila-Congress District #20 Dem #4956044 (0824-090521) (FINAL)",
+        "entity_id": "52527",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WEST PALM BEACH-FT. PIERCE",
+        "callsign": "WPEC",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2021",
+        "_version_": 1710526894935376000,
+        "score": 0.24995703
+      },
       {
         "id": "582ed2c8-b88b-c2e1-e735-120a7a40399e",
         "file_id": "582ed2c8-b88b-c2e1-e735-120a7a40399e",
@@ -192,54 +242,6 @@
         "campaign_year": "2021",
         "_version_": 1710522683816411100,
         "score": 0.24995703
-      },
-      {
-        "id": "9b856c83-9045-e9f5-b8ba-78d819dbb9a6",
-        "file_id": "9b856c83-9045-e9f5-b8ba-78d819dbb9a6",
-        "file_name": "NAB_ORD21-000201_20210707_00002 Kids Deserve Great Schools",
-        "file_extension": "pdf",
-        "file_size": 123102,
-        "file_status": "com_cpy",
-        "folder_id": "33500bd2-9cb3-a8cc-3b09-fb8c9506c68f",
-        "create_ts": "2021-09-10T13:39:21.063Z",
-        "last_update_ts": "2021-09-10T13:40:28.308Z",
-        "active_ind": "Y",
-        "file_manager_id": "9f8322a9-cb1b-43c9-940f-db39023441c6",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Kids deserve great schools-NYI",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Kids deserve great schools-NYI/NAB_ORD21-000201_20210707_00002 Kids Deserve Great Schools",
-        "entity_id": "003693",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLEVISION OF WARWICK INC",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710522275008086000,
-        "score": 0.24995703
-      },
-      {
-        "id": "33b0abb8-a4de-8703-8f0f-1afe02d40206",
-        "file_id": "33b0abb8-a4de-8703-8f0f-1afe02d40206",
-        "file_name": "American Clean Power Starts 092621",
-        "file_extension": "pdf",
-        "file_size": 343630,
-        "file_status": "com_cpy",
-        "folder_id": "2cb2849a-363e-4c16-a9ce-ad01ed311d0e",
-        "create_ts": "2021-09-10T13:20:28.33Z",
-        "last_update_ts": "2021-09-10T13:21:35.671Z",
-        "active_ind": "Y",
-        "file_manager_id": "55856c51-70e7-4f04-b953-e58c7833722c",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Clean Power",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Clean Power/American Clean Power Starts 092621",
-        "entity_id": "66221",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "DES MOINES-AMES",
-        "callsign": "WHO-DT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710521087373082600,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -248,7 +250,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7031,
         "WILKES BARRE-SCRANTON": 6662,
         "LAS VEGAS": 5792,
-        "WEST PALM BEACH-FT. PIERCE": 5759,
+        "WEST PALM BEACH-FT. PIERCE": 5761,
         "PITTSBURGH": 5297,
         "HONOLULU": 5188,
         "DULUTH-SUPERIOR": 4650,
@@ -348,7 +350,7 @@
       "network_affiliation": {
         "ABC": 56941,
         "NBC": 55764,
-        "CBS": 37716,
+        "CBS": 37718,
         "FOX": 27162,
         "PBS": 13945,
         "CW": 11914,
@@ -417,14 +419,14 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126486,
-        "2021": 12032,
+        "2021": 12034,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64190,
         "US Senate": 48339,
-        "US House": 41560,
+        "US House": 41562,
         "Presidential": 39255,
         "Local": 22774
       },
@@ -457,14 +459,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232572,
+        "TV": 232574,
         "CABLE": 111542,
         "FM": 107184,
         "AM": 40032,
         "DBS": 5106
       },
       "political_file_type": {
-        "PA": 217208,
+        "PA": 217210,
         "NCIA": 114250
       }
     }
@@ -481,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 218,
-    "responseTime": 218
+    "queryTime": 1701,
+    "processTime": 712,
+    "responseTime": 1713
   }
 }
