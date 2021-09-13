@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 496793,
+    "numFound": 496795,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "b17305f3-f7dd-23a0-587a-97fce78f1fd8",
+        "file_id": "b17305f3-f7dd-23a0-587a-97fce78f1fd8",
+        "file_name": "Alabama Track Owners 9.1-9.21.21 M3",
+        "file_extension": "pdf",
+        "file_size": 89100,
+        "file_status": "com_cpy",
+        "folder_id": "baabfce8-6f24-95e9-0dea-e2a55c86242f",
+        "create_ts": "2021-09-13T19:01:29.655Z",
+        "last_update_ts": "2021-09-13T19:02:37.993Z",
+        "active_ind": "Y",
+        "file_manager_id": "f1f04a4a-c626-4ea6-bb86-61fe335374ec",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Alabama Track Owners Association/Alabama Track Owners Association 090121-092121",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Alabama Track Owners Association/Alabama Track Owners Association 090121-092121/Alabama Track Owners 9.1-9.21.21 M3",
+        "entity_id": "74173",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
+        "callsign": "WVTM-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1710814333451108400,
+        "score": 0.24995703
+      },
+      {
+        "id": "2e86e55c-3a9c-d4aa-1f20-cb359838a408",
+        "file_id": "2e86e55c-3a9c-d4aa-1f20-cb359838a408",
+        "file_name": "League of Conservation Voters Issue 0033 9-19-2021",
+        "file_extension": "pdf",
+        "file_size": 212455,
+        "file_status": "com_cpy",
+        "folder_id": "04261272-e502-c537-c9d8-29663f3fea75",
+        "create_ts": "2021-09-13T18:54:05.533Z",
+        "last_update_ts": "2021-09-13T18:55:13.892Z",
+        "active_ind": "Y",
+        "file_manager_id": "6ae72fb1-10c6-4af8-b4b0-59b7407af0f8",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/League of Conservation Voters Issue 0033 9-19-2021",
+        "entity_id": "59444",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "KANSAS CITY",
+        "callsign": "KSHB-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1710813867774312400,
+        "score": 0.24995703
+      },
       {
         "id": "f6ffaddf-4d33-948b-1a3f-01e0b66bfa6b",
         "file_id": "f6ffaddf-4d33-948b-1a3f-01e0b66bfa6b",
@@ -187,56 +235,6 @@
         "campaign_year": "2021",
         "_version_": 1710813171671892000,
         "score": 0.24995703
-      },
-      {
-        "id": "bd1e738e-31c5-4221-c099-d76bea27798d",
-        "file_id": "bd1e738e-31c5-4221-c099-d76bea27798d",
-        "file_name": "A29658-REQUEST 620577-091321",
-        "file_extension": "pdf",
-        "file_size": 975814,
-        "file_status": "com_cpy",
-        "folder_id": "3a0ecc0d-68b5-d81c-8754-1f4f33e825af",
-        "create_ts": "2021-09-13T17:52:58.918Z",
-        "last_update_ts": "2021-09-13T17:54:07.536Z",
-        "active_ind": "Y",
-        "file_manager_id": "bdedec69-b68d-45c2-aab3-ce40efc83c6e",
-        "file_folder_path": "Political Files/2021/State/Illinois/Governor/JB Pritzker/JB for Governor 29658",
-        "full_qualified_file_name": "Political Files/2021/State/Illinois/Governor/JB Pritzker/JB for Governor 29658/A29658-REQUEST 620577-091321",
-        "entity_id": "73940",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "ROCKFORD",
-        "callsign": "WREX",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1710810023336083500,
-        "score": 0.24995703
-      },
-      {
-        "id": "3c7a5802-4ae5-3f23-47a4-85f3a1b19101",
-        "file_id": "3c7a5802-4ae5-3f23-47a4-85f3a1b19101",
-        "file_name": "A29658-NAB-091321",
-        "file_extension": "pdf",
-        "file_size": 617584,
-        "file_status": "com_cpy",
-        "folder_id": "3a0ecc0d-68b5-d81c-8754-1f4f33e825af",
-        "create_ts": "2021-09-13T17:52:58.555Z",
-        "last_update_ts": "2021-09-13T17:54:07.449Z",
-        "active_ind": "Y",
-        "file_manager_id": "821906b6-7f78-4d87-ae5f-75456564aa06",
-        "file_folder_path": "Political Files/2021/State/Illinois/Governor/JB Pritzker/JB for Governor 29658",
-        "full_qualified_file_name": "Political Files/2021/State/Illinois/Governor/JB Pritzker/JB for Governor 29658/A29658-NAB-091321",
-        "entity_id": "73940",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "ROCKFORD",
-        "callsign": "WREX",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1710810023243808800,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -263,7 +261,7 @@
         "SACRAMNTO-STKTON-MODESTO": 2747,
         "WAUSAU-RHINELANDER": 2742,
         "FT. WAYNE": 2714,
-        "KANSAS CITY": 2709,
+        "KANSAS CITY": 2710,
         "MILWAUKEE": 2623,
         "BEND OR": 2588,
         "GREENSBORO-H.POINT-W.SALEM": 2518,
@@ -272,7 +270,7 @@
         "SAVANNAH": 2413,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
         "PEORIA-BLOOMINGTON": 2191,
-        "BIRMINGHAM (ANN TUSC)": 2189,
+        "BIRMINGHAM (ANN TUSC)": 2190,
         "Greenville-Spartanburg-Asheville-Anderson": 2174,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
         "TAMPA-ST. PETE (SARASOTA)": 2148,
@@ -344,7 +342,7 @@
       },
       "network_affiliation": {
         "ABC": 56965,
-        "NBC": 55780,
+        "NBC": 55782,
         "CBS": 37723,
         "FOX": 27173,
         "PBS": 13946,
@@ -414,7 +412,7 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126487,
-        "2021": 12184,
+        "2021": 12186,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -454,7 +452,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232635,
+        "TV": 232637,
         "CABLE": 111552,
         "FM": 107437,
         "AM": 40058,
@@ -462,7 +460,7 @@
       },
       "political_file_type": {
         "PA": 217275,
-        "NCIA": 114335
+        "NCIA": 114337
       }
     }
   },
@@ -478,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1703,
-    "processTime": 712,
-    "responseTime": 1712
+    "queryTime": 209,
+    "processTime": 217,
+    "responseTime": 217
   }
 }
