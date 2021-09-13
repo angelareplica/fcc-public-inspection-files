@@ -1,9 +1,54 @@
 {
   "response": {
-    "numFound": 496795,
+    "numFound": 496797,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "96de0485-9512-85c0-8dbb-2d6659c13d63",
+        "file_id": "96de0485-9512-85c0-8dbb-2d6659c13d63",
+        "file_name": "Hala Ayala NAB - General Gas Station 091321",
+        "file_extension": "pdf",
+        "file_size": 145177,
+        "file_status": "com_cpy",
+        "folder_id": "a0e02a69-fd64-5db0-74ac-8d972526e651",
+        "create_ts": "2021-09-13T19:38:45.434Z",
+        "last_update_ts": "2021-09-13T19:39:53.838Z",
+        "active_ind": "Y",
+        "file_manager_id": "cb546654-9ea3-4634-bc1b-b81b2de33f47",
+        "file_folder_path": "Political Files/2021/State/Virginia/Hala Ayala VA Lieutenant Governor",
+        "full_qualified_file_name": "Political Files/2021/State/Virginia/Hala Ayala VA Lieutenant Governor/Hala Ayala NAB - General Gas Station 091321",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1710816677890883600,
+        "score": 0.24995703
+      },
+      {
+        "id": "f520816e-1245-7fa1-1a36-5e131836e6f2",
+        "file_id": "f520816e-1245-7fa1-1a36-5e131836e6f2",
+        "file_name": "Youngkin for VA Governor - WDZY 09-13-21 to 09-1721 Ctr.4411603 Est.911CHR  NAB",
+        "file_extension": "pdf",
+        "file_size": 1599078,
+        "file_status": "com_cpy",
+        "folder_id": "73ea1f68-ec42-1b0a-a774-b9de725affb2",
+        "create_ts": "2021-09-13T19:34:35.014Z",
+        "last_update_ts": "2021-09-13T19:35:43.64Z",
+        "active_ind": "Y",
+        "file_manager_id": "e6baf40d-4725-4a83-a7c6-ab10cb8a4ebd",
+        "file_folder_path": "Political Files/2021/State/Youngkin For VA Governor",
+        "full_qualified_file_name": "Political Files/2021/State/Youngkin For VA Governor/Youngkin for VA Governor - WDZY 09-13-21 to 09-1721 Ctr.4411603 Est.911CHR  NAB",
+        "entity_id": "21723",
+        "source_service_code": "AM",
+        "callsign": "WDZY",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1710816415542411300,
+        "score": 0.24995703
+      },
       {
         "id": "b17305f3-f7dd-23a0-587a-97fce78f1fd8",
         "file_id": "b17305f3-f7dd-23a0-587a-97fce78f1fd8",
@@ -187,54 +232,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1710813210760708000,
         "score": 0.00012497851
-      },
-      {
-        "id": "c4d302ab-12c8-831e-34d2-47a41ad5d46c",
-        "file_id": "c4d302ab-12c8-831e-34d2-47a41ad5d46c",
-        "file_name": "LCV 09.14.21-09.20.21 910875 Order",
-        "file_extension": "pdf",
-        "file_size": 26415,
-        "file_status": "com_cpy",
-        "folder_id": "098ed44b-34e5-d0e5-0fbb-87166781a50c",
-        "create_ts": "2021-09-13T18:43:01.926Z",
-        "last_update_ts": "2021-09-13T18:44:10.175Z",
-        "active_ind": "Y",
-        "file_manager_id": "bc9c61d1-b74a-4b17-aaea-48e661f66a75",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/LCV 09.14.21-09.20.21 910875 Order",
-        "entity_id": "74100",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KTNV-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710813171817644000,
-        "score": 0.24995703
-      },
-      {
-        "id": "fe288d4b-348e-ca18-2a3b-655c711806f3",
-        "file_id": "fe288d4b-348e-ca18-2a3b-655c711806f3",
-        "file_name": "LCV 09.14.21-09.20.21 910894 Order",
-        "file_extension": "pdf",
-        "file_size": 20575,
-        "file_status": "com_cpy",
-        "folder_id": "098ed44b-34e5-d0e5-0fbb-87166781a50c",
-        "create_ts": "2021-09-13T18:43:01.827Z",
-        "last_update_ts": "2021-09-13T18:44:10.028Z",
-        "active_ind": "Y",
-        "file_manager_id": "6f4fe04b-ed9e-417c-8720-1debe0177e1f",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/LCV 09.14.21-09.20.21 910894 Order",
-        "entity_id": "74100",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KTNV-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710813171671892000,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -412,12 +409,12 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126487,
-        "2021": 12186,
+        "2021": 12188,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64214,
+        "State": 64216,
         "US Senate": 48339,
         "US House": 41560,
         "Presidential": 39255,
@@ -455,11 +452,11 @@
         "TV": 232637,
         "CABLE": 111552,
         "FM": 107437,
-        "AM": 40058,
-        "DBS": 5111
+        "AM": 40059,
+        "DBS": 5112
       },
       "political_file_type": {
-        "PA": 217275,
+        "PA": 217277,
         "NCIA": 114337
       }
     }
@@ -476,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 217,
-    "responseTime": 217
+    "queryTime": 1705,
+    "processTime": 712,
+    "responseTime": 1713
   }
 }
