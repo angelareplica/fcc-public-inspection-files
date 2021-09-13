@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 496726,
+    "numFound": 496728,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "b2dafa3e-56b2-ea5a-ae61-52abd13da1fa",
+        "file_id": "b2dafa3e-56b2-ea5a-ae61-52abd13da1fa",
+        "file_name": "WTAR-Glenn Youngkin-Virginia Governor-General Election-Advertising Copy for Contract CON-NOR-CS-1805-091021",
+        "file_extension": "pdf",
+        "file_size": 93883,
+        "file_status": "com_cpy",
+        "folder_id": "9a394358-0d00-ccfc-07fa-14f09e871055",
+        "create_ts": "2021-09-13T12:25:13.22Z",
+        "last_update_ts": "2021-09-13T12:26:21.391Z",
+        "active_ind": "Y",
+        "file_manager_id": "eaab0df5-3f05-4e18-87eb-a424f44e83ec",
+        "file_folder_path": "Political Files/2021/State/Glenn Youngkin-Virginia Governor",
+        "full_qualified_file_name": "Political Files/2021/State/Glenn Youngkin-Virginia Governor/WTAR-Glenn Youngkin-Virginia Governor-General Election-Advertising Copy for Contract CON-NOR-CS-1805-091021",
+        "entity_id": "60472",
+        "source_service_code": "AM",
+        "callsign": "WTAR",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1710789401999573000,
+        "score": 0.24995703
+      },
+      {
+        "id": "4fb62f20-993b-46ad-3192-7b761ccdaadf",
+        "file_id": "4fb62f20-993b-46ad-3192-7b761ccdaadf",
+        "file_name": "WTAR-Glenn Youngkin-Virginia Governor-General Election-Disposition Report for Contract CON-NOR-CS-1805-091021",
+        "file_extension": "pdf",
+        "file_size": 53249,
+        "file_status": "com_cpy",
+        "folder_id": "9a394358-0d00-ccfc-07fa-14f09e871055",
+        "create_ts": "2021-09-13T11:55:38.207Z",
+        "last_update_ts": "2021-09-13T11:56:46.372Z",
+        "active_ind": "Y",
+        "file_manager_id": "cc98535c-7c79-4180-b2dc-4753014ae81b",
+        "file_folder_path": "Political Files/2021/State/Glenn Youngkin-Virginia Governor",
+        "full_qualified_file_name": "Political Files/2021/State/Glenn Youngkin-Virginia Governor/WTAR-Glenn Youngkin-Virginia Governor-General Election-Disposition Report for Contract CON-NOR-CS-1805-091021",
+        "entity_id": "60472",
+        "source_service_code": "AM",
+        "callsign": "WTAR",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1710787540736278500,
+        "score": 0.24995703
+      },
       {
         "id": "76d15387-dda1-5846-d33e-82511510ea92",
         "file_id": "76d15387-dda1-5846-d33e-82511510ea92",
@@ -170,48 +216,6 @@
         "callsign": "KZTM",
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1710558556122513400,
-        "score": 0.24995703
-      },
-      {
-        "id": "f681b89c-3ed8-be0f-ddd9-890928342c52",
-        "file_id": "f681b89c-3ed8-be0f-ddd9-890928342c52",
-        "file_name": "EEO REPORT SEATTLE 09-21-2020 TO 09-20-2021",
-        "file_extension": "pdf",
-        "file_size": 1029198,
-        "file_status": "com_cpy",
-        "folder_id": "9b0ce6a5-08ab-1e1d-0f61-7628f0c63ca0",
-        "create_ts": "2021-09-10T23:13:12.49Z",
-        "last_update_ts": "2021-09-10T23:14:20.483Z",
-        "active_ind": "Y",
-        "file_manager_id": "ba202b56-9df9-493e-bc9c-02cfeb47c132",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO REPORT SEATTLE 09-21-2020 TO 09-20-2021",
-        "entity_id": "191491",
-        "source_service_code": "FM",
-        "callsign": "KZNW",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1710558379617812500,
-        "score": 0.24995703
-      },
-      {
-        "id": "492e2b46-cbe0-f2c4-0f42-a76f1e0af149",
-        "file_id": "492e2b46-cbe0-f2c4-0f42-a76f1e0af149",
-        "file_name": "EEO REPORT SEATTLE 09-21-2020 TO 09-20-2021",
-        "file_extension": "pdf",
-        "file_size": 1029198,
-        "file_status": "com_cpy",
-        "folder_id": "8e31f5b8-f1ff-8b97-5c2e-d8cfbdea290d",
-        "create_ts": "2021-09-10T23:09:38.591Z",
-        "last_update_ts": "2021-09-10T23:10:46.369Z",
-        "active_ind": "Y",
-        "file_manager_id": "f72ddc8f-73e2-40db-b0e8-d7c103b39c92",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO REPORT SEATTLE 09-21-2020 TO 09-20-2021",
-        "entity_id": "33683",
-        "source_service_code": "AM",
-        "callsign": "KMIA",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1710558155108253700,
         "score": 0.24995703
       }
     ],
@@ -390,12 +394,12 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126487,
-        "2021": 12121,
+        "2021": 12123,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64203,
+        "State": 64205,
         "US Senate": 48339,
         "US House": 41560,
         "Presidential": 39255,
@@ -433,11 +437,11 @@
         "TV": 232602,
         "CABLE": 111542,
         "FM": 107420,
-        "AM": 40052,
+        "AM": 40054,
         "DBS": 5110
       },
       "political_file_type": {
-        "PA": 217263,
+        "PA": 217265,
         "NCIA": 114284
       }
     }
@@ -454,8 +458,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1701,
-    "processTime": 708,
-    "responseTime": 1709
+    "queryTime": 1697,
+    "processTime": 705,
+    "responseTime": 1705
   }
 }
