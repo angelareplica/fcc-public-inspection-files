@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 496894,
+    "numFound": 496895,
     "start": 0,
     "maxScore": 0.50016403,
     "docs": [
+      {
+        "id": "98689a7f-04b9-e956-c907-a9f089a19b8a",
+        "file_id": "98689a7f-04b9-e956-c907-a9f089a19b8a",
+        "file_name": "NAB_ORD21-000282_20210913_00001",
+        "file_extension": "pdf",
+        "file_size": 123084,
+        "file_status": "com_cpy",
+        "folder_id": "d06fa94f-9fe9-ffa3-e2ed-d6fb0f768d3d",
+        "create_ts": "2021-09-14T13:04:05.48Z",
+        "last_update_ts": "2021-09-14T13:05:13.988Z",
+        "active_ind": "Y",
+        "file_manager_id": "96a26ac5-7a84-47ea-80d7-9e4e6a7df1aa",
+        "file_folder_path": "Political Files/2021/State/Willett for Delegate",
+        "full_qualified_file_name": "Political Files/2021/State/Willett for Delegate/NAB_ORD21-000282_20210913_00001",
+        "entity_id": "57832",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "RICHMOND-PETERSBURG",
+        "callsign": "WTVR-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1710882444507349000,
+        "score": 0.24995703
+      },
       {
         "id": "dbf9e222-255d-b05e-8dd3-61b63e857e37",
         "file_id": "dbf9e222-255d-b05e-8dd3-61b63e857e37",
@@ -205,30 +230,6 @@
         "campaign_year": "2021",
         "_version_": 1710832814571651000,
         "score": 0.24995703
-      },
-      {
-        "id": "c5c4358e-7c13-3165-69dd-5f285993f600",
-        "file_id": "c5c4358e-7c13-3165-69dd-5f285993f600",
-        "file_name": "CALIFORNIANS FOR AFFORDABLE AND RELIABLE ENERGY 072621-082621 2169948-1 INVOICE",
-        "file_extension": "pdf",
-        "file_size": 53215,
-        "file_status": "com_cpy",
-        "folder_id": "43373ce6-b5aa-4371-a215-06cd65f2d804",
-        "create_ts": "2021-09-13T23:55:14.162Z",
-        "last_update_ts": "2021-09-13T23:56:22.658Z",
-        "active_ind": "Y",
-        "file_manager_id": "d6904fb0-718c-4d1e-a352-d858429e7448",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/CALIFORNIANS FOR AFFORDABLE AND REALIABLE ENERGY",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/CALIFORNIANS FOR AFFORDABLE AND REALIABLE ENERGY/CALIFORNIANS FOR AFFORDABLE AND RELIABLE ENERGY 072621-082621 2169948-1 INVOICE",
-        "entity_id": "33875",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
-        "callsign": "KCRA-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710832814224572400,
-        "score": 0.24995703
       }
     ],
     "facets": {
@@ -337,7 +338,7 @@
       "network_affiliation": {
         "ABC": 56968,
         "NBC": 55799,
-        "CBS": 37731,
+        "CBS": 37732,
         "FOX": 27186,
         "PBS": 13946,
         "CW": 11916,
@@ -406,12 +407,12 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126487,
-        "2021": 12282,
+        "2021": 12283,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64246,
+        "State": 64247,
         "US Senate": 48339,
         "US House": 41560,
         "Presidential": 39255,
@@ -446,14 +447,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232683,
+        "TV": 232684,
         "CABLE": 111565,
         "FM": 107453,
         "AM": 40077,
         "DBS": 5116
       },
       "political_file_type": {
-        "PA": 217317,
+        "PA": 217318,
         "NCIA": 114391
       }
     }
@@ -470,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 212,
-    "responseTime": 212
+    "queryTime": 200,
+    "processTime": 209,
+    "responseTime": 209
   }
 }
