@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 496979,
+    "numFound": 496980,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "29d901ce-9196-37bd-f0e3-1388388b77c4",
+        "file_id": "29d901ce-9196-37bd-f0e3-1388388b77c4",
+        "file_name": "Copy of REBATES_Youngkin for Governor (005)",
+        "file_extension": "xls",
+        "file_size": 46592,
+        "file_status": "com_prc",
+        "folder_id": "ad722d4f-d792-88f8-0d2c-5038ed38ce39",
+        "create_ts": "2021-09-14T22:31:31.432Z",
+        "last_update_ts": "2021-09-14T22:32:41.351Z",
+        "active_ind": "Y",
+        "file_manager_id": "c21537bf-c91c-4d52-972c-e3e98c779644",
+        "file_folder_path": "Political Files/2021/State/Youngkin for Governor",
+        "full_qualified_file_name": "Political Files/2021/State/Youngkin for Governor/Copy of REBATES_Youngkin for Governor (005)",
+        "entity_id": "47904",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WASHINGTON DC (HAGRSTWN)",
+        "callsign": "WRC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1710918145608253400,
+        "score": 0.249957
+      },
       {
         "id": "049f16cd-ab31-6342-d099-a8e6333a04c3",
         "file_id": "049f16cd-ab31-6342-d099-a8e6333a04c3",
@@ -217,29 +242,6 @@
         "campaign_year": "2021",
         "_version_": 1710908819446431700,
         "score": 0.249957
-      },
-      {
-        "id": "ef71e47a-77b9-4764-424c-23da42858015",
-        "file_id": "ef71e47a-77b9-4764-424c-23da42858015",
-        "file_name": "ESVF - Bill Helsley for Delegate - Order #2190586 Wk of 09.15.21-09.26.21",
-        "file_extension": "pdf",
-        "file_size": 46995,
-        "file_status": "com_cpy",
-        "folder_id": "b5f1da20-6cd3-8931-ef9d-4c7d7ab2904d",
-        "create_ts": "2021-09-14T19:53:42.958Z",
-        "last_update_ts": "2021-09-14T19:54:51.607Z",
-        "active_ind": "Y",
-        "file_manager_id": "aabcf4e2-5b01-438d-8e31-deeaae10bf2f",
-        "file_folder_path": "Political Files/2021/State/House of Delegates/Bill Helsley for Delegate",
-        "full_qualified_file_name": "Political Files/2021/State/House of Delegates/Bill Helsley for Delegate/ESVF - Bill Helsley for Delegate - Order #2190586 Wk of 09.15.21-09.26.21",
-        "entity_id": "190915",
-        "source_service_code": "TV",
-        "callsign": "WSVF-CD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1710908215890280400,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -284,7 +286,7 @@
         "ROCHESTR-MASON CITY-AUSTIN": 1983,
         "SIOUX CITY": 1942,
         "GREAT FALLS": 1923,
-        "WASHINGTON DC (HAGRSTWN)": 1869,
+        "WASHINGTON DC (HAGRSTWN)": 1870,
         "LA CROSSE-EAU CLAIRE": 1800,
         "BLUEFIELD-BECKLEY-OAK HILL": 1741,
         "ALBUQUERQUE-SANTA FE": 1696,
@@ -347,7 +349,7 @@
       },
       "network_affiliation": {
         "ABC": 56978,
-        "NBC": 55805,
+        "NBC": 55806,
         "CBS": 37733,
         "FOX": 27188,
         "PBS": 13946,
@@ -417,12 +419,12 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126487,
-        "2021": 12367,
+        "2021": 12368,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64262,
+        "State": 64263,
         "US Senate": 48340,
         "US House": 41561,
         "Presidential": 39255,
@@ -457,14 +459,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232714,
+        "TV": 232715,
         "CABLE": 111565,
         "FM": 107503,
         "AM": 40081,
         "DBS": 5116
       },
       "political_file_type": {
-        "PA": 217344,
+        "PA": 217345,
         "NCIA": 114449
       }
     }
@@ -481,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1723,
-    "processTime": 732,
-    "responseTime": 1732
+    "queryTime": 202,
+    "processTime": 212,
+    "responseTime": 213
   }
 }
