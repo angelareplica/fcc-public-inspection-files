@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 496978,
+    "numFound": 496979,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "049f16cd-ab31-6342-d099-a8e6333a04c3",
+        "file_id": "049f16cd-ab31-6342-d099-a8e6333a04c3",
+        "file_name": "Maggie for NH order 09.18.21-09.19.21",
+        "file_extension": "pdf",
+        "file_size": 115457,
+        "file_status": "com_cpy",
+        "folder_id": "7352c38d-ab02-2698-031a-a96a4bdb1d6c",
+        "create_ts": "2021-09-14T20:51:54.388Z",
+        "last_update_ts": "2021-09-14T20:53:03.053Z",
+        "active_ind": "Y",
+        "file_manager_id": "ed03efe7-83ac-4f96-8291-68b4c7811f1d",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/Maggie for New Hampshire",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Maggie for New Hampshire/Maggie for NH order 09.18.21-09.19.21",
+        "entity_id": "46728",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "BURLINGTON-PLATTSBURGH",
+        "callsign": "WCAX-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1710911876925227000,
+        "score": 0.249957
+      },
       {
         "id": "950933b4-eb68-18f8-a456-bf1c527bfb8f",
         "file_id": "950933b4-eb68-18f8-a456-bf1c527bfb8f",
@@ -215,29 +240,6 @@
         "campaign_year": "2021",
         "_version_": 1710908215890280400,
         "score": 0.249957
-      },
-      {
-        "id": "06274c58-0f3e-5a34-2f6d-972d60138fd9",
-        "file_id": "06274c58-0f3e-5a34-2f6d-972d60138fd9",
-        "file_name": "WSVF - Bill Helsley for Delegate - Order #2190605 Wk of 09.15.21-09.26.21",
-        "file_extension": "pdf",
-        "file_size": 40815,
-        "file_status": "com_cpy",
-        "folder_id": "b5f1da20-6cd3-8931-ef9d-4c7d7ab2904d",
-        "create_ts": "2021-09-14T19:53:42.896Z",
-        "last_update_ts": "2021-09-14T19:54:51.537Z",
-        "active_ind": "Y",
-        "file_manager_id": "dcbb46f1-f745-488b-aa5e-b031fee8be06",
-        "file_folder_path": "Political Files/2021/State/House of Delegates/Bill Helsley for Delegate",
-        "full_qualified_file_name": "Political Files/2021/State/House of Delegates/Bill Helsley for Delegate/WSVF - Bill Helsley for Delegate - Order #2190605 Wk of 09.15.21-09.26.21",
-        "entity_id": "190915",
-        "source_service_code": "TV",
-        "callsign": "WSVF-CD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1710908215826317300,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -294,7 +296,7 @@
         "BINGHAMTON": 1446,
         "PHOENIX (PRESCOTT)": 1431,
         "FARGO-VALLEY CITY": 1415,
-        "BURLINGTON-PLATTSBURGH": 1388,
+        "BURLINGTON-PLATTSBURGH": 1389,
         "CHATTANOOGA": 1360,
         "MIAMI-FT. LAUDERDALE": 1288,
         "PADUCAH-CAPE GIRARD-HARSBG": 1282,
@@ -346,7 +348,7 @@
       "network_affiliation": {
         "ABC": 56978,
         "NBC": 55805,
-        "CBS": 37732,
+        "CBS": 37733,
         "FOX": 27188,
         "PBS": 13946,
         "CW": 11919,
@@ -415,13 +417,13 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126487,
-        "2021": 12366,
+        "2021": 12367,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64262,
-        "US Senate": 48339,
+        "US Senate": 48340,
         "US House": 41561,
         "Presidential": 39255,
         "Local": 22793
@@ -455,14 +457,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232713,
+        "TV": 232714,
         "CABLE": 111565,
         "FM": 107503,
         "AM": 40081,
         "DBS": 5116
       },
       "political_file_type": {
-        "PA": 217343,
+        "PA": 217344,
         "NCIA": 114449
       }
     }
@@ -479,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 60,
-    "processTime": 69,
-    "responseTime": 70
+    "queryTime": 1702,
+    "processTime": 712,
+    "responseTime": 1712
   }
 }
