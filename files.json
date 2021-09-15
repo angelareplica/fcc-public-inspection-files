@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 497068,
+    "numFound": 497069,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "a45f1637-ce06-d44c-faae-0cfe24272f98",
+        "file_id": "a45f1637-ce06-d44c-faae-0cfe24272f98",
+        "file_name": "FAIR FIGHT ACTION 091521 ORDER REVISED",
+        "file_extension": "pdf",
+        "file_size": 119933,
+        "file_status": "com_cpy",
+        "folder_id": "c49c0ef0-09da-d131-e28d-3ef49c14e81e",
+        "create_ts": "2021-09-15T20:38:38.249Z",
+        "last_update_ts": "2021-09-15T20:39:47.392Z",
+        "active_ind": "Y",
+        "file_manager_id": "0473499a-8aa7-4b5d-ae5d-1b228e2a8e91",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Fair Fight Action/Fair Fight Action 9-21-21 - 9-26-21 - ORDER 2175073",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Fair Fight Action/Fair Fight Action 9-21-21 - 9-26-21 - ORDER 2175073/FAIR FIGHT ACTION 091521 ORDER REVISED",
+        "entity_id": "53905",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "Greenville-Spartanburg-Asheville-Anderson",
+        "callsign": "WYFF",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711001639239811000,
+        "score": 0.249957
+      },
       {
         "id": "3386add7-b257-54cd-8101-864c80acdc9f",
         "file_id": "3386add7-b257-54cd-8101-864c80acdc9f",
@@ -216,30 +240,6 @@
         "campaign_year": "2021",
         "_version_": 1710998376918548500,
         "score": 0.249957
-      },
-      {
-        "id": "ce0b9a74-d807-8ee7-d8e0-e28e6993914c",
-        "file_id": "ce0b9a74-d807-8ee7-d8e0-e28e6993914c",
-        "file_name": "API Sept-Oct21 NAB 2021 090921",
-        "file_extension": "pdf",
-        "file_size": 1180787,
-        "file_status": "com_cpy",
-        "folder_id": "570b62c4-58af-7126-9ef4-85ca4b724346",
-        "create_ts": "2021-09-15T19:31:33.918Z",
-        "last_update_ts": "2021-09-15T19:32:43.205Z",
-        "active_ind": "Y",
-        "file_manager_id": "5e558236-8045-40c8-9ad2-6d389eeeda78",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Petroleum Institute",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Petroleum Institute/API Sept-Oct21 NAB 2021 090921",
-        "entity_id": "1051",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "WASHINGTON DC (HAGRSTWN)",
-        "callsign": "WJLA-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1710997419590680600,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -276,7 +276,7 @@
         "QUINCY-HANNIBAL-KEOKUK": 2385,
         "PEORIA-BLOOMINGTON": 2204,
         "BIRMINGHAM (ANN TUSC)": 2190,
-        "Greenville-Spartanburg-Asheville-Anderson": 2175,
+        "Greenville-Spartanburg-Asheville-Anderson": 2176,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
         "TAMPA-ST. PETE (SARASOTA)": 2148,
         "LEXINGTON": 2082,
@@ -347,7 +347,7 @@
       },
       "network_affiliation": {
         "ABC": 56983,
-        "NBC": 55821,
+        "NBC": 55822,
         "CBS": 37737,
         "FOX": 27188,
         "PBS": 13946,
@@ -417,7 +417,7 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126487,
-        "2021": 12455,
+        "2021": 12456,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -457,7 +457,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232743,
+        "TV": 232744,
         "CABLE": 111565,
         "FM": 107543,
         "AM": 40100,
@@ -465,7 +465,7 @@
       },
       "political_file_type": {
         "PA": 217396,
-        "NCIA": 114485
+        "NCIA": 114486
       }
     }
   },
@@ -481,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1696,
-    "processTime": 703,
-    "responseTime": 1704
+    "queryTime": 201,
+    "processTime": 209,
+    "responseTime": 209
   }
 }
