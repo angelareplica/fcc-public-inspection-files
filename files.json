@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 497539,
+    "numFound": 497541,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "73c91863-2778-232a-bba4-884cce331045",
+        "file_id": "73c91863-2778-232a-bba4-884cce331045",
+        "file_name": "12150134_NAB_Form_20210916034851",
+        "file_extension": "pdf",
+        "file_size": 530765,
+        "file_status": "com_cpy",
+        "folder_id": "a9215f01-496c-9574-cd15-bb26c658fa80",
+        "create_ts": "2021-09-16T20:33:34.01Z",
+        "last_update_ts": "2021-09-16T20:34:43.811Z",
+        "active_ind": "Y",
+        "file_manager_id": "5d059568-a6c6-4038-bbb1-f9189cbb7d74",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Wilkes Barre-Scranton/AMP - AARP PA 08 - WKB",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Wilkes Barre-Scranton/AMP - AARP PA 08 - WKB/12150134_NAB_Form_20210916034851",
+        "entity_id": "002257",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF COLORADO/PENNSYLVANIA/WEST VIRGINIA, LLC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711091917546061800,
+        "score": 0.249957
+      },
+      {
+        "id": "a0bc8c77-2e9a-ccb5-cf32-886d503bc166",
+        "file_id": "a0bc8c77-2e9a-ccb5-cf32-886d503bc166",
+        "file_name": "12150134_Order_Contract_20210916034722",
+        "file_extension": "pdf",
+        "file_size": 61994,
+        "file_status": "com_cpy",
+        "folder_id": "a9215f01-496c-9574-cd15-bb26c658fa80",
+        "create_ts": "2021-09-16T20:33:32.402Z",
+        "last_update_ts": "2021-09-16T20:34:41.672Z",
+        "active_ind": "Y",
+        "file_manager_id": "58a38f4e-0099-4e33-b67f-b62f50538254",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Wilkes Barre-Scranton/AMP - AARP PA 08 - WKB",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Wilkes Barre-Scranton/AMP - AARP PA 08 - WKB/12150134_Order_Contract_20210916034722",
+        "entity_id": "002257",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF COLORADO/PENNSYLVANIA/WEST VIRGINIA, LLC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711091915297915000,
+        "score": 0.249957
+      },
       {
         "id": "b761a73e-d400-e8fe-0cff-1d55f52e7bcc",
         "file_id": "b761a73e-d400-e8fe-0cff-1d55f52e7bcc",
@@ -187,54 +235,6 @@
         "campaign_year": "2021",
         "_version_": 1711089067803803600,
         "score": 0.249957
-      },
-      {
-        "id": "7e73c439-a142-944c-c27c-e82e27d7642c",
-        "file_id": "7e73c439-a142-944c-c27c-e82e27d7642c",
-        "file_name": "League of Conservation Voters est 0042 9.21.21-9.24.21 NAB",
-        "file_extension": "pdf",
-        "file_size": 2439421,
-        "file_status": "com_cpy",
-        "folder_id": "f2af0147-5855-6398-a25d-0c689bd5c3ba",
-        "create_ts": "2021-09-16T19:39:11.458Z",
-        "last_update_ts": "2021-09-16T19:40:21.526Z",
-        "active_ind": "Y",
-        "file_manager_id": "cd13c465-877e-4f1f-82a9-e3c1410c8af6",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/NAB",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/NAB/League of Conservation Voters est 0042 9.21.21-9.24.21 NAB",
-        "entity_id": "56527",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "DES MOINES-AMES",
-        "callsign": "KDSM-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711088496803840000,
-        "score": 0.249957
-      },
-      {
-        "id": "1058536c-fbb2-7b9b-743c-5551114ccf63",
-        "file_id": "1058536c-fbb2-7b9b-743c-5551114ccf63",
-        "file_name": "League of Conservation Voters est 0042 9.21.21-9.24.21 Contract",
-        "file_extension": "pdf",
-        "file_size": 377647,
-        "file_status": "com_cpy",
-        "folder_id": "72d7dedf-cdc4-75b3-54aa-7e3fd3577b23",
-        "create_ts": "2021-09-16T19:37:36.148Z",
-        "last_update_ts": "2021-09-16T19:38:45.634Z",
-        "active_ind": "Y",
-        "file_manager_id": "977c233d-43a8-42bb-91fd-b04f87221d4f",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/Contract",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/Contract/League of Conservation Voters est 0042 9.21.21-9.24.21 Contract",
-        "entity_id": "56527",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "DES MOINES-AMES",
-        "callsign": "KDSM-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711088396248547300,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -412,7 +412,7 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126487,
-        "2021": 12917,
+        "2021": 12919,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -453,14 +453,14 @@
       },
       "source_service_code": {
         "TV": 232776,
-        "CABLE": 111976,
+        "CABLE": 111978,
         "FM": 107556,
         "AM": 40114,
         "DBS": 5117
       },
       "political_file_type": {
         "PA": 217401,
-        "NCIA": 114942
+        "NCIA": 114944
       }
     }
   },
@@ -476,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1700,
-    "processTime": 707,
-    "responseTime": 1707
+    "queryTime": 207,
+    "processTime": 215,
+    "responseTime": 215
   }
 }
