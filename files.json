@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 497081,
+    "numFound": 497082,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "908018b3-7841-1fd4-16b0-77c5d3a4e8e3",
+        "file_id": "908018b3-7841-1fd4-16b0-77c5d3a4e8e3",
+        "file_name": "Power To The Patients-WWO_revised by network 9-15-21-see original for page 2 station information",
+        "file_extension": "pdf",
+        "file_size": 301095,
+        "file_status": "com_cpy",
+        "folder_id": "58f980b9-3a37-7301-bacf-c19da0d36fc2",
+        "create_ts": "2021-09-16T11:42:41.136Z",
+        "last_update_ts": "2021-09-16T11:43:50.671Z",
+        "active_ind": "Y",
+        "file_manager_id": "96a8cd38-0316-4ba6-93f1-74c6f98b9962",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Power to the Patients",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Power to the Patients/Power To The Patients-WWO_revised by network 9-15-21-see original for page 2 station information",
+        "entity_id": "35557",
+        "source_service_code": "AM",
+        "callsign": "KROS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711058517266268200,
+        "score": 0.0001249785
+      },
       {
         "id": "5a8b55bb-e1c7-76c9-c4df-efbba3988a52",
         "file_id": "5a8b55bb-e1c7-76c9-c4df-efbba3988a52",
@@ -202,28 +224,6 @@
         "campaign_year": "2021",
         "_version_": 1711006865945526300,
         "score": 0.249957
-      },
-      {
-        "id": "03d1aa6c-32fb-ef84-3fd3-e73d162e6d5d",
-        "file_id": "03d1aa6c-32fb-ef84-3fd3-e73d162e6d5d",
-        "file_name": "09-15-21 Power to the Patients KCSR",
-        "file_extension": "pdf",
-        "file_size": 2929381,
-        "file_status": "com_cpy",
-        "folder_id": "72596d6b-d527-8fef-27cf-cfff46889934",
-        "create_ts": "2021-09-15T22:00:40.522Z",
-        "last_update_ts": "2021-09-15T22:01:50.035Z",
-        "active_ind": "Y",
-        "file_manager_id": "7e7999f0-8542-43f4-a592-1f277f245740",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/09-15-21 Power to the Patients KCSR",
-        "entity_id": "10081",
-        "source_service_code": "AM",
-        "callsign": "KCSR",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711006800988340200,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -401,7 +401,7 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126487,
-        "2021": 12464,
+        "2021": 12465,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -444,12 +444,12 @@
         "TV": 232745,
         "CABLE": 111565,
         "FM": 107546,
-        "AM": 40108,
+        "AM": 40109,
         "DBS": 5117
       },
       "political_file_type": {
         "PA": 217397,
-        "NCIA": 114493
+        "NCIA": 114494
       }
     }
   },
@@ -465,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 201,
-    "processTime": 211,
-    "responseTime": 211
+    "queryTime": 209,
+    "processTime": 220,
+    "responseTime": 220
   }
 }
