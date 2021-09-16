@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 497076,
+    "numFound": 497077,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "b85aba81-49e5-2bfb-e6c9-8948c487adb4",
+        "file_id": "b85aba81-49e5-2bfb-e6c9-8948c487adb4",
+        "file_name": "Time Brokerage Agreement - Kupuna Wiki 091421",
+        "file_extension": "pdf",
+        "file_size": 677019,
+        "file_status": "com_cpy",
+        "folder_id": "51374516-d2d7-9af0-638b-21379ad9c941",
+        "create_ts": "2021-09-15T23:45:06.702Z",
+        "last_update_ts": "2021-09-15T23:46:15.913Z",
+        "active_ind": "Y",
+        "file_manager_id": "9774a9cf-bb16-46d5-b965-703c86fbe40c",
+        "file_folder_path": "Time Brokerage Agreements",
+        "full_qualified_file_name": "Time Brokerage Agreements/Time Brokerage Agreement - Kupuna Wiki 091421",
+        "entity_id": "16742",
+        "source_service_code": "AM",
+        "callsign": "KHNR",
+        "non_political_file_folder": "Time Brokerage Agreements",
+        "_version_": 1711013371212464000,
+        "score": 0.249957
+      },
       {
         "id": "8d34ebc4-3d63-1441-85b6-e29c951aa717",
         "file_id": "8d34ebc4-3d63-1441-85b6-e29c951aa717",
@@ -204,30 +225,6 @@
         "office_type": "State",
         "campaign_year": "2021",
         "_version_": 1711000251555381200,
-        "score": 0.249957
-      },
-      {
-        "id": "cc85a77d-8dfc-eb32-dfb9-e1cbf13d8f72",
-        "file_id": "cc85a77d-8dfc-eb32-dfb9-e1cbf13d8f72",
-        "file_name": "Univision Non Candidate- Issue Ads Intake- AARP  AARP21129H-Counting on- 30s-091521",
-        "file_extension": "docx",
-        "file_size": 47354,
-        "file_status": "com_prc",
-        "folder_id": "8baa2e5c-4fc7-f952-7ecd-5bab7bef00a6",
-        "create_ts": "2021-09-15T20:14:49.082Z",
-        "last_update_ts": "2021-09-15T20:16:00.41Z",
-        "active_ind": "Y",
-        "file_manager_id": "9165fb8a-1edf-4c83-956b-c2587c3f83ae",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AARP Prescription Prices 2",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AARP Prescription Prices 2/Univision Non Candidate- Issue Ads Intake- AARP  AARP21129H-Counting on- 30s-091521",
-        "entity_id": "60560",
-        "source_service_code": "TV",
-        "network_affiliation": "UNIVISION",
-        "nielsen_dma_rank": "PHILADELPHIA",
-        "callsign": "WUVP-DT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711000142949122000,
         "score": 0.249957
       }
     ],
@@ -433,7 +430,7 @@
         "Class A TV Continuing Eligibility": 633,
         "Political Matters and Controversial Issues Disclosures": 560,
         "State and Local Franchising Related Materials": 475,
-        "Time Brokerage Agreements": 400,
+        "Time Brokerage Agreements": 401,
         "Channels Delivered": 275,
         "Compatibility with Consumer Electronics Equipment": 142,
         "Information on Third-Party Fundraising - For NCE Stations Only": 85,
@@ -449,7 +446,7 @@
         "TV": 232745,
         "CABLE": 111565,
         "FM": 107545,
-        "AM": 40104,
+        "AM": 40105,
         "DBS": 5117
       },
       "political_file_type": {
@@ -470,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 220,
-    "responseTime": 220
+    "queryTime": 200,
+    "processTime": 209,
+    "responseTime": 210
   }
 }
