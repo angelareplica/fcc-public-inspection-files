@@ -5,6 +5,27 @@
     "maxScore": 0.500164,
     "docs": [
       {
+        "id": "7e323adc-8e93-8ae1-4185-d795fd481f5c",
+        "file_id": "7e323adc-8e93-8ae1-4185-d795fd481f5c",
+        "file_name": "WLEL-FM-Time Brokerage Agreement TBA 20210916-011047123",
+        "file_extension": "pdf",
+        "file_size": 5223289,
+        "file_status": "com_cpy",
+        "folder_id": "86ab925e-4e94-0864-15d7-d93fa7650070",
+        "create_ts": "2021-09-17T05:47:01.758Z",
+        "last_update_ts": "2021-09-17T06:24:00.914Z",
+        "active_ind": "Y",
+        "file_manager_id": "ee12032f-e801-4f92-91cb-5ce3bff156ed",
+        "file_folder_path": "FCC Authorizations/Additional Documents/Time Brokerage Agreements TBA/TBA",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/Time Brokerage Agreements TBA/TBA/WLEL-FM-Time Brokerage Agreement TBA 20210916-011047123",
+        "entity_id": "165968",
+        "source_service_code": "FM",
+        "callsign": "WLEL",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1711128992034062300,
+        "score": 0.249957
+      },
+      {
         "id": "4a667465-8a3a-80ed-5b47-b3366eef4a82",
         "file_id": "4a667465-8a3a-80ed-5b47-b3366eef4a82",
         "file_name": "chief-operator-20210916-011047123",
@@ -13,7 +34,7 @@
         "file_status": "com_cpy",
         "folder_id": "89ec0c9a-2c51-4db8-a047-85090c6d2042",
         "create_ts": "2021-09-17T05:11:06.471Z",
-        "last_update_ts": "2021-09-17T06:22:39.837Z",
+        "last_update_ts": "2021-09-17T06:22:51.544Z",
         "active_ind": "Y",
         "file_manager_id": "a2bd568c-0da5-4220-a558-8d6df15c0b78",
         "file_folder_path": "FCC Authorizations/Additional Documents",
@@ -22,28 +43,7 @@
         "source_service_code": "FM",
         "callsign": "WLEL",
         "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1711128907013423000,
-        "score": 0.249957
-      },
-      {
-        "id": "7e323adc-8e93-8ae1-4185-d795fd481f5c",
-        "file_id": "7e323adc-8e93-8ae1-4185-d795fd481f5c",
-        "file_name": "WLEL-FM-Time Brokerage Agreement TBA 20210916-0020965596",
-        "file_extension": "pdf",
-        "file_size": 5223289,
-        "file_status": "com_cpy",
-        "folder_id": "86ab925e-4e94-0864-15d7-d93fa7650070",
-        "create_ts": "2021-09-17T05:47:01.758Z",
-        "last_update_ts": "2021-09-17T05:48:12.737Z",
-        "active_ind": "Y",
-        "file_manager_id": "ee12032f-e801-4f92-91cb-5ce3bff156ed",
-        "file_folder_path": "FCC Authorizations/Additional Documents/Time Brokerage Agreements TBA/TBA",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/Time Brokerage Agreements TBA/TBA/WLEL-FM-Time Brokerage Agreement TBA 20210916-0020965596",
-        "entity_id": "165968",
-        "source_service_code": "FM",
-        "callsign": "WLEL",
-        "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1711126739514556400,
+        "_version_": 1711128919284908000,
         "score": 0.249957
       },
       {
@@ -476,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 63,
-    "processTime": 87,
-    "responseTime": 87
+    "queryTime": 206,
+    "processTime": 216,
+    "responseTime": 217
   }
 }
