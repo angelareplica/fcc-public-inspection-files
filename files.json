@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 498005,
+    "numFound": 498006,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "c7e700f9-9b50-b2ed-83a0-e0fd2a9815c3",
+        "file_id": "c7e700f9-9b50-b2ed-83a0-e0fd2a9815c3",
+        "file_name": "NAB  - Issue (Non-Candidate) Advertisement Agreement Form - CFG - NJ 05",
+        "file_extension": "pdf",
+        "file_size": 1101835,
+        "file_status": "com_cpy",
+        "folder_id": "60836c27-513a-d867-f683-ad9e684f1e06",
+        "create_ts": "2021-09-18T20:29:19.356Z",
+        "last_update_ts": "2021-09-18T20:30:29.749Z",
+        "active_ind": "Y",
+        "file_manager_id": "b308905a-6c68-4b4b-93c7-6d60bad9ebc1",
+        "file_folder_path": "Political Files/2021/Local/CLUB FOR GROWTH",
+        "full_qualified_file_name": "Political Files/2021/Local/CLUB FOR GROWTH/NAB  - Issue (Non-Candidate) Advertisement Agreement Form - CFG - NJ 05",
+        "entity_id": "47535",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "NEW YORK",
+        "callsign": "WNBC",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1711272844392923100,
+        "score": 0.249957
+      },
       {
         "id": "4f557be6-e5cb-e713-cb0e-6541eb83c1e8",
         "file_id": "4f557be6-e5cb-e713-cb0e-6541eb83c1e8",
@@ -211,28 +236,6 @@
         "campaign_year": "2020",
         "_version_": 1711204466862063600,
         "score": 0.249957
-      },
-      {
-        "id": "efa04a42-fff6-99c5-c0fb-6b78311d35de",
-        "file_id": "efa04a42-fff6-99c5-c0fb-6b78311d35de",
-        "file_name": "2021-08 Amer TIMES 543383-1",
-        "file_extension": "pdf",
-        "file_size": 16827,
-        "file_status": "com_cpy",
-        "folder_id": "a53fc3b7-e097-ec97-8ffc-a5e2242850b6",
-        "create_ts": "2021-09-18T00:02:32.607Z",
-        "last_update_ts": "2021-09-18T00:03:42.235Z",
-        "active_ind": "Y",
-        "file_manager_id": "3ee83a92-5ca5-4167-a057-3ddd93207f4a",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Americans For Prosperity",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americans For Prosperity/2021-08 Amer TIMES 543383-1",
-        "entity_id": "58635",
-        "source_service_code": "AM",
-        "callsign": "WNYM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711195661621264400,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -304,7 +307,7 @@
         "GLENDIVE": 1060,
         "GREEN BAY-APPLETON": 1041,
         "ORLANDO-DAYTONA BCH-MELBRN": 1022,
-        "NEW YORK": 1013,
+        "NEW YORK": 1014,
         "LITTLE ROCK-PINE BLUFF": 1005,
         "ST. LOUIS": 1003,
         "COLUMBUS OH": 991,
@@ -340,7 +343,7 @@
       },
       "network_affiliation": {
         "ABC": 57012,
-        "NBC": 55835,
+        "NBC": 55836,
         "CBS": 37751,
         "FOX": 27205,
         "PBS": 13946,
@@ -410,7 +413,7 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126495,
-        "2021": 13355,
+        "2021": 13356,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -419,7 +422,7 @@
         "US Senate": 48366,
         "US House": 41562,
         "Presidential": 39255,
-        "Local": 22811
+        "Local": 22812
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54230,
@@ -450,14 +453,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232828,
+        "TV": 232829,
         "CABLE": 112294,
         "FM": 107600,
         "AM": 40153,
         "DBS": 5130
       },
       "political_file_type": {
-        "PA": 217469,
+        "PA": 217470,
         "NCIA": 115318
       }
     }
@@ -474,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1702,
-    "processTime": 718,
-    "responseTime": 1718
+    "queryTime": 201,
+    "processTime": 210,
+    "responseTime": 211
   }
 }
