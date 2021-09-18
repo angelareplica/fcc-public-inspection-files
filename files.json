@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 498001,
+    "numFound": 498003,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "8d1f2680-941a-4f7a-c70d-becfe4f009a6",
+        "file_id": "8d1f2680-941a-4f7a-c70d-becfe4f009a6",
+        "file_name": "2020-08-03 PC Kim Addition ORDER KHBC KHWI KTBH KWYI KKOA KBGX",
+        "file_extension": "pdf",
+        "file_size": 93745,
+        "file_status": "com_cpy",
+        "folder_id": "b26b218c-0a04-1402-9b39-7c4eae1e498d",
+        "create_ts": "2021-09-18T03:34:55.547Z",
+        "last_update_ts": "2021-09-18T03:36:05.228Z",
+        "active_ind": "Y",
+        "file_manager_id": "ccdf2d67-1a26-4e4b-8ddc-8628541e5d08",
+        "file_folder_path": "Political Files/2020/Local/Harry Kim for Mayor",
+        "full_qualified_file_name": "Political Files/2020/Local/Harry Kim for Mayor/2020-08-03 PC Kim Addition ORDER KHBC KHWI KTBH KWYI KKOA KBGX",
+        "entity_id": "70379",
+        "source_service_code": "FM",
+        "callsign": "KHBC",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2020",
+        "_version_": 1711209023551832000,
+        "score": 0.249957
+      },
+      {
+        "id": "60291f7b-478b-06a1-99f6-ed73b3bcdc14",
+        "file_id": "60291f7b-478b-06a1-99f6-ed73b3bcdc14",
+        "file_name": "Be Change Now NAB 07232020",
+        "file_extension": "pdf",
+        "file_size": 1346441,
+        "file_status": "com_cpy",
+        "folder_id": "5df8e8ad-ad56-a077-6ad6-71f68639fc97",
+        "create_ts": "2021-09-18T03:30:06.755Z",
+        "last_update_ts": "2021-09-18T03:31:17.266Z",
+        "active_ind": "Y",
+        "file_manager_id": "41dd47a3-8ec1-4203-97cb-e566d415d1d3",
+        "file_folder_path": "Political Files/2020/State/Jane Clements for Hawaii State House of Legislature",
+        "full_qualified_file_name": "Political Files/2020/State/Jane Clements for Hawaii State House of Legislature/Be Change Now NAB 07232020",
+        "entity_id": "70379",
+        "source_service_code": "FM",
+        "callsign": "KHBC",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2020",
+        "_version_": 1711208721603887000,
+        "score": 0.249957
+      },
       {
         "id": "4b7a5da3-5052-d98b-73f6-3560bf041add",
         "file_id": "4b7a5da3-5052-d98b-73f6-3560bf041add",
@@ -186,51 +232,6 @@
         "campaign_year": "2021",
         "_version_": 1711193814596583400,
         "score": 0.249957
-      },
-      {
-        "id": "b3f022df-0d82-292a-a555-500bcd498859",
-        "file_id": "b3f022df-0d82-292a-a555-500bcd498859",
-        "file_name": "CSLF 0918-1001 - 3187353 ORD",
-        "file_extension": "pdf",
-        "file_size": 168694,
-        "file_status": "com_cpy",
-        "folder_id": "64c74a5f-ca6d-0b89-a905-14d79d789e05",
-        "create_ts": "2021-09-17T23:32:28.17Z",
-        "last_update_ts": "2021-09-17T23:33:37.976Z",
-        "active_ind": "Y",
-        "file_manager_id": "13a63025-b493-40d2-b0d9-daa7625ecbb8",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/CSLF Common Sense Leadership Fund/Orders  Revisions",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/CSLF Common Sense Leadership Fund/Orders  Revisions/CSLF 0918-1001 - 3187353 ORD",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711193769712287700,
-        "score": 0.249957
-      },
-      {
-        "id": "0287857d-858d-0263-1d56-3701148616b1",
-        "file_id": "0287857d-858d-0263-1d56-3701148616b1",
-        "file_name": "Attachment 12 - WGSX Assignment of Authorization Application - 9-3-2021 -Time_Brokerage_Agreement_LMA_TBA_WBYW_Lynn_Haven_FL_Executed__5_25_2017 (1)",
-        "file_extension": "pdf",
-        "file_size": 676873,
-        "file_status": "com_cpy",
-        "folder_id": "a9343045-7f3a-558a-fdcd-4ce7d625341b",
-        "create_ts": "2021-09-17T23:27:21.485Z",
-        "last_update_ts": "2021-09-17T23:28:31.656Z",
-        "active_ind": "Y",
-        "file_manager_id": "6396e798-a958-43e7-a1e2-15994c23358a",
-        "file_folder_path": "Applications and Related Materials/Additional Documents/Assignment Related Documents/WGSX - Assignment of Authorization Application - 9-3-2021 File No 0000158597",
-        "full_qualified_file_name": "Applications and Related Materials/Additional Documents/Assignment Related Documents/WGSX - Assignment of Authorization Application - 9-3-2021 File No 0000158597/Attachment 12 - WGSX Assignment of Authorization Application - 9-3-2021 -Time_Brokerage_Agreement_LMA_TBA_WBYW_Lynn_Haven_FL_Executed__5_25_2017 (1)",
-        "entity_id": "166008",
-        "source_service_code": "FM",
-        "callsign": "WGSX",
-        "non_political_file_folder": "Applications and Related Materials",
-        "_version_": 1711193448513536000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -407,17 +408,17 @@
         "2017": 10335,
         "2018": 68058,
         "2019": 14137,
-        "2020": 126492,
+        "2020": 126494,
         "2021": 13354,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64339,
+        "State": 64340,
         "US Senate": 48366,
         "US House": 41562,
         "Presidential": 39255,
-        "Local": 22809
+        "Local": 22810
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54230,
@@ -450,12 +451,12 @@
       "source_service_code": {
         "TV": 232827,
         "CABLE": 112294,
-        "FM": 107597,
+        "FM": 107599,
         "AM": 40153,
         "DBS": 5130
       },
       "political_file_type": {
-        "PA": 217466,
+        "PA": 217468,
         "NCIA": 115317
       }
     }
@@ -472,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1704,
-    "processTime": 711,
-    "responseTime": 1712
+    "queryTime": 209,
+    "processTime": 226,
+    "responseTime": 226
   }
 }
