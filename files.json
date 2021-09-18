@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 498000,
+    "numFound": 498001,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "4b7a5da3-5052-d98b-73f6-3560bf041add",
+        "file_id": "4b7a5da3-5052-d98b-73f6-3560bf041add",
+        "file_name": "Be Change Now NAB 07232020",
+        "file_extension": "pdf",
+        "file_size": 1346441,
+        "file_status": "com_cpy",
+        "folder_id": "9eb34d00-46a6-448b-fc4f-4fb31acd6384",
+        "create_ts": "2021-09-18T03:16:45.132Z",
+        "last_update_ts": "2021-09-18T03:17:55.59Z",
+        "active_ind": "Y",
+        "file_manager_id": "2ffa83ee-4328-4217-b407-93424ce7e660",
+        "file_folder_path": "Political Files/2020/State/Jane Clements for Hawaii State House of Legislature",
+        "full_qualified_file_name": "Political Files/2020/State/Jane Clements for Hawaii State House of Legislature/Be Change Now NAB 07232020",
+        "entity_id": "164281",
+        "source_service_code": "FM",
+        "callsign": "KTBH-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2020",
+        "_version_": 1711207880990916600,
+        "score": 0.249957
+      },
       {
         "id": "334d51f0-8cb6-202c-e0b1-fe68a2d67ed7",
         "file_id": "334d51f0-8cb6-202c-e0b1-fe68a2d67ed7",
@@ -208,27 +231,6 @@
         "non_political_file_folder": "Applications and Related Materials",
         "_version_": 1711193448513536000,
         "score": 0.249957
-      },
-      {
-        "id": "f9e7e4f6-e212-d886-d980-4d38784803b9",
-        "file_id": "f9e7e4f6-e212-d886-d980-4d38784803b9",
-        "file_name": "Attachment 5 - WGSX Assignment of Authorization Application - 9-3-2021 -Equipment_and_Studio_Lease_WBYW_Lynn_Haven_FL_Executed_5_25_2017_Commencement_7_1_2017 (1)",
-        "file_extension": "pdf",
-        "file_size": 509661,
-        "file_status": "com_cpy",
-        "folder_id": "a9343045-7f3a-558a-fdcd-4ce7d625341b",
-        "create_ts": "2021-09-17T23:27:21.337Z",
-        "last_update_ts": "2021-09-17T23:28:31.178Z",
-        "active_ind": "Y",
-        "file_manager_id": "760d71dc-36f2-42fd-b24d-39fbd3040cab",
-        "file_folder_path": "Applications and Related Materials/Additional Documents/Assignment Related Documents/WGSX - Assignment of Authorization Application - 9-3-2021 File No 0000158597",
-        "full_qualified_file_name": "Applications and Related Materials/Additional Documents/Assignment Related Documents/WGSX - Assignment of Authorization Application - 9-3-2021 File No 0000158597/Attachment 5 - WGSX Assignment of Authorization Application - 9-3-2021 -Equipment_and_Studio_Lease_WBYW_Lynn_Haven_FL_Executed_5_25_2017_Commencement_7_1_2017 (1)",
-        "entity_id": "166008",
-        "source_service_code": "FM",
-        "callsign": "WGSX",
-        "non_political_file_folder": "Applications and Related Materials",
-        "_version_": 1711193448013365200,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -405,13 +407,13 @@
         "2017": 10335,
         "2018": 68058,
         "2019": 14137,
-        "2020": 126491,
+        "2020": 126492,
         "2021": 13354,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64338,
+        "State": 64339,
         "US Senate": 48366,
         "US House": 41562,
         "Presidential": 39255,
@@ -448,12 +450,12 @@
       "source_service_code": {
         "TV": 232827,
         "CABLE": 112294,
-        "FM": 107596,
+        "FM": 107597,
         "AM": 40153,
         "DBS": 5130
       },
       "political_file_type": {
-        "PA": 217465,
+        "PA": 217466,
         "NCIA": 115317
       }
     }
@@ -470,8 +472,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1702,
-    "processTime": 712,
-    "responseTime": 1713
+    "queryTime": 1704,
+    "processTime": 711,
+    "responseTime": 1712
   }
 }
