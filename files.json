@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 498006,
+    "numFound": 498007,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "36ebd965-1893-96fd-19db-d57efd893d8f",
+        "file_id": "36ebd965-1893-96fd-19db-d57efd893d8f",
+        "file_name": "Issue Fair Fight Action 09-2021_3",
+        "file_extension": "pdf",
+        "file_size": 140762,
+        "file_status": "com_cpy",
+        "folder_id": "ae05bb9f-b8b9-a661-8302-8a31ce1c357a",
+        "create_ts": "2021-09-19T16:15:54.916Z",
+        "last_update_ts": "2021-09-19T16:17:05.272Z",
+        "active_ind": "Y",
+        "file_manager_id": "9c4565c4-47eb-45cd-befe-4149d45e8fde",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Issue Fair Fight Action 09-2021_3",
+        "entity_id": "41990",
+        "source_service_code": "FM",
+        "callsign": "WQMJ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711347498066378800,
+        "score": 0.249957
+      },
       {
         "id": "c7e700f9-9b50-b2ed-83a0-e0fd2a9815c3",
         "file_id": "c7e700f9-9b50-b2ed-83a0-e0fd2a9815c3",
@@ -213,29 +235,6 @@
         "campaign_year": "2020",
         "_version_": 1711204794259996700,
         "score": 0.249957
-      },
-      {
-        "id": "8ffd7369-7584-bab8-acc4-4c02717ac203",
-        "file_id": "8ffd7369-7584-bab8-acc4-4c02717ac203",
-        "file_name": "Be Change Now NAB 07232020",
-        "file_extension": "pdf",
-        "file_size": 1346441,
-        "file_status": "com_cpy",
-        "folder_id": "e7631a8c-393c-0bcd-7d85-7fe058038516",
-        "create_ts": "2021-09-18T02:22:28.673Z",
-        "last_update_ts": "2021-09-18T02:23:39.606Z",
-        "active_ind": "Y",
-        "file_manager_id": "a842314d-8a84-4c97-9937-661c3f7a7f94",
-        "file_folder_path": "Political Files/2020/State/Jane Clements for Hawaii State House of Legislature",
-        "full_qualified_file_name": "Political Files/2020/State/Jane Clements for Hawaii State House of Legislature/Be Change Now NAB 07232020",
-        "entity_id": "12244",
-        "source_service_code": "FM",
-        "callsign": "KWYI",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2020",
-        "_version_": 1711204466862063600,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -413,7 +412,7 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126495,
-        "2021": 13356,
+        "2021": 13357,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -455,13 +454,13 @@
       "source_service_code": {
         "TV": 232829,
         "CABLE": 112294,
-        "FM": 107600,
+        "FM": 107601,
         "AM": 40153,
         "DBS": 5130
       },
       "political_file_type": {
         "PA": 217470,
-        "NCIA": 115318
+        "NCIA": 115319
       }
     }
   },
@@ -477,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 63,
-    "processTime": 71,
-    "responseTime": 72
+    "queryTime": 201,
+    "processTime": 208,
+    "responseTime": 208
   }
 }
