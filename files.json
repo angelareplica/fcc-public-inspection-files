@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 498023,
+    "numFound": 498025,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "5ec813f1-3e4e-3a23-5b28-13f9cb41e107",
+        "file_id": "5ec813f1-3e4e-3a23-5b28-13f9cb41e107",
+        "file_name": "CSLF 09.18.21-10.01.21 913050 Order",
+        "file_extension": "pdf",
+        "file_size": 55004,
+        "file_status": "com_cpy",
+        "folder_id": "5c3a8abd-5a48-fe72-d7ac-18b472e43d03",
+        "create_ts": "2021-09-19T21:49:54.357Z",
+        "last_update_ts": "2021-09-19T21:51:04.985Z",
+        "active_ind": "Y",
+        "file_manager_id": "f8ad2c5d-2cb6-4d3b-8635-223031e72cff",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Common Sense Leadership Fund",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Common Sense Leadership Fund/CSLF 09.18.21-10.01.21 913050 Order",
+        "entity_id": "74100",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KTNV-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711368511117328400,
+        "score": 0.249957
+      },
+      {
+        "id": "99d6bdc2-24a2-b276-f369-4f156112b8a3",
+        "file_id": "99d6bdc2-24a2-b276-f369-4f156112b8a3",
+        "file_name": "BMA 09.13.21-09.26.21 913074 Order",
+        "file_extension": "pdf",
+        "file_size": 25019,
+        "file_status": "com_cpy",
+        "folder_id": "d49f4e3e-0bc0-6134-24c7-97809d8177e6",
+        "create_ts": "2021-09-19T21:47:54.343Z",
+        "last_update_ts": "2021-09-19T21:49:04.639Z",
+        "active_ind": "Y",
+        "file_manager_id": "90a8c550-dabc-42fc-95b5-fcd88f37ecf2",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Better Medicare Alliance",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Better Medicare Alliance/BMA 09.13.21-09.26.21 913074 Order",
+        "entity_id": "74100",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KTNV-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711368384941129700,
+        "score": 0.249957
+      },
       {
         "id": "5d8e8731-0c70-16e7-7f36-45f51eb07efa",
         "file_id": "5d8e8731-0c70-16e7-7f36-45f51eb07efa",
@@ -171,48 +219,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1711361924293197800,
         "score": 0.249957
-      },
-      {
-        "id": "466a5abd-d7f3-c12d-91b6-5444480ffa85",
-        "file_id": "466a5abd-d7f3-c12d-91b6-5444480ffa85",
-        "file_name": "FCC EEO Audit Letter-08-06-2021",
-        "file_extension": "pdf",
-        "file_size": 451853,
-        "file_status": "com_cpy",
-        "folder_id": "e7dcea28-413d-ee66-66fe-cc81aa7fec25",
-        "create_ts": "2021-09-19T18:21:18.933Z",
-        "last_update_ts": "2021-09-19T18:22:31.113Z",
-        "active_ind": "Y",
-        "file_manager_id": "c4febebf-c8a0-40b2-b0f7-4b0e2afb010b",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints/FCC EEO Audit Letter-08-06-2021",
-        "entity_id": "67816",
-        "source_service_code": "FM",
-        "callsign": "KWYL",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1711355392048496600,
-        "score": 0.249957
-      },
-      {
-        "id": "1e1b3b0a-e873-2271-d089-194932dbb521",
-        "file_id": "1e1b3b0a-e873-2271-d089-194932dbb521",
-        "file_name": "Cumulus-Reno EEO Audit Response-09-19-2021",
-        "file_extension": "pdf",
-        "file_size": 2464963,
-        "file_status": "com_cpy",
-        "folder_id": "e7dcea28-413d-ee66-66fe-cc81aa7fec25",
-        "create_ts": "2021-09-19T18:20:55.168Z",
-        "last_update_ts": "2021-09-19T18:22:06.064Z",
-        "active_ind": "Y",
-        "file_manager_id": "bafe200a-7b08-45e1-84a1-6578604d9150",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints/Cumulus-Reno EEO Audit Response-09-19-2021",
-        "entity_id": "67816",
-        "source_service_code": "FM",
-        "callsign": "KWYL",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1711355363191685000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -220,7 +226,7 @@
         "DES MOINES-AMES": 8357,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7031,
         "WILKES BARRE-SCRANTON": 6673,
-        "LAS VEGAS": 5824,
+        "LAS VEGAS": 5826,
         "WEST PALM BEACH-FT. PIERCE": 5763,
         "PITTSBURGH": 5297,
         "HONOLULU": 5188,
@@ -319,7 +325,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 57012,
+        "ABC": 57014,
         "NBC": 55836,
         "CBS": 37751,
         "FOX": 27205,
@@ -390,7 +396,7 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126495,
-        "2021": 13358,
+        "2021": 13360,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -430,7 +436,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232829,
+        "TV": 232831,
         "CABLE": 112294,
         "FM": 107615,
         "AM": 40155,
@@ -438,7 +444,7 @@
       },
       "political_file_type": {
         "PA": 217470,
-        "NCIA": 115320
+        "NCIA": 115322
       }
     }
   },
@@ -454,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 214,
-    "responseTime": 214
+    "queryTime": 201,
+    "processTime": 209,
+    "responseTime": 210
   }
 }
