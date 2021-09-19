@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 498007,
+    "numFound": 498008,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "ee0e186e-cb4c-3069-69ef-81de2f28f998",
+        "file_id": "ee0e186e-cb4c-3069-69ef-81de2f28f998",
+        "file_name": "Issue Fair Fight Action 09-2021_4",
+        "file_extension": "pdf",
+        "file_size": 140709,
+        "file_status": "com_cpy",
+        "folder_id": "ae05bb9f-b8b9-a661-8302-8a31ce1c357a",
+        "create_ts": "2021-09-19T16:22:15.834Z",
+        "last_update_ts": "2021-09-19T16:23:26.13Z",
+        "active_ind": "Y",
+        "file_manager_id": "3774e1c8-b55d-4a61-9564-847d5e5fb590",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Issue Fair Fight Action 09-2021_4",
+        "entity_id": "41990",
+        "source_service_code": "FM",
+        "callsign": "WQMJ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711347897409208300,
+        "score": 0.249957
+      },
       {
         "id": "36ebd965-1893-96fd-19db-d57efd893d8f",
         "file_id": "36ebd965-1893-96fd-19db-d57efd893d8f",
@@ -212,29 +234,6 @@
         "campaign_year": "2020",
         "_version_": 1711204794372194300,
         "score": 0.249957
-      },
-      {
-        "id": "389b111d-9cbb-2fdb-deae-37aec02a190d",
-        "file_id": "389b111d-9cbb-2fdb-deae-37aec02a190d",
-        "file_name": "2020-08-03 Credit Card Payment for Mayor Kim Ad",
-        "file_extension": "pdf",
-        "file_size": 33831,
-        "file_status": "com_cpy",
-        "folder_id": "46331198-0cd2-a801-0bee-a68a08a8cddd",
-        "create_ts": "2021-09-18T02:27:42.111Z",
-        "last_update_ts": "2021-09-18T02:28:51.843Z",
-        "active_ind": "Y",
-        "file_manager_id": "d3fe960a-110a-4da2-a6c4-73a0bc8b6793",
-        "file_folder_path": "Political Files/2020/Local/Harry Kim for Mayor",
-        "full_qualified_file_name": "Political Files/2020/Local/Harry Kim for Mayor/2020-08-03 Credit Card Payment for Mayor Kim Ad",
-        "entity_id": "12244",
-        "source_service_code": "FM",
-        "callsign": "KWYI",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2020",
-        "_version_": 1711204794259996700,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -412,7 +411,7 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126495,
-        "2021": 13357,
+        "2021": 13358,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -454,13 +453,13 @@
       "source_service_code": {
         "TV": 232829,
         "CABLE": 112294,
-        "FM": 107601,
+        "FM": 107602,
         "AM": 40153,
         "DBS": 5130
       },
       "political_file_type": {
         "PA": 217470,
-        "NCIA": 115319
+        "NCIA": 115320
       }
     }
   },
@@ -476,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 201,
-    "processTime": 208,
-    "responseTime": 208
+    "queryTime": 207,
+    "processTime": 217,
+    "responseTime": 217
   }
 }
