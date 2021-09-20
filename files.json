@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 498072,
+    "numFound": 498073,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "d2fb09ba-0220-edc9-63e1-88604582ab65",
+        "file_id": "d2fb09ba-0220-edc9-63e1-88604582ab65",
+        "file_name": "WAFX EST 13900-HD75 82340988 0921-09272021 NAB FORM",
+        "file_extension": "pdf",
+        "file_size": 1379497,
+        "file_status": "com_cpy",
+        "folder_id": "6e81a3dc-2b55-3fc8-8d83-0b67f33a036e",
+        "create_ts": "2021-09-20T16:49:10.827Z",
+        "last_update_ts": "2021-09-20T16:50:21.809Z",
+        "active_ind": "Y",
+        "file_manager_id": "4f69c212-6c44-4082-96c4-335b54395a1c",
+        "file_folder_path": "Political Files/2021/State/Wachsmann",
+        "full_qualified_file_name": "Political Files/2021/State/Wachsmann/WAFX EST 13900-HD75 82340988 0921-09272021 NAB FORM",
+        "entity_id": "67082",
+        "source_service_code": "FM",
+        "callsign": "WAFX",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1711440188168732700,
+        "score": 0.249957
+      },
       {
         "id": "6c5ee71b-beb0-555e-a66b-b8c6377ca8cb",
         "file_id": "6c5ee71b-beb0-555e-a66b-b8c6377ca8cb",
@@ -200,28 +223,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1711437549699858400,
         "score": 0.249957
-      },
-      {
-        "id": "d4b30bcb-fbf6-d306-87f1-e0e593d1dfe7",
-        "file_id": "d4b30bcb-fbf6-d306-87f1-e0e593d1dfe7",
-        "file_name": "Mainers For Fair Laws__Flight 005__Sept 2021__Order__BEAR",
-        "file_extension": "pdf",
-        "file_size": 153494,
-        "file_status": "com_cpy",
-        "folder_id": "cc3a12b3-61df-13aa-fee1-e6a92f3ddd27",
-        "create_ts": "2021-09-20T16:06:37.758Z",
-        "last_update_ts": "2021-09-20T16:07:48.558Z",
-        "active_ind": "Y",
-        "file_manager_id": "6e054f73-d06b-44fe-a3c3-3e1ee756e5cb",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Mainers For Fair Laws-2021",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Mainers For Fair Laws-2021/Mainers For Fair Laws__Flight 005__Sept 2021__Order__BEAR",
-        "entity_id": "3671",
-        "source_service_code": "FM",
-        "callsign": "WBFB",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711437510902546400,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -399,12 +400,12 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126495,
-        "2021": 13389,
+        "2021": 13390,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64347,
+        "State": 64348,
         "US Senate": 48366,
         "US House": 41563,
         "Presidential": 39255,
@@ -441,12 +442,12 @@
       "source_service_code": {
         "TV": 232842,
         "CABLE": 112295,
-        "FM": 107639,
+        "FM": 107640,
         "AM": 40166,
         "DBS": 5130
       },
       "political_file_type": {
-        "PA": 217478,
+        "PA": 217479,
         "NCIA": 115343
       }
     }
@@ -463,8 +464,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 210,
-    "responseTime": 210
+    "queryTime": 1705,
+    "processTime": 714,
+    "responseTime": 1714
   }
 }
