@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 498160,
+    "numFound": 498162,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "050bc4f2-338a-1293-8ca6-462dab683540",
+        "file_id": "050bc4f2-338a-1293-8ca6-462dab683540",
+        "file_name": "Stand for Children 092221 to 092821 order 2197249",
+        "file_extension": "pdf",
+        "file_size": 817468,
+        "file_status": "com_cpy",
+        "folder_id": "077e8af7-2d0f-bca0-0e37-5c5ee5e4c9a7",
+        "create_ts": "2021-09-20T20:41:38.129Z",
+        "last_update_ts": "2021-09-20T20:42:48.984Z",
+        "active_ind": "Y",
+        "file_manager_id": "5e95954c-2ed8-45b5-bd7f-fc6bcf8a309e",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Stand for Children",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Stand for Children/Stand for Children 092221 to 092821 order 2197249",
+        "entity_id": "36912",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
+        "callsign": "WSAZ-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711454812788228000,
+        "score": 0.249957
+      },
+      {
+        "id": "79dc3797-1c38-3ed7-5786-fd458c9296e6",
+        "file_id": "79dc3797-1c38-3ed7-5786-fd458c9296e6",
+        "file_name": "Stand for Children 092221 to 092821 WQCW order 2197444",
+        "file_extension": "pdf",
+        "file_size": 643827,
+        "file_status": "com_cpy",
+        "folder_id": "68a3a5a7-1df2-672a-7456-50230b5dc3e6",
+        "create_ts": "2021-09-20T20:40:04.129Z",
+        "last_update_ts": "2021-09-20T20:41:15.087Z",
+        "active_ind": "Y",
+        "file_manager_id": "e7d0bceb-cd95-4aa8-811f-9f0544f87ef1",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Stand for Children",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Stand for Children/Stand for Children 092221 to 092821 WQCW order 2197444",
+        "entity_id": "65130",
+        "source_service_code": "TV",
+        "network_affiliation": "CW",
+        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
+        "callsign": "WQCW",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711454714331136000,
+        "score": 0.249957
+      },
       {
         "id": "a996fc3c-5b20-c79f-f24e-fcfd9c0bf2a4",
         "file_id": "a996fc3c-5b20-c79f-f24e-fcfd9c0bf2a4",
@@ -184,56 +232,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1711451244644532200,
         "score": 0.249957
-      },
-      {
-        "id": "830e6779-9bfd-b557-74cd-023429ef3b6f",
-        "file_id": "830e6779-9bfd-b557-74cd-023429ef3b6f",
-        "file_name": "WHSV WSVF - McAuliffe for Governor - NAB 09.20.21",
-        "file_extension": "pdf",
-        "file_size": 139047,
-        "file_status": "com_cpy",
-        "folder_id": "f03f3c51-f0a3-9a5a-83f9-027e55b5c730",
-        "create_ts": "2021-09-20T19:44:40.742Z",
-        "last_update_ts": "2021-09-20T19:45:51.433Z",
-        "active_ind": "Y",
-        "file_manager_id": "44e13898-98af-4296-9d8c-2d426c4d8757",
-        "file_folder_path": "Political Files/2021/State/Governor/McAuliffe for Governor",
-        "full_qualified_file_name": "Political Files/2021/State/Governor/McAuliffe for Governor/WHSV WSVF - McAuliffe for Governor - NAB 09.20.21",
-        "entity_id": "4688",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "HARRISONBURG",
-        "callsign": "WHSV-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1711451229237805000,
-        "score": 0.249957
-      },
-      {
-        "id": "e434b587-572c-b166-f9d7-abc882d9793a",
-        "file_id": "e434b587-572c-b166-f9d7-abc882d9793a",
-        "file_name": "WHSV WSVF - McAuliffe for Governor - Political File Review Form 09.20.21",
-        "file_extension": "pdf",
-        "file_size": 55571,
-        "file_status": "com_cpy",
-        "folder_id": "f03f3c51-f0a3-9a5a-83f9-027e55b5c730",
-        "create_ts": "2021-09-20T19:44:40.441Z",
-        "last_update_ts": "2021-09-20T19:45:51.053Z",
-        "active_ind": "Y",
-        "file_manager_id": "f5882ec2-6163-47c1-9479-4339cc7e9b9d",
-        "file_folder_path": "Political Files/2021/State/Governor/McAuliffe for Governor",
-        "full_qualified_file_name": "Political Files/2021/State/Governor/McAuliffe for Governor/WHSV WSVF - McAuliffe for Governor - Political File Review Form 09.20.21",
-        "entity_id": "4688",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "HARRISONBURG",
-        "callsign": "WHSV-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1711451228839346200,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -246,7 +244,7 @@
         "PITTSBURGH": 5297,
         "HONOLULU": 5188,
         "DULUTH-SUPERIOR": 4650,
-        "CHARLESTON-HUNTINGTON": 4279,
+        "CHARLESTON-HUNTINGTON": 4281,
         "PORTLAND-AUBURN": 4084,
         "TALLAHASSEE-THOMASVILLE": 3958,
         "OMAHA": 3651,
@@ -341,11 +339,11 @@
       },
       "network_affiliation": {
         "ABC": 57032,
-        "NBC": 55839,
+        "NBC": 55840,
         "CBS": 37756,
         "FOX": 27211,
         "PBS": 13949,
-        "CW": 11922,
+        "CW": 11923,
         "IND": 2981,
         "MYTV": 2217,
         "UNIVISION": 1843,
@@ -411,7 +409,7 @@
         "2018": 68057,
         "2019": 14137,
         "2020": 126495,
-        "2021": 13436,
+        "2021": 13438,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -451,7 +449,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232886,
+        "TV": 232888,
         "CABLE": 112295,
         "FM": 107669,
         "AM": 40180,
@@ -459,7 +457,7 @@
       },
       "political_file_type": {
         "PA": 217503,
-        "NCIA": 115364
+        "NCIA": 115366
       }
     }
   },
@@ -475,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1150,
-    "processTime": 158,
-    "responseTime": 1158
+    "queryTime": 208,
+    "processTime": 216,
+    "responseTime": 217
   }
 }
