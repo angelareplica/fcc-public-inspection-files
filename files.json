@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 498041,
+    "numFound": 498042,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "25d5aec8-09f0-dd6b-ece7-e143bbc68c33",
+        "file_id": "25d5aec8-09f0-dd6b-ece7-e143bbc68c33",
+        "file_name": "Mainers For Fair Laws__Flight 005__Sept 2021__Order__VOM",
+        "file_extension": "pdf",
+        "file_size": 135605,
+        "file_status": "com_cpy",
+        "folder_id": "58464196-bc98-635c-5a08-f018769127cd",
+        "create_ts": "2021-09-20T15:43:01.742Z",
+        "last_update_ts": "2021-09-20T15:44:12.267Z",
+        "active_ind": "Y",
+        "file_manager_id": "67bb0280-e671-4e84-8945-bd0b3bea7ec4",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Mainers For Fair Laws-2021",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Mainers For Fair Laws-2021/Mainers For Fair Laws__Flight 005__Sept 2021__Order__VOM",
+        "entity_id": "68660",
+        "source_service_code": "FM",
+        "callsign": "WVQM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711436025819037700,
+        "score": 0.249957
+      },
       {
         "id": "b456a933-bb9a-020d-b9f7-f935ab419a8f",
         "file_id": "b456a933-bb9a-020d-b9f7-f935ab419a8f",
@@ -216,31 +238,6 @@
         "campaign_year": "2021",
         "_version_": 1711430822712574000,
         "score": 0.249957
-      },
-      {
-        "id": "df0135fe-adef-2ac7-6984-d3af0d31d64c",
-        "file_id": "df0135fe-adef-2ac7-6984-d3af0d31d64c",
-        "file_name": "J.B. Pritzker for Governor 09.12.21",
-        "file_extension": "pdf",
-        "file_size": 402856,
-        "file_status": "com_cpy",
-        "folder_id": "3da32113-4b1b-8879-224a-5b3cec63ad81",
-        "create_ts": "2021-09-20T14:18:47.278Z",
-        "last_update_ts": "2021-09-20T14:19:57.868Z",
-        "active_ind": "Y",
-        "file_manager_id": "f120eb63-7e1b-492e-bb86-6ee90c5c070e",
-        "file_folder_path": "Political Files/2021/State/JB Pritzker for Governor/Invoices",
-        "full_qualified_file_name": "Political Files/2021/State/JB Pritzker for Governor/Invoices/J.B. Pritzker for Governor 09.12.21",
-        "entity_id": "62009",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "CHAMPAIGN&SPRNGFLD-DECATUR",
-        "callsign": "WRSP-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1711430725917474800,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -418,7 +415,7 @@
         "2018": 68058,
         "2019": 14137,
         "2020": 126495,
-        "2021": 13375,
+        "2021": 13376,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -460,13 +457,13 @@
       "source_service_code": {
         "TV": 232840,
         "CABLE": 112295,
-        "FM": 107621,
+        "FM": 107622,
         "AM": 40155,
         "DBS": 5130
       },
       "political_file_type": {
         "PA": 217478,
-        "NCIA": 115329
+        "NCIA": 115330
       }
     }
   },
@@ -482,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1705,
-    "processTime": 712,
-    "responseTime": 1713
+    "queryTime": 1701,
+    "processTime": 710,
+    "responseTime": 1711
   }
 }
