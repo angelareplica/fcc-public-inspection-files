@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 498176,
+    "numFound": 498175,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "eaa01c83-27bc-7947-0bcd-a65eee7558ad",
+        "file_id": "eaa01c83-27bc-7947-0bcd-a65eee7558ad",
+        "file_name": "KZMQ EEO Audit Response Letter executed 09202021",
+        "file_extension": "pdf",
+        "file_size": 496827,
+        "file_status": "com_cpy",
+        "folder_id": "7c1a17b8-3442-24e0-9e09-d398738a37dd",
+        "create_ts": "2021-09-20T22:26:43.24Z",
+        "last_update_ts": "2021-09-20T22:27:54.08Z",
+        "active_ind": "Y",
+        "file_manager_id": "63a69c1a-7959-4e1e-aafe-bd1a8a2c699d",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints/AUGUST 6 2021 BROADCAST EEO AUDIT",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints/AUGUST 6 2021 BROADCAST EEO AUDIT/KZMQ EEO Audit Response Letter executed 09202021",
+        "entity_id": "5245",
+        "source_service_code": "AM",
+        "callsign": "KZMQ",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1711461424133308400,
+        "score": 0.249957
+      },
       {
         "id": "16dd697d-fdbb-1ce7-8032-d9cffdd6b2a3",
         "file_id": "16dd697d-fdbb-1ce7-8032-d9cffdd6b2a3",
@@ -204,27 +225,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1711455917766082600,
         "score": 0.249957
-      },
-      {
-        "id": "b39e9dca-d2ac-1987-42da-e3519a0ba81a",
-        "file_id": "b39e9dca-d2ac-1987-42da-e3519a0ba81a",
-        "file_name": "Cumulus-Wilkes-Barre EEO Audit Response-Part 2 - 09-20-2021",
-        "file_extension": "pdf",
-        "file_size": 3719676,
-        "file_status": "com_cpy",
-        "folder_id": "05a7ca63-220b-1f11-fbf8-874c405f8431",
-        "create_ts": "2021-09-20T20:54:21.948Z",
-        "last_update_ts": "2021-09-20T20:55:33.413Z",
-        "active_ind": "Y",
-        "file_manager_id": "6ae882ae-5cfb-41f7-9c19-c14b23ee4159",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints/Cumulus-Wilkes-Barre EEO Audit Response-Part 2 - 09-20-2021",
-        "entity_id": "133",
-        "source_service_code": "FM",
-        "callsign": "WBSX",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1711455614343839700,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -416,7 +416,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54230,
         "Issues and Programs Lists": 43085,
-        "Equal Employment Opportunity Records": 36907,
+        "Equal Employment Opportunity Records": 36906,
         "Donor Lists - Applicable Only for NCEs": 11380,
         "FCC Authorizations": 7103,
         "Local Public Notice Announcements": 1725,
@@ -445,7 +445,7 @@
         "TV": 232892,
         "CABLE": 112295,
         "FM": 107677,
-        "AM": 40182,
+        "AM": 40181,
         "DBS": 5130
       },
       "political_file_type": {
@@ -466,8 +466,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1703,
-    "processTime": 711,
-    "responseTime": 1712
+    "queryTime": 1704,
+    "processTime": 710,
+    "responseTime": 1711
   }
 }
