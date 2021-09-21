@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 498306,
+    "numFound": 498308,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "abb8dab2-35e3-c226-24aa-b043b87159f1",
+        "file_id": "abb8dab2-35e3-c226-24aa-b043b87159f1",
+        "file_name": "Save the Children 092921 to 100521 order 2199547 including NAB spot Ins and Outs",
+        "file_extension": "pdf",
+        "file_size": 824965,
+        "file_status": "com_cpy",
+        "folder_id": "077e8af7-2d0f-bca0-0e37-5c5ee5e4c9a7",
+        "create_ts": "2021-09-21T19:39:04.272Z",
+        "last_update_ts": "2021-09-21T19:40:15.422Z",
+        "active_ind": "Y",
+        "file_manager_id": "ca9dd80e-0f6a-4200-8ff2-79f9057fb37a",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Stand for Children",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Stand for Children/Save the Children 092921 to 100521 order 2199547 including NAB spot Ins and Outs",
+        "entity_id": "36912",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
+        "callsign": "WSAZ-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711541473545027600,
+        "score": 0.249957
+      },
+      {
+        "id": "e29f6c07-6829-7654-b9bb-36b4b79c18ce",
+        "file_id": "e29f6c07-6829-7654-b9bb-36b4b79c18ce",
+        "file_name": "Stand For Children PAC 3189945 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 117369,
+        "file_status": "com_cpy",
+        "folder_id": "4155cef3-59ad-9d62-2207-c1dde4b66220",
+        "create_ts": "2021-09-21T19:18:13.556Z",
+        "last_update_ts": "2021-09-21T19:19:24.801Z",
+        "active_ind": "Y",
+        "file_manager_id": "baa29785-d386-4673-a417-ff265188bbc4",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Stand For Children PAC",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Stand For Children PAC/Stand For Children PAC 3189945 Rev 0",
+        "entity_id": "17010",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WYOU",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711540162179104800,
+        "score": 0.249957
+      },
       {
         "id": "9733f36e-4465-6d51-de52-94362d433f09",
         "file_id": "9733f36e-4465-6d51-de52-94362d433f09",
@@ -181,67 +229,19 @@
         "campaign_year": "2021",
         "_version_": 1711537984143097900,
         "score": 0.249957
-      },
-      {
-        "id": "137e7dc7-c75f-0c47-5124-4787e9ed20b8",
-        "file_id": "137e7dc7-c75f-0c47-5124-4787e9ed20b8",
-        "file_name": "Fair Fight--241886-091421-092021-Update",
-        "file_extension": "pdf",
-        "file_size": 162151,
-        "file_status": "com_cpy",
-        "folder_id": "b0064012-4a9e-c1a5-5c74-5ee65fb255ca",
-        "create_ts": "2021-09-21T18:43:01.433Z",
-        "last_update_ts": "2021-09-21T18:44:13.151Z",
-        "active_ind": "Y",
-        "file_manager_id": "c5781129-140b-429c-9c55-b8a4d98ee735",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Fair Fight Action",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Fair Fight Action/Fair Fight--241886-091421-092021-Update",
-        "entity_id": "43847",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "MACON",
-        "callsign": "WMGT-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711537947952545800,
-        "score": 0.249957
-      },
-      {
-        "id": "b9a935f2-000e-96c5-da0c-7aa1157885de",
-        "file_id": "b9a935f2-000e-96c5-da0c-7aa1157885de",
-        "file_name": "Fair Fight--241888-092121-092721-Update",
-        "file_extension": "pdf",
-        "file_size": 196507,
-        "file_status": "com_cpy",
-        "folder_id": "b0064012-4a9e-c1a5-5c74-5ee65fb255ca",
-        "create_ts": "2021-09-21T18:43:01.453Z",
-        "last_update_ts": "2021-09-21T18:44:13.151Z",
-        "active_ind": "Y",
-        "file_manager_id": "47e35d72-3ee3-4973-9849-ef5a98525319",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Fair Fight Action",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Fair Fight Action/Fair Fight--241888-092121-092721-Update",
-        "entity_id": "43847",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "MACON",
-        "callsign": "WMGT-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711537947954643000,
-        "score": 0.249957
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8360,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7031,
-        "WILKES BARRE-SCRANTON": 6675,
+        "WILKES BARRE-SCRANTON": 6676,
         "LAS VEGAS": 5839,
         "WEST PALM BEACH-FT. PIERCE": 5771,
         "PITTSBURGH": 5297,
         "HONOLULU": 5188,
         "DULUTH-SUPERIOR": 4650,
-        "CHARLESTON-HUNTINGTON": 4281,
+        "CHARLESTON-HUNTINGTON": 4282,
         "PORTLAND-AUBURN": 4090,
         "TALLAHASSEE-THOMASVILLE": 3958,
         "OMAHA": 3651,
@@ -336,8 +336,8 @@
       },
       "network_affiliation": {
         "ABC": 57041,
-        "NBC": 55845,
-        "CBS": 37766,
+        "NBC": 55846,
+        "CBS": 37767,
         "FOX": 27216,
         "PBS": 13949,
         "CW": 11929,
@@ -406,7 +406,7 @@
         "2018": 68057,
         "2019": 14137,
         "2020": 126496,
-        "2021": 13557,
+        "2021": 13559,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -446,7 +446,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232924,
+        "TV": 232926,
         "CABLE": 112305,
         "FM": 107745,
         "AM": 40197,
@@ -454,7 +454,7 @@
       },
       "political_file_type": {
         "PA": 217547,
-        "NCIA": 115442
+        "NCIA": 115444
       }
     }
   },
@@ -470,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1702,
-    "processTime": 711,
-    "responseTime": 1712
+    "queryTime": 202,
+    "processTime": 212,
+    "responseTime": 212
   }
 }
