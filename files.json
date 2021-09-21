@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 498312,
+    "numFound": 498311,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "c75071bd-fa50-44be-2d5c-2793f01d4d30",
+        "file_id": "c75071bd-fa50-44be-2d5c-2793f01d4d30",
+        "file_name": "20211-09-16 Sisters in Law Time Brokerage Agreement",
+        "file_extension": "pdf",
+        "file_size": 1767554,
+        "file_status": "com_cpy",
+        "folder_id": "c35783d0-3e72-b474-dda9-30052655c88d",
+        "create_ts": "2021-09-21T20:31:32.524Z",
+        "last_update_ts": "2021-09-21T20:32:43.85Z",
+        "active_ind": "Y",
+        "file_manager_id": "6331167e-7913-40a4-986e-e641e628a21c",
+        "file_folder_path": "Time Brokerage Agreements/WGTK-HD3",
+        "full_qualified_file_name": "Time Brokerage Agreements/WGTK-HD3/20211-09-16 Sisters in Law Time Brokerage Agreement",
+        "entity_id": "73296",
+        "source_service_code": "FM",
+        "callsign": "WGTK-FM",
+        "non_political_file_folder": "Time Brokerage Agreements",
+        "_version_": 1711544774884851700,
+        "score": 0.249957
+      },
       {
         "id": "d5f2b32f-0a2c-8dd3-6b7d-9c3a820c01fe",
         "file_id": "d5f2b32f-0a2c-8dd3-6b7d-9c3a820c01fe",
@@ -216,28 +237,6 @@
         "campaign_year": "2021",
         "_version_": 1711539128224448500,
         "score": 0.249957
-      },
-      {
-        "id": "a77f32c8-0385-0e1d-2110-8ab631ecf09b",
-        "file_id": "a77f32c8-0385-0e1d-2110-8ab631ecf09b",
-        "file_name": "Hala Ayala NAB - General Banned 092021",
-        "file_extension": "pdf",
-        "file_size": 145398,
-        "file_status": "com_cpy",
-        "folder_id": "a0e02a69-fd64-5db0-74ac-8d972526e651",
-        "create_ts": "2021-09-21T19:00:36.897Z",
-        "last_update_ts": "2021-09-21T19:01:47.838Z",
-        "active_ind": "Y",
-        "file_manager_id": "788edf10-e65c-4cd7-afe4-77d4e703f43f",
-        "file_folder_path": "Political Files/2021/State/Virginia/Hala Ayala VA Lieutenant Governor",
-        "full_qualified_file_name": "Political Files/2021/State/Virginia/Hala Ayala VA Lieutenant Governor/Hala Ayala NAB - General Banned 092021",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1711539053862584300,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -442,7 +441,7 @@
         "Class A TV Continuing Eligibility": 633,
         "Political Matters and Controversial Issues Disclosures": 562,
         "State and Local Franchising Related Materials": 475,
-        "Time Brokerage Agreements": 403,
+        "Time Brokerage Agreements": 402,
         "Channels Delivered": 275,
         "Compatibility with Consumer Electronics Equipment": 142,
         "Information on Third-Party Fundraising - For NCE Stations Only": 85,
@@ -457,7 +456,7 @@
       "source_service_code": {
         "TV": 232930,
         "CABLE": 112305,
-        "FM": 107745,
+        "FM": 107744,
         "AM": 40197,
         "DBS": 5135
       },
@@ -479,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1705,
-    "processTime": 712,
-    "responseTime": 1712
+    "queryTime": 1719,
+    "processTime": 727,
+    "responseTime": 1728
   }
 }
