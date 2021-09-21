@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 498219,
+    "numFound": 498220,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "79814c3e-945e-dd7c-02b9-11d2555148d7",
+        "file_id": "79814c3e-945e-dd7c-02b9-11d2555148d7",
+        "file_name": "WPEC-Sharief for FL Congress #4981646 (0921-092721) (Rev.1.0)",
+        "file_extension": "pdf",
+        "file_size": 173209,
+        "file_status": "com_cpy",
+        "folder_id": "05f9bb9c-ffbd-7e06-9390-8a174d1567e5",
+        "create_ts": "2021-09-21T14:41:18.657Z",
+        "last_update_ts": "2021-09-21T14:42:29.637Z",
+        "active_ind": "Y",
+        "file_manager_id": "069295a0-97ad-490c-966d-247ad8275070",
+        "file_folder_path": "Political Files/2021/Federal/US House/SHARIEF BARBARA - FLA HOUSE OF REP 20/ORDERS AND NABS",
+        "full_qualified_file_name": "Political Files/2021/Federal/US House/SHARIEF BARBARA - FLA HOUSE OF REP 20/ORDERS AND NABS/WPEC-Sharief for FL Congress #4981646 (0921-092721) (Rev.1.0)",
+        "entity_id": "52527",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WEST PALM BEACH-FT. PIERCE",
+        "callsign": "WPEC",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2021",
+        "_version_": 1711522739979812900,
+        "score": 0.249957
+      },
       {
         "id": "d32ed73d-84c0-c731-1854-6b1554881dd7",
         "file_id": "d32ed73d-84c0-c731-1854-6b1554881dd7",
@@ -203,28 +228,6 @@
         "campaign_year": "2021",
         "_version_": 1711511102503780400,
         "score": 0.249957
-      },
-      {
-        "id": "680ff4f6-0590-7b66-36ae-fac486079252",
-        "file_id": "680ff4f6-0590-7b66-36ae-fac486079252",
-        "file_name": "MAINERS FOR FAIR LAWS WGAN 092121-092821 Est. 10127",
-        "file_extension": "pdf",
-        "file_size": 72410,
-        "file_status": "com_cpy",
-        "folder_id": "ebbf3823-6bab-b2a0-067e-cf83c1affcbc",
-        "create_ts": "2021-09-21T11:36:20.115Z",
-        "last_update_ts": "2021-09-21T11:37:30.94Z",
-        "active_ind": "Y",
-        "file_manager_id": "30451252-5c6e-4ee3-87e9-15e81be680f3",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR FAIR LAWS WGAN 092121-092821 Est 10127",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR FAIR LAWS WGAN 092121-092821 Est 10127/MAINERS FOR FAIR LAWS WGAN 092121-092821 Est. 10127",
-        "entity_id": "58544",
-        "source_service_code": "AM",
-        "callsign": "WGAN",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711511102217519000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -233,7 +236,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7031,
         "WILKES BARRE-SCRANTON": 6674,
         "LAS VEGAS": 5834,
-        "WEST PALM BEACH-FT. PIERCE": 5764,
+        "WEST PALM BEACH-FT. PIERCE": 5765,
         "PITTSBURGH": 5297,
         "HONOLULU": 5188,
         "DULUTH-SUPERIOR": 4650,
@@ -333,7 +336,7 @@
       "network_affiliation": {
         "ABC": 57032,
         "NBC": 55841,
-        "CBS": 37762,
+        "CBS": 37763,
         "FOX": 27211,
         "PBS": 13949,
         "CW": 11923,
@@ -402,14 +405,14 @@
         "2018": 68057,
         "2019": 14137,
         "2020": 126496,
-        "2021": 13472,
+        "2021": 13473,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64378,
         "US Senate": 48367,
-        "US House": 41562,
+        "US House": 41563,
         "Presidential": 39255,
         "Local": 22813
       },
@@ -442,14 +445,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232895,
+        "TV": 232896,
         "CABLE": 112305,
         "FM": 107695,
         "AM": 40192,
         "DBS": 5132
       },
       "political_file_type": {
-        "PA": 217510,
+        "PA": 217511,
         "NCIA": 115394
       }
     }
@@ -466,8 +469,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 210,
-    "responseTime": 210
+    "queryTime": 1701,
+    "processTime": 708,
+    "responseTime": 1709
   }
 }
