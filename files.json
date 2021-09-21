@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 498218,
+    "numFound": 498219,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "d32ed73d-84c0-c731-1854-6b1554881dd7",
+        "file_id": "d32ed73d-84c0-c731-1854-6b1554881dd7",
+        "file_name": "League of Conservation Voters WXIA 2308047 1NAB 9-16-2021 ES 041 (1)",
+        "file_extension": "pdf",
+        "file_size": 1144026,
+        "file_status": "com_cpy",
+        "folder_id": "99a2e908-2978-aa1c-0209-6fab725bc20e",
+        "create_ts": "2021-09-21T13:09:23.772Z",
+        "last_update_ts": "2021-09-21T13:10:35Z",
+        "active_ind": "Y",
+        "file_manager_id": "cd55ce8c-2b82-4fd8-b54e-5456522b3637",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/PB-19s",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/PB-19s/League of Conservation Voters WXIA 2308047 1NAB 9-16-2021 ES 041 (1)",
+        "entity_id": "51163",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "ATLANTA",
+        "callsign": "WXIA-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711516957473243100,
+        "score": 0.249957
+      },
       {
         "id": "5845a2e2-c3ed-8ce0-4960-bd2488b4e2ea",
         "file_id": "5845a2e2-c3ed-8ce0-4960-bd2488b4e2ea",
@@ -201,28 +225,6 @@
         "campaign_year": "2021",
         "_version_": 1711511102217519000,
         "score": 0.249957
-      },
-      {
-        "id": "38176c1f-045c-2ec9-9dd2-47c7cb495421",
-        "file_id": "38176c1f-045c-2ec9-9dd2-47c7cb495421",
-        "file_name": "Mainers for Fair Laws 2021 NAB",
-        "file_extension": "pdf",
-        "file_size": 2249275,
-        "file_status": "com_cpy",
-        "folder_id": "72ff35cd-46ee-dd52-5ff2-6a8d0e4263b8",
-        "create_ts": "2021-09-21T11:34:57.502Z",
-        "last_update_ts": "2021-09-21T11:36:09.052Z",
-        "active_ind": "Y",
-        "file_manager_id": "e974f030-2bc9-4c6f-9736-eeeadc1976dc",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR FAIR LAWS WMGX 092121-092821 Est 10127",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR FAIR LAWS WMGX 092121-092821 Est 10127/Mainers for Fair Laws 2021 NAB",
-        "entity_id": "58548",
-        "source_service_code": "FM",
-        "callsign": "WMGX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711511016322367500,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -330,7 +332,7 @@
       },
       "network_affiliation": {
         "ABC": 57032,
-        "NBC": 55840,
+        "NBC": 55841,
         "CBS": 37762,
         "FOX": 27211,
         "PBS": 13949,
@@ -400,7 +402,7 @@
         "2018": 68057,
         "2019": 14137,
         "2020": 126496,
-        "2021": 13471,
+        "2021": 13472,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -440,7 +442,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232894,
+        "TV": 232895,
         "CABLE": 112305,
         "FM": 107695,
         "AM": 40192,
@@ -448,7 +450,7 @@
       },
       "political_file_type": {
         "PA": 217510,
-        "NCIA": 115393
+        "NCIA": 115394
       }
     }
   },
@@ -464,8 +466,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1707,
-    "processTime": 714,
-    "responseTime": 1715
+    "queryTime": 207,
+    "processTime": 216,
+    "responseTime": 216
   }
 }
