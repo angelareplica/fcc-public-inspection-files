@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 498329,
+    "numFound": 498330,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "c96427ba-f61e-9fa6-c190-96c5af9723cc",
+        "file_id": "c96427ba-f61e-9fa6-c190-96c5af9723cc",
+        "file_name": "STOP THE REPUBLICAN RECALL OF GOVERNOR NEWSOM 080221-091421 2166388-2 INVOICE",
+        "file_extension": "pdf",
+        "file_size": 470133,
+        "file_status": "com_cpy",
+        "folder_id": "888d3ee2-a7ff-bf36-8754-9adca7037062",
+        "create_ts": "2021-09-21T22:57:12.21Z",
+        "last_update_ts": "2021-09-21T22:58:23.293Z",
+        "active_ind": "Y",
+        "file_manager_id": "8788757d-c503-42b3-bb69-5fc31583a4bc",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/STOP THE REPUBLICAN RECALL OF GOVERNOR NEWSOM",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/STOP THE REPUBLICAN RECALL OF GOVERNOR NEWSOM/STOP THE REPUBLICAN RECALL OF GOVERNOR NEWSOM 080221-091421 2166388-2 INVOICE",
+        "entity_id": "10242",
+        "source_service_code": "TV",
+        "network_affiliation": "MNT",
+        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
+        "callsign": "KQCA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711553938823577600,
+        "score": 0.249957
+      },
       {
         "id": "3e6b6c6b-09be-0d5b-2b1a-1a7a24146872",
         "file_id": "3e6b6c6b-09be-0d5b-2b1a-1a7a24146872",
@@ -203,28 +227,6 @@
         "campaign_year": "2021",
         "_version_": 1711548067385180200,
         "score": 0.249957
-      },
-      {
-        "id": "992a7e8f-af1c-5a2f-ba04-6a34c233538f",
-        "file_id": "992a7e8f-af1c-5a2f-ba04-6a34c233538f",
-        "file_name": "Stop the Recall Stop the Republican Recall of Governor Gavin Newsom 090121-091421  KDES INVOICE 578516-1",
-        "file_extension": "pdf",
-        "file_size": 39335,
-        "file_status": "com_cpy",
-        "folder_id": "10ac14f0-269b-86b7-58f7-65a498c7116d",
-        "create_ts": "2021-09-21T21:20:14.062Z",
-        "last_update_ts": "2021-09-21T21:21:24.996Z",
-        "active_ind": "Y",
-        "file_manager_id": "15196f34-c5d4-4e5a-b41d-797e5605f8c7",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Stop the Recall Stop the Republican Recall of Governor Gavin Newsom/Stop the Recall Stop the Republican Recall of Governor Gavin Newsom 090121-091421",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Stop the Recall Stop the Republican Recall of Governor Gavin Newsom/Stop the Recall Stop the Republican Recall of Governor Gavin Newsom 090121-091421/Stop the Recall Stop the Republican Recall of Governor Gavin Newsom 090121-091421  KDES INVOICE 578516-1",
-        "entity_id": "24253",
-        "source_service_code": "FM",
-        "callsign": "KDES-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711547837929488400,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -248,7 +250,7 @@
         "RALEIGH-DURHAM (FAYETVLLE)": 3181,
         "MINNEAPOLIS-ST. PAUL": 3159,
         "PORTLAND OR": 3141,
-        "SACRAMNTO-STKTON-MODESTO": 2776,
+        "SACRAMNTO-STKTON-MODESTO": 2777,
         "WAUSAU-RHINELANDER": 2742,
         "KANSAS CITY": 2720,
         "FT. WAYNE": 2714,
@@ -343,7 +345,7 @@
         "MY NETWORK": 1543,
         "CBS/NBC": 1060,
         "FAMILYNET": 890,
-        "MNT": 849,
+        "MNT": 850,
         "TELEMUNDO": 826,
         "ION": 735,
         "N/A": 643,
@@ -402,7 +404,7 @@
         "2018": 68057,
         "2019": 14137,
         "2020": 126496,
-        "2021": 13579,
+        "2021": 13580,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -442,7 +444,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232933,
+        "TV": 232934,
         "CABLE": 112307,
         "FM": 107751,
         "AM": 40203,
@@ -450,7 +452,7 @@
       },
       "political_file_type": {
         "PA": 217548,
-        "NCIA": 115463
+        "NCIA": 115464
       }
     }
   },
@@ -466,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 220,
-    "responseTime": 221
+    "queryTime": 1702,
+    "processTime": 709,
+    "responseTime": 1709
   }
 }
