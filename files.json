@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 498367,
+    "numFound": 498368,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "209c325f-e522-403c-7ed9-b0f41bf86c30",
+        "file_id": "209c325f-e522-403c-7ed9-b0f41bf86c30",
+        "file_name": "Barbara Sharief 09212021",
+        "file_extension": "pdf",
+        "file_size": 856256,
+        "file_status": "com_cpy",
+        "folder_id": "c8b8da77-6325-fc08-ce0d-3ba9df82f8c6",
+        "create_ts": "2021-09-22T13:20:36.016Z",
+        "last_update_ts": "2021-09-22T13:21:47.625Z",
+        "active_ind": "Y",
+        "file_manager_id": "615996c8-7453-4128-a20f-649fa627ce11",
+        "file_folder_path": "Political Files/2021/Federal/US House/Federal Congressional District 20 Special Edition/Barbara Sharief",
+        "full_qualified_file_name": "Political Files/2021/Federal/US House/Federal Congressional District 20 Special Edition/Barbara Sharief/Barbara Sharief 09212021",
+        "entity_id": "51988",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "WEST PALM BEACH-FT. PIERCE",
+        "callsign": "WPBF",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2021",
+        "_version_": 1711608259396239400,
+        "score": 0.249957
+      },
       {
         "id": "be74f3d3-9a4d-f4fb-bdd8-6c82b4da4336",
         "file_id": "be74f3d3-9a4d-f4fb-bdd8-6c82b4da4336",
@@ -195,29 +220,6 @@
         "campaign_year": "2021",
         "_version_": 1711561913858523100,
         "score": 0.249957
-      },
-      {
-        "id": "8de5858b-c00b-9496-e111-d1731bdf9be7",
-        "file_id": "8de5858b-c00b-9496-e111-d1731bdf9be7",
-        "file_name": "09.21.21 ANDREW GRAHAM FOR SCHOOL BOARD 36179 PB FORM",
-        "file_extension": "pdf",
-        "file_size": 819928,
-        "file_status": "com_cpy",
-        "folder_id": "d01ad331-8841-3012-c6d6-be4a45f83add",
-        "create_ts": "2021-09-22T00:33:10.578Z",
-        "last_update_ts": "2021-09-22T00:34:21.975Z",
-        "active_ind": "Y",
-        "file_manager_id": "6c0ed234-31d2-474c-a3a9-0f0939cdaba6",
-        "file_folder_path": "Political Files/2021/Local/ANDREW GRAHAM FOR SCHOOL BOARD/36179",
-        "full_qualified_file_name": "Political Files/2021/Local/ANDREW GRAHAM FOR SCHOOL BOARD/36179/09.21.21 ANDREW GRAHAM FOR SCHOOL BOARD 36179 PB FORM",
-        "entity_id": "6439",
-        "source_service_code": "FM",
-        "callsign": "KWLF",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1711559977215197200,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -226,7 +228,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7031,
         "WILKES BARRE-SCRANTON": 6676,
         "LAS VEGAS": 5843,
-        "WEST PALM BEACH-FT. PIERCE": 5771,
+        "WEST PALM BEACH-FT. PIERCE": 5772,
         "PITTSBURGH": 5297,
         "HONOLULU": 5188,
         "DULUTH-SUPERIOR": 4650,
@@ -324,7 +326,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 57041,
+        "ABC": 57042,
         "NBC": 55848,
         "CBS": 37769,
         "FOX": 27218,
@@ -395,14 +397,14 @@
         "2018": 68057,
         "2019": 14137,
         "2020": 126496,
-        "2021": 13611,
+        "2021": 13612,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64390,
         "US Senate": 48392,
-        "US House": 41571,
+        "US House": 41572,
         "Presidential": 39255,
         "Local": 22831
       },
@@ -435,14 +437,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232934,
+        "TV": 232935,
         "CABLE": 112307,
         "FM": 107766,
         "AM": 40225,
         "DBS": 5135
       },
       "political_file_type": {
-        "PA": 217574,
+        "PA": 217575,
         "NCIA": 115469
       }
     }
@@ -459,8 +461,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 203,
-    "processTime": 226,
-    "responseTime": 227
+    "queryTime": 1707,
+    "processTime": 713,
+    "responseTime": 1713
   }
 }
