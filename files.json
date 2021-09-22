@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 498611,
+    "numFound": 498612,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "f90940d7-353e-a5fe-6f33-b664cf12e9a2",
+        "file_id": "f90940d7-353e-a5fe-6f33-b664cf12e9a2",
+        "file_name": "SCOTT JONES CORRECTED ORDER CONFIRMATION 09.22.21",
+        "file_extension": "pdf",
+        "file_size": 7010,
+        "file_status": "com_cpy",
+        "folder_id": "b9be20cd-79e2-271d-dccf-1298e882bf86",
+        "create_ts": "2021-09-22T23:29:50.596Z",
+        "last_update_ts": "2021-09-22T23:31:01.838Z",
+        "active_ind": "Y",
+        "file_manager_id": "a92ae4c9-2cc9-4091-9588-88a99f29fb8d",
+        "file_folder_path": "Political Files/2021/Local/SCOTT JONES CITY COUNCIL 6",
+        "full_qualified_file_name": "Political Files/2021/Local/SCOTT JONES CITY COUNCIL 6/SCOTT JONES CORRECTED ORDER CONFIRMATION 09.22.21",
+        "entity_id": "3636",
+        "source_service_code": "FM",
+        "callsign": "WAVH",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1711646589119889400,
+        "score": 0.249957
+      },
       {
         "id": "178962f1-29e1-c091-1d1f-4ed729ba5e52",
         "file_id": "178962f1-29e1-c091-1d1f-4ed729ba5e52",
@@ -213,29 +236,6 @@
         "campaign_year": "2021",
         "_version_": 1711641401635111000,
         "score": 0.249957
-      },
-      {
-        "id": "8857cc6a-ad50-dca8-5399-c3c6897c18cb",
-        "file_id": "8857cc6a-ad50-dca8-5399-c3c6897c18cb",
-        "file_name": "09.22.21 GUTTENBERG FOR FNSB ASSEMBLY 36191",
-        "file_extension": "pdf",
-        "file_size": 77534,
-        "file_status": "com_cpy",
-        "folder_id": "981eb7b9-2a64-b24e-51eb-75691fa1dfc1",
-        "create_ts": "2021-09-22T22:07:17.208Z",
-        "last_update_ts": "2021-09-22T22:08:28.453Z",
-        "active_ind": "Y",
-        "file_manager_id": "81facad4-b6a5-494d-944d-d47a518395b2",
-        "file_folder_path": "Political Files/2021/State/GUTTENBERG FOR FNSB ASSEMBLY/36191",
-        "full_qualified_file_name": "Political Files/2021/State/GUTTENBERG FOR FNSB ASSEMBLY/36191/09.22.21 GUTTENBERG FOR FNSB ASSEMBLY 36191",
-        "entity_id": "190239",
-        "source_service_code": "FM",
-        "callsign": "KWDD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1711641395139182600,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -413,7 +413,7 @@
         "2018": 68057,
         "2019": 14137,
         "2020": 126496,
-        "2021": 13841,
+        "2021": 13842,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -422,7 +422,7 @@
         "US Senate": 48394,
         "US House": 41576,
         "Presidential": 39255,
-        "Local": 22831
+        "Local": 22832
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54232,
@@ -455,12 +455,12 @@
       "source_service_code": {
         "TV": 232989,
         "CABLE": 112427,
-        "FM": 107811,
+        "FM": 107812,
         "AM": 40244,
         "DBS": 5140
       },
       "political_file_type": {
-        "PA": 217608,
+        "PA": 217609,
         "NCIA": 115665
       }
     }
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 212,
-    "responseTime": 212
+    "queryTime": 1706,
+    "processTime": 717,
+    "responseTime": 1717
   }
 }
