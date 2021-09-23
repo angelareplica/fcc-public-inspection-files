@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 498714,
+    "numFound": 498713,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "43421087-74a4-04af-3349-e8d055588cb0",
+        "file_id": "43421087-74a4-04af-3349-e8d055588cb0",
+        "file_name": "InfoTrak quarterly report, 2021-03_29.5 min",
+        "file_extension": "pdf",
+        "file_size": 240773,
+        "file_status": "com_cpy",
+        "folder_id": "fde0e621-2e64-ea97-1c37-b41d47be1ff8",
+        "create_ts": "2021-09-23T16:57:42.67Z",
+        "last_update_ts": "2021-09-23T16:58:54.339Z",
+        "active_ind": "Y",
+        "file_manager_id": "406e4142-79d8-4c94-a6bf-8f64fc2ff75a",
+        "file_folder_path": "Issues and Programs Lists/infotracks 2021",
+        "full_qualified_file_name": "Issues and Programs Lists/infotracks 2021/InfoTrak quarterly report, 2021-03_29.5 min",
+        "entity_id": "49706",
+        "source_service_code": "FM",
+        "callsign": "WEQX",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1711712515470131200,
+        "score": 0.249957
+      },
       {
         "id": "ca18386a-5c27-eab6-7d93-e16639a8ed56",
         "file_id": "ca18386a-5c27-eab6-7d93-e16639a8ed56",
@@ -207,33 +228,11 @@
         "campaign_year": "2021",
         "_version_": 1711709297455399000,
         "score": 0.249957
-      },
-      {
-        "id": "81c29e1f-b5c9-abcb-5381-e046bee42605",
-        "file_id": "81c29e1f-b5c9-abcb-5381-e046bee42605",
-        "file_name": "JOHN COX FOR GOVERNOR-6221410-0777-9.7 - 9.19-SEPT FINAL INVOICE",
-        "file_extension": "pdf",
-        "file_size": 4912,
-        "file_status": "com_cpy",
-        "folder_id": "1d477975-b9ad-98ca-d740-0b8150197c05",
-        "create_ts": "2021-09-23T16:06:33.706Z",
-        "last_update_ts": "2021-09-23T16:07:45.158Z",
-        "active_ind": "Y",
-        "file_manager_id": "100cfe03-cee5-496e-b41e-4feefe9834e3",
-        "file_folder_path": "Political Files/2021/State/California/John Cox CA Governor",
-        "full_qualified_file_name": "Political Files/2021/State/California/John Cox CA Governor/JOHN COX FOR GOVERNOR-6221410-0777-9.7 - 9.19-SEPT FINAL INVOICE",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1711709297222615000,
-        "score": 0.249957
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
-        "DES MOINES-AMES": 8366,
+        "DES MOINES-AMES": 8364,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7031,
         "WILKES BARRE-SCRANTON": 6693,
         "LAS VEGAS": 5856,
@@ -339,7 +338,7 @@
         "NBC": 55861,
         "CBS": 37782,
         "FOX": 27225,
-        "PBS": 13952,
+        "PBS": 13950,
         "CW": 11934,
         "IND": 2981,
         "MYTV": 2217,
@@ -419,8 +418,8 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54233,
-        "Issues and Programs Lists": 43093,
-        "Equal Employment Opportunity Records": 36923,
+        "Issues and Programs Lists": 43094,
+        "Equal Employment Opportunity Records": 36921,
         "Donor Lists - Applicable Only for NCEs": 11382,
         "FCC Authorizations": 7112,
         "Local Public Notice Announcements": 1725,
@@ -446,9 +445,9 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233011,
+        "TV": 233009,
         "CABLE": 112491,
-        "FM": 107816,
+        "FM": 107817,
         "AM": 40254,
         "DBS": 5142
       },
@@ -470,8 +469,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1786,
-    "processTime": 795,
-    "responseTime": 1796
+    "queryTime": 208,
+    "processTime": 215,
+    "responseTime": 216
   }
 }
