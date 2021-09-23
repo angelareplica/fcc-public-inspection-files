@@ -1,9 +1,54 @@
 {
   "response": {
-    "numFound": 498763,
+    "numFound": 498765,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "94ebf470-7a27-fa61-53e5-28b0c05e6b88",
+        "file_id": "94ebf470-7a27-fa61-53e5-28b0c05e6b88",
+        "file_name": "WGKA Americans for Prosperity 092321 order & NAB PB-19",
+        "file_extension": "pdf",
+        "file_size": 2248902,
+        "file_status": "com_cpy",
+        "folder_id": "7ce33828-c16a-5dde-751e-f06330c1abae",
+        "create_ts": "2021-09-23T21:40:12.635Z",
+        "last_update_ts": "2021-09-23T21:41:24.912Z",
+        "active_ind": "Y",
+        "file_manager_id": "5e96fd50-3ad2-442a-a6f8-b73479b4eded",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Americans For Prosperity",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americans For Prosperity/WGKA Americans for Prosperity 092321 order & NAB PB-19",
+        "entity_id": "65976",
+        "source_service_code": "AM",
+        "callsign": "WGKA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711730289371250700,
+        "score": 0.249957
+      },
+      {
+        "id": "71db3a51-5f87-e8b6-72c1-124219121d61",
+        "file_id": "71db3a51-5f87-e8b6-72c1-124219121d61",
+        "file_name": "Fred Weinberg - Invoice 4320 - September 2021 for 5000 00",
+        "file_extension": "pdf",
+        "file_size": 15053,
+        "file_status": "com_cpy",
+        "folder_id": "9bee198f-6e9b-f76e-69b3-341537be7c2c",
+        "create_ts": "2021-09-23T21:37:12.809Z",
+        "last_update_ts": "2021-09-23T21:38:24.376Z",
+        "active_ind": "Y",
+        "file_manager_id": "dd0abe22-e007-45a6-a3ad-012823f84ace",
+        "file_folder_path": "Political Files/2021/State/Fred Simon-R-Governor",
+        "full_qualified_file_name": "Political Files/2021/State/Fred Simon-R-Governor/Fred Weinberg - Invoice 4320 - September 2021 for 5000 00",
+        "entity_id": "55462",
+        "source_service_code": "AM",
+        "callsign": "KELY",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1711730100059242500,
+        "score": 0.249957
+      },
       {
         "id": "b28cda7f-7629-20a0-23eb-112cecbc9fb9",
         "file_id": "b28cda7f-7629-20a0-23eb-112cecbc9fb9",
@@ -178,50 +223,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1711728170355392500,
-        "score": 0.249957
-      },
-      {
-        "id": "39a97c66-86a3-4976-901d-7e7c534bc882",
-        "file_id": "39a97c66-86a3-4976-901d-7e7c534bc882",
-        "file_name": "Americans for Prosperity Spot Approval Est 9249NH 09.23.21",
-        "file_extension": "pdf",
-        "file_size": 117027,
-        "file_status": "com_cpy",
-        "folder_id": "ad49d4c1-5e96-c33a-df3f-911c6783835c",
-        "create_ts": "2021-09-23T21:02:02.77Z",
-        "last_update_ts": "2021-09-23T21:03:14.426Z",
-        "active_ind": "Y",
-        "file_manager_id": "5a85e6f4-167d-4333-87bd-dd25c0de2a6e",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity/09-24-21 - 09-30-21",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity/09-24-21 - 09-30-21/Americans for Prosperity Spot Approval Est 9249NH 09.23.21",
-        "entity_id": "22887",
-        "source_service_code": "FM",
-        "callsign": "WOKQ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711727887625748500,
-        "score": 0.249957
-      },
-      {
-        "id": "7d274f9a-df24-3cae-f8e7-0798a0be6c8b",
-        "file_id": "7d274f9a-df24-3cae-f8e7-0798a0be6c8b",
-        "file_name": "Americans for Prosperity WOKQ Katz IO Est 9249NH 09.24.21-09.30.21",
-        "file_extension": "pdf",
-        "file_size": 59059,
-        "file_status": "com_cpy",
-        "folder_id": "ad49d4c1-5e96-c33a-df3f-911c6783835c",
-        "create_ts": "2021-09-23T21:02:01.449Z",
-        "last_update_ts": "2021-09-23T21:03:13.01Z",
-        "active_ind": "Y",
-        "file_manager_id": "abd49d99-bef2-40ca-acc5-b8598396d4ab",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity/09-24-21 - 09-30-21",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity/09-24-21 - 09-30-21/Americans for Prosperity WOKQ Katz IO Est 9249NH 09.24.21-09.30.21",
-        "entity_id": "22887",
-        "source_service_code": "FM",
-        "callsign": "WOKQ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711727886132576300,
         "score": 0.249957
       }
     ],
@@ -400,12 +401,12 @@
         "2018": 68057,
         "2019": 14137,
         "2020": 126496,
-        "2021": 13964,
+        "2021": 13966,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64424,
+        "State": 64425,
         "US Senate": 48394,
         "US House": 41576,
         "Presidential": 39255,
@@ -443,12 +444,12 @@
         "TV": 233022,
         "CABLE": 112494,
         "FM": 107831,
-        "AM": 40272,
+        "AM": 40274,
         "DBS": 5144
       },
       "political_file_type": {
-        "PA": 217620,
-        "NCIA": 115776
+        "PA": 217621,
+        "NCIA": 115777
       }
     }
   },
@@ -464,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1702,
-    "processTime": 711,
-    "responseTime": 1711
+    "queryTime": 1708,
+    "processTime": 715,
+    "responseTime": 1715
   }
 }
