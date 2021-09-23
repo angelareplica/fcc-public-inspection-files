@@ -1,9 +1,79 @@
 {
   "response": {
-    "numFound": 498725,
+    "numFound": 498728,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "39cb7d10-7405-861b-db8a-9d1b132583da",
+        "file_id": "39cb7d10-7405-861b-db8a-9d1b132583da",
+        "file_name": "FAIR FIGHT ACTION 092321 ORDER REVISED",
+        "file_extension": "pdf",
+        "file_size": 131512,
+        "file_status": "com_cpy",
+        "folder_id": "c49c0ef0-09da-d131-e28d-3ef49c14e81e",
+        "create_ts": "2021-09-23T18:34:01.221Z",
+        "last_update_ts": "2021-09-23T18:50:05.58Z",
+        "active_ind": "Y",
+        "file_manager_id": "5858f727-449b-41ba-82d4-05c996f75d0d",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Fair Fight Action/Fair Fight Action 9-21-21 - 9-26-21 - ORDER 2175073",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Fair Fight Action/Fair Fight Action 9-21-21 - 9-26-21 - ORDER 2175073/FAIR FIGHT ACTION 092321 ORDER REVISED",
+        "entity_id": "53905",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "Greenville-Spartanburg-Asheville-Anderson",
+        "callsign": "WYFF",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1711719092807794700,
+        "score": 0.249957
+      },
+      {
+        "id": "819d9557-c127-069a-74af-62d92c4e9301",
+        "file_id": "819d9557-c127-069a-74af-62d92c4e9301",
+        "file_name": "12120 Dupage County, IL 2021",
+        "file_extension": "pdf",
+        "file_size": 173983,
+        "file_status": "com_cpy",
+        "folder_id": "ed663350-8857-7b01-832f-2c3e838bdfe9",
+        "create_ts": "2021-09-23T18:28:41.548Z",
+        "last_update_ts": "2021-09-23T18:29:53.271Z",
+        "active_ind": "Y",
+        "file_manager_id": "d010d5c3-959c-45be-a69c-4f3deb33be9f",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/12120 Dupage County, IL 2021",
+        "entity_id": "006193",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS VI INC",
+        "operator_city_name": "Philadelphia",
+        "operator_state_name": "PA",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1711718239561580500,
+        "score": 0.0001249785
+      },
+      {
+        "id": "2182c086-2385-c603-a729-611b2eb6a4d7",
+        "file_id": "2182c086-2385-c603-a729-611b2eb6a4d7",
+        "file_name": "11936 Dupage County, IL 2021",
+        "file_extension": "pdf",
+        "file_size": 313123,
+        "file_status": "com_cpy",
+        "folder_id": "ed663350-8857-7b01-832f-2c3e838bdfe9",
+        "create_ts": "2021-09-23T18:28:27.046Z",
+        "last_update_ts": "2021-09-23T18:29:38.732Z",
+        "active_ind": "Y",
+        "file_manager_id": "a67a6844-f1ec-454e-ad36-57236c75d340",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/11936 Dupage County, IL 2021",
+        "entity_id": "006193",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS VI INC",
+        "operator_city_name": "Philadelphia",
+        "operator_state_name": "PA",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1711718224304799700,
+        "score": 0.0001249785
+      },
       {
         "id": "7b85b69d-ab1c-8de8-c3e4-fd5cefb8dd66",
         "file_id": "7b85b69d-ab1c-8de8-c3e4-fd5cefb8dd66",
@@ -152,69 +222,6 @@
         "non_political_file_folder": "Local Public Notice Announcements",
         "_version_": 1711715290963771400,
         "score": 0.249957
-      },
-      {
-        "id": "903dbc8a-cca0-3225-a698-5321bc98f69d",
-        "file_id": "903dbc8a-cca0-3225-a698-5321bc98f69d",
-        "file_name": "2020 WBLC Station License Renewal 04 - Event Log 02-01-2020",
-        "file_extension": "pdf",
-        "file_size": 114252,
-        "file_status": "com_cpy",
-        "folder_id": "26eba5c5-ea29-7fac-3572-c3786dec3439",
-        "create_ts": "2021-09-23T17:41:49.582Z",
-        "last_update_ts": "2021-09-23T17:43:01.134Z",
-        "active_ind": "Y",
-        "file_manager_id": "e117f2e6-4d90-4770-96ce-c9e655c01910",
-        "file_folder_path": "Local Public Notice Announcements",
-        "full_qualified_file_name": "Local Public Notice Announcements/2020 WBLC Station License Renewal 04 - Event Log 02-01-2020",
-        "entity_id": "36691",
-        "source_service_code": "AM",
-        "callsign": "WBLC",
-        "non_political_file_folder": "Local Public Notice Announcements",
-        "_version_": 1711715290824310800,
-        "score": 0.249957
-      },
-      {
-        "id": "c93153fa-9344-03a0-3799-8b9372dd510b",
-        "file_id": "c93153fa-9344-03a0-3799-8b9372dd510b",
-        "file_name": "2020 WBLC Station License Renewal 02 - Pre-Filing Announcement",
-        "file_extension": "pdf",
-        "file_size": 13624,
-        "file_status": "com_cpy",
-        "folder_id": "26eba5c5-ea29-7fac-3572-c3786dec3439",
-        "create_ts": "2021-09-23T17:41:49.515Z",
-        "last_update_ts": "2021-09-23T17:43:01.13Z",
-        "active_ind": "Y",
-        "file_manager_id": "229b057e-b83d-4d22-83c3-25c3292f790d",
-        "file_folder_path": "Local Public Notice Announcements",
-        "full_qualified_file_name": "Local Public Notice Announcements/2020 WBLC Station License Renewal 02 - Pre-Filing Announcement",
-        "entity_id": "36691",
-        "source_service_code": "AM",
-        "callsign": "WBLC",
-        "non_political_file_folder": "Local Public Notice Announcements",
-        "_version_": 1711715290820116500,
-        "score": 0.249957
-      },
-      {
-        "id": "900847b2-c87a-b3fd-9a9e-f171b632c919",
-        "file_id": "900847b2-c87a-b3fd-9a9e-f171b632c919",
-        "file_name": "2020 WBLC Station License Renewal 03 - Post-Filing Announcement",
-        "file_extension": "pdf",
-        "file_size": 13618,
-        "file_status": "com_cpy",
-        "folder_id": "26eba5c5-ea29-7fac-3572-c3786dec3439",
-        "create_ts": "2021-09-23T17:41:49.547Z",
-        "last_update_ts": "2021-09-23T17:43:01.082Z",
-        "active_ind": "Y",
-        "file_manager_id": "ca612424-5360-4b4a-93cf-70f278b221ed",
-        "file_folder_path": "Local Public Notice Announcements",
-        "full_qualified_file_name": "Local Public Notice Announcements/2020 WBLC Station License Renewal 03 - Post-Filing Announcement",
-        "entity_id": "36691",
-        "source_service_code": "AM",
-        "callsign": "WBLC",
-        "non_political_file_folder": "Local Public Notice Announcements",
-        "_version_": 1711715290772930600,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -251,7 +258,7 @@
         "QUINCY-HANNIBAL-KEOKUK": 2385,
         "PEORIA-BLOOMINGTON": 2210,
         "BIRMINGHAM (ANN TUSC)": 2192,
-        "Greenville-Spartanburg-Asheville-Anderson": 2177,
+        "Greenville-Spartanburg-Asheville-Anderson": 2178,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2171,
         "TAMPA-ST. PETE (SARASOTA)": 2148,
         "LEXINGTON": 2082,
@@ -322,7 +329,7 @@
       },
       "network_affiliation": {
         "ABC": 57074,
-        "NBC": 55861,
+        "NBC": 55862,
         "CBS": 37782,
         "FOX": 27225,
         "PBS": 13950,
@@ -392,7 +399,7 @@
         "2018": 68057,
         "2019": 14137,
         "2020": 126496,
-        "2021": 13940,
+        "2021": 13941,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -406,7 +413,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54233,
         "Issues and Programs Lists": 43094,
-        "Equal Employment Opportunity Records": 36921,
+        "Equal Employment Opportunity Records": 36923,
         "Donor Lists - Applicable Only for NCEs": 11382,
         "FCC Authorizations": 7113,
         "Local Public Notice Announcements": 1735,
@@ -432,15 +439,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233011,
-        "CABLE": 112491,
+        "TV": 233012,
+        "CABLE": 112493,
         "FM": 107817,
         "AM": 40264,
         "DBS": 5142
       },
       "political_file_type": {
         "PA": 217616,
-        "NCIA": 115756
+        "NCIA": 115757
       }
     }
   },
@@ -456,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1705,
-    "processTime": 711,
-    "responseTime": 1711
+    "queryTime": 209,
+    "processTime": 217,
+    "responseTime": 217
   }
 }
