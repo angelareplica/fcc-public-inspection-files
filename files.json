@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 498865,
+    "numFound": 498866,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "d7c54f77-9fa6-c57d-31f3-55dc697a6b95",
+        "file_id": "d7c54f77-9fa6-c57d-31f3-55dc697a6b95",
+        "file_name": "WTAR-Performance Racing Network Political File Documentation AS PROVIDED BY NETWORK FOR 092621 BROADCAST",
+        "file_extension": "pdf",
+        "file_size": 35482,
+        "file_status": "com_cpy",
+        "folder_id": "9a394358-0d00-ccfc-07fa-14f09e871055",
+        "create_ts": "2021-09-26T14:39:05.524Z",
+        "last_update_ts": "2021-09-26T14:40:17.979Z",
+        "active_ind": "Y",
+        "file_manager_id": "49ddc0b8-2810-4154-8f1c-bc62140d0c7e",
+        "file_folder_path": "Political Files/2021/State/Glenn Youngkin-Virginia Governor",
+        "full_qualified_file_name": "Political Files/2021/State/Glenn Youngkin-Virginia Governor/WTAR-Performance Racing Network Political File Documentation AS PROVIDED BY NETWORK FOR 092621 BROADCAST",
+        "entity_id": "60472",
+        "source_service_code": "AM",
+        "callsign": "WTAR",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1711975585052360700,
+        "score": 0.249957
+      },
       {
         "id": "bbaa8413-cb20-188e-fcbc-6f709fe7943e",
         "file_id": "bbaa8413-cb20-188e-fcbc-6f709fe7943e",
@@ -201,30 +224,6 @@
         "campaign_year": "2021",
         "_version_": 1711821067070210000,
         "score": 0.249957
-      },
-      {
-        "id": "7747e367-27e3-403e-af52-f1f83e1da1db",
-        "file_id": "7747e367-27e3-403e-af52-f1f83e1da1db",
-        "file_name": "Better Medicare Alliance 092721 to 100321 order 2214334",
-        "file_extension": "pdf",
-        "file_size": 819210,
-        "file_status": "com_cpy",
-        "folder_id": "3602301f-8e43-0c77-74c4-d612aea788e2",
-        "create_ts": "2021-09-24T21:03:50.957Z",
-        "last_update_ts": "2021-09-24T21:05:03.27Z",
-        "active_ind": "Y",
-        "file_manager_id": "6dccbdf8-c011-4d96-bfbc-b183c05df448",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Better Medicare Alliance",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Better Medicare Alliance/Better Medicare Alliance 092721 to 100321 order 2214334",
-        "entity_id": "36912",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
-        "callsign": "WSAZ-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711818598397247500,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -402,12 +401,12 @@
         "2018": 68057,
         "2019": 14137,
         "2020": 126496,
-        "2021": 14051,
+        "2021": 14052,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64468,
+        "State": 64469,
         "US Senate": 48394,
         "US House": 41576,
         "Presidential": 39255,
@@ -445,11 +444,11 @@
         "TV": 233057,
         "CABLE": 112523,
         "FM": 107842,
-        "AM": 40299,
+        "AM": 40300,
         "DBS": 5144
       },
       "political_file_type": {
-        "PA": 217667,
+        "PA": 217668,
         "NCIA": 115816
       }
     }
@@ -468,6 +467,6 @@
     "type": "OK",
     "queryTime": 208,
     "processTime": 217,
-    "responseTime": 217
+    "responseTime": 218
   }
 }
