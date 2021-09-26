@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 498752,
+    "numFound": 498753,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "4b268650-d727-1f5c-0e1b-edd7a95a9419",
+        "file_id": "4b268650-d727-1f5c-0e1b-edd7a95a9419",
+        "file_name": "KTUH FCC EEO 2021 Report 09271",
+        "file_extension": "pdf",
+        "file_size": 12105,
+        "file_status": "com_cpy",
+        "folder_id": "6c76ff0a-5520-bd7e-cf8b-bbc8da34985a",
+        "create_ts": "2021-09-26T20:59:33.557Z",
+        "last_update_ts": "2021-09-26T21:00:46.048Z",
+        "active_ind": "Y",
+        "file_manager_id": "5205c0fb-9db4-411b-8177-9c572ee9c4a4",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/KTUH FCC EEO 2021 Report 09271",
+        "entity_id": "66592",
+        "source_service_code": "FM",
+        "callsign": "KTUH",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1711999521930608600,
+        "score": 0.249957
+      },
       {
         "id": "d7c54f77-9fa6-c57d-31f3-55dc697a6b95",
         "file_id": "d7c54f77-9fa6-c57d-31f3-55dc697a6b95",
@@ -202,28 +223,6 @@
         "campaign_year": "2021",
         "_version_": 1711821105386225700,
         "score": 0.249957
-      },
-      {
-        "id": "83a211db-159e-e15c-29fc-f31eb78a333b",
-        "file_id": "83a211db-159e-e15c-29fc-f31eb78a333b",
-        "file_name": "Yes for Trails, Open Space & Parks - NAB-PB-19_NonCandidateAdvertisements (004)",
-        "file_extension": "pdf",
-        "file_size": 1611310,
-        "file_status": "com_cpy",
-        "folder_id": "6a31b05c-e151-42e4-7d82-bfbffb3a0a70",
-        "create_ts": "2021-09-24T21:43:05.115Z",
-        "last_update_ts": "2021-09-24T21:44:17.605Z",
-        "active_ind": "Y",
-        "file_manager_id": "cbd384aa-1a51-4b40-b5f9-a3c3d14ff075",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Yes for Trails Open Space  Parks/Documents",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Yes for Trails Open Space  Parks/Documents/Yes for Trails, Open Space & Parks - NAB-PB-19_NonCandidateAdvertisements (004)",
-        "entity_id": "66250",
-        "source_service_code": "AM",
-        "callsign": "KRDO",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711821067070210000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -415,7 +414,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54233,
         "Issues and Programs Lists": 43094,
-        "Equal Employment Opportunity Records": 36937,
+        "Equal Employment Opportunity Records": 36938,
         "Donor Lists - Applicable Only for NCEs": 11268,
         "FCC Authorizations": 7117,
         "Local Public Notice Announcements": 1741,
@@ -443,7 +442,7 @@
       "source_service_code": {
         "TV": 233057,
         "CABLE": 112523,
-        "FM": 107728,
+        "FM": 107729,
         "AM": 40300,
         "DBS": 5144
       },
@@ -465,8 +464,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 64,
-    "processTime": 71,
-    "responseTime": 71
+    "queryTime": 332,
+    "processTime": 340,
+    "responseTime": 340
   }
 }
