@@ -1,28 +1,49 @@
 {
   "response": {
-    "numFound": 498755,
+    "numFound": 498756,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
       {
-        "id": "cbc33d54-4188-5507-6da1-693f70e6d2b6",
-        "file_id": "cbc33d54-4188-5507-6da1-693f70e6d2b6",
+        "id": "c7f31f65-d742-6012-cf1d-91df2478ddc2",
+        "file_id": "c7f31f65-d742-6012-cf1d-91df2478ddc2",
         "file_name": "09272021_WMVO Issues and Programming Third Quarter",
-        "file_extension": "docx",
-        "file_size": 12870,
-        "file_status": "com_prc",
+        "file_extension": "pdf",
+        "file_size": 811814,
+        "file_status": "com_cpy",
         "folder_id": "25c6ed61-60b3-f0e5-314d-659f08c7852d",
-        "create_ts": "2021-09-27T11:15:22.417Z",
-        "last_update_ts": "2021-09-27T11:17:49.849Z",
+        "create_ts": "2021-09-27T11:24:30.529Z",
+        "last_update_ts": "2021-09-27T11:26:32.037Z",
         "active_ind": "Y",
-        "file_manager_id": "a462fed5-7304-4f87-9890-998e7b873fdf",
+        "file_manager_id": "7ebbb56f-7852-4cf3-b8a6-94d257f9dad4",
         "file_folder_path": "Issues and Programs Lists/2021",
         "full_qualified_file_name": "Issues and Programs Lists/2021/09272021_WMVO Issues and Programming Third Quarter",
         "entity_id": "74474",
         "source_service_code": "AM",
         "callsign": "WMVO",
         "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1712053443494936600,
+        "_version_": 1712053991044546600,
+        "score": 0.249957
+      },
+      {
+        "id": "7afbe28f-a3d1-c49b-4648-fc6e7e656a0c",
+        "file_id": "7afbe28f-a3d1-c49b-4648-fc6e7e656a0c",
+        "file_name": "09222021 Issues and Programming 3rd quarter WQIO",
+        "file_extension": "pdf",
+        "file_size": 815007,
+        "file_status": "com_cpy",
+        "folder_id": "d1b8bece-160e-af20-8117-7bffa8596224",
+        "create_ts": "2021-09-27T11:20:45.781Z",
+        "last_update_ts": "2021-09-27T11:21:58.918Z",
+        "active_ind": "Y",
+        "file_manager_id": "09458ad6-6549-4081-a3b6-f85ae712119c",
+        "file_folder_path": "Issues and Programs Lists/2021",
+        "full_qualified_file_name": "Issues and Programs Lists/2021/09222021 Issues and Programming 3rd quarter WQIO",
+        "entity_id": "74475",
+        "source_service_code": "FM",
+        "callsign": "WQIO",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712053704657469400,
         "score": 0.249957
       },
       {
@@ -198,28 +219,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1711823382529441800,
-        "score": 0.249957
-      },
-      {
-        "id": "fd856dae-7ec5-1e4c-4a6b-b3943a1f43e7",
-        "file_id": "fd856dae-7ec5-1e4c-4a6b-b3943a1f43e7",
-        "file_name": "National Wildlife Federation - 24 Hour Form - 09_27_21",
-        "file_extension": "pdf",
-        "file_size": 84232,
-        "file_status": "com_cpy",
-        "folder_id": "a7c35ffc-6897-26db-da73-43685469b953",
-        "create_ts": "2021-09-24T22:18:23.287Z",
-        "last_update_ts": "2021-09-24T22:19:35.197Z",
-        "active_ind": "Y",
-        "file_manager_id": "abe6a16a-c15b-468a-9cbd-84c2536d41a0",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/WRNB-FM/National Wildlife Federation",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/WRNB-FM/National Wildlife Federation/National Wildlife Federation - 24 Hour Form - 09_27_21",
-        "entity_id": "25079",
-        "source_service_code": "FM",
-        "callsign": "WRNB",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1711823287525310500,
         "score": 0.249957
       }
     ],
@@ -411,7 +410,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54233,
-        "Issues and Programs Lists": 43096,
+        "Issues and Programs Lists": 43097,
         "Equal Employment Opportunity Records": 36938,
         "Donor Lists - Applicable Only for NCEs": 11268,
         "FCC Authorizations": 7117,
@@ -440,7 +439,7 @@
       "source_service_code": {
         "TV": 233057,
         "CABLE": 112523,
-        "FM": 107730,
+        "FM": 107731,
         "AM": 40301,
         "DBS": 5144
       },
@@ -462,8 +461,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1706,
-    "processTime": 718,
-    "responseTime": 1719
+    "queryTime": 212,
+    "processTime": 225,
+    "responseTime": 225
   }
 }
