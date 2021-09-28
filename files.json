@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 498992,
+    "numFound": 498994,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "2f034d21-9fd8-4cca-1789-3719a04cc00b",
+        "file_id": "2f034d21-9fd8-4cca-1789-3719a04cc00b",
+        "file_name": "League of Conservation Voters est 0061 9.28.21-10.4.21 NAB",
+        "file_extension": "pdf",
+        "file_size": 2418248,
+        "file_status": "com_cpy",
+        "folder_id": "f2af0147-5855-6398-a25d-0c689bd5c3ba",
+        "create_ts": "2021-09-28T14:22:46.813Z",
+        "last_update_ts": "2021-09-28T14:24:01.296Z",
+        "active_ind": "Y",
+        "file_manager_id": "2ae82ab7-1ce0-428a-9c7f-817c7df27e7d",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/NAB",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/NAB/League of Conservation Voters est 0061 9.28.21-10.4.21 NAB",
+        "entity_id": "56527",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "DES MOINES-AMES",
+        "callsign": "KDSM-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712155754200301600,
+        "score": 0.249957
+      },
+      {
+        "id": "f05a49f9-2c99-fdb1-e06d-5904d5783aac",
+        "file_id": "f05a49f9-2c99-fdb1-e06d-5904d5783aac",
+        "file_name": "League of Conservation Voters est 0080 9.26.21-9.27.21 NAB",
+        "file_extension": "pdf",
+        "file_size": 2420530,
+        "file_status": "com_cpy",
+        "folder_id": "f2af0147-5855-6398-a25d-0c689bd5c3ba",
+        "create_ts": "2021-09-28T14:22:46.813Z",
+        "last_update_ts": "2021-09-28T14:24:01.276Z",
+        "active_ind": "Y",
+        "file_manager_id": "e85a615f-27c2-42fe-9c45-63ab87bb877d",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/NAB",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/NAB/League of Conservation Voters est 0080 9.26.21-9.27.21 NAB",
+        "entity_id": "56527",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "DES MOINES-AMES",
+        "callsign": "KDSM-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712155754189815800,
+        "score": 0.249957
+      },
       {
         "id": "3b3ecf48-c8ee-41eb-117f-7b000b8f7d97",
         "file_id": "3b3ecf48-c8ee-41eb-117f-7b000b8f7d97",
@@ -193,59 +241,11 @@
         "campaign_year": "2021",
         "_version_": 1712153891230974000,
         "score": 0.249957
-      },
-      {
-        "id": "046935bf-6c90-3408-1c90-f1fe5a791638",
-        "file_id": "046935bf-6c90-3408-1c90-f1fe5a791638",
-        "file_name": "35831-CONTRACT-2218463-092421",
-        "file_extension": "pdf",
-        "file_size": 218992,
-        "file_status": "com_cpy",
-        "folder_id": "f54de091-2f68-6679-3eb8-c48b07e66ea1",
-        "create_ts": "2021-09-28T13:53:11.419Z",
-        "last_update_ts": "2021-09-28T13:54:24.513Z",
-        "active_ind": "Y",
-        "file_manager_id": "2be8f1c5-c07c-4237-aac0-122f91556985",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Better Medicare Alliance 35831",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Better Medicare Alliance 35831/35831-CONTRACT-2218463-092421",
-        "entity_id": "74176",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "BLUEFIELD-BECKLEY-OAK HILL",
-        "callsign": "WVVA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712153891093610500,
-        "score": 0.249957
-      },
-      {
-        "id": "87f7cfd3-ba0f-e37a-2b94-5c2900a59a5a",
-        "file_id": "87f7cfd3-ba0f-e37a-2b94-5c2900a59a5a",
-        "file_name": "35831-REQUEST-2218921-092421",
-        "file_extension": "pdf",
-        "file_size": 18124,
-        "file_status": "com_cpy",
-        "folder_id": "f54de091-2f68-6679-3eb8-c48b07e66ea1",
-        "create_ts": "2021-09-28T13:53:11.23Z",
-        "last_update_ts": "2021-09-28T13:54:24.393Z",
-        "active_ind": "Y",
-        "file_manager_id": "18a866f6-a0ee-492c-a3a8-156451b20602",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Better Medicare Alliance 35831",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Better Medicare Alliance 35831/35831-REQUEST-2218921-092421",
-        "entity_id": "74176",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "BLUEFIELD-BECKLEY-OAK HILL",
-        "callsign": "WVVA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712153890966732800,
-        "score": 0.249957
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
-        "DES MOINES-AMES": 8387,
+        "DES MOINES-AMES": 8389,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7031,
         "WILKES BARRE-SCRANTON": 6703,
         "LAS VEGAS": 5887,
@@ -350,7 +350,7 @@
         "ABC": 57114,
         "NBC": 55888,
         "CBS": 37824,
-        "FOX": 27244,
+        "FOX": 27246,
         "PBS": 13947,
         "CW": 11944,
         "IND": 2981,
@@ -418,7 +418,7 @@
         "2018": 68057,
         "2019": 14137,
         "2020": 126496,
-        "2021": 14285,
+        "2021": 14287,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -458,7 +458,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233164,
+        "TV": 233166,
         "CABLE": 112551,
         "FM": 107802,
         "AM": 40331,
@@ -466,7 +466,7 @@
       },
       "political_file_type": {
         "PA": 217724,
-        "NCIA": 115993
+        "NCIA": 115995
       }
     }
   },
@@ -482,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1705,
-    "processTime": 712,
-    "responseTime": 1712
+    "queryTime": 201,
+    "processTime": 208,
+    "responseTime": 208
   }
 }
