@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 498820,
+    "numFound": 498738,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "5af4c3c6-918d-6bfe-6029-b62266242a1d",
+        "file_id": "5af4c3c6-918d-6bfe-6029-b62266242a1d",
+        "file_name": "07-20-2017 KBRO(AM) response to June 2017 EEO Audit",
+        "file_extension": "PDF",
+        "file_size": 64938,
+        "file_status": "com_cpy",
+        "folder_id": "ee5f4605-e31b-e801-3483-56149796278c",
+        "create_ts": "2021-09-29T18:14:53.669Z",
+        "last_update_ts": "2021-09-29T18:16:07.204Z",
+        "active_ind": "Y",
+        "file_manager_id": "39bc77c5-6eb9-4640-9049-399cc77a2c42",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints/07-20-2017 KBRO(AM) response to June 2017 EEO Audit",
+        "entity_id": "48248",
+        "source_service_code": "AM",
+        "callsign": "KBRO",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1712260953128566800,
+        "score": 0.249957
+      },
+      {
+        "id": "3da1d0a1-fe8f-62ac-3527-2cb7c6a07f89",
+        "file_id": "3da1d0a1-fe8f-62ac-3527-2cb7c6a07f89",
+        "file_name": "KCDQ COCHISE COUNTY DEMOCRATS 092520-092720",
+        "file_extension": "pdf",
+        "file_size": 115851,
+        "file_status": "com_cpy",
+        "folder_id": "70542b17-1615-4c5c-4217-e96ad3406077",
+        "create_ts": "2021-09-29T18:06:01.25Z",
+        "last_update_ts": "2021-09-29T18:07:15.959Z",
+        "active_ind": "Y",
+        "file_manager_id": "c6c19b32-c434-4b79-9c33-27f87db326db",
+        "file_folder_path": "Political Files/2020/Local/COCHISE COUNTY DEMOCRATS",
+        "full_qualified_file_name": "Political Files/2020/Local/COCHISE COUNTY DEMOCRATS/KCDQ COCHISE COUNTY DEMOCRATS 092520-092720",
+        "entity_id": "68769",
+        "source_service_code": "FM",
+        "callsign": "KCDQ",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2020",
+        "_version_": 1712260396133384200,
+        "score": 0.249957
+      },
       {
         "id": "0aa6af59-3fe3-42b2-dede-a44b2397c4e0",
         "file_id": "0aa6af59-3fe3-42b2-dede-a44b2397c4e0",
@@ -178,54 +222,6 @@
         "campaign_year": "2021",
         "_version_": 1712254539393925000,
         "score": 0.249957
-      },
-      {
-        "id": "6b0bcd4d-ef22-094e-c4d6-d26de23a2751",
-        "file_id": "6b0bcd4d-ef22-094e-c4d6-d26de23a2751",
-        "file_name": "KSAZ LCV est 0020 Invc 1102860-1",
-        "file_extension": "pdf",
-        "file_size": 56947,
-        "file_status": "com_cpy",
-        "folder_id": "d28cde4a-4b32-ee91-4646-3c8bf0afe017",
-        "create_ts": "2021-09-29T16:32:57.075Z",
-        "last_update_ts": "2021-09-29T16:34:10.506Z",
-        "active_ind": "Y",
-        "file_manager_id": "7a58e4fc-6dca-4d3c-bd0d-cd37b348c011",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Invoices",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Invoices/KSAZ LCV est 0020 Invc 1102860-1",
-        "entity_id": "35587",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
-        "callsign": "KSAZ-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712254539320524800,
-        "score": 0.249957
-      },
-      {
-        "id": "092ed974-81c4-ffed-c34a-134dc4163fa5",
-        "file_id": "092ed974-81c4-ffed-c34a-134dc4163fa5",
-        "file_name": "KSAZ LCV est 0039 Invc 1104241-1",
-        "file_extension": "pdf",
-        "file_size": 53477,
-        "file_status": "com_cpy",
-        "folder_id": "d28cde4a-4b32-ee91-4646-3c8bf0afe017",
-        "create_ts": "2021-09-29T16:32:57.073Z",
-        "last_update_ts": "2021-09-29T16:34:10.505Z",
-        "active_ind": "Y",
-        "file_manager_id": "0d64dda7-0dbc-437d-a886-ac42c9a0a8ae",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Invoices",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Invoices/KSAZ LCV est 0039 Invc 1104241-1",
-        "entity_id": "35587",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
-        "callsign": "KSAZ-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712254539319476200,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -259,7 +255,7 @@
         "FRESNO-VISALIA": 2456,
         "SAVANNAH": 2415,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
-        "WAUSAU-RHINELANDER": 2308,
+        "WAUSAU-RHINELANDER": 2226,
         "PEORIA-BLOOMINGTON": 2210,
         "BIRMINGHAM (ANN TUSC)": 2192,
         "Greenville-Spartanburg-Asheville-Anderson": 2179,
@@ -332,7 +328,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56928,
+        "ABC": 56890,
         "NBC": 55893,
         "CBS": 37835,
         "FOX": 27262,
@@ -346,8 +342,8 @@
         "MNT": 851,
         "TELEMUNDO": 830,
         "ION": 735,
-        "FAMILYNET": 669,
         "N/A": 643,
+        "FAMILYNET": 625,
         "UNIMAS": 616,
         "CBS/CW": 425,
         "INDEPENDENT": 402,
@@ -400,24 +396,24 @@
         "2015": 6083,
         "2016": 68686,
         "2017": 10335,
-        "2018": 68057,
+        "2018": 68056,
         "2019": 14127,
-        "2020": 126061,
+        "2020": 125979,
         "2021": 14524,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64516,
-        "US Senate": 48431,
+        "US Senate": 48430,
         "US House": 41464,
-        "Presidential": 39171,
+        "Presidential": 39089,
         "Local": 22871
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54234,
         "Issues and Programs Lists": 43102,
-        "Equal Employment Opportunity Records": 36956,
+        "Equal Employment Opportunity Records": 36957,
         "Donor Lists - Applicable Only for NCEs": 11274,
         "FCC Authorizations": 7119,
         "Local Public Notice Announcements": 1741,
@@ -443,14 +439,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232810,
+        "TV": 232728,
         "CABLE": 112584,
-        "FM": 107923,
-        "AM": 40355,
+        "FM": 107922,
+        "AM": 40356,
         "DBS": 5148
       },
       "political_file_type": {
-        "PA": 217567,
+        "PA": 217484,
         "NCIA": 115944
       }
     }
@@ -467,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1704,
-    "processTime": 713,
-    "responseTime": 1713
+    "queryTime": 1783,
+    "processTime": 791,
+    "responseTime": 1792
   }
 }
