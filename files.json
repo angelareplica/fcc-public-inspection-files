@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 499025,
+    "numFound": 499026,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "a1b7a8e4-94ef-e979-1478-f991b26322f9",
+        "file_id": "a1b7a8e4-94ef-e979-1478-f991b26322f9",
+        "file_name": "WNIS-Americans for Prosperity-Disposition Report for Contract CON-NOR-CS-1892-092921",
+        "file_extension": "pdf",
+        "file_size": 57303,
+        "file_status": "com_cpy",
+        "folder_id": "7ea76e79-3536-1ed3-560f-9ca49b60cc45",
+        "create_ts": "2021-09-29T13:21:38.061Z",
+        "last_update_ts": "2021-09-29T13:22:51.468Z",
+        "active_ind": "Y",
+        "file_manager_id": "97563d7d-0e5c-463b-94e6-b0736117feb1",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity/WNIS-Americans for Prosperity-Disposition Report for Contract CON-NOR-CS-1892-092921",
+        "entity_id": "4671",
+        "source_service_code": "AM",
+        "callsign": "WNIS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712242502723960800,
+        "score": 0.249957
+      },
       {
         "id": "57666ea0-edd7-d653-98b7-7d4b268b09da",
         "file_id": "57666ea0-edd7-d653-98b7-7d4b268b09da",
@@ -216,31 +238,6 @@
         "campaign_year": "2021",
         "_version_": 1712205143916675000,
         "score": 0.249957
-      },
-      {
-        "id": "61950202-dc83-d069-a30c-d5bc26993eb0",
-        "file_id": "61950202-dc83-d069-a30c-d5bc26993eb0",
-        "file_name": "Original NAB-2186685-092721",
-        "file_extension": "pdf",
-        "file_size": 2729633,
-        "file_status": "com_cpy",
-        "folder_id": "19be102d-3795-16b2-5375-2d3e536035ca",
-        "create_ts": "2021-09-27T20:16:38.591Z",
-        "last_update_ts": "2021-09-28T22:39:13.485Z",
-        "active_ind": "Y",
-        "file_manager_id": "ce85f221-d7ea-44e5-95cb-cf997c62ed5b",
-        "file_folder_path": "Political Files/2021/Local/KellerDMayor",
-        "full_qualified_file_name": "Political Files/2021/Local/KellerDMayor/Original NAB-2186685-092721",
-        "entity_id": "53928",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "ALBUQUERQUE-SANTA FE",
-        "callsign": "KOAT-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1712186909556473900,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -418,7 +415,7 @@
         "2018": 68057,
         "2019": 14136,
         "2020": 126338,
-        "2021": 14456,
+        "2021": 14457,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -461,12 +458,12 @@
         "TV": 233082,
         "CABLE": 112556,
         "FM": 107892,
-        "AM": 40347,
+        "AM": 40348,
         "DBS": 5148
       },
       "political_file_type": {
         "PA": 217757,
-        "NCIA": 115972
+        "NCIA": 115973
       }
     }
   },
@@ -482,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 219,
-    "responseTime": 220
+    "queryTime": 209,
+    "processTime": 216,
+    "responseTime": 216
   }
 }
