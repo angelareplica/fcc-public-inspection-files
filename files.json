@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 498844,
+    "numFound": 498820,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "0aa6af59-3fe3-42b2-dede-a44b2397c4e0",
+        "file_id": "0aa6af59-3fe3-42b2-dede-a44b2397c4e0",
+        "file_name": "WENR Issues 10-01-21",
+        "file_extension": "pdf",
+        "file_size": 27635,
+        "file_status": "com_cpy",
+        "folder_id": "e9c68270-9914-26d5-9385-860505204e1a",
+        "create_ts": "2021-09-29T17:41:44.54Z",
+        "last_update_ts": "2021-09-29T17:42:58.039Z",
+        "active_ind": "Y",
+        "file_manager_id": "f5020f2c-319f-43a3-9099-380c0540ba3d",
+        "file_folder_path": "Issues and Programs Lists/2021",
+        "full_qualified_file_name": "Issues and Programs Lists/2021/WENR Issues 10-01-21",
+        "entity_id": "39379",
+        "source_service_code": "AM",
+        "callsign": "WENR",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712258867365150700,
+        "score": 0.249957
+      },
+      {
+        "id": "d71b89bc-3ed4-e4de-1ddc-9e7c5f04129d",
+        "file_id": "d71b89bc-3ed4-e4de-1ddc-9e7c5f04129d",
+        "file_name": "WALI Issues 10-01-21",
+        "file_extension": "pdf",
+        "file_size": 26510,
+        "file_status": "com_cpy",
+        "folder_id": "a2acc183-f600-414d-0bb3-f9e19904cdc2",
+        "create_ts": "2021-09-29T17:38:33.365Z",
+        "last_update_ts": "2021-09-29T17:39:46.798Z",
+        "active_ind": "Y",
+        "file_manager_id": "a0167df3-7ce7-4c39-98ab-b9535631329a",
+        "file_folder_path": "Issues and Programs Lists/Issues List 2021",
+        "full_qualified_file_name": "Issues and Programs Lists/Issues List 2021/WALI Issues 10-01-21",
+        "entity_id": "70783",
+        "source_service_code": "AM",
+        "callsign": "WALI",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712258666810310700,
+        "score": 0.249957
+      },
       {
         "id": "ebe7c77f-5bf8-fa59-9ad3-7de2a5e981e4",
         "file_id": "ebe7c77f-5bf8-fa59-9ad3-7de2a5e981e4",
@@ -184,54 +226,6 @@
         "campaign_year": "2021",
         "_version_": 1712254539319476200,
         "score": 0.249957
-      },
-      {
-        "id": "62ad83f1-c41a-c648-375c-078ff7417cb4",
-        "file_id": "62ad83f1-c41a-c648-375c-078ff7417cb4",
-        "file_name": "KSAZ LCV est 0054 1112259--1 Rev",
-        "file_extension": "pdf",
-        "file_size": 121971,
-        "file_status": "com_cpy",
-        "folder_id": "5c6fa444-d836-348d-9ffc-6f3abf1bc059",
-        "create_ts": "2021-09-29T16:32:14.409Z",
-        "last_update_ts": "2021-09-29T16:33:28.003Z",
-        "active_ind": "Y",
-        "file_manager_id": "600cc84e-441f-458d-8e37-aad305ad1076",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders/KSAZ LCV est 0054 1112259--1 Rev",
-        "entity_id": "35587",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
-        "callsign": "KSAZ-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712254495047549000,
-        "score": 0.249957
-      },
-      {
-        "id": "9b95e054-5abc-5d7a-fbe3-c58b139624a1",
-        "file_id": "9b95e054-5abc-5d7a-fbe3-c58b139624a1",
-        "file_name": "KSAZ LCV est 0058 1112320--1 Rev",
-        "file_extension": "pdf",
-        "file_size": 122845,
-        "file_status": "com_cpy",
-        "folder_id": "5c6fa444-d836-348d-9ffc-6f3abf1bc059",
-        "create_ts": "2021-09-29T16:32:14.408Z",
-        "last_update_ts": "2021-09-29T16:33:27.927Z",
-        "active_ind": "Y",
-        "file_manager_id": "7d6a9166-c5c3-46ec-9fac-693751b5af53",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders/KSAZ LCV est 0058 1112320--1 Rev",
-        "entity_id": "35587",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
-        "callsign": "KSAZ-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712254495026577400,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -265,7 +259,7 @@
         "FRESNO-VISALIA": 2456,
         "SAVANNAH": 2415,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
-        "WAUSAU-RHINELANDER": 2334,
+        "WAUSAU-RHINELANDER": 2308,
         "PEORIA-BLOOMINGTON": 2210,
         "BIRMINGHAM (ANN TUSC)": 2192,
         "Greenville-Spartanburg-Asheville-Anderson": 2179,
@@ -338,7 +332,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56940,
+        "ABC": 56928,
         "NBC": 55893,
         "CBS": 37835,
         "FOX": 27262,
@@ -352,7 +346,7 @@
         "MNT": 851,
         "TELEMUNDO": 830,
         "ION": 735,
-        "FAMILYNET": 683,
+        "FAMILYNET": 669,
         "N/A": 643,
         "UNIMAS": 616,
         "CBS/CW": 425,
@@ -408,7 +402,7 @@
         "2017": 10335,
         "2018": 68057,
         "2019": 14127,
-        "2020": 126087,
+        "2020": 126061,
         "2021": 14524,
         "KYAZ": 5,
         "Fede": 1
@@ -417,12 +411,12 @@
         "State": 64516,
         "US Senate": 48431,
         "US House": 41464,
-        "Presidential": 39197,
+        "Presidential": 39171,
         "Local": 22871
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54234,
-        "Issues and Programs Lists": 43100,
+        "Issues and Programs Lists": 43102,
         "Equal Employment Opportunity Records": 36956,
         "Donor Lists - Applicable Only for NCEs": 11274,
         "FCC Authorizations": 7119,
@@ -449,14 +443,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232836,
+        "TV": 232810,
         "CABLE": 112584,
         "FM": 107923,
-        "AM": 40353,
+        "AM": 40355,
         "DBS": 5148
       },
       "political_file_type": {
-        "PA": 217593,
+        "PA": 217567,
         "NCIA": 115944
       }
     }
@@ -473,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1719,
-    "processTime": 727,
-    "responseTime": 1728
+    "queryTime": 1704,
+    "processTime": 713,
+    "responseTime": 1713
   }
 }
