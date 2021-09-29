@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 499018,
+    "numFound": 499020,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "a99bb4a7-d7ba-3a25-b7e0-839046db7546",
+        "file_id": "a99bb4a7-d7ba-3a25-b7e0-839046db7546",
+        "file_name": "2media assembly ny1 nj11 lcv nquiry (002) (002)",
+        "file_extension": "pdf",
+        "file_size": 612597,
+        "file_status": "com_cpy",
+        "folder_id": "e34bfeab-fbd7-bb68-5da3-ed341d2ddc88",
+        "create_ts": "2021-09-29T10:39:28.813Z",
+        "last_update_ts": "2021-09-29T10:40:43.158Z",
+        "active_ind": "Y",
+        "file_manager_id": "fa61e7f1-a481-43bb-aba3-c9939618e18d",
+        "file_folder_path": "Political Files/2021/Local/LEAGUE OF CONSERVATION VOTERS",
+        "full_qualified_file_name": "Political Files/2021/Local/LEAGUE OF CONSERVATION VOTERS/2media assembly ny1 nj11 lcv nquiry (002) (002)",
+        "entity_id": "47535",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "NEW YORK",
+        "callsign": "WNBC",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1712232301888274400,
+        "score": 0.249957
+      },
+      {
+        "id": "078c8a4b-2020-79b5-af93-f5359fbdfe91",
+        "file_id": "078c8a4b-2020-79b5-af93-f5359fbdfe91",
+        "file_name": "LCV EST 0082 ORIG CON",
+        "file_extension": "pdf",
+        "file_size": 21989,
+        "file_status": "com_cpy",
+        "folder_id": "e34bfeab-fbd7-bb68-5da3-ed341d2ddc88",
+        "create_ts": "2021-09-29T10:39:28.791Z",
+        "last_update_ts": "2021-09-29T10:40:42.14Z",
+        "active_ind": "Y",
+        "file_manager_id": "42b265ee-b812-4d50-8592-7f1bc4abc5ae",
+        "file_folder_path": "Political Files/2021/Local/LEAGUE OF CONSERVATION VOTERS",
+        "full_qualified_file_name": "Political Files/2021/Local/LEAGUE OF CONSERVATION VOTERS/LCV EST 0082 ORIG CON",
+        "entity_id": "47535",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "NEW YORK",
+        "callsign": "WNBC",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1712232301127008300,
+        "score": 0.249957
+      },
       {
         "id": "6803dd9e-aae0-27b7-2286-fef0480da243",
         "file_id": "6803dd9e-aae0-27b7-2286-fef0480da243",
@@ -192,54 +242,6 @@
         "campaign_year": "2021",
         "_version_": 1712185306030014500,
         "score": 0.249957
-      },
-      {
-        "id": "5e0cef4c-0eb3-739e-147e-726e4e677b9d",
-        "file_id": "5e0cef4c-0eb3-739e-147e-726e4e677b9d",
-        "file_name": "9-28-21 to 10-04-21 agy-3",
-        "file_extension": "pdf",
-        "file_size": 53522,
-        "file_status": "com_cpy",
-        "folder_id": "0779c6b7-3d71-7b54-a21f-3fa3ce2d0270",
-        "create_ts": "2021-09-28T22:12:30.797Z",
-        "last_update_ts": "2021-09-28T22:13:44.148Z",
-        "active_ind": "Y",
-        "file_manager_id": "eaa38c5a-6756-4561-b82f-836bff912e48",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/9-28-21 to 10-04-21 agy-3",
-        "entity_id": "35870",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KVVU-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712185305927254000,
-        "score": 0.249957
-      },
-      {
-        "id": "57af6eaf-9c04-b7e0-7aa3-72a6243c8703",
-        "file_id": "57af6eaf-9c04-b7e0-7aa3-72a6243c8703",
-        "file_name": "9-28-21 to 10-04-21 ord",
-        "file_extension": "pdf",
-        "file_size": 230582,
-        "file_status": "com_cpy",
-        "folder_id": "0779c6b7-3d71-7b54-a21f-3fa3ce2d0270",
-        "create_ts": "2021-09-28T22:12:30.695Z",
-        "last_update_ts": "2021-09-28T22:13:43.931Z",
-        "active_ind": "Y",
-        "file_manager_id": "122204d7-2654-4861-a3da-56d42504cdbc",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/9-28-21 to 10-04-21 ord",
-        "entity_id": "35870",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KVVU-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712185305701810200,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -311,7 +313,7 @@
         "GLENDIVE": 1060,
         "GREEN BAY-APPLETON": 1041,
         "ORLANDO-DAYTONA BCH-MELBRN": 1035,
-        "NEW YORK": 1020,
+        "NEW YORK": 1022,
         "LITTLE ROCK-PINE BLUFF": 1006,
         "ST. LOUIS": 1003,
         "COLUMBUS OH": 995,
@@ -347,7 +349,7 @@
       },
       "network_affiliation": {
         "ABC": 57062,
-        "NBC": 55896,
+        "NBC": 55898,
         "CBS": 37834,
         "FOX": 27257,
         "PBS": 13951,
@@ -417,7 +419,7 @@
         "2018": 68057,
         "2019": 14136,
         "2020": 126338,
-        "2021": 14449,
+        "2021": 14451,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -426,7 +428,7 @@
         "US Senate": 48418,
         "US House": 41587,
         "Presidential": 39255,
-        "Local": 22865
+        "Local": 22867
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54234,
@@ -457,14 +459,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233080,
+        "TV": 233082,
         "CABLE": 112552,
         "FM": 107891,
         "AM": 40347,
         "DBS": 5148
       },
       "political_file_type": {
-        "PA": 217754,
+        "PA": 217756,
         "NCIA": 115968
       }
     }
@@ -481,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 64,
-    "processTime": 72,
-    "responseTime": 73
+    "queryTime": 1710,
+    "processTime": 717,
+    "responseTime": 1717
   }
 }
