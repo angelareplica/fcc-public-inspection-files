@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 499052,
+    "numFound": 499053,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "d7f8c3e4-8f4e-1b0f-604d-b6590d6a6297",
+        "file_id": "d7f8c3e4-8f4e-1b0f-604d-b6590d6a6297",
+        "file_name": "Fair Fight Action--241890-092821-093021-Updated",
+        "file_extension": "pdf",
+        "file_size": 220338,
+        "file_status": "com_cpy",
+        "folder_id": "b0064012-4a9e-c1a5-5c74-5ee65fb255ca",
+        "create_ts": "2021-09-29T14:28:49.975Z",
+        "last_update_ts": "2021-09-29T14:30:04.41Z",
+        "active_ind": "Y",
+        "file_manager_id": "9e32cb78-405f-45f8-9a8f-5273dde263ae",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Fair Fight Action",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Fair Fight Action/Fair Fight Action--241890-092821-093021-Updated",
+        "entity_id": "43847",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "MACON",
+        "callsign": "WMGT-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712246731574345700,
+        "score": 0.249957
+      },
       {
         "id": "236275f1-d8c9-c972-b4e8-54780beba90f",
         "file_id": "236275f1-d8c9-c972-b4e8-54780beba90f",
@@ -211,30 +235,6 @@
         "campaign_year": "2021",
         "_version_": 1712244015150137300,
         "score": 0.249957
-      },
-      {
-        "id": "db08caac-ae4b-5813-0e44-de0978193111",
-        "file_id": "db08caac-ae4b-5813-0e44-de0978193111",
-        "file_name": "Traffic Instructions- Building Back Together NJ-11 092121",
-        "file_extension": "pdf",
-        "file_size": 54094,
-        "file_status": "com_cpy",
-        "folder_id": "f6044c68-790e-e192-b5ed-a9daf7781c58",
-        "create_ts": "2021-09-29T13:45:05.734Z",
-        "last_update_ts": "2021-09-29T13:46:19.123Z",
-        "active_ind": "Y",
-        "file_manager_id": "84e6ccdf-ecc2-47f2-afc9-c6be7dda13be",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Building Back Together-NYI",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Building Back Together-NYI/Traffic Instructions- Building Back Together NJ-11 092121",
-        "entity_id": "001705",
-        "source_service_code": "CABLE",
-        "legal_name": "CSC TKR, LLC",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712243978756161500,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -334,7 +334,7 @@
         "TERRE HAUTE": 636,
         "HARTFORD & NEW HAVEN": 633,
         "MONTEREY-SALINAS": 632,
-        "MACON": 601,
+        "MACON": 602,
         "WACO-TEMPLE-BRYAN": 538,
         "AUGUSTA": 536,
         "BOSTON (MANCHESTER)": 530,
@@ -342,7 +342,7 @@
       },
       "network_affiliation": {
         "ABC": 57062,
-        "NBC": 55892,
+        "NBC": 55893,
         "CBS": 37835,
         "FOX": 27257,
         "PBS": 13951,
@@ -412,7 +412,7 @@
         "2018": 68057,
         "2019": 14127,
         "2020": 126338,
-        "2021": 14488,
+        "2021": 14489,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -452,7 +452,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233080,
+        "TV": 233081,
         "CABLE": 112584,
         "FM": 107892,
         "AM": 40348,
@@ -460,7 +460,7 @@
       },
       "political_file_type": {
         "PA": 217748,
-        "NCIA": 116004
+        "NCIA": 116005
       }
     }
   },
@@ -476,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 213,
-    "responseTime": 213
+    "queryTime": 207,
+    "processTime": 215,
+    "responseTime": 215
   }
 }
