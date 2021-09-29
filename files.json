@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 499016,
+    "numFound": 499018,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "6803dd9e-aae0-27b7-2286-fef0480da243",
+        "file_id": "6803dd9e-aae0-27b7-2286-fef0480da243",
+        "file_name": "WNIS-Americans for Prosperity-REVISED Contract CON-NOR-CS-1921-092821",
+        "file_extension": "pdf",
+        "file_size": 120701,
+        "file_status": "com_cpy",
+        "folder_id": "7ea76e79-3536-1ed3-560f-9ca49b60cc45",
+        "create_ts": "2021-09-29T03:29:51.947Z",
+        "last_update_ts": "2021-09-29T03:31:05.239Z",
+        "active_ind": "Y",
+        "file_manager_id": "5670d6e7-d208-414a-a359-a4c6fed45464",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity/WNIS-Americans for Prosperity-REVISED Contract CON-NOR-CS-1921-092821",
+        "entity_id": "4671",
+        "source_service_code": "AM",
+        "callsign": "WNIS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712205271885938700,
+        "score": 0.249957
+      },
+      {
+        "id": "7e6f0e25-3602-933e-bffe-e8a065e56171",
+        "file_id": "7e6f0e25-3602-933e-bffe-e8a065e56171",
+        "file_name": "WNIS-Americans for Prosperity-REVISED Katz Insertion Order 35373181-092821",
+        "file_extension": "pdf",
+        "file_size": 72443,
+        "file_status": "com_cpy",
+        "folder_id": "7ea76e79-3536-1ed3-560f-9ca49b60cc45",
+        "create_ts": "2021-09-28T15:00:33.54Z",
+        "last_update_ts": "2021-09-29T03:29:03.177Z",
+        "active_ind": "Y",
+        "file_manager_id": "b9f0a011-01a8-4501-8b36-edae73cf6712",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americans for Prosperity/WNIS-Americans for Prosperity-REVISED Katz Insertion Order 35373181-092821",
+        "entity_id": "4671",
+        "source_service_code": "AM",
+        "callsign": "WNIS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712205143916675000,
+        "score": 0.249957
+      },
       {
         "id": "61950202-dc83-d069-a30c-d5bc26993eb0",
         "file_id": "61950202-dc83-d069-a30c-d5bc26993eb0",
@@ -196,54 +240,6 @@
         "campaign_year": "2021",
         "_version_": 1712185305701810200,
         "score": 0.249957
-      },
-      {
-        "id": "18a4ab01-e4ec-7d64-aa72-40389dbb38f1",
-        "file_id": "18a4ab01-e4ec-7d64-aa72-40389dbb38f1",
-        "file_name": "9-28-21 to 10-04-21 agy",
-        "file_extension": "pdf",
-        "file_size": 40497,
-        "file_status": "com_cpy",
-        "folder_id": "0779c6b7-3d71-7b54-a21f-3fa3ce2d0270",
-        "create_ts": "2021-09-28T22:12:30.418Z",
-        "last_update_ts": "2021-09-28T22:13:43.584Z",
-        "active_ind": "Y",
-        "file_manager_id": "252a38fc-eb4f-4188-b3e6-1675e34707cd",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/9-28-21 to 10-04-21 agy",
-        "entity_id": "35870",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KVVU-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712185305351585800,
-        "score": 0.249957
-      },
-      {
-        "id": "ebeec974-ff46-ed0e-734e-40bb9cca3757",
-        "file_id": "ebeec974-ff46-ed0e-734e-40bb9cca3757",
-        "file_name": "Building Back Together 0923-0929 2312761 revised",
-        "file_extension": "pdf",
-        "file_size": 260156,
-        "file_status": "com_cpy",
-        "folder_id": "4c3801c4-4353-182b-44b1-fa8ba2a4d1ce",
-        "create_ts": "2021-09-28T22:03:26.522Z",
-        "last_update_ts": "2021-09-28T22:04:39.839Z",
-        "active_ind": "Y",
-        "file_manager_id": "c616dfaa-0284-4ced-9f5c-7af2188db6d1",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Build Back Together Inc",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Build Back Together Inc/Building Back Together 0923-0929 2312761 revised",
-        "entity_id": "73318",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WNEP-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712184735181045800,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -421,7 +417,7 @@
         "2018": 68057,
         "2019": 14136,
         "2020": 126338,
-        "2021": 14447,
+        "2021": 14449,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -464,12 +460,12 @@
         "TV": 233080,
         "CABLE": 112552,
         "FM": 107891,
-        "AM": 40345,
+        "AM": 40347,
         "DBS": 5148
       },
       "political_file_type": {
         "PA": 217754,
-        "NCIA": 115966
+        "NCIA": 115968
       }
     }
   },
@@ -485,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 220,
-    "responseTime": 221
+    "queryTime": 1707,
+    "processTime": 715,
+    "responseTime": 1715
   }
 }
