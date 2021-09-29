@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 498745,
+    "numFound": 498746,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "9b53543e-eff1-84c2-b420-7a4fd721e1c1",
+        "file_id": "9b53543e-eff1-84c2-b420-7a4fd721e1c1",
+        "file_name": "093015",
+        "file_extension": "pdf",
+        "file_size": 440277,
+        "file_status": "com_cpy",
+        "folder_id": "1c9b52df-ab95-82d1-26f5-c821726bdb67",
+        "create_ts": "2021-09-29T22:43:31.878Z",
+        "last_update_ts": "2021-09-29T22:44:45.491Z",
+        "active_ind": "Y",
+        "file_manager_id": "68bf1d8e-1239-4ac0-8f27-c642884a314b",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/093015",
+        "entity_id": "65232",
+        "source_service_code": "AM",
+        "callsign": "KCHU",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712277854304075800,
+        "score": 0.249957
+      },
       {
         "id": "bfd4f6d5-bcc1-63aa-7225-ee86614a836d",
         "file_id": "bfd4f6d5-bcc1-63aa-7225-ee86614a836d",
@@ -198,30 +219,6 @@
         "campaign_year": "2021",
         "_version_": 1712273506084847600,
         "score": 0.249957
-      },
-      {
-        "id": "0fb52777-b179-4f9b-fb7d-c7c95048d1e5",
-        "file_id": "0fb52777-b179-4f9b-fb7d-c7c95048d1e5",
-        "file_name": "House Majority Forward 0929-1012 2324992",
-        "file_extension": "pdf",
-        "file_size": 234136,
-        "file_status": "com_cpy",
-        "folder_id": "bb46dba1-8dda-52d1-1546-2a6c54366e6a",
-        "create_ts": "2021-09-29T21:33:20.745Z",
-        "last_update_ts": "2021-09-29T21:34:34.56Z",
-        "active_ind": "Y",
-        "file_manager_id": "2c256dc5-4f9a-45c7-903e-a7028ca68613",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/House Majority Forward",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/House Majority Forward/House Majority Forward 0929-1012 2324992",
-        "entity_id": "73318",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WNEP-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712273438843863000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -412,7 +409,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54234,
-        "Issues and Programs Lists": 43121,
+        "Issues and Programs Lists": 43122,
         "Equal Employment Opportunity Records": 36956,
         "Donor Lists - Applicable Only for NCEs": 11274,
         "FCC Authorizations": 7120,
@@ -442,7 +439,7 @@
         "TV": 232710,
         "CABLE": 112583,
         "FM": 107930,
-        "AM": 40374,
+        "AM": 40375,
         "DBS": 5148
       },
       "political_file_type": {
@@ -464,7 +461,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 203,
-    "processTime": 212,
-    "responseTime": 213
+    "processTime": 210,
+    "responseTime": 210
   }
 }
