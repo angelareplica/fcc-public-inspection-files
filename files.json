@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 499453,
+    "numFound": 499455,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "33546efa-64f7-5bb3-5b5c-20b5e8fa7200",
+        "file_id": "33546efa-64f7-5bb3-5b5c-20b5e8fa7200",
+        "file_name": "Corrales, Jesus Danie Midland City Council at Large 09.29.21",
+        "file_extension": "pdf",
+        "file_size": 290428,
+        "file_status": "com_cpy",
+        "folder_id": "e33832c6-9158-d9ee-93db-39463529a02e",
+        "create_ts": "2021-09-30T23:29:42.504Z",
+        "last_update_ts": "2021-09-30T23:30:56.534Z",
+        "active_ind": "Y",
+        "file_manager_id": "333e2d47-fe9a-492d-9ae9-8329a6e0bfed",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/Corrales, Jesus Danie Midland City Council at Large 09.29.21",
+        "entity_id": "9667",
+        "source_service_code": "FM",
+        "callsign": "KCRS-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1712371356568387600,
+        "score": 0.249957
+      },
+      {
+        "id": "85af78da-1eeb-dcb9-e3e8-3dfd2e883339",
+        "file_id": "85af78da-1eeb-dcb9-e3e8-3dfd2e883339",
+        "file_name": "Corrales, Jesus Danie Midland City Council at Large 09.29.21",
+        "file_extension": "pdf",
+        "file_size": 290428,
+        "file_status": "com_cpy",
+        "folder_id": "02cd5cb2-3d4c-3e25-38a5-9562b1553f05",
+        "create_ts": "2021-09-30T23:28:40.832Z",
+        "last_update_ts": "2021-09-30T23:29:54.748Z",
+        "active_ind": "Y",
+        "file_manager_id": "1907e45a-38e3-4fe7-99ce-dae2bed9765d",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/Corrales, Jesus Danie Midland City Council at Large 09.29.21",
+        "entity_id": "60801",
+        "source_service_code": "FM",
+        "callsign": "KCHX",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1712371291783168000,
+        "score": 0.249957
+      },
       {
         "id": "12a3db98-e305-68e7-cc4d-a80f29630ffb",
         "file_id": "12a3db98-e305-68e7-cc4d-a80f29630ffb",
@@ -190,54 +236,6 @@
         "campaign_year": "2021",
         "_version_": 1712369649445765000,
         "score": 0.249957
-      },
-      {
-        "id": "b3cdd94e-0cff-1ec3-b8f2-b817a5956d66",
-        "file_id": "b3cdd94e-0cff-1ec3-b8f2-b817a5956d66",
-        "file_name": "00129144_NAB_Form_Agreement_20210930074341",
-        "file_extension": "pdf",
-        "file_size": 1133003,
-        "file_status": "com_cpy",
-        "folder_id": "2b6f3d80-abb8-a6aa-72c8-0648221ce07f",
-        "create_ts": "2021-09-30T23:02:33.623Z",
-        "last_update_ts": "2021-09-30T23:03:47.785Z",
-        "active_ind": "Y",
-        "file_manager_id": "ea089987-a56a-4110-806c-97d33786788c",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/New York City/Healthcare Education Project",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/New York City/Healthcare Education Project/00129144_NAB_Form_Agreement_20210930074341",
-        "entity_id": "012237",
-        "source_service_code": "CABLE",
-        "legal_name": "SPECTRUM NEW YORK METRO, LLC",
-        "operator_city_name": "ST LOUIS",
-        "operator_state_name": "MO",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712369648708616200,
-        "score": 0.249957
-      },
-      {
-        "id": "7523e6b7-2bdc-2966-7e63-ba74e23017b3",
-        "file_id": "7523e6b7-2bdc-2966-7e63-ba74e23017b3",
-        "file_name": "00129144_Order_Contract_20210930074334",
-        "file_extension": "pdf",
-        "file_size": 10003,
-        "file_status": "com_cpy",
-        "folder_id": "2b6f3d80-abb8-a6aa-72c8-0648221ce07f",
-        "create_ts": "2021-09-30T23:02:32.413Z",
-        "last_update_ts": "2021-09-30T23:03:46.221Z",
-        "active_ind": "Y",
-        "file_manager_id": "db970030-6b00-4961-b563-f84d3b4f4b57",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/New York City/Healthcare Education Project",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/New York City/Healthcare Education Project/00129144_Order_Contract_20210930074334",
-        "entity_id": "012237",
-        "source_service_code": "CABLE",
-        "legal_name": "SPECTRUM NEW YORK METRO, LLC",
-        "operator_city_name": "ST LOUIS",
-        "operator_state_name": "MO",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712369647069692000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -415,7 +413,7 @@
         "2018": 68048,
         "2019": 14122,
         "2020": 125956,
-        "2021": 15203,
+        "2021": 15205,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -424,7 +422,7 @@
         "US Senate": 48429,
         "US House": 41461,
         "Presidential": 39061,
-        "Local": 22892
+        "Local": 22894
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54234,
@@ -457,12 +455,12 @@
       "source_service_code": {
         "TV": 232777,
         "CABLE": 113135,
-        "FM": 107985,
+        "FM": 107987,
         "AM": 40408,
         "DBS": 5148
       },
       "political_file_type": {
-        "PA": 217489,
+        "PA": 217491,
         "NCIA": 116582
       }
     }
@@ -479,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1708,
-    "processTime": 717,
-    "responseTime": 1717
+    "queryTime": 213,
+    "processTime": 219,
+    "responseTime": 220
   }
 }
