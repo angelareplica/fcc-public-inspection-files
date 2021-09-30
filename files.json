@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 499357,
+    "numFound": 499359,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
@@ -26,6 +26,50 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1712367092725973000,
+        "score": 0.249957
+      },
+      {
+        "id": "2ff12ecc-37f7-11cd-d5f5-e0bc4669c7fa",
+        "file_id": "2ff12ecc-37f7-11cd-d5f5-e0bc4669c7fa",
+        "file_name": "09.30.21 Order_NAB_Form_Americans for Prosperity_KTSA",
+        "file_extension": "pdf",
+        "file_size": 1280614,
+        "file_status": "com_cpy",
+        "folder_id": "6abd4f2b-5ffc-320a-daaf-8c67dc08efcd",
+        "create_ts": "2021-09-30T22:26:40.996Z",
+        "last_update_ts": "2021-09-30T22:27:55.148Z",
+        "active_ind": "Y",
+        "file_manager_id": "010d9a48-30d8-491e-971e-73ed4f5c2a54",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/092921 Americans for Prosperity",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/092921 Americans for Prosperity/09.30.21 Order_NAB_Form_Americans for Prosperity_KTSA",
+        "entity_id": "71087",
+        "source_service_code": "AM",
+        "callsign": "KTSA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712367391518752800,
+        "score": 0.249957
+      },
+      {
+        "id": "fc0a3c6b-a506-ad0b-0b1a-3dc1e0bf8361",
+        "file_id": "fc0a3c6b-a506-ad0b-0b1a-3dc1e0bf8361",
+        "file_name": "National Federation of Independent Businsess NAB 09-30-21 to 10-06-21",
+        "file_extension": "pdf",
+        "file_size": 1079446,
+        "file_status": "com_cpy",
+        "folder_id": "c1155911-88cc-f467-3a5d-df2d34733ebc",
+        "create_ts": "2021-09-30T22:24:36.994Z",
+        "last_update_ts": "2021-09-30T22:25:51.281Z",
+        "active_ind": "Y",
+        "file_manager_id": "f4c68925-f746-4b78-bbc1-280054e2cca7",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/National Federation of Independent Business",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/National Federation of Independent Business/National Federation of Independent Businsess NAB 09-30-21 to 10-06-21",
+        "entity_id": "23321",
+        "source_service_code": "AM",
+        "callsign": "WEZS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712367261630595000,
         "score": 0.249957
       },
       {
@@ -193,54 +237,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1712366827325096000,
-        "score": 0.249957
-      },
-      {
-        "id": "87877efe-c6ad-3057-d5c1-071d0c9e7bbe",
-        "file_id": "87877efe-c6ad-3057-d5c1-071d0c9e7bbe",
-        "file_name": "00129141_Order_Contract_20210930074051",
-        "file_extension": "pdf",
-        "file_size": 9956,
-        "file_status": "com_cpy",
-        "folder_id": "8984eb8b-d8f7-ea10-4e45-f435fcd6c5a7",
-        "create_ts": "2021-09-30T22:17:42.101Z",
-        "last_update_ts": "2021-09-30T22:18:55.911Z",
-        "active_ind": "Y",
-        "file_manager_id": "09f0fb40-89c5-44ed-881f-e88514bea34f",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/New York City/Healthcare Education Project",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/New York City/Healthcare Education Project/00129141_Order_Contract_20210930074051",
-        "entity_id": "007131",
-        "source_service_code": "CABLE",
-        "legal_name": "SPECTRUM NEW JERSEY, LLC",
-        "operator_city_name": "ST LOUIS",
-        "operator_state_name": "MO",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712366826082533400,
-        "score": 0.249957
-      },
-      {
-        "id": "7bd63b2a-746d-5755-238d-ac44e91073e6",
-        "file_id": "7bd63b2a-746d-5755-238d-ac44e91073e6",
-        "file_name": "00129140_Order_Contract_20210930073828",
-        "file_extension": "pdf",
-        "file_size": 10001,
-        "file_status": "com_cpy",
-        "folder_id": "8984eb8b-d8f7-ea10-4e45-f435fcd6c5a7",
-        "create_ts": "2021-09-30T22:17:41.038Z",
-        "last_update_ts": "2021-09-30T22:18:54.877Z",
-        "active_ind": "Y",
-        "file_manager_id": "84f26efe-ec7e-4419-afa5-601c4f0e6361",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/New York City/Healthcare Education Project",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/New York City/Healthcare Education Project/00129140_Order_Contract_20210930073828",
-        "entity_id": "007131",
-        "source_service_code": "CABLE",
-        "legal_name": "SPECTRUM NEW JERSEY, LLC",
-        "operator_city_name": "ST LOUIS",
-        "operator_state_name": "MO",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712366824998305800,
         "score": 0.249957
       }
     ],
@@ -419,7 +415,7 @@
         "2018": 68048,
         "2019": 14122,
         "2020": 125956,
-        "2021": 15111,
+        "2021": 15113,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -462,12 +458,12 @@
         "TV": 232777,
         "CABLE": 113047,
         "FM": 107981,
-        "AM": 40404,
+        "AM": 40406,
         "DBS": 5148
       },
       "political_file_type": {
         "PA": 217489,
-        "NCIA": 116490
+        "NCIA": 116492
       }
     }
   },
@@ -483,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1704,
-    "processTime": 714,
-    "responseTime": 1714
+    "queryTime": 211,
+    "processTime": 218,
+    "responseTime": 218
   }
 }
