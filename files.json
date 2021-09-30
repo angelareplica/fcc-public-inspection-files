@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 498752,
+    "numFound": 498754,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "8b70f7c2-e7ed-4673-7093-797bcfbe6073",
+        "file_id": "8b70f7c2-e7ed-4673-7093-797bcfbe6073",
+        "file_name": "WNOB-AARP-Advertising Copy for Contract CON-NOR-RR-1802-091021",
+        "file_extension": "pdf",
+        "file_size": 98960,
+        "file_status": "com_cpy",
+        "folder_id": "d6fa3f04-b6ac-aa04-7aaf-5635dc185ac1",
+        "create_ts": "2021-09-30T04:10:59.401Z",
+        "last_update_ts": "2021-09-30T04:12:13.027Z",
+        "active_ind": "Y",
+        "file_manager_id": "a43cff04-f5a0-42ce-b43b-597f47f08d55",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AARP",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AARP/WNOB-AARP-Advertising Copy for Contract CON-NOR-RR-1802-091021",
+        "entity_id": "73184",
+        "source_service_code": "FM",
+        "callsign": "WNOB",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712298456168530000,
+        "score": 0.249957
+      },
+      {
+        "id": "0dcb8c5b-9217-f779-423d-54332103dcc8",
+        "file_id": "0dcb8c5b-9217-f779-423d-54332103dcc8",
+        "file_name": "WNOB-AARP-Katz Insertion Order 35371531-092921",
+        "file_extension": "pdf",
+        "file_size": 70684,
+        "file_status": "com_cpy",
+        "folder_id": "d6fa3f04-b6ac-aa04-7aaf-5635dc185ac1",
+        "create_ts": "2021-09-30T03:59:59.633Z",
+        "last_update_ts": "2021-09-30T04:01:13.22Z",
+        "active_ind": "Y",
+        "file_manager_id": "2569f31d-0d2e-4c4c-b7f2-0c2a7cf35ff1",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AARP",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AARP/WNOB-AARP-Katz Insertion Order 35371531-092921",
+        "entity_id": "73184",
+        "source_service_code": "FM",
+        "callsign": "WNOB",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712297764310745000,
+        "score": 0.249957
+      },
       {
         "id": "4b3380e6-a29f-18a1-f292-4259613c24ab",
         "file_id": "4b3380e6-a29f-18a1-f292-4259613c24ab",
@@ -173,48 +217,6 @@
         "callsign": "KAYO",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1712276465670684700,
-        "score": 0.249957
-      },
-      {
-        "id": "278f7b9e-b7ce-e187-ee75-6cb64164eb08",
-        "file_id": "278f7b9e-b7ce-e187-ee75-6cb64164eb08",
-        "file_name": "2021 03 KMXS-FM",
-        "file_extension": "pdf",
-        "file_size": 78202,
-        "file_status": "com_cpy",
-        "folder_id": "cd177886-1dab-bb78-cfe1-9df91f07a681",
-        "create_ts": "2021-09-29T22:19:15.382Z",
-        "last_update_ts": "2021-09-29T22:20:28.912Z",
-        "active_ind": "Y",
-        "file_manager_id": "3c3c8092-1e9e-4083-8373-9862e03b3c6a",
-        "file_folder_path": "Issues and Programs Lists/2021",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/2021 03 KMXS-FM",
-        "entity_id": "52677",
-        "source_service_code": "FM",
-        "callsign": "KMXS",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1712276327009091600,
-        "score": 0.249957
-      },
-      {
-        "id": "83beda71-06e9-dd5a-2ce1-161bc9730872",
-        "file_id": "83beda71-06e9-dd5a-2ce1-161bc9730872",
-        "file_name": "2021 03 KHAR-AM",
-        "file_extension": "pdf",
-        "file_size": 150134,
-        "file_status": "com_cpy",
-        "folder_id": "f8f83443-6756-1727-a511-372b9fcaac22",
-        "create_ts": "2021-09-29T22:18:08.526Z",
-        "last_update_ts": "2021-09-29T22:19:22.208Z",
-        "active_ind": "Y",
-        "file_manager_id": "f98ea1ef-3b5f-4f37-9e48-62ede00f02b4",
-        "file_folder_path": "Issues and Programs Lists/2021",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/2021 03 KHAR-AM",
-        "entity_id": "60914",
-        "source_service_code": "AM",
-        "callsign": "KHAR",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1712276257035518000,
         "score": 0.249957
       }
     ],
@@ -393,7 +395,7 @@
         "2018": 68056,
         "2019": 14122,
         "2020": 125956,
-        "2021": 14543,
+        "2021": 14545,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -435,13 +437,13 @@
       "source_service_code": {
         "TV": 232710,
         "CABLE": 112583,
-        "FM": 107932,
+        "FM": 107934,
         "AM": 40379,
         "DBS": 5148
       },
       "political_file_type": {
         "PA": 217456,
-        "NCIA": 115963
+        "NCIA": 115965
       }
     }
   },
@@ -458,7 +460,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 208,
-    "processTime": 218,
-    "responseTime": 219
+    "processTime": 231,
+    "responseTime": 232
   }
 }
