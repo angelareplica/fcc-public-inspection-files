@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 498924,
+    "numFound": 498923,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "83bb039b-205e-4f82-74e8-6850a8215a7b",
+        "file_id": "83bb039b-205e-4f82-74e8-6850a8215a7b",
+        "file_name": "Rob Ingstad Licenses EEO Declaration 093021",
+        "file_extension": "docx",
+        "file_size": 12376,
+        "file_status": "com_prc",
+        "folder_id": "9a242544-931d-07db-bf7f-846a40aed16c",
+        "create_ts": "2021-09-30T19:37:48.562Z",
+        "last_update_ts": "2021-09-30T19:39:03.383Z",
+        "active_ind": "Y",
+        "file_manager_id": "3fc7444b-a31c-46e6-9b27-59e157be2bc6",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/Rob Ingstad Licenses EEO Declaration 093021",
+        "entity_id": "49622",
+        "source_service_code": "FM",
+        "callsign": "KXLR",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1712356767635079200,
+        "score": 0.249957
+      },
       {
         "id": "82ad7a93-cb8c-cca4-e2b0-5b3445a8d29a",
         "file_id": "82ad7a93-cb8c-cca4-e2b0-5b3445a8d29a",
@@ -221,30 +242,6 @@
         "campaign_year": "2021",
         "_version_": 1712354479752347600,
         "score": 0.249957
-      },
-      {
-        "id": "3a04eda2-73b4-239a-adf0-409272367c78",
-        "file_id": "3a04eda2-73b4-239a-adf0-409272367c78",
-        "file_name": "00129159_NAB_Form_Agreement_20210930065227",
-        "file_extension": "pdf",
-        "file_size": 1133003,
-        "file_status": "com_cpy",
-        "folder_id": "2b6f3d80-abb8-a6aa-72c8-0648221ce07f",
-        "create_ts": "2021-09-30T19:01:26.733Z",
-        "last_update_ts": "2021-09-30T19:02:40.897Z",
-        "active_ind": "Y",
-        "file_manager_id": "c168361f-caa1-4069-aad7-0bb359a2ab95",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/New York City/Healthcare Education Project",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/New York City/Healthcare Education Project/00129159_NAB_Form_Agreement_20210930065227",
-        "entity_id": "012237",
-        "source_service_code": "CABLE",
-        "legal_name": "SPECTRUM NEW YORK METRO, LLC",
-        "operator_city_name": "ST LOUIS",
-        "operator_state_name": "MO",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712354479136833500,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -436,7 +433,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54234,
         "Issues and Programs Lists": 43140,
-        "Equal Employment Opportunity Records": 36959,
+        "Equal Employment Opportunity Records": 36958,
         "Donor Lists - Applicable Only for NCEs": 11274,
         "FCC Authorizations": 7125,
         "Local Public Notice Announcements": 1741,
@@ -464,8 +461,8 @@
       "source_service_code": {
         "TV": 232746,
         "CABLE": 112660,
-        "FM": 107974,
-        "AM": 40396,
+        "FM": 107975,
+        "AM": 40394,
         "DBS": 5148
       },
       "political_file_type": {
@@ -486,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1705,
-    "processTime": 715,
-    "responseTime": 1715
+    "queryTime": 201,
+    "processTime": 208,
+    "responseTime": 209
   }
 }
