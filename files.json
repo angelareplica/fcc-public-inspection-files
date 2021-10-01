@@ -1,9 +1,76 @@
 {
   "response": {
-    "numFound": 500807,
+    "numFound": 500810,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "d243e08b-9938-cdcd-bb79-5439d47ff85b",
+        "file_id": "d243e08b-9938-cdcd-bb79-5439d47ff85b",
+        "file_name": "WHSV - McAuliffe for Governor - Order #2223545 Rev 1 Wk of 09.28.21-10.04.21",
+        "file_extension": "pdf",
+        "file_size": 149978,
+        "file_status": "com_cpy",
+        "folder_id": "f03f3c51-f0a3-9a5a-83f9-027e55b5c730",
+        "create_ts": "2021-10-01T19:45:11.511Z",
+        "last_update_ts": "2021-10-01T19:46:25.703Z",
+        "active_ind": "Y",
+        "file_manager_id": "02bb458d-aeb8-4cc4-8f60-a1e18b56c1e0",
+        "file_folder_path": "Political Files/2021/State/Governor/McAuliffe for Governor",
+        "full_qualified_file_name": "Political Files/2021/State/Governor/McAuliffe for Governor/WHSV - McAuliffe for Governor - Order #2223545 Rev 1 Wk of 09.28.21-10.04.21",
+        "entity_id": "4688",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "HARRISONBURG",
+        "callsign": "WHSV-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1712447828091994000,
+        "score": 0.249957
+      },
+      {
+        "id": "2591b867-b055-78bb-8a77-8e046689555a",
+        "file_id": "2591b867-b055-78bb-8a77-8e046689555a",
+        "file_name": "07-JULIO",
+        "file_extension": "pdf",
+        "file_size": 493113,
+        "file_status": "com_cpy",
+        "folder_id": "c4cf55d8-387c-1e15-c557-29aff1bd1232",
+        "create_ts": "2021-10-01T19:42:52.025Z",
+        "last_update_ts": "2021-10-01T19:44:07.181Z",
+        "active_ind": "Y",
+        "file_manager_id": "b511c584-c729-4a0c-9879-9273bd9bb06b",
+        "file_folder_path": "Issues and Programs Lists/ISSUES PROGRAMS LISTS 2021/3-THIRD QUARTER",
+        "full_qualified_file_name": "Issues and Programs Lists/ISSUES PROGRAMS LISTS 2021/3-THIRD QUARTER/07-JULIO",
+        "entity_id": "1889",
+        "source_service_code": "AM",
+        "callsign": "WPRA",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712447682809692200,
+        "score": 0.249957
+      },
+      {
+        "id": "4cb0e089-f19b-4f23-5e53-e7d01e6631a4",
+        "file_id": "4cb0e089-f19b-4f23-5e53-e7d01e6631a4",
+        "file_name": "08-AGOSTO",
+        "file_extension": "pdf",
+        "file_size": 539424,
+        "file_status": "com_cpy",
+        "folder_id": "c4cf55d8-387c-1e15-c557-29aff1bd1232",
+        "create_ts": "2021-10-01T19:42:52.026Z",
+        "last_update_ts": "2021-10-01T19:44:07.18Z",
+        "active_ind": "Y",
+        "file_manager_id": "8dd6dd0f-d4d9-41f5-b0e9-74adab0bb181",
+        "file_folder_path": "Issues and Programs Lists/ISSUES PROGRAMS LISTS 2021/3-THIRD QUARTER",
+        "full_qualified_file_name": "Issues and Programs Lists/ISSUES PROGRAMS LISTS 2021/3-THIRD QUARTER/08-AGOSTO",
+        "entity_id": "1889",
+        "source_service_code": "AM",
+        "callsign": "WPRA",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712447682810740700,
+        "score": 0.249957
+      },
       {
         "id": "a1ac2733-0731-473e-f20a-5d1dc0541203",
         "file_id": "a1ac2733-0731-473e-f20a-5d1dc0541203",
@@ -152,77 +219,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1712444562116444200,
         "score": 0.249957
-      },
-      {
-        "id": "bd3de5a9-71bb-408d-64e6-6e7427e5a320",
-        "file_id": "bd3de5a9-71bb-408d-64e6-6e7427e5a320",
-        "file_name": "2021 Issues Programs third quarterly report WGMF, 2021-03",
-        "file_extension": "pdf",
-        "file_size": 197941,
-        "file_status": "com_cpy",
-        "folder_id": "a812a0bb-90f8-f792-ad88-396f94d9825f",
-        "create_ts": "2021-10-01T18:49:58.287Z",
-        "last_update_ts": "2021-10-01T18:51:12.747Z",
-        "active_ind": "Y",
-        "file_manager_id": "5fbaf096-f41e-41d7-873e-743e079bf767",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/2021 Issues Programs third quarterly report WGMF, 2021-03",
-        "entity_id": "59757",
-        "source_service_code": "AM",
-        "callsign": "WGMF",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1712444354184872000,
-        "score": 0.249957
-      },
-      {
-        "id": "08a37cb6-26ba-166c-b204-1cd1c5280346",
-        "file_id": "08a37cb6-26ba-166c-b204-1cd1c5280346",
-        "file_name": "Rutledge NAB 1 - Candidate Advertisement Agreement Form - 2021 09 30",
-        "file_extension": "pdf",
-        "file_size": 1065244,
-        "file_status": "com_cpy",
-        "folder_id": "9a4bd527-cd17-3c79-6fcf-662287878de8",
-        "create_ts": "2021-10-01T18:42:05.438Z",
-        "last_update_ts": "2021-10-01T18:43:20.06Z",
-        "active_ind": "Y",
-        "file_manager_id": "5d155cfd-1cad-4956-83aa-fdf8677eafb8",
-        "file_folder_path": "Political Files/2021/State/Leslie Rutledge for AK Governor-Linear Media",
-        "full_qualified_file_name": "Political Files/2021/State/Leslie Rutledge for AK Governor-Linear Media/Rutledge NAB 1 - Candidate Advertisement Agreement Form - 2021 09 30",
-        "entity_id": "008311",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1712443858538725400,
-        "score": 0.249957
-      },
-      {
-        "id": "6aa6e558-bd7b-8828-bf92-c0d12c5b7cc3",
-        "file_id": "6aa6e558-bd7b-8828-bf92-c0d12c5b7cc3",
-        "file_name": "Rutledge NAB 2 - Candidate Advertisement Agreement Form - 2021 09 30",
-        "file_extension": "pdf",
-        "file_size": 1071198,
-        "file_status": "com_cpy",
-        "folder_id": "9a4bd527-cd17-3c79-6fcf-662287878de8",
-        "create_ts": "2021-10-01T18:42:05.137Z",
-        "last_update_ts": "2021-10-01T18:43:19.838Z",
-        "active_ind": "Y",
-        "file_manager_id": "3e7a211e-0de2-4bc8-b455-0e85836df634",
-        "file_folder_path": "Political Files/2021/State/Leslie Rutledge for AK Governor-Linear Media",
-        "full_qualified_file_name": "Political Files/2021/State/Leslie Rutledge for AK Governor-Linear Media/Rutledge NAB 2 - Candidate Advertisement Agreement Form - 2021 09 30",
-        "entity_id": "008311",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1712443858304893000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -329,7 +325,7 @@
         "ROANOKE-LYNCHBURG": 514
       },
       "network_affiliation": {
-        "ABC": 56903,
+        "ABC": 56904,
         "NBC": 55907,
         "CBS": 37850,
         "FOX": 27270,
@@ -400,12 +396,12 @@
         "2018": 68048,
         "2019": 14122,
         "2020": 125956,
-        "2021": 16454,
+        "2021": 16455,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64550,
+        "State": 64551,
         "US Senate": 48429,
         "US House": 41461,
         "Presidential": 39061,
@@ -413,7 +409,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54234,
-        "Issues and Programs Lists": 43232,
+        "Issues and Programs Lists": 43234,
         "Equal Employment Opportunity Records": 36977,
         "Donor Lists - Applicable Only for NCEs": 11282,
         "FCC Authorizations": 7130,
@@ -440,14 +436,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232798,
+        "TV": 232799,
         "CABLE": 114282,
         "FM": 108139,
-        "AM": 40439,
+        "AM": 40441,
         "DBS": 5149
       },
       "political_file_type": {
-        "PA": 217515,
+        "PA": 217516,
         "NCIA": 117807
       }
     }
@@ -464,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1714,
-    "processTime": 721,
-    "responseTime": 1721
+    "queryTime": 211,
+    "processTime": 442,
+    "responseTime": 443
   }
 }
