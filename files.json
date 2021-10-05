@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 501011,
+    "numFound": 501013,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "2481f92d-8808-2b90-1b61-45a80d25ebac",
+        "file_id": "2481f92d-8808-2b90-1b61-45a80d25ebac",
+        "file_name": "0925-1002",
+        "file_extension": "docx",
+        "file_size": 58456,
+        "file_status": "com_prc",
+        "folder_id": "a5b4e3d6-88a7-8cdb-2225-0ad110881ceb",
+        "create_ts": "2021-10-05T10:48:29.397Z",
+        "last_update_ts": "2021-10-05T10:48:33.451Z",
+        "active_ind": "Y",
+        "file_manager_id": "57ac0207-bd59-4ed4-a089-44e02263a90e",
+        "file_folder_path": "Issues and Programs Lists/2021/2021 Q3",
+        "full_qualified_file_name": "Issues and Programs Lists/2021/2021 Q3/0925-1002",
+        "entity_id": "15349",
+        "source_service_code": "FM",
+        "callsign": "KHLL",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712776451637379000,
+        "score": 0.249957
+      },
+      {
+        "id": "db159291-ec3f-dea0-54bf-48c4cf9cbb18",
+        "file_id": "db159291-ec3f-dea0-54bf-48c4cf9cbb18",
+        "file_name": "0925-1002",
+        "file_extension": "docx",
+        "file_size": 58456,
+        "file_status": "com_prc",
+        "folder_id": "86085748-91fb-9d6e-2d16-eafeaec2bf4f",
+        "create_ts": "2021-10-05T10:47:36.467Z",
+        "last_update_ts": "2021-10-05T10:47:52.135Z",
+        "active_ind": "Y",
+        "file_manager_id": "4868db8e-b86c-426a-87cd-c070d1197146",
+        "file_folder_path": "Issues and Programs Lists/2021/2021 Q4",
+        "full_qualified_file_name": "Issues and Programs Lists/2021/2021 Q4/0925-1002",
+        "entity_id": "15349",
+        "source_service_code": "FM",
+        "callsign": "KHLL",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712776410531102700,
+        "score": 0.249957
+      },
       {
         "id": "8df1caa0-320c-ba06-c805-86ca16ad0429",
         "file_id": "8df1caa0-320c-ba06-c805-86ca16ad0429",
@@ -197,48 +239,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1712739110540542000,
         "score": 0.249957
-      },
-      {
-        "id": "c0b638f5-22cf-f6b3-02d5-0b9cff166576",
-        "file_id": "c0b638f5-22cf-f6b3-02d5-0b9cff166576",
-        "file_name": "Quarterly Issues-Programs Lists-Radio-070121-093021",
-        "file_extension": "pdf",
-        "file_size": 299793,
-        "file_status": "com_cpy",
-        "folder_id": "f7bc67f7-3b8b-59a3-66ae-ee6e13bc7ae2",
-        "create_ts": "2021-10-05T00:54:58.814Z",
-        "last_update_ts": "2021-10-05T00:54:59.147Z",
-        "active_ind": "Y",
-        "file_manager_id": "af4cf841-32a4-450c-ba15-f843dd8eb820",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/Quarterly Issues-Programs Lists-Radio-070121-093021",
-        "entity_id": "50607",
-        "source_service_code": "FM",
-        "callsign": "KOPB-FM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1712739109273862100,
-        "score": 0.249957
-      },
-      {
-        "id": "af6de789-13df-d37f-45d5-1178a02bd4f3",
-        "file_id": "af6de789-13df-d37f-45d5-1178a02bd4f3",
-        "file_name": "Quarterly Issues-Programs Lists-Radio-070121-093021",
-        "file_extension": "pdf",
-        "file_size": 299793,
-        "file_status": "com_cpy",
-        "folder_id": "6009a5cd-5e09-9664-4a2c-7d032549d8d8",
-        "create_ts": "2021-10-05T00:54:57.671Z",
-        "last_update_ts": "2021-10-05T00:54:57.891Z",
-        "active_ind": "Y",
-        "file_manager_id": "a00ff071-6643-4091-8469-9060e959f6f6",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/Quarterly Issues-Programs Lists-Radio-070121-093021",
-        "entity_id": "174467",
-        "source_service_code": "FM",
-        "callsign": "KETP",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1712739108130914300,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -429,7 +429,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54234,
-        "Issues and Programs Lists": 43292,
+        "Issues and Programs Lists": 43294,
         "Equal Employment Opportunity Records": 36988,
         "Donor Lists - Applicable Only for NCEs": 11282,
         "FCC Authorizations": 7130,
@@ -458,7 +458,7 @@
       "source_service_code": {
         "TV": 232860,
         "CABLE": 114297,
-        "FM": 108241,
+        "FM": 108243,
         "AM": 40464,
         "DBS": 5149
       },
@@ -480,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 227,
-    "responseTime": 228
+    "queryTime": 215,
+    "processTime": 224,
+    "responseTime": 225
   }
 }
