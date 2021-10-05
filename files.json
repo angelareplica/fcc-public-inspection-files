@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 501004,
+    "numFound": 501006,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "6a0fe440-d98e-e93c-5c64-da967f2f7258",
+        "file_id": "6a0fe440-d98e-e93c-5c64-da967f2f7258",
+        "file_name": "62912199-STOP REPUBLICAN RECALL OF GOV NEWSOM-8.2-21-9.12.21-0777-SEPT-FINAL INVOICE",
+        "file_extension": "pdf",
+        "file_size": 29827,
+        "file_status": "com_cpy",
+        "folder_id": "e139f987-82e2-0cca-dc2c-af31cfaeb601",
+        "create_ts": "2021-10-05T02:09:37.583Z",
+        "last_update_ts": "2021-10-05T02:09:38.673Z",
+        "active_ind": "Y",
+        "file_manager_id": "5a10c418-31ca-442c-820c-83ec5913c211",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Stop the Republican Recall of Gov Newsom",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Stop the Republican Recall of Gov Newsom/62912199-STOP REPUBLICAN RECALL OF GOV NEWSOM-8.2-21-9.12.21-0777-SEPT-FINAL INVOICE",
+        "entity_id": "006633",
+        "source_service_code": "CABLE",
+        "legal_name": "COX COMMUNICATIONS CALIFORNIA, LLC",
+        "operator_city_name": "ATLANTA",
+        "operator_state_name": "GA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712743805394878500,
+        "score": 0.249957
+      },
+      {
+        "id": "c65883fe-7188-ff62-3f28-4771494bb11d",
+        "file_id": "c65883fe-7188-ff62-3f28-4771494bb11d",
+        "file_name": "62918994-STOP REPUBLICAN RECALL OF GOV NEWSOM-8.30.21-9.13.21-0777-SEPT-FINAL INVOICE",
+        "file_extension": "pdf",
+        "file_size": 4743,
+        "file_status": "com_cpy",
+        "folder_id": "e139f987-82e2-0cca-dc2c-af31cfaeb601",
+        "create_ts": "2021-10-05T02:09:37.486Z",
+        "last_update_ts": "2021-10-05T02:09:37.484Z",
+        "active_ind": "Y",
+        "file_manager_id": "49da0ddb-718b-4c60-b3fd-44c02d93dcd0",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Stop the Republican Recall of Gov Newsom",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Stop the Republican Recall of Gov Newsom/62918994-STOP REPUBLICAN RECALL OF GOV NEWSOM-8.30.21-9.13.21-0777-SEPT-FINAL INVOICE",
+        "entity_id": "006633",
+        "source_service_code": "CABLE",
+        "legal_name": "COX COMMUNICATIONS CALIFORNIA, LLC",
+        "operator_city_name": "ATLANTA",
+        "operator_state_name": "GA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712743805331964000,
+        "score": 0.249957
+      },
       {
         "id": "da7f3d1d-ee50-0f76-b46a-512c79ceda1d",
         "file_id": "da7f3d1d-ee50-0f76-b46a-512c79ceda1d",
@@ -170,48 +218,6 @@
         "callsign": "KOAP",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1712739103350456300,
-        "score": 0.249957
-      },
-      {
-        "id": "d268887e-d26d-e58d-96fe-085e82724713",
-        "file_id": "d268887e-d26d-e58d-96fe-085e82724713",
-        "file_name": "Quarterly Issues-Programs Lists-Radio-070121-093021",
-        "file_extension": "pdf",
-        "file_size": 299793,
-        "file_status": "com_cpy",
-        "folder_id": "3c1242f3-f0c1-bb2d-059e-188aded91693",
-        "create_ts": "2021-10-05T00:54:52.056Z",
-        "last_update_ts": "2021-10-05T00:54:52.79Z",
-        "active_ind": "Y",
-        "file_manager_id": "afb728bd-8f75-409a-a383-dc80ade48702",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/Quarterly Issues-Programs Lists-Radio-070121-093021",
-        "entity_id": "50609",
-        "source_service_code": "FM",
-        "callsign": "KOAB-FM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1712739102764302300,
-        "score": 0.249957
-      },
-      {
-        "id": "c4b7029c-b7be-c118-7e47-a59409eb62c9",
-        "file_id": "c4b7029c-b7be-c118-7e47-a59409eb62c9",
-        "file_name": "Quarterly Issues-Programs Lists-Radio-070121-093021",
-        "file_extension": "pdf",
-        "file_size": 299793,
-        "file_status": "com_cpy",
-        "folder_id": "e52317c3-59e7-9b9c-655d-742d50ef68d4",
-        "create_ts": "2021-10-05T00:54:51.043Z",
-        "last_update_ts": "2021-10-05T00:54:51.36Z",
-        "active_ind": "Y",
-        "file_manager_id": "0f49ce60-2d2c-4cb1-9edc-a45d308e9922",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/Quarterly Issues-Programs Lists-Radio-070121-093021",
-        "entity_id": "174446",
-        "source_service_code": "FM",
-        "callsign": "KOBN",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1712739101267984400,
         "score": 0.249957
       }
     ],
@@ -390,7 +396,7 @@
         "2018": 68048,
         "2019": 14120,
         "2020": 125956,
-        "2021": 16569,
+        "2021": 16571,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -431,14 +437,14 @@
       },
       "source_service_code": {
         "TV": 232860,
-        "CABLE": 114290,
+        "CABLE": 114292,
         "FM": 108241,
         "AM": 40464,
         "DBS": 5149
       },
       "political_file_type": {
         "PA": 217533,
-        "NCIA": 117902
+        "NCIA": 117904
       }
     }
   },
@@ -454,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1714,
-    "processTime": 721,
-    "responseTime": 1721
+    "queryTime": 1713,
+    "processTime": 743,
+    "responseTime": 1743
   }
 }
