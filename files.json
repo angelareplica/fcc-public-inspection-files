@@ -1,9 +1,75 @@
 {
   "response": {
-    "numFound": 501533,
+    "numFound": 501536,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "710cef0b-b2e6-5bc2-1233-9682acf5ddb9",
+        "file_id": "710cef0b-b2e6-5bc2-1233-9682acf5ddb9",
+        "file_name": "SEPTEMBER 01 DERECHOS LABORALES",
+        "file_extension": "doc",
+        "file_size": 29696,
+        "file_status": "com_prc",
+        "folder_id": "c32546c1-e87f-1409-638c-dfcea1b18c7d",
+        "create_ts": "2021-10-06T23:16:46.768Z",
+        "last_update_ts": "2021-10-06T23:17:08.751Z",
+        "active_ind": "Y",
+        "file_manager_id": "41ab5675-bc0e-4c0b-be18-7fd460aa2754",
+        "file_folder_path": "Issues and Programs Lists/2021 ISSUES 3RD QTR",
+        "full_qualified_file_name": "Issues and Programs Lists/2021 ISSUES 3RD QTR/SEPTEMBER 01 DERECHOS LABORALES",
+        "entity_id": "54257",
+        "source_service_code": "AM",
+        "callsign": "KURS",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712914141744726000,
+        "score": 0.249957
+      },
+      {
+        "id": "9b7d0610-62a7-d566-f182-4abf68557323",
+        "file_id": "9b7d0610-62a7-d566-f182-4abf68557323",
+        "file_name": "SEPTEMBER 01 DERECHOS LABORALES",
+        "file_extension": "doc",
+        "file_size": 29696,
+        "file_status": "com_prc",
+        "folder_id": "0b161ac4-7a77-e50d-6608-1e614d1770c5",
+        "create_ts": "2021-10-06T22:57:01.234Z",
+        "last_update_ts": "2021-10-06T22:57:16.813Z",
+        "active_ind": "Y",
+        "file_manager_id": "f58c6de5-4181-4385-bead-fd3031befae4",
+        "file_folder_path": "Issues and Programs Lists/2021 3RD QTR ISSUES",
+        "full_qualified_file_name": "Issues and Programs Lists/2021 3RD QTR ISSUES/SEPTEMBER 01 DERECHOS LABORALES",
+        "entity_id": "87156",
+        "source_service_code": "AM",
+        "callsign": "KHPY",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712912897918632000,
+        "score": 0.249957
+      },
+      {
+        "id": "6da4fee5-3344-6a33-7a2d-3dd39125baf3",
+        "file_id": "6da4fee5-3344-6a33-7a2d-3dd39125baf3",
+        "file_name": "NDN 0927-0930 - 3218724 NAB",
+        "file_extension": "pdf",
+        "file_size": 2693545,
+        "file_status": "com_cpy",
+        "folder_id": "74f1f8a5-09d7-ba4a-b052-513775fe42f7",
+        "create_ts": "2021-10-06T22:53:03.684Z",
+        "last_update_ts": "2021-10-06T22:53:04.777Z",
+        "active_ind": "Y",
+        "file_manager_id": "bae7bdd8-08e6-4c9c-bee9-c1f0290a98f9",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/NDN New Day Nevada/NAB Forms",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/NDN New Day Nevada/NAB Forms/NDN 0927-0930 - 3218724 NAB",
+        "entity_id": "35042",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KLAS-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712912633646022700,
+        "score": 0.249957
+      },
       {
         "id": "68c6d7db-c0d2-a994-073f-c9c75ea0e84e",
         "file_id": "68c6d7db-c0d2-a994-073f-c9c75ea0e84e",
@@ -162,73 +228,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1712906149902155800,
         "score": 0.249957
-      },
-      {
-        "id": "8f66dac5-8cf8-37a0-773b-975ff7ff7b44",
-        "file_id": "8f66dac5-8cf8-37a0-773b-975ff7ff7b44",
-        "file_name": "WAKI Fill Report 070121-093021",
-        "file_extension": "TXT",
-        "file_size": 1283224,
-        "file_status": "com_prc",
-        "folder_id": "ca14fbb3-889c-57f6-af4e-82ce46ee9bce",
-        "create_ts": "2021-10-06T21:08:22.494Z",
-        "last_update_ts": "2021-10-06T21:08:31.458Z",
-        "active_ind": "Y",
-        "file_manager_id": "ab4b7a8d-9f01-420e-95d4-cc3e2ebaa6c0",
-        "file_folder_path": "Issues and Programs Lists/2021/3rd Qtr 2021",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/3rd Qtr 2021/WAKI Fill Report 070121-093021",
-        "entity_id": "17758",
-        "source_service_code": "AM",
-        "callsign": "WAKI",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1712906055586939000,
-        "score": 0.249957
-      },
-      {
-        "id": "d783640c-76c6-5e82-f537-61114b285fbf",
-        "file_id": "d783640c-76c6-5e82-f537-61114b285fbf",
-        "file_name": "Ciattarelli for Governor Inc 322287 Rev 0",
-        "file_extension": "pdf",
-        "file_size": 132326,
-        "file_status": "com_cpy",
-        "folder_id": "7cf81764-81c0-a166-3a37-334ee8093a66",
-        "create_ts": "2021-10-06T20:55:35.022Z",
-        "last_update_ts": "2021-10-06T20:55:35.177Z",
-        "active_ind": "Y",
-        "file_manager_id": "aeaa2fd2-3f84-463b-87ee-f91abf776f97",
-        "file_folder_path": "Political Files/2021/State/Ciattarelli for Governor Inc",
-        "full_qualified_file_name": "Political Files/2021/State/Ciattarelli for Governor Inc/Ciattarelli for Governor Inc 322287 Rev 0",
-        "entity_id": "8616",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "PHILADELPHIA",
-        "callsign": "WPVI-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1712905241597313000,
-        "score": 0.249957
-      },
-      {
-        "id": "528f5d8b-5ee6-a68a-b4f2-5027f95777b8",
-        "file_id": "528f5d8b-5ee6-a68a-b4f2-5027f95777b8",
-        "file_name": "Quarterly Report 09-30-2021",
-        "file_extension": "pdf",
-        "file_size": 51077,
-        "file_status": "com_cpy",
-        "folder_id": "c974ceba-e2fe-473e-a9a8-f5b1f0f9fe5f",
-        "create_ts": "2021-10-06T20:53:45.979Z",
-        "last_update_ts": "2021-10-06T20:53:46.071Z",
-        "active_ind": "Y",
-        "file_manager_id": "0b76fd3e-5f98-485b-b265-345c51c8af17",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/Quarterly Report 09-30-2021",
-        "entity_id": "70277",
-        "source_service_code": "FM",
-        "callsign": "KQCJ",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1712905127189282800,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -236,7 +235,7 @@
         "DES MOINES-AMES": 8388,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7031,
         "WILKES BARRE-SCRANTON": 6725,
-        "LAS VEGAS": 5914,
+        "LAS VEGAS": 5915,
         "WEST PALM BEACH-FT. PIERCE": 5795,
         "PITTSBURGH": 5310,
         "HONOLULU": 5197,
@@ -337,7 +336,7 @@
       "network_affiliation": {
         "ABC": 56938,
         "NBC": 55915,
-        "CBS": 37875,
+        "CBS": 37876,
         "FOX": 27304,
         "PBS": 14030,
         "CW": 11958,
@@ -406,7 +405,7 @@
         "2018": 68035,
         "2019": 14118,
         "2020": 125954,
-        "2021": 16775,
+        "2021": 16776,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -419,7 +418,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54238,
-        "Issues and Programs Lists": 43539,
+        "Issues and Programs Lists": 43541,
         "Equal Employment Opportunity Records": 36999,
         "Donor Lists - Applicable Only for NCEs": 11291,
         "FCC Authorizations": 7142,
@@ -446,15 +445,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 232999,
+        "TV": 233000,
         "CABLE": 114318,
         "FM": 108494,
-        "AM": 40573,
+        "AM": 40575,
         "DBS": 5149
       },
       "political_file_type": {
         "PA": 217612,
-        "NCIA": 118012
+        "NCIA": 118013
       }
     }
   },
@@ -470,8 +469,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1712,
-    "processTime": 938,
-    "responseTime": 1938
+    "queryTime": 1710,
+    "processTime": 717,
+    "responseTime": 1718
   }
 }
