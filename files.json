@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 501536,
+    "numFound": 501538,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "a9693f2e-8a6b-4b91-7200-b19b0f47b102",
+        "file_id": "a9693f2e-8a6b-4b91-7200-b19b0f47b102",
+        "file_name": "SEPTEMBER 01 DERECHOS LABORALES",
+        "file_extension": "doc",
+        "file_size": 29696,
+        "file_status": "com_prc",
+        "folder_id": "b4b69291-4a3d-2fb2-24c8-c94ad3167527",
+        "create_ts": "2021-10-06T23:33:21.439Z",
+        "last_update_ts": "2021-10-06T23:33:43.111Z",
+        "active_ind": "Y",
+        "file_manager_id": "e925c681-ef0a-46eb-947a-de638c861ead",
+        "file_folder_path": "Issues and Programs Lists/2021 ISSUES THIRD QTR",
+        "full_qualified_file_name": "Issues and Programs Lists/2021 ISSUES THIRD QTR/SEPTEMBER 01 DERECHOS LABORALES",
+        "entity_id": "171299",
+        "source_service_code": "FM",
+        "callsign": "KDDF",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712915184373203000,
+        "score": 0.249957
+      },
+      {
+        "id": "92a0f72a-10da-141a-6439-c433c1b9af35",
+        "file_id": "92a0f72a-10da-141a-6439-c433c1b9af35",
+        "file_name": "SEPTEMBER 01 DERECHOS LABORALES",
+        "file_extension": "doc",
+        "file_size": 29696,
+        "file_status": "com_prc",
+        "folder_id": "dba5ebd0-9729-baa3-9531-3a520f7ec42b",
+        "create_ts": "2021-10-06T23:23:35.913Z",
+        "last_update_ts": "2021-10-06T23:23:52.01Z",
+        "active_ind": "Y",
+        "file_manager_id": "2a0e53d2-a796-4aba-ad25-a5b8017cd35e",
+        "file_folder_path": "Issues and Programs Lists/2021 ISSUES 3RD QTR",
+        "full_qualified_file_name": "Issues and Programs Lists/2021 ISSUES 3RD QTR/SEPTEMBER 01 DERECHOS LABORALES",
+        "entity_id": "9849",
+        "source_service_code": "AM",
+        "callsign": "KRXA",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712914571157569500,
+        "score": 0.249957
+      },
       {
         "id": "710cef0b-b2e6-5bc2-1233-9682acf5ddb9",
         "file_id": "710cef0b-b2e6-5bc2-1233-9682acf5ddb9",
@@ -185,48 +227,6 @@
         "office_type": "Local",
         "campaign_year": "2021",
         "_version_": 1712907355586297900,
-        "score": 0.249957
-      },
-      {
-        "id": "1f95329f-53ba-1627-8e7b-99438c63b5a5",
-        "file_id": "1f95329f-53ba-1627-8e7b-99438c63b5a5",
-        "file_name": "WOWC Fill Report 070121-093021",
-        "file_extension": "TXT",
-        "file_size": 158341,
-        "file_status": "com_prc",
-        "folder_id": "2a586448-3935-412a-c6d5-150d4dd7582c",
-        "create_ts": "2021-10-06T21:11:33.461Z",
-        "last_update_ts": "2021-10-06T21:11:34.504Z",
-        "active_ind": "Y",
-        "file_manager_id": "51ef21f7-f2af-476a-8ea9-398c111d4e26",
-        "file_folder_path": "Issues and Programs Lists/2021/3rd Qtr 2021",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/3rd Qtr 2021/WOWC Fill Report 070121-093021",
-        "entity_id": "3337",
-        "source_service_code": "FM",
-        "callsign": "WOWC",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1712906248053063700,
-        "score": 0.249957
-      },
-      {
-        "id": "b42acef0-6548-b2f7-3fa1-8a44e71db39f",
-        "file_id": "b42acef0-6548-b2f7-3fa1-8a44e71db39f",
-        "file_name": "WBMC Fill Report 070121-093021",
-        "file_extension": "TXT",
-        "file_size": 1048186,
-        "file_status": "com_prc",
-        "folder_id": "206254a2-66cb-5a71-b0f0-282321525025",
-        "create_ts": "2021-10-06T21:09:56.94Z",
-        "last_update_ts": "2021-10-06T21:10:06.909Z",
-        "active_ind": "Y",
-        "file_manager_id": "7295aec0-42b1-4dba-bc9e-709659f573af",
-        "file_folder_path": "Issues and Programs Lists/2021/3rd Qtr 2021",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/3rd Qtr 2021/WBMC Fill Report 070121-093021",
-        "entity_id": "14734",
-        "source_service_code": "AM",
-        "callsign": "WBMC",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1712906149902155800,
         "score": 0.249957
       }
     ],
@@ -418,7 +418,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54238,
-        "Issues and Programs Lists": 43541,
+        "Issues and Programs Lists": 43543,
         "Equal Employment Opportunity Records": 36999,
         "Donor Lists - Applicable Only for NCEs": 11291,
         "FCC Authorizations": 7142,
@@ -447,8 +447,8 @@
       "source_service_code": {
         "TV": 233000,
         "CABLE": 114318,
-        "FM": 108494,
-        "AM": 40575,
+        "FM": 108495,
+        "AM": 40576,
         "DBS": 5149
       },
       "political_file_type": {
@@ -469,8 +469,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1710,
-    "processTime": 717,
-    "responseTime": 1718
+    "queryTime": 1717,
+    "processTime": 724,
+    "responseTime": 1724
   }
 }
