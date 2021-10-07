@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 501541,
+    "numFound": 501543,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "f467b7ff-ed7d-34e3-adee-41c604aa506d",
+        "file_id": "f467b7ff-ed7d-34e3-adee-41c604aa506d",
+        "file_name": "1114565-0",
+        "file_extension": "pdf",
+        "file_size": 129637,
+        "file_status": "com_cpy",
+        "folder_id": "64e9ca45-0104-1d86-b00a-9fcd57a75b95",
+        "create_ts": "2021-10-07T03:10:41.877Z",
+        "last_update_ts": "2021-10-07T03:10:48.216Z",
+        "active_ind": "Y",
+        "file_manager_id": "090fa37c-fd39-4b5b-8c98-b78fea554dbd",
+        "file_folder_path": "Political Files/2021/Local/County Executive/Laura Curran",
+        "full_qualified_file_name": "Political Files/2021/Local/County Executive/Laura Curran/1114565-0",
+        "entity_id": "22206",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "NEW YORK",
+        "callsign": "WNYW",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1712928841786196000,
+        "score": 0.249957
+      },
+      {
+        "id": "c86432cc-a7a8-64cc-ae8f-b5ad96b8c5ba",
+        "file_id": "c86432cc-a7a8-64cc-ae8f-b5ad96b8c5ba",
+        "file_name": "09 2021 LUP Tracksheet",
+        "file_extension": "pdf",
+        "file_size": 95971,
+        "file_status": "com_cpy",
+        "folder_id": "eb1a4096-9dfa-55b6-d600-0e34fc3f9d03",
+        "create_ts": "2021-10-07T02:54:03.478Z",
+        "last_update_ts": "2021-10-07T02:54:03.435Z",
+        "active_ind": "Y",
+        "file_manager_id": "1d501d34-0895-4656-8236-60d2f31d5b46",
+        "file_folder_path": "Issues and Programs Lists/Lighten Up with Ken Davis",
+        "full_qualified_file_name": "Issues and Programs Lists/Lighten Up with Ken Davis/09 2021 LUP Tracksheet",
+        "entity_id": "92641",
+        "source_service_code": "FM",
+        "callsign": "WVFA",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712927795230802000,
+        "score": 0.249957
+      },
       {
         "id": "cd70e7d1-13e7-085e-0080-be6514d999e0",
         "file_id": "cd70e7d1-13e7-085e-0080-be6514d999e0",
@@ -174,52 +220,6 @@
         "campaign_year": "2021",
         "_version_": 1712912633646022700,
         "score": 0.249957
-      },
-      {
-        "id": "68c6d7db-c0d2-a994-073f-c9c75ea0e84e",
-        "file_id": "68c6d7db-c0d2-a994-073f-c9c75ea0e84e",
-        "file_name": "2021-09-28_COZI_Aired_E_I_Shows_3Q21",
-        "file_extension": "pdf",
-        "file_size": 157080,
-        "file_status": "com_cpy",
-        "folder_id": "a5f41370-a769-2bf5-5c0f-54df05ffca77",
-        "create_ts": "2021-10-06T22:06:23.431Z",
-        "last_update_ts": "2021-10-06T22:06:29.163Z",
-        "active_ind": "Y",
-        "file_manager_id": "8b2821ad-4e10-4300-9b72-1c2e5dd3a4e7",
-        "file_folder_path": "Records Concerning Commercial Limits in Childrens Programs/2021",
-        "full_qualified_file_name": "Records Concerning Commercial Limits in Childrens Programs/2021/2021-09-28_COZI_Aired_E_I_Shows_3Q21",
-        "entity_id": "50182",
-        "source_service_code": "TV",
-        "network_affiliation": "MYTV",
-        "nielsen_dma_rank": "OKLAHOMA CITY",
-        "callsign": "KAUT-TV",
-        "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
-        "_version_": 1712909696328794000,
-        "score": 0.249957
-      },
-      {
-        "id": "d5f4430d-9f83-ef9a-d783-8f4eee94fb60",
-        "file_id": "d5f4430d-9f83-ef9a-d783-8f4eee94fb60",
-        "file_name": "KAUT 2021 Q3 Children's TV Programming Commercial Limits Certification 10-04-2021",
-        "file_extension": "pdf",
-        "file_size": 142584,
-        "file_status": "com_cpy",
-        "folder_id": "a5f41370-a769-2bf5-5c0f-54df05ffca77",
-        "create_ts": "2021-10-06T22:05:47.721Z",
-        "last_update_ts": "2021-10-06T22:05:53.424Z",
-        "active_ind": "Y",
-        "file_manager_id": "7576a5a8-b8d8-465e-84aa-fcde3157e334",
-        "file_folder_path": "Records Concerning Commercial Limits in Childrens Programs/2021",
-        "full_qualified_file_name": "Records Concerning Commercial Limits in Childrens Programs/2021/KAUT 2021 Q3 Children's TV Programming Commercial Limits Certification 10-04-2021",
-        "entity_id": "50182",
-        "source_service_code": "TV",
-        "network_affiliation": "MYTV",
-        "nielsen_dma_rank": "OKLAHOMA CITY",
-        "callsign": "KAUT-TV",
-        "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
-        "_version_": 1712909658862125000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -291,7 +291,7 @@
         "GLENDIVE": 1060,
         "GREEN BAY-APPLETON": 1042,
         "ORLANDO-DAYTONA BCH-MELBRN": 1035,
-        "NEW YORK": 1028,
+        "NEW YORK": 1029,
         "LITTLE ROCK-PINE BLUFF": 1007,
         "ST. LOUIS": 1003,
         "COLUMBUS OH": 997,
@@ -329,7 +329,7 @@
         "ABC": 56938,
         "NBC": 55915,
         "CBS": 37876,
-        "FOX": 27304,
+        "FOX": 27305,
         "PBS": 14030,
         "CW": 11958,
         "IND": 2980,
@@ -397,7 +397,7 @@
         "2018": 68035,
         "2019": 14118,
         "2020": 125954,
-        "2021": 16777,
+        "2021": 16778,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -406,11 +406,11 @@
         "US Senate": 48465,
         "US House": 41462,
         "Presidential": 39060,
-        "Local": 22953
+        "Local": 22954
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54238,
-        "Issues and Programs Lists": 43545,
+        "Issues and Programs Lists": 43546,
         "Equal Employment Opportunity Records": 36999,
         "Donor Lists - Applicable Only for NCEs": 11291,
         "FCC Authorizations": 7142,
@@ -437,14 +437,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233000,
+        "TV": 233001,
         "CABLE": 114318,
-        "FM": 108496,
+        "FM": 108497,
         "AM": 40577,
         "DBS": 5150
       },
       "political_file_type": {
-        "PA": 217612,
+        "PA": 217613,
         "NCIA": 118014
       }
     }
@@ -461,8 +461,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1711,
-    "processTime": 721,
-    "responseTime": 1721
+    "queryTime": 205,
+    "processTime": 212,
+    "responseTime": 212
   }
 }
