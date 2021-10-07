@@ -1,9 +1,54 @@
 {
   "response": {
-    "numFound": 501553,
+    "numFound": 501555,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "1ece7961-b105-66b5-107f-41e7cce7bbac",
+        "file_id": "1ece7961-b105-66b5-107f-41e7cce7bbac",
+        "file_name": "WLAJ BBT 10422 3224670 0930-1006",
+        "file_extension": "pdf",
+        "file_size": 248044,
+        "file_status": "com_cpy",
+        "folder_id": "ef41f486-0bd2-0bf1-9e0d-35b68a720319",
+        "create_ts": "2021-10-07T13:31:55.069Z",
+        "last_update_ts": "2021-10-07T13:32:02.922Z",
+        "active_ind": "Y",
+        "file_manager_id": "c3db6e03-388b-45ae-b9f0-9df6754d96b8",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Building Back Together",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Building Back Together/WLAJ BBT 10422 3224670 0930-1006",
+        "entity_id": "36533",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "LANSING",
+        "callsign": "WLAJ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1712967926015852500,
+        "score": 0.249957
+      },
+      {
+        "id": "b4b6c8af-8283-0ac0-1e43-62038d7904c7",
+        "file_id": "b4b6c8af-8283-0ac0-1e43-62038d7904c7",
+        "file_name": "WHLF 2021 3rd qtr 10 07 21",
+        "file_extension": "pdf",
+        "file_size": 117273,
+        "file_status": "com_cpy",
+        "folder_id": "e4573e99-0369-5814-26d8-1c823070075d",
+        "create_ts": "2021-10-07T13:31:22.031Z",
+        "last_update_ts": "2021-10-07T13:31:21.458Z",
+        "active_ind": "Y",
+        "file_manager_id": "cd8d03f5-eaef-4fdf-a61f-4151e1d064d1",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/WHLF 2021 3rd qtr 10 07 21",
+        "entity_id": "31178",
+        "source_service_code": "FM",
+        "callsign": "WHLF",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1712967890815156200,
+        "score": 0.249957
+      },
       {
         "id": "b3bd0e59-f620-fd14-983c-16f4173e4b04",
         "file_id": "b3bd0e59-f620-fd14-983c-16f4173e4b04",
@@ -194,54 +239,6 @@
         "campaign_year": "2021",
         "_version_": 1712960326955171800,
         "score": 0.249957
-      },
-      {
-        "id": "79454445-da75-961c-8d0e-ef7b2561649c",
-        "file_id": "79454445-da75-961c-8d0e-ef7b2561649c",
-        "file_name": "American Democratic Majority LD8A - Traffic Instructions-10-06-21 BC",
-        "file_extension": "pdf",
-        "file_size": 258676,
-        "file_status": "com_cpy",
-        "folder_id": "8b3ada2d-b4a4-0159-e24c-a1af316de895",
-        "create_ts": "2021-10-07T11:30:31.635Z",
-        "last_update_ts": "2021-10-07T11:30:38.877Z",
-        "active_ind": "Y",
-        "file_manager_id": "2668753b-69dd-4648-b113-5bed64e7658e",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AMERICAN DEMOCRATIC MAJORITY",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AMERICAN DEMOCRATIC MAJORITY/American Democratic Majority LD8A - Traffic Instructions-10-06-21 BC",
-        "entity_id": "12499",
-        "source_service_code": "TV",
-        "network_affiliation": "THE CW NETWORK",
-        "nielsen_dma_rank": "PHILADELPHIA",
-        "callsign": "WPSG",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712960288363380700,
-        "score": 0.249957
-      },
-      {
-        "id": "852e93e3-4d4c-3d51-6d17-85ff4cd33dd7",
-        "file_id": "852e93e3-4d4c-3d51-6d17-85ff4cd33dd7",
-        "file_name": "American Democratic Majority LD8S - Traffic Instructions-10-06-21 BC",
-        "file_extension": "pdf",
-        "file_size": 262082,
-        "file_status": "com_cpy",
-        "folder_id": "8b3ada2d-b4a4-0159-e24c-a1af316de895",
-        "create_ts": "2021-10-07T11:30:31.635Z",
-        "last_update_ts": "2021-10-07T11:30:31.227Z",
-        "active_ind": "Y",
-        "file_manager_id": "63c7658e-2088-4217-bcec-332f886bd0a4",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AMERICAN DEMOCRATIC MAJORITY",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AMERICAN DEMOCRATIC MAJORITY/American Democratic Majority LD8S - Traffic Instructions-10-06-21 BC",
-        "entity_id": "12499",
-        "source_service_code": "TV",
-        "network_affiliation": "THE CW NETWORK",
-        "nielsen_dma_rank": "PHILADELPHIA",
-        "callsign": "WPSG",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1712960288377012200,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -319,7 +316,7 @@
         "COLUMBUS OH": 997,
         "JACKSON MS": 989,
         "WICHITA-HUTCHINSON PLUS": 958,
-        "LANSING": 938,
+        "LANSING": 939,
         "FT. SMITH-FAY-SPRNGDL-RGRS": 909,
         "LOUISVILLE": 898,
         "PANAMA CITY": 858,
@@ -348,7 +345,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 56938,
+        "ABC": 56939,
         "NBC": 55916,
         "CBS": 37881,
         "FOX": 27305,
@@ -419,7 +416,7 @@
         "2018": 68035,
         "2019": 14118,
         "2020": 125954,
-        "2021": 16787,
+        "2021": 16788,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -432,7 +429,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54238,
-        "Issues and Programs Lists": 43547,
+        "Issues and Programs Lists": 43548,
         "Equal Employment Opportunity Records": 36999,
         "Donor Lists - Applicable Only for NCEs": 11291,
         "FCC Authorizations": 7142,
@@ -459,15 +456,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233011,
+        "TV": 233012,
         "CABLE": 114318,
-        "FM": 108497,
+        "FM": 108498,
         "AM": 40577,
         "DBS": 5150
       },
       "political_file_type": {
         "PA": 217613,
-        "NCIA": 118023
+        "NCIA": 118024
       }
     }
   },
@@ -483,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1716,
-    "processTime": 723,
-    "responseTime": 1723
+    "queryTime": 1723,
+    "processTime": 732,
+    "responseTime": 1733
   }
 }
