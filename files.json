@@ -1,9 +1,72 @@
 {
   "response": {
-    "numFound": 501789,
+    "numFound": 501792,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "c6307e37-e129-7ca1-f3e6-3bbdf7e215dd",
+        "file_id": "c6307e37-e129-7ca1-f3e6-3bbdf7e215dd",
+        "file_name": "HQ Energy Services ME NAB_ORD21-000369_20211004_00001 Oil Gas Revised 100721",
+        "file_extension": "pdf",
+        "file_size": 124702,
+        "file_status": "com_cpy",
+        "folder_id": "3dfeed5a-9f50-3abc-5d8d-44db27326a29",
+        "create_ts": "2021-10-08T01:21:05.949Z",
+        "last_update_ts": "2021-10-08T01:21:14.57Z",
+        "active_ind": "Y",
+        "file_manager_id": "aae7415f-8383-4eaf-b632-9fea3b030be7",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Maine/HQ Energy Services",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Maine/HQ Energy Services/HQ Energy Services ME NAB_ORD21-000369_20211004_00001 Oil Gas Revised 100721",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713012543356665900,
+        "score": 0.249957
+      },
+      {
+        "id": "cb9f8a16-3170-7cf0-7b6c-22dc4a90ef07",
+        "file_id": "cb9f8a16-3170-7cf0-7b6c-22dc4a90ef07",
+        "file_name": "HQ Energy Services ME NAB_ORD21-000369_20211004_00001 Retroactive 100721",
+        "file_extension": "pdf",
+        "file_size": 124716,
+        "file_status": "com_cpy",
+        "folder_id": "3dfeed5a-9f50-3abc-5d8d-44db27326a29",
+        "create_ts": "2021-10-08T01:21:05.587Z",
+        "last_update_ts": "2021-10-08T01:21:05.662Z",
+        "active_ind": "Y",
+        "file_manager_id": "a6b5cfb3-5d0d-4885-b90a-8638b96e95a2",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Maine/HQ Energy Services",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Maine/HQ Energy Services/HQ Energy Services ME NAB_ORD21-000369_20211004_00001 Retroactive 100721",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713012542922555400,
+        "score": 0.249957
+      },
+      {
+        "id": "3521f557-7edf-2594-65e1-99c9710f6f05",
+        "file_id": "3521f557-7edf-2594-65e1-99c9710f6f05",
+        "file_name": "HQ Energy Services ME NAB_ORD21-000369_20211004_00001 Business Impact 100721",
+        "file_extension": "pdf",
+        "file_size": 124712,
+        "file_status": "com_cpy",
+        "folder_id": "3dfeed5a-9f50-3abc-5d8d-44db27326a29",
+        "create_ts": "2021-10-08T01:21:05.761Z",
+        "last_update_ts": "2021-10-08T01:21:05.143Z",
+        "active_ind": "Y",
+        "file_manager_id": "b6c9a2a2-e53e-454d-9100-cbc486815ddc",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Maine/HQ Energy Services",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Maine/HQ Energy Services/HQ Energy Services ME NAB_ORD21-000369_20211004_00001 Business Impact 100721",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713012543165825000,
+        "score": 0.249957
+      },
       {
         "id": "84705e86-07f6-d2c8-210a-50cdb4433943",
         "file_id": "84705e86-07f6-d2c8-210a-50cdb4433943",
@@ -149,69 +212,6 @@
         "callsign": "KETP",
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1713010912942620700,
-        "score": 0.249957
-      },
-      {
-        "id": "085eb5ea-fc9f-2bb9-1c54-46431b71d466",
-        "file_id": "085eb5ea-fc9f-2bb9-1c54-46431b71d466",
-        "file_name": "American Public Media_090121-093021",
-        "file_extension": "pdf",
-        "file_size": 130138,
-        "file_status": "com_cpy",
-        "folder_id": "206b3b4d-163c-7083-4151-acf59133a069",
-        "create_ts": "2021-10-08T00:55:10.448Z",
-        "last_update_ts": "2021-10-08T00:55:09.712Z",
-        "active_ind": "Y",
-        "file_manager_id": "8c5d2709-2546-48ee-b673-e8278f70dacd",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/American Public Media",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/American Public Media/American Public Media_090121-093021",
-        "entity_id": "173179",
-        "source_service_code": "FM",
-        "callsign": "KOTD",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1713010912177160200,
-        "score": 0.249957
-      },
-      {
-        "id": "beb36327-dbd2-8c90-04da-9e83e856f890",
-        "file_id": "beb36327-dbd2-8c90-04da-9e83e856f890",
-        "file_name": "American Public Media_090121-093021",
-        "file_extension": "pdf",
-        "file_size": 130138,
-        "file_status": "com_cpy",
-        "folder_id": "8f66188c-976a-8eae-6d71-278a088be4c5",
-        "create_ts": "2021-10-08T00:55:09.544Z",
-        "last_update_ts": "2021-10-08T00:55:09.647Z",
-        "active_ind": "Y",
-        "file_manager_id": "21d41514-ccd6-4ad6-8707-1b288603132f",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/American Public Media",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/American Public Media/American Public Media_090121-093021",
-        "entity_id": "91082",
-        "source_service_code": "FM",
-        "callsign": "KTMK",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1713010911320473600,
-        "score": 0.249957
-      },
-      {
-        "id": "fb5e0b14-e0ce-2985-8b0c-8a69665a2bd0",
-        "file_id": "fb5e0b14-e0ce-2985-8b0c-8a69665a2bd0",
-        "file_name": "American Public Media_090121-093021",
-        "file_extension": "pdf",
-        "file_size": 130138,
-        "file_status": "com_cpy",
-        "folder_id": "a21b6f91-b430-336b-a3e2-9906b003b7f4",
-        "create_ts": "2021-10-08T00:54:59.776Z",
-        "last_update_ts": "2021-10-08T00:55:08.734Z",
-        "active_ind": "Y",
-        "file_manager_id": "304d0942-ce1b-4646-a4d9-0a6a2616e6d2",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/American Public Media",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/American Public Media/American Public Media_090121-093021",
-        "entity_id": "94194",
-        "source_service_code": "FM",
-        "callsign": "KTVR-FM",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1713010901504753700,
         "score": 0.249957
       }
     ],
@@ -390,7 +390,7 @@
         "2018": 68034,
         "2019": 14111,
         "2020": 125954,
-        "2021": 16842,
+        "2021": 16845,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -434,11 +434,11 @@
         "CABLE": 114334,
         "FM": 108644,
         "AM": 40603,
-        "DBS": 5149
+        "DBS": 5152
       },
       "political_file_type": {
         "PA": 217645,
-        "NCIA": 118038
+        "NCIA": 118041
       }
     }
   },
@@ -454,8 +454,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1711,
-    "processTime": 718,
-    "responseTime": 1718
+    "queryTime": 203,
+    "processTime": 209,
+    "responseTime": 209
   }
 }
