@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 501793,
+    "numFound": 501791,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
@@ -405,7 +405,7 @@
         "Records Concerning Commercial Limits in Childrens Programs": 54246,
         "Issues and Programs Lists": 43626,
         "Equal Employment Opportunity Records": 36999,
-        "Donor Lists - Applicable Only for NCEs": 11392,
+        "Donor Lists - Applicable Only for NCEs": 11390,
         "FCC Authorizations": 7142,
         "Local Public Notice Announcements": 1742,
         "Applications and Related Materials": 1604,
@@ -432,7 +432,7 @@
       "source_service_code": {
         "TV": 233059,
         "CABLE": 114334,
-        "FM": 108645,
+        "FM": 108643,
         "AM": 40603,
         "DBS": 5152
       },
@@ -454,8 +454,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1799,
-    "processTime": 806,
-    "responseTime": 1806
+    "queryTime": 1714,
+    "processTime": 725,
+    "responseTime": 1726
   }
 }
