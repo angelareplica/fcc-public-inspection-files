@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 501792,
+    "numFound": 501793,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "cb248167-0790-33d1-5bdc-ab07e2db053f",
+        "file_id": "cb248167-0790-33d1-5bdc-ab07e2db053f",
+        "file_name": "2021, Qtr 3 Issues Page",
+        "file_extension": "doc",
+        "file_size": 40448,
+        "file_status": "com_prc",
+        "folder_id": "f66ce9b1-2d1e-0996-9dd3-06f451216ad3",
+        "create_ts": "2021-10-08T02:27:00.627Z",
+        "last_update_ts": "2021-10-08T02:27:16.918Z",
+        "active_ind": "Y",
+        "file_manager_id": "e1410e71-7229-4085-b4dc-3bb3c30b0c23",
+        "file_folder_path": "Issues and Programs Lists/2021",
+        "full_qualified_file_name": "Issues and Programs Lists/2021/2021, Qtr 3 Issues Page",
+        "entity_id": "82987",
+        "source_service_code": "FM",
+        "callsign": "KJRF",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1713016707089432600,
+        "score": 0.0001249785
+      },
       {
         "id": "c6307e37-e129-7ca1-f3e6-3bbdf7e215dd",
         "file_id": "c6307e37-e129-7ca1-f3e6-3bbdf7e215dd",
@@ -191,27 +212,6 @@
         "callsign": "KOPB",
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1713010903802183700,
-        "score": 0.249957
-      },
-      {
-        "id": "66785e00-78ff-029a-d965-226c08d2b366",
-        "file_id": "66785e00-78ff-029a-d965-226c08d2b366",
-        "file_name": "American Public Media_090121-093021",
-        "file_extension": "pdf",
-        "file_size": 130138,
-        "file_status": "com_cpy",
-        "folder_id": "3f27ad26-fb69-bb45-d531-e686042a2c37",
-        "create_ts": "2021-10-08T00:55:11.147Z",
-        "last_update_ts": "2021-10-08T00:55:10.445Z",
-        "active_ind": "Y",
-        "file_manager_id": "fec1bba3-a82c-49d9-8c9f-146cb3209b99",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/American Public Media",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/American Public Media/American Public Media_090121-093021",
-        "entity_id": "174467",
-        "source_service_code": "FM",
-        "callsign": "KETP",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1713010912942620700,
         "score": 0.249957
       }
     ],
@@ -403,7 +403,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54246,
-        "Issues and Programs Lists": 43625,
+        "Issues and Programs Lists": 43626,
         "Equal Employment Opportunity Records": 36999,
         "Donor Lists - Applicable Only for NCEs": 11392,
         "FCC Authorizations": 7142,
@@ -432,7 +432,7 @@
       "source_service_code": {
         "TV": 233059,
         "CABLE": 114334,
-        "FM": 108644,
+        "FM": 108645,
         "AM": 40603,
         "DBS": 5152
       },
@@ -454,8 +454,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 203,
-    "processTime": 209,
-    "responseTime": 209
+    "queryTime": 1722,
+    "processTime": 731,
+    "responseTime": 1731
   }
 }
