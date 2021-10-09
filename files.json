@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 502298,
+    "numFound": 502299,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "509a1b10-6fae-85d1-54e0-9a7f35700287",
+        "file_id": "509a1b10-6fae-85d1-54e0-9a7f35700287",
+        "file_name": "KYYA Quarterly Issues Report 3nd Quarter 2021 - Page 2",
+        "file_extension": "docx",
+        "file_size": 15759,
+        "file_status": "com_prc",
+        "folder_id": "1cad196f-f42c-2b54-b24d-ba59374a92a8",
+        "create_ts": "2021-10-09T17:08:59.965Z",
+        "last_update_ts": "2021-10-09T17:09:27.72Z",
+        "active_ind": "Y",
+        "file_manager_id": "f4e55725-52b8-46dc-b950-501c79c3b59c",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/KYYA Quarterly Issues Report 3nd Quarter 2021 - Page 2",
+        "entity_id": "19216",
+        "source_service_code": "AM",
+        "callsign": "KYYA",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1713162792734818300,
+        "score": 0.0001249785
+      },
       {
         "id": "1021e2e3-5312-7e97-044a-b07c790b2675",
         "file_id": "1021e2e3-5312-7e97-044a-b07c790b2675",
@@ -215,30 +236,6 @@
         "campaign_year": "2021",
         "_version_": 1713113737679863800,
         "score": 0.249957
-      },
-      {
-        "id": "6437ed92-4c43-e731-aace-f9c46adf2000",
-        "file_id": "6437ed92-4c43-e731-aace-f9c46adf2000",
-        "file_name": "Future Majority - N#3440017 - 071621-080821 - IC",
-        "file_extension": "pdf",
-        "file_size": 360143,
-        "file_status": "com_cpy",
-        "folder_id": "96c8b1fb-87e4-b7d1-0dbd-768b49fb9570",
-        "create_ts": "2021-10-09T04:09:32.566Z",
-        "last_update_ts": "2021-10-09T04:09:31.765Z",
-        "active_ind": "Y",
-        "file_manager_id": "de1e4e08-323b-4c89-9fed-ee02c999c547",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Future Majority",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Future Majority/Future Majority - N#3440017 - 071621-080821 - IC",
-        "entity_id": "007293",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS LAS VEGAS INC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1713113737975562200,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -429,7 +426,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54246,
-        "Issues and Programs Lists": 43791,
+        "Issues and Programs Lists": 43792,
         "Equal Employment Opportunity Records": 36999,
         "Donor Lists - Applicable Only for NCEs": 11391,
         "FCC Authorizations": 7132,
@@ -459,7 +456,7 @@
         "TV": 233097,
         "CABLE": 114461,
         "FM": 108822,
-        "AM": 40677,
+        "AM": 40678,
         "DBS": 5241
       },
       "political_file_type": {
@@ -480,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 213,
-    "responseTime": 213
+    "queryTime": 1714,
+    "processTime": 722,
+    "responseTime": 1723
   }
 }
