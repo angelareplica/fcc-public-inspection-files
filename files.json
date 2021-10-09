@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 502298,
+    "numFound": 502299,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "d348d7f3-906e-2306-258a-78332712bfe4",
+        "file_id": "d348d7f3-906e-2306-258a-78332712bfe4",
+        "file_name": "KTED InfoTrak quarterly report, 2021-03",
+        "file_extension": "doc",
+        "file_size": 102400,
+        "file_status": "com_prc",
+        "folder_id": "c7ee1494-11e2-e3e5-3a13-60b24f2c32d8",
+        "create_ts": "2021-10-09T20:26:58.087Z",
+        "last_update_ts": "2021-10-09T20:27:19.091Z",
+        "active_ind": "Y",
+        "file_manager_id": "83210a21-aa42-4252-9cd4-114f2f42e4c9",
+        "file_folder_path": "Issues and Programs Lists/2021 Q3",
+        "full_qualified_file_name": "Issues and Programs Lists/2021 Q3/KTED InfoTrak quarterly report, 2021-03",
+        "entity_id": "164285",
+        "source_service_code": "FM",
+        "callsign": "KTED",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1713175254099034000,
+        "score": 0.249957
+      },
       {
         "id": "509a1b10-6fae-85d1-54e0-9a7f35700287",
         "file_id": "509a1b10-6fae-85d1-54e0-9a7f35700287",
@@ -212,30 +233,6 @@
         "campaign_year": "2021",
         "_version_": 1713116976867442700,
         "score": 0.249957
-      },
-      {
-        "id": "1fd4bfa9-c467-1166-0bed-c2be11ae9c0a",
-        "file_id": "1fd4bfa9-c467-1166-0bed-c2be11ae9c0a",
-        "file_name": "Future Majority - N#3440020 - 071921-080821 - DISH",
-        "file_extension": "pdf",
-        "file_size": 232651,
-        "file_status": "com_cpy",
-        "folder_id": "96c8b1fb-87e4-b7d1-0dbd-768b49fb9570",
-        "create_ts": "2021-10-09T04:09:32.329Z",
-        "last_update_ts": "2021-10-09T04:09:43.76Z",
-        "active_ind": "Y",
-        "file_manager_id": "7a65fbe4-9574-4262-a804-f511b7bdea3e",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Future Majority",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Future Majority/Future Majority - N#3440020 - 071921-080821 - DISH",
-        "entity_id": "007293",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS LAS VEGAS INC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1713113737679863800,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -426,7 +423,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54246,
-        "Issues and Programs Lists": 43792,
+        "Issues and Programs Lists": 43793,
         "Equal Employment Opportunity Records": 36999,
         "Donor Lists - Applicable Only for NCEs": 11391,
         "FCC Authorizations": 7132,
@@ -455,7 +452,7 @@
       "source_service_code": {
         "TV": 233097,
         "CABLE": 114461,
-        "FM": 108821,
+        "FM": 108822,
         "AM": 40678,
         "DBS": 5241
       },
@@ -477,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1716,
-    "processTime": 724,
-    "responseTime": 1725
+    "queryTime": 1722,
+    "processTime": 730,
+    "responseTime": 1731
   }
 }
