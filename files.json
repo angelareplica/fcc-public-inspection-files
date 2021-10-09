@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 502300,
+    "numFound": 502298,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
@@ -432,7 +432,7 @@
         "Issues and Programs Lists": 43791,
         "Equal Employment Opportunity Records": 36999,
         "Donor Lists - Applicable Only for NCEs": 11391,
-        "FCC Authorizations": 7134,
+        "FCC Authorizations": 7132,
         "Local Public Notice Announcements": 1742,
         "Applications and Related Materials": 1604,
         "Availability of Signals": 1504,
@@ -458,7 +458,7 @@
       "source_service_code": {
         "TV": 233097,
         "CABLE": 114461,
-        "FM": 108824,
+        "FM": 108822,
         "AM": 40677,
         "DBS": 5241
       },
@@ -480,7 +480,7 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
+    "queryTime": 202,
     "processTime": 213,
     "responseTime": 213
   }
