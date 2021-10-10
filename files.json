@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 502343,
+    "numFound": 502344,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "1aae8b6b-7803-b089-43ad-bb07b14f0684",
+        "file_id": "1aae8b6b-7803-b089-43ad-bb07b14f0684",
+        "file_name": "FCC QUARTERLY REPORT JULY 01 TO SEPTEMBER 30 2021",
+        "file_extension": "docx",
+        "file_size": 23043,
+        "file_status": "com_prc",
+        "folder_id": "173c6eb8-97ac-9d65-73e7-1f5aafed3a43",
+        "create_ts": "2021-10-10T21:18:57.775Z",
+        "last_update_ts": "2021-10-10T21:18:59.742Z",
+        "active_ind": "Y",
+        "file_manager_id": "329da1b2-50a1-4b7c-8df8-330218b6f838",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/FCC QUARTERLY REPORT JULY 01 TO SEPTEMBER 30 2021",
+        "entity_id": "36185",
+        "source_service_code": "AM",
+        "callsign": "KZUE",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1713269102359871500,
+        "score": 0.249957
+      },
       {
         "id": "11b11952-583b-3677-4167-509182f4e073",
         "file_id": "11b11952-583b-3677-4167-509182f4e073",
@@ -191,27 +212,6 @@
         "callsign": "KSPE",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1713201693739450400,
-        "score": 0.249957
-      },
-      {
-        "id": "f866a1a0-a1b4-64af-f58b-2e2073bd3639",
-        "file_id": "f866a1a0-a1b4-64af-f58b-2e2073bd3639",
-        "file_name": "KSPE Public Affair Log -07.2021 CCL",
-        "file_extension": "doc",
-        "file_size": 46592,
-        "file_status": "com_prc",
-        "folder_id": "36f78b9b-cc34-308c-152c-24297d129119",
-        "create_ts": "2021-10-10T03:27:17.532Z",
-        "last_update_ts": "2021-10-10T03:27:32.589Z",
-        "active_ind": "Y",
-        "file_manager_id": "9451d443-7301-4c4e-97d5-c0332b1e7047",
-        "file_folder_path": "Issues and Programs Lists/2021 Public Affair Logs/3rd Quarter 2021",
-        "full_qualified_file_name": "Issues and Programs Lists/2021 Public Affair Logs/3rd Quarter 2021/KSPE Public Affair Log -07.2021 CCL",
-        "entity_id": "61058",
-        "source_service_code": "FM",
-        "callsign": "KSPE",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1713201677889175600,
         "score": 0.249957
       }
     ],
@@ -403,7 +403,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54246,
-        "Issues and Programs Lists": 43836,
+        "Issues and Programs Lists": 43837,
         "Equal Employment Opportunity Records": 36999,
         "Donor Lists - Applicable Only for NCEs": 11392,
         "FCC Authorizations": 7132,
@@ -433,7 +433,7 @@
         "TV": 233097,
         "CABLE": 114461,
         "FM": 108855,
-        "AM": 40689,
+        "AM": 40690,
         "DBS": 5241
       },
       "political_file_type": {
@@ -454,8 +454,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 218,
-    "responseTime": 218
+    "queryTime": 1715,
+    "processTime": 723,
+    "responseTime": 1724
   }
 }
