@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 502312,
+    "numFound": 502313,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "3dba0132-c2dc-cae2-df50-3693dd42be9c",
+        "file_id": "3dba0132-c2dc-cae2-df50-3693dd42be9c",
+        "file_name": "donor-lists-clarification-20210711-004453923",
+        "file_extension": "pdf",
+        "file_size": 74352,
+        "file_status": "com_cpy",
+        "folder_id": "288f3f1e-ee2c-5b0a-ac96-e343466e0f79",
+        "create_ts": "2021-10-10T01:57:50.325Z",
+        "last_update_ts": "2021-10-10T01:57:50.472Z",
+        "active_ind": "Y",
+        "file_manager_id": "eb260bef-74d7-4f57-99f6-bd5f00526de4",
+        "file_folder_path": "Donor Lists - Applicable Only for NCEs/2021 Donor lists",
+        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/2021 Donor lists/donor-lists-clarification-20210711-004453923",
+        "entity_id": "18298",
+        "source_service_code": "FM",
+        "callsign": "WECS",
+        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
+        "_version_": 1713196048808149000,
+        "score": 0.249957
+      },
       {
         "id": "44aa5581-5dab-ce65-54f7-f89536fc551e",
         "file_id": "44aa5581-5dab-ce65-54f7-f89536fc551e",
@@ -191,27 +212,6 @@
         "callsign": "WSUM",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1713185829411618800,
-        "score": 0.249957
-      },
-      {
-        "id": "9e165af0-3ec2-7d22-b208-e2925b904e83",
-        "file_id": "9e165af0-3ec2-7d22-b208-e2925b904e83",
-        "file_name": "TMI 2021-08-13 Public Service Log",
-        "file_extension": "pdf",
-        "file_size": 170807,
-        "file_status": "com_cpy",
-        "folder_id": "8159882f-3eaf-f42a-2193-9a2a269d4a91",
-        "create_ts": "2021-10-09T23:15:23.872Z",
-        "last_update_ts": "2021-10-09T23:15:24.011Z",
-        "active_ind": "Y",
-        "file_manager_id": "9b5bf1ca-73b5-43b9-bf00-40dca7170dbc",
-        "file_folder_path": "Issues and Programs Lists/2021 3rd Qtr Jul-Sept",
-        "full_qualified_file_name": "Issues and Programs Lists/2021 3rd Qtr Jul-Sept/TMI 2021-08-13 Public Service Log",
-        "entity_id": "79040",
-        "source_service_code": "FM",
-        "callsign": "WSUM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1713185828900962300,
         "score": 0.249957
       }
     ],
@@ -405,7 +405,7 @@
         "Records Concerning Commercial Limits in Childrens Programs": 54246,
         "Issues and Programs Lists": 43806,
         "Equal Employment Opportunity Records": 36999,
-        "Donor Lists - Applicable Only for NCEs": 11391,
+        "Donor Lists - Applicable Only for NCEs": 11392,
         "FCC Authorizations": 7132,
         "Local Public Notice Announcements": 1742,
         "Applications and Related Materials": 1604,
@@ -432,7 +432,7 @@
       "source_service_code": {
         "TV": 233097,
         "CABLE": 114461,
-        "FM": 108835,
+        "FM": 108836,
         "AM": 40678,
         "DBS": 5241
       },
@@ -454,8 +454,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1735,
-    "processTime": 741,
-    "responseTime": 1742
+    "queryTime": 208,
+    "processTime": 215,
+    "responseTime": 216
   }
 }
