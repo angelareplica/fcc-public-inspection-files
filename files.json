@@ -5,6 +5,29 @@
     "maxScore": 0.500164,
     "docs": [
       {
+        "id": "d862514d-5a9a-b56b-a443-25827312ae73",
+        "file_id": "d862514d-5a9a-b56b-a443-25827312ae73",
+        "file_name": "2nd Qtr FCC I and P 06-2017",
+        "file_extension": "pdf",
+        "file_size": 81081,
+        "file_status": "com_cvt",
+        "folder_id": "0aa479e9-4f41-8e19-49f5-583c47dc1b87",
+        "create_ts": "2017-07-03T22:08:11.079Z",
+        "last_update_ts": "2021-10-12T18:34:47.361Z",
+        "active_ind": "Y",
+        "file_manager_id": "20038e11-9242-4fcd-8c72-f1a7e30275e0",
+        "file_folder_path": "Issues and Programs Lists/2017",
+        "full_qualified_file_name": "Issues and Programs Lists/2017/2nd Qtr FCC I and P 06-2017",
+        "entity_id": "16950",
+        "source_service_code": "TV",
+        "network_affiliation": "ETV",
+        "nielsen_dma_rank": "FRESNO-VISALIA",
+        "callsign": "KNXT",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1713439943845478400,
+        "score": 0.249957
+      },
+      {
         "id": "f1eae3a5-1448-973e-9e33-e3f851babdb3",
         "file_id": "f1eae3a5-1448-973e-9e33-e3f851babdb3",
         "file_name": "Est 000078",
@@ -222,31 +245,6 @@
         "office_type": "Local",
         "campaign_year": "2021",
         "_version_": 1713436628641382400,
-        "score": 0.249957
-      },
-      {
-        "id": "aacc282c-d91e-61a0-3b5e-cfbe35114b8d",
-        "file_id": "aacc282c-d91e-61a0-3b5e-cfbe35114b8d",
-        "file_name": "WA-Caroline Simmons for Mayor-62932241-ALT-0147",
-        "file_extension": "pdf",
-        "file_size": 55742,
-        "file_status": "com_cpy",
-        "folder_id": "c23d4fe8-504e-d808-8262-a16b48b99a07",
-        "create_ts": "2021-10-12T17:41:44.686Z",
-        "last_update_ts": "2021-10-12T17:41:42.946Z",
-        "active_ind": "Y",
-        "file_manager_id": "a9415e08-58b0-4e66-a0c6-59503ff5351f",
-        "file_folder_path": "Political Files/2021/Local/Caroline Simmons for Mayor-NYI",
-        "full_qualified_file_name": "Political Files/2021/Local/Caroline Simmons for Mayor-NYI/WA-Caroline Simmons for Mayor-62932241-ALT-0147",
-        "entity_id": "007341",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLEVISION SYSTEMS WESTCHESTER CORPORATION",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1713436628058374100,
         "score": 0.249957
       }
     ],
@@ -489,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 220,
-    "responseTime": 220
+    "queryTime": 1726,
+    "processTime": 732,
+    "responseTime": 1733
   }
 }
