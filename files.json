@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 502751,
+    "numFound": 502752,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "fffed5aa-3bda-0032-3dba-066d0b78698b",
+        "file_id": "fffed5aa-3bda-0032-3dba-066d0b78698b",
+        "file_name": "InfoTrak quarterly report, 2021-03_24.0 min",
+        "file_extension": "pdf",
+        "file_size": 160721,
+        "file_status": "com_cpy",
+        "folder_id": "814924fb-ca01-a255-0dfc-7f3309395296",
+        "create_ts": "2021-10-12T19:10:23.188Z",
+        "last_update_ts": "2021-10-12T19:10:23.497Z",
+        "active_ind": "Y",
+        "file_manager_id": "66f52d8f-3a1c-42d1-a36c-e0b91b887f81",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/InfoTrak quarterly report, 2021-03_24.0 min",
+        "entity_id": "81744",
+        "source_service_code": "FM",
+        "callsign": "KVMO",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1713442205246423000,
+        "score": 0.249957
+      },
       {
         "id": "d862514d-5a9a-b56b-a443-25827312ae73",
         "file_id": "d862514d-5a9a-b56b-a443-25827312ae73",
@@ -221,31 +242,6 @@
         "campaign_year": "2021",
         "_version_": 1713436696578621400,
         "score": 0.249957
-      },
-      {
-        "id": "95d1ca93-72aa-3243-a80d-370fdf1a6faf",
-        "file_id": "95d1ca93-72aa-3243-a80d-370fdf1a6faf",
-        "file_name": "WA-Caroline Simmons for Mayor-62932263-ALT-0147",
-        "file_extension": "pdf",
-        "file_size": 40099,
-        "file_status": "com_cpy",
-        "folder_id": "c23d4fe8-504e-d808-8262-a16b48b99a07",
-        "create_ts": "2021-10-12T17:41:45.214Z",
-        "last_update_ts": "2021-10-12T17:41:45.228Z",
-        "active_ind": "Y",
-        "file_manager_id": "c92d9716-1cf8-416a-bda1-a57998659d92",
-        "file_folder_path": "Political Files/2021/Local/Caroline Simmons for Mayor-NYI",
-        "full_qualified_file_name": "Political Files/2021/Local/Caroline Simmons for Mayor-NYI/WA-Caroline Simmons for Mayor-62932263-ALT-0147",
-        "entity_id": "007341",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLEVISION SYSTEMS WESTCHESTER CORPORATION",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1713436628641382400,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -436,7 +432,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
-        "Issues and Programs Lists": 44007,
+        "Issues and Programs Lists": 44008,
         "Equal Employment Opportunity Records": 37007,
         "Donor Lists - Applicable Only for NCEs": 11392,
         "FCC Authorizations": 7138,
@@ -465,7 +461,7 @@
       "source_service_code": {
         "TV": 233295,
         "CABLE": 114581,
-        "FM": 108883,
+        "FM": 108884,
         "AM": 40709,
         "DBS": 5283
       },
@@ -487,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1726,
-    "processTime": 732,
-    "responseTime": 1733
+    "queryTime": 1713,
+    "processTime": 719,
+    "responseTime": 1720
   }
 }
