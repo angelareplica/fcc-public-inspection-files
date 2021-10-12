@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 502645,
+    "numFound": 502646,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "86bf8ec9-3e9a-ec29-535c-0966c3314b71",
+        "file_id": "86bf8ec9-3e9a-ec29-535c-0966c3314b71",
+        "file_name": "2021.07-09,KQNC,Q3",
+        "file_extension": "pdf",
+        "file_size": 126937,
+        "file_status": "com_cpy",
+        "folder_id": "94681e93-9cc0-1a50-69d7-ec56ef2caaf5",
+        "create_ts": "2021-10-12T00:14:59.553Z",
+        "last_update_ts": "2021-10-12T00:14:57.958Z",
+        "active_ind": "Y",
+        "file_manager_id": "074b3b42-fed4-4156-92a8-674a240a0fa5",
+        "file_folder_path": "Issues and Programs Lists/2021",
+        "full_qualified_file_name": "Issues and Programs Lists/2021/2021.07-09,KQNC,Q3",
+        "entity_id": "122435",
+        "source_service_code": "FM",
+        "callsign": "KQNC",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1713370772082262000,
+        "score": 0.249957
+      },
       {
         "id": "898fa0b7-feda-3f1f-00fc-5fd1d3df02ea",
         "file_id": "898fa0b7-feda-3f1f-00fc-5fd1d3df02ea",
@@ -214,29 +235,6 @@
         "campaign_year": "2021",
         "_version_": 1713367231963857000,
         "score": 0.249957
-      },
-      {
-        "id": "feb119a7-5a0c-6e08-0ed1-2a4f3f130723",
-        "file_id": "feb119a7-5a0c-6e08-0ed1-2a4f3f130723",
-        "file_name": "09.16.21 KRISTAN KELLY FOR ASSEMBLY 36139 PB FORM",
-        "file_extension": "pdf",
-        "file_size": 818216,
-        "file_status": "com_cpy",
-        "folder_id": "14a330a5-a230-fecc-9ae8-412606c9060e",
-        "create_ts": "2021-09-22T00:22:33.508Z",
-        "last_update_ts": "2021-10-11T23:17:53.842Z",
-        "active_ind": "Y",
-        "file_manager_id": "549fd097-29c8-4725-b155-0f9755465f21",
-        "file_folder_path": "Political Files/2021/Local/KRISTEN KELLY FOR ASSEMBLY",
-        "full_qualified_file_name": "Political Files/2021/Local/KRISTEN KELLY FOR ASSEMBLY/09.16.21 KRISTAN KELLY FOR ASSEMBLY 36139 PB FORM",
-        "entity_id": "69405",
-        "source_service_code": "FM",
-        "callsign": "KTDZ",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1713367181630111700,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -427,7 +425,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
-        "Issues and Programs Lists": 44000,
+        "Issues and Programs Lists": 44001,
         "Equal Employment Opportunity Records": 37009,
         "Donor Lists - Applicable Only for NCEs": 11392,
         "FCC Authorizations": 7134,
@@ -456,7 +454,7 @@
       "source_service_code": {
         "TV": 233296,
         "CABLE": 114492,
-        "FM": 108877,
+        "FM": 108878,
         "AM": 40704,
         "DBS": 5276
       },
@@ -478,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 203,
-    "processTime": 215,
-    "responseTime": 215
+    "queryTime": 1719,
+    "processTime": 729,
+    "responseTime": 1730
   }
 }
