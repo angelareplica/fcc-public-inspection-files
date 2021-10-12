@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 502752,
+    "numFound": 502753,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "caf729a6-2aeb-afc1-47c0-c881a037d893",
+        "file_id": "caf729a6-2aeb-afc1-47c0-c881a037d893",
+        "file_name": "10-06-2021 LESLIE RUTLEDGE FOR ATTORNEY GENERAL",
+        "file_extension": "pdf",
+        "file_size": 338634,
+        "file_status": "com_cpy",
+        "folder_id": "119c46bc-b9ce-e2d7-6258-aa41933aa358",
+        "create_ts": "2021-10-12T19:34:56.965Z",
+        "last_update_ts": "2021-10-12T19:34:57.032Z",
+        "active_ind": "Y",
+        "file_manager_id": "3741d747-d140-4351-9c58-d7c89561c3d0",
+        "file_folder_path": "Political Files/2021/State",
+        "full_qualified_file_name": "Political Files/2021/State/10-06-2021 LESLIE RUTLEDGE FOR ATTORNEY GENERAL",
+        "entity_id": "19827",
+        "source_service_code": "AM",
+        "callsign": "KARV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1713443750365102000,
+        "score": 0.249957
+      },
       {
         "id": "fffed5aa-3bda-0032-3dba-066d0b78698b",
         "file_id": "fffed5aa-3bda-0032-3dba-066d0b78698b",
@@ -217,31 +240,6 @@
         "campaign_year": "2021",
         "_version_": 1713436697211961300,
         "score": 0.249957
-      },
-      {
-        "id": "066272c0-fe54-0183-dbfc-be154e684a8f",
-        "file_id": "066272c0-fe54-0183-dbfc-be154e684a8f",
-        "file_name": "WA-Caroline Simmons for Mayor-62932241-ALT-0147",
-        "file_extension": "pdf",
-        "file_size": 55742,
-        "file_status": "com_cpy",
-        "folder_id": "395119ea-3039-174a-53ce-f1a350061929",
-        "create_ts": "2021-10-12T17:42:50.085Z",
-        "last_update_ts": "2021-10-12T17:43:10.442Z",
-        "active_ind": "Y",
-        "file_manager_id": "7029bf43-31ce-4938-ae81-bd3d5b69d347",
-        "file_folder_path": "Political Files/2021/Local/Caroline Simmons for Mayor-NYI",
-        "full_qualified_file_name": "Political Files/2021/Local/Caroline Simmons for Mayor-NYI/WA-Caroline Simmons for Mayor-62932241-ALT-0147",
-        "entity_id": "001705",
-        "source_service_code": "CABLE",
-        "legal_name": "CSC TKR, LLC",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1713436696578621400,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -419,12 +417,12 @@
         "2018": 68034,
         "2019": 14095,
         "2020": 125954,
-        "2021": 17436,
+        "2021": 17437,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64611,
+        "State": 64612,
         "US Senate": 48472,
         "US House": 41474,
         "Presidential": 39054,
@@ -462,11 +460,11 @@
         "TV": 233295,
         "CABLE": 114581,
         "FM": 108884,
-        "AM": 40709,
+        "AM": 40710,
         "DBS": 5283
       },
       "political_file_type": {
-        "PA": 217830,
+        "PA": 217831,
         "NCIA": 118431
       }
     }
@@ -483,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1713,
-    "processTime": 719,
-    "responseTime": 1720
+    "queryTime": 1722,
+    "processTime": 734,
+    "responseTime": 1734
   }
 }
