@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 502753,
+    "numFound": 502754,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "61022375-2e86-31c2-473c-e0cbcc56d2c4",
+        "file_id": "61022375-2e86-31c2-473c-e0cbcc56d2c4",
+        "file_name": "COMMON SENSE LEADERSHIP FUND - NAB - 091721",
+        "file_extension": "pdf",
+        "file_size": 102278,
+        "file_status": "com_cpy",
+        "folder_id": "1dc838ba-1581-ab7a-c485-e1e418ad08f6",
+        "create_ts": "2021-10-12T20:19:56.698Z",
+        "last_update_ts": "2021-10-12T20:20:17.363Z",
+        "active_ind": "Y",
+        "file_manager_id": "d3456f5a-60c0-48fa-b5a4-a5a7c912bc36",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/COMMON SENSE LEADERSHIP",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/COMMON SENSE LEADERSHIP/COMMON SENSE LEADERSHIP FUND - NAB - 091721",
+        "entity_id": "DISH",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713446581135474700,
+        "score": 0.249957
+      },
       {
         "id": "caf729a6-2aeb-afc1-47c0-c881a037d893",
         "file_id": "caf729a6-2aeb-afc1-47c0-c881a037d893",
@@ -215,31 +236,6 @@
         "campaign_year": "2021",
         "_version_": 1713436764104818700,
         "score": 0.249957
-      },
-      {
-        "id": "50cf5779-3503-8621-e692-4394e13fa24e",
-        "file_id": "50cf5779-3503-8621-e692-4394e13fa24e",
-        "file_name": "WA-Caroline Simmons for Mayor-62932263-ALT-0147",
-        "file_extension": "pdf",
-        "file_size": 40099,
-        "file_status": "com_cpy",
-        "folder_id": "395119ea-3039-174a-53ce-f1a350061929",
-        "create_ts": "2021-10-12T17:42:50.691Z",
-        "last_update_ts": "2021-10-12T17:43:11.046Z",
-        "active_ind": "Y",
-        "file_manager_id": "feee833a-2cef-4aad-a989-bc0107063e4b",
-        "file_folder_path": "Political Files/2021/Local/Caroline Simmons for Mayor-NYI",
-        "full_qualified_file_name": "Political Files/2021/Local/Caroline Simmons for Mayor-NYI/WA-Caroline Simmons for Mayor-62932263-ALT-0147",
-        "entity_id": "001705",
-        "source_service_code": "CABLE",
-        "legal_name": "CSC TKR, LLC",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1713436697211961300,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -417,7 +413,7 @@
         "2018": 68034,
         "2019": 14095,
         "2020": 125954,
-        "2021": 17437,
+        "2021": 17438,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -461,11 +457,11 @@
         "CABLE": 114581,
         "FM": 108884,
         "AM": 40710,
-        "DBS": 5283
+        "DBS": 5284
       },
       "political_file_type": {
         "PA": 217831,
-        "NCIA": 118431
+        "NCIA": 118432
       }
     }
   },
@@ -481,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1722,
-    "processTime": 734,
-    "responseTime": 1734
+    "queryTime": 1713,
+    "processTime": 720,
+    "responseTime": 1720
   }
 }
