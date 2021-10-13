@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 502770,
+    "numFound": 502771,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "61d198bc-aba7-aefb-a2ac-464d42dce5b3",
+        "file_id": "61d198bc-aba7-aefb-a2ac-464d42dce5b3",
+        "file_name": "WGKA Americans for Prosperity 092921 REVISED order INVOICE",
+        "file_extension": "pdf",
+        "file_size": 34792,
+        "file_status": "com_cpy",
+        "folder_id": "7ce33828-c16a-5dde-751e-f06330c1abae",
+        "create_ts": "2021-10-13T05:43:11.742Z",
+        "last_update_ts": "2021-10-13T05:43:10.003Z",
+        "active_ind": "Y",
+        "file_manager_id": "b56e46f0-a40d-4dfe-b66f-4f19a99acf94",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Americans For Prosperity",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americans For Prosperity/WGKA Americans for Prosperity 092921 REVISED order INVOICE",
+        "entity_id": "65976",
+        "source_service_code": "AM",
+        "callsign": "WGKA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713482017967964200,
+        "score": 0.249957
+      },
       {
         "id": "eee4a595-be24-b83d-0055-ef0b19c154a0",
         "file_id": "eee4a595-be24-b83d-0055-ef0b19c154a0",
@@ -214,28 +236,6 @@
         "campaign_year": "2021",
         "_version_": 1713451297975304200,
         "score": 0.249957
-      },
-      {
-        "id": "57f661ec-0016-2635-3f1f-eb036d6918e3",
-        "file_id": "57f661ec-0016-2635-3f1f-eb036d6918e3",
-        "file_name": "KSLX_One-Nation_Sales-Order_08.27.21-09.02.21",
-        "file_extension": "pdf",
-        "file_size": 39384,
-        "file_status": "com_cpy",
-        "folder_id": "db6836d7-d6ef-18e7-7c59-6fe0a4bfcf37",
-        "create_ts": "2021-08-13T17:40:56.858Z",
-        "last_update_ts": "2021-10-12T20:49:30.034Z",
-        "active_ind": "Y",
-        "file_manager_id": "b8ba7641-308f-462c-9598-73bee53f62ac",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/One Nation/Est6009-Aug27-Sep2",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/One Nation/Est6009-Aug27-Sep2/KSLX_One-Nation_Sales-Order_08.27.21-09.02.21",
-        "entity_id": "11282",
-        "source_service_code": "FM",
-        "callsign": "KSLX-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1713448418891792400,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -413,7 +413,7 @@
         "2018": 68034,
         "2019": 14095,
         "2020": 125954,
-        "2021": 17454,
+        "2021": 17455,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -456,12 +456,12 @@
         "TV": 233297,
         "CABLE": 114591,
         "FM": 108888,
-        "AM": 40710,
+        "AM": 40711,
         "DBS": 5284
       },
       "political_file_type": {
         "PA": 217837,
-        "NCIA": 118442
+        "NCIA": 118443
       }
     }
   },
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 205,
-    "processTime": 212,
-    "responseTime": 212
+    "queryTime": 1716,
+    "processTime": 723,
+    "responseTime": 1723
   }
 }
