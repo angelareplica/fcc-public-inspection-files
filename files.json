@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 502816,
+    "numFound": 502817,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "2a70efaa-d57b-3e0a-25cb-9685b2e4985e",
+        "file_id": "2a70efaa-d57b-3e0a-25cb-9685b2e4985e",
+        "file_name": "LEAGUE OF CONSERVATION VOTERS 092721-100421 2186957-1 INVOICE",
+        "file_extension": "pdf",
+        "file_size": 33565,
+        "file_status": "com_cpy",
+        "folder_id": "be7f6dd4-a4fa-fa25-ee10-27bf3e05b425",
+        "create_ts": "2021-10-13T22:38:32.77Z",
+        "last_update_ts": "2021-10-13T22:38:30.698Z",
+        "active_ind": "Y",
+        "file_manager_id": "e8cc20b8-c565-4966-8e64-04fe606a0a2f",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/LEAGUE OF CONSERVATION VOTERS",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/LEAGUE OF CONSERVATION VOTERS/LEAGUE OF CONSERVATION VOTERS 092721-100421 2186957-1 INVOICE",
+        "entity_id": "33875",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
+        "callsign": "KCRA-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713545898117562400,
+        "score": 0.249957
+      },
       {
         "id": "394da2b4-a846-e67f-e2d5-2c1aa3d6cd7e",
         "file_id": "394da2b4-a846-e67f-e2d5-2c1aa3d6cd7e",
@@ -208,28 +232,6 @@
         "campaign_year": "2021",
         "_version_": 1713541317813862400,
         "score": 0.249957
-      },
-      {
-        "id": "3ae64070-3381-2461-e200-8d6214c096e1",
-        "file_id": "3ae64070-3381-2461-e200-8d6214c096e1",
-        "file_name": "One Nation NAB  - Reconciliation Bill-3977-00006",
-        "file_extension": "pdf",
-        "file_size": 1137072,
-        "file_status": "com_cpy",
-        "folder_id": "69cfedac-93c9-919a-dab1-97b417619892",
-        "create_ts": "2021-10-13T21:25:34.461Z",
-        "last_update_ts": "2021-10-13T21:25:34.702Z",
-        "active_ind": "Y",
-        "file_manager_id": "e516ee0c-ff1a-4af5-a5af-ec4638193ffb",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/One Nation - Reconciliation Bill 2021",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/One Nation - Reconciliation Bill 2021/One Nation NAB  - Reconciliation Bill-3977-00006",
-        "entity_id": "122525",
-        "source_service_code": "AM",
-        "callsign": "KMZQ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1713541307446591500,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -253,7 +255,7 @@
         "RALEIGH-DURHAM (FAYETVLLE)": 3175,
         "MINNEAPOLIS-ST. PAUL": 3161,
         "PORTLAND OR": 3146,
-        "SACRAMNTO-STKTON-MODESTO": 2786,
+        "SACRAMNTO-STKTON-MODESTO": 2787,
         "KANSAS CITY": 2739,
         "FT. WAYNE": 2714,
         "MILWAUKEE": 2625,
@@ -337,7 +339,7 @@
       },
       "network_affiliation": {
         "ABC": 56990,
-        "NBC": 55920,
+        "NBC": 55921,
         "CBS": 37914,
         "FOX": 27311,
         "PBS": 14191,
@@ -407,7 +409,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 17494,
+        "2021": 17495,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -447,7 +449,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233307,
+        "TV": 233308,
         "CABLE": 114591,
         "FM": 108915,
         "AM": 40719,
@@ -455,7 +457,7 @@
       },
       "political_file_type": {
         "PA": 217845,
-        "NCIA": 118473
+        "NCIA": 118474
       }
     }
   },
@@ -471,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 217,
-    "responseTime": 217
+    "queryTime": 382,
+    "processTime": 390,
+    "responseTime": 390
   }
 }
