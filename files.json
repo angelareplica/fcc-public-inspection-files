@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 502805,
+    "numFound": 502807,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "5ac58414-c680-ea08-6153-3a98f23a5346",
+        "file_id": "5ac58414-c680-ea08-6153-3a98f23a5346",
+        "file_name": "2021.07-09,KXSR,Q3",
+        "file_extension": "pdf",
+        "file_size": 127783,
+        "file_status": "com_cpy",
+        "folder_id": "966ee8f1-10ad-721f-91c6-9afe9bdf785c",
+        "create_ts": "2021-10-13T20:28:11.178Z",
+        "last_update_ts": "2021-10-13T20:28:09.295Z",
+        "active_ind": "Y",
+        "file_manager_id": "fde8bbc6-3091-4406-984b-400217e36172",
+        "file_folder_path": "Issues and Programs Lists/2021",
+        "full_qualified_file_name": "Issues and Programs Lists/2021/2021.07-09,KXSR,Q3",
+        "entity_id": "8328",
+        "source_service_code": "FM",
+        "callsign": "KXSR",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1713537696768458800,
+        "score": 0.249957
+      },
+      {
+        "id": "8003d562-1858-3f31-c7d9-a540392c9b32",
+        "file_id": "8003d562-1858-3f31-c7d9-a540392c9b32",
+        "file_name": "2021.07-09,KXPR,Q3",
+        "file_extension": "pdf",
+        "file_size": 127783,
+        "file_status": "com_cpy",
+        "folder_id": "c52825f7-fa5c-a08c-a95d-be7547af4e4b",
+        "create_ts": "2021-10-13T20:25:39.956Z",
+        "last_update_ts": "2021-10-13T20:25:37.97Z",
+        "active_ind": "Y",
+        "file_manager_id": "78d739d2-d999-4e93-b02f-618a36e0d349",
+        "file_folder_path": "Issues and Programs Lists/2021",
+        "full_qualified_file_name": "Issues and Programs Lists/2021/2021.07-09,KXPR,Q3",
+        "entity_id": "8358",
+        "source_service_code": "FM",
+        "callsign": "KXPR",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1713537538071724000,
+        "score": 0.249957
+      },
       {
         "id": "ef49ae8e-8f34-ca4b-bf86-4bd4c802b3c8",
         "file_id": "ef49ae8e-8f34-ca4b-bf86-4bd4c802b3c8",
@@ -177,50 +219,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1713534941703176200,
-        "score": 0.249957
-      },
-      {
-        "id": "12baa6b1-d97d-0c69-f42d-ce33baae5f5b",
-        "file_id": "12baa6b1-d97d-0c69-f42d-ce33baae5f5b",
-        "file_name": "YNZ 10090",
-        "file_extension": "pdf",
-        "file_size": 29404,
-        "file_status": "com_cpy",
-        "folder_id": "eb5fc33e-9752-0c42-59e3-ffee8d8fea65",
-        "create_ts": "2021-10-13T19:43:57.624Z",
-        "last_update_ts": "2021-10-13T19:43:57.565Z",
-        "active_ind": "Y",
-        "file_manager_id": "bf9ab167-814c-4ce0-b747-e83d4980a9a2",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR FAIR LAWS WYNZ 091421-092021  Est 10090   Cont 4005673",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR FAIR LAWS WYNZ 091421-092021  Est 10090   Cont 4005673/YNZ 10090",
-        "entity_id": "58536",
-        "source_service_code": "FM",
-        "callsign": "WYNZ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1713534914143453200,
-        "score": 0.249957
-      },
-      {
-        "id": "06d0bfb2-d53d-9be5-af4c-e26bcc65a062",
-        "file_id": "06d0bfb2-d53d-9be5-af4c-e26bcc65a062",
-        "file_name": "YNZ 10065",
-        "file_extension": "pdf",
-        "file_size": 29416,
-        "file_status": "com_cpy",
-        "folder_id": "bd52b61d-aafd-676c-2977-b2ee4139e5cc",
-        "create_ts": "2021-10-13T19:43:33.302Z",
-        "last_update_ts": "2021-10-13T19:43:31.238Z",
-        "active_ind": "Y",
-        "file_manager_id": "ea5b178a-6bb5-49d4-9a9b-6cbf06925f58",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR FAIR LAWS WYNZ 090721-091421 Est 10065   Cont 4005659",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR FAIR LAWS WYNZ 090721-091421 Est 10065   Cont 4005659/YNZ 10065",
-        "entity_id": "58536",
-        "source_service_code": "FM",
-        "callsign": "WYNZ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1713534888591753200,
         "score": 0.249957
       }
     ],
@@ -412,7 +410,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
-        "Issues and Programs Lists": 44013,
+        "Issues and Programs Lists": 44015,
         "Equal Employment Opportunity Records": 37007,
         "Donor Lists - Applicable Only for NCEs": 11392,
         "FCC Authorizations": 7138,
@@ -441,7 +439,7 @@
       "source_service_code": {
         "TV": 233303,
         "CABLE": 114591,
-        "FM": 108911,
+        "FM": 108913,
         "AM": 40716,
         "DBS": 5284
       },
@@ -463,8 +461,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 211,
-    "responseTime": 211
+    "queryTime": 226,
+    "processTime": 232,
+    "responseTime": 233
   }
 }
