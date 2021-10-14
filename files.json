@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 502834,
+    "numFound": 502836,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "ba33669b-d0c8-2b0d-76a5-9d4e6f9fe4b1",
+        "file_id": "ba33669b-d0c8-2b0d-76a5-9d4e6f9fe4b1",
+        "file_name": "LCV 09.28.21-10.04.21 922356 Ord Rev",
+        "file_extension": "pdf",
+        "file_size": 32355,
+        "file_status": "com_cpy",
+        "folder_id": "098ed44b-34e5-d0e5-0fbb-87166781a50c",
+        "create_ts": "2021-10-14T15:46:48.996Z",
+        "last_update_ts": "2021-10-14T15:47:14.19Z",
+        "active_ind": "Y",
+        "file_manager_id": "67e827ab-9002-432e-b169-49cee98d9e58",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/LCV 09.28.21-10.04.21 922356 Ord Rev",
+        "entity_id": "74100",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KTNV-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713610591267979300,
+        "score": 0.249957
+      },
+      {
+        "id": "6a667c27-b5b5-9b79-c8a4-1379d46f2a07",
+        "file_id": "6a667c27-b5b5-9b79-c8a4-1379d46f2a07",
+        "file_name": "FM 09.22.21-10.10.21 914388 Ord Rev (3)",
+        "file_extension": "pdf",
+        "file_size": 48138,
+        "file_status": "com_cpy",
+        "folder_id": "a6373c94-9899-bba8-c66f-2cc858dd3fc7",
+        "create_ts": "2021-10-14T15:45:45.192Z",
+        "last_update_ts": "2021-10-14T15:45:43.004Z",
+        "active_ind": "Y",
+        "file_manager_id": "f3b3f842-d638-4562-b9fa-1bc8b4fe67e9",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Future Majority",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Future Majority/FM 09.22.21-10.10.21 914388 Ord Rev (3)",
+        "entity_id": "74100",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KTNV-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713610524442230800,
+        "score": 0.249957
+      },
       {
         "id": "214d7782-d8fa-b31f-4520-320b4c6234f0",
         "file_id": "214d7782-d8fa-b31f-4520-320b4c6234f0",
@@ -190,52 +238,6 @@
         "campaign_year": "2021",
         "_version_": 1713601668386390000,
         "score": 0.249957
-      },
-      {
-        "id": "1cda149b-1f93-3343-d585-c6fdeffacec0",
-        "file_id": "1cda149b-1f93-3343-d585-c6fdeffacec0",
-        "file_name": "Ciattarelli for Governor Inc 333736 Rev 0",
-        "file_extension": "pdf",
-        "file_size": 131643,
-        "file_status": "com_cpy",
-        "folder_id": "7cf81764-81c0-a166-3a37-334ee8093a66",
-        "create_ts": "2021-10-14T12:18:44.976Z",
-        "last_update_ts": "2021-10-14T12:18:44.947Z",
-        "active_ind": "Y",
-        "file_manager_id": "92db75f3-b029-45b0-8036-c1b5859a0dcb",
-        "file_folder_path": "Political Files/2021/State/Ciattarelli for Governor Inc",
-        "full_qualified_file_name": "Political Files/2021/State/Ciattarelli for Governor Inc/Ciattarelli for Governor Inc 333736 Rev 0",
-        "entity_id": "8616",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "PHILADELPHIA",
-        "callsign": "WPVI-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1713597500903915500,
-        "score": 0.249957
-      },
-      {
-        "id": "2d3ecd8e-3820-4ded-c345-3cb8fe9a534f",
-        "file_id": "2d3ecd8e-3820-4ded-c345-3cb8fe9a534f",
-        "file_name": "InfoTrak WHOG 1STquarterly report, 2021-01_29.5 min",
-        "file_extension": "pdf",
-        "file_size": 251157,
-        "file_status": "com_cpy",
-        "folder_id": "5374a762-96ce-3c0d-af54-02d6e28cbedc",
-        "create_ts": "2021-10-13T22:53:48.912Z",
-        "last_update_ts": "2021-10-13T22:53:47.066Z",
-        "active_ind": "Y",
-        "file_manager_id": "243c52b1-02fe-46e3-b48c-6cc4ece1bab4",
-        "file_folder_path": "Issues and Programs Lists/2021/1st Qtr 2021",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/1st Qtr 2021/InfoTrak WHOG 1STquarterly report, 2021-01_29.5 min",
-        "entity_id": "27434",
-        "source_service_code": "AM",
-        "callsign": "WHOG",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1713546859002200000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -243,7 +245,7 @@
         "DES MOINES-AMES": 8388,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7032,
         "WILKES BARRE-SCRANTON": 6733,
-        "LAS VEGAS": 5915,
+        "LAS VEGAS": 5917,
         "WEST PALM BEACH-FT. PIERCE": 5806,
         "PITTSBURGH": 5311,
         "HONOLULU": 5197,
@@ -342,7 +344,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 56993,
+        "ABC": 56995,
         "NBC": 55923,
         "CBS": 37914,
         "FOX": 27314,
@@ -413,7 +415,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 17507,
+        "2021": 17509,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -453,7 +455,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233317,
+        "TV": 233319,
         "CABLE": 114591,
         "FM": 108919,
         "AM": 40723,
@@ -461,7 +463,7 @@
       },
       "political_file_type": {
         "PA": 217852,
-        "NCIA": 118479
+        "NCIA": 118481
       }
     }
   },
@@ -477,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1741,
-    "processTime": 748,
-    "responseTime": 1748
+    "queryTime": 1713,
+    "processTime": 722,
+    "responseTime": 1722
   }
 }
