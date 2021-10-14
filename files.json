@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 502849,
+    "numFound": 502836,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
@@ -299,7 +299,7 @@
         "PHOENIX (PRESCOTT)": 1449,
         "FARGO-VALLEY CITY": 1415,
         "BURLINGTON-PLATTSBURGH": 1390,
-        "CHATTANOOGA": 1383,
+        "CHATTANOOGA": 1370,
         "MIAMI-FT. LAUDERDALE": 1292,
         "PADUCAH-CAPE GIRARD-HARSBG": 1282,
         "GAINESVILLE": 1238,
@@ -348,7 +348,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 56995,
+        "ABC": 56982,
         "NBC": 55925,
         "CBS": 37918,
         "FOX": 27314,
@@ -419,7 +419,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 17515,
+        "2021": 17502,
         "2022": 2,
         "KYAZ": 5,
         "Fede": 1
@@ -460,7 +460,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233326,
+        "TV": 233313,
         "CABLE": 114591,
         "FM": 108925,
         "AM": 40723,
@@ -468,7 +468,7 @@
       },
       "political_file_type": {
         "PA": 217857,
-        "NCIA": 118484
+        "NCIA": 118471
       }
     }
   },
@@ -484,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1717,
-    "processTime": 725,
-    "responseTime": 1725
+    "queryTime": 203,
+    "processTime": 210,
+    "responseTime": 211
   }
 }
