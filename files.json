@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 502839,
+    "numFound": 502840,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "3331eb5f-ae0f-2243-09c4-56ad6c5b5d10",
+        "file_id": "3331eb5f-ae0f-2243-09c4-56ad6c5b5d10",
+        "file_name": "KSAZ LCV est 0114 1115716--1 Rev",
+        "file_extension": "pdf",
+        "file_size": 124738,
+        "file_status": "com_cpy",
+        "folder_id": "5c6fa444-d836-348d-9ffc-6f3abf1bc059",
+        "create_ts": "2021-10-14T22:43:08.609Z",
+        "last_update_ts": "2021-10-14T22:43:06.276Z",
+        "active_ind": "Y",
+        "file_manager_id": "974c5c6b-ed0f-4a3a-8075-ebe7b044252d",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders/KSAZ LCV est 0114 1115716--1 Rev",
+        "entity_id": "35587",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
+        "callsign": "KSAZ-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713636784291709000,
+        "score": 0.249957
+      },
       {
         "id": "72da523c-0f85-0d33-710a-1e775cdbcc0d",
         "file_id": "72da523c-0f85-0d33-710a-1e775cdbcc0d",
@@ -214,31 +238,6 @@
         "non_political_file_folder": "FCC Authorizations",
         "_version_": 1713613725956571100,
         "score": 0.249957
-      },
-      {
-        "id": "cdeb4165-0425-0cfd-07d6-b98c8c2d7cbe",
-        "file_id": "cdeb4165-0425-0cfd-07d6-b98c8c2d7cbe",
-        "file_name": "McLaughlin 3242595 Rev 0",
-        "file_extension": "pdf",
-        "file_size": 84055,
-        "file_status": "com_cpy",
-        "folder_id": "35c0e573-1f38-6658-8f25-b4f62f87a0f0",
-        "create_ts": "2021-10-14T16:32:54.883Z",
-        "last_update_ts": "2021-10-14T16:32:54.885Z",
-        "active_ind": "Y",
-        "file_manager_id": "ea0d4686-c549-4d43-aa68-b2538f2224fe",
-        "file_folder_path": "Political Files/2021/State/Maria McLaughlin",
-        "full_qualified_file_name": "Political Files/2021/State/Maria McLaughlin/McLaughlin 3242595 Rev 0",
-        "entity_id": "17010",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WYOU",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1713613491631292400,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -293,7 +292,7 @@
         "GREENVLL-SPART-ASHEVLL-AND": 1510,
         "MADISON": 1496,
         "BINGHAMTON": 1452,
-        "PHOENIX (PRESCOTT)": 1449,
+        "PHOENIX (PRESCOTT)": 1450,
         "FARGO-VALLEY CITY": 1415,
         "BURLINGTON-PLATTSBURGH": 1390,
         "CHATTANOOGA": 1369,
@@ -348,7 +347,7 @@
         "ABC": 56981,
         "NBC": 55925,
         "CBS": 37919,
-        "FOX": 27314,
+        "FOX": 27315,
         "PBS": 14191,
         "CW": 11961,
         "IND": 2983,
@@ -416,7 +415,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 17505,
+        "2021": 17506,
         "2022": 2,
         "KYAZ": 5,
         "Fede": 1
@@ -457,7 +456,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233313,
+        "TV": 233314,
         "CABLE": 114591,
         "FM": 108927,
         "AM": 40723,
@@ -465,7 +464,7 @@
       },
       "political_file_type": {
         "PA": 217860,
-        "NCIA": 118471
+        "NCIA": 118472
       }
     }
   },
@@ -481,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 219,
-    "responseTime": 220
+    "queryTime": 1722,
+    "processTime": 735,
+    "responseTime": 1736
   }
 }
