@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 502845,
+    "numFound": 502846,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "2a8dc2a7-8b68-8d62-749f-bce71b3c46f4",
+        "file_id": "2a8dc2a7-8b68-8d62-749f-bce71b3c46f4",
+        "file_name": "POL 013 Miami City Commision Joe Carollo",
+        "file_extension": "pdf",
+        "file_size": 253059,
+        "file_status": "com_cpy",
+        "folder_id": "0ebf60dc-f82d-117e-20e9-aa6166cc3120",
+        "create_ts": "2021-10-14T17:29:05.996Z",
+        "last_update_ts": "2021-10-14T17:29:03.937Z",
+        "active_ind": "Y",
+        "file_manager_id": "e3992b7f-f5c6-4f3e-b038-666d9ec1d23d",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/POL 013 Miami City Commision Joe Carollo",
+        "entity_id": "60165",
+        "source_service_code": "TV",
+        "callsign": "WJAN-CD",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1713617026619015200,
+        "score": 0.249957
+      },
       {
         "id": "f0e6e368-8601-9c85-c8d2-4a844f9e8edf",
         "file_id": "f0e6e368-8601-9c85-c8d2-4a844f9e8edf",
@@ -209,27 +232,6 @@
         "non_political_file_folder": "Ownership Reports",
         "_version_": 1713610851281272800,
         "score": 0.0001249785
-      },
-      {
-        "id": "5d5f90ec-a54e-d94d-6efe-15e4967e88a0",
-        "file_id": "5d5f90ec-a54e-d94d-6efe-15e4967e88a0",
-        "file_name": "Ownership 2019  Report Page 6",
-        "file_extension": "pdf",
-        "file_size": 2021204,
-        "file_status": "com_cpy",
-        "folder_id": "45344559-7a28-f3c3-d75d-dbf514e5570e",
-        "create_ts": "2021-10-14T15:50:20.85Z",
-        "last_update_ts": "2021-10-14T15:50:46.735Z",
-        "active_ind": "Y",
-        "file_manager_id": "d0507766-5b19-4ad8-a2a6-129114056b6f",
-        "file_folder_path": "Ownership Reports/Additional Documents/Issue with 2019 Ownership Report",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Issue with 2019 Ownership Report/Ownership 2019  Report Page 6",
-        "entity_id": "55251",
-        "source_service_code": "FM",
-        "callsign": "WOKW",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1713610814133371000,
-        "score": 0.0001249785
       }
     ],
     "facets": {
@@ -407,7 +409,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 17512,
+        "2021": 17513,
         "2022": 1,
         "KYAZ": 5,
         "Fede": 1
@@ -417,7 +419,7 @@
         "US Senate": 48474,
         "US House": 41475,
         "Presidential": 39054,
-        "Local": 23094
+        "Local": 23095
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -448,14 +450,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233322,
+        "TV": 233323,
         "CABLE": 114591,
         "FM": 108925,
         "AM": 40723,
         "DBS": 5284
       },
       "political_file_type": {
-        "PA": 217855,
+        "PA": 217856,
         "NCIA": 118482
       }
     }
@@ -472,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1715,
-    "processTime": 732,
-    "responseTime": 1733
+    "queryTime": 1725,
+    "processTime": 733,
+    "responseTime": 1734
   }
 }
