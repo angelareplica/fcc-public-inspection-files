@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 502828,
+    "numFound": 502830,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "cc33dc7e-5a41-a7ff-60c0-b7b9d7005cbc",
+        "file_id": "cc33dc7e-5a41-a7ff-60c0-b7b9d7005cbc",
+        "file_name": "mpn_2021-03_best_of_itm_quarterly_issues_report",
+        "file_extension": "pdf",
+        "file_size": 83611,
+        "file_status": "com_cpy",
+        "folder_id": "d9db6fbe-8a73-5206-0591-19df0cc17c0d",
+        "create_ts": "2021-10-14T14:39:30.326Z",
+        "last_update_ts": "2021-10-14T14:39:30.329Z",
+        "active_ind": "Y",
+        "file_manager_id": "422f1bbf-3cfd-49e8-9ed2-2d57e4371ccd",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/mpn_2021-03_best_of_itm_quarterly_issues_report",
+        "entity_id": "3037",
+        "source_service_code": "FM",
+        "callsign": "WTGN",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1713606356535083000,
+        "score": 0.249957
+      },
+      {
+        "id": "f378bc68-b1fe-cc92-3f08-3a13c80b86fa",
+        "file_id": "f378bc68-b1fe-cc92-3f08-3a13c80b86fa",
+        "file_name": "mpn_2021-03_itm_with_janet_parshall_quarterly_issues_report",
+        "file_extension": "pdf",
+        "file_size": 96141,
+        "file_status": "com_cpy",
+        "folder_id": "d9db6fbe-8a73-5206-0591-19df0cc17c0d",
+        "create_ts": "2021-10-14T14:39:30.335Z",
+        "last_update_ts": "2021-10-14T14:39:28.179Z",
+        "active_ind": "Y",
+        "file_manager_id": "c16d80ed-89ed-475c-94fe-6970297bf914",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/mpn_2021-03_itm_with_janet_parshall_quarterly_issues_report",
+        "entity_id": "3037",
+        "source_service_code": "FM",
+        "callsign": "WTGN",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1713606356532985900,
+        "score": 0.249957
+      },
       {
         "id": "b69bbf1e-2933-241f-0b04-514a60958be9",
         "file_id": "b69bbf1e-2933-241f-0b04-514a60958be9",
@@ -195,48 +237,6 @@
         "campaign_year": "2021",
         "_version_": 1713546348679135200,
         "score": 0.249957
-      },
-      {
-        "id": "65b5226f-00db-ade8-8e48-56de26334c78",
-        "file_id": "65b5226f-00db-ade8-8e48-56de26334c78",
-        "file_name": "InfoTrak WHOG 2ndquarterly report, 2021-02_29.5 min",
-        "file_extension": "pdf",
-        "file_size": 244294,
-        "file_status": "com_cpy",
-        "folder_id": "ca05e8b2-fc48-104b-2303-853fc1b6ae0e",
-        "create_ts": "2021-10-13T22:44:22.631Z",
-        "last_update_ts": "2021-10-13T22:44:46.077Z",
-        "active_ind": "Y",
-        "file_manager_id": "8a526a37-47fb-4e73-ade4-0c6cfa571c76",
-        "file_folder_path": "Issues and Programs Lists/2021/2nd Qtr 2021",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/2nd Qtr 2021/InfoTrak WHOG 2ndquarterly report, 2021-02_29.5 min",
-        "entity_id": "27434",
-        "source_service_code": "AM",
-        "callsign": "WHOG",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1713546264984944600,
-        "score": 0.249957
-      },
-      {
-        "id": "e19a199a-6f33-8403-88a2-507294eb1776",
-        "file_id": "e19a199a-6f33-8403-88a2-507294eb1776",
-        "file_name": "InfoTrakWHOG 3rd quarterly report, 2021-03_29.5 min",
-        "file_extension": "pdf",
-        "file_size": 245694,
-        "file_status": "com_cpy",
-        "folder_id": "85900100-706b-666d-17c6-343cbe885dd2",
-        "create_ts": "2021-10-13T22:43:07.203Z",
-        "last_update_ts": "2021-10-13T22:43:30.737Z",
-        "active_ind": "Y",
-        "file_manager_id": "7f903a13-f179-44f2-be7a-fd17c0c621b5",
-        "file_folder_path": "Issues and Programs Lists/2021/3rd Qtr",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/3rd Qtr/InfoTrakWHOG 3rd quarterly report, 2021-03_29.5 min",
-        "entity_id": "27434",
-        "source_service_code": "AM",
-        "callsign": "WHOG",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1713546185996763100,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -427,7 +427,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
-        "Issues and Programs Lists": 44018,
+        "Issues and Programs Lists": 44020,
         "Equal Employment Opportunity Records": 37007,
         "Donor Lists - Applicable Only for NCEs": 11392,
         "FCC Authorizations": 7138,
@@ -456,7 +456,7 @@
       "source_service_code": {
         "TV": 233315,
         "CABLE": 114591,
-        "FM": 108915,
+        "FM": 108917,
         "AM": 40723,
         "DBS": 5284
       },
@@ -478,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 217,
-    "responseTime": 218
+    "queryTime": 225,
+    "processTime": 236,
+    "responseTime": 237
   }
 }
