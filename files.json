@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 502835,
+    "numFound": 502836,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "fb91150d-d129-092e-ab23-e619f041fe38",
+        "file_id": "fb91150d-d129-092e-ab23-e619f041fe38",
+        "file_name": "Partnership to Fight Chronic Disease -NAB Form 08.05.2021",
+        "file_extension": "pdf",
+        "file_size": 1068134,
+        "file_status": "com_cpy",
+        "folder_id": "e68ca95e-a80e-c354-b3fd-770d2ed566da",
+        "create_ts": "2021-10-14T21:04:18.889Z",
+        "last_update_ts": "2021-10-14T21:04:44.967Z",
+        "active_ind": "Y",
+        "file_manager_id": "4c6ef240-9a6d-46b6-ba06-05a182aa4d73",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/PARTNERSHIP TO FIGHT CHRONIC DISEASE",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/PARTNERSHIP TO FIGHT CHRONIC DISEASE/Partnership to Fight Chronic Disease -NAB Form 08.05.2021",
+        "entity_id": "DISH",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713630566874611700,
+        "score": 0.249957
+      },
       {
         "id": "9686f191-a528-952c-4a37-3f27cbb8eedf",
         "file_id": "9686f191-a528-952c-4a37-3f27cbb8eedf",
@@ -221,27 +242,6 @@
         "campaign_year": "2021",
         "_version_": 1713611027773390800,
         "score": 0.249957
-      },
-      {
-        "id": "fa035425-9ae2-28e0-b482-87c6ffa74420",
-        "file_id": "fa035425-9ae2-28e0-b482-87c6ffa74420",
-        "file_name": "Ownership 2019  Report Page 1",
-        "file_extension": "pdf",
-        "file_size": 2911838,
-        "file_status": "com_cpy",
-        "folder_id": "45344559-7a28-f3c3-d75d-dbf514e5570e",
-        "create_ts": "2021-10-14T15:50:55.483Z",
-        "last_update_ts": "2021-10-14T15:51:21.883Z",
-        "active_ind": "Y",
-        "file_manager_id": "bcaf3cf5-9494-4b44-bdbe-be9e7f562a79",
-        "file_folder_path": "Ownership Reports/Additional Documents/Issue with 2019 Ownership Report",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Issue with 2019 Ownership Report/Ownership 2019  Report Page 1",
-        "entity_id": "55251",
-        "source_service_code": "FM",
-        "callsign": "WOKW",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1713610850969845800,
-        "score": 0.0001249785
       }
     ],
     "facets": {
@@ -419,7 +419,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 17501,
+        "2021": 17502,
         "2022": 2,
         "KYAZ": 5,
         "Fede": 1
@@ -464,11 +464,11 @@
         "CABLE": 114591,
         "FM": 108925,
         "AM": 40723,
-        "DBS": 5284
+        "DBS": 5285
       },
       "political_file_type": {
         "PA": 217857,
-        "NCIA": 118470
+        "NCIA": 118471
       }
     }
   },
@@ -484,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1723,
-    "processTime": 733,
-    "responseTime": 1733
+    "queryTime": 1716,
+    "processTime": 726,
+    "responseTime": 1727
   }
 }
