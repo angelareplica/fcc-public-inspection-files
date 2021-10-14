@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 502840,
+    "numFound": 502841,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "84851957-2c28-4f15-2684-5bf5900d5e25",
+        "file_id": "84851957-2c28-4f15-2684-5bf5900d5e25",
+        "file_name": "ON 0817-0827 - 31511980  NAB",
+        "file_extension": "pdf",
+        "file_size": 3338224,
+        "file_status": "com_cpy",
+        "folder_id": "39b9b5b7-ed39-9e75-3ea1-0d9f6b667f92",
+        "create_ts": "2021-10-14T23:11:54.931Z",
+        "last_update_ts": "2021-10-14T23:12:21.497Z",
+        "active_ind": "Y",
+        "file_manager_id": "26916402-6c2c-4a27-b3b4-8d767a5f6c57",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/ON One Nation PAC/NAB",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/ON One Nation PAC/NAB/ON 0817-0827 - 31511980  NAB",
+        "entity_id": "35042",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KLAS-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713638595096477700,
+        "score": 0.249957
+      },
       {
         "id": "3331eb5f-ae0f-2243-09c4-56ad6c5b5d10",
         "file_id": "3331eb5f-ae0f-2243-09c4-56ad6c5b5d10",
@@ -215,29 +239,6 @@
         "campaign_year": "2021",
         "_version_": 1713617026619015200,
         "score": 0.249957
-      },
-      {
-        "id": "f0e6e368-8601-9c85-c8d2-4a844f9e8edf",
-        "file_id": "f0e6e368-8601-9c85-c8d2-4a844f9e8edf",
-        "file_name": "Distributed Transmission System License, Granted 09-17-21",
-        "file_extension": "pdf",
-        "file_size": 341051,
-        "file_status": "com_cpy",
-        "folder_id": "c95a9bb6-918f-9cb6-288d-cf54ec5b4ccf",
-        "create_ts": "2021-10-14T16:36:38.227Z",
-        "last_update_ts": "2021-10-14T16:36:36.202Z",
-        "active_ind": "Y",
-        "file_manager_id": "e8cc6682-f15c-4a87-aecf-28c04feda9da",
-        "file_folder_path": "FCC Authorizations/Additional Documents",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/Distributed Transmission System License, Granted 09-17-21",
-        "entity_id": "10195",
-        "source_service_code": "TV",
-        "network_affiliation": "CW",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KVCW",
-        "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1713613725956571100,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -245,7 +246,7 @@
         "DES MOINES-AMES": 8388,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7032,
         "WILKES BARRE-SCRANTON": 6735,
-        "LAS VEGAS": 5918,
+        "LAS VEGAS": 5919,
         "WEST PALM BEACH-FT. PIERCE": 5806,
         "PITTSBURGH": 5311,
         "HONOLULU": 5197,
@@ -346,7 +347,7 @@
       "network_affiliation": {
         "ABC": 56981,
         "NBC": 55925,
-        "CBS": 37919,
+        "CBS": 37920,
         "FOX": 27315,
         "PBS": 14191,
         "CW": 11961,
@@ -415,7 +416,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 17506,
+        "2021": 17507,
         "2022": 2,
         "KYAZ": 5,
         "Fede": 1
@@ -456,7 +457,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233314,
+        "TV": 233315,
         "CABLE": 114591,
         "FM": 108927,
         "AM": 40723,
@@ -464,7 +465,7 @@
       },
       "political_file_type": {
         "PA": 217860,
-        "NCIA": 118472
+        "NCIA": 118473
       }
     }
   },
@@ -480,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1722,
-    "processTime": 735,
-    "responseTime": 1736
+    "queryTime": 1719,
+    "processTime": 744,
+    "responseTime": 1745
   }
 }
