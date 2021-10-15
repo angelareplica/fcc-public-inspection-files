@@ -1,9 +1,72 @@
 {
   "response": {
-    "numFound": 502942,
+    "numFound": 502945,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "142618ce-5efd-95a4-a4ac-370a0f268b2a",
+        "file_id": "142618ce-5efd-95a4-a4ac-370a0f268b2a",
+        "file_name": "HQ Energy Services ME NAB_ORD21-000369_20211004_00001 Roots 101521",
+        "file_extension": "pdf",
+        "file_size": 124711,
+        "file_status": "com_cpy",
+        "folder_id": "3dfeed5a-9f50-3abc-5d8d-44db27326a29",
+        "create_ts": "2021-10-15T23:14:07.663Z",
+        "last_update_ts": "2021-10-15T23:14:07.598Z",
+        "active_ind": "Y",
+        "file_manager_id": "08d66f39-07a1-4dc8-a37a-e3d0cc48656b",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Maine/HQ Energy Services",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Maine/HQ Energy Services/HQ Energy Services ME NAB_ORD21-000369_20211004_00001 Roots 101521",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713729330728665000,
+        "score": 0.249957
+      },
+      {
+        "id": "2d45ff3e-8655-dad5-540b-14d7574570a9",
+        "file_id": "2d45ff3e-8655-dad5-540b-14d7574570a9",
+        "file_name": "03-2021 KKCR ISSUES AND PROGRAMS",
+        "file_extension": "pdf",
+        "file_size": 168851,
+        "file_status": "com_cpy",
+        "folder_id": "898ad4e4-a6e8-4a34-1bf5-18f84f1c78af",
+        "create_ts": "2021-10-15T22:46:46.069Z",
+        "last_update_ts": "2021-10-15T22:46:46.013Z",
+        "active_ind": "Y",
+        "file_manager_id": "fcda98e4-6e95-4124-963a-fd3da0e35f21",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/03-2021 KKCR ISSUES AND PROGRAMS",
+        "entity_id": "33827",
+        "source_service_code": "FM",
+        "callsign": "KKCR",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1713727609371623400,
+        "score": 0.249957
+      },
+      {
+        "id": "1830b70b-cfd6-b123-3dcb-c00fbf4fb806",
+        "file_id": "1830b70b-cfd6-b123-3dcb-c00fbf4fb806",
+        "file_name": "03-2021 KKCR ISSUES AND PROGRAMS",
+        "file_extension": "pdf",
+        "file_size": 168851,
+        "file_status": "com_cpy",
+        "folder_id": "cc4c3ce6-6dda-7afc-8a9c-04068edfeef6",
+        "create_ts": "2021-10-15T22:45:50.744Z",
+        "last_update_ts": "2021-10-15T22:46:19.333Z",
+        "active_ind": "Y",
+        "file_manager_id": "b4d7a9bb-808b-4b46-9304-4b9478ae141d",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/03-2021 KKCR ISSUES AND PROGRAMS",
+        "entity_id": "33826",
+        "source_service_code": "FM",
+        "callsign": "KAQA",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1713727551425216500,
+        "score": 0.249957
+      },
       {
         "id": "d031e678-e97d-4f36-dcba-6a410fd83c76",
         "file_id": "d031e678-e97d-4f36-dcba-6a410fd83c76",
@@ -176,75 +239,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1713714484907868200,
-        "score": 0.249957
-      },
-      {
-        "id": "4d993f71-6691-58e2-6e58-dc4f30f17965",
-        "file_id": "4d993f71-6691-58e2-6e58-dc4f30f17965",
-        "file_name": "NadiaASikes-Annoucer-090321-110221",
-        "file_extension": "pdf",
-        "file_size": 136064,
-        "file_status": "com_cpy",
-        "folder_id": "5f053e06-134d-15be-8098-ad21ba5bfd0b",
-        "create_ts": "2021-10-15T19:04:15.018Z",
-        "last_update_ts": "2021-10-15T19:04:43.446Z",
-        "active_ind": "Y",
-        "file_manager_id": "14221caa-9b82-4e09-b0d9-caa51e2392b6",
-        "file_folder_path": "Political Files/2021/Local/General Election",
-        "full_qualified_file_name": "Political Files/2021/Local/General Election/NadiaASikes-Annoucer-090321-110221",
-        "entity_id": "14029",
-        "source_service_code": "AM",
-        "callsign": "KRSY",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1713713610067280000,
-        "score": 0.249957
-      },
-      {
-        "id": "697feca2-ca4c-a204-c413-44fd9d9dc83c",
-        "file_id": "697feca2-ca4c-a204-c413-44fd9d9dc83c",
-        "file_name": "Confirm_7481-008",
-        "file_extension": "pdf",
-        "file_size": 20660,
-        "file_status": "com_cpy",
-        "folder_id": "02e817ae-4171-68dd-32f7-dcf5bf7bedd7",
-        "create_ts": "2021-10-15T18:01:19.456Z",
-        "last_update_ts": "2021-10-15T18:01:16.934Z",
-        "active_ind": "Y",
-        "file_manager_id": "e1544ffe-05ce-439b-bfeb-3d4ce9bd4bab",
-        "file_folder_path": "Political Files/2021/Terms and Disclosures/Training/Jimmye Kraus/Rita Hart",
-        "full_qualified_file_name": "Political Files/2021/Terms and Disclosures/Training/Jimmye Kraus/Rita Hart/Confirm_7481-008",
-        "entity_id": "6584",
-        "source_service_code": "FM",
-        "callsign": "KMEM-FM",
-        "political_file_type": "PA",
-        "campaign_year": "2021",
-        "_version_": 1713709650735530000,
-        "score": 0.249957
-      },
-      {
-        "id": "a4386f17-3277-e6cd-11a9-295d00380e5c",
-        "file_id": "a4386f17-3277-e6cd-11a9-295d00380e5c",
-        "file_name": "09.20 HQ ENERGY SERVICES 2175526 WMTW NAB AMEND",
-        "file_extension": "pdf",
-        "file_size": 936691,
-        "file_status": "com_cpy",
-        "folder_id": "8245a743-40d9-980a-bec7-6d2be828b480",
-        "create_ts": "2021-10-15T17:55:12.44Z",
-        "last_update_ts": "2021-10-15T17:55:12.703Z",
-        "active_ind": "Y",
-        "file_manager_id": "b62a2049-d9b1-49c5-86c6-5e59f3661ea4",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/HQ ENERGY SERVICES-HYDRO QUEBEC MAINE",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/HQ ENERGY SERVICES-HYDRO QUEBEC MAINE/09.20 HQ ENERGY SERVICES 2175526 WMTW NAB AMEND",
-        "entity_id": "73288",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "PORTLAND-AUBURN",
-        "callsign": "WMTW",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1713709266291916800,
         "score": 0.249957
       }
     ],
@@ -423,7 +417,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 17607,
+        "2021": 17608,
         "2022": 2,
         "KYAZ": 5,
         "Fede": 1
@@ -437,7 +431,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
-        "Issues and Programs Lists": 44020,
+        "Issues and Programs Lists": 44022,
         "Equal Employment Opportunity Records": 37003,
         "Donor Lists - Applicable Only for NCEs": 11392,
         "FCC Authorizations": 7140,
@@ -466,13 +460,13 @@
       "source_service_code": {
         "TV": 233328,
         "CABLE": 114591,
-        "FM": 109007,
+        "FM": 109009,
         "AM": 40731,
-        "DBS": 5285
+        "DBS": 5286
       },
       "political_file_type": {
         "PA": 217905,
-        "NCIA": 118528
+        "NCIA": 118529
       }
     }
   },
@@ -488,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 219,
-    "responseTime": 219
+    "queryTime": 1731,
+    "processTime": 743,
+    "responseTime": 1744
   }
 }
