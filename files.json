@@ -483,7 +483,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 61,
-    "processTime": 68,
-    "responseTime": 68
+    "processTime": 69,
+    "responseTime": 70
   }
 }
