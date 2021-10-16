@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 502971,
+    "numFound": 502973,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "5d375234-47d7-52b8-a6b6-243f2055f212",
+        "file_id": "5d375234-47d7-52b8-a6b6-243f2055f212",
+        "file_name": "Invoice_BBT 427093 0927-0929",
+        "file_extension": "pdf",
+        "file_size": 124488,
+        "file_status": "com_cpy",
+        "folder_id": "ea5e0e51-6b46-3431-4a5c-9cc1144ead54",
+        "create_ts": "2021-10-16T22:35:49.165Z",
+        "last_update_ts": "2021-10-16T22:36:20.226Z",
+        "active_ind": "Y",
+        "file_manager_id": "bb2268bc-430b-4363-a2cf-715bd5e221be",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/BBT Inc dba Building Back Together/Invoice Building Back Together BBT",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/BBT Inc dba Building Back Together/Invoice Building Back Together BBT/Invoice_BBT 427093 0927-0929",
+        "entity_id": "6900",
+        "source_service_code": "TV",
+        "network_affiliation": "THE CW NETWORK",
+        "nielsen_dma_rank": "ATLANTA",
+        "callsign": "WUPA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713817517596606500,
+        "score": 0.249957
+      },
+      {
+        "id": "19e7057b-0b04-d903-f480-5a0fe51a7565",
+        "file_id": "19e7057b-0b04-d903-f480-5a0fe51a7565",
+        "file_name": "Invoice_BBT 432326 0930-1006",
+        "file_extension": "pdf",
+        "file_size": 141357,
+        "file_status": "com_cpy",
+        "folder_id": "ea5e0e51-6b46-3431-4a5c-9cc1144ead54",
+        "create_ts": "2021-10-16T22:35:49.215Z",
+        "last_update_ts": "2021-10-16T22:35:49.194Z",
+        "active_ind": "Y",
+        "file_manager_id": "60706878-aec0-4079-ba26-ffd579d4c3e8",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/BBT Inc dba Building Back Together/Invoice Building Back Together BBT",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/BBT Inc dba Building Back Together/Invoice Building Back Together BBT/Invoice_BBT 432326 0930-1006",
+        "entity_id": "6900",
+        "source_service_code": "TV",
+        "network_affiliation": "THE CW NETWORK",
+        "nielsen_dma_rank": "ATLANTA",
+        "callsign": "WUPA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1713817517646938000,
+        "score": 0.249957
+      },
       {
         "id": "7c322219-4072-4e6d-4504-c88b40b90bc9",
         "file_id": "7c322219-4072-4e6d-4504-c88b40b90bc9",
@@ -191,50 +239,6 @@
         "campaign_year": "2021",
         "_version_": 1713810027228168200,
         "score": 0.249957
-      },
-      {
-        "id": "54082ddd-f4fb-74d3-6865-6c42c150f46b",
-        "file_id": "54082ddd-f4fb-74d3-6865-6c42c150f46b",
-        "file_name": "STAND VA PAC_Order Confirm 1045-001_Rec 101221",
-        "file_extension": "pdf",
-        "file_size": 73416,
-        "file_status": "com_cpy",
-        "folder_id": "982f3687-20fb-5df7-2f17-83e08f8f8c4d",
-        "create_ts": "2021-10-16T20:36:45.832Z",
-        "last_update_ts": "2021-10-16T20:36:43.267Z",
-        "active_ind": "Y",
-        "file_manager_id": "6af8114b-e278-4676-bb58-9e02845ac02c",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/STAND for Virginia PAC",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/STAND for Virginia PAC/STAND VA PAC_Order Confirm 1045-001_Rec 101221",
-        "entity_id": "87170",
-        "source_service_code": "AM",
-        "callsign": "WHKT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1713810027356094500,
-        "score": 0.249957
-      },
-      {
-        "id": "72900598-d6df-75a3-5bf1-eb81ef8b0033",
-        "file_id": "72900598-d6df-75a3-5bf1-eb81ef8b0033",
-        "file_name": "BlackPAC2021_WTJZ-AM Traffic Confirm EST 7380 0979-005",
-        "file_extension": "pdf",
-        "file_size": 72369,
-        "file_status": "com_cpy",
-        "folder_id": "9ea3d812-d527-d6d0-af59-e77f570aa137",
-        "create_ts": "2021-10-16T20:34:30.402Z",
-        "last_update_ts": "2021-10-16T20:35:01.184Z",
-        "active_ind": "Y",
-        "file_manager_id": "7ae79d89-3d13-4a05-8f8b-325934d72237",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/BlackPAC VA 2021",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/BlackPAC VA 2021/BlackPAC2021_WTJZ-AM Traffic Confirm EST 7380 0979-005",
-        "entity_id": "87170",
-        "source_service_code": "AM",
-        "callsign": "WHKT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1713809885156606000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -368,7 +372,7 @@
         "NBC & CW (DIGITAL ONLY)": 162,
         "TRINITY BROADCASTING NETWORK": 162,
         "Independent": 157,
-        "THE CW NETWORK": 152,
+        "THE CW NETWORK": 154,
         "MeTV": 124,
         "CBS AND CW": 100,
         "THIS NETWORK LLC": 94,
@@ -412,7 +416,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 17634,
+        "2021": 17636,
         "2022": 2,
         "KYAZ": 5,
         "Fede": 1
@@ -453,7 +457,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233332,
+        "TV": 233334,
         "CABLE": 114591,
         "FM": 109012,
         "AM": 40750,
@@ -461,7 +465,7 @@
       },
       "political_file_type": {
         "PA": 217914,
-        "NCIA": 118546
+        "NCIA": 118548
       }
     }
   },
@@ -477,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 203,
-    "processTime": 211,
-    "responseTime": 212
+    "queryTime": 210,
+    "processTime": 217,
+    "responseTime": 217
   }
 }
