@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 504306,
+    "numFound": 504307,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "b2a26bd8-979e-3f2a-fb46-94016d244b61",
+        "file_id": "b2a26bd8-979e-3f2a-fb46-94016d244b61",
+        "file_name": "1116807-0",
+        "file_extension": "pdf",
+        "file_size": 128297,
+        "file_status": "com_cpy",
+        "folder_id": "9f50ce01-892b-ff69-ee77-758164aa4eaa",
+        "create_ts": "2021-10-19T14:40:34.108Z",
+        "last_update_ts": "2021-10-19T14:40:30.858Z",
+        "active_ind": "Y",
+        "file_manager_id": "4ac2dcc1-498d-4d19-8cc1-b6d387385b90",
+        "file_folder_path": "Political Files/2021/Local/Mayoral/Eric Adams",
+        "full_qualified_file_name": "Political Files/2021/Local/Mayoral/Eric Adams/1116807-0",
+        "entity_id": "22206",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "NEW YORK",
+        "callsign": "WNYW",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714059408203317200,
+        "score": 0.249957
+      },
       {
         "id": "4eee7e10-c419-cf75-1f37-38dcc6ea02b7",
         "file_id": "4eee7e10-c419-cf75-1f37-38dcc6ea02b7",
@@ -213,29 +238,6 @@
         "campaign_year": "2021",
         "_version_": 1713991282451284000,
         "score": 0.249957
-      },
-      {
-        "id": "23a4b4de-134f-87a3-a277-03563837fe72",
-        "file_id": "23a4b4de-134f-87a3-a277-03563837fe72",
-        "file_name": "natl-assoc-of-manufacturers-2021-10-18-022937",
-        "file_extension": "pdf",
-        "file_size": 269916,
-        "file_status": "com_cpy",
-        "folder_id": "15da3345-89aa-e3e1-ca91-ed0f9510abd4",
-        "create_ts": "2021-10-18T20:25:03.388Z",
-        "last_update_ts": "2021-10-18T20:25:03.316Z",
-        "active_ind": "Y",
-        "file_manager_id": "14b6e4b9-d44d-4e10-97ea-efc8c69afc1d",
-        "file_folder_path": "Political Files/2021/State",
-        "full_qualified_file_name": "Political Files/2021/State/natl-assoc-of-manufacturers-2021-10-18-022937",
-        "entity_id": "11952",
-        "source_service_code": "AM",
-        "callsign": "WOAI",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1713990484564639700,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -306,7 +308,7 @@
         "DENVER": 1065,
         "GLENDIVE": 1060,
         "GREEN BAY-APPLETON": 1042,
-        "NEW YORK": 1037,
+        "NEW YORK": 1038,
         "ORLANDO-DAYTONA BCH-MELBRN": 1037,
         "LITTLE ROCK-PINE BLUFF": 1007,
         "ST. LOUIS": 1005,
@@ -345,7 +347,7 @@
         "ABC": 56989,
         "NBC": 55932,
         "CBS": 37926,
-        "FOX": 27311,
+        "FOX": 27312,
         "PBS": 14192,
         "CW": 11962,
         "IND": 2983,
@@ -413,7 +415,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 18942,
+        "2021": 18943,
         "2022": 2,
         "KYAZ": 5,
         "Fede": 1
@@ -423,7 +425,7 @@
         "US Senate": 48497,
         "US House": 41475,
         "Presidential": 39054,
-        "Local": 23153
+        "Local": 23154
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -454,14 +456,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233346,
+        "TV": 233347,
         "CABLE": 115831,
         "FM": 109082,
         "AM": 40761,
         "DBS": 5286
       },
       "political_file_type": {
-        "PA": 217924,
+        "PA": 217925,
         "NCIA": 119844
       }
     }
@@ -478,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1720,
-    "processTime": 727,
-    "responseTime": 1727
+    "queryTime": 210,
+    "processTime": 218,
+    "responseTime": 219
   }
 }
