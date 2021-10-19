@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 504335,
+    "numFound": 504337,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "23265221-1cb4-106a-209d-e6561fccaeca",
+        "file_id": "23265221-1cb4-106a-209d-e6561fccaeca",
+        "file_name": "Matt Van Bogart KPQ AM page #2 acceptance",
+        "file_extension": "pdf",
+        "file_size": 451734,
+        "file_status": "com_cpy",
+        "folder_id": "58abb817-7bee-7f65-efb6-c1be36ab897d",
+        "create_ts": "2021-10-19T19:38:58.334Z",
+        "last_update_ts": "2021-10-19T19:39:37.169Z",
+        "active_ind": "Y",
+        "file_manager_id": "e1d80088-4b0f-4bd9-8852-ebb20bbd24d8",
+        "file_folder_path": "Political Files/2021/Local/Matt Van Bogart Wenatchee School Board",
+        "full_qualified_file_name": "Political Files/2021/Local/Matt Van Bogart Wenatchee School Board/Matt Van Bogart KPQ AM page #2 acceptance",
+        "entity_id": "71715",
+        "source_service_code": "AM",
+        "callsign": "KPQ",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714078182246711300,
+        "score": 0.0001249785
+      },
+      {
+        "id": "992a1815-3712-c39b-c70a-dbd94cdd959a",
+        "file_id": "992a1815-3712-c39b-c70a-dbd94cdd959a",
+        "file_name": "Matt Van Bogart KPQ FM page #2 acceptance",
+        "file_extension": "pdf",
+        "file_size": 458373,
+        "file_status": "com_cpy",
+        "folder_id": "36f40028-0d70-86e3-b3fa-f326fd037f89",
+        "create_ts": "2021-10-19T19:26:11.961Z",
+        "last_update_ts": "2021-10-19T19:26:11.985Z",
+        "active_ind": "Y",
+        "file_manager_id": "4fd89a44-c7f4-4442-a5e1-0b3d5708266e",
+        "file_folder_path": "Political Files/2021/Local/Matt Van Bogart Wenatchee school board",
+        "full_qualified_file_name": "Political Files/2021/Local/Matt Van Bogart Wenatchee school board/Matt Van Bogart KPQ FM page #2 acceptance",
+        "entity_id": "71524",
+        "source_service_code": "FM",
+        "callsign": "KPQ-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714077378654765000,
+        "score": 0.0001249785
+      },
       {
         "id": "a55676b5-4abe-b526-102f-fc262aa98aa4",
         "file_id": "a55676b5-4abe-b526-102f-fc262aa98aa4",
@@ -182,54 +228,6 @@
         "campaign_year": "2021",
         "_version_": 1714074244623630300,
         "score": 0.249957
-      },
-      {
-        "id": "ba5a90e1-fe7d-e17c-8312-ef997571beba",
-        "file_id": "ba5a90e1-fe7d-e17c-8312-ef997571beba",
-        "file_name": "WFPNP NAB_ORD21-000430_20211019_00001",
-        "file_extension": "pdf",
-        "file_size": 123616,
-        "file_status": "com_cpy",
-        "folder_id": "849a6cab-f663-de34-64fe-100e2068f5cd",
-        "create_ts": "2021-10-19T18:21:38.962Z",
-        "last_update_ts": "2021-10-19T18:21:38.83Z",
-        "active_ind": "Y",
-        "file_manager_id": "b5c69aae-5469-4293-ad73-1640da4f980a",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Working Families Party PAC",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Working Families Party PAC/WFPNP NAB_ORD21-000430_20211019_00001",
-        "entity_id": "7780",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "BUFFALO",
-        "callsign": "WIVB-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714073317382553600,
-        "score": 0.249957
-      },
-      {
-        "id": "050eb970-f66f-175c-7d04-629da739fd03",
-        "file_id": "050eb970-f66f-175c-7d04-629da739fd03",
-        "file_name": "WFPNP NAB_ORD21-000430_20211019_00001",
-        "file_extension": "pdf",
-        "file_size": 123616,
-        "file_status": "com_cpy",
-        "folder_id": "f908e2d0-0815-45d4-3ca2-339ec3ae2e4f",
-        "create_ts": "2021-10-19T18:20:12.442Z",
-        "last_update_ts": "2021-10-19T18:20:12.303Z",
-        "active_ind": "Y",
-        "file_manager_id": "007714b6-b097-4ff8-b75d-4f478670f7bb",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Working Families Party PAC",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Working Families Party PAC/WFPNP NAB_ORD21-000430_20211019_00001",
-        "entity_id": "71905",
-        "source_service_code": "TV",
-        "network_affiliation": "CW",
-        "nielsen_dma_rank": "BUFFALO",
-        "callsign": "WNLO",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714073226634592300,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -407,7 +405,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 18970,
+        "2021": 18972,
         "2022": 2,
         "KYAZ": 5,
         "Fede": 1
@@ -417,7 +415,7 @@
         "US Senate": 48497,
         "US House": 41475,
         "Presidential": 39054,
-        "Local": 23165
+        "Local": 23167
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -450,12 +448,12 @@
       "source_service_code": {
         "TV": 233366,
         "CABLE": 115831,
-        "FM": 109089,
-        "AM": 40763,
+        "FM": 109090,
+        "AM": 40764,
         "DBS": 5286
       },
       "political_file_type": {
-        "PA": 217941,
+        "PA": 217943,
         "NCIA": 119855
       }
     }
@@ -472,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 210,
-    "responseTime": 211
+    "queryTime": 1725,
+    "processTime": 733,
+    "responseTime": 1733
   }
 }
