@@ -1,9 +1,82 @@
 {
   "response": {
-    "numFound": 504321,
+    "numFound": 504324,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "174c3c8a-7925-f373-e61d-bc20042b9428",
+        "file_id": "174c3c8a-7925-f373-e61d-bc20042b9428",
+        "file_name": "American Action Network PAC 3248285 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 108720,
+        "file_status": "com_cpy",
+        "folder_id": "84689a38-f31b-d53a-a88b-7042e060c958",
+        "create_ts": "2021-10-19T17:32:28.734Z",
+        "last_update_ts": "2021-10-19T17:33:07.264Z",
+        "active_ind": "Y",
+        "file_manager_id": "a82f66f2-8251-4cc1-9feb-1811519de351",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Action Network PAC",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Action Network PAC/American Action Network PAC 3248285 Rev 0",
+        "entity_id": "17010",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WYOU",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1714070223887270000,
+        "score": 0.249957
+      },
+      {
+        "id": "f35f1eda-2835-ba5a-cd5b-01f7af97823d",
+        "file_id": "f35f1eda-2835-ba5a-cd5b-01f7af97823d",
+        "file_name": "American Action Network PAC 3248276 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 126137,
+        "file_status": "com_cpy",
+        "folder_id": "a60fa7e8-9149-6b48-bbda-41cb5c1f66e5",
+        "create_ts": "2021-10-19T17:31:02.256Z",
+        "last_update_ts": "2021-10-19T17:30:59.016Z",
+        "active_ind": "Y",
+        "file_manager_id": "d8435eb0-fffc-4947-803a-76b50b0d4b57",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Action Network PAC",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Action Network PAC/American Action Network PAC 3248276 Rev 0",
+        "entity_id": "71225",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WBRE-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1714070133232631800,
+        "score": 0.249957
+      },
+      {
+        "id": "901649d8-da48-a29e-372b-64a5c283084e",
+        "file_id": "901649d8-da48-a29e-372b-64a5c283084e",
+        "file_name": "Toohill 3244726 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 111720,
+        "file_status": "com_cpy",
+        "folder_id": "14b0e427-cdaa-b923-443c-2af94a37017b",
+        "create_ts": "2021-10-19T17:30:30.649Z",
+        "last_update_ts": "2021-10-19T17:30:27.399Z",
+        "active_ind": "Y",
+        "file_manager_id": "a21f09ab-2217-445e-8d6f-27d7baa018ce",
+        "file_folder_path": "Political Files/2021/Local/Tarah Toohil",
+        "full_qualified_file_name": "Political Files/2021/Local/Tarah Toohil/Toohill 3244726 Rev 0",
+        "entity_id": "71225",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WBRE-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714070100081901600,
+        "score": 0.249957
+      },
       {
         "id": "3ff38a77-4173-7a20-aba5-189c6333c53f",
         "file_id": "3ff38a77-4173-7a20-aba5-189c6333c53f",
@@ -174,81 +247,13 @@
         "campaign_year": "2021",
         "_version_": 1714064683505287200,
         "score": 0.249957
-      },
-      {
-        "id": "bff18f9e-284d-8fda-0480-d8907c8e2009",
-        "file_id": "bff18f9e-284d-8fda-0480-d8907c8e2009",
-        "file_name": "01-2021",
-        "file_extension": "xls",
-        "file_size": 27136,
-        "file_status": "com_prc",
-        "folder_id": "d27b53ce-810f-f932-44be-9199ca837019",
-        "create_ts": "2021-10-19T15:56:29.404Z",
-        "last_update_ts": "2021-10-19T15:56:40.117Z",
-        "active_ind": "Y",
-        "file_manager_id": "54cd545d-e779-4877-b10c-75835888d9a1",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/01-2021",
-        "entity_id": "65631",
-        "source_service_code": "FM",
-        "callsign": "WFIT",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1714064199481557000,
-        "score": 0.249957
-      },
-      {
-        "id": "7425ba08-d13d-9a21-484c-00a5c7dc0686",
-        "file_id": "7425ba08-d13d-9a21-484c-00a5c7dc0686",
-        "file_name": "WPWA Building Back Together times 083121-091721",
-        "file_extension": "pdf",
-        "file_size": 89655,
-        "file_status": "com_cpy",
-        "folder_id": "306e772f-c491-30d0-586e-0dc4380fcdb5",
-        "create_ts": "2021-10-19T15:39:35.321Z",
-        "last_update_ts": "2021-10-19T15:39:35.229Z",
-        "active_ind": "Y",
-        "file_manager_id": "48c91374-49d9-40bd-9697-4f83f92371b0",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Building Back Together",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Building Back Together/WPWA Building Back Together times 083121-091721",
-        "entity_id": "37843",
-        "source_service_code": "AM",
-        "callsign": "WPWA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714063121417502700,
-        "score": 0.249957
-      },
-      {
-        "id": "4d24bf49-5bf7-523c-a760-936ce1e6b55f",
-        "file_id": "4d24bf49-5bf7-523c-a760-936ce1e6b55f",
-        "file_name": "EFO Addiego, Natale & Eckel for LD 8 322962 Rev 0",
-        "file_extension": "pdf",
-        "file_size": 159725,
-        "file_status": "com_cpy",
-        "folder_id": "c26718cd-ff7e-039c-646a-318601244aa6",
-        "create_ts": "2021-10-19T15:12:03.286Z",
-        "last_update_ts": "2021-10-19T15:12:42.419Z",
-        "active_ind": "Y",
-        "file_manager_id": "26971f64-a401-4b0a-b954-a51e990f51d1",
-        "file_folder_path": "Political Files/2021/Local/New Jersey/EFO Addiego Natale  Eckel for LD 8",
-        "full_qualified_file_name": "Political Files/2021/Local/New Jersey/EFO Addiego Natale  Eckel for LD 8/EFO Addiego, Natale & Eckel for LD 8 322962 Rev 0",
-        "entity_id": "8616",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "PHILADELPHIA",
-        "callsign": "WPVI-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1714061390061240300,
-        "score": 0.249957
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8388,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7032,
-        "WILKES BARRE-SCRANTON": 6743,
+        "WILKES BARRE-SCRANTON": 6746,
         "LAS VEGAS": 5919,
         "WEST PALM BEACH-FT. PIERCE": 5806,
         "PITTSBURGH": 5313,
@@ -349,8 +354,8 @@
       },
       "network_affiliation": {
         "ABC": 56995,
-        "NBC": 55932,
-        "CBS": 37926,
+        "NBC": 55934,
+        "CBS": 37927,
         "FOX": 27314,
         "PBS": 14192,
         "CW": 11962,
@@ -419,7 +424,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 18956,
+        "2021": 18959,
         "2022": 2,
         "KYAZ": 5,
         "Fede": 1
@@ -429,7 +434,7 @@
         "US Senate": 48497,
         "US House": 41475,
         "Presidential": 39054,
-        "Local": 23162
+        "Local": 23163
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -460,15 +465,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233357,
+        "TV": 233360,
         "CABLE": 115831,
         "FM": 109085,
         "AM": 40762,
         "DBS": 5286
       },
       "political_file_type": {
-        "PA": 217937,
-        "NCIA": 119845
+        "PA": 217938,
+        "NCIA": 119847
       }
     }
   },
@@ -484,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 215,
-    "processTime": 221,
-    "responseTime": 222
+    "queryTime": 205,
+    "processTime": 213,
+    "responseTime": 213
   }
 }
