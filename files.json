@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 504305,
+    "numFound": 504306,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "4eee7e10-c419-cf75-1f37-38dcc6ea02b7",
+        "file_id": "4eee7e10-c419-cf75-1f37-38dcc6ea02b7",
+        "file_name": "NAB - AARP 2021 (002)",
+        "file_extension": "pdf",
+        "file_size": 466446,
+        "file_status": "com_cpy",
+        "folder_id": "89cd45e2-b930-6871-59d4-4608e5af801d",
+        "create_ts": "2021-10-19T00:39:28.073Z",
+        "last_update_ts": "2021-10-19T00:39:28.625Z",
+        "active_ind": "Y",
+        "file_manager_id": "c5c33993-2478-4238-b8b6-4b267f038bd2",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AARP/AARP Est 10262",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AARP/AARP Est 10262/NAB - AARP 2021 (002)",
+        "entity_id": "47904",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WASHINGTON DC (HAGRSTWN)",
+        "callsign": "WRC-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1714006491405484000,
+        "score": 0.249957
+      },
       {
         "id": "67c2281e-dc2b-dd10-e36e-179f77f4b51a",
         "file_id": "67c2281e-dc2b-dd10-e36e-179f77f4b51a",
@@ -212,28 +236,6 @@
         "campaign_year": "2021",
         "_version_": 1713990484564639700,
         "score": 0.249957
-      },
-      {
-        "id": "30225b20-1c66-a5f2-9f75-e99e517e0e17",
-        "file_id": "30225b20-1c66-a5f2-9f75-e99e517e0e17",
-        "file_name": "Mainers for Local Power (002)",
-        "file_extension": "pdf",
-        "file_size": 4996355,
-        "file_status": "com_cpy",
-        "folder_id": "9c2ae622-065f-f374-244a-80c6f6c44e49",
-        "create_ts": "2021-10-18T20:15:43.278Z",
-        "last_update_ts": "2021-10-18T20:15:44.31Z",
-        "active_ind": "Y",
-        "file_manager_id": "655043f5-68f2-41b9-ba02-0e51a0aa5e85",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR LOCAL POWER WPOR 101921-102521 Est 11105   Cont209779",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/MAINERS FOR LOCAL POWER WPOR 101921-102521 Est 11105   Cont209779/Mainers for Local Power (002)",
-        "entity_id": "49982",
-        "source_service_code": "FM",
-        "callsign": "WPOR",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1713989898406461400,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -278,7 +280,7 @@
         "ROCHESTR-MASON CITY-AUSTIN": 1983,
         "SIOUX CITY": 1936,
         "GREAT FALLS": 1923,
-        "WASHINGTON DC (HAGRSTWN)": 1886,
+        "WASHINGTON DC (HAGRSTWN)": 1887,
         "LA CROSSE-EAU CLAIRE": 1800,
         "BLUEFIELD-BECKLEY-OAK HILL": 1760,
         "ALBUQUERQUE-SANTA FE": 1702,
@@ -341,7 +343,7 @@
       },
       "network_affiliation": {
         "ABC": 56989,
-        "NBC": 55931,
+        "NBC": 55932,
         "CBS": 37926,
         "FOX": 27311,
         "PBS": 14192,
@@ -411,7 +413,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 18941,
+        "2021": 18942,
         "2022": 2,
         "KYAZ": 5,
         "Fede": 1
@@ -452,7 +454,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233345,
+        "TV": 233346,
         "CABLE": 115831,
         "FM": 109082,
         "AM": 40761,
@@ -460,7 +462,7 @@
       },
       "political_file_type": {
         "PA": 217924,
-        "NCIA": 119843
+        "NCIA": 119844
       }
     }
   },
@@ -477,7 +479,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 212,
-    "processTime": 221,
-    "responseTime": 221
+    "processTime": 219,
+    "responseTime": 220
   }
 }
