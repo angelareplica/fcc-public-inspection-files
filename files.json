@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 504312,
+    "numFound": 504313,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "7425ba08-d13d-9a21-484c-00a5c7dc0686",
+        "file_id": "7425ba08-d13d-9a21-484c-00a5c7dc0686",
+        "file_name": "WPWA Building Back Together times 083121-091721",
+        "file_extension": "pdf",
+        "file_size": 89655,
+        "file_status": "com_cpy",
+        "folder_id": "306e772f-c491-30d0-586e-0dc4380fcdb5",
+        "create_ts": "2021-10-19T15:39:35.321Z",
+        "last_update_ts": "2021-10-19T15:39:35.229Z",
+        "active_ind": "Y",
+        "file_manager_id": "48c91374-49d9-40bd-9697-4f83f92371b0",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Building Back Together",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Building Back Together/WPWA Building Back Together times 083121-091721",
+        "entity_id": "37843",
+        "source_service_code": "AM",
+        "callsign": "WPWA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1714063121417502700,
+        "score": 0.249957
+      },
       {
         "id": "4d24bf49-5bf7-523c-a760-936ce1e6b55f",
         "file_id": "4d24bf49-5bf7-523c-a760-936ce1e6b55f",
@@ -223,29 +245,6 @@
         "campaign_year": "2021",
         "_version_": 1713994368566689800,
         "score": 0.249957
-      },
-      {
-        "id": "36bedc38-b3b9-d97b-6f45-fc3b9530e3d6",
-        "file_id": "36bedc38-b3b9-d97b-6f45-fc3b9530e3d6",
-        "file_name": "Mainers for Local Power Spot Approval 09-28-21",
-        "file_extension": "pdf",
-        "file_size": 106975,
-        "file_status": "com_cpy",
-        "folder_id": "421d96b1-da3c-071d-9cd6-e0dfdfecd28d",
-        "create_ts": "2021-10-18T21:25:40.884Z",
-        "last_update_ts": "2021-10-18T21:25:40.746Z",
-        "active_ind": "Y",
-        "file_manager_id": "a0f8775b-ab3c-4b89-a957-6678bde51379",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Mainers for Local Power/10-19-21 - 10-25-21",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Mainers for Local Power/10-19-21 - 10-25-21/Mainers for Local Power Spot Approval 09-28-21",
-        "entity_id": "52608",
-        "source_service_code": "FM",
-        "callsign": "WEBB",
-        "political_file_type": "NCIA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1713994298689585200,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -423,7 +422,7 @@
         "2018": 68034,
         "2019": 14094,
         "2020": 125954,
-        "2021": 18948,
+        "2021": 18949,
         "2022": 2,
         "KYAZ": 5,
         "Fede": 1
@@ -467,12 +466,12 @@
         "TV": 233352,
         "CABLE": 115831,
         "FM": 109082,
-        "AM": 40761,
+        "AM": 40762,
         "DBS": 5286
       },
       "political_file_type": {
         "PA": 217930,
-        "NCIA": 119844
+        "NCIA": 119845
       }
     }
   },
@@ -488,7 +487,7 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1724,
+    "queryTime": 1722,
     "processTime": 731,
     "responseTime": 1732
   }
