@@ -5,6 +5,28 @@
     "maxScore": 0.500164,
     "docs": [
       {
+        "id": "d72f2fd6-3cb8-190b-3e1a-758f0938f233",
+        "file_id": "d72f2fd6-3cb8-190b-3e1a-758f0938f233",
+        "file_name": "WGKA Coalition for American Jobs 091421 order INVOICE part 2",
+        "file_extension": "pdf",
+        "file_size": 34781,
+        "file_status": "com_cpy",
+        "folder_id": "58b79add-a680-afa7-25a2-444d75ea8d5c",
+        "create_ts": "2021-10-20T18:47:08.259Z",
+        "last_update_ts": "2021-10-20T18:47:05.15Z",
+        "active_ind": "Y",
+        "file_manager_id": "c898690b-fa5f-4f7f-a371-bb6c9a1ce527",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Coalition for American Jobs",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Coalition for American Jobs/WGKA Coalition for American Jobs 091421 order INVOICE part 2",
+        "entity_id": "65976",
+        "source_service_code": "AM",
+        "callsign": "WGKA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1714165518379778000,
+        "score": 0.249957
+      },
+      {
         "id": "4de88d81-843e-ab2e-e835-a16d2addfb60",
         "file_id": "4de88d81-843e-ab2e-e835-a16d2addfb60",
         "file_name": "WRVM Program Donors 2021-09",
@@ -201,30 +223,6 @@
         "campaign_year": "2021",
         "_version_": 1714159473104257000,
         "score": 0.249957
-      },
-      {
-        "id": "e1000dcf-5c90-36d1-253e-756042788eff",
-        "file_id": "e1000dcf-5c90-36d1-253e-756042788eff",
-        "file_name": "Traffic 09.23 NY-18 AAN TV",
-        "file_extension": "pdf",
-        "file_size": 149348,
-        "file_status": "com_cpy",
-        "folder_id": "a434bf5e-e02b-d91e-77da-1210168304f2",
-        "create_ts": "2021-10-20T17:10:30.709Z",
-        "last_update_ts": "2021-10-20T17:10:27.319Z",
-        "active_ind": "Y",
-        "file_manager_id": "28b6d084-9553-465c-b2e1-5eb2f666113f",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Action Network-NYI",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Action Network-NYI/Traffic 09.23 NY-18 AAN TV",
-        "entity_id": "004813",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLEVISION OF WAPPINGERS FALLS INC",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714159438890270700,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -402,7 +400,7 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125954,
-        "2021": 19030,
+        "2021": 19031,
         "2022": 3,
         "KYAZ": 5,
         "Fede": 1
@@ -417,7 +415,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
         "Issues and Programs Lists": 44050,
-        "Equal Employment Opportunity Records": 36994,
+        "Equal Employment Opportunity Records": 36993,
         "Donor Lists - Applicable Only for NCEs": 11394,
         "FCC Authorizations": 7141,
         "Local Public Notice Announcements": 1739,
@@ -444,14 +442,14 @@
       },
       "source_service_code": {
         "TV": 233370,
-        "CABLE": 115858,
+        "CABLE": 115857,
         "FM": 109101,
-        "AM": 40769,
+        "AM": 40770,
         "DBS": 5287
       },
       "political_file_type": {
         "PA": 217953,
-        "NCIA": 119897
+        "NCIA": 119898
       }
     }
   },
@@ -467,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 212,
-    "responseTime": 212
+    "queryTime": 1835,
+    "processTime": 841,
+    "responseTime": 1842
   }
 }
