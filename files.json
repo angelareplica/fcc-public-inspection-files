@@ -5,6 +5,29 @@
     "maxScore": 0.500164,
     "docs": [
       {
+        "id": "a77c435c-a27a-00c3-aef7-b425e962871b",
+        "file_id": "a77c435c-a27a-00c3-aef7-b425e962871b",
+        "file_name": "WJLP.ApplicationAssignmentofLicense.OPIFcopy (01564740xB3D1E)",
+        "file_extension": "pdf",
+        "file_size": 1181668,
+        "file_status": "com_cpy",
+        "folder_id": "5c06898e-d080-9788-c9d1-8588348b92c4",
+        "create_ts": "2021-10-20T15:30:38.584Z",
+        "last_update_ts": "2021-10-20T15:30:38.913Z",
+        "active_ind": "Y",
+        "file_manager_id": "b86e93bb-8d99-4fc1-b952-f44abcd40ba0",
+        "file_folder_path": "Applications and Related Materials/Additional Documents/Assignment Related Documents",
+        "full_qualified_file_name": "Applications and Related Materials/Additional Documents/Assignment Related Documents/WJLP.ApplicationAssignmentofLicense.OPIFcopy (01564740xB3D1E)",
+        "entity_id": "86537",
+        "source_service_code": "TV",
+        "network_affiliation": "MeTV",
+        "nielsen_dma_rank": "NEW YORK",
+        "callsign": "WJLP",
+        "non_political_file_folder": "Applications and Related Materials",
+        "_version_": 1714153156025254000,
+        "score": 0.249957
+      },
+      {
         "id": "0f9f0dc2-b777-23ca-a2ef-4122a61f8dd4",
         "file_id": "0f9f0dc2-b777-23ca-a2ef-4122a61f8dd4",
         "file_name": "Youngkin Affidavit - 09-20-21",
@@ -220,30 +243,6 @@
         "campaign_year": "2021",
         "_version_": 1714099815099400200,
         "score": 0.249957
-      },
-      {
-        "id": "4310df2c-3dde-6642-6767-52d8f7731588",
-        "file_id": "4310df2c-3dde-6642-6767-52d8f7731588",
-        "file_name": "Est 000078 Rev 3",
-        "file_extension": "PDF",
-        "file_size": 197888,
-        "file_status": "com_cpy",
-        "folder_id": "0c3ff98e-c916-4af4-f5cc-b26ff2521c34",
-        "create_ts": "2021-10-19T22:34:28.642Z",
-        "last_update_ts": "2021-10-19T22:35:07.747Z",
-        "active_ind": "Y",
-        "file_manager_id": "520b61ca-f716-4a4a-a61e-9901b764b5d1",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Future Majority",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Future Majority/Est 000078 Rev 3",
-        "entity_id": "5243",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KSVI",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714089224025669600,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -313,7 +312,7 @@
         "SALT LAKE CITY": 1104,
         "DENVER": 1065,
         "GLENDIVE": 1060,
-        "NEW YORK": 1043,
+        "NEW YORK": 1044,
         "GREEN BAY-APPLETON": 1042,
         "ORLANDO-DAYTONA BCH-MELBRN": 1037,
         "LITTLE ROCK-PINE BLUFF": 1007,
@@ -378,7 +377,7 @@
         "TRINITY BROADCASTING NETWORK": 162,
         "Independent": 157,
         "THE CW NETWORK": 155,
-        "MeTV": 124,
+        "MeTV": 125,
         "CBS AND CW": 100,
         "THIS NETWORK LLC": 94,
         "CBS AND FOX": 77,
@@ -436,11 +435,11 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
         "Issues and Programs Lists": 44050,
-        "Equal Employment Opportunity Records": 36997,
+        "Equal Employment Opportunity Records": 36996,
         "Donor Lists - Applicable Only for NCEs": 11393,
         "FCC Authorizations": 7141,
         "Local Public Notice Announcements": 1739,
-        "Applications and Related Materials": 1604,
+        "Applications and Related Materials": 1605,
         "Availability of Signals": 1504,
         "FCC Investigations or Complaints": 1384,
         "Must-Carry or Retransmission Consent": 1336,
@@ -462,8 +461,8 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233369,
-        "CABLE": 115830,
+        "TV": 233370,
+        "CABLE": 115829,
         "FM": 109095,
         "AM": 40767,
         "DBS": 5287
@@ -486,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1722,
-    "processTime": 732,
-    "responseTime": 1732
+    "queryTime": 210,
+    "processTime": 426,
+    "responseTime": 427
   }
 }
