@@ -5,6 +5,29 @@
     "maxScore": 0.500164,
     "docs": [
       {
+        "id": "3110fa82-042c-5a76-4c18-2cbf6feef083",
+        "file_id": "3110fa82-042c-5a76-4c18-2cbf6feef083",
+        "file_name": "Eldridge for Mayor 091321-091721",
+        "file_extension": "pdf",
+        "file_size": 13575,
+        "file_status": "com_cpy",
+        "folder_id": "ecbec2b3-cfad-6912-d34e-1f8e8645b3d6",
+        "create_ts": "2021-10-21T18:46:59.655Z",
+        "last_update_ts": "2021-10-21T18:46:59.53Z",
+        "active_ind": "Y",
+        "file_manager_id": "3611a9db-7331-4e75-a4b4-f2fd75349e03",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/Eldridge for Mayor 091321-091721",
+        "entity_id": "72345",
+        "source_service_code": "AM",
+        "callsign": "WICC",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714256105842933800,
+        "score": 0.249957
+      },
+      {
         "id": "b7be163c-5e9e-cdaa-a03e-138b199bfd9b",
         "file_id": "b7be163c-5e9e-cdaa-a03e-138b199bfd9b",
         "file_name": "Lowcountry Forever - Show Recap Form - 09-06-2021",
@@ -192,27 +215,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1714253853613883400,
         "score": 0.249957
-      },
-      {
-        "id": "bf179248-eb74-6b4d-4806-bdc6d4268524",
-        "file_id": "bf179248-eb74-6b4d-4806-bdc6d4268524",
-        "file_name": "Lowcountry Forever - Show Recap Form - 08-01-2021",
-        "file_extension": "docx",
-        "file_size": 120690,
-        "file_status": "com_prc",
-        "folder_id": "b698511c-10c2-195a-4b3b-e4e309c39dcb",
-        "create_ts": "2021-10-21T18:10:56.912Z",
-        "last_update_ts": "2021-10-21T18:11:11.02Z",
-        "active_ind": "Y",
-        "file_manager_id": "8fb439ae-b40e-459b-8599-db8b7a4de0b1",
-        "file_folder_path": "Issues and Programs Lists/2021 QUARTERLY ISSUES/Issues Quarterly Report Q3",
-        "full_qualified_file_name": "Issues and Programs Lists/2021 QUARTERLY ISSUES/Issues Quarterly Report Q3/Lowcountry Forever - Show Recap Form - 08-01-2021",
-        "entity_id": "6634",
-        "source_service_code": "FM",
-        "callsign": "WMXZ",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1714253852974252000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -320,7 +322,7 @@
       },
       "network_affiliation": {
         "ABC": 57002,
-        "NBC": 55916,
+        "NBC": 55915,
         "CBS": 37928,
         "FOX": 27325,
         "PBS": 14192,
@@ -390,7 +392,7 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125954,
-        "2021": 19104,
+        "2021": 19105,
         "2022": 3,
         "KYAZ": 5,
         "Fede": 1
@@ -400,11 +402,11 @@
         "US Senate": 48501,
         "US House": 41475,
         "Presidential": 39049,
-        "Local": 23198
+        "Local": 23199
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
-        "Issues and Programs Lists": 44069,
+        "Issues and Programs Lists": 44068,
         "Equal Employment Opportunity Records": 36989,
         "Donor Lists - Applicable Only for NCEs": 11394,
         "FCC Authorizations": 7141,
@@ -431,14 +433,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233369,
+        "TV": 233368,
         "CABLE": 115883,
         "FM": 109156,
-        "AM": 40779,
+        "AM": 40780,
         "DBS": 5287
       },
       "political_file_type": {
-        "PA": 217966,
+        "PA": 217967,
         "NCIA": 119958
       }
     }
@@ -455,8 +457,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1727,
-    "processTime": 733,
-    "responseTime": 1734
+    "queryTime": 205,
+    "processTime": 213,
+    "responseTime": 214
   }
 }
