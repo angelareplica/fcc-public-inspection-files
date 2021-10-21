@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 504472,
+    "numFound": 504473,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "5f8bee2e-46c6-4e00-cba5-6f459ae0f0ee",
+        "file_id": "5f8bee2e-46c6-4e00-cba5-6f459ae0f0ee",
+        "file_name": "B396 0000164464",
+        "file_extension": "pdf",
+        "file_size": 11814,
+        "file_status": "com_cpy",
+        "folder_id": "b2ca4f0d-773d-df8d-4568-fae2571449d1",
+        "create_ts": "2021-10-21T19:31:50.47Z",
+        "last_update_ts": "2021-10-21T19:31:46.668Z",
+        "active_ind": "Y",
+        "file_manager_id": "a9509ada-8d7d-4189-8dc0-300beca16311",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/B396 0000164464",
+        "entity_id": "8418",
+        "source_service_code": "AM",
+        "callsign": "WFGL",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1714258927355428900,
+        "score": 0.249957
+      },
+      {
+        "id": "0cccc115-82d7-563e-5488-e54ab702a775",
+        "file_id": "0cccc115-82d7-563e-5488-e54ab702a775",
+        "file_name": "POL 017 Isis Garcia 20211021134929365",
+        "file_extension": "pdf",
+        "file_size": 265073,
+        "file_status": "com_cpy",
+        "folder_id": "0ebf60dc-f82d-117e-20e9-aa6166cc3120",
+        "create_ts": "2021-10-21T19:26:56.601Z",
+        "last_update_ts": "2021-10-21T19:26:52.878Z",
+        "active_ind": "Y",
+        "file_manager_id": "21d03553-06eb-45f4-9e45-5d38ed0ad52c",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/POL 017 Isis Garcia 20211021134929365",
+        "entity_id": "60165",
+        "source_service_code": "TV",
+        "callsign": "WJAN-CD",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714258619314208800,
+        "score": 0.249957
+      },
       {
         "id": "48a1f478-748c-b0e4-73ee-18c8aa6b1302",
         "file_id": "48a1f478-748c-b0e4-73ee-18c8aa6b1302",
@@ -182,48 +226,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1714254244395090000,
         "score": 0.249957
-      },
-      {
-        "id": "a75d625b-13a0-317d-d8b1-beaa7b681c21",
-        "file_id": "a75d625b-13a0-317d-d8b1-beaa7b681c21",
-        "file_name": "Lowcountry Forever - Show Recap Form - 07-25-2021",
-        "file_extension": "docx",
-        "file_size": 120881,
-        "file_status": "com_prc",
-        "folder_id": "76bc46d7-086a-645b-f7a2-c3ef02adbce0",
-        "create_ts": "2021-10-21T18:17:09.299Z",
-        "last_update_ts": "2021-10-21T18:17:06.868Z",
-        "active_ind": "Y",
-        "file_manager_id": "5d63cb5f-370f-4c1b-8f3f-e9b2d82324ef",
-        "file_folder_path": "Issues and Programs Lists/2021 QUARTERLY ISSUES/Issues Quarterly Report Q3",
-        "full_qualified_file_name": "Issues and Programs Lists/2021 QUARTERLY ISSUES/Issues Quarterly Report Q3/Lowcountry Forever - Show Recap Form - 07-25-2021",
-        "entity_id": "60038",
-        "source_service_code": "AM",
-        "callsign": "WSPO",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1714254229937324000,
-        "score": 0.249957
-      },
-      {
-        "id": "18044594-58af-98b0-a971-68a7d3269a6a",
-        "file_id": "18044594-58af-98b0-a971-68a7d3269a6a",
-        "file_name": "Lowcountry Forever - Show Recap Form - 07-04-2021",
-        "file_extension": "docx",
-        "file_size": 118890,
-        "file_status": "com_prc",
-        "folder_id": "b698511c-10c2-195a-4b3b-e4e309c39dcb",
-        "create_ts": "2021-10-21T18:10:56.912Z",
-        "last_update_ts": "2021-10-21T18:11:56.524Z",
-        "active_ind": "Y",
-        "file_manager_id": "1c4549b7-cc6e-43f0-83af-939546874def",
-        "file_folder_path": "Issues and Programs Lists/2021 QUARTERLY ISSUES/Issues Quarterly Report Q3",
-        "full_qualified_file_name": "Issues and Programs Lists/2021 QUARTERLY ISSUES/Issues Quarterly Report Q3/Lowcountry Forever - Show Recap Form - 07-04-2021",
-        "entity_id": "6634",
-        "source_service_code": "FM",
-        "callsign": "WMXZ",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1714253854594302000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -401,7 +403,7 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125954,
-        "2021": 19107,
+        "2021": 19108,
         "2022": 3,
         "KYAZ": 5,
         "Fede": 1
@@ -411,7 +413,7 @@
         "US Senate": 48501,
         "US House": 41475,
         "Presidential": 39049,
-        "Local": 23199
+        "Local": 23200
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -442,14 +444,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233366,
-        "CABLE": 115882,
+        "TV": 233367,
+        "CABLE": 115881,
         "FM": 109156,
-        "AM": 40781,
+        "AM": 40782,
         "DBS": 5287
       },
       "political_file_type": {
-        "PA": 217968,
+        "PA": 217969,
         "NCIA": 119959
       }
     }
@@ -466,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 220,
-    "processTime": 227,
-    "responseTime": 228
+    "queryTime": 1728,
+    "processTime": 737,
+    "responseTime": 1737
   }
 }
