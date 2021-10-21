@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 504476,
+    "numFound": 504477,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "aa00e973-10a0-9555-d925-5741e63ded10",
+        "file_id": "aa00e973-10a0-9555-d925-5741e63ded10",
+        "file_name": "KEEP Confirm_0655-001",
+        "file_extension": "pdf",
+        "file_size": 5475,
+        "file_status": "com_cpy",
+        "folder_id": "2a9773e0-b20a-5ea8-2790-315e5ae940e5",
+        "create_ts": "2021-10-21T21:45:13.512Z",
+        "last_update_ts": "2021-10-21T21:45:13.355Z",
+        "active_ind": "Y",
+        "file_manager_id": "130c7f44-a40c-490a-8169-7025b4682c4f",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/KEEP Confirm_0655-001",
+        "entity_id": "28214",
+        "source_service_code": "FM",
+        "callsign": "KMOK",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1714267319141662700,
+        "score": 0.249957
+      },
       {
         "id": "a32e0dc1-21bb-9917-d0f2-392d47971852",
         "file_id": "a32e0dc1-21bb-9917-d0f2-392d47971852",
@@ -215,29 +237,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1714257604005331000,
         "score": 0.249957
-      },
-      {
-        "id": "19d70f0b-db27-6dd0-aaba-f22ba2cc152e",
-        "file_id": "19d70f0b-db27-6dd0-aaba-f22ba2cc152e",
-        "file_name": "KSNV LEAGUE OF CONSERVATION VOTERS Est 0126 SPONSOR",
-        "file_extension": "pdf",
-        "file_size": 1175113,
-        "file_status": "com_cpy",
-        "folder_id": "4f798727-62b1-453d-e080-00b7ec8457ef",
-        "create_ts": "2021-10-21T19:10:36.68Z",
-        "last_update_ts": "2021-10-21T19:10:36.98Z",
-        "active_ind": "Y",
-        "file_manager_id": "cb1a3de4-5053-4dfd-a2ce-6a9d1ace0276",
-        "file_folder_path": "Political Matters and Controversial Issues Disclosures/2021",
-        "full_qualified_file_name": "Political Matters and Controversial Issues Disclosures/2021/KSNV LEAGUE OF CONSERVATION VOTERS Est 0126 SPONSOR",
-        "entity_id": "10179",
-        "source_service_code": "TV",
-        "network_affiliation": "MYTV",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KSNV",
-        "non_political_file_folder": "Political Matters and Controversial Issues Disclosures",
-        "_version_": 1714257592160616400,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -415,7 +414,7 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125954,
-        "2021": 19112,
+        "2021": 19113,
         "2022": 3,
         "KYAZ": 5,
         "Fede": 1
@@ -458,13 +457,13 @@
       "source_service_code": {
         "TV": 233370,
         "CABLE": 115880,
-        "FM": 109157,
+        "FM": 109158,
         "AM": 40782,
         "DBS": 5287
       },
       "political_file_type": {
         "PA": 217973,
-        "NCIA": 119959
+        "NCIA": 119960
       }
     }
   },
@@ -480,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 211,
-    "responseTime": 212
+    "queryTime": 212,
+    "processTime": 222,
+    "responseTime": 222
   }
 }
