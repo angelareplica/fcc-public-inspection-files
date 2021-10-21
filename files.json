@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 504442,
+    "numFound": 504444,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "04cd8e11-c6f6-e767-957c-d91ae7d77217",
+        "file_id": "04cd8e11-c6f6-e767-957c-d91ae7d77217",
+        "file_name": "WDBT - Katie Britt - 10938-00007",
+        "file_extension": "pdf",
+        "file_size": 362347,
+        "file_status": "com_cpy",
+        "folder_id": "9c99b2e4-9f4f-3ec2-7ba2-c557a0a89737",
+        "create_ts": "2021-10-21T14:29:44.51Z",
+        "last_update_ts": "2021-10-21T14:29:44.564Z",
+        "active_ind": "Y",
+        "file_manager_id": "d679a2cf-81e8-4a75-ba37-a331b47dc1f1",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/Katie Britt",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Katie Britt/WDBT - Katie Britt - 10938-00007",
+        "entity_id": "63945",
+        "source_service_code": "FM",
+        "callsign": "WDBT",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1714239921111171000,
+        "score": 0.249957
+      },
+      {
+        "id": "1ae14b6f-9fe3-49dc-a371-ade0fd800e19",
+        "file_id": "1ae14b6f-9fe3-49dc-a371-ade0fd800e19",
+        "file_name": "WTVY - Katie Britt - 10938-00006",
+        "file_extension": "pdf",
+        "file_size": 358965,
+        "file_status": "com_cpy",
+        "folder_id": "ed169e44-c78a-c02d-e15d-24f3302b9747",
+        "create_ts": "2021-10-21T14:26:03.52Z",
+        "last_update_ts": "2021-10-21T14:25:59.92Z",
+        "active_ind": "Y",
+        "file_manager_id": "dd813c00-e7fb-45e0-aef6-3c6098f4ec88",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/Katie Britt",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Katie Britt/WTVY - Katie Britt - 10938-00006",
+        "entity_id": "73639",
+        "source_service_code": "FM",
+        "callsign": "WTVY-FM",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1714239689355952000,
+        "score": 0.249957
+      },
       {
         "id": "1abc7d68-7f03-6057-8df6-5272a77f811d",
         "file_id": "1abc7d68-7f03-6057-8df6-5272a77f811d",
@@ -195,54 +241,6 @@
         "campaign_year": "2021",
         "_version_": 1714235099735654400,
         "score": 0.249957
-      },
-      {
-        "id": "ade4ba8e-9f6b-3ee5-d185-eb92dbc3a184",
-        "file_id": "ade4ba8e-9f6b-3ee5-d185-eb92dbc3a184",
-        "file_name": "Patients for Affordable Drugs Action - NY-04 New York - Kris100% 10.15 (4)",
-        "file_extension": "pdf",
-        "file_size": 13855,
-        "file_status": "com_cpy",
-        "folder_id": "a3b0a74f-e7f3-0e96-69a6-fe45bbb71a68",
-        "create_ts": "2021-10-21T13:10:56.633Z",
-        "last_update_ts": "2021-10-21T13:11:39.976Z",
-        "active_ind": "Y",
-        "file_manager_id": "889fc8f0-9c93-4011-8ece-08e391e1e37b",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs/Patients for Affordable Drugs Action - NY-04 New York - Kris100% 10.15 (4)",
-        "entity_id": "000884",
-        "source_service_code": "CABLE",
-        "legal_name": "CSC TKR LLC",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714234963433357300,
-        "score": 0.249957
-      },
-      {
-        "id": "227edc3a-2a6c-ed00-cf2b-52112ba3b0d6",
-        "file_id": "227edc3a-2a6c-ed00-cf2b-52112ba3b0d6",
-        "file_name": "Patients for Affordable Drugs Action - NY-04 New York - Kris100% 10.15 (4)",
-        "file_extension": "pdf",
-        "file_size": 13855,
-        "file_status": "com_cpy",
-        "folder_id": "179d37cf-de40-4cfe-6672-76313f2a4e1c",
-        "create_ts": "2021-10-21T13:09:55.213Z",
-        "last_update_ts": "2021-10-21T13:09:51.729Z",
-        "active_ind": "Y",
-        "file_manager_id": "89c4f0cf-8d41-4f37-bfcc-d16a97f46938",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/-Patients for Affordable Drugs",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/-Patients for Affordable Drugs/Patients for Affordable Drugs Action - NY-04 New York - Kris100% 10.15 (4)",
-        "entity_id": "008370",
-        "source_service_code": "CABLE",
-        "legal_name": "CSC ACQUISITION -MA INC",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714234899240583200,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -420,14 +418,14 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125954,
-        "2021": 19090,
+        "2021": 19092,
         "2022": 3,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64633,
-        "US Senate": 48497,
+        "US Senate": 48499,
         "US House": 41475,
         "Presidential": 39049,
         "Local": 23195
@@ -463,12 +461,12 @@
       "source_service_code": {
         "TV": 233379,
         "CABLE": 115883,
-        "FM": 109120,
+        "FM": 109122,
         "AM": 40773,
         "DBS": 5287
       },
       "political_file_type": {
-        "PA": 217956,
+        "PA": 217958,
         "NCIA": 119954
       }
     }
@@ -485,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1727,
-    "processTime": 734,
-    "responseTime": 1735
+    "queryTime": 210,
+    "processTime": 218,
+    "responseTime": 219
   }
 }
