@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 504513,
+    "numFound": 504514,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "31dddbc0-df70-4860-2c6a-69f551131a13",
+        "file_id": "31dddbc0-df70-4860-2c6a-69f551131a13",
+        "file_name": "POL 018 Mayor Francis Suarez 20211022152336377",
+        "file_extension": "pdf",
+        "file_size": 192780,
+        "file_status": "com_cpy",
+        "folder_id": "0ebf60dc-f82d-117e-20e9-aa6166cc3120",
+        "create_ts": "2021-10-22T20:26:53.905Z",
+        "last_update_ts": "2021-10-22T20:26:50.19Z",
+        "active_ind": "Y",
+        "file_manager_id": "fcbbd0f6-0e82-4886-85bb-4751ce3149ad",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/POL 018 Mayor Francis Suarez 20211022152336377",
+        "entity_id": "60165",
+        "source_service_code": "TV",
+        "callsign": "WJAN-CD",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714352988581003300,
+        "score": 0.249957
+      },
       {
         "id": "60b85f49-d7c8-6717-04a2-6257272caa71",
         "file_id": "60b85f49-d7c8-6717-04a2-6257272caa71",
@@ -218,30 +241,6 @@
         "campaign_year": "2021",
         "_version_": 1714346453997977600,
         "score": 0.249957
-      },
-      {
-        "id": "91473a82-a91f-8289-ba74-f4146386afc4",
-        "file_id": "91473a82-a91f-8289-ba74-f4146386afc4",
-        "file_name": "WLAJ AAN 1847 3148266 1103-09",
-        "file_extension": "pdf",
-        "file_size": 226694,
-        "file_status": "com_cpy",
-        "folder_id": "a558322f-f95e-14d7-f49b-af54f5644769",
-        "create_ts": "2021-10-22T17:17:14.544Z",
-        "last_update_ts": "2021-10-22T17:17:10.687Z",
-        "active_ind": "Y",
-        "file_manager_id": "41b44131-4854-4084-8276-13e7738ca72f",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Action Network",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Action Network/WLAJ AAN 1847 3148266 1103-09",
-        "entity_id": "36533",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LANSING",
-        "callsign": "WLAJ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714341056280002600,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -419,7 +418,7 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125954,
-        "2021": 19141,
+        "2021": 19142,
         "2022": 3,
         "KYAZ": 5,
         "Fede": 1
@@ -429,7 +428,7 @@
         "US Senate": 48501,
         "US House": 41475,
         "Presidential": 39049,
-        "Local": 23213
+        "Local": 23214
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -460,14 +459,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233383,
+        "TV": 233384,
         "CABLE": 115880,
         "FM": 109174,
         "AM": 40789,
         "DBS": 5287
       },
       "political_file_type": {
-        "PA": 217986,
+        "PA": 217987,
         "NCIA": 119975
       }
     }
@@ -484,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 218,
-    "responseTime": 218
+    "queryTime": 1720,
+    "processTime": 731,
+    "responseTime": 1732
   }
 }
