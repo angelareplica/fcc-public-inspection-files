@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 504499,
+    "numFound": 504501,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "0b71869e-9784-9324-0d04-2a0d6c7dd858",
+        "file_id": "0b71869e-9784-9324-0d04-2a0d6c7dd858",
+        "file_name": "WZKS - James Creer - 11343-00002",
+        "file_extension": "pdf",
+        "file_size": 1510569,
+        "file_status": "com_cpy",
+        "folder_id": "c9fc80ee-c953-de15-9610-8d156231a06c",
+        "create_ts": "2021-10-22T16:36:54.432Z",
+        "last_update_ts": "2021-10-22T16:36:50.973Z",
+        "active_ind": "Y",
+        "file_manager_id": "39fef9a6-542f-4c44-a26a-9d084e542e53",
+        "file_folder_path": "Political Files/2021/State/Mississippi Senate District 32/James Creer",
+        "full_qualified_file_name": "Political Files/2021/State/Mississippi Senate District 32/James Creer/WZKS - James Creer - 11343-00002",
+        "entity_id": "17357",
+        "source_service_code": "FM",
+        "callsign": "WZKS",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1714338519031218200,
+        "score": 0.249957
+      },
+      {
+        "id": "24682e31-1bcb-4352-202e-0207fcfd8a3d",
+        "file_id": "24682e31-1bcb-4352-202e-0207fcfd8a3d",
+        "file_name": "Youngkin Affidavit - 09-17-21",
+        "file_extension": "pdf",
+        "file_size": 6475,
+        "file_status": "com_cpy",
+        "folder_id": "c59b4944-a011-b199-9ce8-3e3dd327bae3",
+        "create_ts": "2021-10-22T16:04:30.001Z",
+        "last_update_ts": "2021-10-22T16:04:26.045Z",
+        "active_ind": "Y",
+        "file_manager_id": "1bfdff67-e85c-4290-9676-0670b5839328",
+        "file_folder_path": "Political Files/2021/State",
+        "full_qualified_file_name": "Political Files/2021/State/Youngkin Affidavit - 09-17-21",
+        "entity_id": "36893",
+        "source_service_code": "AM",
+        "callsign": "WSWV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1714336479602278400,
+        "score": 0.249957
+      },
       {
         "id": "8a36a0ec-6d9d-5225-438a-76c73142d618",
         "file_id": "8a36a0ec-6d9d-5225-438a-76c73142d618",
@@ -174,51 +220,6 @@
         "callsign": "WTYN",
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1714328136809709600,
-        "score": 0.249957
-      },
-      {
-        "id": "c657a768-1e97-5ead-b786-e2734f01c183",
-        "file_id": "c657a768-1e97-5ead-b786-e2734f01c183",
-        "file_name": "B396 0000164464 Central MA Area",
-        "file_extension": "pdf",
-        "file_size": 17418,
-        "file_status": "com_cpy",
-        "folder_id": "e29d7802-f461-ecbc-e46d-87167219fbf7",
-        "create_ts": "2021-10-22T13:48:14.344Z",
-        "last_update_ts": "2021-10-22T13:49:00.312Z",
-        "active_ind": "Y",
-        "file_manager_id": "be8b31f0-0f1d-4eca-bdad-9d649c87f0fa",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/B396 0000164464 Central MA Area",
-        "entity_id": "122204",
-        "source_service_code": "FM",
-        "callsign": "WJWT",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1714327906773106700,
-        "score": 0.249957
-      },
-      {
-        "id": "89ee09f1-f300-2105-9d96-91d37b7c4f55",
-        "file_id": "89ee09f1-f300-2105-9d96-91d37b7c4f55",
-        "file_name": "Our NJ 323203 Rev 0",
-        "file_extension": "pdf",
-        "file_size": 158249,
-        "file_status": "com_cpy",
-        "folder_id": "51318557-2b1a-e3bc-8394-8b2d8a6bb254",
-        "create_ts": "2021-10-22T12:24:24.147Z",
-        "last_update_ts": "2021-10-22T12:24:24.093Z",
-        "active_ind": "Y",
-        "file_manager_id": "57e8cf26-662d-4127-9b93-e3be201cae33",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Our NJ",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Our NJ/Our NJ 323203 Rev 0",
-        "entity_id": "8616",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "PHILADELPHIA",
-        "callsign": "WPVI-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714322632303706000,
         "score": 0.249957
       }
     ],
@@ -397,13 +398,13 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125954,
-        "2021": 19127,
+        "2021": 19129,
         "2022": 3,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64638,
+        "State": 64640,
         "US Senate": 48501,
         "US House": 41475,
         "Presidential": 39049,
@@ -440,12 +441,12 @@
       "source_service_code": {
         "TV": 233374,
         "CABLE": 115880,
-        "FM": 109170,
-        "AM": 40788,
+        "FM": 109171,
+        "AM": 40789,
         "DBS": 5287
       },
       "political_file_type": {
-        "PA": 217979,
+        "PA": 217981,
         "NCIA": 119968
       }
     }
@@ -462,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1727,
-    "processTime": 735,
+    "queryTime": 1725,
+    "processTime": 734,
     "responseTime": 1735
   }
 }
