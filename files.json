@@ -1,9 +1,81 @@
 {
   "response": {
-    "numFound": 504501,
+    "numFound": 504504,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "91473a82-a91f-8289-ba74-f4146386afc4",
+        "file_id": "91473a82-a91f-8289-ba74-f4146386afc4",
+        "file_name": "WLAJ AAN 1847 3148266 1103-09",
+        "file_extension": "pdf",
+        "file_size": 226694,
+        "file_status": "com_cpy",
+        "folder_id": "a558322f-f95e-14d7-f49b-af54f5644769",
+        "create_ts": "2021-10-22T17:17:14.544Z",
+        "last_update_ts": "2021-10-22T17:17:10.687Z",
+        "active_ind": "Y",
+        "file_manager_id": "41b44131-4854-4084-8276-13e7738ca72f",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Action Network",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Action Network/WLAJ AAN 1847 3148266 1103-09",
+        "entity_id": "36533",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "LANSING",
+        "callsign": "WLAJ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1714341056280002600,
+        "score": 0.249957
+      },
+      {
+        "id": "9d2d50b7-2e38-490a-2b71-419d1fd5218e",
+        "file_id": "9d2d50b7-2e38-490a-2b71-419d1fd5218e",
+        "file_name": "Facebook 244657-0",
+        "file_extension": "pdf",
+        "file_size": 32385,
+        "file_status": "com_cpy",
+        "folder_id": "0acb2c98-b804-983e-3240-d36a5b18eebd",
+        "create_ts": "2021-10-22T17:12:03.05Z",
+        "last_update_ts": "2021-10-22T17:12:02.946Z",
+        "active_ind": "Y",
+        "file_manager_id": "8fa030aa-673f-4bde-a552-9d4146c31144",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Facebook",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Facebook/Facebook 244657-0",
+        "entity_id": "61978",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SPOKANE",
+        "callsign": "KXLY-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1714340729517506600,
+        "score": 0.249957
+      },
+      {
+        "id": "93159926-f46f-e9eb-57c4-10a211d02ea3",
+        "file_id": "93159926-f46f-e9eb-57c4-10a211d02ea3",
+        "file_name": "Facebook 244656-0",
+        "file_extension": "pdf",
+        "file_size": 35245,
+        "file_status": "com_cpy",
+        "folder_id": "0acb2c98-b804-983e-3240-d36a5b18eebd",
+        "create_ts": "2021-10-22T17:12:03.05Z",
+        "last_update_ts": "2021-10-22T17:11:59.014Z",
+        "active_ind": "Y",
+        "file_manager_id": "2cd1a92f-fa7a-4ed6-943c-b9467293cca5",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Facebook",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Facebook/Facebook 244656-0",
+        "entity_id": "61978",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SPOKANE",
+        "callsign": "KXLY-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1714340729464029200,
+        "score": 0.249957
+      },
       {
         "id": "0b71869e-9784-9324-0d04-2a0d6c7dd858",
         "file_id": "0b71869e-9784-9324-0d04-2a0d6c7dd858",
@@ -158,69 +230,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1714328940289458200,
         "score": 0.249957
-      },
-      {
-        "id": "b62e0e3c-4b56-2d64-f381-142c34b084b3",
-        "file_id": "b62e0e3c-4b56-2d64-f381-142c34b084b3",
-        "file_name": "B396 0000164501 Cape Cod Area",
-        "file_extension": "pdf",
-        "file_size": 17359,
-        "file_status": "com_cpy",
-        "folder_id": "6ce8fbf1-103a-4812-0d6a-43c54c73ea15",
-        "create_ts": "2021-10-22T13:58:24.822Z",
-        "last_update_ts": "2021-10-22T13:58:20.878Z",
-        "active_ind": "Y",
-        "file_manager_id": "9c58f524-c3ea-4be9-a24d-ec8722d2e199",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/B396 0000164501 Cape Cod Area",
-        "entity_id": "122299",
-        "source_service_code": "FM",
-        "callsign": "WRYP",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1714328546928754700,
-        "score": 0.249957
-      },
-      {
-        "id": "7d64d4be-02f2-317a-5890-52e803ce9b89",
-        "file_id": "7d64d4be-02f2-317a-5890-52e803ce9b89",
-        "file_name": "B396 0000164464 Central MA Area",
-        "file_extension": "pdf",
-        "file_size": 17418,
-        "file_status": "com_cpy",
-        "folder_id": "dd0c1238-ba75-ed03-7171-528c6da4697e",
-        "create_ts": "2021-10-22T13:56:24.768Z",
-        "last_update_ts": "2021-10-22T13:56:24.639Z",
-        "active_ind": "Y",
-        "file_manager_id": "db93849b-cb18-40bf-b597-d5dc2bc1dafd",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/B396 0000164464 Central MA Area",
-        "entity_id": "54850",
-        "source_service_code": "AM",
-        "callsign": "WCMX",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1714328421011554300,
-        "score": 0.249957
-      },
-      {
-        "id": "561c727a-ee40-87c6-0773-179d71437142",
-        "file_id": "561c727a-ee40-87c6-0773-179d71437142",
-        "file_name": "B396 0000164464 Central MA Area",
-        "file_extension": "pdf",
-        "file_size": 17418,
-        "file_status": "com_cpy",
-        "folder_id": "9c19e3f6-429a-6d88-acab-8bab9e8bd1e1",
-        "create_ts": "2021-10-22T13:51:53.726Z",
-        "last_update_ts": "2021-10-22T13:52:39.7Z",
-        "active_ind": "Y",
-        "file_manager_id": "cd27286d-413e-4186-9846-52d44808a235",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/B396 0000164464 Central MA Area",
-        "entity_id": "122297",
-        "source_service_code": "FM",
-        "callsign": "WTYN",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1714328136809709600,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -298,7 +307,7 @@
         "COLUMBUS OH": 1001,
         "JACKSON MS": 987,
         "WICHITA-HUTCHINSON PLUS": 958,
-        "LANSING": 939,
+        "LANSING": 940,
         "FT. SMITH-FAY-SPRNGDL-RGRS": 909,
         "LOUISVILLE": 898,
         "PANAMA CITY": 858,
@@ -327,7 +336,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57004,
+        "ABC": 57007,
         "NBC": 55912,
         "CBS": 37929,
         "FOX": 27327,
@@ -398,7 +407,7 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125954,
-        "2021": 19129,
+        "2021": 19132,
         "2022": 3,
         "KYAZ": 5,
         "Fede": 1
@@ -439,7 +448,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233374,
+        "TV": 233377,
         "CABLE": 115880,
         "FM": 109171,
         "AM": 40789,
@@ -447,7 +456,7 @@
       },
       "political_file_type": {
         "PA": 217981,
-        "NCIA": 119968
+        "NCIA": 119971
       }
     }
   },
@@ -463,8 +472,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1725,
-    "processTime": 734,
-    "responseTime": 1735
+    "queryTime": 1740,
+    "processTime": 747,
+    "responseTime": 1748
   }
 }
