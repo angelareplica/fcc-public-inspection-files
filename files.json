@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 504514,
+    "numFound": 504515,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "31a1348e-d053-f1f4-a686-3b6b51bd5627",
+        "file_id": "31a1348e-d053-f1f4-a686-3b6b51bd5627",
+        "file_name": "Our NJ 323328 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 186622,
+        "file_status": "com_cpy",
+        "folder_id": "51318557-2b1a-e3bc-8394-8b2d8a6bb254",
+        "create_ts": "2021-10-22T20:44:09.935Z",
+        "last_update_ts": "2021-10-22T20:44:05.998Z",
+        "active_ind": "Y",
+        "file_manager_id": "ea495b80-c5dc-424b-aa96-ba3e0996f45e",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Our NJ",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Our NJ/Our NJ 323328 Rev 0",
+        "entity_id": "8616",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "PHILADELPHIA",
+        "callsign": "WPVI-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1714354074710704000,
+        "score": 0.249957
+      },
       {
         "id": "31dddbc0-df70-4860-2c6a-69f551131a13",
         "file_id": "31dddbc0-df70-4860-2c6a-69f551131a13",
@@ -216,31 +240,6 @@
         "campaign_year": "2021",
         "_version_": 1714346525851648000,
         "score": 0.249957
-      },
-      {
-        "id": "58dfa15b-616b-01a1-6a1b-c96954b3360b",
-        "file_id": "58dfa15b-616b-01a1-6a1b-c96954b3360b",
-        "file_name": "Toohill 3244773 Rev 0",
-        "file_extension": "pdf",
-        "file_size": 173876,
-        "file_status": "com_cpy",
-        "folder_id": "14b0e427-cdaa-b923-443c-2af94a37017b",
-        "create_ts": "2021-10-22T18:43:02.05Z",
-        "last_update_ts": "2021-10-22T18:43:48.851Z",
-        "active_ind": "Y",
-        "file_manager_id": "bea5e81c-89e1-43ce-80db-4ad5aba2a038",
-        "file_folder_path": "Political Files/2021/Local/Tarah Toohil",
-        "full_qualified_file_name": "Political Files/2021/Local/Tarah Toohil/Toohill 3244773 Rev 0",
-        "entity_id": "71225",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WBRE-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1714346453997977600,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -280,7 +279,7 @@
         "Greenville-Spartanburg-Asheville-Anderson": 2183,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2171,
         "TAMPA-ST. PETE (SARASOTA)": 2148,
-        "PHILADELPHIA": 2097,
+        "PHILADELPHIA": 2098,
         "LEXINGTON": 2082,
         "ROCHESTR-MASON CITY-AUSTIN": 1983,
         "SIOUX CITY": 1936,
@@ -347,7 +346,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57008,
+        "ABC": 57009,
         "NBC": 55916,
         "CBS": 37930,
         "FOX": 27327,
@@ -418,7 +417,7 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125954,
-        "2021": 19142,
+        "2021": 19143,
         "2022": 3,
         "KYAZ": 5,
         "Fede": 1
@@ -459,7 +458,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233384,
+        "TV": 233385,
         "CABLE": 115880,
         "FM": 109174,
         "AM": 40789,
@@ -467,7 +466,7 @@
       },
       "political_file_type": {
         "PA": 217987,
-        "NCIA": 119975
+        "NCIA": 119976
       }
     }
   },
@@ -483,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1720,
-    "processTime": 731,
-    "responseTime": 1732
+    "queryTime": 1723,
+    "processTime": 735,
+    "responseTime": 1735
   }
 }
