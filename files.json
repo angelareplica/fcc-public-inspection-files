@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 504498,
+    "numFound": 504499,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "8a36a0ec-6d9d-5225-438a-76c73142d618",
+        "file_id": "8a36a0ec-6d9d-5225-438a-76c73142d618",
+        "file_name": "Dempsey 3250610 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 91198,
+        "file_status": "com_cpy",
+        "folder_id": "b7a4866e-183c-da1d-5fd5-c4120a22b1c1",
+        "create_ts": "2021-10-22T15:04:13.627Z",
+        "last_update_ts": "2021-10-22T15:04:13.581Z",
+        "active_ind": "Y",
+        "file_manager_id": "af02bc41-5edc-457b-89e9-d014a4c93bb8",
+        "file_folder_path": "Political Files/2021/Local/Mary Walsh Dempsey",
+        "full_qualified_file_name": "Political Files/2021/Local/Mary Walsh Dempsey/Dempsey 3250610 Rev 0",
+        "entity_id": "71225",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WBRE-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714332687608578000,
+        "score": 0.249957
+      },
       {
         "id": "cd8af05a-1b3e-3ae3-1ab3-4693ffe55ec4",
         "file_id": "cd8af05a-1b3e-3ae3-1ab3-4693ffe55ec4",
@@ -195,37 +220,13 @@
         "campaign_year": "2021",
         "_version_": 1714322632303706000,
         "score": 0.249957
-      },
-      {
-        "id": "30635906-5842-ccba-e411-95b1ace8534a",
-        "file_id": "30635906-5842-ccba-e411-95b1ace8534a",
-        "file_name": "Marina Parc1218723-0",
-        "file_extension": "pdf",
-        "file_size": 20874,
-        "file_status": "com_cpy",
-        "folder_id": "3bd446c8-d9a9-b590-213b-bceb501fc0a7",
-        "create_ts": "2021-10-22T11:50:04.874Z",
-        "last_update_ts": "2021-10-22T11:50:50.591Z",
-        "active_ind": "Y",
-        "file_manager_id": "b5321c0d-ea17-49bf-b582-fc1935e0615c",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/MARINA PARC MIAMI",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/MARINA PARC MIAMI/Marina Parc1218723-0",
-        "entity_id": "64971",
-        "source_service_code": "TV",
-        "network_affiliation": "TELEMUNDO",
-        "nielsen_dma_rank": "MIAMI-FT. LAUDERDALE",
-        "callsign": "WSCV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714320472895651800,
-        "score": 0.249957
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8381,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7032,
-        "WILKES BARRE-SCRANTON": 6747,
+        "WILKES BARRE-SCRANTON": 6748,
         "LAS VEGAS": 5923,
         "WEST PALM BEACH-FT. PIERCE": 5806,
         "PITTSBURGH": 5313,
@@ -326,7 +327,7 @@
       },
       "network_affiliation": {
         "ABC": 57004,
-        "NBC": 55911,
+        "NBC": 55912,
         "CBS": 37929,
         "FOX": 27327,
         "PBS": 14192,
@@ -396,7 +397,7 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125954,
-        "2021": 19126,
+        "2021": 19127,
         "2022": 3,
         "KYAZ": 5,
         "Fede": 1
@@ -406,7 +407,7 @@
         "US Senate": 48501,
         "US House": 41475,
         "Presidential": 39049,
-        "Local": 23209
+        "Local": 23210
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -437,14 +438,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233373,
+        "TV": 233374,
         "CABLE": 115880,
         "FM": 109170,
         "AM": 40788,
         "DBS": 5287
       },
       "political_file_type": {
-        "PA": 217978,
+        "PA": 217979,
         "NCIA": 119968
       }
     }
@@ -461,8 +462,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 205,
-    "processTime": 212,
-    "responseTime": 213
+    "queryTime": 1730,
+    "processTime": 741,
+    "responseTime": 1741
   }
 }
