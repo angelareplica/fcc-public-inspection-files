@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 504521,
+    "numFound": 504523,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "ee9b28af-68ee-05d0-82fa-2520d0bb426c",
+        "file_id": "ee9b28af-68ee-05d0-82fa-2520d0bb426c",
+        "file_name": "InfoTrak_wknd_of_09-05-21_295_min_issues_sheet",
+        "file_extension": "pdf",
+        "file_size": 50188,
+        "file_status": "com_cpy",
+        "folder_id": "dcd22b2b-3311-de1b-8ff1-91524886753c",
+        "create_ts": "2021-10-23T23:48:52.954Z",
+        "last_update_ts": "2021-10-23T23:48:48.682Z",
+        "active_ind": "Y",
+        "file_manager_id": "36efe75b-a55e-46d7-9d18-347ed3912f1c",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/InfoTrak_wknd_of_09-05-21_295_min_issues_sheet",
+        "entity_id": "63979",
+        "source_service_code": "AM",
+        "callsign": "WIGN",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1714456292965220400,
+        "score": 0.249957
+      },
+      {
+        "id": "38799476-b3d1-be6b-7ffe-a8d345c87b82",
+        "file_id": "38799476-b3d1-be6b-7ffe-a8d345c87b82",
+        "file_name": "InfoTrak_wknd_of_08-07-21_295_min_issues_sheet",
+        "file_extension": "pdf",
+        "file_size": 127113,
+        "file_status": "com_cpy",
+        "folder_id": "dcd22b2b-3311-de1b-8ff1-91524886753c",
+        "create_ts": "2021-10-23T23:47:22.063Z",
+        "last_update_ts": "2021-10-23T23:48:11.893Z",
+        "active_ind": "Y",
+        "file_manager_id": "a3b4233c-0e40-4f5e-9909-28ea0c9a8b7f",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/InfoTrak_wknd_of_08-07-21_295_min_issues_sheet",
+        "entity_id": "63979",
+        "source_service_code": "AM",
+        "callsign": "WIGN",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1714456197768151000,
+        "score": 0.249957
+      },
       {
         "id": "e9a265fe-b8dc-2a34-8fe7-7ca2da5b66be",
         "file_id": "e9a265fe-b8dc-2a34-8fe7-7ca2da5b66be",
@@ -197,50 +239,6 @@
         "office_type": "Local",
         "campaign_year": "2021",
         "_version_": 1714352988581003300,
-        "score": 0.249957
-      },
-      {
-        "id": "60b85f49-d7c8-6717-04a2-6257272caa71",
-        "file_id": "60b85f49-d7c8-6717-04a2-6257272caa71",
-        "file_name": "BMA Generic NAB_ORD21-000307_20210917_00001 NAB 10.25",
-        "file_extension": "pdf",
-        "file_size": 299974,
-        "file_status": "com_cpy",
-        "folder_id": "64594cdc-e537-deb4-2b40-730cb9cd5a3d",
-        "create_ts": "2021-10-22T19:30:06.492Z",
-        "last_update_ts": "2021-10-22T19:30:02.586Z",
-        "active_ind": "Y",
-        "file_manager_id": "579a7751-5427-4b9f-a0a7-df1e3e889292",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/BETTER MEDICARE ALLIANCE",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/BETTER MEDICARE ALLIANCE/BMA Generic NAB_ORD21-000307_20210917_00001 NAB 10.25",
-        "entity_id": "3105",
-        "source_service_code": "FM",
-        "callsign": "WUMJ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714349415439794200,
-        "score": 0.249957
-      },
-      {
-        "id": "87ec4715-faf7-947c-5464-4f5229d3b089",
-        "file_id": "87ec4715-faf7-947c-5464-4f5229d3b089",
-        "file_name": "BMA Generic NAB_ORD21-000307_20210917_00001 NAB 10.25",
-        "file_extension": "pdf",
-        "file_size": 299974,
-        "file_status": "com_cpy",
-        "folder_id": "df807fac-f606-8e4b-f551-716580643d2c",
-        "create_ts": "2021-10-22T19:28:06.841Z",
-        "last_update_ts": "2021-10-22T19:28:06.841Z",
-        "active_ind": "Y",
-        "file_manager_id": "d1440d5c-de61-4274-8cde-36c2af237b23",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Better Medicare Alliance",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Better Medicare Alliance/BMA Generic NAB_ORD21-000307_20210917_00001 NAB 10.25",
-        "entity_id": "31872",
-        "source_service_code": "FM",
-        "callsign": "WAMJ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714349289981870000,
         "score": 0.249957
       }
     ],
@@ -436,7 +434,7 @@
         "Issues and Programs Lists": 44063,
         "Equal Employment Opportunity Records": 36996,
         "Donor Lists - Applicable Only for NCEs": 11394,
-        "FCC Authorizations": 7141,
+        "FCC Authorizations": 7143,
         "Local Public Notice Announcements": 1739,
         "Applications and Related Materials": 1605,
         "Availability of Signals": 1504,
@@ -463,7 +461,7 @@
         "TV": 233391,
         "CABLE": 115880,
         "FM": 109174,
-        "AM": 40789,
+        "AM": 40791,
         "DBS": 5287
       },
       "political_file_type": {
@@ -484,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 217,
-    "responseTime": 218
+    "queryTime": 205,
+    "processTime": 212,
+    "responseTime": 213
   }
 }
