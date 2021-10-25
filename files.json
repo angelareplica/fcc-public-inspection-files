@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 504531,
+    "numFound": 504532,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "79be6388-3dd6-e391-8adb-3ee42ca01e4b",
+        "file_id": "79be6388-3dd6-e391-8adb-3ee42ca01e4b",
+        "file_name": "Greg Fast for City Council 4095-00002",
+        "file_extension": "pdf",
+        "file_size": 140128,
+        "file_status": "com_cpy",
+        "folder_id": "203aa201-69eb-9871-47c4-02dbe4b1e88a",
+        "create_ts": "2021-10-25T13:26:34.434Z",
+        "last_update_ts": "2021-10-25T13:26:29.973Z",
+        "active_ind": "Y",
+        "file_manager_id": "a93cfdda-be5c-4ad3-896d-e028475c5fb2",
+        "file_folder_path": "Political Files/2021/Local/Hutchinson City Council",
+        "full_qualified_file_name": "Political Files/2021/Local/Hutchinson City Council/Greg Fast for City Council 4095-00002",
+        "entity_id": "164086",
+        "source_service_code": "FM",
+        "callsign": "KWHK",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714598334787747800,
+        "score": 0.249957
+      },
       {
         "id": "827c5e8e-93b1-4430-a5bc-30d628cae017",
         "file_id": "827c5e8e-93b1-4430-a5bc-30d628cae017",
@@ -219,27 +242,6 @@
         "non_political_file_folder": "FCC Authorizations",
         "_version_": 1714456292965220400,
         "score": 0.249957
-      },
-      {
-        "id": "38799476-b3d1-be6b-7ffe-a8d345c87b82",
-        "file_id": "38799476-b3d1-be6b-7ffe-a8d345c87b82",
-        "file_name": "InfoTrak_wknd_of_08-07-21_295_min_issues_sheet",
-        "file_extension": "pdf",
-        "file_size": 127113,
-        "file_status": "com_cpy",
-        "folder_id": "dcd22b2b-3311-de1b-8ff1-91524886753c",
-        "create_ts": "2021-10-23T23:47:22.063Z",
-        "last_update_ts": "2021-10-23T23:48:11.893Z",
-        "active_ind": "Y",
-        "file_manager_id": "a3b4233c-0e40-4f5e-9909-28ea0c9a8b7f",
-        "file_folder_path": "FCC Authorizations/Additional Documents",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/InfoTrak_wknd_of_08-07-21_295_min_issues_sheet",
-        "entity_id": "63979",
-        "source_service_code": "AM",
-        "callsign": "WIGN",
-        "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1714456197768151000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -417,7 +419,7 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125956,
-        "2021": 19155,
+        "2021": 19156,
         "2022": 3,
         "KYAZ": 5,
         "Fede": 1
@@ -427,7 +429,7 @@
         "US Senate": 48501,
         "US House": 41475,
         "Presidential": 39049,
-        "Local": 23221
+        "Local": 23222
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -460,12 +462,12 @@
       "source_service_code": {
         "TV": 233399,
         "CABLE": 115880,
-        "FM": 109174,
+        "FM": 109175,
         "AM": 40791,
         "DBS": 5287
       },
       "political_file_type": {
-        "PA": 217994,
+        "PA": 217995,
         "NCIA": 119983
       }
     }
@@ -482,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1723,
-    "processTime": 730,
-    "responseTime": 1731
+    "queryTime": 205,
+    "processTime": 230,
+    "responseTime": 230
   }
 }
