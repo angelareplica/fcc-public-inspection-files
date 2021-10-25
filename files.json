@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 504543,
+    "numFound": 504539,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
@@ -421,7 +421,7 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125956,
-        "2021": 19167,
+        "2021": 19166,
         "2022": 5,
         "KYAZ": 5,
         "Fede": 1
@@ -436,7 +436,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
         "Issues and Programs Lists": 44063,
-        "Equal Employment Opportunity Records": 36995,
+        "Equal Employment Opportunity Records": 36992,
         "Donor Lists - Applicable Only for NCEs": 11394,
         "FCC Authorizations": 7143,
         "Local Public Notice Announcements": 1739,
@@ -463,14 +463,14 @@
       },
       "source_service_code": {
         "TV": 233404,
-        "CABLE": 115880,
-        "FM": 109177,
+        "CABLE": 115877,
+        "FM": 109176,
         "AM": 40795,
         "DBS": 5287
       },
       "political_file_type": {
         "PA": 218006,
-        "NCIA": 119984
+        "NCIA": 119983
       }
     }
   },
@@ -486,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1722,
-    "processTime": 731,
-    "responseTime": 1732
+    "queryTime": 1738,
+    "processTime": 747,
+    "responseTime": 1748
   }
 }
