@@ -5,6 +5,31 @@
     "maxScore": 0.500164,
     "docs": [
       {
+        "id": "a4b2627e-f8b3-a4e9-07d6-bc17086d1ff4",
+        "file_id": "a4b2627e-f8b3-a4e9-07d6-bc17086d1ff4",
+        "file_name": "Sarah for Governor 62935615 11.03-11.30.21 0378 9972",
+        "file_extension": "pdf",
+        "file_size": 28127,
+        "file_status": "com_cpy",
+        "folder_id": "44fb179f-1e78-9282-7815-98f0da4067c7",
+        "create_ts": "2021-10-26T21:40:35.526Z",
+        "last_update_ts": "2021-10-26T21:40:30.588Z",
+        "active_ind": "Y",
+        "file_manager_id": "381a85b3-09e6-4b47-b236-d2db41ccae66",
+        "file_folder_path": "Political Files/2021/State/Sarah for Governor",
+        "full_qualified_file_name": "Political Files/2021/State/Sarah for Governor/Sarah for Governor 62935615 11.03-11.30.21 0378 9972",
+        "entity_id": "002798",
+        "source_service_code": "CABLE",
+        "legal_name": "COXCOM, LLC",
+        "operator_city_name": "ATLANTA",
+        "operator_state_name": "GA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1714720012503089200,
+        "score": 0.249957
+      },
+      {
         "id": "29607c6b-54f9-adc6-6c33-07c10719e3a4",
         "file_id": "29607c6b-54f9-adc6-6c33-07c10719e3a4",
         "file_name": "Est 000091",
@@ -220,29 +245,6 @@
         "campaign_year": "2021",
         "_version_": 1714711233761902600,
         "score": 0.249957
-      },
-      {
-        "id": "2eaff297-7db5-0c3a-3fce-31d3f2e87b53",
-        "file_id": "2eaff297-7db5-0c3a-3fce-31d3f2e87b53",
-        "file_name": "TREY STEWART INVOICES 9-14 TO 11-03-20 W MULTIPLE CANDIDATE FORMS WCXX-FM",
-        "file_extension": "pdf",
-        "file_size": 1427512,
-        "file_status": "com_cpy",
-        "folder_id": "d9fba4ad-bdd6-ef5b-90e3-a71ab349051d",
-        "create_ts": "2021-10-26T19:20:48.417Z",
-        "last_update_ts": "2021-10-26T19:21:46.28Z",
-        "active_ind": "Y",
-        "file_manager_id": "953fda24-d36a-4999-a501-f5a993c7c4d4",
-        "file_folder_path": "Political Files/2020/State",
-        "full_qualified_file_name": "Political Files/2020/State/TREY STEWART INVOICES 9-14 TO 11-03-20 W MULTIPLE CANDIDATE FORMS WCXX-FM",
-        "entity_id": "76041",
-        "source_service_code": "FM",
-        "callsign": "WCXV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2020",
-        "_version_": 1714711218753634300,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -280,7 +282,7 @@
         "PEORIA-BLOOMINGTON": 2210,
         "BIRMINGHAM (ANN TUSC)": 2195,
         "Greenville-Spartanburg-Asheville-Anderson": 2183,
-        "GRAND RAPIDS-KALMZOO-B.CRK": 2171,
+        "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
         "TAMPA-ST. PETE (SARASOTA)": 2149,
         "PHILADELPHIA": 2113,
         "LEXINGTON": 2083,
@@ -362,7 +364,7 @@
         "CBS/NBC": 1060,
         "MNT": 851,
         "TELEMUNDO": 834,
-        "ION": 735,
+        "ION": 734,
         "N/A": 643,
         "FAMILYNET": 619,
         "UNIMAS": 616,
@@ -420,13 +422,13 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125990,
-        "2021": 19404,
+        "2021": 19405,
         "2022": 5,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64688,
+        "State": 64689,
         "US Senate": 48550,
         "US House": 41478,
         "Presidential": 39053,
@@ -437,7 +439,7 @@
         "Issues and Programs Lists": 44065,
         "Equal Employment Opportunity Records": 36989,
         "Donor Lists - Applicable Only for NCEs": 11394,
-        "FCC Authorizations": 7143,
+        "FCC Authorizations": 7142,
         "Local Public Notice Announcements": 1739,
         "Applications and Related Materials": 1605,
         "Availability of Signals": 1504,
@@ -461,14 +463,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233443,
-        "CABLE": 115911,
+        "TV": 233442,
+        "CABLE": 115912,
         "FM": 109348,
         "AM": 40821,
         "DBS": 5288
       },
       "political_file_type": {
-        "PA": 218127,
+        "PA": 218128,
         "NCIA": 120134
       }
     }
@@ -485,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1724,
-    "processTime": 732,
-    "responseTime": 1732
+    "queryTime": 1725,
+    "processTime": 733,
+    "responseTime": 1733
   }
 }
