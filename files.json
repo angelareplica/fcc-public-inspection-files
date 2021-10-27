@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 504852,
+    "numFound": 504854,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "0658e884-bd8d-718d-7472-a07f6fbb68c0",
+        "file_id": "0658e884-bd8d-718d-7472-a07f6fbb68c0",
+        "file_name": "No On 3__Flight 002__Oct Nov 2021__Order__VOM",
+        "file_extension": "pdf",
+        "file_size": 141285,
+        "file_status": "com_cpy",
+        "folder_id": "084463ff-7e5c-fc90-ef54-e2864ff6e325",
+        "create_ts": "2021-10-27T17:50:06.853Z",
+        "last_update_ts": "2021-10-27T17:50:06.729Z",
+        "active_ind": "Y",
+        "file_manager_id": "c9daf404-e381-44f0-8624-6d81736d1668",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/No On 3-2021",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/No On 3-2021/No On 3__Flight 002__Oct Nov 2021__Order__VOM",
+        "entity_id": "68660",
+        "source_service_code": "FM",
+        "callsign": "WVQM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1714796109069549600,
+        "score": 0.249957
+      },
+      {
+        "id": "3e60deec-460b-28ef-c83c-e4d2988a4466",
+        "file_id": "3e60deec-460b-28ef-c83c-e4d2988a4466",
+        "file_name": "No On 3__Flight 002__Oct Nov 2021__Order__VOM",
+        "file_extension": "pdf",
+        "file_size": 141285,
+        "file_status": "com_cpy",
+        "folder_id": "c7ffe2c2-20e9-3cab-36c5-5dd82a6dba51",
+        "create_ts": "2021-10-27T17:47:08.53Z",
+        "last_update_ts": "2021-10-27T17:48:08.193Z",
+        "active_ind": "Y",
+        "file_manager_id": "d9b08be1-9821-490b-99bd-290c02ff5f96",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/No On 3-2021",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/No On 3-2021/No On 3__Flight 002__Oct Nov 2021__Order__VOM",
+        "entity_id": "57300",
+        "source_service_code": "AM",
+        "callsign": "WVOM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1714795922076991500,
+        "score": 0.249957
+      },
       {
         "id": "d091d7e3-6b93-08cf-beb1-ab68726f61db",
         "file_id": "d091d7e3-6b93-08cf-beb1-ab68726f61db",
@@ -187,52 +231,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1714792707835035600,
         "score": 0.249957
-      },
-      {
-        "id": "858ac567-8d86-cd05-04c8-8ac387c351f8",
-        "file_id": "858ac567-8d86-cd05-04c8-8ac387c351f8",
-        "file_name": "WZKS - Minh Duong - 11344-00002",
-        "file_extension": "pdf",
-        "file_size": 1517505,
-        "file_status": "com_cpy",
-        "folder_id": "dc5a30f4-cd07-33a3-5222-2e1d81d9d419",
-        "create_ts": "2021-10-27T16:52:16.265Z",
-        "last_update_ts": "2021-10-27T16:53:16.263Z",
-        "active_ind": "Y",
-        "file_manager_id": "aa779dea-8fb1-43d2-a899-213066ee1571",
-        "file_folder_path": "Political Files/2021/State/Mississippi Senate District 32/Minh Doung",
-        "full_qualified_file_name": "Political Files/2021/State/Mississippi Senate District 32/Minh Doung/WZKS - Minh Duong - 11344-00002",
-        "entity_id": "17357",
-        "source_service_code": "FM",
-        "callsign": "WZKS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1714792470340960300,
-        "score": 0.249957
-      },
-      {
-        "id": "dd0f7c12-9300-2e8b-d27e-131ee83ac9e7",
-        "file_id": "dd0f7c12-9300-2e8b-d27e-131ee83ac9e7",
-        "file_name": "WZKS - Keith Jackson - 11345-00003",
-        "file_extension": "pdf",
-        "file_size": 1539672,
-        "file_status": "com_cpy",
-        "folder_id": "5c9936bf-2581-9994-e6a3-d3d899fa7580",
-        "create_ts": "2021-10-27T16:50:31.023Z",
-        "last_update_ts": "2021-10-27T16:50:31.245Z",
-        "active_ind": "Y",
-        "file_manager_id": "008a9d5b-8dd3-4e9a-9f7c-2f05a8f1f68c",
-        "file_folder_path": "Political Files/2021/State/Mississippi Senate District 32/Keith Jackson",
-        "full_qualified_file_name": "Political Files/2021/State/Mississippi Senate District 32/Keith Jackson/WZKS - Keith Jackson - 11345-00003",
-        "entity_id": "17357",
-        "source_service_code": "FM",
-        "callsign": "WZKS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1714792359912276000,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -410,7 +408,7 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125990,
-        "2021": 19445,
+        "2021": 19447,
         "2022": 5,
         "KYAZ": 5,
         "Fede": 1
@@ -453,13 +451,13 @@
       "source_service_code": {
         "TV": 233463,
         "CABLE": 115918,
-        "FM": 109358,
-        "AM": 40825,
+        "FM": 109359,
+        "AM": 40826,
         "DBS": 5288
       },
       "political_file_type": {
         "PA": 218159,
-        "NCIA": 120143
+        "NCIA": 120145
       }
     }
   },
@@ -475,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1751,
-    "processTime": 758,
-    "responseTime": 1758
+    "queryTime": 1868,
+    "processTime": 881,
+    "responseTime": 1882
   }
 }
