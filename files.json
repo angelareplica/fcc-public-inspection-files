@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 504850,
+    "numFound": 504852,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "d091d7e3-6b93-08cf-beb1-ab68726f61db",
+        "file_id": "d091d7e3-6b93-08cf-beb1-ab68726f61db",
+        "file_name": "Bednar 3255456 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 49911,
+        "file_status": "com_cpy",
+        "folder_id": "bb835118-c1f2-b132-92da-c62c8a397f87",
+        "create_ts": "2021-10-27T17:41:03.002Z",
+        "last_update_ts": "2021-10-27T17:41:02.833Z",
+        "active_ind": "Y",
+        "file_manager_id": "612d0f1a-04b4-45c8-9efc-08f33e9e3dff",
+        "file_folder_path": "Political Files/2021/Local/Michelle Bednar",
+        "full_qualified_file_name": "Political Files/2021/Local/Michelle Bednar/Bednar 3255456 Rev 0",
+        "entity_id": "17010",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WYOU",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714795538757451800,
+        "score": 0.249957
+      },
+      {
+        "id": "7e63d8a7-cd20-1ae3-dc8b-3d2a503148b0",
+        "file_id": "7e63d8a7-cd20-1ae3-dc8b-3d2a503148b0",
+        "file_name": "Bednar 3255478 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 57300,
+        "file_status": "com_cpy",
+        "folder_id": "b6cbb1b8-eba4-2c4a-9285-4d94546a2c76",
+        "create_ts": "2021-10-27T17:40:20.789Z",
+        "last_update_ts": "2021-10-27T17:40:20.672Z",
+        "active_ind": "Y",
+        "file_manager_id": "8a738e44-ca86-4ffe-8f2e-8ebf1b7aa8cc",
+        "file_folder_path": "Political Files/2021/Local/Michelle Bednar",
+        "full_qualified_file_name": "Political Files/2021/Local/Michelle Bednar/Bednar 3255478 Rev 0",
+        "entity_id": "71225",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WBRE-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714795494551584800,
+        "score": 0.249957
+      },
       {
         "id": "334b5457-cd48-e25e-1591-2db593509b4b",
         "file_id": "334b5457-cd48-e25e-1591-2db593509b4b",
@@ -183,61 +233,13 @@
         "campaign_year": "2021",
         "_version_": 1714792359912276000,
         "score": 0.249957
-      },
-      {
-        "id": "a8bdb57d-6cc0-4cb2-817c-6f529281d3c2",
-        "file_id": "a8bdb57d-6cc0-4cb2-817c-6f529281d3c2",
-        "file_name": "WJXM - Keith Jackson - 11345-00002",
-        "file_extension": "pdf",
-        "file_size": 1549337,
-        "file_status": "com_cpy",
-        "folder_id": "1567daa8-1cca-a39b-71d4-1ced93e3d2c0",
-        "create_ts": "2021-10-27T16:48:01.083Z",
-        "last_update_ts": "2021-10-27T16:49:01.063Z",
-        "active_ind": "Y",
-        "file_manager_id": "a1cd898b-9f38-476f-840d-604fea553733",
-        "file_folder_path": "Political Files/2021/State/Mississippi Senate District 32/Keith Jackson",
-        "full_qualified_file_name": "Political Files/2021/State/Mississippi Senate District 32/Keith Jackson/WJXM - Keith Jackson - 11345-00002",
-        "entity_id": "7065",
-        "source_service_code": "FM",
-        "callsign": "WJXM",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1714792202765336600,
-        "score": 0.249957
-      },
-      {
-        "id": "5fce9b80-a17b-7fd1-c2ca-a915bb139f2b",
-        "file_id": "5fce9b80-a17b-7fd1-c2ca-a915bb139f2b",
-        "file_name": "NAB_Michael_McCabe_Westfield_MA_Mayor_Republican_Contract#3251408_10-25-21_11-02-21_WWLP",
-        "file_extension": "pdf",
-        "file_size": 3079612,
-        "file_status": "com_cpy",
-        "folder_id": "c157f146-f082-7c93-6eb6-4b2fe9376654",
-        "create_ts": "2021-10-27T16:05:24.542Z",
-        "last_update_ts": "2021-10-27T16:05:20.511Z",
-        "active_ind": "Y",
-        "file_manager_id": "aae7e07a-e319-4428-ad20-e96d7cdcb34e",
-        "file_folder_path": "Political Files/2021/Local/Westfield MA Mayor",
-        "full_qualified_file_name": "Political Files/2021/Local/Westfield MA Mayor/NAB_Michael_McCabe_Westfield_MA_Mayor_Republican_Contract#3251408_10-25-21_11-02-21_WWLP",
-        "entity_id": "6868",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "SPRINGFIELD-HOLYOKE",
-        "callsign": "WWLP",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1714789522676383700,
-        "score": 0.249957
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8381,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7032,
-        "WILKES BARRE-SCRANTON": 6759,
+        "WILKES BARRE-SCRANTON": 6761,
         "LAS VEGAS": 5925,
         "WEST PALM BEACH-FT. PIERCE": 5806,
         "PITTSBURGH": 5313,
@@ -338,8 +340,8 @@
       },
       "network_affiliation": {
         "ABC": 57033,
-        "NBC": 55932,
-        "CBS": 37947,
+        "NBC": 55933,
+        "CBS": 37948,
         "FOX": 27338,
         "PBS": 14192,
         "CW": 11968,
@@ -408,7 +410,7 @@
         "2018": 68034,
         "2019": 14087,
         "2020": 125990,
-        "2021": 19443,
+        "2021": 19445,
         "2022": 5,
         "KYAZ": 5,
         "Fede": 1
@@ -418,7 +420,7 @@
         "US Senate": 48552,
         "US House": 41478,
         "Presidential": 39053,
-        "Local": 23299
+        "Local": 23301
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -449,14 +451,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233461,
+        "TV": 233463,
         "CABLE": 115918,
         "FM": 109358,
         "AM": 40825,
         "DBS": 5288
       },
       "political_file_type": {
-        "PA": 218157,
+        "PA": 218159,
         "NCIA": 120143
       }
     }
@@ -473,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1723,
-    "processTime": 735,
-    "responseTime": 1736
+    "queryTime": 1751,
+    "processTime": 758,
+    "responseTime": 1758
   }
 }
