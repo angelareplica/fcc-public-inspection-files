@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 504947,
+    "numFound": 504948,
     "start": 0,
     "maxScore": 0.500164,
     "docs": [
+      {
+        "id": "53af75fb-cfb2-780e-a69d-e0cdfa8df8af",
+        "file_id": "53af75fb-cfb2-780e-a69d-e0cdfa8df8af",
+        "file_name": "WO 10-27 (3) 0RDER 3256358",
+        "file_extension": "pdf",
+        "file_size": 22602,
+        "file_status": "com_cpy",
+        "folder_id": "834fbb18-eb1c-cae7-b52e-6d525353a436",
+        "create_ts": "2021-10-28T13:21:33.644Z",
+        "last_update_ts": "2021-10-28T13:21:28.357Z",
+        "active_ind": "Y",
+        "file_manager_id": "ee7b8bda-ae61-43a9-8b17-a9af65a375d9",
+        "file_folder_path": "Political Files/2021/State/KAREN GREENHALGH",
+        "full_qualified_file_name": "Political Files/2021/State/KAREN GREENHALGH/WO 10-27 (3) 0RDER 3256358",
+        "entity_id": "71127",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "NORFOLK-PORTSMTH-NEWPT NWS",
+        "callsign": "WAVY-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1714869810109612000,
+        "score": 0.249957
+      },
       {
         "id": "6353a42b-1675-62ad-17c8-66e9c5f8ecde",
         "file_id": "6353a42b-1675-62ad-17c8-66e9c5f8ecde",
@@ -210,31 +235,6 @@
         "campaign_year": "2020",
         "_version_": 1714812397699465200,
         "score": 0.249957
-      },
-      {
-        "id": "7d172b6d-6e81-a518-020a-168537b401ca",
-        "file_id": "7d172b6d-6e81-a518-020a-168537b401ca",
-        "file_name": "Diane Mitsch Bush-KREX#27056097 2653294-rev1 09.21.20",
-        "file_extension": "pdf",
-        "file_size": 1515113,
-        "file_status": "com_cpy",
-        "folder_id": "79de5df2-d508-d085-f73e-d428866f7ca3",
-        "create_ts": "2021-10-27T22:04:02.413Z",
-        "last_update_ts": "2021-10-27T22:05:03.686Z",
-        "active_ind": "Y",
-        "file_manager_id": "4bf4e331-6f11-4420-be0d-79d3c3309791",
-        "file_folder_path": "Political Files/2020/State/Diane Mitsch Bush-D",
-        "full_qualified_file_name": "Political Files/2020/State/Diane Mitsch Bush-D/Diane Mitsch Bush-KREX#27056097 2653294-rev1 09.21.20",
-        "entity_id": "70579",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "GRAND JUNCTION-MONTROSE",
-        "callsign": "KREY-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2020",
-        "_version_": 1714812085917974500,
-        "score": 0.249957
       }
     ],
     "facets": {
@@ -342,7 +342,7 @@
       },
       "network_affiliation": {
         "ABC": 57068,
-        "NBC": 55916,
+        "NBC": 55917,
         "CBS": 37990,
         "FOX": 27343,
         "PBS": 14192,
@@ -412,13 +412,13 @@
         "2018": 68016,
         "2019": 14087,
         "2020": 126032,
-        "2021": 19514,
+        "2021": 19515,
         "2022": 5,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64710,
+        "State": 64711,
         "US Senate": 48551,
         "US House": 41478,
         "Presidential": 39063,
@@ -453,14 +453,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233547,
+        "TV": 233548,
         "CABLE": 115918,
         "FM": 109361,
         "AM": 40831,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218188,
+        "PA": 218189,
         "NCIA": 120207
       }
     }
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1727,
-    "processTime": 734,
-    "responseTime": 1735
+    "queryTime": 1733,
+    "processTime": 741,
+    "responseTime": 1741
   }
 }
