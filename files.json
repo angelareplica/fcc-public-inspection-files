@@ -1,9 +1,78 @@
 {
   "response": {
-    "numFound": 505012,
+    "numFound": 505015,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "3326b367-aa76-f231-27be-f56c35f77ada",
+        "file_id": "3326b367-aa76-f231-27be-f56c35f77ada",
+        "file_name": "POL 023 Fernando Gordo for City of Hialeah Mayor.pdf- ad order 11-1-21",
+        "file_extension": "pdf",
+        "file_size": 61134,
+        "file_status": "com_cpy",
+        "folder_id": "0ebf60dc-f82d-117e-20e9-aa6166cc3120",
+        "create_ts": "2021-10-29T17:44:21.977Z",
+        "last_update_ts": "2021-10-29T17:44:16.482Z",
+        "active_ind": "Y",
+        "file_manager_id": "177fba6a-5cbb-49e8-a8b5-f6ce1354a411",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/POL 023 Fernando Gordo for City of Hialeah Mayor.pdf- ad order 11-1-21",
+        "entity_id": "60165",
+        "source_service_code": "TV",
+        "callsign": "WJAN-CD",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714976941400916000,
+        "score": 0.24995697
+      },
+      {
+        "id": "6fe1e0c9-65c6-177f-0ff9-bb4a02ac6e7f",
+        "file_id": "6fe1e0c9-65c6-177f-0ff9-bb4a02ac6e7f",
+        "file_name": "nicole-wayne-nab-1st-page",
+        "file_extension": "pdf",
+        "file_size": 1375313,
+        "file_status": "com_cpy",
+        "folder_id": "3b0d1720-8005-75c2-a309-f73277e98411",
+        "create_ts": "2021-10-29T17:35:15.596Z",
+        "last_update_ts": "2021-10-29T17:36:20.94Z",
+        "active_ind": "Y",
+        "file_manager_id": "b3916990-8002-4126-8ec8-5ca99dcce724",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/nicole-wayne-nab-1st-page",
+        "entity_id": "29521",
+        "source_service_code": "FM",
+        "callsign": "KKFG",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714976368827039700,
+        "score": 0.00012497848
+      },
+      {
+        "id": "b0a5c09c-29c7-b7b5-a3f2-442b2d7476f1",
+        "file_id": "b0a5c09c-29c7-b7b5-a3f2-442b2d7476f1",
+        "file_name": "nicole-wayne-nab-1st-page",
+        "file_extension": "pdf",
+        "file_size": 1375313,
+        "file_status": "com_cpy",
+        "folder_id": "3fb818cf-997a-8c1e-3dfd-01d23f8e1c86",
+        "create_ts": "2021-10-29T17:35:16.877Z",
+        "last_update_ts": "2021-10-29T17:35:11.802Z",
+        "active_ind": "Y",
+        "file_manager_id": "afdf647b-7184-41a8-be83-ea7eba1fff3d",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/nicole-wayne-nab-1st-page",
+        "entity_id": "76749",
+        "source_service_code": "FM",
+        "callsign": "KOLZ",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714976370278269000,
+        "score": 0.00012497848
+      },
       {
         "id": "32c53c04-146b-b191-709a-45f73786132c",
         "file_id": "32c53c04-146b-b191-709a-45f73786132c",
@@ -159,75 +228,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1714969691494023200,
-        "score": 0.24995697
-      },
-      {
-        "id": "88451784-fdf4-1e36-5344-077bd37a5d98",
-        "file_id": "88451784-fdf4-1e36-5344-077bd37a5d98",
-        "file_name": "NH Democratic Party WOKQ Katz IO VERSION 1 Est 7461 10.29.21 - 11.02.21",
-        "file_extension": "pdf",
-        "file_size": 56521,
-        "file_status": "com_cpy",
-        "folder_id": "6260120a-daa4-0209-40f2-90e6497558e1",
-        "create_ts": "2021-10-29T15:49:07.921Z",
-        "last_update_ts": "2021-10-29T15:49:02.378Z",
-        "active_ind": "Y",
-        "file_manager_id": "39bae65f-d4e3-4dd9-9c13-c8d1703f69d9",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/New Hampshire Democratic Party/Est 7461 10-29-21 - 11-02-21",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/New Hampshire Democratic Party/Est 7461 10-29-21 - 11-02-21/NH Democratic Party WOKQ Katz IO VERSION 1 Est 7461 10.29.21 - 11.02.21",
-        "entity_id": "22887",
-        "source_service_code": "FM",
-        "callsign": "WOKQ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714969691418525700,
-        "score": 0.24995697
-      },
-      {
-        "id": "325a53f9-56b2-de56-dfd7-95b5f4247a41",
-        "file_id": "325a53f9-56b2-de56-dfd7-95b5f4247a41",
-        "file_name": "NH Democratic Party Credit Card Receipt (Proof of Payment) 10-29-21",
-        "file_extension": "pdf",
-        "file_size": 60136,
-        "file_status": "com_cpy",
-        "folder_id": "6260120a-daa4-0209-40f2-90e6497558e1",
-        "create_ts": "2021-10-29T15:49:07.849Z",
-        "last_update_ts": "2021-10-29T15:49:02.299Z",
-        "active_ind": "Y",
-        "file_manager_id": "f741d478-ef51-4003-9d0f-cea5df885d06",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/New Hampshire Democratic Party/Est 7461 10-29-21 - 11-02-21",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/New Hampshire Democratic Party/Est 7461 10-29-21 - 11-02-21/NH Democratic Party Credit Card Receipt (Proof of Payment) 10-29-21",
-        "entity_id": "22887",
-        "source_service_code": "FM",
-        "callsign": "WOKQ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714969691336736800,
-        "score": 0.24995697
-      },
-      {
-        "id": "bff9cab1-0b1d-f723-21a9-244e2b1323c6",
-        "file_id": "bff9cab1-0b1d-f723-21a9-244e2b1323c6",
-        "file_name": "Committee-to-Elect_Jesse_Lederman_Springfield_MA_City-Council_Democrat_Contract# 3258733_10-30-21_11-02-21_WWLP",
-        "file_extension": "pdf",
-        "file_size": 236137,
-        "file_status": "com_cpy",
-        "folder_id": "316707c5-b944-3924-0f00-e115084351ba",
-        "create_ts": "2021-10-29T15:22:30.859Z",
-        "last_update_ts": "2021-10-29T15:23:35.736Z",
-        "active_ind": "Y",
-        "file_manager_id": "041d8c4e-a739-4019-84dd-babac9ea6c87",
-        "file_folder_path": "Political Files/2021/Local/Springfield City Council/Jesse Lederman",
-        "full_qualified_file_name": "Political Files/2021/Local/Springfield City Council/Jesse Lederman/Committee-to-Elect_Jesse_Lederman_Springfield_MA_City-Council_Democrat_Contract# 3258733_10-30-21_11-02-21_WWLP",
-        "entity_id": "6868",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "SPRINGFIELD-HOLYOKE",
-        "callsign": "WWLP",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1714968016970580000,
         "score": 0.24995697
       }
     ],
@@ -406,7 +406,7 @@
         "2018": 67987,
         "2019": 14087,
         "2020": 126032,
-        "2021": 19582,
+        "2021": 19585,
         "2022": 5,
         "KYAZ": 5,
         "Fede": 1
@@ -416,7 +416,7 @@
         "US Senate": 48538,
         "US House": 41478,
         "Presidential": 39063,
-        "Local": 23354
+        "Local": 23357
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -447,14 +447,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233542,
+        "TV": 233543,
         "CABLE": 115949,
-        "FM": 109392,
+        "FM": 109394,
         "AM": 40839,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218221,
+        "PA": 218224,
         "NCIA": 120213
       }
     }
@@ -471,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1759,
-    "processTime": 770,
-    "responseTime": 1770
+    "queryTime": 1726,
+    "processTime": 745,
+    "responseTime": 1745
   }
 }
