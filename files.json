@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 505008,
+    "numFound": 505006,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "bff9cab1-0b1d-f723-21a9-244e2b1323c6",
+        "file_id": "bff9cab1-0b1d-f723-21a9-244e2b1323c6",
+        "file_name": "Committee-to-Elect_Jesse_Lederman_Springfield_MA_City-Council_Democrat_Contract# 3258733_10-30-21_11-02-21_WWLP",
+        "file_extension": "pdf",
+        "file_size": 236137,
+        "file_status": "com_cpy",
+        "folder_id": "316707c5-b944-3924-0f00-e115084351ba",
+        "create_ts": "2021-10-29T15:22:30.859Z",
+        "last_update_ts": "2021-10-29T15:23:35.736Z",
+        "active_ind": "Y",
+        "file_manager_id": "041d8c4e-a739-4019-84dd-babac9ea6c87",
+        "file_folder_path": "Political Files/2021/Local/Springfield City Council/Jesse Lederman",
+        "full_qualified_file_name": "Political Files/2021/Local/Springfield City Council/Jesse Lederman/Committee-to-Elect_Jesse_Lederman_Springfield_MA_City-Council_Democrat_Contract# 3258733_10-30-21_11-02-21_WWLP",
+        "entity_id": "6868",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "SPRINGFIELD-HOLYOKE",
+        "callsign": "WWLP",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1714968016970580000,
+        "score": 0.24995697
+      },
       {
         "id": "f94a014a-0bf5-ff23-9dcd-a8e9921aab59",
         "file_id": "f94a014a-0bf5-ff23-9dcd-a8e9921aab59",
@@ -204,30 +229,6 @@
         "campaign_year": "2021",
         "_version_": 1714904767034032000,
         "score": 0.24995697
-      },
-      {
-        "id": "2ad55325-2724-42a8-10c7-5bd83c3048ed",
-        "file_id": "2ad55325-2724-42a8-10c7-5bd83c3048ed",
-        "file_name": "FACEBOOK ORDER 27570441 NAB",
-        "file_extension": "pdf",
-        "file_size": 1942243,
-        "file_status": "com_cpy",
-        "folder_id": "dad73aca-fa2e-06ab-a8b5-5613bba03a2f",
-        "create_ts": "2021-10-28T20:41:33.829Z",
-        "last_update_ts": "2021-10-28T20:41:34.403Z",
-        "active_ind": "Y",
-        "file_manager_id": "c00f995e-ce1d-44c1-b4b2-8f28bc8eff97",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/FACEBOOK/FACEBOOK 11-01-21 - 11-07-21 ORDER 27570441",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/FACEBOOK/FACEBOOK 11-01-21 - 11-07-21 ORDER 27570441/FACEBOOK ORDER 27570441 NAB",
-        "entity_id": "66391",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "GREENVLL-SPART-ASHEVLL-AND",
-        "callsign": "WSPA-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1714897493442953200,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -280,7 +281,7 @@
         "LINCOLN & HASTINGS-KRNY": 1539,
         "GREENVLL-SPART-ASHEVLL-AND": 1521,
         "MADISON": 1496,
-        "MINOT-BISMARCK-DICKINSON": 1496,
+        "MINOT-BISMARCK-DICKINSON": 1493,
         "PHOENIX (PRESCOTT)": 1455,
         "BINGHAMTON": 1452,
         "FARGO-VALLEY CITY": 1415,
@@ -335,7 +336,7 @@
       },
       "network_affiliation": {
         "ABC": 57070,
-        "NBC": 55901,
+        "NBC": 55899,
         "CBS": 37993,
         "FOX": 27343,
         "PBS": 14192,
@@ -402,20 +403,20 @@
         "2015": 6083,
         "2016": 68686,
         "2017": 10334,
-        "2018": 67993,
+        "2018": 67990,
         "2019": 14087,
         "2020": 126032,
-        "2021": 19573,
+        "2021": 19574,
         "2022": 5,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64712,
-        "US Senate": 48544,
+        "US Senate": 48541,
         "US House": 41478,
         "Presidential": 39063,
-        "Local": 23353
+        "Local": 23354
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -446,14 +447,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233545,
+        "TV": 233543,
         "CABLE": 115949,
         "FM": 109385,
         "AM": 40839,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218226,
+        "PA": 218224,
         "NCIA": 120205
       }
     }
@@ -470,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1722,
-    "processTime": 731,
-    "responseTime": 1731
+    "queryTime": 206,
+    "processTime": 214,
+    "responseTime": 214
   }
 }
