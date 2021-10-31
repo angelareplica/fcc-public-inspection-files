@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 505043,
+    "numFound": 505044,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "18f72c75-5e1d-b397-141b-fd3cffe66a47",
+        "file_id": "18f72c75-5e1d-b397-141b-fd3cffe66a47",
+        "file_name": "Qtrly Pgm Rpt [01-01-21--03-31-21]_WPGR-AM",
+        "file_extension": "pdf",
+        "file_size": 217894,
+        "file_status": "com_cpy",
+        "folder_id": "ea74fbd5-d240-d651-85f9-0347e44dc70f",
+        "create_ts": "2021-10-30T23:57:57.448Z",
+        "last_update_ts": "2021-10-30T23:59:05.921Z",
+        "active_ind": "Y",
+        "file_manager_id": "6c42b7e8-48ef-4f39-aaf9-45284bc52a30",
+        "file_folder_path": "Issues and Programs Lists/2021 Quarterly Programming Report WPGR-AM",
+        "full_qualified_file_name": "Issues and Programs Lists/2021 Quarterly Programming Report WPGR-AM/Qtrly Pgm Rpt [01-01-21--03-31-21]_WPGR-AM",
+        "entity_id": "4028",
+        "source_service_code": "AM",
+        "callsign": "WPGR",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1715091042801287200,
+        "score": 0.24995697
+      },
       {
         "id": "9c34017d-2368-3591-a425-fed9235ab479",
         "file_id": "9c34017d-2368-3591-a425-fed9235ab479",
@@ -191,28 +212,6 @@
         "callsign": "WAOB-FM",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1715090051899064300,
-        "score": 0.24995697
-      },
-      {
-        "id": "d74713af-dafc-10af-be5d-886cd337d25c",
-        "file_id": "d74713af-dafc-10af-be5d-886cd337d25c",
-        "file_name": "National Federation of Independent Business INVOICE 9-30-21 to 10-06-21",
-        "file_extension": "pdf",
-        "file_size": 70476,
-        "file_status": "com_cpy",
-        "folder_id": "c1155911-88cc-f467-3a5d-df2d34733ebc",
-        "create_ts": "2021-10-30T21:30:05.998Z",
-        "last_update_ts": "2021-10-30T21:31:14.034Z",
-        "active_ind": "Y",
-        "file_manager_id": "86003b81-d874-4241-a250-0c5818d8e298",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/National Federation of Independent Business",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/National Federation of Independent Business/National Federation of Independent Business INVOICE 9-30-21 to 10-06-21",
-        "entity_id": "23321",
-        "source_service_code": "AM",
-        "callsign": "WEZS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1715081740249202700,
         "score": 0.24995697
       }
     ],
@@ -405,7 +404,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
-        "Issues and Programs Lists": 44076,
+        "Issues and Programs Lists": 44077,
         "Equal Employment Opportunity Records": 37006,
         "Donor Lists - Applicable Only for NCEs": 11396,
         "FCC Authorizations": 7142,
@@ -435,7 +434,7 @@
         "TV": 233546,
         "CABLE": 115949,
         "FM": 109405,
-        "AM": 40853,
+        "AM": 40854,
         "DBS": 5290
       },
       "political_file_type": {
@@ -456,8 +455,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 205,
-    "processTime": 213,
-    "responseTime": 214
+    "queryTime": 1726,
+    "processTime": 738,
+    "responseTime": 1738
   }
 }
