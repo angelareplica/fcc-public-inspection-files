@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 505264,
+    "numFound": 505265,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "0abcc107-89fe-774b-0e56-bc113143ee90",
+        "file_id": "0abcc107-89fe-774b-0e56-bc113143ee90",
+        "file_name": "POL 024 Joe Carollo Approval 10-29 a 11-1-21",
+        "file_extension": "pdf",
+        "file_size": 152618,
+        "file_status": "com_cpy",
+        "folder_id": "0ebf60dc-f82d-117e-20e9-aa6166cc3120",
+        "create_ts": "2021-11-01T21:31:50.258Z",
+        "last_update_ts": "2021-11-01T21:31:44.098Z",
+        "active_ind": "Y",
+        "file_manager_id": "9f4ffc52-4d62-41a9-ad1f-e731d49a9fcf",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/POL 024 Joe Carollo Approval 10-29 a 11-1-21",
+        "entity_id": "60165",
+        "source_service_code": "TV",
+        "callsign": "WJAN-CD",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1715263043576791000,
+        "score": 0.24995697
+      },
       {
         "id": "1ec934d3-1b80-4b7d-35e1-76c2018028e8",
         "file_id": "1ec934d3-1b80-4b7d-35e1-76c2018028e8",
@@ -204,29 +227,6 @@
         "campaign_year": "2021",
         "_version_": 1715259797485387800,
         "score": 0.24995697
-      },
-      {
-        "id": "85000667-e8c6-bfc8-df39-aad8c783aea5",
-        "file_id": "85000667-e8c6-bfc8-df39-aad8c783aea5",
-        "file_name": "MICKEY BUCHANAN 9W PROS ATT HORATIO FB INVOICE KDQN AM ORDER 0859-001",
-        "file_extension": "pdf",
-        "file_size": 458620,
-        "file_status": "com_cpy",
-        "folder_id": "197c2b55-cbe7-12fe-93e4-d6b369775d87",
-        "create_ts": "2021-11-01T20:38:03.515Z",
-        "last_update_ts": "2021-11-01T20:39:17.013Z",
-        "active_ind": "Y",
-        "file_manager_id": "a863628a-064f-4fed-8650-5936302a10c5",
-        "file_folder_path": "Political Files/2021/Local/9W Prosecuting Attorney",
-        "full_qualified_file_name": "Political Files/2021/Local/9W Prosecuting Attorney/MICKEY BUCHANAN 9W PROS ATT HORATIO FB INVOICE KDQN AM ORDER 0859-001",
-        "entity_id": "30600",
-        "source_service_code": "AM",
-        "callsign": "KDQN",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1715259660217352200,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -404,7 +404,7 @@
         "2018": 67972,
         "2019": 14087,
         "2020": 126032,
-        "2021": 19826,
+        "2021": 19827,
         "2022": 5,
         "KYAZ": 5,
         "Fede": 1
@@ -414,7 +414,7 @@
         "US Senate": 48557,
         "US House": 41478,
         "Presidential": 39063,
-        "Local": 23458
+        "Local": 23459
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -445,14 +445,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233563,
+        "TV": 233564,
         "CABLE": 115949,
         "FM": 109575,
         "AM": 40887,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218303,
+        "PA": 218304,
         "NCIA": 120360
       }
     }
@@ -469,8 +469,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 226,
-    "responseTime": 226
+    "queryTime": 205,
+    "processTime": 213,
+    "responseTime": 213
   }
 }
