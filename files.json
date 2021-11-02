@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 505341,
+    "numFound": 505338,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "81abafe8-01f9-950a-a99d-48f8ea451f8d",
+        "file_id": "81abafe8-01f9-950a-a99d-48f8ea451f8d",
+        "file_name": "Ross Grace Jr. NAB Oct 2021 Page 1",
+        "file_extension": "pdf",
+        "file_size": 1012623,
+        "file_status": "com_cpy",
+        "folder_id": "6834f054-8ebc-81f5-1bb0-8a5e641a4d08",
+        "create_ts": "2021-11-02T20:38:52.559Z",
+        "last_update_ts": "2021-11-02T20:40:08.978Z",
+        "active_ind": "Y",
+        "file_manager_id": "87bd3a83-c2f5-400d-b18e-892d96ef1e9e",
+        "file_folder_path": "Political Files/2021/Local/Ross Grace Jr",
+        "full_qualified_file_name": "Political Files/2021/Local/Ross Grace Jr/Ross Grace Jr. NAB Oct 2021 Page 1",
+        "entity_id": "10452",
+        "source_service_code": "AM",
+        "callsign": "WBSM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1715350308784177200,
+        "score": 0.00012497848
+      },
+      {
+        "id": "6ef31ba3-8fbd-6acb-e4e0-2f251e15c5dc",
+        "file_id": "6ef31ba3-8fbd-6acb-e4e0-2f251e15c5dc",
+        "file_name": "Ross Grace Jr. NAB Oct 2021 Page 2",
+        "file_extension": "pdf",
+        "file_size": 808424,
+        "file_status": "com_cpy",
+        "folder_id": "6834f054-8ebc-81f5-1bb0-8a5e641a4d08",
+        "create_ts": "2021-11-02T20:38:52.491Z",
+        "last_update_ts": "2021-11-02T20:38:46.415Z",
+        "active_ind": "Y",
+        "file_manager_id": "9492e978-629b-4256-a908-4fec39880476",
+        "file_folder_path": "Political Files/2021/Local/Ross Grace Jr",
+        "full_qualified_file_name": "Political Files/2021/Local/Ross Grace Jr/Ross Grace Jr. NAB Oct 2021 Page 2",
+        "entity_id": "10452",
+        "source_service_code": "AM",
+        "callsign": "WBSM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1715350308697145300,
+        "score": 0.00012497848
+      },
       {
         "id": "bcadbcc2-e0fd-f466-f7d8-62c4b3127908",
         "file_id": "bcadbcc2-e0fd-f466-f7d8-62c4b3127908",
@@ -192,53 +238,6 @@
         "campaign_year": "2021",
         "_version_": 1715345505654931500,
         "score": 0.24995697
-      },
-      {
-        "id": "63f4cdc8-d925-e4e1-bd62-27b8c1be4ad6",
-        "file_id": "63f4cdc8-d925-e4e1-bd62-27b8c1be4ad6",
-        "file_name": "10-7 Behind Our Backs NJ-07 TV",
-        "file_extension": "doc",
-        "file_size": 166400,
-        "file_status": "com_prc",
-        "folder_id": "dc68db88-0868-16bd-8086-2d3c79829a32",
-        "create_ts": "2021-11-02T19:20:51.565Z",
-        "last_update_ts": "2021-11-02T19:22:08.49Z",
-        "active_ind": "Y",
-        "file_manager_id": "99f913d0-572f-4908-82a1-fd05932bbc39",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Chambers in Commerce-NYI",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Chambers in Commerce-NYI/10-7 Behind Our Backs NJ-07 TV",
-        "entity_id": "000884",
-        "source_service_code": "CABLE",
-        "legal_name": "CSC TKR LLC",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1715345401089884200,
-        "score": 0.24995697
-      },
-      {
-        "id": "b6568f5b-26c7-ab49-9667-93c89b3da023",
-        "file_id": "b6568f5b-26c7-ab49-9667-93c89b3da023",
-        "file_name": "Linda Morad NAB Oct 2021 Page 2",
-        "file_extension": "pdf",
-        "file_size": 38855,
-        "file_status": "com_cpy",
-        "folder_id": "44e5d989-88f8-1fc8-fd7c-bfbbfd1441ea",
-        "create_ts": "2021-11-02T19:20:33.722Z",
-        "last_update_ts": "2021-11-02T19:20:33.611Z",
-        "active_ind": "Y",
-        "file_manager_id": "b1b3c57d-929c-47f1-bf96-e1d3f88fd36d",
-        "file_folder_path": "Political Files/2021/Local/Linda Morad",
-        "full_qualified_file_name": "Political Files/2021/Local/Linda Morad/Linda Morad NAB Oct 2021 Page 2",
-        "entity_id": "10453",
-        "source_service_code": "FM",
-        "callsign": "WFHN",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1715345381343101000,
-        "score": 0.00012497848
       }
     ],
     "facets": {
@@ -291,8 +290,8 @@
         "LINCOLN & HASTINGS-KRNY": 1539,
         "GREENVLL-SPART-ASHEVLL-AND": 1524,
         "MADISON": 1499,
-        "MINOT-BISMARCK-DICKINSON": 1464,
         "BINGHAMTON": 1459,
+        "MINOT-BISMARCK-DICKINSON": 1459,
         "PHOENIX (PRESCOTT)": 1456,
         "FARGO-VALLEY CITY": 1415,
         "BURLINGTON-PLATTSBURGH": 1391,
@@ -346,7 +345,7 @@
       },
       "network_affiliation": {
         "ABC": 57079,
-        "NBC": 55871,
+        "NBC": 55866,
         "CBS": 38022,
         "FOX": 27347,
         "PBS": 14192,
@@ -415,8 +414,8 @@
         "2017": 10334,
         "2018": 67972,
         "2019": 14087,
-        "2020": 126021,
-        "2021": 19917,
+        "2020": 126016,
+        "2021": 19919,
         "2022": 6,
         "KYAZ": 5,
         "Fede": 1
@@ -425,8 +424,8 @@
         "State": 64735,
         "US Senate": 48557,
         "US House": 41478,
-        "Presidential": 39055,
-        "Local": 23482
+        "Presidential": 39051,
+        "Local": 23484
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -457,15 +456,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233572,
+        "TV": 233567,
         "CABLE": 115972,
         "FM": 109597,
-        "AM": 40910,
+        "AM": 40912,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218327,
-        "NCIA": 120417
+        "PA": 218325,
+        "NCIA": 120416
       }
     }
   },
@@ -481,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1730,
-    "processTime": 739,
-    "responseTime": 1740
+    "queryTime": 207,
+    "processTime": 215,
+    "responseTime": 216
   }
 }
