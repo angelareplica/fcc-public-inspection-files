@@ -1,9 +1,54 @@
 {
   "response": {
-    "numFound": 505348,
+    "numFound": 505341,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "bcadbcc2-e0fd-f466-f7d8-62c4b3127908",
+        "file_id": "bcadbcc2-e0fd-f466-f7d8-62c4b3127908",
+        "file_name": "Friends of Roxann Robinson 093021",
+        "file_extension": "pdf",
+        "file_size": 832465,
+        "file_status": "com_cpy",
+        "folder_id": "2d31cb86-52b5-0a95-0ece-71ff3a088610",
+        "create_ts": "2021-09-30T15:55:20.475Z",
+        "last_update_ts": "2021-11-02T20:09:19.392Z",
+        "active_ind": "Y",
+        "file_manager_id": "a462ca5f-801d-45f0-8e93-63953a73f04e",
+        "file_folder_path": "Political Files/2021/Local/Roxann Robinson",
+        "full_qualified_file_name": "Political Files/2021/Local/Roxann Robinson/Friends of Roxann Robinson 093021",
+        "entity_id": "57831",
+        "source_service_code": "AM",
+        "callsign": "WBTK",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1715348455837139000,
+        "score": 0.24995697
+      },
+      {
+        "id": "e1fc8325-ee6e-641b-c68e-7e8b4a84a6ac",
+        "file_id": "e1fc8325-ee6e-641b-c68e-7e8b4a84a6ac",
+        "file_name": "E-Payment 20211102-WVPO-AM-00676_1898",
+        "file_extension": "pdf",
+        "file_size": 84763,
+        "file_status": "com_cpy",
+        "folder_id": "6b9ef9a5-5e1b-6a0a-142f-7ad458ed15b7",
+        "create_ts": "2021-11-02T19:43:38.199Z",
+        "last_update_ts": "2021-11-02T19:43:38.238Z",
+        "active_ind": "Y",
+        "file_manager_id": "7852209d-cb3f-494c-a41a-66ac25aa6692",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Scranton Federation of Teachers",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Scranton Federation of Teachers/E-Payment 20211102-WVPO-AM-00676_1898",
+        "entity_id": "47424",
+        "source_service_code": "FM",
+        "callsign": "WSBG",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1715346833217159200,
+        "score": 0.24995697
+      },
       {
         "id": "592ddbeb-6971-2682-b16d-abed96ca1795",
         "file_id": "592ddbeb-6971-2682-b16d-abed96ca1795",
@@ -194,53 +239,6 @@
         "campaign_year": "2021",
         "_version_": 1715345381343101000,
         "score": 0.00012497848
-      },
-      {
-        "id": "56062516-475f-1b5c-2345-1ef79df88a14",
-        "file_id": "56062516-475f-1b5c-2345-1ef79df88a14",
-        "file_name": "Linda Morad NAB Oct 2021 Page 1",
-        "file_extension": "pdf",
-        "file_size": 44311,
-        "file_status": "com_cpy",
-        "folder_id": "44e5d989-88f8-1fc8-fd7c-bfbbfd1441ea",
-        "create_ts": "2021-11-02T19:20:33.722Z",
-        "last_update_ts": "2021-11-02T19:20:27.322Z",
-        "active_ind": "Y",
-        "file_manager_id": "151c4e1f-e529-4363-97bd-333504dcd20a",
-        "file_folder_path": "Political Files/2021/Local/Linda Morad",
-        "full_qualified_file_name": "Political Files/2021/Local/Linda Morad/Linda Morad NAB Oct 2021 Page 1",
-        "entity_id": "10453",
-        "source_service_code": "FM",
-        "callsign": "WFHN",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1715345381343101000,
-        "score": 0.00012497848
-      },
-      {
-        "id": "9f7a3ade-4361-9069-b2f5-84f97aa5a5dc",
-        "file_id": "9f7a3ade-4361-9069-b2f5-84f97aa5a5dc",
-        "file_name": "10-7 Behind Our Backs NJ-07 TV",
-        "file_extension": "doc",
-        "file_size": 166400,
-        "file_status": "com_prc",
-        "folder_id": "03970d28-8025-809c-ba41-7cad5bef0273",
-        "create_ts": "2021-11-02T19:20:16.707Z",
-        "last_update_ts": "2021-11-02T19:20:11.253Z",
-        "active_ind": "Y",
-        "file_manager_id": "513f19d5-e452-4a44-aad1-3d099e2c9a96",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/US Chamber of Commerce-NYI",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/US Chamber of Commerce-NYI/10-7 Behind Our Backs NJ-07 TV",
-        "entity_id": "008370",
-        "source_service_code": "CABLE",
-        "legal_name": "CSC ACQUISITION -MA INC",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1715345364484096000,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -293,7 +291,7 @@
         "LINCOLN & HASTINGS-KRNY": 1539,
         "GREENVLL-SPART-ASHEVLL-AND": 1524,
         "MADISON": 1499,
-        "MINOT-BISMARCK-DICKINSON": 1472,
+        "MINOT-BISMARCK-DICKINSON": 1464,
         "BINGHAMTON": 1459,
         "PHOENIX (PRESCOTT)": 1456,
         "FARGO-VALLEY CITY": 1415,
@@ -348,7 +346,7 @@
       },
       "network_affiliation": {
         "ABC": 57079,
-        "NBC": 55879,
+        "NBC": 55871,
         "CBS": 38022,
         "FOX": 27347,
         "PBS": 14192,
@@ -417,8 +415,8 @@
         "2017": 10334,
         "2018": 67972,
         "2019": 14087,
-        "2020": 126029,
-        "2021": 19916,
+        "2020": 126021,
+        "2021": 19917,
         "2022": 6,
         "KYAZ": 5,
         "Fede": 1
@@ -427,7 +425,7 @@
         "State": 64735,
         "US Senate": 48557,
         "US House": 41478,
-        "Presidential": 39061,
+        "Presidential": 39055,
         "Local": 23482
       },
       "non_political_file_folder": {
@@ -459,15 +457,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233580,
+        "TV": 233572,
         "CABLE": 115972,
-        "FM": 109596,
+        "FM": 109597,
         "AM": 40910,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218333,
-        "NCIA": 120418
+        "PA": 218327,
+        "NCIA": 120417
       }
     }
   },
@@ -483,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1732,
-    "processTime": 741,
-    "responseTime": 1741
+    "queryTime": 1730,
+    "processTime": 739,
+    "responseTime": 1740
   }
 }
