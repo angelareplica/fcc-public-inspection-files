@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 505371,
+    "numFound": 505367,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "d19f6ef5-ec07-301e-24fa-e5dce2ffdd49",
+        "file_id": "d19f6ef5-ec07-301e-24fa-e5dce2ffdd49",
+        "file_name": "KTVD Auxiliary License (0000124296)",
+        "file_extension": "pdf",
+        "file_size": 192879,
+        "file_status": "com_cpy",
+        "folder_id": "388d11d4-9b45-a67d-fbc2-35b2fe225853",
+        "create_ts": "2021-11-02T22:57:21.23Z",
+        "last_update_ts": "2021-11-02T22:57:21.224Z",
+        "active_ind": "Y",
+        "file_manager_id": "2503b275-14b9-49e0-832e-b829c7d4dd1c",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/KTVD Auxiliary License (0000124296)",
+        "entity_id": "68581",
+        "source_service_code": "TV",
+        "network_affiliation": "MY NETWORK",
+        "nielsen_dma_rank": "DENVER",
+        "callsign": "KTVD",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1715359020799230000,
+        "score": 0.24995697
+      },
       {
         "id": "f95cedb0-20da-8b97-f3e6-750681312bc6",
         "file_id": "f95cedb0-20da-8b97-f3e6-750681312bc6",
@@ -210,29 +233,6 @@
         "campaign_year": "2021",
         "_version_": 1715356022819782700,
         "score": 0.24995697
-      },
-      {
-        "id": "74819681-b0e4-d889-c2f8-828b545f70cd",
-        "file_id": "74819681-b0e4-d889-c2f8-828b545f70cd",
-        "file_name": "Inv_21100033_[D} Jewett Democratic Committee 1228-002",
-        "file_extension": "pdf",
-        "file_size": 22065,
-        "file_status": "com_cpy",
-        "folder_id": "cfe929ab-d293-3068-23e2-6bfc7005f7ef",
-        "create_ts": "2021-11-02T22:09:42.172Z",
-        "last_update_ts": "2021-11-02T22:09:42.093Z",
-        "active_ind": "Y",
-        "file_manager_id": "002c2d32-2d80-4261-aad8-f61485a2b934",
-        "file_folder_path": "Political Files/2021/Local/Town of Jewett",
-        "full_qualified_file_name": "Political Files/2021/Local/Town of Jewett/Inv_21100033_[D} Jewett Democratic Committee 1228-002",
-        "entity_id": "83204",
-        "source_service_code": "FM",
-        "callsign": "WRIP",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1715356022779936800,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -300,7 +300,7 @@
         "CHARLOTTE": 1114,
         "JOHNSTOWN-ALTOONA-ST COLGE": 1113,
         "SALT LAKE CITY": 1104,
-        "DENVER": 1066,
+        "DENVER": 1062,
         "NEW YORK": 1061,
         "GLENDIVE": 1060,
         "GREEN BAY-APPLETON": 1042,
@@ -348,7 +348,7 @@
         "IND": 2983,
         "MYTV": 2227,
         "UNIVISION": 1854,
-        "MY NETWORK": 1553,
+        "MY NETWORK": 1549,
         "CBS/NBC": 1060,
         "MNT": 851,
         "TELEMUNDO": 834,
@@ -429,7 +429,7 @@
         "Donor Lists - Applicable Only for NCEs": 11397,
         "FCC Authorizations": 7147,
         "Local Public Notice Announcements": 1742,
-        "Applications and Related Materials": 1617,
+        "Applications and Related Materials": 1613,
         "Availability of Signals": 1504,
         "FCC Investigations or Complaints": 1396,
         "Must-Carry or Retransmission Consent": 1335,
@@ -451,7 +451,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233571,
+        "TV": 233567,
         "CABLE": 115972,
         "FM": 109625,
         "AM": 40913,
@@ -475,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1729,
-    "processTime": 736,
-    "responseTime": 1737
+    "queryTime": 215,
+    "processTime": 225,
+    "responseTime": 226
   }
 }
