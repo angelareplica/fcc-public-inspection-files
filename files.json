@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 505299,
+    "numFound": 505293,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "a4e592d7-c558-b825-9783-d51a30feb178",
+        "file_id": "a4e592d7-c558-b825-9783-d51a30feb178",
+        "file_name": "McAuliffe for VA Gov Est 9821 times 091021-110121",
+        "file_extension": "pdf",
+        "file_size": 86346,
+        "file_status": "com_cpy",
+        "folder_id": "478bbdfd-273b-82e3-dbf6-97b73bca0796",
+        "create_ts": "2021-11-02T15:42:43.69Z",
+        "last_update_ts": "2021-11-02T15:42:43.667Z",
+        "active_ind": "Y",
+        "file_manager_id": "87fafa3c-dcd2-4f2f-a049-88ae7ef62d87",
+        "file_folder_path": "Political Files/2021/State/McAulife for Governor",
+        "full_qualified_file_name": "Political Files/2021/State/McAulife for Governor/McAuliffe for VA Gov Est 9821 times 091021-110121",
+        "entity_id": "57831",
+        "source_service_code": "AM",
+        "callsign": "WBTK",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1715331676519792600,
+        "score": 0.24995697
+      },
       {
         "id": "63b54e78-6ff9-2b86-87ad-36c75b96eedb",
         "file_id": "63b54e78-6ff9-2b86-87ad-36c75b96eedb",
@@ -219,30 +242,6 @@
         "campaign_year": "2021",
         "_version_": 1715326295484661800,
         "score": 0.24995697
-      },
-      {
-        "id": "600d45bd-cfa3-5b5b-5586-679bc80b21f8",
-        "file_id": "600d45bd-cfa3-5b5b-5586-679bc80b21f8",
-        "file_name": "Seminole Tribe of Florida 1666249-1 091521-092121 WGFL Invoice",
-        "file_extension": "pdf",
-        "file_size": 237541,
-        "file_status": "com_cpy",
-        "folder_id": "278538f0-e437-c757-6ae5-14690c8c37f6",
-        "create_ts": "2021-11-02T14:17:11.884Z",
-        "last_update_ts": "2021-11-02T14:17:11.878Z",
-        "active_ind": "Y",
-        "file_manager_id": "c5d4527b-2082-48c5-b023-4b8ab1cc8980",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Seminole Tribe of Florida",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Seminole Tribe of Florida/Seminole Tribe of Florida 1666249-1 091521-092121 WGFL Invoice",
-        "entity_id": "7727",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "GAINESVILLE",
-        "callsign": "WGFL",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1715326295429087200,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -420,13 +419,13 @@
         "2018": 67972,
         "2019": 14087,
         "2020": 126032,
-        "2021": 19867,
+        "2021": 19868,
         "2022": 5,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64730,
+        "State": 64731,
         "US Senate": 48557,
         "US House": 41478,
         "Presidential": 39063,
@@ -435,7 +434,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
         "Issues and Programs Lists": 44077,
-        "Equal Employment Opportunity Records": 37000,
+        "Equal Employment Opportunity Records": 36993,
         "Donor Lists - Applicable Only for NCEs": 11397,
         "FCC Authorizations": 7142,
         "Local Public Notice Announcements": 1740,
@@ -461,14 +460,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233585,
+        "TV": 233578,
         "CABLE": 115949,
         "FM": 109579,
-        "AM": 40896,
+        "AM": 40897,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218311,
+        "PA": 218312,
         "NCIA": 120393
       }
     }
@@ -486,7 +485,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 1730,
-    "processTime": 738,
-    "responseTime": 1738
+    "processTime": 737,
+    "responseTime": 1737
   }
 }
