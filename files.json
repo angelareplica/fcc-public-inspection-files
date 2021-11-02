@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 505306,
+    "numFound": 505299,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
@@ -264,7 +264,7 @@
         "MISSOULA": 3294,
         "CHAMPAIGN&SPRNGFLD-DECATUR": 3233,
         "RALEIGH-DURHAM (FAYETVLLE)": 3175,
-        "MINNEAPOLIS-ST. PAUL": 3161,
+        "MINNEAPOLIS-ST. PAUL": 3160,
         "PORTLAND OR": 3146,
         "SACRAMNTO-STKTON-MODESTO": 2788,
         "KANSAS CITY": 2739,
@@ -350,7 +350,7 @@
       },
       "network_affiliation": {
         "ABC": 57076,
-        "NBC": 55888,
+        "NBC": 55882,
         "CBS": 38021,
         "FOX": 27347,
         "PBS": 14192,
@@ -362,7 +362,7 @@
         "CBS/NBC": 1060,
         "MNT": 851,
         "TELEMUNDO": 834,
-        "ION": 733,
+        "ION": 732,
         "N/A": 654,
         "FAMILYNET": 619,
         "UNIMAS": 616,
@@ -435,14 +435,14 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
         "Issues and Programs Lists": 44077,
-        "Equal Employment Opportunity Records": 37006,
+        "Equal Employment Opportunity Records": 37000,
         "Donor Lists - Applicable Only for NCEs": 11397,
         "FCC Authorizations": 7142,
         "Local Public Notice Announcements": 1740,
         "Applications and Related Materials": 1612,
         "Availability of Signals": 1504,
         "FCC Investigations or Complaints": 1394,
-        "Must-Carry or Retransmission Consent": 1336,
+        "Must-Carry or Retransmission Consent": 1335,
         "Childrens TV Programming Reports": 1144,
         "Ownership Reports": 1092,
         "Class A TV Continuing Eligibility": 636,
@@ -461,7 +461,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233592,
+        "TV": 233585,
         "CABLE": 115949,
         "FM": 109579,
         "AM": 40896,
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1731,
-    "processTime": 739,
-    "responseTime": 1739
+    "queryTime": 1730,
+    "processTime": 738,
+    "responseTime": 1738
   }
 }
