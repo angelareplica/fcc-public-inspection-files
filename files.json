@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 505429,
+    "numFound": 505430,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "813ecd91-345f-5dd6-a2ce-bd91a28d94d9",
+        "file_id": "813ecd91-345f-5dd6-a2ce-bd91a28d94d9",
+        "file_name": "Mile Adkins 11-02-21",
+        "file_extension": "pdf",
+        "file_size": 111340,
+        "file_status": "com_cpy",
+        "folder_id": "7bed8a00-e3a3-2393-fdab-64717c507288",
+        "create_ts": "2021-11-03T21:54:39.2Z",
+        "last_update_ts": "2021-11-03T21:54:39.19Z",
+        "active_ind": "Y",
+        "file_manager_id": "38ec5982-b882-415d-bbe6-5c3796b3e609",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/Mile Adkins 11-02-21",
+        "entity_id": "43740",
+        "source_service_code": "AM",
+        "callsign": "WHIP",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1715445672971337700,
+        "score": 0.24995697
+      },
+      {
+        "id": "6e7673e6-963e-e611-34eb-9d7409ff2176",
+        "file_id": "6e7673e6-963e-e611-34eb-9d7409ff2176",
+        "file_name": "Mile Adkins 11-03-21",
+        "file_extension": "pdf",
+        "file_size": 86273,
+        "file_status": "com_cpy",
+        "folder_id": "7bed8a00-e3a3-2393-fdab-64717c507288",
+        "create_ts": "2021-11-03T21:54:39.258Z",
+        "last_update_ts": "2021-11-03T21:54:32.668Z",
+        "active_ind": "Y",
+        "file_manager_id": "bcd88702-175f-4449-80c5-5d1fd7f4506f",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/Mile Adkins 11-03-21",
+        "entity_id": "43740",
+        "source_service_code": "AM",
+        "callsign": "WHIP",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1715445672974483500,
+        "score": 0.24995697
+      },
       {
         "id": "05a8e331-1ed0-b876-6768-aff95522be5d",
         "file_id": "05a8e331-1ed0-b876-6768-aff95522be5d",
@@ -198,54 +244,6 @@
         "campaign_year": "2022",
         "_version_": 1715434130565496800,
         "score": 0.24995697
-      },
-      {
-        "id": "f7fa8b06-3396-95ac-29c5-d737ae4d0c54",
-        "file_id": "f7fa8b06-3396-95ac-29c5-d737ae4d0c54",
-        "file_name": "nab-2189968-pol-l-blanchard-4-05-thru-5-02-22-20210308-182646923-pdf",
-        "file_extension": "pdf",
-        "file_size": 678803,
-        "file_status": "com_cpy",
-        "folder_id": "27a4ea2b-9834-01c8-01be-14849d76d1bd",
-        "create_ts": "2021-11-03T18:51:10.655Z",
-        "last_update_ts": "2021-11-03T18:51:04.614Z",
-        "active_ind": "Y",
-        "file_manager_id": "4bf7b03c-9ef9-4900-addd-88d387e5086b",
-        "file_folder_path": "Political Files/2022/Federal/US Senate",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/nab-2189968-pol-l-blanchard-4-05-thru-5-02-22-20210308-182646923-pdf",
-        "entity_id": "28119",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "HUNTSVILLE-DECATUR (FLOR)",
-        "callsign": "WZDX",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1715434130168086500,
-        "score": 0.24995697
-      },
-      {
-        "id": "538f4a72-f5aa-d830-e1e6-005fa17a058b",
-        "file_id": "538f4a72-f5aa-d830-e1e6-005fa17a058b",
-        "file_name": "Copy of REBATES WZDC_Miyares for Virginia (003)",
-        "file_extension": "xls",
-        "file_size": 38400,
-        "file_status": "com_prc",
-        "folder_id": "03865fd3-2339-6d56-db83-66d26850f5c3",
-        "create_ts": "2021-11-03T18:16:00.765Z",
-        "last_update_ts": "2021-11-03T18:15:56.604Z",
-        "active_ind": "Y",
-        "file_manager_id": "d4522091-b6d1-4d01-ad0a-0f62a270d5f0",
-        "file_folder_path": "Political Files/2021/State/Miyares for VA",
-        "full_qualified_file_name": "Political Files/2021/State/Miyares for VA/Copy of REBATES WZDC_Miyares for Virginia (003)",
-        "entity_id": "50347",
-        "source_service_code": "TV",
-        "callsign": "WZDC-CD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1715431919748907000,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -423,8 +421,8 @@
         "2018": 67972,
         "2019": 14086,
         "2020": 126010,
-        "2021": 20024,
-        "2022": 10,
+        "2021": 20026,
+        "2022": 9,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -433,7 +431,7 @@
         "US Senate": 48561,
         "US House": 41478,
         "Presidential": 39051,
-        "Local": 23537
+        "Local": 23538
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -467,11 +465,11 @@
         "TV": 233578,
         "CABLE": 115972,
         "FM": 109655,
-        "AM": 40934,
+        "AM": 40935,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218380,
+        "PA": 218381,
         "NCIA": 120463
       }
     }
@@ -488,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1802,
-    "processTime": 810,
-    "responseTime": 1810
+    "queryTime": 1732,
+    "processTime": 740,
+    "responseTime": 1740
   }
 }
