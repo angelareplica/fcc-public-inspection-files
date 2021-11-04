@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 505474,
+    "numFound": 505475,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "c775c39c-cedc-4bbf-a60d-1da9a71c5dd3",
+        "file_id": "c775c39c-cedc-4bbf-a60d-1da9a71c5dd3",
+        "file_name": "TSN - TEXANS FOR EVA GUZMAN RECEIVED 11 04 21",
+        "file_extension": "pdf",
+        "file_size": 1209766,
+        "file_status": "com_cpy",
+        "folder_id": "747996dd-e7e9-2693-1687-c0557a80512b",
+        "create_ts": "2021-11-04T22:05:24.165Z",
+        "last_update_ts": "2021-11-04T22:05:17.958Z",
+        "active_ind": "Y",
+        "file_manager_id": "e351d744-041b-4e82-bd95-5e3136fba777",
+        "file_folder_path": "Political Files/2021/State/TSN-TEXANS FOR EVA GUZMAN RECEIVED 11 04 2021",
+        "full_qualified_file_name": "Political Files/2021/State/TSN-TEXANS FOR EVA GUZMAN RECEIVED 11 04 2021/TSN - TEXANS FOR EVA GUZMAN RECEIVED 11 04 21",
+        "entity_id": "13968",
+        "source_service_code": "AM",
+        "callsign": "KAND",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1715536946777817000,
+        "score": 0.24995697
+      },
       {
         "id": "25a5675b-aa93-a405-2762-870b2d52f583",
         "file_id": "25a5675b-aa93-a405-2762-870b2d52f583",
@@ -204,30 +227,6 @@
         "campaign_year": "2021",
         "_version_": 1715522172699541500,
         "score": 0.24995697
-      },
-      {
-        "id": "41237f9d-6483-3782-bdb0-34985b474de9",
-        "file_id": "41237f9d-6483-3782-bdb0-34985b474de9",
-        "file_name": "09.20 HQ ENERGY SERVICES 2168958 WMTW REV2",
-        "file_extension": "pdf",
-        "file_size": 111602,
-        "file_status": "com_cpy",
-        "folder_id": "8245a743-40d9-980a-bec7-6d2be828b480",
-        "create_ts": "2021-11-04T18:10:34.793Z",
-        "last_update_ts": "2021-11-04T18:10:28.146Z",
-        "active_ind": "Y",
-        "file_manager_id": "02a07f61-30ba-4406-8ca2-9a879c7d1b31",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/HQ ENERGY SERVICES-HYDRO QUEBEC MAINE",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/HQ ENERGY SERVICES-HYDRO QUEBEC MAINE/09.20 HQ ENERGY SERVICES 2168958 WMTW REV2",
-        "entity_id": "73288",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "PORTLAND-AUBURN",
-        "callsign": "WMTW",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1715522172494020600,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -405,13 +404,13 @@
         "2018": 67972,
         "2019": 14086,
         "2020": 126010,
-        "2021": 20058,
+        "2021": 20059,
         "2022": 10,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64751,
+        "State": 64752,
         "US Senate": 48561,
         "US House": 41478,
         "Presidential": 39051,
@@ -449,11 +448,11 @@
         "TV": 233593,
         "CABLE": 115972,
         "FM": 109674,
-        "AM": 40945,
+        "AM": 40946,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218398,
+        "PA": 218399,
         "NCIA": 120479
       }
     }
@@ -470,8 +469,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1738,
-    "processTime": 746,
-    "responseTime": 1747
+    "queryTime": 1730,
+    "processTime": 737,
+    "responseTime": 1738
   }
 }
