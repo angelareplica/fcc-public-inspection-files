@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 505444,
+    "numFound": 505445,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "9c0580fe-5c64-c554-2bbb-2b304c6938bf",
+        "file_id": "9c0580fe-5c64-c554-2bbb-2b304c6938bf",
+        "file_name": "WDBT - Mike Durant - 10943-00004",
+        "file_extension": "pdf",
+        "file_size": 196879,
+        "file_status": "com_cpy",
+        "folder_id": "f714d911-4584-41ff-c7a6-d2010af04fee",
+        "create_ts": "2021-11-04T13:34:28.077Z",
+        "last_update_ts": "2021-11-04T13:34:28.097Z",
+        "active_ind": "Y",
+        "file_manager_id": "980fc23e-8245-4f30-bb4c-c984a6fd4281",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/Mike Durant",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Mike Durant/WDBT - Mike Durant - 10943-00004",
+        "entity_id": "63945",
+        "source_service_code": "FM",
+        "callsign": "WDBT",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1715504801013301200,
+        "score": 0.24995697
+      },
       {
         "id": "d501474a-4245-b8b2-2933-32b70dd0ee55",
         "file_id": "d501474a-4245-b8b2-2933-32b70dd0ee55",
@@ -198,29 +221,6 @@
         "campaign_year": "2021",
         "_version_": 1715449761952170000,
         "score": 0.24995697
-      },
-      {
-        "id": "f9ef3ae7-aab7-487e-05e2-d4ecd5a60fd8",
-        "file_id": "f9ef3ae7-aab7-487e-05e2-d4ecd5a60fd8",
-        "file_name": "Jon Richardson for City Council 4098-00002",
-        "file_extension": "pdf",
-        "file_size": 365607,
-        "file_status": "com_cpy",
-        "folder_id": "e022efbf-0d47-df12-8cdb-c2cfe1406227",
-        "create_ts": "2021-11-03T22:58:16.819Z",
-        "last_update_ts": "2021-11-03T22:58:16.955Z",
-        "active_ind": "Y",
-        "file_manager_id": "94e6b298-bf9a-4ab4-af2c-6c8cfa7289e0",
-        "file_folder_path": "Political Files/2021/Local/Hutchinson City Council",
-        "full_qualified_file_name": "Political Files/2021/Local/Hutchinson City Council/Jon Richardson for City Council 4098-00002",
-        "entity_id": "430",
-        "source_service_code": "FM",
-        "callsign": "KXKU",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1715449676179701800,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -398,14 +398,14 @@
         "2018": 67972,
         "2019": 14086,
         "2020": 126010,
-        "2021": 20034,
+        "2021": 20035,
         "2022": 9,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64747,
-        "US Senate": 48561,
+        "US Senate": 48562,
         "US House": 41478,
         "Presidential": 39051,
         "Local": 23546
@@ -441,12 +441,12 @@
       "source_service_code": {
         "TV": 233578,
         "CABLE": 115972,
-        "FM": 109669,
+        "FM": 109670,
         "AM": 40935,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218389,
+        "PA": 218390,
         "NCIA": 120463
       }
     }
@@ -463,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 215,
-    "processTime": 228,
-    "responseTime": 228
+    "queryTime": 1805,
+    "processTime": 811,
+    "responseTime": 1812
   }
 }
