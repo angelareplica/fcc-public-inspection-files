@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 505473,
+    "numFound": 505474,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "25a5675b-aa93-a405-2762-870b2d52f583",
+        "file_id": "25a5675b-aa93-a405-2762-870b2d52f583",
+        "file_name": "0797_001",
+        "file_extension": "pdf",
+        "file_size": 202325,
+        "file_status": "com_cpy",
+        "folder_id": "0626f0a4-be61-4884-1d8e-2c256d96c10b",
+        "create_ts": "2021-11-04T21:02:29.955Z",
+        "last_update_ts": "2021-11-04T21:03:51.872Z",
+        "active_ind": "Y",
+        "file_manager_id": "6ecf6b89-febb-4fcd-96f2-00392a572aff",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/0797_001",
+        "entity_id": "50407",
+        "source_service_code": "FM",
+        "callsign": "WKXI-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1715532988863742000,
+        "score": 0.24995697
+      },
       {
         "id": "2c87fc08-923e-298d-cc83-20a3350c7638",
         "file_id": "2c87fc08-923e-298d-cc83-20a3350c7638",
@@ -205,30 +228,6 @@
         "campaign_year": "2021",
         "_version_": 1715522172494020600,
         "score": 0.24995697
-      },
-      {
-        "id": "e82b947a-9588-beca-9f9b-d2fe149117c6",
-        "file_id": "e82b947a-9588-beca-9f9b-d2fe149117c6",
-        "file_name": "ISS Facebook 20211108 2344449 REV00",
-        "file_extension": "pdf",
-        "file_size": 230468,
-        "file_status": "com_cpy",
-        "folder_id": "26e32673-8fe6-65bb-237b-05f1faaccd9d",
-        "create_ts": "2021-11-04T18:07:52.639Z",
-        "last_update_ts": "2021-11-04T18:09:14.122Z",
-        "active_ind": "Y",
-        "file_manager_id": "c99a79cf-e18b-4e92-afad-9d0f29e58fea",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/ISS Facebook/2344449 Nov 08 2021",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/ISS Facebook/2344449 Nov 08 2021/ISS Facebook 20211108 2344449 REV00",
-        "entity_id": "34529",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "HOUSTON",
-        "callsign": "KHOU",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1715522002489442300,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -406,7 +405,7 @@
         "2018": 67972,
         "2019": 14086,
         "2020": 126010,
-        "2021": 20057,
+        "2021": 20058,
         "2022": 10,
         "KYAZ": 5,
         "Fede": 1
@@ -416,7 +415,7 @@
         "US Senate": 48561,
         "US House": 41478,
         "Presidential": 39051,
-        "Local": 23550
+        "Local": 23551
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -449,12 +448,12 @@
       "source_service_code": {
         "TV": 233593,
         "CABLE": 115972,
-        "FM": 109673,
+        "FM": 109674,
         "AM": 40945,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218397,
+        "PA": 218398,
         "NCIA": 120479
       }
     }
@@ -471,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 217,
-    "responseTime": 217
+    "queryTime": 205,
+    "processTime": 212,
+    "responseTime": 212
   }
 }
