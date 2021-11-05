@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 505546,
+    "numFound": 505548,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "df1e3bce-a311-6ea1-5cad-fe5fcc2e0733",
+        "file_id": "df1e3bce-a311-6ea1-5cad-fe5fcc2e0733",
+        "file_name": "KSAZ LCV est 0140 1119731--1 Rev",
+        "file_extension": "pdf",
+        "file_size": 129425,
+        "file_status": "com_cpy",
+        "folder_id": "5c6fa444-d836-348d-9ffc-6f3abf1bc059",
+        "create_ts": "2021-11-05T22:26:16.312Z",
+        "last_update_ts": "2021-11-05T22:27:41.058Z",
+        "active_ind": "Y",
+        "file_manager_id": "34f746be-4d53-4de4-aaa8-8612ac69f62e",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders/KSAZ LCV est 0140 1119731--1 Rev",
+        "entity_id": "35587",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
+        "callsign": "KSAZ-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1715628856192270300,
+        "score": 0.24995697
+      },
+      {
+        "id": "256bf34d-02bf-240b-4cee-5a0106c71a6e",
+        "file_id": "256bf34d-02bf-240b-4cee-5a0106c71a6e",
+        "file_name": "KSAZ LCV est 0136 1118134--1 Rev 2",
+        "file_extension": "pdf",
+        "file_size": 127447,
+        "file_status": "com_cpy",
+        "folder_id": "5c6fa444-d836-348d-9ffc-6f3abf1bc059",
+        "create_ts": "2021-11-05T22:26:16.311Z",
+        "last_update_ts": "2021-11-05T22:26:09.438Z",
+        "active_ind": "Y",
+        "file_manager_id": "8d967ca1-b8d7-409b-886b-83a3c8f0c16d",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders/KSAZ LCV est 0136 1118134--1 Rev 2",
+        "entity_id": "35587",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
+        "callsign": "KSAZ-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1715628856211144700,
+        "score": 0.24995697
+      },
       {
         "id": "0cc3e0b8-1402-53e6-00af-8431e662e83b",
         "file_id": "0cc3e0b8-1402-53e6-00af-8431e662e83b",
@@ -185,50 +233,6 @@
         "campaign_year": "2021",
         "_version_": 1715618861667057700,
         "score": 0.24995697
-      },
-      {
-        "id": "2c59cf33-cad0-1c69-0b83-c1288f55dc26",
-        "file_id": "2c59cf33-cad0-1c69-0b83-c1288f55dc26",
-        "file_name": "kwmz - 2021 11 04 - north shore wins - agency order",
-        "file_extension": "pdf",
-        "file_size": 218319,
-        "file_status": "com_cpy",
-        "folder_id": "7d9e07fc-7091-f50f-0a70-a0d24ebe61bc",
-        "create_ts": "2021-11-05T19:48:43.199Z",
-        "last_update_ts": "2021-11-05T19:48:43.251Z",
-        "active_ind": "Y",
-        "file_manager_id": "2b60d70e-0d40-4bce-aebe-457e9ee86205",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/kwmz - 2021 11 04 - north shore wins - agency order",
-        "entity_id": "89100",
-        "source_service_code": "FM",
-        "callsign": "KWMZ-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1715618943889047600,
-        "score": 0.24995697
-      },
-      {
-        "id": "a7e2e646-abf0-ad64-78ce-f3e49cd17c7b",
-        "file_id": "a7e2e646-abf0-ad64-78ce-f3e49cd17c7b",
-        "file_name": "wtix - 2021 11 04 - north shore wins - station order",
-        "file_extension": "pdf",
-        "file_size": 22022,
-        "file_status": "com_cpy",
-        "folder_id": "a27b745c-5631-658f-96ba-67c0f0944bf5",
-        "create_ts": "2021-11-05T19:47:11.818Z",
-        "last_update_ts": "2021-11-05T19:48:36.117Z",
-        "active_ind": "Y",
-        "file_manager_id": "948676e5-d558-41ef-89a0-74cd33fa871a",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/wtix - 2021 11 04 - north shore wins - station order",
-        "entity_id": "8382",
-        "source_service_code": "FM",
-        "callsign": "WTIX-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1715618847933857800,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -281,7 +285,7 @@
         "LINCOLN & HASTINGS-KRNY": 1539,
         "GREENVLL-SPART-ASHEVLL-AND": 1531,
         "MADISON": 1499,
-        "PHOENIX (PRESCOTT)": 1466,
+        "PHOENIX (PRESCOTT)": 1468,
         "BINGHAMTON": 1459,
         "MINOT-BISMARCK-DICKINSON": 1459,
         "FARGO-VALLEY CITY": 1415,
@@ -338,7 +342,7 @@
         "ABC": 57093,
         "NBC": 55872,
         "CBS": 38029,
-        "FOX": 27363,
+        "FOX": 27365,
         "PBS": 14192,
         "CW": 11993,
         "IND": 2983,
@@ -406,7 +410,7 @@
         "2018": 67972,
         "2019": 14086,
         "2020": 126010,
-        "2021": 20101,
+        "2021": 20103,
         "2022": 14,
         "KYAZ": 5,
         "Fede": 1
@@ -447,7 +451,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233610,
+        "TV": 233612,
         "CABLE": 115972,
         "FM": 109711,
         "AM": 40963,
@@ -455,7 +459,7 @@
       },
       "political_file_type": {
         "PA": 218407,
-        "NCIA": 120510
+        "NCIA": 120512
       }
     }
   },
@@ -471,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 213,
-    "processTime": 223,
-    "responseTime": 223
+    "queryTime": 1726,
+    "processTime": 733,
+    "responseTime": 1734
   }
 }
