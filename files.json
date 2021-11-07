@@ -5,6 +5,29 @@
     "maxScore": 0.5001639,
     "docs": [
       {
+        "id": "42220bb2-e53b-100c-3da5-ccd18f2a25ad",
+        "file_id": "42220bb2-e53b-100c-3da5-ccd18f2a25ad",
+        "file_name": "0856_001",
+        "file_extension": "pdf",
+        "file_size": 216660,
+        "file_status": "com_cpy",
+        "folder_id": "d13777db-d85e-4b59-e251-18cccbadc0c2",
+        "create_ts": "2021-11-06T23:57:08.515Z",
+        "last_update_ts": "2021-11-06T23:58:36.333Z",
+        "active_ind": "Y",
+        "file_manager_id": "3e0af216-9c44-4a4e-af0e-df37710e2c20",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/0856_001",
+        "entity_id": "29512",
+        "source_service_code": "FM",
+        "callsign": "WRKS",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1715725170315886600,
+        "score": 0.24995697
+      },
+      {
         "id": "d82c30f4-e328-c1bb-edd5-c412f9be584d",
         "file_id": "d82c30f4-e328-c1bb-edd5-c412f9be584d",
         "file_name": "0860_001",
@@ -25,29 +48,6 @@
         "office_type": "Local",
         "campaign_year": "2021",
         "_version_": 1715724235795595300,
-        "score": 0.24995697
-      },
-      {
-        "id": "4f40de99-7af9-5be7-1ba9-12160e0ff29b",
-        "file_id": "4f40de99-7af9-5be7-1ba9-12160e0ff29b",
-        "file_name": "0853_001",
-        "file_extension": "pdf",
-        "file_size": 282999,
-        "file_status": "com_cpy",
-        "folder_id": "fb37c573-df3a-8aee-152d-88a0bd09df21",
-        "create_ts": "2021-11-06T23:42:17.224Z",
-        "last_update_ts": "2021-11-06T23:42:10.201Z",
-        "active_ind": "Y",
-        "file_manager_id": "8bc98dd9-6e1c-459d-a129-442e1415567c",
-        "file_folder_path": "Political Files/2021/Local",
-        "full_qualified_file_name": "Political Files/2021/Local/0853_001",
-        "entity_id": "50408",
-        "source_service_code": "FM",
-        "callsign": "WJMI",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1715724235700174800,
         "score": 0.24995697
       },
       {
@@ -462,8 +462,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1735,
-    "processTime": 743,
-    "responseTime": 1743
+    "queryTime": 212,
+    "processTime": 219,
+    "responseTime": 220
   }
 }
