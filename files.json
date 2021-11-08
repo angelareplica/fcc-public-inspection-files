@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 505566,
+    "numFound": 505567,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "704f2659-3172-ae10-bd51-78a4d2d55f2f",
+        "file_id": "704f2659-3172-ae10-bd51-78a4d2d55f2f",
+        "file_name": "Dr Baumlin for PA 324357 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 131288,
+        "file_status": "com_cpy",
+        "folder_id": "2fab4e5c-1fe6-cc6f-d469-1e54f805c162",
+        "create_ts": "2021-11-08T14:55:19.035Z",
+        "last_update_ts": "2021-11-08T14:55:19.077Z",
+        "active_ind": "Y",
+        "file_manager_id": "2e7c3b1c-16d9-4825-8a26-e952190ff408",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/Dr Baumlin for PA",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Dr Baumlin for PA/Dr Baumlin for PA 324357 Rev 0",
+        "entity_id": "8616",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "PHILADELPHIA",
+        "callsign": "WPVI-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1715872275416219600,
+        "score": 0.24995697
+      },
       {
         "id": "e482c767-90d9-9c0a-2362-3109aa1f0b02",
         "file_id": "e482c767-90d9-9c0a-2362-3109aa1f0b02",
@@ -201,27 +226,6 @@
         "non_political_file_folder": "Local Public Notice Announcements",
         "_version_": 1715702573424443400,
         "score": 0.00012497848
-      },
-      {
-        "id": "d3557890-01bf-8aa4-908c-98d27e3b0403",
-        "file_id": "d3557890-01bf-8aa4-908c-98d27e3b0403",
-        "file_name": "KMAX-AM_page 1",
-        "file_extension": "PDF",
-        "file_size": 74903,
-        "file_status": "com_cpy",
-        "folder_id": "b6c27153-48bd-ed48-ed6a-30286ffb34c0",
-        "create_ts": "2021-11-06T17:57:58.569Z",
-        "last_update_ts": "2021-11-06T17:57:58.584Z",
-        "active_ind": "Y",
-        "file_manager_id": "abb6250c-0ad7-4263-826b-1c27e6f85782",
-        "file_folder_path": "Local Public Notice Announcements/Post Filing Announcements",
-        "full_qualified_file_name": "Local Public Notice Announcements/Post Filing Announcements/KMAX-AM_page 1",
-        "entity_id": "13569",
-        "source_service_code": "AM",
-        "callsign": "KMAX",
-        "non_political_file_folder": "Local Public Notice Announcements",
-        "_version_": 1715702573401374700,
-        "score": 0.00012497848
       }
     ],
     "facets": {
@@ -261,7 +265,7 @@
         "Greenville-Spartanburg-Asheville-Anderson": 2183,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2171,
         "TAMPA-ST. PETE (SARASOTA)": 2151,
-        "PHILADELPHIA": 2128,
+        "PHILADELPHIA": 2129,
         "LEXINGTON": 2083,
         "ROCHESTR-MASON CITY-AUSTIN": 1983,
         "SIOUX CITY": 1936,
@@ -328,7 +332,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57093,
+        "ABC": 57094,
         "NBC": 55872,
         "CBS": 38029,
         "FOX": 27366,
@@ -399,14 +403,14 @@
         "2018": 67972,
         "2019": 14086,
         "2020": 126010,
-        "2021": 20112,
+        "2021": 20113,
         "2022": 14,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64762,
-        "US Senate": 48557,
+        "US Senate": 48558,
         "US House": 41478,
         "Presidential": 39051,
         "Local": 23559
@@ -440,14 +444,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233618,
+        "TV": 233619,
         "CABLE": 115972,
         "FM": 109718,
         "AM": 40968,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218411,
+        "PA": 218412,
         "NCIA": 120517
       }
     }
@@ -464,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1728,
-    "processTime": 736,
-    "responseTime": 1736
+    "queryTime": 205,
+    "processTime": 214,
+    "responseTime": 214
   }
 }
