@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 505565,
+    "numFound": 505566,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "e482c767-90d9-9c0a-2362-3109aa1f0b02",
+        "file_id": "e482c767-90d9-9c0a-2362-3109aa1f0b02",
+        "file_name": "Swanson for USD 313 BOE 4096-00002",
+        "file_extension": "pdf",
+        "file_size": 149723,
+        "file_status": "com_cpy",
+        "folder_id": "d86f4372-d411-68f2-8dd2-731101c98048",
+        "create_ts": "2021-11-08T14:19:00.748Z",
+        "last_update_ts": "2021-11-08T14:19:00.877Z",
+        "active_ind": "Y",
+        "file_manager_id": "f11b694b-c72c-4780-b947-0113eb64ff08",
+        "file_folder_path": "Political Files/2021/Local/USD 313 Board of Education",
+        "full_qualified_file_name": "Political Files/2021/Local/USD 313 Board of Education/Swanson for USD 313 BOE 4096-00002",
+        "entity_id": "164086",
+        "source_service_code": "FM",
+        "callsign": "KWHK",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1715869991417413600,
+        "score": 0.24995697
+      },
       {
         "id": "42220bb2-e53b-100c-3da5-ccd18f2a25ad",
         "file_id": "42220bb2-e53b-100c-3da5-ccd18f2a25ad",
@@ -199,27 +222,6 @@
         "non_political_file_folder": "Local Public Notice Announcements",
         "_version_": 1715702573401374700,
         "score": 0.00012497848
-      },
-      {
-        "id": "c6dcb725-fbcd-e2a7-ab75-ecbbc4bae202",
-        "file_id": "c6dcb725-fbcd-e2a7-ab75-ecbbc4bae202",
-        "file_name": "KCLX-AM_page 1",
-        "file_extension": "PDF",
-        "file_size": 74699,
-        "file_status": "com_cpy",
-        "folder_id": "fc6909a8-3b67-c9d1-08d1-c1afca6752b6",
-        "create_ts": "2021-11-06T17:55:21.43Z",
-        "last_update_ts": "2021-11-06T17:56:48.41Z",
-        "active_ind": "Y",
-        "file_manager_id": "2c46dcdf-8163-4f82-97db-4a6a6ddde15f",
-        "file_folder_path": "Local Public Notice Announcements/Post Filing Announcements",
-        "full_qualified_file_name": "Local Public Notice Announcements/Post Filing Announcements/KCLX-AM_page 1",
-        "entity_id": "15270",
-        "source_service_code": "AM",
-        "callsign": "KCLX",
-        "non_political_file_folder": "Local Public Notice Announcements",
-        "_version_": 1715702408643870700,
-        "score": 0.00012497848
       }
     ],
     "facets": {
@@ -397,7 +399,7 @@
         "2018": 67972,
         "2019": 14086,
         "2020": 126010,
-        "2021": 20111,
+        "2021": 20112,
         "2022": 14,
         "KYAZ": 5,
         "Fede": 1
@@ -407,7 +409,7 @@
         "US Senate": 48557,
         "US House": 41478,
         "Presidential": 39051,
-        "Local": 23558
+        "Local": 23559
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -440,12 +442,12 @@
       "source_service_code": {
         "TV": 233618,
         "CABLE": 115972,
-        "FM": 109717,
+        "FM": 109718,
         "AM": 40968,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218410,
+        "PA": 218411,
         "NCIA": 120517
       }
     }
@@ -462,8 +464,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 212,
-    "processTime": 218,
-    "responseTime": 219
+    "queryTime": 207,
+    "processTime": 213,
+    "responseTime": 213
   }
 }
