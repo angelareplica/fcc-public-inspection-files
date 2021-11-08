@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 505567,
+    "numFound": 505569,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "d2e60f06-6cc6-7fe5-828c-fff1fc1245b2",
+        "file_id": "d2e60f06-6cc6-7fe5-828c-fff1fc1245b2",
+        "file_name": "POL RPF BLACKMON 2341508-0",
+        "file_extension": "pdf",
+        "file_size": 252998,
+        "file_status": "com_cpy",
+        "folder_id": "125bdac4-3834-f8ea-a4d4-399c18bcd441",
+        "create_ts": "2021-11-08T16:00:18.187Z",
+        "last_update_ts": "2021-11-08T16:00:18.461Z",
+        "active_ind": "Y",
+        "file_manager_id": "eee1000f-1906-4403-b1b6-37f61e5a3129",
+        "file_folder_path": "Political Files/2021/Local/RPPC-Blackmon-DiCeglie-Peters",
+        "full_qualified_file_name": "Political Files/2021/Local/RPPC-Blackmon-DiCeglie-Peters/POL RPF BLACKMON 2341508-0",
+        "entity_id": "11290",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "TAMPA-ST. PETE (SARASOTA)",
+        "callsign": "WTSP",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1715876364215648300,
+        "score": 0.24995697
+      },
+      {
+        "id": "9664dac4-a682-451c-cad6-ec7a7cc9e638",
+        "file_id": "9664dac4-a682-451c-cad6-ec7a7cc9e638",
+        "file_name": "POL RPF BLACKMON 2340793-0",
+        "file_extension": "pdf",
+        "file_size": 254425,
+        "file_status": "com_cpy",
+        "folder_id": "125bdac4-3834-f8ea-a4d4-399c18bcd441",
+        "create_ts": "2021-11-08T16:00:18.076Z",
+        "last_update_ts": "2021-11-08T16:00:10.777Z",
+        "active_ind": "Y",
+        "file_manager_id": "cb3acb8e-2861-4fa8-9c32-2bff825a4fee",
+        "file_folder_path": "Political Files/2021/Local/RPPC-Blackmon-DiCeglie-Peters",
+        "full_qualified_file_name": "Political Files/2021/Local/RPPC-Blackmon-DiCeglie-Peters/POL RPF BLACKMON 2340793-0",
+        "entity_id": "11290",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "TAMPA-ST. PETE (SARASOTA)",
+        "callsign": "WTSP",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1715876364056264700,
+        "score": 0.24995697
+      },
       {
         "id": "704f2659-3172-ae10-bd51-78a4d2d55f2f",
         "file_id": "704f2659-3172-ae10-bd51-78a4d2d55f2f",
@@ -184,48 +234,6 @@
         "non_political_file_folder": "Local Public Notice Announcements",
         "_version_": 1715702701669482500,
         "score": 0.00012497848
-      },
-      {
-        "id": "2aec50c1-e957-1b87-1180-a27a4c4d6026",
-        "file_id": "2aec50c1-e957-1b87-1180-a27a4c4d6026",
-        "file_name": "KRAO-FM_page 2",
-        "file_extension": "PDF",
-        "file_size": 72982,
-        "file_status": "com_cpy",
-        "folder_id": "027ba42b-e12d-2d11-0356-feb223248b21",
-        "create_ts": "2021-11-06T18:00:00.973Z",
-        "last_update_ts": "2021-11-06T17:59:53.827Z",
-        "active_ind": "Y",
-        "file_manager_id": "7c60cb1a-c71c-46da-a8cc-4688647d6b5b",
-        "file_folder_path": "Local Public Notice Announcements/Post Filing Announcements",
-        "full_qualified_file_name": "Local Public Notice Announcements/Post Filing Announcements/KRAO-FM_page 2",
-        "entity_id": "15269",
-        "source_service_code": "FM",
-        "callsign": "KRAO-FM",
-        "non_political_file_folder": "Local Public Notice Announcements",
-        "_version_": 1715702701697794000,
-        "score": 0.00012497848
-      },
-      {
-        "id": "e00c26dc-0f9b-a455-fa6b-2b5ea6a68d2b",
-        "file_id": "e00c26dc-0f9b-a455-fa6b-2b5ea6a68d2b",
-        "file_name": "KMAX-AM_page 2",
-        "file_extension": "PDF",
-        "file_size": 74599,
-        "file_status": "com_cpy",
-        "folder_id": "b6c27153-48bd-ed48-ed6a-30286ffb34c0",
-        "create_ts": "2021-11-06T17:57:58.57Z",
-        "last_update_ts": "2021-11-06T17:57:58.613Z",
-        "active_ind": "Y",
-        "file_manager_id": "c5d07357-ba9b-4e7d-8328-3fa540a220ac",
-        "file_folder_path": "Local Public Notice Announcements/Post Filing Announcements",
-        "full_qualified_file_name": "Local Public Notice Announcements/Post Filing Announcements/KMAX-AM_page 2",
-        "entity_id": "13569",
-        "source_service_code": "AM",
-        "callsign": "KMAX",
-        "non_political_file_folder": "Local Public Notice Announcements",
-        "_version_": 1715702573424443400,
-        "score": 0.00012497848
       }
     ],
     "facets": {
@@ -264,7 +272,7 @@
         "BIRMINGHAM (ANN TUSC)": 2197,
         "Greenville-Spartanburg-Asheville-Anderson": 2183,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2171,
-        "TAMPA-ST. PETE (SARASOTA)": 2151,
+        "TAMPA-ST. PETE (SARASOTA)": 2153,
         "PHILADELPHIA": 2129,
         "LEXINGTON": 2083,
         "ROCHESTR-MASON CITY-AUSTIN": 1983,
@@ -334,7 +342,7 @@
       "network_affiliation": {
         "ABC": 57094,
         "NBC": 55872,
-        "CBS": 38029,
+        "CBS": 38031,
         "FOX": 27366,
         "PBS": 14192,
         "CW": 11993,
@@ -403,7 +411,7 @@
         "2018": 67972,
         "2019": 14086,
         "2020": 126010,
-        "2021": 20113,
+        "2021": 20115,
         "2022": 14,
         "KYAZ": 5,
         "Fede": 1
@@ -413,7 +421,7 @@
         "US Senate": 48558,
         "US House": 41478,
         "Presidential": 39051,
-        "Local": 23559
+        "Local": 23561
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -444,14 +452,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233619,
+        "TV": 233621,
         "CABLE": 115972,
         "FM": 109718,
         "AM": 40968,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218412,
+        "PA": 218414,
         "NCIA": 120517
       }
     }
@@ -468,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 215,
-    "processTime": 221,
-    "responseTime": 222
+    "queryTime": 1731,
+    "processTime": 739,
+    "responseTime": 1739
   }
 }
