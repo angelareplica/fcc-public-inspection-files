@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 505647,
+    "numFound": 505649,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "6487305d-d147-e0f2-037a-a27b207afc65",
+        "file_id": "6487305d-d147-e0f2-037a-a27b207afc65",
+        "file_name": "07-01-2021 to 09-30-2021 WALV-HD2 Qtr Issues Report",
+        "file_extension": "pdf",
+        "file_size": 1054211,
+        "file_status": "com_cpy",
+        "folder_id": "e4b31622-6e34-ae02-abe0-53cdf78dc39a",
+        "create_ts": "2021-11-09T21:40:43.184Z",
+        "last_update_ts": "2021-11-09T21:42:19.349Z",
+        "active_ind": "Y",
+        "file_manager_id": "2013fac2-bd94-49d4-b46f-ebd09f924cd3",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/07-01-2021 to 09-30-2021 WALV-HD2 Qtr Issues Report",
+        "entity_id": "66956",
+        "source_service_code": "FM",
+        "callsign": "WALV-FM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1715988378611089400,
+        "score": 0.24995697
+      },
+      {
+        "id": "ab63b62a-dbe0-86d9-9df0-182b1961ec87",
+        "file_id": "ab63b62a-dbe0-86d9-9df0-182b1961ec87",
+        "file_name": "07-01-2021 to 09-30-2021 WALV-FM Qtr Issues Report",
+        "file_extension": "pdf",
+        "file_size": 1540586,
+        "file_status": "com_cpy",
+        "folder_id": "e4b31622-6e34-ae02-abe0-53cdf78dc39a",
+        "create_ts": "2021-11-09T21:40:43.372Z",
+        "last_update_ts": "2021-11-09T21:40:36.188Z",
+        "active_ind": "Y",
+        "file_manager_id": "5fe42780-36e5-44ad-b4ce-6cba0b16c3a4",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/07-01-2021 to 09-30-2021 WALV-FM Qtr Issues Report",
+        "entity_id": "66956",
+        "source_service_code": "FM",
+        "callsign": "WALV-FM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1715988378886865000,
+        "score": 0.24995697
+      },
       {
         "id": "5d6ebe3f-bf07-e92b-4159-fa3cc65ced55",
         "file_id": "5d6ebe3f-bf07-e92b-4159-fa3cc65ced55",
@@ -190,53 +232,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1715975282938085400,
-        "score": 0.24995697
-      },
-      {
-        "id": "3806d329-8c60-2f3a-d0a1-fc64da6739b3",
-        "file_id": "3806d329-8c60-2f3a-d0a1-fc64da6739b3",
-        "file_name": "2020 NAB PB-19 - Issue  ATR - AZ-01",
-        "file_extension": "pdf",
-        "file_size": 1107661,
-        "file_status": "com_cpy",
-        "folder_id": "4c2ac970-ec94-1b2f-36af-e17641196723",
-        "create_ts": "2021-11-09T18:02:35.24Z",
-        "last_update_ts": "2021-11-09T18:02:35.805Z",
-        "active_ind": "Y",
-        "file_manager_id": "4e685ccc-2ed0-4239-9c2c-c1de1f0d61b9",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/2020 NAB PB-19 - Issue  ATR - AZ-01",
-        "entity_id": "001936",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLE ONE, INC.",
-        "operator_city_name": "PHOENIX",
-        "operator_state_name": "AZ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1715974654937530400,
-        "score": 0.24995697
-      },
-      {
-        "id": "d34b1ecc-f5f0-809b-496c-2161ebcee2f2",
-        "file_id": "d34b1ecc-f5f0-809b-496c-2161ebcee2f2",
-        "file_name": "1710889_1710901_11710914-tsn-citizens-for-responsible-energy-solutions-forum-nab_revised-3-20210130-000308120-pdf",
-        "file_extension": "pdf",
-        "file_size": 4297349,
-        "file_status": "com_cpy",
-        "folder_id": "ccf7fb41-ab53-f7ff-8a25-36b4a7a25ee5",
-        "create_ts": "2021-11-09T15:02:22.207Z",
-        "last_update_ts": "2021-11-09T15:03:58.222Z",
-        "active_ind": "Y",
-        "file_manager_id": "ec4daf3b-e890-46da-bd63-4a034bfe273e",
-        "file_folder_path": "Political Files/2021/Local",
-        "full_qualified_file_name": "Political Files/2021/Local/1710889_1710901_11710914-tsn-citizens-for-responsible-energy-solutions-forum-nab_revised-3-20210130-000308120-pdf",
-        "entity_id": "198739",
-        "source_service_code": "FM",
-        "callsign": "KWYU",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1715963317218967600,
         "score": 0.24995697
       }
     ],
@@ -429,7 +424,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
-        "Issues and Programs Lists": 44067,
+        "Issues and Programs Lists": 44069,
         "Equal Employment Opportunity Records": 37019,
         "Donor Lists - Applicable Only for NCEs": 11396,
         "FCC Authorizations": 7163,
@@ -458,7 +453,7 @@
       "source_service_code": {
         "TV": 233644,
         "CABLE": 115974,
-        "FM": 109761,
+        "FM": 109763,
         "AM": 40978,
         "DBS": 5290
       },
@@ -480,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 222,
-    "responseTime": 223
+    "queryTime": 207,
+    "processTime": 217,
+    "responseTime": 218
   }
 }
