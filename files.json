@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 505646,
+    "numFound": 505647,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "5d6ebe3f-bf07-e92b-4159-fa3cc65ced55",
+        "file_id": "5d6ebe3f-bf07-e92b-4159-fa3cc65ced55",
+        "file_name": "FCC Quarterly Issues Report 04-01-19",
+        "file_extension": "pdf",
+        "file_size": 83809,
+        "file_status": "com_cpy",
+        "folder_id": "ef11fa1b-3291-7ef3-7625-fc6566a29916",
+        "create_ts": "2019-04-01T16:56:43.929Z",
+        "last_update_ts": "2021-11-09T21:17:24.06Z",
+        "active_ind": "Y",
+        "file_manager_id": "57bdf77e-14e4-4063-a904-0643cd9c87f9",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/FCC Quarterly Issues Report 04-01-19",
+        "entity_id": "27526",
+        "source_service_code": "FM",
+        "callsign": "WCCH",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1715986910980079600,
+        "score": 0.24995697
+      },
+      {
+        "id": "69daeaf7-a6df-ea0e-e103-d7bcc2b69f7d",
+        "file_id": "69daeaf7-a6df-ea0e-e103-d7bcc2b69f7d",
+        "file_name": "Roxann Robinson - House of Delegates - Invoice #1840  01.20.21 -10.26.21",
+        "file_extension": "pdf",
+        "file_size": 61805,
+        "file_status": "com_cpy",
+        "folder_id": "2d6437bd-3c13-714d-b7fb-c3cba98175f8",
+        "create_ts": "2021-11-09T20:44:53.431Z",
+        "last_update_ts": "2021-11-09T20:46:29.016Z",
+        "active_ind": "Y",
+        "file_manager_id": "2c15fc07-2149-447b-b1ca-bcd20a30b23e",
+        "file_folder_path": "Political Files/2021/State/Roxann Robinson - House of Delegates",
+        "full_qualified_file_name": "Political Files/2021/State/Roxann Robinson - House of Delegates/Roxann Robinson - House of Delegates - Invoice #1840  01.20.21 -10.26.21",
+        "entity_id": "74416",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "RICHMOND-PETERSBURG",
+        "callsign": "WRIC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1715984865631928300,
+        "score": 0.24995697
+      },
       {
         "id": "06cc004c-6df2-0bea-3473-bf8a166ebe73",
         "file_id": "06cc004c-6df2-0bea-3473-bf8a166ebe73",
@@ -192,52 +238,6 @@
         "campaign_year": "2021",
         "_version_": 1715963317218967600,
         "score": 0.24995697
-      },
-      {
-        "id": "83f793e2-34cb-9b2d-ca09-05088353e672",
-        "file_id": "83f793e2-34cb-9b2d-ca09-05088353e672",
-        "file_name": "1803223_1803253_1803245-tsn-las-vegas-sands-corp-nab-20210527-004156012-pdf",
-        "file_extension": "pdf",
-        "file_size": 546469,
-        "file_status": "com_cpy",
-        "folder_id": "e294d8d5-7b6f-f25c-89b8-a13e061d9910",
-        "create_ts": "2021-11-09T15:00:35.24Z",
-        "last_update_ts": "2021-11-09T15:02:10.383Z",
-        "active_ind": "Y",
-        "file_manager_id": "04fef501-973d-42b8-a73a-ff5c732e740a",
-        "file_folder_path": "Political Files/2021/Local",
-        "full_qualified_file_name": "Political Files/2021/Local/1803223_1803253_1803245-tsn-las-vegas-sands-corp-nab-20210527-004156012-pdf",
-        "entity_id": "52047",
-        "source_service_code": "FM",
-        "callsign": "KVWG-FM",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1715963204153114600,
-        "score": 0.24995697
-      },
-      {
-        "id": "74afc72f-909d-caa9-23e1-05eb2fb524aa",
-        "file_id": "74afc72f-909d-caa9-23e1-05eb2fb524aa",
-        "file_name": "1803223_1803253_1803245-tsn-las-vegas-sands-corp-nab-20210527-004156012-pdf",
-        "file_extension": "pdf",
-        "file_size": 546469,
-        "file_status": "com_cpy",
-        "folder_id": "ccf7fb41-ab53-f7ff-8a25-36b4a7a25ee5",
-        "create_ts": "2021-11-09T15:02:14.321Z",
-        "last_update_ts": "2021-11-09T15:02:06.874Z",
-        "active_ind": "Y",
-        "file_manager_id": "d1175daa-db5a-4320-8415-b0e45dedbf46",
-        "file_folder_path": "Political Files/2021/Local",
-        "full_qualified_file_name": "Political Files/2021/Local/1803223_1803253_1803245-tsn-las-vegas-sands-corp-nab-20210527-004156012-pdf",
-        "entity_id": "198739",
-        "source_service_code": "FM",
-        "callsign": "KWYU",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1715963308090065000,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -344,7 +344,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57094,
+        "ABC": 57095,
         "NBC": 55886,
         "CBS": 38033,
         "FOX": 27368,
@@ -415,13 +415,13 @@
         "2018": 67971,
         "2019": 14080,
         "2020": 126019,
-        "2021": 20181,
+        "2021": 20182,
         "2022": 16,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64764,
+        "State": 64765,
         "US Senate": 48581,
         "US House": 41478,
         "Presidential": 39053,
@@ -429,10 +429,10 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
-        "Issues and Programs Lists": 44066,
+        "Issues and Programs Lists": 44067,
         "Equal Employment Opportunity Records": 37019,
         "Donor Lists - Applicable Only for NCEs": 11396,
-        "FCC Authorizations": 7164,
+        "FCC Authorizations": 7163,
         "Local Public Notice Announcements": 1750,
         "Applications and Related Materials": 1620,
         "Availability of Signals": 1504,
@@ -456,14 +456,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233643,
+        "TV": 233644,
         "CABLE": 115974,
         "FM": 109761,
         "AM": 40978,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218463,
+        "PA": 218464,
         "NCIA": 120538
       }
     }
@@ -480,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1734,
-    "processTime": 745,
-    "responseTime": 1746
+    "queryTime": 214,
+    "processTime": 222,
+    "responseTime": 223
   }
 }
