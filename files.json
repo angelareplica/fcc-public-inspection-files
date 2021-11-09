@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 505641,
+    "numFound": 505642,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "26faa886-e6d3-252e-a627-7d21994966f3",
+        "file_id": "26faa886-e6d3-252e-a627-7d21994966f3",
+        "file_name": "Cutter Clinton Panola County Sheriff 11-09-2021",
+        "file_extension": "pdf",
+        "file_size": 480669,
+        "file_status": "com_cpy",
+        "folder_id": "badb2630-e93d-55f3-1b67-9088f5a5a306",
+        "create_ts": "2021-11-09T19:16:56.33Z",
+        "last_update_ts": "2021-11-09T19:18:32.32Z",
+        "active_ind": "Y",
+        "file_manager_id": "fd85c1e5-058a-4297-a7d4-c714690a15bc",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Cutter Clinton Panola County Sheriff 11-09-2021",
+        "entity_id": "25990",
+        "source_service_code": "FM",
+        "callsign": "KGAS-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1715979332789207000,
+        "score": 0.24995697
+      },
       {
         "id": "6f9be635-a22b-4b70-765b-a9f980f7a7c7",
         "file_id": "6f9be635-a22b-4b70-765b-a9f980f7a7c7",
@@ -212,29 +235,6 @@
         "campaign_year": "2021",
         "_version_": 1715963104423051300,
         "score": 0.24995697
-      },
-      {
-        "id": "2df043ff-904e-5ec4-c5dc-93142cbc97ba",
-        "file_id": "2df043ff-904e-5ec4-c5dc-93142cbc97ba",
-        "file_name": "1710889_1710901_11710914-tsn-citizens-for-responsible-energy-solutions-forum-nab_revised-3-20210130-000308120-pdf",
-        "file_extension": "pdf",
-        "file_size": 4297349,
-        "file_status": "com_cpy",
-        "folder_id": "133631fa-d5f2-1157-2aa9-f2c6cb312e94",
-        "create_ts": "2021-11-09T14:57:19.649Z",
-        "last_update_ts": "2021-11-09T14:57:12.839Z",
-        "active_ind": "Y",
-        "file_manager_id": "99924160-c72b-48e4-ae3a-7de04431c814",
-        "file_folder_path": "Political Files/2021/Local",
-        "full_qualified_file_name": "Political Files/2021/Local/1710889_1710901_11710914-tsn-citizens-for-responsible-energy-solutions-forum-nab_revised-3-20210130-000308120-pdf",
-        "entity_id": "198766",
-        "source_service_code": "FM",
-        "callsign": "KQBQ",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1715962999765729300,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -413,7 +413,7 @@
         "2019": 14080,
         "2020": 126019,
         "2021": 20178,
-        "2022": 15,
+        "2022": 16,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -422,7 +422,7 @@
         "US Senate": 48581,
         "US House": 41478,
         "Presidential": 39053,
-        "Local": 23581
+        "Local": 23582
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -455,12 +455,12 @@
       "source_service_code": {
         "TV": 233639,
         "CABLE": 115974,
-        "FM": 109760,
+        "FM": 109761,
         "AM": 40978,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218462,
+        "PA": 218463,
         "NCIA": 120535
       }
     }
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1730,
-    "processTime": 738,
-    "responseTime": 1739
+    "queryTime": 1743,
+    "processTime": 751,
+    "responseTime": 1751
   }
 }
