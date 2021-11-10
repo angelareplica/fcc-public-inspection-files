@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 505661,
+    "numFound": 505662,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "29d3eaec-b109-0a8d-2c39-d9d961d375ba",
+        "file_id": "29d3eaec-b109-0a8d-2c39-d9d961d375ba",
+        "file_name": "WDBT -Mike Durant - 10943-00005",
+        "file_extension": "pdf",
+        "file_size": 202483,
+        "file_status": "com_cpy",
+        "folder_id": "f714d911-4584-41ff-c7a6-d2010af04fee",
+        "create_ts": "2021-11-10T14:27:42.26Z",
+        "last_update_ts": "2021-11-10T14:27:42.402Z",
+        "active_ind": "Y",
+        "file_manager_id": "d622fa7d-d0a7-44b3-8d34-819d4cf2ec47",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/Mike Durant",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Mike Durant/WDBT -Mike Durant - 10943-00005",
+        "entity_id": "63945",
+        "source_service_code": "FM",
+        "callsign": "WDBT",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1716051732179452000,
+        "score": 0.24995697
+      },
       {
         "id": "c50bfdb1-ab8b-3184-4500-47ada2c6281b",
         "file_id": "c50bfdb1-ab8b-3184-4500-47ada2c6281b",
@@ -203,31 +226,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1715990370950578200,
         "score": 0.24995697
-      },
-      {
-        "id": "b32bbf28-60c2-9a55-f7b9-67179d07e848",
-        "file_id": "b32bbf28-60c2-9a55-f7b9-67179d07e848",
-        "file_name": "Charles Herbster KPTM 42.1 11-06-21 - 11-06-21 1692710 NAB 2",
-        "file_extension": "pdf",
-        "file_size": 319480,
-        "file_status": "com_cpy",
-        "folder_id": "3637e2f6-f6d4-09fc-7128-9c8a7e627ed9",
-        "create_ts": "2021-11-09T21:34:23.463Z",
-        "last_update_ts": "2021-11-09T22:13:20.061Z",
-        "active_ind": "Y",
-        "file_manager_id": "cc9edc1b-a7f8-458c-b3fb-900ffd862690",
-        "file_folder_path": "Political Files/2021/State/Charles Herbster",
-        "full_qualified_file_name": "Political Files/2021/State/Charles Herbster/Charles Herbster KPTM 42.1 11-06-21 - 11-06-21 1692710 NAB 2",
-        "entity_id": "51491",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "OMAHA",
-        "callsign": "KPTM",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1715990430002184200,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -405,14 +403,14 @@
         "2018": 67971,
         "2019": 14080,
         "2020": 126016,
-        "2021": 20189,
+        "2021": 20190,
         "2022": 16,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64768,
-        "US Senate": 48582,
+        "US Senate": 48583,
         "US House": 41477,
         "Presidential": 39052,
         "Local": 23583
@@ -448,12 +446,12 @@
       "source_service_code": {
         "TV": 233647,
         "CABLE": 115974,
-        "FM": 109768,
+        "FM": 109769,
         "AM": 40982,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218467,
+        "PA": 218468,
         "NCIA": 120539
       }
     }
@@ -470,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1735,
-    "processTime": 742,
-    "responseTime": 1743
+    "queryTime": 206,
+    "processTime": 218,
+    "responseTime": 218
   }
 }
