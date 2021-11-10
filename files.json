@@ -1,9 +1,81 @@
 {
   "response": {
-    "numFound": 505658,
+    "numFound": 505661,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "c50bfdb1-ab8b-3184-4500-47ada2c6281b",
+        "file_id": "c50bfdb1-ab8b-3184-4500-47ada2c6281b",
+        "file_name": "Dr. Baumlin for PA NAB Form 11-09-21",
+        "file_extension": "pdf",
+        "file_size": 1549735,
+        "file_status": "com_cpy",
+        "folder_id": "dd240241-cfde-3772-5c1b-776c994407ea",
+        "create_ts": "2021-11-10T13:52:58.137Z",
+        "last_update_ts": "2021-11-10T13:56:52.682Z",
+        "active_ind": "Y",
+        "file_manager_id": "40ded688-cb6d-4a4b-a25f-e4e7ab66f4f4",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/Dr Baumlin for PA",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Dr Baumlin for PA/Dr. Baumlin for PA NAB Form 11-09-21",
+        "entity_id": "65681",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WTAE-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1716049690390167600,
+        "score": 0.24995697
+      },
+      {
+        "id": "b9d09eb5-0f59-6786-b259-1ba18faae42e",
+        "file_id": "b9d09eb5-0f59-6786-b259-1ba18faae42e",
+        "file_name": "Dr. Buamlin for PA Contract 11-09-21",
+        "file_extension": "pdf",
+        "file_size": 117693,
+        "file_status": "com_cpy",
+        "folder_id": "dd240241-cfde-3772-5c1b-776c994407ea",
+        "create_ts": "2021-11-10T13:52:58.09Z",
+        "last_update_ts": "2021-11-10T13:52:58.547Z",
+        "active_ind": "Y",
+        "file_manager_id": "f5774449-dc17-4ba3-8998-d407ed8ce9f9",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/Dr Baumlin for PA",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Dr Baumlin for PA/Dr. Buamlin for PA Contract 11-09-21",
+        "entity_id": "65681",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WTAE-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1716049547100160000,
+        "score": 0.24995697
+      },
+      {
+        "id": "c8b84a6f-9617-092c-748f-62db1756699c",
+        "file_id": "c8b84a6f-9617-092c-748f-62db1756699c",
+        "file_name": "E-Payment 20211102-WVPO-AM-00676_1898",
+        "file_extension": "pdf",
+        "file_size": 84763,
+        "file_status": "com_cpy",
+        "folder_id": "ce5ce94a-0e86-d015-545d-2e118c022145",
+        "create_ts": "2021-11-10T13:47:57.513Z",
+        "last_update_ts": "2021-11-10T13:47:49.759Z",
+        "active_ind": "Y",
+        "file_manager_id": "43a830b2-0bb9-46e4-8949-03eb4c6782ed",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Scranton Federation of Teachers",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Scranton Federation of Teachers/E-Payment 20211102-WVPO-AM-00676_1898",
+        "entity_id": "47423",
+        "source_service_code": "AM",
+        "callsign": "WVPO",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1716049231643410400,
+        "score": 0.24995697
+      },
       {
         "id": "8e70cb34-5ced-2a83-5416-622bf9c20a4e",
         "file_id": "8e70cb34-5ced-2a83-5416-622bf9c20a4e",
@@ -156,73 +228,6 @@
         "campaign_year": "2021",
         "_version_": 1715990430002184200,
         "score": 0.24995697
-      },
-      {
-        "id": "f9fce4a6-6b8c-5ce8-2701-85f3674ce58b",
-        "file_id": "f9fce4a6-6b8c-5ce8-2701-85f3674ce58b",
-        "file_name": "Cumulus-Albuquerque Letter re EEO Audit Response-11-09-2021",
-        "file_extension": "pdf",
-        "file_size": 168392,
-        "file_status": "com_cpy",
-        "folder_id": "e9ab4886-e241-be50-4163-d79e1216527b",
-        "create_ts": "2021-11-09T22:12:59.03Z",
-        "last_update_ts": "2021-11-09T22:12:51.362Z",
-        "active_ind": "Y",
-        "file_manager_id": "8747d410-19b4-4185-9f7b-f471dcf0957b",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints/Cumulus-Albuquerque Letter re EEO Audit Response-11-09-2021",
-        "entity_id": "68608",
-        "source_service_code": "AM",
-        "callsign": "KNML",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1715990408071217200,
-        "score": 0.24995697
-      },
-      {
-        "id": "a16e3728-59ba-e7b2-95a6-3aa1307aaa9c",
-        "file_id": "a16e3728-59ba-e7b2-95a6-3aa1307aaa9c",
-        "file_name": "Cumulus-Albuquerque Letter re EEO Audit Response-11-09-2021",
-        "file_extension": "pdf",
-        "file_size": 168392,
-        "file_status": "com_cpy",
-        "folder_id": "ca0dfc00-da22-d634-4649-63168acc7618",
-        "create_ts": "2021-11-09T22:10:44.821Z",
-        "last_update_ts": "2021-11-09T22:12:20.699Z",
-        "active_ind": "Y",
-        "file_manager_id": "670c45ee-4d8e-4286-b6b3-b61bff85b96a",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints/Cumulus-Albuquerque Letter re EEO Audit Response-11-09-2021",
-        "entity_id": "11251",
-        "source_service_code": "AM",
-        "callsign": "KKOB",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1715990267417329700,
-        "score": 0.24995697
-      },
-      {
-        "id": "07b4840a-bc62-dfbb-d026-02759cb34130",
-        "file_id": "07b4840a-bc62-dfbb-d026-02759cb34130",
-        "file_name": "Charles Herbster KPTM 42.1 11-06-21 - 11-06-21 1692710 NAB",
-        "file_extension": "pdf",
-        "file_size": 1092090,
-        "file_status": "com_cpy",
-        "folder_id": "3637e2f6-f6d4-09fc-7128-9c8a7e627ed9",
-        "create_ts": "2021-11-09T21:34:23.978Z",
-        "last_update_ts": "2021-11-09T22:12:18.973Z",
-        "active_ind": "Y",
-        "file_manager_id": "7d9053b2-4f0c-49f6-b25a-8d43fa65dbb8",
-        "file_folder_path": "Political Files/2021/State/Charles Herbster",
-        "full_qualified_file_name": "Political Files/2021/State/Charles Herbster/Charles Herbster KPTM 42.1 11-06-21 - 11-06-21 1692710 NAB",
-        "entity_id": "51491",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "OMAHA",
-        "callsign": "KPTM",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1715990365931044900,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -232,7 +237,7 @@
         "WILKES BARRE-SCRANTON": 6764,
         "LAS VEGAS": 5937,
         "WEST PALM BEACH-FT. PIERCE": 5806,
-        "PITTSBURGH": 5313,
+        "PITTSBURGH": 5315,
         "HONOLULU": 5200,
         "DULUTH-SUPERIOR": 4650,
         "CHARLESTON-HUNTINGTON": 4288,
@@ -329,7 +334,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57095,
+        "ABC": 57097,
         "NBC": 55886,
         "CBS": 38033,
         "FOX": 27368,
@@ -400,14 +405,14 @@
         "2018": 67971,
         "2019": 14080,
         "2020": 126016,
-        "2021": 20186,
+        "2021": 20189,
         "2022": 16,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64768,
-        "US Senate": 48580,
+        "US Senate": 48582,
         "US House": 41477,
         "Presidential": 39052,
         "Local": 23583
@@ -441,15 +446,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233645,
+        "TV": 233647,
         "CABLE": 115974,
         "FM": 109768,
-        "AM": 40981,
+        "AM": 40982,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218465,
-        "NCIA": 120538
+        "PA": 218467,
+        "NCIA": 120539
       }
     }
   },
@@ -465,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1734,
+    "queryTime": 1735,
     "processTime": 742,
-    "responseTime": 1742
+    "responseTime": 1743
   }
 }
