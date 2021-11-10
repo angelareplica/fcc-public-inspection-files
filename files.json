@@ -5,6 +5,30 @@
     "maxScore": 0.5001639,
     "docs": [
       {
+        "id": "723868a2-677f-4e7b-2670-5d04cd94ff08",
+        "file_id": "723868a2-677f-4e7b-2670-5d04cd94ff08",
+        "file_name": "Patients for Affordable Drugs Action - NY-04 New York - Keep Your Promise 100% 10.25",
+        "file_extension": "pdf",
+        "file_size": 13881,
+        "file_status": "com_cpy",
+        "folder_id": "1263b831-858b-f3b4-8284-c14f05683371",
+        "create_ts": "2021-11-10T20:11:34.015Z",
+        "last_update_ts": "2021-11-10T20:30:04.819Z",
+        "active_ind": "Y",
+        "file_manager_id": "bc7baa77-ff3b-4d6e-b634-7bbd1e75fb0b",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs-NYI",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs-NYI/Patients for Affordable Drugs Action - NY-04 New York - Keep Your Promise 100% 10.25",
+        "entity_id": "003223",
+        "source_service_code": "CABLE",
+        "legal_name": "CSC NC, LLC",
+        "operator_city_name": "LONG ISLAND CITY",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1716074529883684900,
+        "score": 0.24995697
+      },
+      {
         "id": "b505926f-8401-3669-13da-3842173037a7",
         "file_id": "b505926f-8401-3669-13da-3842173037a7",
         "file_name": "Patients for Affordable Drugs Action - NY-04 New York - For Americans 100% 11.8",
@@ -98,30 +122,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1716073415065993200,
-        "score": 0.24995697
-      },
-      {
-        "id": "723868a2-677f-4e7b-2670-5d04cd94ff08",
-        "file_id": "723868a2-677f-4e7b-2670-5d04cd94ff08",
-        "file_name": "Patients for Affordable Drugs Action - NY-04 New York - Keep Your Promise 100% 10.25",
-        "file_extension": "pdf",
-        "file_size": 13881,
-        "file_status": "com_cpy",
-        "folder_id": "1263b831-858b-f3b4-8284-c14f05683371",
-        "create_ts": "2021-11-10T20:11:34.015Z",
-        "last_update_ts": "2021-11-10T20:11:34.842Z",
-        "active_ind": "Y",
-        "file_manager_id": "bc7baa77-ff3b-4d6e-b634-7bbd1e75fb0b",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs-NYI",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs-NYI/Patients for Affordable Drugs Action - NY-04 New York - Keep Your Promise 100% 10.25",
-        "entity_id": "003223",
-        "source_service_code": "CABLE",
-        "legal_name": "CSC NC, LLC",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1716073365998928000,
         "score": 0.24995697
       },
       {
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 227,
-    "processTime": 235,
-    "responseTime": 235
+    "queryTime": 205,
+    "processTime": 211,
+    "responseTime": 212
   }
 }
