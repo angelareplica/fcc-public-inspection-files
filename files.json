@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 505871,
+    "numFound": 505872,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "45a9d48e-6dfe-8b6e-3ea1-00f15dbad35e",
+        "file_id": "45a9d48e-6dfe-8b6e-3ea1-00f15dbad35e",
+        "file_name": "[Keene] [Burns for NH-01 (1102194)]",
+        "file_extension": "pdf",
+        "file_size": 31724,
+        "file_status": "com_cpy",
+        "folder_id": "c1a1ec07-265f-a5a0-b29a-62da5c519c01",
+        "create_ts": "2021-11-11T23:25:43.406Z",
+        "last_update_ts": "2021-11-11T23:25:43.518Z",
+        "active_ind": "Y",
+        "file_manager_id": "6591e1d2-9337-45da-a496-92f4d09a36ba",
+        "file_folder_path": "Political Files/2021/Federal/US House/Burns For Congress",
+        "full_qualified_file_name": "Political Files/2021/Federal/US House/Burns For Congress/[Keene] [Burns for NH-01 (1102194)]",
+        "entity_id": "36833",
+        "source_service_code": "AM",
+        "callsign": "WKBK",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2021",
+        "_version_": 1716176178344099800,
+        "score": 0.24995697
+      },
       {
         "id": "fe624944-b329-50dc-8b93-4d6d4d33596b",
         "file_id": "fe624944-b329-50dc-8b93-4d6d4d33596b",
@@ -213,30 +236,6 @@
         "campaign_year": "2021",
         "_version_": 1716161979114061800,
         "score": 0.24995697
-      },
-      {
-        "id": "c00382f2-c935-90fc-3778-9506770cff29",
-        "file_id": "c00382f2-c935-90fc-3778-9506770cff29",
-        "file_name": "PFCD-NAB Form 08.05.2021",
-        "file_extension": "pdf",
-        "file_size": 1073840,
-        "file_status": "com_cpy",
-        "folder_id": "f5f06cac-c5d1-45de-8ecf-a099955d8122",
-        "create_ts": "2021-11-11T19:29:08.386Z",
-        "last_update_ts": "2021-11-11T19:29:12.209Z",
-        "active_ind": "Y",
-        "file_manager_id": "4033be22-a1a4-4515-b4e6-29a1d0ea628a",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/PFCD-NYI",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/PFCD-NYI/PFCD-NAB Form 08.05.2021",
-        "entity_id": "005501",
-        "source_service_code": "CABLE",
-        "legal_name": "CSC NC, LLC",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1716161294034272300,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -414,7 +413,7 @@
         "2018": 67969,
         "2019": 14078,
         "2020": 126016,
-        "2021": 20399,
+        "2021": 20400,
         "2022": 17,
         "KYAZ": 5,
         "Fede": 1
@@ -422,7 +421,7 @@
       "office_type": {
         "State": 64783,
         "US Senate": 48605,
-        "US House": 41476,
+        "US House": 41477,
         "Presidential": 39052,
         "Local": 23586
       },
@@ -458,11 +457,11 @@
         "TV": 233655,
         "CABLE": 116132,
         "FM": 109806,
-        "AM": 40988,
+        "AM": 40989,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218506,
+        "PA": 218507,
         "NCIA": 120707
       }
     }
@@ -479,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 234,
-    "processTime": 242,
-    "responseTime": 243
+    "queryTime": 354,
+    "processTime": 362,
+    "responseTime": 362
   }
 }
