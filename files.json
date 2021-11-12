@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 505876,
+    "numFound": 505877,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "e287f03b-e4ba-08fc-425a-cf882acbd52f",
+        "file_id": "e287f03b-e4ba-08fc-425a-cf882acbd52f",
+        "file_name": "2021-11-01 Cathy McCabe for Spartanburg Mayor_Invoice 552653-1",
+        "file_extension": "pdf",
+        "file_size": 17357,
+        "file_status": "com_cpy",
+        "folder_id": "09543a44-5b07-fd84-069a-5a7041e126a6",
+        "create_ts": "2021-11-12T15:30:35.484Z",
+        "last_update_ts": "2021-11-12T15:30:27.161Z",
+        "active_ind": "Y",
+        "file_manager_id": "2f030acc-5d1b-4075-8f71-73959cb51e38",
+        "file_folder_path": "Political Files/2021/Local/Cathy McCabe for Spartanburg Mayor",
+        "full_qualified_file_name": "Political Files/2021/Local/Cathy McCabe for Spartanburg Mayor/2021-11-01 Cathy McCabe for Spartanburg Mayor_Invoice 552653-1",
+        "entity_id": "73296",
+        "source_service_code": "FM",
+        "callsign": "WGTK-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1716236882560417800,
+        "score": 0.24995697
+      },
       {
         "id": "b7fb00c7-966d-0e47-68e5-bc026c855695",
         "file_id": "b7fb00c7-966d-0e47-68e5-bc026c855695",
@@ -215,27 +238,6 @@
         "campaign_year": "2021",
         "_version_": 1716168178649792500,
         "score": 0.24995697
-      },
-      {
-        "id": "983f5a2e-d91a-7366-e2e3-5383fe43b5d6",
-        "file_id": "983f5a2e-d91a-7366-e2e3-5383fe43b5d6",
-        "file_name": "BCI - KLTE Consent Decree Compliance Report - final (01570649xB3D1E)",
-        "file_extension": "pdf",
-        "file_size": 465500,
-        "file_status": "com_cpy",
-        "folder_id": "7fa22b52-4e3c-14ce-2321-2342b6b282b8",
-        "create_ts": "2021-11-11T21:18:14.336Z",
-        "last_update_ts": "2021-11-11T21:18:06.407Z",
-        "active_ind": "Y",
-        "file_manager_id": "a461d2e9-9177-44d0-bf59-ed3182ac542d",
-        "file_folder_path": "FCC Investigations or Complaints",
-        "full_qualified_file_name": "FCC Investigations or Complaints/BCI - KLTE Consent Decree Compliance Report - final (01570649xB3D1E)",
-        "entity_id": "66670",
-        "source_service_code": "FM",
-        "callsign": "KLTE",
-        "non_political_file_folder": "FCC Investigations or Complaints",
-        "_version_": 1716168157935173600,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -413,7 +415,7 @@
         "2018": 67969,
         "2019": 14078,
         "2020": 126016,
-        "2021": 20404,
+        "2021": 20405,
         "2022": 17,
         "KYAZ": 5,
         "Fede": 1
@@ -423,7 +425,7 @@
         "US Senate": 48605,
         "US House": 41477,
         "Presidential": 39052,
-        "Local": 23586
+        "Local": 23587
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -456,12 +458,12 @@
       "source_service_code": {
         "TV": 233659,
         "CABLE": 116132,
-        "FM": 109806,
+        "FM": 109807,
         "AM": 40989,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218507,
+        "PA": 218508,
         "NCIA": 120711
       }
     }
@@ -478,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 213,
-    "processTime": 220,
-    "responseTime": 220
+    "queryTime": 1273,
+    "processTime": 284,
+    "responseTime": 1284
   }
 }
