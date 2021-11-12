@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 505917,
+    "numFound": 505918,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "4c1fc070-9f95-95ff-c590-78f3bf57e8c6",
+        "file_id": "4c1fc070-9f95-95ff-c590-78f3bf57e8c6",
+        "file_name": "2347131-0 progress pinellals order",
+        "file_extension": "pdf",
+        "file_size": 253822,
+        "file_status": "com_cpy",
+        "folder_id": "87ab2f69-d111-4e1b-21ee-bdf95cbf2944",
+        "create_ts": "2021-11-12T22:30:31.064Z",
+        "last_update_ts": "2021-11-12T22:30:37.662Z",
+        "active_ind": "Y",
+        "file_manager_id": "35c3303d-b16b-466f-ae1c-38d57f560954",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Progress Pinellas",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Progress Pinellas/2347131-0 progress pinellals order",
+        "entity_id": "11290",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "TAMPA-ST. PETE (SARASOTA)",
+        "callsign": "WTSP",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1716263302084952000,
+        "score": 0.24995697
+      },
       {
         "id": "1950d846-186b-8285-f307-9c4eba45f9a1",
         "file_id": "1950d846-186b-8285-f307-9c4eba45f9a1",
@@ -217,30 +241,6 @@
         "campaign_year": "2021",
         "_version_": 1716252474333986800,
         "score": 0.24995697
-      },
-      {
-        "id": "43389cce-96fa-0e7e-7fdf-7d6735f78f3e",
-        "file_id": "43389cce-96fa-0e7e-7fdf-7d6735f78f3e",
-        "file_name": "Patients for Affordable Drugs Action - NY-04 New York - For Americans 100% 11.12",
-        "file_extension": "pdf",
-        "file_size": 13886,
-        "file_status": "com_cpy",
-        "folder_id": "b6ac1a3f-da74-b13c-e7fb-fbcf7d4f7d4b",
-        "create_ts": "2021-11-12T19:31:30.994Z",
-        "last_update_ts": "2021-11-12T19:31:37.232Z",
-        "active_ind": "Y",
-        "file_manager_id": "8bb3e192-8986-4572-bf62-e130dca66491",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs/Patients for Affordable Drugs Action - NY-04 New York - For Americans 100% 11.12",
-        "entity_id": "005325",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLEVISION OF WAPPINGERS FALLS INC",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1716252040279097300,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -279,7 +279,7 @@
         "BIRMINGHAM (ANN TUSC)": 2197,
         "Greenville-Spartanburg-Asheville-Anderson": 2183,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2171,
-        "TAMPA-ST. PETE (SARASOTA)": 2153,
+        "TAMPA-ST. PETE (SARASOTA)": 2154,
         "PHILADELPHIA": 2129,
         "LEXINGTON": 2083,
         "ROCHESTR-MASON CITY-AUSTIN": 1983,
@@ -349,7 +349,7 @@
       "network_affiliation": {
         "ABC": 57097,
         "NBC": 55894,
-        "CBS": 38033,
+        "CBS": 38034,
         "FOX": 27368,
         "PBS": 14193,
         "CW": 11993,
@@ -418,7 +418,7 @@
         "2018": 67968,
         "2019": 14078,
         "2020": 126016,
-        "2021": 20437,
+        "2021": 20438,
         "2022": 17,
         "KYAZ": 5,
         "Fede": 1
@@ -459,7 +459,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233663,
+        "TV": 233664,
         "CABLE": 116161,
         "FM": 109810,
         "AM": 40993,
@@ -467,7 +467,7 @@
       },
       "political_file_type": {
         "PA": 218508,
-        "NCIA": 120742
+        "NCIA": 120743
       }
     }
   },
@@ -483,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 221,
-    "responseTime": 221
+    "queryTime": 312,
+    "processTime": 318,
+    "responseTime": 318
   }
 }
