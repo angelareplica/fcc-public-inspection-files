@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 505916,
+    "numFound": 505917,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "1950d846-186b-8285-f307-9c4eba45f9a1",
+        "file_id": "1950d846-186b-8285-f307-9c4eba45f9a1",
+        "file_name": "nab-aarp-2021-002--20211108-230416691-pdf",
+        "file_extension": "pdf",
+        "file_size": 466446,
+        "file_status": "com_cpy",
+        "folder_id": "03ebddda-00e3-23e3-b6b6-362d7769a7fb",
+        "create_ts": "2021-11-12T21:43:56.837Z",
+        "last_update_ts": "2021-11-12T21:44:03.517Z",
+        "active_ind": "Y",
+        "file_manager_id": "cee0d92e-87dd-49ee-ac38-f7bfafd89438",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AARP/AARP Est 10321",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AARP/AARP Est 10321/nab-aarp-2021-002--20211108-230416691-pdf",
+        "entity_id": "47904",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WASHINGTON DC (HAGRSTWN)",
+        "callsign": "WRC-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1716260372301742000,
+        "score": 0.24995697
+      },
+      {
+        "id": "39c4cb43-3da7-202d-de81-b79ce3aec7d0",
+        "file_id": "39c4cb43-3da7-202d-de81-b79ce3aec7d0",
+        "file_name": "nab-aarp-2021-002--20211108-230416691-pdf",
+        "file_extension": "pdf",
+        "file_size": 466446,
+        "file_status": "com_cpy",
+        "folder_id": "080e5b0d-4143-2b08-1672-c7c5ad804587",
+        "create_ts": "2021-11-12T21:42:41.262Z",
+        "last_update_ts": "2021-11-12T21:42:48.078Z",
+        "active_ind": "Y",
+        "file_manager_id": "3b00a778-11d7-46ba-b50f-df05be37741a",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AARP/AARP Est 10323",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AARP/AARP Est 10323/nab-aarp-2021-002--20211108-230416691-pdf",
+        "entity_id": "47904",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WASHINGTON DC (HAGRSTWN)",
+        "callsign": "WRC-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1716260293198217200,
+        "score": 0.24995697
+      },
       {
         "id": "80748ed7-945a-01cf-0476-b87803ad744e",
         "file_id": "80748ed7-945a-01cf-0476-b87803ad744e",
@@ -193,54 +241,6 @@
         "campaign_year": "2021",
         "_version_": 1716252040279097300,
         "score": 0.24995697
-      },
-      {
-        "id": "bfbfac81-8e88-12f6-cea3-06f47a5c2660",
-        "file_id": "bfbfac81-8e88-12f6-cea3-06f47a5c2660",
-        "file_name": "Patients for Affordable Drugs Action - NY-04 New York - For Americans 100% 11.12",
-        "file_extension": "pdf",
-        "file_size": 13886,
-        "file_status": "com_cpy",
-        "folder_id": "472f3cee-c281-0d1f-3d24-ddcb809f86f5",
-        "create_ts": "2021-11-12T19:30:07.484Z",
-        "last_update_ts": "2021-11-12T19:30:13.655Z",
-        "active_ind": "Y",
-        "file_manager_id": "b7a38416-f953-4848-8595-f7a363b46fee",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs/Patients for Affordable Drugs Action - NY-04 New York - For Americans 100% 11.12",
-        "entity_id": "001821",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLEVISION OF MONMOUTH LLC",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1716251952638066700,
-        "score": 0.24995697
-      },
-      {
-        "id": "c6198161-3a50-53e7-7d99-dff42b4a94d6",
-        "file_id": "c6198161-3a50-53e7-7d99-dff42b4a94d6",
-        "file_name": "Patients for Affordable Drugs Action - NY-04 New York - For Americans 100% 11.12",
-        "file_extension": "pdf",
-        "file_size": 13886,
-        "file_status": "com_cpy",
-        "folder_id": "65e3a8ec-de18-c9fa-8d20-81acb8a40efc",
-        "create_ts": "2021-11-12T19:29:26.048Z",
-        "last_update_ts": "2021-11-12T19:29:17.711Z",
-        "active_ind": "Y",
-        "file_manager_id": "2d39e4c3-5c29-49ba-b101-da81e1904805",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs/Patients for Affordable Drugs Action - NY-04 New York - For Americans 100% 11.12",
-        "entity_id": "003173",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLEVISION OF ROCKLAND/RAMAPO, LLC",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1716251909262672000,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -285,7 +285,7 @@
         "ROCHESTR-MASON CITY-AUSTIN": 1983,
         "SIOUX CITY": 1936,
         "GREAT FALLS": 1923,
-        "WASHINGTON DC (HAGRSTWN)": 1898,
+        "WASHINGTON DC (HAGRSTWN)": 1900,
         "LA CROSSE-EAU CLAIRE": 1802,
         "BLUEFIELD-BECKLEY-OAK HILL": 1760,
         "ALBUQUERQUE-SANTA FE": 1702,
@@ -296,7 +296,7 @@
         "PHOENIX (PRESCOTT)": 1471,
         "MINOT-BISMARCK-DICKINSON": 1468,
         "BINGHAMTON": 1459,
-        "FARGO-VALLEY CITY": 1413,
+        "FARGO-VALLEY CITY": 1412,
         "BURLINGTON-PLATTSBURGH": 1391,
         "CHATTANOOGA": 1369,
         "MIAMI-FT. LAUDERDALE": 1296,
@@ -348,9 +348,9 @@
       },
       "network_affiliation": {
         "ABC": 57097,
-        "NBC": 55892,
+        "NBC": 55894,
         "CBS": 38033,
-        "FOX": 27369,
+        "FOX": 27368,
         "PBS": 14193,
         "CW": 11993,
         "IND": 2985,
@@ -415,10 +415,10 @@
         "2015": 6083,
         "2016": 68684,
         "2017": 10334,
-        "2018": 67969,
+        "2018": 67968,
         "2019": 14078,
         "2020": 126016,
-        "2021": 20435,
+        "2021": 20437,
         "2022": 17,
         "KYAZ": 5,
         "Fede": 1
@@ -426,7 +426,7 @@
       "office_type": {
         "State": 64784,
         "US Senate": 48605,
-        "US House": 41477,
+        "US House": 41476,
         "Presidential": 39052,
         "Local": 23587
       },
@@ -459,15 +459,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233662,
+        "TV": 233663,
         "CABLE": 116161,
         "FM": 109810,
         "AM": 40993,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218509,
-        "NCIA": 120740
+        "PA": 218508,
+        "NCIA": 120742
       }
     }
   },
@@ -483,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 299,
-    "processTime": 307,
-    "responseTime": 308
+    "queryTime": 214,
+    "processTime": 221,
+    "responseTime": 221
   }
 }
