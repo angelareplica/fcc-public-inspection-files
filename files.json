@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 505918,
+    "numFound": 505910,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
@@ -248,7 +248,7 @@
         "DES MOINES-AMES": 8381,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7032,
         "WILKES BARRE-SCRANTON": 6764,
-        "LAS VEGAS": 5941,
+        "LAS VEGAS": 5933,
         "WEST PALM BEACH-FT. PIERCE": 5807,
         "PITTSBURGH": 5315,
         "HONOLULU": 5200,
@@ -354,7 +354,7 @@
         "PBS": 14193,
         "CW": 11993,
         "IND": 2985,
-        "MYTV": 2238,
+        "MYTV": 2230,
         "UNIVISION": 1854,
         "MY NETWORK": 1551,
         "CBS/NBC": 1060,
@@ -418,7 +418,7 @@
         "2018": 67968,
         "2019": 14078,
         "2020": 126016,
-        "2021": 20438,
+        "2021": 20432,
         "2022": 17,
         "KYAZ": 5,
         "Fede": 1
@@ -444,7 +444,7 @@
         "Childrens TV Programming Reports": 1144,
         "Ownership Reports": 1093,
         "Class A TV Continuing Eligibility": 636,
-        "Political Matters and Controversial Issues Disclosures": 585,
+        "Political Matters and Controversial Issues Disclosures": 583,
         "State and Local Franchising Related Materials": 477,
         "Time Brokerage Agreements": 397,
         "Channels Delivered": 275,
@@ -459,7 +459,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233664,
+        "TV": 233656,
         "CABLE": 116161,
         "FM": 109810,
         "AM": 40993,
@@ -467,7 +467,7 @@
       },
       "political_file_type": {
         "PA": 218508,
-        "NCIA": 120743
+        "NCIA": 120737
       }
     }
   },
@@ -483,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1791,
-    "processTime": 797,
-    "responseTime": 1798
+    "queryTime": 357,
+    "processTime": 365,
+    "responseTime": 365
   }
 }
