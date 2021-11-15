@@ -1,9 +1,54 @@
 {
   "response": {
-    "numFound": 505911,
+    "numFound": 505913,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
+      {
+        "id": "6b4b9f3c-311b-00ab-9984-ddfdb56344b0",
+        "file_id": "6b4b9f3c-311b-00ab-9984-ddfdb56344b0",
+        "file_name": "wtix - 2021 11 04 - north shore wins - station invoice",
+        "file_extension": "pdf",
+        "file_size": 20608,
+        "file_status": "com_cpy",
+        "folder_id": "a27b745c-5631-658f-96ba-67c0f0944bf5",
+        "create_ts": "2021-11-15T18:23:46.291Z",
+        "last_update_ts": "2021-11-15T18:23:46.355Z",
+        "active_ind": "Y",
+        "file_manager_id": "4edb8bee-067c-4d98-8c38-00898cd1b9ba",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/wtix - 2021 11 04 - north shore wins - station invoice",
+        "entity_id": "8382",
+        "source_service_code": "FM",
+        "callsign": "WTIX-FM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1716519568933912600,
+        "score": 0.24995697
+      },
+      {
+        "id": "35e90ca7-9d50-6e83-953f-f55a78820d4f",
+        "file_id": "35e90ca7-9d50-6e83-953f-f55a78820d4f",
+        "file_name": "KXLA X Border Media AND Amendment 062118_0001",
+        "file_extension": "pdf",
+        "file_size": 5040761,
+        "file_status": "com_cpy",
+        "folder_id": "1ef64e3d-e6d2-60d5-feb5-0923842d589b",
+        "create_ts": "2021-11-15T18:20:34.509Z",
+        "last_update_ts": "2021-11-15T18:20:35.668Z",
+        "active_ind": "Y",
+        "file_manager_id": "44354680-5e6d-44bd-b493-4616d517d241",
+        "file_folder_path": "Time Brokerage Agreements",
+        "full_qualified_file_name": "Time Brokerage Agreements/KXLA X Border Media AND Amendment 062118_0001",
+        "entity_id": "16729",
+        "source_service_code": "TV",
+        "network_affiliation": "IND",
+        "nielsen_dma_rank": "LOS ANGELES",
+        "callsign": "KVMD",
+        "non_political_file_folder": "Time Brokerage Agreements",
+        "_version_": 1716519368979906600,
+        "score": 0.24995697
+      },
       {
         "id": "89a94b06-acb3-94ec-61ae-002c4b58d2ba",
         "file_id": "89a94b06-acb3-94ec-61ae-002c4b58d2ba",
@@ -193,53 +238,6 @@
         "campaign_year": "2021",
         "_version_": 1716252551636058000,
         "score": 0.24995697
-      },
-      {
-        "id": "08db710a-d1f5-8d04-dc82-0a67a5594094",
-        "file_id": "08db710a-d1f5-8d04-dc82-0a67a5594094",
-        "file_name": "KVMD LATV 070621_0001",
-        "file_extension": "pdf",
-        "file_size": 7909443,
-        "file_status": "com_cpy",
-        "folder_id": "1ef64e3d-e6d2-60d5-feb5-0923842d589b",
-        "create_ts": "2021-11-12T19:39:26.204Z",
-        "last_update_ts": "2021-11-12T19:39:28.146Z",
-        "active_ind": "Y",
-        "file_manager_id": "d46ded25-1a34-419c-acad-bd80bf466d7f",
-        "file_folder_path": "Time Brokerage Agreements",
-        "full_qualified_file_name": "Time Brokerage Agreements/KVMD LATV 070621_0001",
-        "entity_id": "16729",
-        "source_service_code": "TV",
-        "network_affiliation": "IND",
-        "nielsen_dma_rank": "LOS ANGELES",
-        "callsign": "KVMD",
-        "non_political_file_folder": "Time Brokerage Agreements",
-        "_version_": 1716252540500181000,
-        "score": 0.24995697
-      },
-      {
-        "id": "da807255-ff47-90d1-5a73-3d5d432d02c7",
-        "file_id": "da807255-ff47-90d1-5a73-3d5d432d02c7",
-        "file_name": "Patients for Affordable Drugs Action - NY-04 New York - For Americans 100% 11.12",
-        "file_extension": "pdf",
-        "file_size": 13886,
-        "file_status": "com_cpy",
-        "folder_id": "55fbeeaf-5676-f219-2db1-75e66b90b377",
-        "create_ts": "2021-11-12T19:39:03.724Z",
-        "last_update_ts": "2021-11-12T19:38:55.367Z",
-        "active_ind": "Y",
-        "file_manager_id": "2a6f9bbc-6eb7-4ac0-8621-40ffa457b7d3",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Patients for Affordable Drugs/Patients for Affordable Drugs Action - NY-04 New York - For Americans 100% 11.12",
-        "entity_id": "007341",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLEVISION SYSTEMS WESTCHESTER CORPORATION",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1716252514983084000,
-        "score": 0.24995697
       }
     ],
     "facets": {
@@ -303,7 +301,7 @@
         "GAINESVILLE": 1264,
         "PROVIDENCE-NEW BEDFORD": 1200,
         "ANCHORAGE": 1190,
-        "LOS ANGELES": 1132,
+        "LOS ANGELES": 1133,
         "CHARLOTTE": 1114,
         "JOHNSTOWN-ALTOONA-ST COLGE": 1113,
         "SALT LAKE CITY": 1104,
@@ -352,7 +350,7 @@
         "FOX": 27368,
         "PBS": 14193,
         "CW": 11993,
-        "IND": 2985,
+        "IND": 2986,
         "MYTV": 2230,
         "UNIVISION": 1854,
         "MY NETWORK": 1551,
@@ -417,7 +415,7 @@
         "2018": 67968,
         "2019": 14078,
         "2020": 126016,
-        "2021": 20433,
+        "2021": 20434,
         "2022": 17,
         "KYAZ": 5,
         "Fede": 1
@@ -445,7 +443,7 @@
         "Class A TV Continuing Eligibility": 636,
         "Political Matters and Controversial Issues Disclosures": 583,
         "State and Local Franchising Related Materials": 477,
-        "Time Brokerage Agreements": 397,
+        "Time Brokerage Agreements": 398,
         "Channels Delivered": 275,
         "Compatibility with Consumer Electronics Equipment": 142,
         "Information on Third-Party Fundraising - For NCE Stations Only": 86,
@@ -458,15 +456,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233656,
+        "TV": 233657,
         "CABLE": 116161,
-        "FM": 109811,
+        "FM": 109812,
         "AM": 40993,
         "DBS": 5290
       },
       "political_file_type": {
         "PA": 218509,
-        "NCIA": 120737
+        "NCIA": 120738
       }
     }
   },
@@ -482,7 +480,7 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1739,
+    "queryTime": 1742,
     "processTime": 749,
     "responseTime": 1749
   }
