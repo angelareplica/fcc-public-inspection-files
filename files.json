@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 506032,
+    "numFound": 506031,
     "start": 0,
     "maxScore": 0.5001639,
     "docs": [
@@ -276,7 +276,7 @@
         "GAINESVILLE": 1264,
         "PROVIDENCE-NEW BEDFORD": 1200,
         "ANCHORAGE": 1190,
-        "LOS ANGELES": 1132,
+        "LOS ANGELES": 1131,
         "CHARLOTTE": 1114,
         "JOHNSTOWN-ALTOONA-ST COLGE": 1113,
         "SALT LAKE CITY": 1104,
@@ -325,7 +325,7 @@
         "FOX": 27368,
         "PBS": 14197,
         "CW": 11992,
-        "IND": 2985,
+        "IND": 2984,
         "MYTV": 2230,
         "UNIVISION": 1854,
         "MY NETWORK": 1551,
@@ -418,7 +418,7 @@
         "Class A TV Continuing Eligibility": 636,
         "Political Matters and Controversial Issues Disclosures": 583,
         "State and Local Franchising Related Materials": 477,
-        "Time Brokerage Agreements": 397,
+        "Time Brokerage Agreements": 396,
         "Channels Delivered": 275,
         "Compatibility with Consumer Electronics Equipment": 142,
         "Information on Third-Party Fundraising - For NCE Stations Only": 86,
@@ -431,7 +431,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233658,
+        "TV": 233657,
         "CABLE": 116223,
         "FM": 109827,
         "AM": 41034,
@@ -455,8 +455,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 221,
-    "responseTime": 221
+    "queryTime": 1738,
+    "processTime": 745,
+    "responseTime": 1746
   }
 }
