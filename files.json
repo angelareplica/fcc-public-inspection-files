@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 506037,
+    "numFound": 506039,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "fa1a5ad6-0409-894d-1ec0-ecd2daea631e",
+        "file_id": "fa1a5ad6-0409-894d-1ec0-ecd2daea631e",
+        "file_name": "Qtrly Pgm Rpt [07-01-21--09-30-21]_WJVM-FM",
+        "file_extension": "pdf",
+        "file_size": 224313,
+        "file_status": "com_cpy",
+        "folder_id": "10f68053-52e7-4209-ae0f-6c26d9c674ad",
+        "create_ts": "2021-11-17T01:22:06.145Z",
+        "last_update_ts": "2021-11-17T01:21:57.211Z",
+        "active_ind": "Y",
+        "file_manager_id": "6807818b-d82f-4041-9d08-ca788be22509",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/Qtrly Pgm Rpt [07-01-21--09-30-21]_WJVM-FM",
+        "entity_id": "172335",
+        "source_service_code": "FM",
+        "callsign": "WJVM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1716636485343510500,
+        "score": 0.24995694
+      },
+      {
+        "id": "bcdf3a29-e05f-3b3b-89aa-2582667cb12c",
+        "file_id": "bcdf3a29-e05f-3b3b-89aa-2582667cb12c",
+        "file_name": "Qtrly Pgm Rpt [04-01-21--06-30-21]_WJVM-FM",
+        "file_extension": "pdf",
+        "file_size": 360098,
+        "file_status": "com_cpy",
+        "folder_id": "10f68053-52e7-4209-ae0f-6c26d9c674ad",
+        "create_ts": "2021-11-17T01:20:43.133Z",
+        "last_update_ts": "2021-11-17T01:21:01.481Z",
+        "active_ind": "Y",
+        "file_manager_id": "c6dc9de7-2d68-4aee-8a01-80d85ae67c1b",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/Qtrly Pgm Rpt [04-01-21--06-30-21]_WJVM-FM",
+        "entity_id": "172335",
+        "source_service_code": "FM",
+        "callsign": "WJVM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1716636398259273700,
+        "score": 0.24995694
+      },
       {
         "id": "38e15f0f-bbf9-10ba-1f1f-376e481f954e",
         "file_id": "38e15f0f-bbf9-10ba-1f1f-376e481f954e",
@@ -188,48 +230,6 @@
         "callsign": "KGEM",
         "non_political_file_folder": "FCC Authorizations",
         "_version_": 1716619965080010800,
-        "score": 0.24995694
-      },
-      {
-        "id": "b90b5e51-0dcd-f4b7-52a7-c3099e8b031c",
-        "file_id": "b90b5e51-0dcd-f4b7-52a7-c3099e8b031c",
-        "file_name": "Vermont Public Co Bylaws 06.16.2021",
-        "file_extension": "pdf",
-        "file_size": 214742,
-        "file_status": "com_cpy",
-        "folder_id": "2d13b681-6a80-90da-3fc2-48003c07a5c5",
-        "create_ts": "2021-11-16T20:17:03.208Z",
-        "last_update_ts": "2021-11-16T20:17:21.126Z",
-        "active_ind": "Y",
-        "file_manager_id": "fa515d8f-a351-4533-a654-eb1d80d9c339",
-        "file_folder_path": "Ownership Reports/Additional Documents/Contracts and Agreements",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Contracts and Agreements/Vermont Public Co Bylaws 06.16.2021",
-        "entity_id": "63473",
-        "source_service_code": "FM",
-        "callsign": "WVXR",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1716617293470892000,
-        "score": 0.24995694
-      },
-      {
-        "id": "8ccce675-9f4d-4b44-538d-3dcb875f6271",
-        "file_id": "8ccce675-9f4d-4b44-538d-3dcb875f6271",
-        "file_name": "Vermont Public Co Bylaws 06.16.2021",
-        "file_extension": "pdf",
-        "file_size": 214742,
-        "file_status": "com_cpy",
-        "folder_id": "497ded23-e71c-c67c-d1d7-b3a5a836263a",
-        "create_ts": "2021-11-16T20:15:00.335Z",
-        "last_update_ts": "2021-11-16T20:14:51.377Z",
-        "active_ind": "Y",
-        "file_manager_id": "516090f3-244b-449e-bbe8-24503ad6427a",
-        "file_folder_path": "Ownership Reports/Additional Documents/Contracts and Agreements",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Contracts and Agreements/Vermont Public Co Bylaws 06.16.2021",
-        "entity_id": "69952",
-        "source_service_code": "FM",
-        "callsign": "WVPS",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1716617164396429300,
         "score": 0.24995694
       }
     ],
@@ -422,7 +422,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
-        "Issues and Programs Lists": 44100,
+        "Issues and Programs Lists": 44102,
         "Equal Employment Opportunity Records": 37027,
         "Donor Lists - Applicable Only for NCEs": 11397,
         "FCC Authorizations": 7173,
@@ -451,7 +451,7 @@
       "source_service_code": {
         "TV": 233663,
         "CABLE": 116223,
-        "FM": 109827,
+        "FM": 109829,
         "AM": 41034,
         "DBS": 5290
       },
@@ -473,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1735,
-    "processTime": 741,
-    "responseTime": 1741
+    "queryTime": 365,
+    "processTime": 374,
+    "responseTime": 374
   }
 }
