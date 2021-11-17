@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 506117,
+    "numFound": 506118,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "839e479e-c140-3843-deb7-c566ea55c7fc",
+        "file_id": "839e479e-c140-3843-deb7-c566ea55c7fc",
+        "file_name": "KSAZ LCV est 0169 1121501--1 Rev",
+        "file_extension": "pdf",
+        "file_size": 125125,
+        "file_status": "com_cpy",
+        "folder_id": "5c6fa444-d836-348d-9ffc-6f3abf1bc059",
+        "create_ts": "2021-11-17T22:09:48.498Z",
+        "last_update_ts": "2021-11-17T22:10:09.178Z",
+        "active_ind": "Y",
+        "file_manager_id": "12a89d54-ff96-4b6f-855f-314650bd2456",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders/KSAZ LCV est 0169 1121501--1 Rev",
+        "entity_id": "35587",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
+        "callsign": "KSAZ-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1716714984071757800,
+        "score": 0.24995694
+      },
       {
         "id": "194a6a6d-ca6f-1248-8319-a71c2af85d33",
         "file_id": "194a6a6d-ca6f-1248-8319-a71c2af85d33",
@@ -213,29 +237,6 @@
         "campaign_year": "2021",
         "_version_": 1716703065346670600,
         "score": 0.24995694
-      },
-      {
-        "id": "5e7836ea-1b47-7d71-f73e-a6569409cf93",
-        "file_id": "5e7836ea-1b47-7d71-f73e-a6569409cf93",
-        "file_name": "United States Justice Foundation__Flight 004__Dec 2021__Order__VOM",
-        "file_extension": "pdf",
-        "file_size": 199248,
-        "file_status": "com_cpy",
-        "folder_id": "34180e24-70a9-6569-8f60-0c81fe15a23b",
-        "create_ts": "2021-11-17T18:57:25.879Z",
-        "last_update_ts": "2021-11-17T18:57:16.76Z",
-        "active_ind": "Y",
-        "file_manager_id": "34ea4aed-890b-48f1-bf73-786e7f3c8ca4",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/United States Justice Foundation-2021",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/United States Justice Foundation-2021/United States Justice Foundation__Flight 004__Dec 2021__Order__VOM",
-        "entity_id": "4092",
-        "source_service_code": "FM",
-        "callsign": "WVOM-FM",
-        "political_file_type": "NCIA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1716702880850772000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -288,7 +289,7 @@
         "LINCOLN & HASTINGS-KRNY": 1539,
         "GREENVLL-SPART-ASHEVLL-AND": 1531,
         "MADISON": 1499,
-        "PHOENIX (PRESCOTT)": 1471,
+        "PHOENIX (PRESCOTT)": 1472,
         "MINOT-BISMARCK-DICKINSON": 1468,
         "BINGHAMTON": 1459,
         "FARGO-VALLEY CITY": 1410,
@@ -345,7 +346,7 @@
         "ABC": 57099,
         "NBC": 55897,
         "CBS": 38032,
-        "FOX": 27370,
+        "FOX": 27371,
         "PBS": 14197,
         "CW": 11993,
         "IND": 2984,
@@ -413,7 +414,7 @@
         "2018": 67961,
         "2019": 14078,
         "2020": 126016,
-        "2021": 20583,
+        "2021": 20584,
         "2022": 17,
         "KYAZ": 5,
         "Fede": 1
@@ -454,7 +455,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233669,
+        "TV": 233670,
         "CABLE": 116283,
         "FM": 109835,
         "AM": 41040,
@@ -462,7 +463,7 @@
       },
       "political_file_type": {
         "PA": 218509,
-        "NCIA": 120880
+        "NCIA": 120881
       }
     }
   },
@@ -478,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1737,
-    "processTime": 744,
-    "responseTime": 1744
+    "queryTime": 1732,
+    "processTime": 740,
+    "responseTime": 1740
   }
 }
