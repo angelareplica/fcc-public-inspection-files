@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 506156,
+    "numFound": 506157,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "d2d7cb9d-3018-b1d0-04b5-e236c6baecf0",
+        "file_id": "d2d7cb9d-3018-b1d0-04b5-e236c6baecf0",
+        "file_name": "Political issue_Florida Education Champions 11-15 to 12-03-2021 approved",
+        "file_extension": "pdf",
+        "file_size": 47217,
+        "file_status": "com_cpy",
+        "folder_id": "02cfe05b-8d5f-d466-4b3c-572d5ead2a4a",
+        "create_ts": "2021-11-18T21:00:55.794Z",
+        "last_update_ts": "2021-11-18T21:01:18.896Z",
+        "active_ind": "Y",
+        "file_manager_id": "1056ed51-2431-4536-b557-4e4906b12731",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/Political issue_Florida Education Champions 11-15 to 12-03-2021 approved",
+        "entity_id": "4341",
+        "source_service_code": "AM",
+        "callsign": "WURN",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1716801247427690500,
+        "score": 0.24995694
+      },
       {
         "id": "c3639c22-c316-56a3-1004-6fe1420dd35d",
         "file_id": "c3639c22-c316-56a3-1004-6fe1420dd35d",
@@ -216,30 +239,6 @@
         "campaign_year": "2021",
         "_version_": 1716791055901261800,
         "score": 0.24995694
-      },
-      {
-        "id": "cb6e0202-bb20-24d3-9cd5-b2d276651c73",
-        "file_id": "cb6e0202-bb20-24d3-9cd5-b2d276651c73",
-        "file_name": "11-03-21 to 11-09-21 ord",
-        "file_extension": "pdf",
-        "file_size": 310355,
-        "file_status": "com_cpy",
-        "folder_id": "4468228a-0dc1-5466-597a-8f5c6e763c48",
-        "create_ts": "2021-11-18T18:18:55.984Z",
-        "last_update_ts": "2021-11-18T18:18:56.483Z",
-        "active_ind": "Y",
-        "file_manager_id": "fbc3e975-155e-4d90-913b-f37a174bf5fd",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Action Network",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Action Network/11-03-21 to 11-09-21 ord",
-        "entity_id": "35870",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KVVU-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1716791055838347300,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -417,7 +416,7 @@
         "2018": 67960,
         "2019": 14078,
         "2020": 126016,
-        "2021": 20610,
+        "2021": 20611,
         "2022": 17,
         "KYAZ": 5,
         "Fede": 1
@@ -427,7 +426,7 @@
         "US Senate": 48606,
         "US House": 41474,
         "Presidential": 39052,
-        "Local": 23587
+        "Local": 23588
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -461,11 +460,11 @@
         "TV": 233698,
         "CABLE": 116283,
         "FM": 109843,
-        "AM": 41042,
+        "AM": 41043,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218510,
+        "PA": 218511,
         "NCIA": 120905
       }
     }
@@ -483,7 +482,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 204,
-    "processTime": 211,
-    "responseTime": 212
+    "processTime": 212,
+    "responseTime": 213
   }
 }
