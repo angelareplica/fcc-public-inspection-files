@@ -1,9 +1,76 @@
 {
   "response": {
-    "numFound": 506160,
+    "numFound": 506163,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "3aac4768-b654-1856-b175-b0f65fe81f22",
+        "file_id": "3aac4768-b654-1856-b175-b0f65fe81f22",
+        "file_name": "POL 028 Standing up for Florida 20211117164635297",
+        "file_extension": "pdf",
+        "file_size": 229266,
+        "file_status": "com_cpy",
+        "folder_id": "d316810d-651b-afa7-9aa4-a85dda72c44d",
+        "create_ts": "2021-11-18T22:35:08.003Z",
+        "last_update_ts": "2021-11-18T22:35:31.595Z",
+        "active_ind": "Y",
+        "file_manager_id": "c760c7f0-6abc-42b3-82b7-cf1c95f491b0",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/POL 028 Standing up for Florida 20211117164635297",
+        "entity_id": "60165",
+        "source_service_code": "TV",
+        "callsign": "WJAN-CD",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1716807174523453400,
+        "score": 0.24995694
+      },
+      {
+        "id": "c996a4d6-8459-0715-4f7a-07a7d4d4d18d",
+        "file_id": "c996a4d6-8459-0715-4f7a-07a7d4d4d18d",
+        "file_name": "POL 027 Standig up for Florida 20211117164644661",
+        "file_extension": "pdf",
+        "file_size": 226728,
+        "file_status": "com_cpy",
+        "folder_id": "d316810d-651b-afa7-9aa4-a85dda72c44d",
+        "create_ts": "2021-11-18T22:35:07.999Z",
+        "last_update_ts": "2021-11-18T22:34:58.663Z",
+        "active_ind": "Y",
+        "file_manager_id": "75ce480a-aabe-437f-a1de-521b0f713fb9",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/POL 027 Standig up for Florida 20211117164644661",
+        "entity_id": "60165",
+        "source_service_code": "TV",
+        "callsign": "WJAN-CD",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1716807174480461800,
+        "score": 0.24995694
+      },
+      {
+        "id": "bbc60134-0a1f-0768-bbe6-f186421563c4",
+        "file_id": "bbc60134-0a1f-0768-bbe6-f186421563c4",
+        "file_name": "POL 029 PAC Miami para Todos 20211118163803573",
+        "file_extension": "pdf",
+        "file_size": 440865,
+        "file_status": "com_cpy",
+        "folder_id": "0ebf60dc-f82d-117e-20e9-aa6166cc3120",
+        "create_ts": "2021-11-18T22:34:29.718Z",
+        "last_update_ts": "2021-11-18T22:34:20.313Z",
+        "active_ind": "Y",
+        "file_manager_id": "e8cb51c8-fba3-42d9-a804-91fca732e8a5",
+        "file_folder_path": "Political Files/2021/Local",
+        "full_qualified_file_name": "Political Files/2021/Local/POL 029 PAC Miami para Todos 20211118163803573",
+        "entity_id": "60165",
+        "source_service_code": "TV",
+        "callsign": "WJAN-CD",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1716807134264426500,
+        "score": 0.24995694
+      },
       {
         "id": "80eacc04-b170-22b7-f8c6-054fd421c4f0",
         "file_id": "80eacc04-b170-22b7-f8c6-054fd421c4f0",
@@ -171,75 +238,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2021",
         "_version_": 1716799590382960600,
-        "score": 0.24995694
-      },
-      {
-        "id": "1b7a96af-b013-0e4b-7eb1-fda5af36d79b",
-        "file_id": "1b7a96af-b013-0e4b-7eb1-fda5af36d79b",
-        "file_name": "Unite The Country Now PB19 WLNS EST 10640 ISCI CODE MM-UTCN-02H 30",
-        "file_extension": "pdf",
-        "file_size": 1132881,
-        "file_status": "com_cpy",
-        "folder_id": "d9181efc-c31c-5031-3537-393afa65c4c1",
-        "create_ts": "2021-11-18T20:33:53.24Z",
-        "last_update_ts": "2021-11-18T20:33:44.257Z",
-        "active_ind": "Y",
-        "file_manager_id": "62aedac6-88cb-4c09-950d-d73a2665e970",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Unite The Country Now",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Unite The Country Now/Unite The Country Now PB19 WLNS EST 10640 ISCI CODE MM-UTCN-02H 30",
-        "entity_id": "74420",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LANSING",
-        "callsign": "WLNS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1716799546711867400,
-        "score": 0.24995694
-      },
-      {
-        "id": "ffcc28a3-20fb-9e8f-b905-75985aac7c5e",
-        "file_id": "ffcc28a3-20fb-9e8f-b905-75985aac7c5e",
-        "file_name": "image-Y18141345-0001",
-        "file_extension": "pdf",
-        "file_size": 496357,
-        "file_status": "com_cpy",
-        "folder_id": "67175945-43a7-b00a-e5c5-154a368b1216",
-        "create_ts": "2021-11-18T20:19:07.843Z",
-        "last_update_ts": "2021-11-18T20:19:08.23Z",
-        "active_ind": "Y",
-        "file_manager_id": "b38626ee-2a56-4a79-8b96-9cfcecba35ba",
-        "file_folder_path": "Time Brokerage Agreements",
-        "full_qualified_file_name": "Time Brokerage Agreements/image-Y18141345-0001",
-        "entity_id": "24151",
-        "source_service_code": "FM",
-        "callsign": "KARN-FM",
-        "non_political_file_folder": "Time Brokerage Agreements",
-        "_version_": 1716798617889538000,
-        "score": 0.24995694
-      },
-      {
-        "id": "2365a65c-76ec-9bed-1cbd-ed8126640508",
-        "file_id": "2365a65c-76ec-9bed-1cbd-ed8126640508",
-        "file_name": "10-25-21 to 11-02-21 inv 1",
-        "file_extension": "pdf",
-        "file_size": 361366,
-        "file_status": "com_cpy",
-        "folder_id": "4468228a-0dc1-5466-597a-8f5c6e763c48",
-        "create_ts": "2021-11-18T18:30:54.622Z",
-        "last_update_ts": "2021-11-18T18:50:05.54Z",
-        "active_ind": "Y",
-        "file_manager_id": "f8c5255c-127e-41f3-bd32-f2481db5a33b",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Action Network",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Action Network/10-25-21 to 11-02-21 inv 1",
-        "entity_id": "35870",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KVVU-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1716792991849382000,
         "score": 0.24995694
       }
     ],
@@ -418,7 +416,7 @@
         "2018": 67959,
         "2019": 14078,
         "2020": 126016,
-        "2021": 20615,
+        "2021": 20618,
         "2022": 17,
         "KYAZ": 5,
         "Fede": 1
@@ -428,7 +426,7 @@
         "US Senate": 48606,
         "US House": 41473,
         "Presidential": 39052,
-        "Local": 23588
+        "Local": 23589
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -459,15 +457,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233701,
+        "TV": 233704,
         "CABLE": 116283,
         "FM": 109843,
         "AM": 41043,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218512,
-        "NCIA": 120907
+        "PA": 218513,
+        "NCIA": 120909
       }
     }
   },
@@ -483,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1738,
-    "processTime": 746,
-    "responseTime": 1747
+    "queryTime": 204,
+    "processTime": 211,
+    "responseTime": 212
   }
 }
