@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 506193,
+    "numFound": 506194,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "c2206ec0-d805-b306-5c7a-e1262b3a6463",
+        "file_id": "c2206ec0-d805-b306-5c7a-e1262b3a6463",
+        "file_name": "CALIFORNIA SOLAR AND STORAGE ASSOCIATION 092721-103121 2194940-1 INVOICE",
+        "file_extension": "pdf",
+        "file_size": 21192,
+        "file_status": "com_cpy",
+        "folder_id": "9ef3f956-59ba-c0bd-af49-bc1500409e4a",
+        "create_ts": "2021-11-19T23:34:15.259Z",
+        "last_update_ts": "2021-11-19T23:34:05.418Z",
+        "active_ind": "Y",
+        "file_manager_id": "7e5d2396-9285-4d52-a0e1-b9edb78bc15c",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/CALIFORNIA SOLAR AND STORAGE ASSOCIATION",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/CALIFORNIA SOLAR AND STORAGE ASSOCIATION/CALIFORNIA SOLAR AND STORAGE ASSOCIATION 092721-103121 2194940-1 INVOICE",
+        "entity_id": "33875",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
+        "callsign": "KCRA-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1716901490711330800,
+        "score": 0.24995694
+      },
       {
         "id": "042d3a51-9969-d040-df42-59c25fa044c9",
         "file_id": "042d3a51-9969-d040-df42-59c25fa044c9",
@@ -207,28 +231,6 @@
         "campaign_year": "2021",
         "_version_": 1716883195917500400,
         "score": 0.24995694
-      },
-      {
-        "id": "dc95fad6-ef63-2108-34cf-76b38b20ab75",
-        "file_id": "dc95fad6-ef63-2108-34cf-76b38b20ab75",
-        "file_name": "KMON FM ISSUE WILD MONTANA 11-22-21 TO 12-03-21",
-        "file_extension": "pdf",
-        "file_size": 2454482,
-        "file_status": "com_cpy",
-        "folder_id": "0f53a504-53a8-55f7-5772-409f72e6e57d",
-        "create_ts": "2021-11-19T18:41:27.611Z",
-        "last_update_ts": "2021-11-19T18:41:18.641Z",
-        "active_ind": "Y",
-        "file_manager_id": "eba071b7-d4d7-4f8f-b433-d87cae8d0375",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/WILD MONTANA/WILD MONTANA - BLACKFOOT CLEARWATER STEWARDSHIP ACT",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/WILD MONTANA/WILD MONTANA - BLACKFOOT CLEARWATER STEWARDSHIP ACT/KMON FM ISSUE WILD MONTANA 11-22-21 TO 12-03-21",
-        "entity_id": "62331",
-        "source_service_code": "FM",
-        "callsign": "KMON-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1716883070585405400,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -252,7 +254,7 @@
         "RALEIGH-DURHAM (FAYETVLLE)": 3177,
         "MINNEAPOLIS-ST. PAUL": 3162,
         "PORTLAND OR": 3146,
-        "SACRAMNTO-STKTON-MODESTO": 2789,
+        "SACRAMNTO-STKTON-MODESTO": 2790,
         "KANSAS CITY": 2743,
         "FT. WAYNE": 2714,
         "MILWAUKEE": 2625,
@@ -336,7 +338,7 @@
       },
       "network_affiliation": {
         "ABC": 57104,
-        "NBC": 55889,
+        "NBC": 55890,
         "CBS": 38034,
         "FOX": 27401,
         "PBS": 14210,
@@ -406,7 +408,7 @@
         "2018": 67959,
         "2019": 14078,
         "2020": 126005,
-        "2021": 20640,
+        "2021": 20641,
         "2022": 18,
         "KYAZ": 5,
         "Fede": 1
@@ -447,7 +449,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233715,
+        "TV": 233716,
         "CABLE": 116283,
         "FM": 109854,
         "AM": 41051,
@@ -455,7 +457,7 @@
       },
       "political_file_type": {
         "PA": 218509,
-        "NCIA": 120925
+        "NCIA": 120926
       }
     }
   },
@@ -471,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1734,
-    "processTime": 742,
-    "responseTime": 1742
+    "queryTime": 1732,
+    "processTime": 741,
+    "responseTime": 1741
   }
 }
