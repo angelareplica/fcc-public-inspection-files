@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 506191,
+    "numFound": 506193,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "042d3a51-9969-d040-df42-59c25fa044c9",
+        "file_id": "042d3a51-9969-d040-df42-59c25fa044c9",
+        "file_name": "0669_001",
+        "file_extension": "pdf",
+        "file_size": 397061,
+        "file_status": "com_cpy",
+        "folder_id": "fa8191fb-d6ae-f36b-60b9-aec0c2acd855",
+        "create_ts": "2021-11-19T23:03:59.833Z",
+        "last_update_ts": "2021-11-19T23:04:26.261Z",
+        "active_ind": "Y",
+        "file_manager_id": "d0a9b595-f2ef-430c-9173-c41f4ef98acc",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT ACTION",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT ACTION/0669_001",
+        "entity_id": "54703",
+        "source_service_code": "AM",
+        "callsign": "WALG",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1716899587415867400,
+        "score": 0.24995694
+      },
+      {
+        "id": "b7bd3dc7-af84-7039-3054-0faf95c708aa",
+        "file_id": "b7bd3dc7-af84-7039-3054-0faf95c708aa",
+        "file_name": "PIR - Domestic Energy Producers Alliance (Pyro Brand Development LLC) (003)R",
+        "file_extension": "pdf",
+        "file_size": 135655,
+        "file_status": "com_cpy",
+        "folder_id": "187c8a2d-d022-ea7f-35c8-42b7a5f25963",
+        "create_ts": "2021-11-19T23:04:30.003Z",
+        "last_update_ts": "2021-11-19T23:04:20.3Z",
+        "active_ind": "Y",
+        "file_manager_id": "bbd2beac-8ad2-4b8f-991e-b459ff802f91",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Domestic Energy Producers Alliance/DEPA Est 2200",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Domestic Energy Producers Alliance/DEPA Est 2200/PIR - Domestic Energy Producers Alliance (Pyro Brand Development LLC) (003)R",
+        "entity_id": "47904",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WASHINGTON DC (HAGRSTWN)",
+        "callsign": "WRC-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1716899618883633200,
+        "score": 0.24995694
+      },
       {
         "id": "904d5473-4e90-b4e3-a072-c51ff0675c75",
         "file_id": "904d5473-4e90-b4e3-a072-c51ff0675c75",
@@ -183,52 +229,6 @@
         "campaign_year": "2021",
         "_version_": 1716883070585405400,
         "score": 0.24995694
-      },
-      {
-        "id": "178e401d-b312-39bc-82d4-2729b64d3e69",
-        "file_id": "178e401d-b312-39bc-82d4-2729b64d3e69",
-        "file_name": "KMON FM ISSUE WILD MONTANA 11-22-21 TO 12-03-21",
-        "file_extension": "pdf",
-        "file_size": 2454482,
-        "file_status": "com_cpy",
-        "folder_id": "b01f2722-377e-ac97-aceb-6ca74ef5f977",
-        "create_ts": "2021-11-19T18:40:09.989Z",
-        "last_update_ts": "2021-11-19T18:40:10.873Z",
-        "active_ind": "Y",
-        "file_manager_id": "188ceff6-adff-45c3-afdc-f348e45bf789",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/WILD MONTANA/WILD MONTANA - SENATOR DAINES",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/WILD MONTANA/WILD MONTANA - SENATOR DAINES/KMON FM ISSUE WILD MONTANA 11-22-21 TO 12-03-21",
-        "entity_id": "62331",
-        "source_service_code": "FM",
-        "callsign": "KMON-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1716882989069107200,
-        "score": 0.24995694
-      },
-      {
-        "id": "25956b4e-7b8a-9c9f-abd7-b6843d821adb",
-        "file_id": "25956b4e-7b8a-9c9f-abd7-b6843d821adb",
-        "file_name": "American Action Network WWBT NAB PB-19 form estimate 1903 order 2278697 ad Message VA-07 30 seconds",
-        "file_extension": "pdf",
-        "file_size": 132198,
-        "file_status": "com_cpy",
-        "folder_id": "eda0d7c1-1070-5cdf-e7dd-184a185a5730",
-        "create_ts": "2021-11-19T18:35:52.192Z",
-        "last_update_ts": "2021-11-19T18:35:52.384Z",
-        "active_ind": "Y",
-        "file_manager_id": "101da9c4-49b3-4478-962a-7bd57f7d0d11",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/American Action Network",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/American Action Network/American Action Network WWBT NAB PB-19 form estimate 1903 order 2278697 ad Message VA-07 30 seconds",
-        "entity_id": "30833",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "RICHMOND-PETERSBURG",
-        "callsign": "WWBT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1716882718020599800,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -273,7 +273,7 @@
         "ROCHESTR-MASON CITY-AUSTIN": 1983,
         "SIOUX CITY": 1936,
         "GREAT FALLS": 1923,
-        "WASHINGTON DC (HAGRSTWN)": 1900,
+        "WASHINGTON DC (HAGRSTWN)": 1901,
         "LA CROSSE-EAU CLAIRE": 1802,
         "BLUEFIELD-BECKLEY-OAK HILL": 1760,
         "ALBUQUERQUE-SANTA FE": 1702,
@@ -336,7 +336,7 @@
       },
       "network_affiliation": {
         "ABC": 57104,
-        "NBC": 55888,
+        "NBC": 55889,
         "CBS": 38034,
         "FOX": 27401,
         "PBS": 14210,
@@ -406,7 +406,7 @@
         "2018": 67959,
         "2019": 14078,
         "2020": 126005,
-        "2021": 20638,
+        "2021": 20640,
         "2022": 18,
         "KYAZ": 5,
         "Fede": 1
@@ -447,15 +447,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233714,
+        "TV": 233715,
         "CABLE": 116283,
         "FM": 109854,
-        "AM": 41050,
+        "AM": 41051,
         "DBS": 5290
       },
       "political_file_type": {
         "PA": 218509,
-        "NCIA": 120923
+        "NCIA": 120925
       }
     }
   },
@@ -471,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1737,
-    "processTime": 744,
-    "responseTime": 1744
+    "queryTime": 1734,
+    "processTime": 742,
+    "responseTime": 1742
   }
 }
