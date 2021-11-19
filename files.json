@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 506186,
+    "numFound": 506187,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "6ca9865b-ab42-8837-b2a5-380a58ff0606",
+        "file_id": "6ca9865b-ab42-8837-b2a5-380a58ff0606",
+        "file_name": "Political Disclosureandrates 08-13-2021_AndreForAtlanta",
+        "file_extension": "docx",
+        "file_size": 39579,
+        "file_status": "com_prc",
+        "folder_id": "a05b6b4a-224e-2907-f4ec-338f102e7343",
+        "create_ts": "2021-11-19T19:05:01.212Z",
+        "last_update_ts": "2021-11-19T19:05:47.996Z",
+        "active_ind": "Y",
+        "file_manager_id": "02a5919b-5251-4b5d-ad06-3f9133786fcf",
+        "file_folder_path": "Political Files/2021/Local/ANDRE FOR ATLANTA INC",
+        "full_qualified_file_name": "Political Files/2021/Local/ANDRE FOR ATLANTA INC/Political Disclosureandrates 08-13-2021_AndreForAtlanta",
+        "entity_id": "24562",
+        "source_service_code": "FM",
+        "callsign": "WPZE",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1716884574132240400,
+        "score": 0.24995694
+      },
       {
         "id": "88cb9533-da15-b229-abd8-c9f2c9a55dc8",
         "file_id": "88cb9533-da15-b229-abd8-c9f2c9a55dc8",
@@ -200,27 +223,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1716879382660776000,
         "score": 0.24995694
-      },
-      {
-        "id": "04d8ac0b-564f-26de-9370-6f07de27308a",
-        "file_id": "04d8ac0b-564f-26de-9370-6f07de27308a",
-        "file_name": "BIT -- PBS ANNUAL EEO PUBLIC FILE REPORT 2021 Updated-c3 (002)",
-        "file_extension": "docx",
-        "file_size": 26440,
-        "file_status": "com_prc",
-        "folder_id": "e974dcaf-9f21-6436-e816-1944bb0a9dbb",
-        "create_ts": "2021-11-19T17:32:37.743Z",
-        "last_update_ts": "2021-11-19T17:32:38.872Z",
-        "active_ind": "Y",
-        "file_manager_id": "f0129fc7-914e-4b44-8d2e-c000f5a1edcf",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/BIT -- PBS ANNUAL EEO PUBLIC FILE REPORT 2021 Updated-c3 (002)",
-        "entity_id": "58325",
-        "source_service_code": "FM",
-        "callsign": "KQSD-FM",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1716878740236009500,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -398,7 +400,7 @@
         "2018": 67959,
         "2019": 14078,
         "2020": 126005,
-        "2021": 20634,
+        "2021": 20635,
         "2022": 18,
         "KYAZ": 5,
         "Fede": 1
@@ -408,7 +410,7 @@
         "US Senate": 48607,
         "US House": 41473,
         "Presidential": 39043,
-        "Local": 23589
+        "Local": 23590
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -441,12 +443,12 @@
       "source_service_code": {
         "TV": 233713,
         "CABLE": 116283,
-        "FM": 109853,
+        "FM": 109854,
         "AM": 41047,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218506,
+        "PA": 218507,
         "NCIA": 120922
       }
     }
@@ -463,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1821,
-    "processTime": 839,
-    "responseTime": 1839
+    "queryTime": 213,
+    "processTime": 221,
+    "responseTime": 222
   }
 }
