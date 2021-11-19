@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 506187,
+    "numFound": 506188,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "acfa4a8d-f783-ce61-10ae-b5960e2e4d04",
+        "file_id": "acfa4a8d-f783-ce61-10ae-b5960e2e4d04",
+        "file_name": "League of Conservation Voters PAC  - #0196  11.22.21 - 11.29.21",
+        "file_extension": "pdf",
+        "file_size": 327693,
+        "file_status": "com_cpy",
+        "folder_id": "75733277-9372-979f-0cf1-61d2f31030d4",
+        "create_ts": "2021-11-19T20:04:20.085Z",
+        "last_update_ts": "2021-11-19T20:04:10.975Z",
+        "active_ind": "Y",
+        "file_manager_id": "fbf7b2fd-0695-453f-b094-a7b6ccf84ccc",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters PAC",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters PAC/League of Conservation Voters PAC  - #0196  11.22.21 - 11.29.21",
+        "entity_id": "74416",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "RICHMOND-PETERSBURG",
+        "callsign": "WRIC-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1716888284455501800,
+        "score": 0.24995694
+      },
       {
         "id": "6ca9865b-ab42-8837-b2a5-380a58ff0606",
         "file_id": "6ca9865b-ab42-8837-b2a5-380a58ff0606",
@@ -202,27 +226,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1716880087571234800,
         "score": 0.24995694
-      },
-      {
-        "id": "dcfeb578-791d-e77b-3015-b87b7e4bed31",
-        "file_id": "dcfeb578-791d-e77b-3015-b87b7e4bed31",
-        "file_name": "BIT -- PBS ANNUAL EEO PUBLIC FILE REPORT 2021 Updated-c3 (002)",
-        "file_extension": "docx",
-        "file_size": 26440,
-        "file_status": "com_prc",
-        "folder_id": "c3104900-8ecd-f528-4991-6750795c238f",
-        "create_ts": "2021-11-19T17:42:34.99Z",
-        "last_update_ts": "2021-11-19T17:42:41.574Z",
-        "active_ind": "Y",
-        "file_manager_id": "7278d7f2-7367-4003-ba8e-01d15d86d37b",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/BIT -- PBS ANNUAL EEO PUBLIC FILE REPORT 2021 Updated-c3 (002)",
-        "entity_id": "58326",
-        "source_service_code": "FM",
-        "callsign": "KTSD-FM",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1716879382660776000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -329,7 +332,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57103,
+        "ABC": 57104,
         "NBC": 55888,
         "CBS": 38034,
         "FOX": 27401,
@@ -400,7 +403,7 @@
         "2018": 67959,
         "2019": 14078,
         "2020": 126005,
-        "2021": 20635,
+        "2021": 20636,
         "2022": 18,
         "KYAZ": 5,
         "Fede": 1
@@ -441,7 +444,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233713,
+        "TV": 233714,
         "CABLE": 116283,
         "FM": 109854,
         "AM": 41047,
@@ -449,7 +452,7 @@
       },
       "political_file_type": {
         "PA": 218507,
-        "NCIA": 120922
+        "NCIA": 120923
       }
     }
   },
@@ -465,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1359,
-    "processTime": 366,
-    "responseTime": 1366
+    "queryTime": 1734,
+    "processTime": 741,
+    "responseTime": 1741
   }
 }
