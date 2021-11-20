@@ -2,6 +2,6 @@
   "responseStatus": {
     "status": 400,
     "type": "Bad Request",
-    "err": "SyntaxError: Unexpected token   in JSON at position 0"
+    "err": "SyntaxError: Unexpected end of JSON input"
   }
 }
