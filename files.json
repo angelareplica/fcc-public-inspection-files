@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 506217,
+    "numFound": 506208,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "c6e9e47f-ac49-cac4-ce67-74470e2fee9c",
+        "file_id": "c6e9e47f-ac49-cac4-ce67-74470e2fee9c",
+        "file_name": "Est 000101",
+        "file_extension": "PDF",
+        "file_size": 127113,
+        "file_status": "com_cpy",
+        "folder_id": "0c3ff98e-c916-4af4-f5cc-b26ff2521c34",
+        "create_ts": "2021-11-22T23:06:18.304Z",
+        "last_update_ts": "2021-11-22T23:06:18.568Z",
+        "active_ind": "Y",
+        "file_manager_id": "9c5da3d2-0729-41f0-959e-82cb017a9748",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Future Majority",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Future Majority/Est 000101",
+        "entity_id": "5243",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "BEND OR",
+        "callsign": "KSVI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1717171523236659200,
+        "score": 0.24995694
+      },
       {
         "id": "253c7211-7c32-5ece-345f-d563a155d023",
         "file_id": "253c7211-7c32-5ece-345f-d563a155d023",
@@ -204,28 +228,6 @@
         "campaign_year": "2021",
         "_version_": 1717166691007332400,
         "score": 0.24995694
-      },
-      {
-        "id": "dd7ac374-4ce4-c4be-1333-76f022c6a553",
-        "file_id": "dd7ac374-4ce4-c4be-1333-76f022c6a553",
-        "file_name": "kwmz - 2021 11 18b - north shore wins - station order - revision 003",
-        "file_extension": "pdf",
-        "file_size": 12562,
-        "file_status": "com_cpy",
-        "folder_id": "7d9e07fc-7091-f50f-0a70-a0d24ebe61bc",
-        "create_ts": "2021-11-22T21:49:26.603Z",
-        "last_update_ts": "2021-11-22T21:49:26.784Z",
-        "active_ind": "Y",
-        "file_manager_id": "53af9e4e-802d-4613-b29f-e544040dba7a",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/kwmz - 2021 11 18b - north shore wins - station order - revision 003",
-        "entity_id": "89100",
-        "source_service_code": "FM",
-        "callsign": "KWMZ-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1717166687407571000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -254,7 +256,7 @@
         "FT. WAYNE": 2714,
         "MILWAUKEE": 2625,
         "FRESNO-VISALIA": 2603,
-        "BEND OR": 2598,
+        "BEND OR": 2599,
         "GREENSBORO-H.POINT-W.SALEM": 2518,
         "CHICAGO": 2506,
         "SAVANNAH": 2417,
@@ -332,7 +334,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57105,
+        "ABC": 57106,
         "NBC": 55891,
         "CBS": 38034,
         "FOX": 27403,
@@ -400,19 +402,19 @@
         "2015": 6083,
         "2016": 68684,
         "2017": 10334,
-        "2018": 67959,
-        "2019": 14077,
+        "2018": 67952,
+        "2019": 14074,
         "2020": 126005,
-        "2021": 20664,
+        "2021": 20665,
         "2022": 18,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64801,
+        "State": 64797,
         "US Senate": 48611,
-        "US House": 41473,
-        "Presidential": 39042,
+        "US House": 41472,
+        "Presidential": 39041,
         "Local": 23592
       },
       "non_political_file_folder": {
@@ -444,15 +446,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233721,
+        "TV": 233722,
         "CABLE": 116284,
-        "FM": 109867,
-        "AM": 41055,
+        "FM": 109861,
+        "AM": 41051,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218512,
-        "NCIA": 120945
+        "PA": 218506,
+        "NCIA": 120942
       }
     }
   },
@@ -468,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 356,
-    "processTime": 362,
-    "responseTime": 362
+    "queryTime": 1916,
+    "processTime": 923,
+    "responseTime": 1923
   }
 }
