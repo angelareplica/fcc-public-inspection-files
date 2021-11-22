@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 506208,
+    "numFound": 506210,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "89aa1fdf-bac2-5ce5-7d4b-05b6799f32ad",
+        "file_id": "89aa1fdf-bac2-5ce5-7d4b-05b6799f32ad",
+        "file_name": "Shaheen For Senate Est 909914 WNHW 09-07 to 09-13",
+        "file_extension": "pdf",
+        "file_size": 191042,
+        "file_status": "com_cpy",
+        "folder_id": "c0ce0b25-d7b7-2742-a5be-66dec7673a79",
+        "create_ts": "2020-09-11T16:24:28.347Z",
+        "last_update_ts": "2021-11-22T23:39:59.326Z",
+        "active_ind": "Y",
+        "file_manager_id": "c53d6740-e79d-4cd3-8e3c-fbb8c7180722",
+        "file_folder_path": "Political Files/2020/Federal/US Senate/SHAHEEN FOR SENATE",
+        "full_qualified_file_name": "Political Files/2020/Federal/US Senate/SHAHEEN FOR SENATE/Shaheen For Senate Est 909914 WNHW 09-07 to 09-13",
+        "entity_id": "54908",
+        "source_service_code": "FM",
+        "callsign": "WNHW",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2020",
+        "_version_": 1717173653371617300,
+        "score": 0.24995694
+      },
+      {
+        "id": "33fc2a40-25b7-7451-759e-7af03e3f96f2",
+        "file_id": "33fc2a40-25b7-7451-759e-7af03e3f96f2",
+        "file_name": "Bolduc 2020 WNHW 09-03-20 to 09-04-20",
+        "file_extension": "pdf",
+        "file_size": 573894,
+        "file_status": "com_cpy",
+        "folder_id": "33b8fbce-a24b-bf0e-1733-bdd267bc3b8d",
+        "create_ts": "2020-09-02T18:25:56.458Z",
+        "last_update_ts": "2021-11-22T23:37:24.087Z",
+        "active_ind": "Y",
+        "file_manager_id": "ee661704-7336-4fbb-a2fa-591e91f9eb9c",
+        "file_folder_path": "Political Files/2020/Federal/US Senate/BOLDUC 2020",
+        "full_qualified_file_name": "Political Files/2020/Federal/US Senate/BOLDUC 2020/Bolduc 2020 WNHW 09-03-20 to 09-04-20",
+        "entity_id": "54908",
+        "source_service_code": "FM",
+        "callsign": "WNHW",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2020",
+        "_version_": 1717173443277881300,
+        "score": 0.24995694
+      },
       {
         "id": "c6e9e47f-ac49-cac4-ce67-74470e2fee9c",
         "file_id": "c6e9e47f-ac49-cac4-ce67-74470e2fee9c",
@@ -184,50 +230,6 @@
         "campaign_year": "2021",
         "_version_": 1717166685974167600,
         "score": 0.24995694
-      },
-      {
-        "id": "3fc811fd-0570-f4e6-2e9b-75a514a910e5",
-        "file_id": "3fc811fd-0570-f4e6-2e9b-75a514a910e5",
-        "file_name": "kwmz - 2021 11 18b - north shore wins - agency order - revision 001",
-        "file_extension": "pdf",
-        "file_size": 218422,
-        "file_status": "com_cpy",
-        "folder_id": "7d9e07fc-7091-f50f-0a70-a0d24ebe61bc",
-        "create_ts": "2021-11-22T21:49:29.732Z",
-        "last_update_ts": "2021-11-22T21:49:30.426Z",
-        "active_ind": "Y",
-        "file_manager_id": "84103a20-44e3-44b4-bbde-43c418044332",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/kwmz - 2021 11 18b - north shore wins - agency order - revision 001",
-        "entity_id": "89100",
-        "source_service_code": "FM",
-        "callsign": "KWMZ-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1717166691233824800,
-        "score": 0.24995694
-      },
-      {
-        "id": "2e8c263f-6f6c-e46f-f8bb-6b4b31dd6c03",
-        "file_id": "2e8c263f-6f6c-e46f-f8bb-6b4b31dd6c03",
-        "file_name": "kwmz - 2021 11 18a - north shore wins - agency order - revision 003",
-        "file_extension": "pdf",
-        "file_size": 218427,
-        "file_status": "com_cpy",
-        "folder_id": "7d9e07fc-7091-f50f-0a70-a0d24ebe61bc",
-        "create_ts": "2021-11-22T21:49:29.656Z",
-        "last_update_ts": "2021-11-22T21:49:30.209Z",
-        "active_ind": "Y",
-        "file_manager_id": "5bfb09df-d0cd-444c-ae76-313e1710beab",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/kwmz - 2021 11 18a - north shore wins - agency order - revision 003",
-        "entity_id": "89100",
-        "source_service_code": "FM",
-        "callsign": "KWMZ-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1717166691007332400,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -404,7 +406,7 @@
         "2017": 10334,
         "2018": 67952,
         "2019": 14074,
-        "2020": 126005,
+        "2020": 126007,
         "2021": 20665,
         "2022": 18,
         "KYAZ": 5,
@@ -412,7 +414,7 @@
       },
       "office_type": {
         "State": 64797,
-        "US Senate": 48611,
+        "US Senate": 48613,
         "US House": 41472,
         "Presidential": 39041,
         "Local": 23592
@@ -448,12 +450,12 @@
       "source_service_code": {
         "TV": 233722,
         "CABLE": 116284,
-        "FM": 109861,
+        "FM": 109863,
         "AM": 41051,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218506,
+        "PA": 218508,
         "NCIA": 120942
       }
     }
@@ -470,8 +472,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1916,
-    "processTime": 923,
-    "responseTime": 1923
+    "queryTime": 358,
+    "processTime": 365,
+    "responseTime": 365
   }
 }
