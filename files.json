@@ -1,9 +1,52 @@
 {
   "response": {
-    "numFound": 506222,
+    "numFound": 506224,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "ee029abf-80d0-0539-97b1-541e776659a6",
+        "file_id": "ee029abf-80d0-0539-97b1-541e776659a6",
+        "file_name": "AM21-026 Americas PAC_GA-GNN 10.28.21",
+        "file_extension": "pdf",
+        "file_size": 72066,
+        "file_status": "com_cpy",
+        "folder_id": "9233d503-1b29-ebb5-7853-81d69c46c2f8",
+        "create_ts": "2021-11-23T16:32:03.31Z",
+        "last_update_ts": "2021-11-23T16:31:52.775Z",
+        "active_ind": "Y",
+        "file_manager_id": "3c3235ca-0f8c-4ccb-acbf-4ac3bcfd0a4b",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/AM21-026 Americas PAC_GA-GNN 10.28.21",
+        "entity_id": "70116",
+        "source_service_code": "AM",
+        "callsign": "WVOP",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1717237316188110800,
+        "score": 0.24995694
+      },
+      {
+        "id": "ce04c4d9-2604-34d9-3b3d-bd0ed9e186f0",
+        "file_id": "ce04c4d9-2604-34d9-3b3d-bd0ed9e186f0",
+        "file_name": "Schedule & Update-01",
+        "file_extension": "pdf",
+        "file_size": 151434,
+        "file_status": "com_cpy",
+        "folder_id": "ffabf4af-d8d2-dbaf-1747-1dfe20674d44",
+        "create_ts": "2021-11-23T15:49:13.136Z",
+        "last_update_ts": "2021-11-23T15:49:13.485Z",
+        "active_ind": "Y",
+        "file_manager_id": "443e1966-6676-4da9-a176-76ce667e5cee",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/McCarthy Victory Fund",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/McCarthy Victory Fund/Schedule & Update-01",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1717234621174775800,
+        "score": 0.24995694
+      },
       {
         "id": "2b4b5b14-f8c2-0281-902c-afdf7a3f7423",
         "file_id": "2b4b5b14-f8c2-0281-902c-afdf7a3f7423",
@@ -197,54 +240,6 @@
         "non_political_file_folder": "FCC Authorizations",
         "_version_": 1717224901466652700,
         "score": 0.24995694
-      },
-      {
-        "id": "9f47eca0-5efd-8ab1-82f6-203b15f50e10",
-        "file_id": "9f47eca0-5efd-8ab1-82f6-203b15f50e10",
-        "file_name": "KSNV CLARK COUNTY EDUCATION ASSOCATION EST 001 REQ REV2",
-        "file_extension": "pdf",
-        "file_size": 493503,
-        "file_status": "com_cpy",
-        "folder_id": "ad0b00c0-59b1-7834-d9d9-bc0545910020",
-        "create_ts": "2021-11-23T00:41:49.936Z",
-        "last_update_ts": "2021-11-23T00:41:50.4Z",
-        "active_ind": "Y",
-        "file_manager_id": "f9a963d3-1483-4035-8c78-66b8ab3e50a7",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Clark County Education Association",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Clark County Education Association/KSNV CLARK COUNTY EDUCATION ASSOCATION EST 001 REQ REV2",
-        "entity_id": "10179",
-        "source_service_code": "TV",
-        "network_affiliation": "MYTV",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KSNV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1717177533474013200,
-        "score": 0.24995694
-      },
-      {
-        "id": "99f8b3b6-ab03-7994-4328-812b313adf19",
-        "file_id": "99f8b3b6-ab03-7994-4328-812b313adf19",
-        "file_name": "KSNV CLARK COUNTY EDUCATION ASSOCIATION EST 001 ORD REV2",
-        "file_extension": "pdf",
-        "file_size": 385563,
-        "file_status": "com_cpy",
-        "folder_id": "ad0b00c0-59b1-7834-d9d9-bc0545910020",
-        "create_ts": "2021-11-23T00:41:49.748Z",
-        "last_update_ts": "2021-11-23T00:41:39.595Z",
-        "active_ind": "Y",
-        "file_manager_id": "d90120cb-c5fc-4a0b-aef1-5d92fae28eb7",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Clark County Education Association",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Clark County Education Association/KSNV CLARK COUNTY EDUCATION ASSOCIATION EST 001 ORD REV2",
-        "entity_id": "10179",
-        "source_service_code": "TV",
-        "network_affiliation": "MYTV",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KSNV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1717177533396418600,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -422,7 +417,7 @@
         "2018": 67952,
         "2019": 14074,
         "2020": 126007,
-        "2021": 20676,
+        "2021": 20677,
         "2022": 18,
         "KYAZ": 5,
         "Fede": 1
@@ -439,7 +434,7 @@
         "Issues and Programs Lists": 44097,
         "Equal Employment Opportunity Records": 37057,
         "Donor Lists - Applicable Only for NCEs": 11397,
-        "FCC Authorizations": 7174,
+        "FCC Authorizations": 7175,
         "Local Public Notice Announcements": 1750,
         "Applications and Related Materials": 1634,
         "Availability of Signals": 1504,
@@ -465,13 +460,13 @@
       "source_service_code": {
         "TV": 233726,
         "CABLE": 116290,
-        "FM": 109864,
-        "AM": 41052,
+        "FM": 109865,
+        "AM": 41053,
         "DBS": 5290
       },
       "political_file_type": {
         "PA": 218515,
-        "NCIA": 120946
+        "NCIA": 120947
       }
     }
   },
@@ -487,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 223,
-    "responseTime": 224
+    "queryTime": 1748,
+    "processTime": 756,
+    "responseTime": 1756
   }
 }
