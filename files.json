@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 506221,
+    "numFound": 506222,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "2b4b5b14-f8c2-0281-902c-afdf7a3f7423",
+        "file_id": "2b4b5b14-f8c2-0281-902c-afdf7a3f7423",
+        "file_name": "Schedule & Update-01",
+        "file_extension": "pdf",
+        "file_size": 151434,
+        "file_status": "com_cpy",
+        "folder_id": "3b4e4fad-209f-e07b-e8bc-6c45f8fb2823",
+        "create_ts": "2021-11-23T15:43:52.194Z",
+        "last_update_ts": "2021-11-23T15:43:52.605Z",
+        "active_ind": "Y",
+        "file_manager_id": "e1651f62-dc46-4d76-b53a-4979eb5f7831",
+        "file_folder_path": "Political Files/2021/Federal/US House/McCarthy Victory Fund",
+        "full_qualified_file_name": "Political Files/2021/Federal/US House/McCarthy Victory Fund/Schedule & Update-01",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2021",
+        "_version_": 1717234284709806000,
+        "score": 0.24995694
+      },
       {
         "id": "7f88fd0f-4231-327d-1436-4b529d747bb3",
         "file_id": "7f88fd0f-4231-327d-1436-4b529d747bb3",
@@ -222,30 +245,6 @@
         "campaign_year": "2021",
         "_version_": 1717177533396418600,
         "score": 0.24995694
-      },
-      {
-        "id": "6b9a6419-3d0b-8f9f-19a0-788dc6ad82fc",
-        "file_id": "6b9a6419-3d0b-8f9f-19a0-788dc6ad82fc",
-        "file_name": "11-29-21 to 12-06-21 ord",
-        "file_extension": "pdf",
-        "file_size": 313227,
-        "file_status": "com_cpy",
-        "folder_id": "0779c6b7-3d71-7b54-a21f-3fa3ce2d0270",
-        "create_ts": "2021-11-23T00:21:38.041Z",
-        "last_update_ts": "2021-11-23T00:21:38.401Z",
-        "active_ind": "Y",
-        "file_manager_id": "3e888aff-4ce7-4d77-ad5a-dd4ade917a98",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters/11-29-21 to 12-06-21 ord",
-        "entity_id": "35870",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KVVU-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1717176262606192600,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -423,7 +422,7 @@
         "2018": 67952,
         "2019": 14074,
         "2020": 126007,
-        "2021": 20675,
+        "2021": 20676,
         "2022": 18,
         "KYAZ": 5,
         "Fede": 1
@@ -431,7 +430,7 @@
       "office_type": {
         "State": 64803,
         "US Senate": 48613,
-        "US House": 41472,
+        "US House": 41473,
         "Presidential": 39041,
         "Local": 23592
       },
@@ -466,12 +465,12 @@
       "source_service_code": {
         "TV": 233726,
         "CABLE": 116290,
-        "FM": 109863,
+        "FM": 109864,
         "AM": 41052,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218514,
+        "PA": 218515,
         "NCIA": 120946
       }
     }
@@ -488,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 273,
-    "processTime": 281,
-    "responseTime": 282
+    "queryTime": 214,
+    "processTime": 223,
+    "responseTime": 224
   }
 }
