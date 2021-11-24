@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 506245,
+    "numFound": 506244,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "467229d7-9906-996e-b638-1bbae53dce4e",
+        "file_id": "467229d7-9906-996e-b638-1bbae53dce4e",
+        "file_name": "americas-pac-order-35503720-120121-012822",
+        "file_extension": "pdf",
+        "file_size": 73092,
+        "file_status": "com_cpy",
+        "folder_id": "bccd1870-10b5-3ec6-9ba0-fa5b0b286973",
+        "create_ts": "2021-11-24T18:56:33.516Z",
+        "last_update_ts": "2021-11-24T18:56:22.713Z",
+        "active_ind": "Y",
+        "file_manager_id": "f0e667ce-1ff9-4080-90ed-4695aece39b7",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/americas-pac-order-35503720-120121-012822",
+        "entity_id": "61527",
+        "source_service_code": "FM",
+        "callsign": "KWNR",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1717337004453134300,
+        "score": 0.24995694
+      },
+      {
+        "id": "5373ddf4-42c2-c9d4-142a-94254602ada6",
+        "file_id": "5373ddf4-42c2-c9d4-142a-94254602ada6",
+        "file_name": "americas-pac-nab-35503722-120121-012822",
+        "file_extension": "pdf",
+        "file_size": 165915,
+        "file_status": "com_cpy",
+        "folder_id": "de4d0b42-7d21-47b7-ad83-1ee10642271a",
+        "create_ts": "2021-11-24T18:55:03.659Z",
+        "last_update_ts": "2021-11-24T18:55:43.72Z",
+        "active_ind": "Y",
+        "file_manager_id": "d80061b6-6c0d-45ff-91be-c887a065515e",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/americas-pac-nab-35503722-120121-012822",
+        "entity_id": "71525",
+        "source_service_code": "FM",
+        "callsign": "KSNE-FM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1717336910486044700,
+        "score": 0.24995694
+      },
       {
         "id": "02f30fa5-7e64-1756-a36b-ad644011fb85",
         "file_id": "02f30fa5-7e64-1756-a36b-ad644011fb85",
@@ -184,52 +228,6 @@
         "campaign_year": "2021",
         "_version_": 1717257501337976800,
         "score": 0.24995694
-      },
-      {
-        "id": "cadf5133-b7ce-0657-25cf-7c70ab791c59",
-        "file_id": "cadf5133-b7ce-0657-25cf-7c70ab791c59",
-        "file_name": "Future Majority Inc 11.22.21",
-        "file_extension": "pdf",
-        "file_size": 153505,
-        "file_status": "com_cpy",
-        "folder_id": "78bb896e-e1bf-50aa-fa66-901abd8ff850",
-        "create_ts": "2021-11-23T21:33:16.339Z",
-        "last_update_ts": "2021-11-23T21:33:53.68Z",
-        "active_ind": "Y",
-        "file_manager_id": "c9b1302c-1c3f-4384-a4f9-9731ea584733",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Future Majority Inc/Est 000101",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Future Majority Inc/Est 000101/Future Majority Inc 11.22.21",
-        "entity_id": "73875",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "PITTSBURGH",
-        "callsign": "WPGH-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1717256267144102000,
-        "score": 0.24995694
-      },
-      {
-        "id": "972c7cfc-1e59-e108-a782-929ff50d7d9e",
-        "file_id": "972c7cfc-1e59-e108-a782-929ff50d7d9e",
-        "file_name": "Community Oncology Proof of payment 11-23",
-        "file_extension": "pdf",
-        "file_size": 83989,
-        "file_status": "com_cpy",
-        "folder_id": "2335c585-1503-36e1-2de0-bb8d4fc57dc2",
-        "create_ts": "2021-11-23T21:33:06.196Z",
-        "last_update_ts": "2021-11-23T21:33:43.529Z",
-        "active_ind": "Y",
-        "file_manager_id": "69984d4b-0c51-4ad6-af2e-fd2bb07ce280",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Community Oncology Alliance/11-22-21 - 12-05-21",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Community Oncology Alliance/11-22-21 - 12-05-21/Community Oncology Proof of payment 11-23",
-        "entity_id": "4380",
-        "source_service_code": "FM",
-        "callsign": "WSHK",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1717256256498958300,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -407,7 +405,7 @@
         "2018": 67950,
         "2019": 14067,
         "2020": 125996,
-        "2021": 20721,
+        "2021": 20723,
         "2022": 18,
         "KYAZ": 5,
         "Fede": 1
@@ -422,7 +420,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
         "Issues and Programs Lists": 44097,
-        "Equal Employment Opportunity Records": 37052,
+        "Equal Employment Opportunity Records": 37049,
         "Donor Lists - Applicable Only for NCEs": 11397,
         "FCC Authorizations": 7176,
         "Local Public Notice Announcements": 1750,
@@ -450,13 +448,13 @@
       "source_service_code": {
         "TV": 233730,
         "CABLE": 116314,
-        "FM": 109855,
-        "AM": 41056,
+        "FM": 109857,
+        "AM": 41053,
         "DBS": 5290
       },
       "political_file_type": {
         "PA": 218496,
-        "NCIA": 120990
+        "NCIA": 120992
       }
     }
   },
@@ -472,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 214,
-    "responseTime": 215
+    "queryTime": 1850,
+    "processTime": 862,
+    "responseTime": 1863
   }
 }
