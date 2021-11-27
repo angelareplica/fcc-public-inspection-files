@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 506253,
+    "numFound": 506254,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "bda5f15e-f3cf-e739-039f-1d8a354d61fe",
+        "file_id": "bda5f15e-f3cf-e739-039f-1d8a354d61fe",
+        "file_name": "Wild Montana 11-23_12-03 (Confirmation)",
+        "file_extension": "pdf",
+        "file_size": 22870,
+        "file_status": "com_cpy",
+        "folder_id": "6e5d07ea-67eb-043f-21d6-572dc905d502",
+        "create_ts": "2021-11-27T16:02:28.727Z",
+        "last_update_ts": "2021-11-27T16:02:17.412Z",
+        "active_ind": "Y",
+        "file_manager_id": "dbb1e270-db64-4c5c-86e6-6837fa8b831c",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Wild Montana",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Wild Montana/Wild Montana 11-23_12-03 (Confirmation)",
+        "entity_id": "42379",
+        "source_service_code": "AM",
+        "callsign": "KMTA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1717597843273810000,
+        "score": 0.24995694
+      },
       {
         "id": "5f5d0610-917e-ecf3-7a56-327a11995301",
         "file_id": "5f5d0610-917e-ecf3-7a56-327a11995301",
@@ -207,28 +229,6 @@
         "campaign_year": "2021",
         "_version_": 1717341943178985500,
         "score": 0.24995694
-      },
-      {
-        "id": "467229d7-9906-996e-b638-1bbae53dce4e",
-        "file_id": "467229d7-9906-996e-b638-1bbae53dce4e",
-        "file_name": "americas-pac-order-35503720-120121-012822",
-        "file_extension": "pdf",
-        "file_size": 73092,
-        "file_status": "com_cpy",
-        "folder_id": "bccd1870-10b5-3ec6-9ba0-fa5b0b286973",
-        "create_ts": "2021-11-24T18:56:33.516Z",
-        "last_update_ts": "2021-11-24T18:56:22.713Z",
-        "active_ind": "Y",
-        "file_manager_id": "f0e667ce-1ff9-4080-90ed-4695aece39b7",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/americas-pac-order-35503720-120121-012822",
-        "entity_id": "61527",
-        "source_service_code": "FM",
-        "callsign": "KWNR",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1717337004453134300,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -406,7 +406,7 @@
         "2018": 67950,
         "2019": 14067,
         "2020": 125996,
-        "2021": 20728,
+        "2021": 20729,
         "2022": 18,
         "KYAZ": 5,
         "Fede": 1
@@ -450,12 +450,12 @@
         "TV": 233735,
         "CABLE": 116314,
         "FM": 109860,
-        "AM": 41054,
+        "AM": 41055,
         "DBS": 5290
       },
       "political_file_type": {
         "PA": 218496,
-        "NCIA": 120997
+        "NCIA": 120998
       }
     }
   },
@@ -471,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 64,
-    "processTime": 72,
-    "responseTime": 72
+    "queryTime": 205,
+    "processTime": 246,
+    "responseTime": 246
   }
 }
