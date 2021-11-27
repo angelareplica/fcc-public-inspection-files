@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 506254,
+    "numFound": 506255,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "d837d61b-a9e0-23fb-2b89-ad0eb84dc759",
+        "file_id": "d837d61b-a9e0-23fb-2b89-ad0eb84dc759",
+        "file_name": "WTTN PB-19 - PFW 10.25.21 (002)",
+        "file_extension": "pdf",
+        "file_size": 2679047,
+        "file_status": "com_cpy",
+        "folder_id": "b50e4c93-41df-02fe-9ead-efadb141b48b",
+        "create_ts": "2021-11-27T18:01:29.066Z",
+        "last_update_ts": "2021-11-27T18:01:30.497Z",
+        "active_ind": "Y",
+        "file_manager_id": "79a69036-eba2-4d72-afac-2c8be8b4ec1a",
+        "file_folder_path": "Political Files/2021/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/WTTN PB-19 - PFW 10.25.21 (002)",
+        "entity_id": "71092",
+        "source_service_code": "AM",
+        "callsign": "WTTN",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1717605331475890200,
+        "score": 0.24995694
+      },
       {
         "id": "bda5f15e-f3cf-e739-039f-1d8a354d61fe",
         "file_id": "bda5f15e-f3cf-e739-039f-1d8a354d61fe",
@@ -205,30 +228,6 @@
         "campaign_year": "2021",
         "_version_": 1717346465375846400,
         "score": 0.24995694
-      },
-      {
-        "id": "23055d40-3072-1035-fe96-ad902147b3f2",
-        "file_id": "23055d40-3072-1035-fe96-ad902147b3f2",
-        "file_name": "League of Cons. Voters 11-24-21 WRLH 0196",
-        "file_extension": "pdf",
-        "file_size": 359927,
-        "file_status": "com_cpy",
-        "folder_id": "64526fe2-2908-3fb6-b085-320fdf3a0b88",
-        "create_ts": "2021-11-24T20:15:02.964Z",
-        "last_update_ts": "2021-11-24T20:15:03.752Z",
-        "active_ind": "Y",
-        "file_manager_id": "f590f9c5-c97d-4e15-ade1-f5c8da2a2ddf",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/LCV",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/LCV/League of Cons. Voters 11-24-21 WRLH 0196",
-        "entity_id": "412",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "RICHMOND-PETERSBURG",
-        "callsign": "WRLH-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1717341943178985500,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -406,14 +405,14 @@
         "2018": 67950,
         "2019": 14067,
         "2020": 125996,
-        "2021": 20729,
+        "2021": 20730,
         "2022": 18,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64803,
-        "US Senate": 48611,
+        "US Senate": 48612,
         "US House": 41472,
         "Presidential": 39025,
         "Local": 23592
@@ -450,11 +449,11 @@
         "TV": 233735,
         "CABLE": 116314,
         "FM": 109860,
-        "AM": 41055,
+        "AM": 41056,
         "DBS": 5290
       },
       "political_file_type": {
-        "PA": 218496,
+        "PA": 218497,
         "NCIA": 120998
       }
     }
@@ -471,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 214,
-    "responseTime": 215
+    "queryTime": 205,
+    "processTime": 217,
+    "responseTime": 218
   }
 }
