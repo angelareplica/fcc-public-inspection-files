@@ -5,6 +5,30 @@
     "maxScore": 0.50016385,
     "docs": [
       {
+        "id": "a5d7e78d-93a9-0120-df03-afbd9bcbc513",
+        "file_id": "a5d7e78d-93a9-0120-df03-afbd9bcbc513",
+        "file_name": "KHGI KFXL FCC Posting Delay Document 03313021",
+        "file_extension": "docx",
+        "file_size": 18859,
+        "file_status": "com_prc",
+        "folder_id": "f706726b-5c99-0ee7-2991-5a687527bbca",
+        "create_ts": "2021-11-29T20:40:24.46Z",
+        "last_update_ts": "2021-11-29T20:40:28.019Z",
+        "active_ind": "Y",
+        "file_manager_id": "b5ac0ea8-029b-4ac4-a408-be77fe1677bc",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/FACEBOOK",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/FACEBOOK/KHGI KFXL FCC Posting Delay Document 03313021",
+        "entity_id": "21162",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "LINCOLN & HASTINGS-KRNY",
+        "callsign": "KWNB-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1717796539054686200,
+        "score": 0.24995694
+      },
+      {
         "id": "1442c3dc-5433-76f0-5aa4-a2873cc3b6c2",
         "file_id": "1442c3dc-5433-76f0-5aa4-a2873cc3b6c2",
         "file_name": "WMME - Coalition for American Jobs est. 6120 IO 11.30-12.5",
@@ -200,27 +224,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1717791165132046300,
         "score": 0.24995694
-      },
-      {
-        "id": "7b1f3d00-6780-3f8b-0c6c-67082c8cd149",
-        "file_id": "7b1f3d00-6780-3f8b-0c6c-67082c8cd149",
-        "file_name": "0911091718",
-        "file_extension": "pdf",
-        "file_size": 269398,
-        "file_status": "com_cpy",
-        "folder_id": "838729ec-1bd9-eef5-9686-4b7f5feb1a48",
-        "create_ts": "2021-11-29T19:15:14.544Z",
-        "last_update_ts": "2021-11-29T19:16:08.943Z",
-        "active_ind": "Y",
-        "file_manager_id": "c088f66d-ad0e-4b5d-b533-5663f4a91a4c",
-        "file_folder_path": "Issues and Programs Lists/2018/Q3 2018",
-        "full_qualified_file_name": "Issues and Programs Lists/2018/Q3 2018/0911091718",
-        "entity_id": "60695",
-        "source_service_code": "AM",
-        "callsign": "WRCA",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1717791165100589000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -270,7 +273,7 @@
         "BLUEFIELD-BECKLEY-OAK HILL": 1761,
         "ALBUQUERQUE-SANTA FE": 1702,
         "ROCKFORD": 1619,
-        "LINCOLN & HASTINGS-KRNY": 1541,
+        "LINCOLN & HASTINGS-KRNY": 1542,
         "GREENVLL-SPART-ASHEVLL-AND": 1531,
         "MADISON": 1499,
         "PHOENIX (PRESCOTT)": 1474,
@@ -327,8 +330,8 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57109,
-        "NBC": 55893,
+        "ABC": 57110,
+        "NBC": 55892,
         "CBS": 38035,
         "FOX": 27411,
         "PBS": 14211,
@@ -463,7 +466,7 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1750,
+    "queryTime": 1748,
     "processTime": 757,
     "responseTime": 1758
   }
