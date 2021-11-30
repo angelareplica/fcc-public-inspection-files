@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 506391,
+    "numFound": 506392,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "b5cb4715-0f82-fcfd-0931-440fb7930094",
+        "file_id": "b5cb4715-0f82-fcfd-0931-440fb7930094",
+        "file_name": "WMIN EEO PUBLIC FILE REPORT DEC-01-20 to NOV-30-21",
+        "file_extension": "pdf",
+        "file_size": 112294,
+        "file_status": "com_cpy",
+        "folder_id": "0886f18e-806c-6c9c-6fbe-c225d55652ac",
+        "create_ts": "2021-11-30T20:33:27.145Z",
+        "last_update_ts": "2021-11-30T20:37:51.249Z",
+        "active_ind": "Y",
+        "file_manager_id": "901053bb-2e09-4e12-878a-e47ede7e316a",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/WMIN EEO PUBLIC FILE REPORT DEC-01-20 to NOV-30-21",
+        "entity_id": "161428",
+        "source_service_code": "AM",
+        "callsign": "WMIN",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1717886958718419000,
+        "score": 0.24995694
+      },
       {
         "id": "0c5653d6-3e4c-dfbb-fea6-acc6b7c46b6d",
         "file_id": "0c5653d6-3e4c-dfbb-fea6-acc6b7c46b6d",
@@ -203,28 +224,6 @@
         "campaign_year": "2021",
         "_version_": 1717880652557189000,
         "score": 0.24995694
-      },
-      {
-        "id": "d8d171a0-8bf5-2315-388f-2c9b15da83c4",
-        "file_id": "d8d171a0-8bf5-2315-388f-2c9b15da83c4",
-        "file_name": "Coalition For American Jobs__Flight 001 Revised__Nov 2021__Order__KISS",
-        "file_extension": "pdf",
-        "file_size": 184651,
-        "file_status": "com_cpy",
-        "folder_id": "07b6874b-d7f4-c810-3b4c-449d373d9c67",
-        "create_ts": "2021-11-30T18:56:20.195Z",
-        "last_update_ts": "2021-11-30T18:56:08.243Z",
-        "active_ind": "Y",
-        "file_manager_id": "d3c43f46-0cef-4b7a-9504-9c97dbef0c4d",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Coalition For American Jobs- 2021",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Coalition For American Jobs- 2021/Coalition For American Jobs__Flight 001 Revised__Nov 2021__Order__KISS",
-        "entity_id": "341",
-        "source_service_code": "FM",
-        "callsign": "WKSQ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1717880572366291000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -417,7 +416,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
         "Issues and Programs Lists": 44112,
-        "Equal Employment Opportunity Records": 37050,
+        "Equal Employment Opportunity Records": 37051,
         "Donor Lists - Applicable Only for NCEs": 11397,
         "FCC Authorizations": 7191,
         "Local Public Notice Announcements": 1750,
@@ -446,7 +445,7 @@
         "TV": 233789,
         "CABLE": 116315,
         "FM": 109918,
-        "AM": 41078,
+        "AM": 41079,
         "DBS": 5291
       },
       "political_file_type": {
@@ -467,8 +466,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1737,
-    "processTime": 744,
-    "responseTime": 1744
+    "queryTime": 213,
+    "processTime": 221,
+    "responseTime": 221
   }
 }
