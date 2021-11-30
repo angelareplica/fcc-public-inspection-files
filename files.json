@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 506374,
+    "numFound": 506375,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "0abacb4e-c66c-9bac-85f8-b0c5ec7f34fe",
+        "file_id": "0abacb4e-c66c-9bac-85f8-b0c5ec7f34fe",
+        "file_name": "Americans 4 Security OK NAB PB-19 A4S - OK-04 v2",
+        "file_extension": "pdf",
+        "file_size": 162882,
+        "file_status": "com_cpy",
+        "folder_id": "63f6d7f2-36b1-7ce2-7817-d026e65c2ed9",
+        "create_ts": "2021-11-30T17:48:19.202Z",
+        "last_update_ts": "2021-11-30T17:48:07.417Z",
+        "active_ind": "Y",
+        "file_manager_id": "b400a608-6fb2-4e9b-bd29-80dae736295a",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AMERICANS FOR SECURITY",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AMERICANS FOR SECURITY/Americans 4 Security OK NAB PB-19 A4S - OK-04 v2",
+        "entity_id": "DISH",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1717876293293310000,
+        "score": 0.24995694
+      },
       {
         "id": "e2297801-6873-8578-e24c-2e6458f761a8",
         "file_id": "e2297801-6873-8578-e24c-2e6458f761a8",
@@ -196,28 +217,6 @@
         "campaign_year": "2021",
         "_version_": 1717870360224858000,
         "score": 0.24995694
-      },
-      {
-        "id": "2b57a19b-6591-6c4d-b657-a053b2f98831",
-        "file_id": "2b57a19b-6591-6c4d-b657-a053b2f98831",
-        "file_name": "WOKQ - Community Oncology Alliance est. 315 IO 11.29-12.5 Update",
-        "file_extension": "pdf",
-        "file_size": 71215,
-        "file_status": "com_cpy",
-        "folder_id": "f302ddb8-5b94-cb70-3768-caf6ceeec9b3",
-        "create_ts": "2021-11-30T16:14:00.869Z",
-        "last_update_ts": "2021-11-30T16:14:01.379Z",
-        "active_ind": "Y",
-        "file_manager_id": "aed058a9-19ae-4479-b507-ebb3dfaec773",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Community Oncology Alliance/11-22-21 - 12-05-21",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Community Oncology Alliance/11-22-21 - 12-05-21/WOKQ - Community Oncology Alliance est. 315 IO 11.29-12.5 Update",
-        "entity_id": "22887",
-        "source_service_code": "FM",
-        "callsign": "WOKQ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1717870359899799600,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -395,7 +394,7 @@
         "2018": 67948,
         "2019": 14068,
         "2020": 126017,
-        "2021": 20796,
+        "2021": 20797,
         "2022": 19,
         "KYAZ": 5,
         "Fede": 1
@@ -440,11 +439,11 @@
         "CABLE": 116315,
         "FM": 109907,
         "AM": 41074,
-        "DBS": 5290
+        "DBS": 5291
       },
       "political_file_type": {
         "PA": 218524,
-        "NCIA": 121058
+        "NCIA": 121059
       }
     }
   },
@@ -460,8 +459,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1740,
-    "processTime": 749,
-    "responseTime": 1750
+    "queryTime": 1738,
+    "processTime": 746,
+    "responseTime": 1747
   }
 }
