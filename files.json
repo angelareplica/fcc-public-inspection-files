@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 506426,
+    "numFound": 506425,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
@@ -424,7 +424,7 @@
         "FCC Investigations or Complaints": 1424,
         "Must-Carry or Retransmission Consent": 1335,
         "Childrens TV Programming Reports": 1144,
-        "Ownership Reports": 1111,
+        "Ownership Reports": 1110,
         "Class A TV Continuing Eligibility": 636,
         "Political Matters and Controversial Issues Disclosures": 590,
         "State and Local Franchising Related Materials": 477,
@@ -443,7 +443,7 @@
       "source_service_code": {
         "TV": 233792,
         "CABLE": 116315,
-        "FM": 109931,
+        "FM": 109930,
         "AM": 41097,
         "DBS": 5291
       },
@@ -465,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 237,
-    "processTime": 243,
-    "responseTime": 244
+    "queryTime": 1740,
+    "processTime": 748,
+    "responseTime": 1749
   }
 }
