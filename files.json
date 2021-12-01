@@ -1,9 +1,54 @@
 {
   "response": {
-    "numFound": 506424,
+    "numFound": 506426,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "5490580d-c18a-6fae-d599-435730073c38",
+        "file_id": "5490580d-c18a-6fae-d599-435730073c38",
+        "file_name": "Mainers for Fair Laws Nov Inv 024720",
+        "file_extension": "pdf",
+        "file_size": 11710,
+        "file_status": "com_cpy",
+        "folder_id": "48d5b668-afe5-534b-46eb-3a42d0a0d627",
+        "create_ts": "2021-12-01T14:35:08.464Z",
+        "last_update_ts": "2021-12-01T14:34:56.288Z",
+        "active_ind": "Y",
+        "file_manager_id": "b7314d03-68e3-40a0-a283-07ae17186017",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Mainers For Fair Laws",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Mainers For Fair Laws/Mainers for Fair Laws Nov Inv 024720",
+        "entity_id": "66712",
+        "source_service_code": "FM",
+        "callsign": "WNSX",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1717954736256188400,
+        "score": 0.24995694
+      },
+      {
+        "id": "03c9ab70-cb87-cae9-5675-2bfe41a71e62",
+        "file_id": "03c9ab70-cb87-cae9-5675-2bfe41a71e62",
+        "file_name": "Abigail Miller - Schl Brd Nov Inv 024721",
+        "file_extension": "pdf",
+        "file_size": 10911,
+        "file_status": "com_cpy",
+        "folder_id": "c57824ac-db00-4cba-9789-a6a08cf65ff4",
+        "create_ts": "2021-12-01T14:33:46.432Z",
+        "last_update_ts": "2021-12-01T14:33:34.22Z",
+        "active_ind": "Y",
+        "file_manager_id": "e95324c5-e433-4d8c-a7d6-d76a42525821",
+        "file_folder_path": "Political Files/2021/Local/Abigail Miller",
+        "full_qualified_file_name": "Political Files/2021/Local/Abigail Miller/Abigail Miller - Schl Brd Nov Inv 024721",
+        "entity_id": "66712",
+        "source_service_code": "FM",
+        "callsign": "WNSX",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1717954650224722000,
+        "score": 0.24995694
+      },
       {
         "id": "3d45beb7-9265-4e84-7777-de175ffbbc65",
         "file_id": "3d45beb7-9265-4e84-7777-de175ffbbc65",
@@ -177,48 +222,6 @@
         "callsign": "WJML",
         "non_political_file_folder": "FCC Investigations or Complaints",
         "_version_": 1717893474206875600,
-        "score": 0.24995694
-      },
-      {
-        "id": "e4c72f40-4d93-0c65-180f-7e310e50c8ac",
-        "file_id": "e4c72f40-4d93-0c65-180f-7e310e50c8ac",
-        "file_name": "MN Compliance Officer Certification - signed (01573624xB3D1E)",
-        "file_extension": "pdf",
-        "file_size": 89494,
-        "file_status": "com_cpy",
-        "folder_id": "4796df45-9c16-4d3a-0d01-fb2f4e6ae1a3",
-        "create_ts": "2021-11-30T22:19:26.676Z",
-        "last_update_ts": "2021-11-30T22:20:24.074Z",
-        "active_ind": "Y",
-        "file_manager_id": "81616942-bb42-42b4-8972-dfd9fb3be34a",
-        "file_folder_path": "FCC Investigations or Complaints",
-        "full_qualified_file_name": "FCC Investigations or Complaints/MN Compliance Officer Certification - signed (01573624xB3D1E)",
-        "entity_id": "4599",
-        "source_service_code": "AM",
-        "callsign": "WJNL",
-        "non_political_file_folder": "FCC Investigations or Complaints",
-        "_version_": 1717893350839812000,
-        "score": 0.24995694
-      },
-      {
-        "id": "c6e74aa0-9856-22f8-3c34-d625177a8417",
-        "file_id": "c6e74aa0-9856-22f8-3c34-d625177a8417",
-        "file_name": "Mitten News Political File Compliance Member Certification (01575003xB3D1E)",
-        "file_extension": "pdf",
-        "file_size": 339153,
-        "file_status": "com_cpy",
-        "folder_id": "4796df45-9c16-4d3a-0d01-fb2f4e6ae1a3",
-        "create_ts": "2021-11-30T22:19:29.102Z",
-        "last_update_ts": "2021-11-30T22:19:29.725Z",
-        "active_ind": "Y",
-        "file_manager_id": "0880d2c3-54e4-4fbc-9ac2-bf2d56578278",
-        "file_folder_path": "FCC Investigations or Complaints",
-        "full_qualified_file_name": "FCC Investigations or Complaints/Mitten News Political File Compliance Member Certification (01575003xB3D1E)",
-        "entity_id": "4599",
-        "source_service_code": "AM",
-        "callsign": "WJNL",
-        "non_political_file_folder": "FCC Investigations or Complaints",
-        "_version_": 1717893353448669200,
         "score": 0.24995694
       }
     ],
@@ -397,7 +400,7 @@
         "2018": 67948,
         "2019": 14068,
         "2020": 126017,
-        "2021": 20810,
+        "2021": 20812,
         "2022": 19,
         "KYAZ": 5,
         "Fede": 1
@@ -407,7 +410,7 @@
         "US Senate": 48639,
         "US House": 41472,
         "Presidential": 39025,
-        "Local": 23594
+        "Local": 23595
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -440,13 +443,13 @@
       "source_service_code": {
         "TV": 233792,
         "CABLE": 116315,
-        "FM": 109929,
+        "FM": 109931,
         "AM": 41097,
         "DBS": 5291
       },
       "political_file_type": {
-        "PA": 218527,
-        "NCIA": 121069
+        "PA": 218528,
+        "NCIA": 121070
       }
     }
   },
@@ -462,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 213,
-    "processTime": 219,
-    "responseTime": 220
+    "queryTime": 237,
+    "processTime": 243,
+    "responseTime": 244
   }
 }
