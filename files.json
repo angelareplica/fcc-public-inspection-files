@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 506422,
+    "numFound": 506423,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "e2d90427-7a64-b881-d76e-b3bef220545f",
+        "file_id": "e2d90427-7a64-b881-d76e-b3bef220545f",
+        "file_name": "Articles of Incorporation Northern California ETV Assn. Inc. (06-2021)",
+        "file_extension": "pdf",
+        "file_size": 222936,
+        "file_status": "com_cpy",
+        "folder_id": "2a8ac413-29bf-9890-8703-68d6ce9f27b8",
+        "create_ts": "2021-12-01T00:29:30.221Z",
+        "last_update_ts": "2021-12-01T00:29:18.378Z",
+        "active_ind": "Y",
+        "file_manager_id": "8d862be6-9446-4d3b-924b-eabac3fbfb2e",
+        "file_folder_path": "Ownership Reports/Additional Documents/ARTICLES OF INCORPORATION",
+        "full_qualified_file_name": "Ownership Reports/Additional Documents/ARTICLES OF INCORPORATION/Articles of Incorporation Northern California ETV Assn. Inc. (06-2021)",
+        "entity_id": "47285",
+        "source_service_code": "TV",
+        "network_affiliation": "PBS",
+        "nielsen_dma_rank": "CHICO-REDDING",
+        "callsign": "KIXE-TV",
+        "non_political_file_folder": "Ownership Reports",
+        "_version_": 1717901533590323200,
+        "score": 0.24995694
+      },
       {
         "id": "f2a4c96b-44a1-0db0-edbf-307f1427ca2c",
         "file_id": "f2a4c96b-44a1-0db0-edbf-307f1427ca2c",
@@ -195,27 +218,6 @@
         "non_political_file_folder": "FCC Investigations or Complaints",
         "_version_": 1717893349244928000,
         "score": 0.24995694
-      },
-      {
-        "id": "b3909656-1890-5459-5d21-3e6de4d31bb6",
-        "file_id": "b3909656-1890-5459-5d21-3e6de4d31bb6",
-        "file_name": "Mitten News LLC Consent Decree Political Spreadsheet 112021 (01573449xB3D1E).xlsx (01575779xB3D1E)",
-        "file_extension": "xlsx",
-        "file_size": 19745,
-        "file_status": "com_prc",
-        "folder_id": "4796df45-9c16-4d3a-0d01-fb2f4e6ae1a3",
-        "create_ts": "2021-11-30T22:19:22.907Z",
-        "last_update_ts": "2021-11-30T22:19:24.458Z",
-        "active_ind": "Y",
-        "file_manager_id": "b543caf5-4437-435b-b866-0ffcf19877a7",
-        "file_folder_path": "FCC Investigations or Complaints",
-        "full_qualified_file_name": "FCC Investigations or Complaints/Mitten News LLC Consent Decree Political Spreadsheet 112021 (01573449xB3D1E).xlsx (01575779xB3D1E)",
-        "entity_id": "4599",
-        "source_service_code": "AM",
-        "callsign": "WJNL",
-        "non_political_file_folder": "FCC Investigations or Complaints",
-        "_version_": 1717893347927916500,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -326,7 +328,7 @@
         "NBC": 55893,
         "CBS": 38033,
         "FOX": 27411,
-        "PBS": 14211,
+        "PBS": 14212,
         "CW": 12008,
         "IND": 2985,
         "MYTV": 2232,
@@ -417,7 +419,7 @@
         "FCC Investigations or Complaints": 1424,
         "Must-Carry or Retransmission Consent": 1335,
         "Childrens TV Programming Reports": 1144,
-        "Ownership Reports": 1109,
+        "Ownership Reports": 1110,
         "Class A TV Continuing Eligibility": 636,
         "Political Matters and Controversial Issues Disclosures": 590,
         "State and Local Franchising Related Materials": 477,
@@ -434,7 +436,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233790,
+        "TV": 233791,
         "CABLE": 116315,
         "FM": 109929,
         "AM": 41097,
@@ -458,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1748,
-    "processTime": 756,
-    "responseTime": 1757
+    "queryTime": 1737,
+    "processTime": 744,
+    "responseTime": 1745
   }
 }
