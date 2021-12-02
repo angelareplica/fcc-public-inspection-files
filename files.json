@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 506495,
+    "numFound": 506497,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "a62343ed-ecfd-149b-24c8-27a53abf62ef",
+        "file_id": "a62343ed-ecfd-149b-24c8-27a53abf62ef",
+        "file_name": "ISSUE (Non-candidate) ADVERTISEMENT (003)",
+        "file_extension": "pdf",
+        "file_size": 853188,
+        "file_status": "com_cpy",
+        "folder_id": "8939e8c6-edbd-fe19-1761-99ae076fc077",
+        "create_ts": "2021-12-02T15:36:14.883Z",
+        "last_update_ts": "2021-12-02T15:36:03.242Z",
+        "active_ind": "Y",
+        "file_manager_id": "8c068a3e-99fb-445f-8d46-a6c7fb9de440",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Facebook/Disclosures",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Facebook/Disclosures/ISSUE (Non-candidate) ADVERTISEMENT (003)",
+        "entity_id": "30826",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "CHARLOTTE",
+        "callsign": "WBTV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1718049178558398500,
+        "score": 0.24995694
+      },
+      {
+        "id": "ce26cc3f-12e5-1a17-f27d-753fec65f2ad",
+        "file_id": "ce26cc3f-12e5-1a17-f27d-753fec65f2ad",
+        "file_name": "ILFB - Issue_Miller - 2021-12-01",
+        "file_extension": "pdf",
+        "file_size": 1237808,
+        "file_status": "com_cpy",
+        "folder_id": "e6f4e193-66ba-3611-174e-032650b3e169",
+        "create_ts": "2021-12-02T15:26:36.537Z",
+        "last_update_ts": "2021-12-02T15:27:38.944Z",
+        "active_ind": "Y",
+        "file_manager_id": "1a66299f-9b72-44ed-81cc-f4f24427ecce",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/ILFB - Issue_Miller - 2021-12-01",
+        "entity_id": "70348",
+        "source_service_code": "AM",
+        "callsign": "WEBQ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1718048571527266300,
+        "score": 0.24995694
+      },
       {
         "id": "1458799e-bdfa-0191-fa96-49688fb359aa",
         "file_id": "1458799e-bdfa-0191-fa96-49688fb359aa",
@@ -189,51 +235,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1717979121518116900,
         "score": 0.24995694
-      },
-      {
-        "id": "ca071504-fc68-9c35-0ef3-333694fd7ac9",
-        "file_id": "ca071504-fc68-9c35-0ef3-333694fd7ac9",
-        "file_name": "EEO Program Report 2021 Renewals WFMX WSKW WCTB File 0000175592 Submitted 12_1_2021",
-        "file_extension": "pdf",
-        "file_size": 185263,
-        "file_status": "com_cpy",
-        "folder_id": "9a129db7-7898-99db-fddf-658159300409",
-        "create_ts": "2021-12-01T21:00:08.226Z",
-        "last_update_ts": "2021-12-01T21:01:08.359Z",
-        "active_ind": "Y",
-        "file_manager_id": "c2dce58c-68bd-48ce-840c-f124f086de37",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Renewal Program Report",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Renewal Program Report/EEO Program Report 2021 Renewals WFMX WSKW WCTB File 0000175592 Submitted 12_1_2021",
-        "entity_id": "46351",
-        "source_service_code": "AM",
-        "callsign": "WSKW",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1717978958259028000,
-        "score": 0.24995694
-      },
-      {
-        "id": "ec0c923e-665b-a01c-aada-20b868b14f19",
-        "file_id": "ec0c923e-665b-a01c-aada-20b868b14f19",
-        "file_name": "Est 000101 Actual",
-        "file_extension": "PDF",
-        "file_size": 63259,
-        "file_status": "com_cpy",
-        "folder_id": "d6492442-25ae-b590-8af5-0a753873e15f",
-        "create_ts": "2021-12-01T20:36:09.179Z",
-        "last_update_ts": "2021-12-01T20:36:09.691Z",
-        "active_ind": "Y",
-        "file_manager_id": "86ae993d-2656-4580-940c-faa4ff6085a5",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Future Majority",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Future Majority/Est 000101 Actual",
-        "entity_id": "47670",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "BILLINGS",
-        "callsign": "KHMT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1717977449167323100,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -298,7 +299,7 @@
         "PROVIDENCE-NEW BEDFORD": 1200,
         "ANCHORAGE": 1190,
         "LOS ANGELES": 1131,
-        "CHARLOTTE": 1114,
+        "CHARLOTTE": 1115,
         "JOHNSTOWN-ALTOONA-ST COLGE": 1113,
         "SALT LAKE CITY": 1104,
         "GLENDIVE": 1081,
@@ -342,7 +343,7 @@
       "network_affiliation": {
         "ABC": 57126,
         "NBC": 55893,
-        "CBS": 38033,
+        "CBS": 38034,
         "FOX": 27422,
         "PBS": 14212,
         "CW": 12009,
@@ -411,7 +412,7 @@
         "2018": 67948,
         "2019": 14068,
         "2020": 126017,
-        "2021": 20879,
+        "2021": 20881,
         "2022": 20,
         "KYAZ": 5,
         "Fede": 1
@@ -452,15 +453,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233803,
+        "TV": 233804,
         "CABLE": 116348,
         "FM": 109953,
-        "AM": 41100,
+        "AM": 41101,
         "DBS": 5291
       },
       "political_file_type": {
         "PA": 218576,
-        "NCIA": 121090
+        "NCIA": 121092
       }
     }
   },
@@ -476,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1747,
-    "processTime": 758,
-    "responseTime": 1758
+    "queryTime": 207,
+    "processTime": 216,
+    "responseTime": 216
   }
 }
