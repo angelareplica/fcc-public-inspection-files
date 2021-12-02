@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 506514,
+    "numFound": 506515,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "7771f493-e35a-d59a-78b2-c5929e53339c",
+        "file_id": "7771f493-e35a-d59a-78b2-c5929e53339c",
+        "file_name": "Univision Issue Ads Intake 10-08-19 REVISED 2",
+        "file_extension": "docx",
+        "file_size": 36316,
+        "file_status": "com_prc",
+        "folder_id": "58714db0-e4a0-d704-d185-072da73c4ef2",
+        "create_ts": "2021-12-02T20:34:23.323Z",
+        "last_update_ts": "2021-12-02T20:34:12.406Z",
+        "active_ind": "Y",
+        "file_manager_id": "af699031-5b94-478b-84a1-9f1ab48dd17a",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/BETTER JOBS TOGETHER CAMPAIGN",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/BETTER JOBS TOGETHER CAMPAIGN/Univision Issue Ads Intake 10-08-19 REVISED 2",
+        "entity_id": "67071",
+        "source_service_code": "FM",
+        "callsign": "KROM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1718067936739983400,
+        "score": 0.24995694
+      },
       {
         "id": "f4586811-01c5-9bf1-1820-e2d408251944",
         "file_id": "f4586811-01c5-9bf1-1820-e2d408251944",
@@ -217,27 +239,6 @@
         "campaign_year": "2021",
         "_version_": 1718053440706314200,
         "score": 0.24995694
-      },
-      {
-        "id": "8e99ae5c-a9bb-d238-cb07-510d60ea3c81",
-        "file_id": "8e99ae5c-a9bb-d238-cb07-510d60ea3c81",
-        "file_name": "fl.2021.12.01 Rado Redentor 2021 Biennial Ownership Report (01577015xB3D1E)",
-        "file_extension": "pdf",
-        "file_size": 56624,
-        "file_status": "com_cpy",
-        "folder_id": "f4bcc88c-7fb5-4cf4-cda7-408f368df60f",
-        "create_ts": "2021-12-02T16:38:06.753Z",
-        "last_update_ts": "2021-12-02T16:39:09.153Z",
-        "active_ind": "Y",
-        "file_manager_id": "dcd23dc1-f19c-44fd-80b6-612a04ba0ae7",
-        "file_folder_path": "Ownership Reports/Additional Documents",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/fl.2021.12.01 Rado Redentor 2021 Biennial Ownership Report (01577015xB3D1E)",
-        "entity_id": "54750",
-        "source_service_code": "FM",
-        "callsign": "WERR",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1718053070010581000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -415,7 +416,7 @@
         "2018": 67948,
         "2019": 14068,
         "2020": 126017,
-        "2021": 20897,
+        "2021": 20898,
         "2022": 20,
         "KYAZ": 5,
         "Fede": 1
@@ -458,13 +459,13 @@
       "source_service_code": {
         "TV": 233818,
         "CABLE": 116348,
-        "FM": 109956,
+        "FM": 109957,
         "AM": 41101,
         "DBS": 5291
       },
       "political_file_type": {
         "PA": 218578,
-        "NCIA": 121106
+        "NCIA": 121107
       }
     }
   },
@@ -480,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1742,
-    "processTime": 750,
-    "responseTime": 1750
+    "queryTime": 1751,
+    "processTime": 760,
+    "responseTime": 1761
   }
 }
