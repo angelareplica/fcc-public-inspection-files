@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 506546,
+    "numFound": 506547,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "3b902308-1a65-819e-8b00-8cd7ea538d45",
+        "file_id": "3b902308-1a65-819e-8b00-8cd7ea538d45",
+        "file_name": "independent-leadership-for-new-hampshire-nab-page-1",
+        "file_extension": "pdf",
+        "file_size": 773085,
+        "file_status": "com_cpy",
+        "folder_id": "d18d97b6-adf0-e0c1-ffcd-d5fb7e3206e2",
+        "create_ts": "2021-12-03T21:15:04.176Z",
+        "last_update_ts": "2021-12-03T21:16:10.164Z",
+        "active_ind": "Y",
+        "file_manager_id": "05935584-a648-40e1-8e5f-2f8e3e12ed99",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/independent-leadership-for-new-hampshire-nab-page-1",
+        "entity_id": "35237",
+        "source_service_code": "AM",
+        "callsign": "WGIR",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1718161091918299100,
+        "score": 0.00012497847
+      },
       {
         "id": "0382e312-3e56-399f-26e9-20512ddbe1c3",
         "file_id": "0382e312-3e56-399f-26e9-20512ddbe1c3",
@@ -218,31 +240,6 @@
         "campaign_year": "2021",
         "_version_": 1718149572519264300,
         "score": 0.24995694
-      },
-      {
-        "id": "64707e79-b2dc-c204-e492-7d82cee5ac6c",
-        "file_id": "64707e79-b2dc-c204-e492-7d82cee5ac6c",
-        "file_name": "Doctor Oz for Senate Candidate Agreement Form12-03-21",
-        "file_extension": "pdf",
-        "file_size": 121741,
-        "file_status": "com_cpy",
-        "folder_id": "80d7da99-28b2-fdca-4b07-3bb0d2fd8034",
-        "create_ts": "2021-12-03T18:11:58.678Z",
-        "last_update_ts": "2021-12-03T18:11:46.075Z",
-        "active_ind": "Y",
-        "file_manager_id": "ee8b1078-21f1-4ba1-b673-1958248d0419",
-        "file_folder_path": "Political Files/2021/Federal/US Senate/Doctor Oz for Senate",
-        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Doctor Oz for Senate/Doctor Oz for Senate Candidate Agreement Form12-03-21",
-        "entity_id": "65681",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "PITTSBURGH",
-        "callsign": "WTAE-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2021",
-        "_version_": 1718149572437475300,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -420,7 +417,7 @@
         "2018": 67948,
         "2019": 14068,
         "2020": 126017,
-        "2021": 20929,
+        "2021": 20930,
         "2022": 20,
         "KYAZ": 5,
         "Fede": 1
@@ -464,12 +461,12 @@
         "TV": 233831,
         "CABLE": 116348,
         "FM": 109973,
-        "AM": 41103,
+        "AM": 41104,
         "DBS": 5291
       },
       "political_file_type": {
         "PA": 218590,
-        "NCIA": 121126
+        "NCIA": 121127
       }
     }
   },
@@ -485,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1741,
-    "processTime": 748,
-    "responseTime": 1749
+    "queryTime": 1735,
+    "processTime": 742,
+    "responseTime": 1742
   }
 }
