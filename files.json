@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 506526,
+    "numFound": 506527,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "c0cc6ab6-e2fd-3552-f4cd-2ddf056b62cc",
+        "file_id": "c0cc6ab6-e2fd-3552-f4cd-2ddf056b62cc",
+        "file_name": "POL-Marlin Gusman- 2356044 (003)",
+        "file_extension": "pdf",
+        "file_size": 866016,
+        "file_status": "com_cpy",
+        "folder_id": "641ab2cf-4550-c4df-aea4-0fcb21b7f279",
+        "create_ts": "2021-12-03T14:37:10.606Z",
+        "last_update_ts": "2021-12-03T14:38:15.722Z",
+        "active_ind": "Y",
+        "file_manager_id": "f001de5d-628d-407a-b72a-9c29bc26fae9",
+        "file_folder_path": "Political Files/2021/Local/Sherrif/Marlin Gusman",
+        "full_qualified_file_name": "Political Files/2021/Local/Sherrif/Marlin Gusman/POL-Marlin Gusman- 2356044 (003)",
+        "entity_id": "74192",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "NEW ORLEANS",
+        "callsign": "WWL-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1718136058566148000,
+        "score": 0.24995694
+      },
       {
         "id": "6b383f98-2274-79d3-669b-64f0bf387109",
         "file_id": "6b383f98-2274-79d3-669b-64f0bf387109",
@@ -207,28 +232,6 @@
         "campaign_year": "2021",
         "_version_": 1718068812018876400,
         "score": 0.24995694
-      },
-      {
-        "id": "7de7fe05-dc31-3a3c-7ae9-b81a6b4cfc27",
-        "file_id": "7de7fe05-dc31-3a3c-7ae9-b81a6b4cfc27",
-        "file_name": "Coalition For American Jobs__Flight 002__Dec 2021__Order__VOM",
-        "file_extension": "pdf",
-        "file_size": 152605,
-        "file_status": "com_cpy",
-        "folder_id": "5389898f-db2d-b8cd-477b-36d3ba635b95",
-        "create_ts": "2021-12-02T20:47:14.86Z",
-        "last_update_ts": "2021-12-02T20:47:15.606Z",
-        "active_ind": "Y",
-        "file_manager_id": "2783af29-0c77-4060-9ecf-1799ff009936",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Coalition For American Jobs- 2021",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Coalition For American Jobs- 2021/Coalition For American Jobs__Flight 002__Dec 2021__Order__VOM",
-        "entity_id": "4092",
-        "source_service_code": "FM",
-        "callsign": "WVOM-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1718068744392016000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -337,7 +340,7 @@
       "network_affiliation": {
         "ABC": 57128,
         "NBC": 55895,
-        "CBS": 38044,
+        "CBS": 38045,
         "FOX": 27422,
         "PBS": 14212,
         "CW": 12011,
@@ -406,7 +409,7 @@
         "2018": 67948,
         "2019": 14068,
         "2020": 126017,
-        "2021": 20909,
+        "2021": 20910,
         "2022": 20,
         "KYAZ": 5,
         "Fede": 1
@@ -416,7 +419,7 @@
         "US Senate": 48644,
         "US House": 41472,
         "Presidential": 39025,
-        "Local": 23628
+        "Local": 23629
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -447,14 +450,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233820,
+        "TV": 233821,
         "CABLE": 116348,
         "FM": 109965,
         "AM": 41102,
         "DBS": 5291
       },
       "political_file_type": {
-        "PA": 218580,
+        "PA": 218581,
         "NCIA": 121116
       }
     }
@@ -472,7 +475,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 206,
-    "processTime": 215,
-    "responseTime": 216
+    "processTime": 213,
+    "responseTime": 214
   }
 }
