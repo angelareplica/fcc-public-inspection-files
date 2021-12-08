@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 506595,
+    "numFound": 506596,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "5c4040eb-719f-4750-8f72-7782debea753",
+        "file_id": "5c4040eb-719f-4750-8f72-7782debea753",
+        "file_name": "Club for Growth Action 0110_0313 1402 2357951--1",
+        "file_extension": "pdf",
+        "file_size": 157810,
+        "file_status": "com_cpy",
+        "folder_id": "c9ddccdf-3fd2-124d-ce53-e72029bf66dd",
+        "create_ts": "2021-12-08T05:42:04.749Z",
+        "last_update_ts": "2021-12-08T05:41:51.411Z",
+        "active_ind": "Y",
+        "file_manager_id": "05a8ca7b-7a42-497a-a15e-ea3779276b47",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action/Club for Growth Action 0110_0313 1402 2357951--1",
+        "entity_id": "72064",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "GREENSBORO-H.POINT-W.SALEM",
+        "callsign": "WFMY-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1718555377910415400,
+        "score": 0.24995694
+      },
       {
         "id": "e5a13b23-9767-c7c9-7f55-3d7a62cd8339",
         "file_id": "e5a13b23-9767-c7c9-7f55-3d7a62cd8339",
@@ -212,30 +236,6 @@
         "campaign_year": "2021",
         "_version_": 1718523871065276400,
         "score": 0.24995694
-      },
-      {
-        "id": "73abf5bb-1680-e963-97d1-7b94db57abd3",
-        "file_id": "73abf5bb-1680-e963-97d1-7b94db57abd3",
-        "file_name": "12-03-21 to 12-23-21 agy",
-        "file_extension": "pdf",
-        "file_size": 38339,
-        "file_status": "com_cpy",
-        "folder_id": "28dba66f-224a-4b30-8ad5-8853f2b271ab",
-        "create_ts": "2021-12-07T21:20:29.14Z",
-        "last_update_ts": "2021-12-07T21:21:45.9Z",
-        "active_ind": "Y",
-        "file_manager_id": "dd746112-a579-4f17-8926-d38b29aad931",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Rare Access Action",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Rare Access Action/12-03-21 to 12-23-21 agy",
-        "entity_id": "35870",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KVVU-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1718523820107628500,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -265,7 +265,7 @@
         "MILWAUKEE": 2625,
         "FRESNO-VISALIA": 2603,
         "BEND OR": 2600,
-        "GREENSBORO-H.POINT-W.SALEM": 2519,
+        "GREENSBORO-H.POINT-W.SALEM": 2520,
         "CHICAGO": 2506,
         "SAVANNAH": 2417,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
@@ -344,7 +344,7 @@
       "network_affiliation": {
         "ABC": 57137,
         "NBC": 55900,
-        "CBS": 38056,
+        "CBS": 38057,
         "FOX": 27424,
         "PBS": 14212,
         "CW": 12012,
@@ -414,7 +414,7 @@
         "2019": 14067,
         "2020": 126017,
         "2021": 20976,
-        "2022": 27,
+        "2022": 28,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -454,7 +454,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233850,
+        "TV": 233851,
         "CABLE": 116351,
         "FM": 109984,
         "AM": 41119,
@@ -462,7 +462,7 @@
       },
       "political_file_type": {
         "PA": 218601,
-        "NCIA": 121152
+        "NCIA": 121153
       }
     }
   },
@@ -478,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 224,
-    "responseTime": 225
+    "queryTime": 1743,
+    "processTime": 752,
+    "responseTime": 1753
   }
 }
