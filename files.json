@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 506630,
+    "numFound": 506631,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "eade26cb-aab5-2484-995a-dc93d721e68f",
+        "file_id": "eade26cb-aab5-2484-995a-dc93d721e68f",
+        "file_name": "WPEC-McCormick, Sheila #4978048  (0920-092621) FINAL CONTRACT",
+        "file_extension": "pdf",
+        "file_size": 388177,
+        "file_status": "com_cpy",
+        "folder_id": "6ff0e0d1-9235-a9ad-208b-ad652dcabf9c",
+        "create_ts": "2021-12-08T20:31:03.403Z",
+        "last_update_ts": "2021-12-08T20:30:49.936Z",
+        "active_ind": "Y",
+        "file_manager_id": "2ff0a45d-f838-47de-b6e6-dd0b74631959",
+        "file_folder_path": "Political Files/2021/Federal/US House/MCCORMICK SHEILA - FLA HOUSE OF REP 20/ORDERS AND NABS",
+        "full_qualified_file_name": "Political Files/2021/Federal/US House/MCCORMICK SHEILA - FLA HOUSE OF REP 20/ORDERS AND NABS/WPEC-McCormick, Sheila #4978048  (0920-092621) FINAL CONTRACT",
+        "entity_id": "52527",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WEST PALM BEACH-FT. PIERCE",
+        "callsign": "WPEC",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2021",
+        "_version_": 1718611307550212000,
+        "score": 0.24995694
+      },
       {
         "id": "86e38306-494b-5980-704c-ab51484fce08",
         "file_id": "86e38306-494b-5980-704c-ab51484fce08",
@@ -207,28 +232,6 @@
         "campaign_year": "2021",
         "_version_": 1718602531110649900,
         "score": 0.24995694
-      },
-      {
-        "id": "e6fce51d-c434-174f-d5a3-b04d535fc627",
-        "file_id": "e6fce51d-c434-174f-d5a3-b04d535fc627",
-        "file_name": "Coalition For American Jobs__Flight 003__Dec 2021__Order__BIG",
-        "file_extension": "pdf",
-        "file_size": 226534,
-        "file_status": "com_cpy",
-        "folder_id": "09caf86d-ad17-4b2c-898f-ee37fdc4b07e",
-        "create_ts": "2021-12-08T18:12:38.735Z",
-        "last_update_ts": "2021-12-08T18:12:25.253Z",
-        "active_ind": "Y",
-        "file_manager_id": "e2626dc8-f274-4c99-916e-def744243b1f",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Coalition For American Jobs- 2021",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Coalition For American Jobs- 2021/Coalition For American Jobs__Flight 003__Dec 2021__Order__BIG",
-        "entity_id": "40925",
-        "source_service_code": "FM",
-        "callsign": "WBKA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1718602599415939000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -237,7 +240,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7032,
         "WILKES BARRE-SCRANTON": 6768,
         "LAS VEGAS": 5983,
-        "WEST PALM BEACH-FT. PIERCE": 5809,
+        "WEST PALM BEACH-FT. PIERCE": 5810,
         "PITTSBURGH": 5323,
         "HONOLULU": 5200,
         "DULUTH-SUPERIOR": 4650,
@@ -337,7 +340,7 @@
       "network_affiliation": {
         "ABC": 57137,
         "NBC": 55903,
-        "CBS": 38061,
+        "CBS": 38062,
         "FOX": 27427,
         "PBS": 14212,
         "CW": 12012,
@@ -406,7 +409,7 @@
         "2018": 67914,
         "2019": 14064,
         "2020": 126017,
-        "2021": 21020,
+        "2021": 21021,
         "2022": 36,
         "KYAZ": 5,
         "Fede": 1
@@ -414,7 +417,7 @@
       "office_type": {
         "State": 64838,
         "US Senate": 48655,
-        "US House": 41468,
+        "US House": 41469,
         "Presidential": 39025,
         "Local": 23643
       },
@@ -447,14 +450,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233861,
+        "TV": 233862,
         "CABLE": 116368,
         "FM": 109984,
         "AM": 41126,
         "DBS": 5291
       },
       "political_file_type": {
-        "PA": 218615,
+        "PA": 218616,
         "NCIA": 121170
       }
     }
@@ -471,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1741,
-    "processTime": 749,
-    "responseTime": 1749
+    "queryTime": 1817,
+    "processTime": 826,
+    "responseTime": 1826
   }
 }
