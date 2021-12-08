@@ -1,30 +1,30 @@
 {
   "response": {
-    "numFound": 506647,
+    "numFound": 506646,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
       {
-        "id": "9bf5b3da-1d8d-0294-a241-20f4d77a7057",
-        "file_id": "9bf5b3da-1d8d-0294-a241-20f4d77a7057",
-        "file_name": "WPPX 2021-09-24 Construction Permit Authorization",
+        "id": "85be234f-9eea-5ced-5f18-4020cb54985a",
+        "file_id": "85be234f-9eea-5ced-5f18-4020cb54985a",
+        "file_name": "WPPX 2021-09-17 Construction Permit Authorization",
         "file_extension": "pdf",
         "file_size": 339715,
         "file_status": "com_cpy",
         "folder_id": "407531fc-9988-248b-6958-ab282e3e225d",
-        "create_ts": "2021-12-08T21:42:23.574Z",
-        "last_update_ts": "2021-12-08T21:42:24.373Z",
+        "create_ts": "2021-12-08T21:44:48.461Z",
+        "last_update_ts": "2021-12-08T21:44:34.964Z",
         "active_ind": "Y",
-        "file_manager_id": "35d92813-678f-41b9-8631-5335fb70b36c",
+        "file_manager_id": "72b7e7e1-6408-4cf8-be5b-e7aab534e946",
         "file_folder_path": "FCC Authorizations/Additional Documents",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/WPPX 2021-09-24 Construction Permit Authorization",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/WPPX 2021-09-17 Construction Permit Authorization",
         "entity_id": "51984",
         "source_service_code": "TV",
         "network_affiliation": "ION",
         "nielsen_dma_rank": "PHILADELPHIA",
         "callsign": "WPPX-TV",
         "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1718615795542524000,
+        "_version_": 1718615947521032200,
         "score": 0.24995694
       },
       {
@@ -275,7 +275,7 @@
         "Greenville-Spartanburg-Asheville-Anderson": 2183,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2171,
         "TAMPA-ST. PETE (SARASOTA)": 2154,
-        "PHILADELPHIA": 2137,
+        "PHILADELPHIA": 2136,
         "LEXINGTON": 2083,
         "ROCHESTR-MASON CITY-AUSTIN": 1983,
         "SIOUX CITY": 1936,
@@ -355,7 +355,7 @@
         "CBS/NBC": 1081,
         "MNT": 852,
         "TELEMUNDO": 834,
-        "ION": 734,
+        "ION": 733,
         "N/A": 654,
         "FAMILYNET": 619,
         "UNIMAS": 616,
@@ -430,7 +430,7 @@
         "Issues and Programs Lists": 44119,
         "Equal Employment Opportunity Records": 37067,
         "Donor Lists - Applicable Only for NCEs": 11394,
-        "FCC Authorizations": 7195,
+        "FCC Authorizations": 7194,
         "Local Public Notice Announcements": 1750,
         "Applications and Related Materials": 1635,
         "Availability of Signals": 1504,
@@ -454,7 +454,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233871,
+        "TV": 233870,
         "CABLE": 116368,
         "FM": 109990,
         "AM": 41126,
@@ -478,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1745,
-    "processTime": 976,
-    "responseTime": 1977
+    "queryTime": 1738,
+    "processTime": 745,
+    "responseTime": 1746
   }
 }
