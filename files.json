@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 506611,
+    "numFound": 506613,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "7768a04f-a8ec-9874-f395-3543569e57a9",
+        "file_id": "7768a04f-a8ec-9874-f395-3543569e57a9",
+        "file_name": "Confirm_101219-025 EST 2034 SBA WGGE",
+        "file_extension": "pdf",
+        "file_size": 42027,
+        "file_status": "com_cpy",
+        "folder_id": "197a1c3d-cb60-85fa-a8db-3b41273e6cb1",
+        "create_ts": "2021-12-08T14:33:06.936Z",
+        "last_update_ts": "2021-12-08T14:33:07.631Z",
+        "active_ind": "Y",
+        "file_manager_id": "1c8bd68d-250e-45c1-96c0-eca593fa0eb5",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/WGGE 2021",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/WGGE 2021/Confirm_101219-025 EST 2034 SBA WGGE",
+        "entity_id": "15254",
+        "source_service_code": "FM",
+        "callsign": "WGGE",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1718588787643121700,
+        "score": 0.24995694
+      },
+      {
+        "id": "73f6ef91-8309-0bb9-3b4c-d37423b05f7b",
+        "file_id": "73f6ef91-8309-0bb9-3b4c-d37423b05f7b",
+        "file_name": "Confirm_101219-026 EST 2034 SBA WRZZ",
+        "file_extension": "pdf",
+        "file_size": 33491,
+        "file_status": "com_cpy",
+        "folder_id": "5f2ced97-52a1-562a-ce36-299f65b38553",
+        "create_ts": "2021-12-08T14:30:41.143Z",
+        "last_update_ts": "2021-12-08T14:30:41.831Z",
+        "active_ind": "Y",
+        "file_manager_id": "3513cac4-4ef7-4574-abb9-b997058210f1",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Confirm_101219-026 EST 2034 SBA WRZZ",
+        "entity_id": "41082",
+        "source_service_code": "FM",
+        "callsign": "WRZZ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1718588634780663800,
+        "score": 0.24995694
+      },
       {
         "id": "2e3d688d-d1c1-3390-21fd-8f225b3d63fd",
         "file_id": "2e3d688d-d1c1-3390-21fd-8f225b3d63fd",
@@ -200,56 +244,6 @@
         "campaign_year": "2021",
         "_version_": 1718584868662673400,
         "score": 0.24995694
-      },
-      {
-        "id": "5941f9e5-ad11-2202-70e9-40bffb5d75ac",
-        "file_id": "5941f9e5-ad11-2202-70e9-40bffb5d75ac",
-        "file_name": "Don Huffines for Texas Governor Lubbock 0214 12.7-12.14",
-        "file_extension": "pdf",
-        "file_size": 54833,
-        "file_status": "com_cpy",
-        "folder_id": "229b5bec-4b6f-046c-6d17-b0742d6bf05a",
-        "create_ts": "2021-12-08T13:28:08.785Z",
-        "last_update_ts": "2021-12-08T13:29:27.423Z",
-        "active_ind": "Y",
-        "file_manager_id": "4bb88360-a040-4af0-a7f5-aa5bef7e579c",
-        "file_folder_path": "Political Files/2021/State/Don Huffines for Texas Governor-Linear Media",
-        "full_qualified_file_name": "Political Files/2021/State/Don Huffines for Texas Governor-Linear Media/Don Huffines for Texas Governor Lubbock 0214 12.7-12.14",
-        "entity_id": "003827",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1718584700046409700,
-        "score": 0.24995694
-      },
-      {
-        "id": "9b3c2f51-a080-331b-a009-bc030c3c4c33",
-        "file_id": "9b3c2f51-a080-331b-a009-bc030c3c4c33",
-        "file_name": "Don Huffines for Texas Governor Lubbock 0214 12.7-12.14",
-        "file_extension": "pdf",
-        "file_size": 54833,
-        "file_status": "com_cpy",
-        "folder_id": "a63e0ce0-5ec6-bbee-c724-6dfeef4771ae",
-        "create_ts": "2021-12-08T13:29:23.144Z",
-        "last_update_ts": "2021-12-08T13:29:23.798Z",
-        "active_ind": "Y",
-        "file_manager_id": "e2b73e3b-a5df-423f-86d0-06181ec08a67",
-        "file_folder_path": "Political Files/2021/State/Don Huffines for Texas Governor-Linear Media",
-        "full_qualified_file_name": "Political Files/2021/State/Don Huffines for Texas Governor-Linear Media/Don Huffines for Texas Governor Lubbock 0214 12.7-12.14",
-        "entity_id": "005382",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1718584778070950000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -427,7 +421,7 @@
         "2018": 67932,
         "2019": 14067,
         "2020": 126017,
-        "2021": 20989,
+        "2021": 20991,
         "2022": 30,
         "KYAZ": 5,
         "Fede": 1
@@ -470,13 +464,13 @@
       "source_service_code": {
         "TV": 233853,
         "CABLE": 116363,
-        "FM": 109984,
+        "FM": 109986,
         "AM": 41120,
         "DBS": 5291
       },
       "political_file_type": {
         "PA": 218613,
-        "NCIA": 121156
+        "NCIA": 121158
       }
     }
   },
@@ -492,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1796,
-    "processTime": 807,
-    "responseTime": 1808
+    "queryTime": 1768,
+    "processTime": 779,
+    "responseTime": 1779
   }
 }
