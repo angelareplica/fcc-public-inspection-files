@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 506791,
+    "numFound": 506793,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "327c5ebd-9a05-8022-2fea-95daa1aeca3f",
+        "file_id": "327c5ebd-9a05-8022-2fea-95daa1aeca3f",
+        "file_name": "Facebook 246686-0",
+        "file_extension": "pdf",
+        "file_size": 51034,
+        "file_status": "com_cpy",
+        "folder_id": "0acb2c98-b804-983e-3240-d36a5b18eebd",
+        "create_ts": "2021-12-10T23:06:07.965Z",
+        "last_update_ts": "2021-12-10T23:07:33.431Z",
+        "active_ind": "Y",
+        "file_manager_id": "3ba2cf44-d6d8-4cc9-b40a-d94da0eaab72",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Facebook",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Facebook/Facebook 246686-0",
+        "entity_id": "61978",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SPOKANE",
+        "callsign": "KXLY-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1718802257792729000,
+        "score": 0.24995694
+      },
+      {
+        "id": "36d62699-b925-bccf-e9c1-40d53c18c41a",
+        "file_id": "36d62699-b925-bccf-e9c1-40d53c18c41a",
+        "file_name": "Facebook 245716-0",
+        "file_extension": "pdf",
+        "file_size": 39690,
+        "file_status": "com_cpy",
+        "folder_id": "0acb2c98-b804-983e-3240-d36a5b18eebd",
+        "create_ts": "2021-12-10T23:06:07.935Z",
+        "last_update_ts": "2021-12-10T23:05:53.851Z",
+        "active_ind": "Y",
+        "file_manager_id": "7d273bdb-498a-4458-8d4d-b2e7153198d0",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Facebook",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Facebook/Facebook 245716-0",
+        "entity_id": "61978",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SPOKANE",
+        "callsign": "KXLY-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1718802257780146200,
+        "score": 0.24995694
+      },
       {
         "id": "4435c2d3-256f-c16f-77c2-f99ff6259b28",
         "file_id": "4435c2d3-256f-c16f-77c2-f99ff6259b28",
@@ -177,49 +225,6 @@
         "non_political_file_folder": "FCC Investigations or Complaints",
         "_version_": 1718797538608283600,
         "score": 0.24995694
-      },
-      {
-        "id": "6d121bb1-bdc0-53ea-6dfb-a85e150e9ad5",
-        "file_id": "6d121bb1-bdc0-53ea-6dfb-a85e150e9ad5",
-        "file_name": "Cumulus-Oxnard-Ventura FCC Letter Approving EEO Audit Response (01579028xB3D1E)",
-        "file_extension": "pdf",
-        "file_size": 117734,
-        "file_status": "com_cpy",
-        "folder_id": "591210bb-c6ee-d3b1-ac1e-fab0c9cdeb3c",
-        "create_ts": "2021-12-10T20:52:08.399Z",
-        "last_update_ts": "2021-12-10T20:53:33.629Z",
-        "active_ind": "Y",
-        "file_manager_id": "f407c5b5-b358-48b5-b0b1-0981bd140550",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints/Cumulus-Oxnard-Ventura FCC Letter Approving EEO Audit Response (01579028xB3D1E)",
-        "entity_id": "8853",
-        "source_service_code": "FM",
-        "callsign": "KRUZ",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1718793827724034000,
-        "score": 0.24995694
-      },
-      {
-        "id": "7961ec6c-d120-1ff5-2cc1-6b70e6285602",
-        "file_id": "7961ec6c-d120-1ff5-2cc1-6b70e6285602",
-        "file_name": "POL 032  Standing Up for Florida",
-        "file_extension": "pdf",
-        "file_size": 226816,
-        "file_status": "com_cpy",
-        "folder_id": "d316810d-651b-afa7-9aa4-a85dda72c44d",
-        "create_ts": "2021-12-10T20:53:10.153Z",
-        "last_update_ts": "2021-12-10T20:53:11.077Z",
-        "active_ind": "Y",
-        "file_manager_id": "43c62a64-84cd-4d67-ab8e-6c64c25226ab",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/POL 032  Standing Up for Florida",
-        "entity_id": "60165",
-        "source_service_code": "TV",
-        "callsign": "WJAN-CD",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1718793892669685800,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -326,7 +331,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57140,
+        "ABC": 57142,
         "NBC": 55904,
         "CBS": 38065,
         "FOX": 27438,
@@ -397,7 +402,7 @@
         "2018": 67913,
         "2019": 14064,
         "2020": 126017,
-        "2021": 21115,
+        "2021": 21117,
         "2022": 43,
         "KYAZ": 5,
         "Fede": 1
@@ -438,7 +443,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233893,
+        "TV": 233895,
         "CABLE": 116415,
         "FM": 110030,
         "AM": 41161,
@@ -446,7 +451,7 @@
       },
       "political_file_type": {
         "PA": 218681,
-        "NCIA": 121205
+        "NCIA": 121207
       }
     }
   },
@@ -462,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 212,
-    "processTime": 219,
-    "responseTime": 219
+    "queryTime": 206,
+    "processTime": 215,
+    "responseTime": 216
   }
 }
