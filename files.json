@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 506718,
+    "numFound": 506719,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "972f4e94-7f97-230b-a4a3-dd004c151019",
+        "file_id": "972f4e94-7f97-230b-a4a3-dd004c151019",
+        "file_name": "WMXI-FM LOG - CLS MARK LEVIN - WWO - 2021-12-06 - 2021-12-12",
+        "file_extension": "pdf",
+        "file_size": 1731971,
+        "file_status": "com_cpy",
+        "folder_id": "ffabf4af-d8d2-dbaf-1747-1dfe20674d44",
+        "create_ts": "2021-12-10T14:25:30.371Z",
+        "last_update_ts": "2021-12-10T14:25:31.686Z",
+        "active_ind": "Y",
+        "file_manager_id": "ebc57629-138e-4b7f-b1cc-4e53830eece1",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/McCarthy Victory Fund",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/McCarthy Victory Fund/WMXI-FM LOG - CLS MARK LEVIN - WWO - 2021-12-06 - 2021-12-12",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1718769503451480000,
+        "score": 0.24995694
+      },
       {
         "id": "93e10094-b7ec-f419-fe4b-c7f5e475ff39",
         "file_id": "93e10094-b7ec-f419-fe4b-c7f5e475ff39",
@@ -196,31 +218,6 @@
         "campaign_year": "2021",
         "_version_": 1718703136861847600,
         "score": 0.24995694
-      },
-      {
-        "id": "e3f1db35-8b28-b1b4-3ec0-128f8c171d0b",
-        "file_id": "e3f1db35-8b28-b1b4-3ec0-128f8c171d0b",
-        "file_name": "LA-Bucco for Senate-62934042-ALT-0504-Est# 1462",
-        "file_extension": "pdf",
-        "file_size": 25524,
-        "file_status": "com_cpy",
-        "folder_id": "581c3740-cc58-7966-310f-a9bd0b14b101",
-        "create_ts": "2021-12-09T20:48:52.806Z",
-        "last_update_ts": "2021-12-09T20:50:15.142Z",
-        "active_ind": "Y",
-        "file_manager_id": "1cf555d2-5a9f-40d0-a96d-7f7791c0be62",
-        "file_folder_path": "Political Files/2021/State/Bucco for Senate-NYI",
-        "full_qualified_file_name": "Political Files/2021/State/Bucco for Senate-NYI/LA-Bucco for Senate-62934042-ALT-0504-Est# 1462",
-        "entity_id": "001705",
-        "source_service_code": "CABLE",
-        "legal_name": "CSC TKR, LLC",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1718703025590108200,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -398,7 +395,7 @@
         "2018": 67913,
         "2019": 14064,
         "2020": 126017,
-        "2021": 21074,
+        "2021": 21075,
         "2022": 43,
         "KYAZ": 5,
         "Fede": 1
@@ -441,13 +438,13 @@
       "source_service_code": {
         "TV": 233877,
         "CABLE": 116400,
-        "FM": 110006,
+        "FM": 110007,
         "AM": 41143,
         "DBS": 5292
       },
       "political_file_type": {
         "PA": 218669,
-        "NCIA": 121176
+        "NCIA": 121177
       }
     }
   },
@@ -463,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 214,
-    "responseTime": 214
+    "queryTime": 214,
+    "processTime": 221,
+    "responseTime": 222
   }
 }
