@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 506807,
+    "numFound": 506809,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "c7f6f3bf-9f2b-0446-15eb-d5e6183522c2",
+        "file_id": "c7f6f3bf-9f2b-0446-15eb-d5e6183522c2",
+        "file_name": "Adra Rowland - 12 09 21 Political",
+        "file_extension": "pdf",
+        "file_size": 4893573,
+        "file_status": "com_cpy",
+        "folder_id": "11728f3d-f12f-8e0b-70a9-dca54198df57",
+        "create_ts": "2021-12-13T15:04:04.298Z",
+        "last_update_ts": "2021-12-13T15:05:39.371Z",
+        "active_ind": "Y",
+        "file_manager_id": "9dc9929f-f977-4d7c-8638-f64acf41294e",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Adra Rowland - 12 09 21 Political",
+        "entity_id": "170936",
+        "source_service_code": "FM",
+        "callsign": "WPFT",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1719043722359865300,
+        "score": 0.24995694
+      },
+      {
+        "id": "82d6e020-598a-fcb8-bfc0-a8d21d6fc2fd",
+        "file_id": "82d6e020-598a-fcb8-bfc0-a8d21d6fc2fd",
+        "file_name": "Adra Rowland - 12 09 21 Political",
+        "file_extension": "pdf",
+        "file_size": 4893573,
+        "file_status": "com_cpy",
+        "folder_id": "2887e7ff-ef19-5fe5-c642-d311750dbdab",
+        "create_ts": "2021-12-13T15:02:25.843Z",
+        "last_update_ts": "2021-12-13T15:02:28.331Z",
+        "active_ind": "Y",
+        "file_manager_id": "f33f493e-6550-4f98-86b7-97341133bc08",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Adra Rowland - 12 09 21 Political",
+        "entity_id": "17059",
+        "source_service_code": "FM",
+        "callsign": "WSEV-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1719043618607464400,
+        "score": 0.24995694
+      },
       {
         "id": "87190c39-7fd2-ada9-4919-64bc156cc6af",
         "file_id": "87190c39-7fd2-ada9-4919-64bc156cc6af",
@@ -178,48 +224,6 @@
         "callsign": "WJQK",
         "non_political_file_folder": "FCC Investigations or Complaints",
         "_version_": 1719036178932433000,
-        "score": 0.24995694
-      },
-      {
-        "id": "ff2db1fb-3ce4-ba67-2cd7-7b372f70f7ed",
-        "file_id": "ff2db1fb-3ce4-ba67-2cd7-7b372f70f7ed",
-        "file_name": "Hull BC - PF Compliance Report - President Compliance Cert 12.10.21 (01579387xB3D1E)",
-        "file_extension": "pdf",
-        "file_size": 640885,
-        "file_status": "com_cpy",
-        "folder_id": "fd45df71-2d0e-513e-bf17-621355f0ac34",
-        "create_ts": "2021-12-12T19:14:50.034Z",
-        "last_update_ts": "2021-12-12T19:16:20.783Z",
-        "active_ind": "Y",
-        "file_manager_id": "aa976d4c-cc22-4332-a395-bae766c5b7ea",
-        "file_folder_path": "FCC Investigations or Complaints",
-        "full_qualified_file_name": "FCC Investigations or Complaints/Hull BC - PF Compliance Report - President Compliance Cert 12.10.21 (01579387xB3D1E)",
-        "entity_id": "77331",
-        "source_service_code": "FM",
-        "callsign": "KFIX",
-        "non_political_file_folder": "FCC Investigations or Complaints",
-        "_version_": 1718968899896082400,
-        "score": 0.24995694
-      },
-      {
-        "id": "70b70626-95ba-e1af-e2ee-edec10292b39",
-        "file_id": "70b70626-95ba-e1af-e2ee-edec10292b39",
-        "file_name": "KBGL FM Political File Compliance Spreadsheet (01578163xB3D1E)",
-        "file_extension": "xlsx",
-        "file_size": 14692,
-        "file_status": "com_prc",
-        "folder_id": "bebd7410-e253-33f7-92fe-7a1459b512d9",
-        "create_ts": "2021-12-12T19:13:49.061Z",
-        "last_update_ts": "2021-12-12T19:15:34.951Z",
-        "active_ind": "Y",
-        "file_manager_id": "a7150c15-6ded-441f-b761-478c9262477f",
-        "file_folder_path": "FCC Investigations or Complaints",
-        "full_qualified_file_name": "FCC Investigations or Complaints/KBGL FM Political File Compliance Spreadsheet (01578163xB3D1E)",
-        "entity_id": "82841",
-        "source_service_code": "FM",
-        "callsign": "KBGL",
-        "non_political_file_folder": "FCC Investigations or Complaints",
-        "_version_": 1718968851839844400,
         "score": 0.24995694
       }
     ],
@@ -399,7 +403,7 @@
         "2019": 14064,
         "2020": 126017,
         "2021": 21122,
-        "2022": 43,
+        "2022": 45,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -408,7 +412,7 @@
         "US Senate": 48669,
         "US House": 41475,
         "Presidential": 39025,
-        "Local": 23649
+        "Local": 23651
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -441,12 +445,12 @@
       "source_service_code": {
         "TV": 233896,
         "CABLE": 116415,
-        "FM": 110047,
+        "FM": 110049,
         "AM": 41157,
         "DBS": 5292
       },
       "political_file_type": {
-        "PA": 218682,
+        "PA": 218684,
         "NCIA": 121211
       }
     }
@@ -463,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 212,
-    "responseTime": 213
+    "queryTime": 214,
+    "processTime": 222,
+    "responseTime": 222
   }
 }
