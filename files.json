@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 507258,
+    "numFound": 507260,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "5cea8d62-7ed4-4955-6f6b-cc9b3ae36ba5",
+        "file_id": "5cea8d62-7ed4-4955-6f6b-cc9b3ae36ba5",
+        "file_name": "FAIR FIGHT ACTION EST 3800 010422-011022",
+        "file_extension": "pdf",
+        "file_size": 124705,
+        "file_status": "com_cpy",
+        "folder_id": "38b0565d-f2c1-dcc6-3a4a-a36fb71fdcdf",
+        "create_ts": "2021-12-15T17:50:02.253Z",
+        "last_update_ts": "2021-12-15T17:51:41.248Z",
+        "active_ind": "Y",
+        "file_manager_id": "4bdd46eb-76c0-4d44-811d-8f0afc14524d",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT ACTION/010422-011022",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT ACTION/010422-011022/FAIR FIGHT ACTION EST 3800 010422-011022",
+        "entity_id": "31590",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "TALLAHASSEE-THOMASVILLE",
+        "callsign": "WCTV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1719235355802075100,
+        "score": 0.24995694
+      },
+      {
+        "id": "1b9f2e64-a04e-b3a4-820e-1f9a19893ae8",
+        "file_id": "1b9f2e64-a04e-b3a4-820e-1f9a19893ae8",
+        "file_name": "FAIR FIGHT ACTION EST 3801 011122-011522",
+        "file_extension": "pdf",
+        "file_size": 121420,
+        "file_status": "com_cpy",
+        "folder_id": "6f48ecb8-a34b-074e-0167-3779d9f30573",
+        "create_ts": "2021-12-15T17:50:37.684Z",
+        "last_update_ts": "2021-12-15T17:50:38.487Z",
+        "active_ind": "Y",
+        "file_manager_id": "30ea6a0f-13da-42ed-8192-3998374a0bb6",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT ACTION/011122-011522",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT ACTION/011122-011522/FAIR FIGHT ACTION EST 3801 011122-011522",
+        "entity_id": "31590",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "TALLAHASSEE-THOMASVILLE",
+        "callsign": "WCTV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1719235392782205000,
+        "score": 0.24995694
+      },
       {
         "id": "8e62e023-f01d-832e-328a-d20b293d20fe",
         "file_id": "8e62e023-f01d-832e-328a-d20b293d20fe",
@@ -193,51 +241,6 @@
         "campaign_year": "2021",
         "_version_": 1719229381105156000,
         "score": 0.24995694
-      },
-      {
-        "id": "30da60ea-5d03-5580-fa88-19e22f3cb607",
-        "file_id": "30da60ea-5d03-5580-fa88-19e22f3cb607",
-        "file_name": "Americas PAC 19871 Wk of 12 06 21 WOBT",
-        "file_extension": "pdf",
-        "file_size": 19377,
-        "file_status": "com_cpy",
-        "folder_id": "6f9e282a-e244-bc31-eb2d-82b425738829",
-        "create_ts": "2021-12-15T16:12:51.857Z",
-        "last_update_ts": "2021-12-15T16:14:30.476Z",
-        "active_ind": "Y",
-        "file_manager_id": "628346bd-81cf-4f96-b07c-d854789599a4",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americas PAC 19871 Wk of 12 06 21 WOBT",
-        "entity_id": "49801",
-        "source_service_code": "AM",
-        "callsign": "WOBT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1719229241996869600,
-        "score": 0.24995694
-      },
-      {
-        "id": "45fb7359-f8c8-d7eb-7b2c-9059b5231187",
-        "file_id": "45fb7359-f8c8-d7eb-7b2c-9059b5231187",
-        "file_name": "DURANTWACV 010522",
-        "file_extension": "pdf",
-        "file_size": 2403171,
-        "file_status": "com_cpy",
-        "folder_id": "e4f5a80d-b1b2-2f28-db5f-bc1ba121f7b5",
-        "create_ts": "2021-12-15T15:11:25.889Z",
-        "last_update_ts": "2021-12-15T15:11:28.092Z",
-        "active_ind": "Y",
-        "file_manager_id": "6627a57d-79ef-496c-9c36-5da3b3217e42",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/DURANT FOR SENATE",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/DURANT FOR SENATE/DURANTWACV 010522",
-        "entity_id": "189524",
-        "source_service_code": "FM",
-        "callsign": "WACV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1719225378470363100,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -252,7 +255,7 @@
         "DULUTH-SUPERIOR": 4650,
         "CHARLESTON-HUNTINGTON": 4288,
         "PORTLAND-AUBURN": 4216,
-        "TALLAHASSEE-THOMASVILLE": 3970,
+        "TALLAHASSEE-THOMASVILLE": 3972,
         "OMAHA": 3651,
         "BUTTE-BOZEMAN": 3620,
         "EUGENE": 3367,
@@ -346,7 +349,7 @@
       "network_affiliation": {
         "ABC": 57142,
         "NBC": 55911,
-        "CBS": 38072,
+        "CBS": 38074,
         "FOX": 27441,
         "PBS": 14212,
         "CW": 12016,
@@ -415,7 +418,7 @@
         "2018": 67913,
         "2019": 14064,
         "2020": 126017,
-        "2021": 21542,
+        "2021": 21544,
         "2022": 55,
         "KYAZ": 5,
         "Fede": 1
@@ -456,7 +459,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233914,
+        "TV": 233916,
         "CABLE": 116417,
         "FM": 110438,
         "AM": 41197,
@@ -464,7 +467,7 @@
       },
       "political_file_type": {
         "PA": 218786,
-        "NCIA": 121539
+        "NCIA": 121541
       }
     }
   },
@@ -480,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 221,
-    "responseTime": 221
+    "queryTime": 1747,
+    "processTime": 756,
+    "responseTime": 1757
   }
 }
