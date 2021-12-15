@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 507260,
+    "numFound": 507261,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "b0cb0b01-8230-e5cb-e0a8-3fb940b8a233",
+        "file_id": "b0cb0b01-8230-e5cb-e0a8-3fb940b8a233",
+        "file_name": "Durant for Senate 01.5 to 1.11",
+        "file_extension": "pdf",
+        "file_size": 40960,
+        "file_status": "com_cpy",
+        "folder_id": "8b2dc8d6-397f-ecef-760b-761cb05b9f01",
+        "create_ts": "2021-12-15T19:20:51.022Z",
+        "last_update_ts": "2021-12-15T19:22:29.942Z",
+        "active_ind": "Y",
+        "file_manager_id": "4c7b0805-c1b5-4da8-8a06-e67f7d7259e1",
+        "file_folder_path": "Political Files/2021/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Durant for Senate 01.5 to 1.11",
+        "entity_id": "9782",
+        "source_service_code": "FM",
+        "callsign": "WQSI",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1719241068988334000,
+        "score": 0.24995694
+      },
       {
         "id": "5cea8d62-7ed4-4955-6f6b-cc9b3ae36ba5",
         "file_id": "5cea8d62-7ed4-4955-6f6b-cc9b3ae36ba5",
@@ -219,28 +242,6 @@
         "campaign_year": "2022",
         "_version_": 1719233778319097900,
         "score": 0.24995694
-      },
-      {
-        "id": "05d25a4b-c3e7-4c91-a670-0a80f3b2757f",
-        "file_id": "05d25a4b-c3e7-4c91-a670-0a80f3b2757f",
-        "file_name": "Americas PAC 19871 Wk of 12 06 21 WLKD",
-        "file_extension": "pdf",
-        "file_size": 19321,
-        "file_status": "com_cpy",
-        "folder_id": "3155d30e-58f2-d658-1acc-673479b8dbe2",
-        "create_ts": "2021-12-15T16:15:04.414Z",
-        "last_update_ts": "2021-12-15T16:15:05.288Z",
-        "active_ind": "Y",
-        "file_manager_id": "05395b04-7356-4979-84a6-fb94f0711e6e",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Americas PAC 19871 Wk of 12 06 21 WLKD",
-        "entity_id": "55210",
-        "source_service_code": "AM",
-        "callsign": "WLKD",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1719229381105156000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -418,14 +419,14 @@
         "2018": 67913,
         "2019": 14064,
         "2020": 126017,
-        "2021": 21544,
+        "2021": 21545,
         "2022": 55,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64898,
-        "US Senate": 48672,
+        "US Senate": 48673,
         "US House": 41475,
         "Presidential": 39025,
         "Local": 23737
@@ -461,12 +462,12 @@
       "source_service_code": {
         "TV": 233916,
         "CABLE": 116417,
-        "FM": 110438,
+        "FM": 110439,
         "AM": 41197,
         "DBS": 5292
       },
       "political_file_type": {
-        "PA": 218786,
+        "PA": 218787,
         "NCIA": 121541
       }
     }
@@ -483,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 213,
-    "responseTime": 214
+    "queryTime": 1743,
+    "processTime": 751,
+    "responseTime": 1752
   }
 }
