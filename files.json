@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 507151,
+    "numFound": 507153,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "1b3049b6-9941-4e2f-dc95-0cc5ef7a8f0f",
+        "file_id": "1b3049b6-9941-4e2f-dc95-0cc5ef7a8f0f",
+        "file_name": "Buchanan Dec 2021 0859-14 KDQN AM",
+        "file_extension": "pdf",
+        "file_size": 274352,
+        "file_status": "com_cpy",
+        "folder_id": "197c2b55-cbe7-12fe-93e4-d6b369775d87",
+        "create_ts": "2021-12-16T20:54:22.051Z",
+        "last_update_ts": "2021-12-16T20:54:22.949Z",
+        "active_ind": "Y",
+        "file_manager_id": "5f87f3bf-5453-400f-99b4-956cc95219d2",
+        "file_folder_path": "Political Files/2021/Local/9W Prosecuting Attorney",
+        "full_qualified_file_name": "Political Files/2021/Local/9W Prosecuting Attorney/Buchanan Dec 2021 0859-14 KDQN AM",
+        "entity_id": "30600",
+        "source_service_code": "AM",
+        "callsign": "KDQN",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1719337549710753800,
+        "score": 0.24995694
+      },
+      {
+        "id": "c2fb1c10-fb77-4f73-b2c3-41def1bd5cc2",
+        "file_id": "c2fb1c10-fb77-4f73-b2c3-41def1bd5cc2",
+        "file_name": "Buchanan Dec 2021 0859-13 KILX FM",
+        "file_extension": "pdf",
+        "file_size": 267083,
+        "file_status": "com_cpy",
+        "folder_id": "7bd20565-47ff-1c00-ac9d-9605e0be2dd0",
+        "create_ts": "2021-12-16T20:53:02.163Z",
+        "last_update_ts": "2021-12-16T20:52:46.922Z",
+        "active_ind": "Y",
+        "file_manager_id": "5aaead12-72ff-458d-aaa6-8d448e0929c2",
+        "file_folder_path": "Political Files/2021/Local/9W Prosecuting Attorney",
+        "full_qualified_file_name": "Political Files/2021/Local/9W Prosecuting Attorney/Buchanan Dec 2021 0859-13 KILX FM",
+        "entity_id": "50772",
+        "source_service_code": "FM",
+        "callsign": "KILX",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2021",
+        "_version_": 1719337465987203000,
+        "score": 0.24995694
+      },
       {
         "id": "313f58f6-a694-da05-f564-95594b9efd14",
         "file_id": "313f58f6-a694-da05-f564-95594b9efd14",
@@ -188,54 +234,6 @@
         "campaign_year": "2022",
         "_version_": 1719269361643946000,
         "score": 0.24995694
-      },
-      {
-        "id": "61e917f0-4283-c1ab-aaaa-aefd0334742a",
-        "file_id": "61e917f0-4283-c1ab-aaaa-aefd0334742a",
-        "file_name": "Club for Growth Action 1410 0404_0424 2363670--1",
-        "file_extension": "pdf",
-        "file_size": 152938,
-        "file_status": "com_cpy",
-        "folder_id": "c9ddccdf-3fd2-124d-ce53-e72029bf66dd",
-        "create_ts": "2021-12-16T02:50:32.49Z",
-        "last_update_ts": "2021-12-16T02:50:17.521Z",
-        "active_ind": "Y",
-        "file_manager_id": "2ae37b80-3ed1-4f00-b23a-a52d12257d58",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action/Club for Growth Action 1410 0404_0424 2363670--1",
-        "entity_id": "72064",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "GREENSBORO-H.POINT-W.SALEM",
-        "callsign": "WFMY-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1719269361421648000,
-        "score": 0.24995694
-      },
-      {
-        "id": "e1d2c583-01a6-d82a-1a4f-8df090753956",
-        "file_id": "e1d2c583-01a6-d82a-1a4f-8df090753956",
-        "file_name": "Club for Growth Action 1409 0321_0410 2363663--1",
-        "file_extension": "pdf",
-        "file_size": 152774,
-        "file_status": "com_cpy",
-        "folder_id": "c9ddccdf-3fd2-124d-ce53-e72029bf66dd",
-        "create_ts": "2021-12-16T02:50:32.516Z",
-        "last_update_ts": "2021-12-16T02:50:17.435Z",
-        "active_ind": "Y",
-        "file_manager_id": "5d33539d-92a1-4c9d-9531-c86621731470",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action/Club for Growth Action 1409 0321_0410 2363663--1",
-        "entity_id": "72064",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "GREENSBORO-H.POINT-W.SALEM",
-        "callsign": "WFMY-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1719269361343004700,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -413,7 +411,7 @@
         "2018": 67786,
         "2019": 14052,
         "2020": 126017,
-        "2021": 21546,
+        "2021": 21548,
         "2022": 72,
         "KYAZ": 5,
         "Fede": 1
@@ -423,7 +421,7 @@
         "US Senate": 48650,
         "US House": 41475,
         "Presidential": 39024,
-        "Local": 23702
+        "Local": 23704
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54248,
@@ -456,12 +454,12 @@
       "source_service_code": {
         "TV": 233933,
         "CABLE": 116417,
-        "FM": 110385,
-        "AM": 41124,
+        "FM": 110386,
+        "AM": 41125,
         "DBS": 5292
       },
       "political_file_type": {
-        "PA": 218664,
+        "PA": 218666,
         "NCIA": 121543
       }
     }
@@ -478,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 213,
-    "processTime": 221,
-    "responseTime": 221
+    "queryTime": 1764,
+    "processTime": 774,
+    "responseTime": 1774
   }
 }
