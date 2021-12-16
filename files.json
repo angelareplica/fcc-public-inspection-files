@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 507287,
+    "numFound": 507286,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
@@ -348,7 +348,7 @@
         "CBS": 38078,
         "FOX": 27447,
         "PBS": 14212,
-        "CW": 12016,
+        "CW": 12015,
         "IND": 2984,
         "MYTV": 2232,
         "UNIVISION": 1859,
@@ -412,7 +412,7 @@
         "2016": 68684,
         "2017": 10334,
         "2018": 67913,
-        "2019": 14064,
+        "2019": 14063,
         "2020": 126017,
         "2021": 21546,
         "2022": 70,
@@ -423,7 +423,7 @@
         "State": 64898,
         "US Senate": 48673,
         "US House": 41475,
-        "Presidential": 39025,
+        "Presidential": 39024,
         "Local": 23737
       },
       "non_political_file_folder": {
@@ -455,14 +455,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233932,
+        "TV": 233931,
         "CABLE": 116417,
         "FM": 110447,
         "AM": 41199,
         "DBS": 5292
       },
       "political_file_type": {
-        "PA": 218787,
+        "PA": 218786,
         "NCIA": 121557
       }
     }
@@ -479,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 213,
-    "processTime": 220,
-    "responseTime": 221
+    "queryTime": 1746,
+    "processTime": 753,
+    "responseTime": 1754
   }
 }
