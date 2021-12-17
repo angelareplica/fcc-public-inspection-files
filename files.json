@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 507159,
+    "numFound": 507160,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "cb07195e-6e6f-c024-abff-74048792f74d",
+        "file_id": "cb07195e-6e6f-c024-abff-74048792f74d",
+        "file_name": "Schedule & Update-03",
+        "file_extension": "pdf",
+        "file_size": 279059,
+        "file_status": "com_cpy",
+        "folder_id": "ffabf4af-d8d2-dbaf-1747-1dfe20674d44",
+        "create_ts": "2021-12-17T13:24:33.067Z",
+        "last_update_ts": "2021-12-17T13:24:17.716Z",
+        "active_ind": "Y",
+        "file_manager_id": "43e6ab26-5bf9-4f2f-90a4-032478aa0200",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/McCarthy Victory Fund",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/McCarthy Victory Fund/Schedule & Update-03",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1719399846763298800,
+        "score": 0.24995694
+      },
       {
         "id": "09b07f51-da00-7ef5-ccc9-8e7e713770e1",
         "file_id": "09b07f51-da00-7ef5-ccc9-8e7e713770e1",
@@ -217,30 +239,6 @@
         "campaign_year": "2021",
         "_version_": 1719343496801812500,
         "score": 0.24995694
-      },
-      {
-        "id": "0f5c2727-45a0-eb3a-3916-257e0af8d00a",
-        "file_id": "0f5c2727-45a0-eb3a-3916-257e0af8d00a",
-        "file_name": "Fair Fight Action--245597-010422-011022",
-        "file_extension": "pdf",
-        "file_size": 149179,
-        "file_status": "com_cpy",
-        "folder_id": "aa52331a-5eb3-ebe6-241d-6f69cba095e2",
-        "create_ts": "2021-12-13T21:59:54.15Z",
-        "last_update_ts": "2021-12-16T22:28:38.418Z",
-        "active_ind": "Y",
-        "file_manager_id": "42db4739-ff06-457c-89c7-14fe3287d3c1",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Fair Fight Action",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Fair Fight Action/Fair Fight Action--245597-010422-011022",
-        "entity_id": "43847",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "MACON",
-        "callsign": "WMGT-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1719343496879407000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -418,7 +416,7 @@
         "2018": 67786,
         "2019": 14052,
         "2020": 126017,
-        "2021": 21556,
+        "2021": 21557,
         "2022": 73,
         "KYAZ": 5,
         "Fede": 1
@@ -461,13 +459,13 @@
       "source_service_code": {
         "TV": 233933,
         "CABLE": 116423,
-        "FM": 110386,
+        "FM": 110387,
         "AM": 41125,
         "DBS": 5292
       },
       "political_file_type": {
         "PA": 218666,
-        "NCIA": 121552
+        "NCIA": 121553
       }
     }
   },
@@ -483,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1816,
-    "processTime": 827,
-    "responseTime": 1827
+    "queryTime": 1767,
+    "processTime": 775,
+    "responseTime": 1775
   }
 }
