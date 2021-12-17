@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 507172,
+    "numFound": 507173,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "349e0678-65b8-15ec-0d1a-1ecc59bbe3fe",
+        "file_id": "349e0678-65b8-15ec-0d1a-1ecc59bbe3fe",
+        "file_name": "CLUB FOR GROWTH ACTION 2206652 NAB WK 0321 AMENDED",
+        "file_extension": "pdf",
+        "file_size": 1556191,
+        "file_status": "com_cpy",
+        "folder_id": "f154000e-2d63-1794-ccc0-21822d455296",
+        "create_ts": "2021-12-17T20:11:29.307Z",
+        "last_update_ts": "2021-12-17T20:13:14.346Z",
+        "active_ind": "Y",
+        "file_manager_id": "c0b1ff31-8e41-4896-aad3-fc4bb48e6ad7",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/CLUB FOR GROWTH ACTION",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/CLUB FOR GROWTH ACTION/CLUB FOR GROWTH ACTION 2206652 NAB WK 0321 AMENDED",
+        "entity_id": "53921",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "GREENSBORO-H.POINT-W.SALEM",
+        "callsign": "WXII-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1719425449350660000,
+        "score": 0.24995694
+      },
       {
         "id": "41c36773-314e-f4b0-359b-3b9fb25e9c97",
         "file_id": "41c36773-314e-f4b0-359b-3b9fb25e9c97",
@@ -216,31 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1719403726623473700,
         "score": 0.24995694
-      },
-      {
-        "id": "54445b56-8f13-e0ab-f638-763e321e12d9",
-        "file_id": "54445b56-8f13-e0ab-f638-763e321e12d9",
-        "file_name": "doctor-oz-for-senate-1709566-122921-010422-nab-20211210-182136242-pdf",
-        "file_extension": "pdf",
-        "file_size": 385476,
-        "file_status": "com_cpy",
-        "folder_id": "f3bebf16-82a0-682d-434f-4f75a046d3d0",
-        "create_ts": "2021-12-17T14:26:07.89Z",
-        "last_update_ts": "2021-12-17T14:26:08.886Z",
-        "active_ind": "Y",
-        "file_manager_id": "b92a4b08-6e0b-4ba7-8385-1edc9031cbbb",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/DR OZ FOR SENATE",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/DR OZ FOR SENATE/doctor-oz-for-senate-1709566-122921-010422-nab-20211210-182136242-pdf",
-        "entity_id": "73375",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WOLF-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1719403721088041000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -270,7 +269,7 @@
         "MILWAUKEE": 2625,
         "FRESNO-VISALIA": 2603,
         "BEND OR": 2600,
-        "GREENSBORO-H.POINT-W.SALEM": 2529,
+        "GREENSBORO-H.POINT-W.SALEM": 2530,
         "CHICAGO": 2506,
         "SAVANNAH": 2417,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
@@ -348,7 +347,7 @@
       },
       "network_affiliation": {
         "ABC": 57143,
-        "NBC": 55918,
+        "NBC": 55919,
         "CBS": 38079,
         "FOX": 27453,
         "PBS": 14212,
@@ -419,7 +418,7 @@
         "2019": 14052,
         "2020": 126017,
         "2021": 21565,
-        "2022": 77,
+        "2022": 78,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -459,7 +458,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233942,
+        "TV": 233943,
         "CABLE": 116423,
         "FM": 110390,
         "AM": 41125,
@@ -467,7 +466,7 @@
       },
       "political_file_type": {
         "PA": 218672,
-        "NCIA": 121559
+        "NCIA": 121560
       }
     }
   },
@@ -483,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1750,
-    "processTime": 757,
-    "responseTime": 1758
+    "queryTime": 1749,
+    "processTime": 758,
+    "responseTime": 1759
   }
 }
