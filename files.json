@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 507181,
+    "numFound": 507182,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "942d9cdb-16a3-a664-a3f4-dc7f8343bd1e",
+        "file_id": "942d9cdb-16a3-a664-a3f4-dc7f8343bd1e",
+        "file_name": "WGUS Abrams for Gov (GA) 12.27.21- 01.02.22 Est.3814  ORDER",
+        "file_extension": "pdf",
+        "file_size": 561824,
+        "file_status": "com_cpy",
+        "folder_id": "e080d8b3-704f-8b6e-63cf-2a7e1f151ed3",
+        "create_ts": "2021-12-17T21:22:25.379Z",
+        "last_update_ts": "2021-12-17T21:22:10.109Z",
+        "active_ind": "Y",
+        "file_manager_id": "7d3bcd24-a108-415a-ba54-aaf9843fe31c",
+        "file_folder_path": "Political Files/2021/State/Abrams for Governor GA",
+        "full_qualified_file_name": "Political Files/2021/State/Abrams for Governor GA/WGUS Abrams for Gov (GA) 12.27.21- 01.02.22 Est.3814  ORDER",
+        "entity_id": "25467",
+        "source_service_code": "FM",
+        "callsign": "WGUS-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1719429912025104400,
+        "score": 0.24995694
+      },
       {
         "id": "b872eecb-7810-33a2-ad6a-374b12e5757c",
         "file_id": "b872eecb-7810-33a2-ad6a-374b12e5757c",
@@ -211,30 +234,6 @@
         "campaign_year": "2022",
         "_version_": 1719425449350660000,
         "score": 0.24995694
-      },
-      {
-        "id": "41c36773-314e-f4b0-359b-3b9fb25e9c97",
-        "file_id": "41c36773-314e-f4b0-359b-3b9fb25e9c97",
-        "file_name": "Georgians First Leadership Committee--245991-122121-010322",
-        "file_extension": "pdf",
-        "file_size": 280799,
-        "file_status": "com_cpy",
-        "folder_id": "6da6765e-0e7e-3b97-e8b5-fdf8796ce7a7",
-        "create_ts": "2021-12-17T18:01:55.679Z",
-        "last_update_ts": "2021-12-17T18:20:05.785Z",
-        "active_ind": "N",
-        "file_manager_id": "55ab0e89-b91e-4d3c-8bd8-10b57e2d231d",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Georgians First Leadership Committee",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Georgians First Leadership Committee/Georgians First Leadership Committee--245991-122121-010322",
-        "entity_id": "43847",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "MACON",
-        "callsign": "WMGT-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1719418331357773800,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -412,13 +411,13 @@
         "2018": 67786,
         "2019": 14052,
         "2020": 126017,
-        "2021": 21573,
+        "2021": 21574,
         "2022": 78,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64842,
+        "State": 64843,
         "US Senate": 48656,
         "US House": 41475,
         "Presidential": 39024,
@@ -455,12 +454,12 @@
       "source_service_code": {
         "TV": 233943,
         "CABLE": 116423,
-        "FM": 110397,
+        "FM": 110398,
         "AM": 41126,
         "DBS": 5292
       },
       "political_file_type": {
-        "PA": 218680,
+        "PA": 218681,
         "NCIA": 121560
       }
     }
@@ -477,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1742,
-    "processTime": 755,
-    "responseTime": 1755
+    "queryTime": 1760,
+    "processTime": 767,
+    "responseTime": 1768
   }
 }
