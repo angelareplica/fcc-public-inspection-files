@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 507151,
+    "numFound": 507153,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "922c4a94-3874-a438-388c-550c41298dc9",
+        "file_id": "922c4a94-3874-a438-388c-550c41298dc9",
+        "file_name": "fair-fight-action-vision-media-services-nab-12-03-2021-_1-20211208-215206319-pdf-20211217-013055749-pdf",
+        "file_extension": "pdf",
+        "file_size": 1073257,
+        "file_status": "com_cpy",
+        "folder_id": "4604c7ae-0348-350d-1989-f0834586a703",
+        "create_ts": "2021-12-17T01:34:16.941Z",
+        "last_update_ts": "2021-12-17T01:35:59.79Z",
+        "active_ind": "Y",
+        "file_manager_id": "7ec7f340-e299-428e-b05c-5066b86f6a4c",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT/FAIR FIGHT NAB",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT/FAIR FIGHT NAB/fair-fight-action-vision-media-services-nab-12-03-2021-_1-20211208-215206319-pdf-20211217-013055749-pdf",
+        "entity_id": "73937",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "AUGUSTA",
+        "callsign": "WRDW-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1719355160743903200,
+        "score": 0.24995694
+      },
+      {
+        "id": "901734fa-4ce1-0e04-8fee-0970bdd910b5",
+        "file_id": "901734fa-4ce1-0e04-8fee-0970bdd910b5",
+        "file_name": "fair-fight-action-vision-media-services-nab-12-03-2021-_1-20211208-215206319-pdf",
+        "file_extension": "pdf",
+        "file_size": 1073257,
+        "file_status": "com_cpy",
+        "folder_id": "fc661f34-3350-e892-24fb-bfb9bfce7b04",
+        "create_ts": "2021-12-17T01:31:23.152Z",
+        "last_update_ts": "2021-12-17T01:31:24.884Z",
+        "active_ind": "Y",
+        "file_manager_id": "61316ffd-2860-4638-be94-40cce0eb087f",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT/FAIR FIGHT NAB",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT/FAIR FIGHT NAB/fair-fight-action-vision-media-services-nab-12-03-2021-_1-20211208-215206319-pdf",
+        "entity_id": "3369",
+        "source_service_code": "TV",
+        "callsign": "WAGT-CD",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1719354979111665700,
+        "score": 0.24995694
+      },
       {
         "id": "de161b38-2b39-7cdf-a794-5f0d022200af",
         "file_id": "de161b38-2b39-7cdf-a794-5f0d022200af",
@@ -189,51 +235,6 @@
         "non_political_file_folder": "FCC Investigations or Complaints",
         "_version_": 1719309842570543000,
         "score": 0.24995694
-      },
-      {
-        "id": "02fadeee-021a-b113-29a7-586a321d82de",
-        "file_id": "02fadeee-021a-b113-29a7-586a321d82de",
-        "file_name": "Missouri Valley Political File Compliance Report - Cover Letter (01579158xB3D1E)",
-        "file_extension": "pdf",
-        "file_size": 386658,
-        "file_status": "com_cpy",
-        "folder_id": "121c9516-d54e-c8b1-0006-7d6ff464025a",
-        "create_ts": "2021-12-16T13:31:14.372Z",
-        "last_update_ts": "2021-12-16T13:30:59.636Z",
-        "active_ind": "Y",
-        "file_manager_id": "c196e0a9-3710-4b71-b422-7947e2f4a697",
-        "file_folder_path": "FCC Investigations or Complaints",
-        "full_qualified_file_name": "FCC Investigations or Complaints/Missouri Valley Political File Compliance Report - Cover Letter (01579158xB3D1E)",
-        "entity_id": "43228",
-        "source_service_code": "AM",
-        "callsign": "KMMO",
-        "non_political_file_folder": "FCC Investigations or Complaints",
-        "_version_": 1719309671006732300,
-        "score": 0.24995694
-      },
-      {
-        "id": "c22a2853-8604-7232-f020-406165e11fb5",
-        "file_id": "c22a2853-8604-7232-f020-406165e11fb5",
-        "file_name": "Club for Growth Action 1404 0110_0130 2357924--1",
-        "file_extension": "pdf",
-        "file_size": 151550,
-        "file_status": "com_cpy",
-        "folder_id": "c9ddccdf-3fd2-124d-ce53-e72029bf66dd",
-        "create_ts": "2021-12-08T05:44:03.958Z",
-        "last_update_ts": "2021-12-16T02:57:03.958Z",
-        "active_ind": "Y",
-        "file_manager_id": "278af9f9-74a8-4224-b245-d16d0f0ebe8d",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action/Club for Growth Action 1404 0110_0130 2357924--1",
-        "entity_id": "72064",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "GREENSBORO-H.POINT-W.SALEM",
-        "callsign": "WFMY-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1719269787633188900,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -334,15 +335,15 @@
         "HARTFORD & NEW HAVEN": 634,
         "MONTEREY-SALINAS": 632,
         "MACON": 603,
+        "AUGUSTA": 538,
         "BOSTON (MANCHESTER)": 538,
         "WACO-TEMPLE-BRYAN": 538,
-        "AUGUSTA": 537,
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
         "ABC": 57143,
         "NBC": 55915,
-        "CBS": 38078,
+        "CBS": 38079,
         "FOX": 27447,
         "PBS": 14212,
         "CW": 12016,
@@ -411,7 +412,7 @@
         "2018": 67786,
         "2019": 14052,
         "2020": 126017,
-        "2021": 21548,
+        "2021": 21550,
         "2022": 73,
         "KYAZ": 5,
         "Fede": 1
@@ -452,7 +453,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233931,
+        "TV": 233933,
         "CABLE": 116417,
         "FM": 110386,
         "AM": 41125,
@@ -460,7 +461,7 @@
       },
       "political_file_type": {
         "PA": 218666,
-        "NCIA": 121544
+        "NCIA": 121546
       }
     }
   },
@@ -476,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 213,
-    "processTime": 220,
-    "responseTime": 220
+    "queryTime": 207,
+    "processTime": 216,
+    "responseTime": 217
   }
 }
