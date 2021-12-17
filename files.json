@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 507160,
+    "numFound": 507162,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "16b88823-b812-03d6-cfba-366f182fbfaa",
+        "file_id": "16b88823-b812-03d6-cfba-366f182fbfaa",
+        "file_name": "Dr Oz for Senate 1711268 010522-011122",
+        "file_extension": "pdf",
+        "file_size": 921244,
+        "file_status": "com_cpy",
+        "folder_id": "792462e9-7b5c-0c7c-4ec3-a634b3f0eb1a",
+        "create_ts": "2021-12-17T14:17:48.651Z",
+        "last_update_ts": "2021-12-17T14:17:50.087Z",
+        "active_ind": "Y",
+        "file_manager_id": "605e3211-1f1a-4f0f-a8d4-16abd61d0ffe",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/DOCTOR OZ FOR SENATE",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/DOCTOR OZ FOR SENATE/Dr Oz for Senate 1711268 010522-011122",
+        "entity_id": "73375",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WOLF-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1719403198046797800,
+        "score": 0.24995694
+      },
+      {
+        "id": "bb0c29cd-6e3a-7f49-d26a-a20fae61c616",
+        "file_id": "bb0c29cd-6e3a-7f49-d26a-a20fae61c616",
+        "file_name": "Dr Oz for Senate 1711268 010522-011122 NAB",
+        "file_extension": "pdf",
+        "file_size": 379456,
+        "file_status": "com_cpy",
+        "folder_id": "792462e9-7b5c-0c7c-4ec3-a634b3f0eb1a",
+        "create_ts": "2021-12-17T14:17:47.467Z",
+        "last_update_ts": "2021-12-17T14:17:32.233Z",
+        "active_ind": "Y",
+        "file_manager_id": "71c7c6e1-6d59-44ce-812e-8a78c593d427",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/DOCTOR OZ FOR SENATE",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/DOCTOR OZ FOR SENATE/Dr Oz for Senate 1711268 010522-011122 NAB",
+        "entity_id": "73375",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WOLF-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1719403196463448000,
+        "score": 0.24995694
+      },
       {
         "id": "cb07195e-6e6f-c024-abff-74048792f74d",
         "file_id": "cb07195e-6e6f-c024-abff-74048792f74d",
@@ -193,59 +243,13 @@
         "campaign_year": "2021",
         "_version_": 1719355160743903200,
         "score": 0.24995694
-      },
-      {
-        "id": "901734fa-4ce1-0e04-8fee-0970bdd910b5",
-        "file_id": "901734fa-4ce1-0e04-8fee-0970bdd910b5",
-        "file_name": "fair-fight-action-vision-media-services-nab-12-03-2021-_1-20211208-215206319-pdf",
-        "file_extension": "pdf",
-        "file_size": 1073257,
-        "file_status": "com_cpy",
-        "folder_id": "fc661f34-3350-e892-24fb-bfb9bfce7b04",
-        "create_ts": "2021-12-17T01:31:23.152Z",
-        "last_update_ts": "2021-12-17T01:31:24.884Z",
-        "active_ind": "Y",
-        "file_manager_id": "61316ffd-2860-4638-be94-40cce0eb087f",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT/FAIR FIGHT NAB",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/FAIR FIGHT/FAIR FIGHT NAB/fair-fight-action-vision-media-services-nab-12-03-2021-_1-20211208-215206319-pdf",
-        "entity_id": "3369",
-        "source_service_code": "TV",
-        "callsign": "WAGT-CD",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1719354979111665700,
-        "score": 0.24995694
-      },
-      {
-        "id": "de161b38-2b39-7cdf-a794-5f0d022200af",
-        "file_id": "de161b38-2b39-7cdf-a794-5f0d022200af",
-        "file_name": "WQCW US Chamber (003)",
-        "file_extension": "pdf",
-        "file_size": 8728,
-        "file_status": "com_cpy",
-        "folder_id": "1b05fea0-0137-bb85-1889-124590718e90",
-        "create_ts": "2021-12-16T22:28:53.737Z",
-        "last_update_ts": "2021-12-16T22:30:35.853Z",
-        "active_ind": "Y",
-        "file_manager_id": "678f9ed8-1021-4377-9480-c98bcd10f512",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/US Chamber",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/US Chamber/WQCW US Chamber (003)",
-        "entity_id": "65130",
-        "source_service_code": "TV",
-        "network_affiliation": "CW",
-        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
-        "callsign": "WQCW",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1719343496801812500,
-        "score": 0.24995694
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8381,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7032,
-        "WILKES BARRE-SCRANTON": 6772,
+        "WILKES BARRE-SCRANTON": 6774,
         "LAS VEGAS": 5995,
         "WEST PALM BEACH-FT. PIERCE": 5814,
         "PITTSBURGH": 5323,
@@ -348,7 +352,7 @@
         "ABC": 57143,
         "NBC": 55915,
         "CBS": 38079,
-        "FOX": 27447,
+        "FOX": 27449,
         "PBS": 14212,
         "CW": 12016,
         "IND": 2984,
@@ -416,14 +420,14 @@
         "2018": 67786,
         "2019": 14052,
         "2020": 126017,
-        "2021": 21557,
+        "2021": 21559,
         "2022": 73,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64834,
-        "US Senate": 48650,
+        "US Senate": 48652,
         "US House": 41475,
         "Presidential": 39024,
         "Local": 23704
@@ -457,14 +461,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233933,
+        "TV": 233935,
         "CABLE": 116423,
         "FM": 110387,
         "AM": 41125,
         "DBS": 5292
       },
       "political_file_type": {
-        "PA": 218666,
+        "PA": 218668,
         "NCIA": 121553
       }
     }
@@ -481,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1767,
-    "processTime": 775,
-    "responseTime": 1775
+    "queryTime": 1824,
+    "processTime": 832,
+    "responseTime": 1833
   }
 }
