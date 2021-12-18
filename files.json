@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 507188,
+    "numFound": 507190,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "7efc3cba-7621-daae-3b2e-c0d3fbe84820",
+        "file_id": "7efc3cba-7621-daae-3b2e-c0d3fbe84820",
+        "file_name": "QIL 07_10_2021",
+        "file_extension": "pdf",
+        "file_size": 126032,
+        "file_status": "com_cpy",
+        "folder_id": "eb87e706-28c9-f3a6-dd72-c8fbe4fbed32",
+        "create_ts": "2021-12-18T16:49:46.602Z",
+        "last_update_ts": "2021-12-18T16:51:34.036Z",
+        "active_ind": "Y",
+        "file_manager_id": "91e19f78-2fdc-4d92-86b6-45e6bf5b7356",
+        "file_folder_path": "Issues and Programs Lists/QIL2021",
+        "full_qualified_file_name": "Issues and Programs Lists/QIL2021/QIL 07_10_2021",
+        "entity_id": "53567",
+        "source_service_code": "FM",
+        "callsign": "WPRB",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1719503355720499200,
+        "score": 0.24995694
+      },
+      {
+        "id": "c60967d4-60f7-881c-07a0-913711ba9703",
+        "file_id": "c60967d4-60f7-881c-07a0-913711ba9703",
+        "file_name": "QIL 04_10_2021",
+        "file_extension": "pdf",
+        "file_size": 83313,
+        "file_status": "com_cpy",
+        "folder_id": "eb87e706-28c9-f3a6-dd72-c8fbe4fbed32",
+        "create_ts": "2021-12-18T16:49:46.6Z",
+        "last_update_ts": "2021-12-18T16:49:47.708Z",
+        "active_ind": "Y",
+        "file_manager_id": "73551b54-0043-41cd-a8c3-4aabfc0b2b61",
+        "file_folder_path": "Issues and Programs Lists/QIL2021",
+        "full_qualified_file_name": "Issues and Programs Lists/QIL2021/QIL 04_10_2021",
+        "entity_id": "53567",
+        "source_service_code": "FM",
+        "callsign": "WPRB",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1719503355509735400,
+        "score": 0.24995694
+      },
       {
         "id": "0aea6437-dadd-a79b-2787-27a7e2e15d32",
         "file_id": "0aea6437-dadd-a79b-2787-27a7e2e15d32",
@@ -192,52 +234,6 @@
         "office_type": "State",
         "campaign_year": "2021",
         "_version_": 1719429806833008600,
-        "score": 0.24995694
-      },
-      {
-        "id": "6edc04f4-3d0f-1d86-06f1-a9ab4474b606",
-        "file_id": "6edc04f4-3d0f-1d86-06f1-a9ab4474b606",
-        "file_name": "WHHD Abrams for Gov (GA) 12.27.21- 01.02.22 Est.3814  ORDER",
-        "file_extension": "pdf",
-        "file_size": 570908,
-        "file_status": "com_cpy",
-        "folder_id": "f658dc39-9791-785d-8d4b-b0722e41a0e3",
-        "create_ts": "2021-12-17T21:18:49.605Z",
-        "last_update_ts": "2021-12-17T21:20:34.595Z",
-        "active_ind": "Y",
-        "file_manager_id": "6b8ad53c-33b0-41fe-ba7b-654cc6173ddd",
-        "file_folder_path": "Political Files/2021/State/Abrams for Governor GA",
-        "full_qualified_file_name": "Political Files/2021/State/Abrams for Governor GA/WHHD Abrams for Gov (GA) 12.27.21- 01.02.22 Est.3814  ORDER",
-        "entity_id": "24148",
-        "source_service_code": "FM",
-        "callsign": "WHHD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1719429685725626400,
-        "score": 0.24995694
-      },
-      {
-        "id": "aa282f07-e0de-4065-31d4-ed0f2970da8d",
-        "file_id": "aa282f07-e0de-4065-31d4-ed0f2970da8d",
-        "file_name": "WKXC Abrams for Gov (GA) 12.27.21- 01.02.22 Est.3814  ORDER",
-        "file_extension": "pdf",
-        "file_size": 573890,
-        "file_status": "com_cpy",
-        "folder_id": "59700dd0-1d7d-a44b-d3da-ac408a76598e",
-        "create_ts": "2021-12-17T21:16:58.571Z",
-        "last_update_ts": "2021-12-17T21:16:43.309Z",
-        "active_ind": "Y",
-        "file_manager_id": "58f530b6-7bc5-40e4-bc4a-e05c21530cd6",
-        "file_folder_path": "Political Files/2021/State/Abrams for Governor GA",
-        "full_qualified_file_name": "Political Files/2021/State/Abrams for Governor GA/WKXC Abrams for Gov (GA) 12.27.21- 01.02.22 Est.3814  ORDER",
-        "entity_id": "24147",
-        "source_service_code": "FM",
-        "callsign": "WKXC-FM",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1719429569343127600,
         "score": 0.24995694
       }
     ],
@@ -430,7 +426,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54247,
-        "Issues and Programs Lists": 44124,
+        "Issues and Programs Lists": 44126,
         "Equal Employment Opportunity Records": 37061,
         "Donor Lists - Applicable Only for NCEs": 11394,
         "FCC Authorizations": 7187,
@@ -459,7 +455,7 @@
       "source_service_code": {
         "TV": 233949,
         "CABLE": 116423,
-        "FM": 110398,
+        "FM": 110400,
         "AM": 41126,
         "DBS": 5292
       },
@@ -481,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 212,
-    "processTime": 220,
-    "responseTime": 221
+    "queryTime": 216,
+    "processTime": 226,
+    "responseTime": 226
   }
 }
