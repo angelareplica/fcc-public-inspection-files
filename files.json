@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 507221,
+    "numFound": 507223,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "c7bc867a-d78e-8142-c3e7-f325d39a1bb8",
+        "file_id": "c7bc867a-d78e-8142-c3e7-f325d39a1bb8",
+        "file_name": "Dr. Mehmet Oz 3298959 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 118789,
+        "file_status": "com_cpy",
+        "folder_id": "e8ba98ad-8adf-2f69-8fd2-d03f6dad23b6",
+        "create_ts": "2021-12-20T21:32:18.361Z",
+        "last_update_ts": "2021-12-20T21:32:02.726Z",
+        "active_ind": "Y",
+        "file_manager_id": "f11f504c-8b41-41e0-bccb-af4384efee2c",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/Dr Mehmet Oz",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Dr Mehmet Oz/Dr. Mehmet Oz 3298959 Rev 0",
+        "entity_id": "17010",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WYOU",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1719702324966850600,
+        "score": 0.24995694
+      },
+      {
+        "id": "ee85195e-a7db-8848-fa3b-601dae3f7041",
+        "file_id": "ee85195e-a7db-8848-fa3b-601dae3f7041",
+        "file_name": "Dr. Mehmet Oz 3298978 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 107455,
+        "file_status": "com_cpy",
+        "folder_id": "876dd493-643c-086d-3bdc-4fcc440c10cd",
+        "create_ts": "2021-12-20T21:31:19.606Z",
+        "last_update_ts": "2021-12-20T21:31:20.617Z",
+        "active_ind": "Y",
+        "file_manager_id": "b91cbb88-bc86-4410-8905-24264567dfa0",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/Dr Mehmet Oz",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Dr Mehmet Oz/Dr. Mehmet Oz 3298978 Rev 0",
+        "entity_id": "71225",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WBRE-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1719702262905831400,
+        "score": 0.24995694
+      },
       {
         "id": "677adce8-8bec-2ae1-0697-88d1a8697460",
         "file_id": "677adce8-8bec-2ae1-0697-88d1a8697460",
@@ -193,61 +243,13 @@
         "campaign_year": "2022",
         "_version_": 1719700842402021400,
         "score": 0.24995694
-      },
-      {
-        "id": "f6565f29-b473-2c40-2cca-6089d7d3878f",
-        "file_id": "f6565f29-b473-2c40-2cca-6089d7d3878f",
-        "file_name": "Oz US Sen 0105-0111 2365576",
-        "file_extension": "pdf",
-        "file_size": 261565,
-        "file_status": "com_cpy",
-        "folder_id": "042f80bf-0c78-b4b2-325d-777e894d3ddb",
-        "create_ts": "2021-12-20T21:08:44.791Z",
-        "last_update_ts": "2021-12-20T21:08:28.661Z",
-        "active_ind": "Y",
-        "file_manager_id": "2e48c762-5921-46fd-b434-b14946587aa3",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Mehmet Oz-R-US Senate PA",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Mehmet Oz-R-US Senate PA/Oz US Sen 0105-0111 2365576",
-        "entity_id": "73318",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WNEP-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1719700842214326300,
-        "score": 0.24995694
-      },
-      {
-        "id": "d3d071cf-2f78-f557-5b0f-4ff48cafd384",
-        "file_id": "d3d071cf-2f78-f557-5b0f-4ff48cafd384",
-        "file_name": "2016 Political_0906_Nojay_NAB page 3",
-        "file_extension": "pdf",
-        "file_size": 1108781,
-        "file_status": "com_cpy",
-        "folder_id": "b56fce7c-76d4-3448-5116-aebd9cfa717e",
-        "create_ts": "2021-12-20T21:06:59.278Z",
-        "last_update_ts": "2021-12-20T21:07:01.319Z",
-        "active_ind": "Y",
-        "file_manager_id": "55d33e2a-2d84-473f-a06e-65c8557efe13",
-        "file_folder_path": "Political Files/2016/Local",
-        "full_qualified_file_name": "Political Files/2016/Local/2016 Political_0906_Nojay_NAB page 3",
-        "entity_id": "52841",
-        "source_service_code": "AM",
-        "callsign": "WLEA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2016",
-        "_version_": 1719700732712583200,
-        "score": 0.00012497847
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8382,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7034,
-        "WILKES BARRE-SCRANTON": 6783,
+        "WILKES BARRE-SCRANTON": 6785,
         "LAS VEGAS": 5995,
         "WEST PALM BEACH-FT. PIERCE": 5814,
         "PITTSBURGH": 5323,
@@ -348,8 +350,8 @@
       },
       "network_affiliation": {
         "ABC": 57146,
-        "NBC": 55924,
-        "CBS": 38079,
+        "NBC": 55925,
+        "CBS": 38080,
         "FOX": 27456,
         "PBS": 14220,
         "CW": 12016,
@@ -418,14 +420,14 @@
         "2018": 67786,
         "2019": 14051,
         "2020": 126017,
-        "2021": 21581,
+        "2021": 21583,
         "2022": 88,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64844,
-        "US Senate": 48661,
+        "US Senate": 48663,
         "US House": 41475,
         "Presidential": 39023,
         "Local": 23714
@@ -459,14 +461,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233962,
+        "TV": 233964,
         "CABLE": 116423,
         "FM": 110410,
         "AM": 41134,
         "DBS": 5292
       },
       "political_file_type": {
-        "PA": 218696,
+        "PA": 218698,
         "NCIA": 121571
       }
     }
@@ -483,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1745,
-    "processTime": 755,
-    "responseTime": 1756
+    "queryTime": 1744,
+    "processTime": 754,
+    "responseTime": 1754
   }
 }
