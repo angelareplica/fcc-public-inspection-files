@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 507206,
+    "numFound": 507207,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "31f730be-084d-39bd-e365-b9cff7fb6639",
+        "file_id": "31f730be-084d-39bd-e365-b9cff7fb6639",
+        "file_name": "Youngkin Gov 918924F1205162-0",
+        "file_extension": "pdf",
+        "file_size": 90325,
+        "file_status": "com_cpy",
+        "folder_id": "4ca733bc-29cd-e9e6-2dfa-8d2df8eaaa61",
+        "create_ts": "2021-12-20T14:42:27.107Z",
+        "last_update_ts": "2021-12-20T14:44:19.857Z",
+        "active_ind": "Y",
+        "file_manager_id": "d70c6af8-aa53-4410-9092-42f22aa71ee9",
+        "file_folder_path": "Political Files/2021/State/Youngkin for Governor/Youngkin for Gov Est 918924",
+        "full_qualified_file_name": "Political Files/2021/State/Youngkin for Governor/Youngkin for Gov Est 918924/Youngkin Gov 918924F1205162-0",
+        "entity_id": "47904",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WASHINGTON DC (HAGRSTWN)",
+        "callsign": "WRC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1719676539043315700,
+        "score": 0.24995694
+      },
       {
         "id": "964b052d-6e43-b299-64fb-c3c05a7eb482",
         "file_id": "964b052d-6e43-b299-64fb-c3c05a7eb482",
@@ -209,28 +234,6 @@
         "campaign_year": "2021",
         "_version_": 1719673288440938500,
         "score": 0.24995694
-      },
-      {
-        "id": "4938cd89-a98d-6ca0-7b0f-2a14a0dba592",
-        "file_id": "4938cd89-a98d-6ca0-7b0f-2a14a0dba592",
-        "file_name": "Confirm_101524-004 EST 2053 ETI WRZZ",
-        "file_extension": "pdf",
-        "file_size": 33392,
-        "file_status": "com_cpy",
-        "folder_id": "5f2ced97-52a1-562a-ce36-299f65b38553",
-        "create_ts": "2021-12-20T13:49:40.412Z",
-        "last_update_ts": "2021-12-20T13:49:24.347Z",
-        "active_ind": "Y",
-        "file_manager_id": "d4dccefd-a0ab-4219-abfa-36a387145ffa",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Confirm_101524-004 EST 2053 ETI WRZZ",
-        "entity_id": "41082",
-        "source_service_code": "FM",
-        "callsign": "WRZZ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1719673218127626200,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -275,7 +278,7 @@
         "ROCHESTR-MASON CITY-AUSTIN": 1984,
         "SIOUX CITY": 1937,
         "GREAT FALLS": 1923,
-        "WASHINGTON DC (HAGRSTWN)": 1907,
+        "WASHINGTON DC (HAGRSTWN)": 1908,
         "LA CROSSE-EAU CLAIRE": 1802,
         "BLUEFIELD-BECKLEY-OAK HILL": 1761,
         "ALBUQUERQUE-SANTA FE": 1702,
@@ -338,7 +341,7 @@
       },
       "network_affiliation": {
         "ABC": 57143,
-        "NBC": 55922,
+        "NBC": 55923,
         "CBS": 38079,
         "FOX": 27456,
         "PBS": 14220,
@@ -408,13 +411,13 @@
         "2018": 67786,
         "2019": 14052,
         "2020": 126017,
-        "2021": 21579,
+        "2021": 21580,
         "2022": 84,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64843,
+        "State": 64844,
         "US Senate": 48656,
         "US House": 41475,
         "Presidential": 39024,
@@ -449,14 +452,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233957,
+        "TV": 233958,
         "CABLE": 116423,
         "FM": 110407,
         "AM": 41127,
         "DBS": 5292
       },
       "political_file_type": {
-        "PA": 218681,
+        "PA": 218682,
         "NCIA": 121571
       }
     }
@@ -473,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 220,
-    "responseTime": 221
+    "queryTime": 205,
+    "processTime": 214,
+    "responseTime": 215
   }
 }
