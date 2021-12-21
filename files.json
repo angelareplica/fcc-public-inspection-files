@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 507227,
+    "numFound": 507229,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "44a19787-f0cb-5b45-e4dd-3ce1fd5904cf",
+        "file_id": "44a19787-f0cb-5b45-e4dd-3ce1fd5904cf",
+        "file_name": "McCormick 3329753 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 181805,
+        "file_status": "com_cpy",
+        "folder_id": "bcd66456-9e64-4380-1d4c-067282bb0f39",
+        "create_ts": "2021-12-21T14:02:41.853Z",
+        "last_update_ts": "2021-12-21T14:04:37.064Z",
+        "active_ind": "Y",
+        "file_manager_id": "6568af92-0549-4869-9ca7-fc300b6e8d86",
+        "file_folder_path": "Political Files/2021/State/Dave McCormick",
+        "full_qualified_file_name": "Political Files/2021/State/Dave McCormick/McCormick 3329753 Rev 0",
+        "entity_id": "17010",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WYOU",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1719764634558267400,
+        "score": 0.24995694
+      },
+      {
+        "id": "076c3b15-72ad-72ef-1515-3da3d29abf5e",
+        "file_id": "076c3b15-72ad-72ef-1515-3da3d29abf5e",
+        "file_name": "McCormick 3330038 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 124440,
+        "file_status": "com_cpy",
+        "folder_id": "96b4eaec-c691-a18c-34ad-dd187d12f900",
+        "create_ts": "2021-12-21T14:04:33.506Z",
+        "last_update_ts": "2021-12-21T14:04:34.879Z",
+        "active_ind": "Y",
+        "file_manager_id": "8a795358-c4c2-413a-bdaf-a1ac76ea3329",
+        "file_folder_path": "Political Files/2021/State/Dave McCormick",
+        "full_qualified_file_name": "Political Files/2021/State/Dave McCormick/McCormick 3330038 Rev 0",
+        "entity_id": "71225",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WBRE-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1719764752002973700,
+        "score": 0.24995694
+      },
       {
         "id": "ab7c7903-e39d-e04e-102c-435d3cebbb9b",
         "file_id": "ab7c7903-e39d-e04e-102c-435d3cebbb9b",
@@ -193,59 +243,13 @@
         "campaign_year": "2021",
         "_version_": 1719702262905831400,
         "score": 0.24995694
-      },
-      {
-        "id": "677adce8-8bec-2ae1-0697-88d1a8697460",
-        "file_id": "677adce8-8bec-2ae1-0697-88d1a8697460",
-        "file_name": "2016 Political_0913_Nojay_NAB page 1",
-        "file_extension": "pdf",
-        "file_size": 1108786,
-        "file_status": "com_cpy",
-        "folder_id": "b56fce7c-76d4-3448-5116-aebd9cfa717e",
-        "create_ts": "2021-12-20T21:17:22.516Z",
-        "last_update_ts": "2021-12-20T21:17:23.955Z",
-        "active_ind": "Y",
-        "file_manager_id": "7432cc68-a476-4564-bc84-4e5902ac5de4",
-        "file_folder_path": "Political Files/2016/Local",
-        "full_qualified_file_name": "Political Files/2016/Local/2016 Political_0913_Nojay_NAB page 1",
-        "entity_id": "52841",
-        "source_service_code": "AM",
-        "callsign": "WLEA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2016",
-        "_version_": 1719701385592701000,
-        "score": 0.00012497847
-      },
-      {
-        "id": "04b56980-8762-413c-f496-c3f30c1c4634",
-        "file_id": "04b56980-8762-413c-f496-c3f30c1c4634",
-        "file_name": "2016 Political_0913_Nojay_NAB page 2",
-        "file_extension": "pdf",
-        "file_size": 1108786,
-        "file_status": "com_cpy",
-        "folder_id": "b56fce7c-76d4-3448-5116-aebd9cfa717e",
-        "create_ts": "2021-12-20T21:17:22.169Z",
-        "last_update_ts": "2021-12-20T21:17:06.986Z",
-        "active_ind": "Y",
-        "file_manager_id": "5c44d288-eb9d-43f9-a764-24e1c5598be7",
-        "file_folder_path": "Political Files/2016/Local",
-        "full_qualified_file_name": "Political Files/2016/Local/2016 Political_0913_Nojay_NAB page 2",
-        "entity_id": "52841",
-        "source_service_code": "AM",
-        "callsign": "WLEA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2016",
-        "_version_": 1719701385717481500,
-        "score": 0.00012497847
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8382,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7034,
-        "WILKES BARRE-SCRANTON": 6785,
+        "WILKES BARRE-SCRANTON": 6787,
         "LAS VEGAS": 5995,
         "WEST PALM BEACH-FT. PIERCE": 5814,
         "PITTSBURGH": 5323,
@@ -346,8 +350,8 @@
       },
       "network_affiliation": {
         "ABC": 57148,
-        "NBC": 55925,
-        "CBS": 38080,
+        "NBC": 55926,
+        "CBS": 38081,
         "FOX": 27457,
         "PBS": 14220,
         "CW": 12016,
@@ -416,13 +420,13 @@
         "2018": 67786,
         "2019": 14051,
         "2020": 126017,
-        "2021": 21586,
+        "2021": 21588,
         "2022": 89,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64844,
+        "State": 64846,
         "US Senate": 48665,
         "US House": 41475,
         "Presidential": 39023,
@@ -457,14 +461,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233968,
+        "TV": 233970,
         "CABLE": 116423,
         "FM": 110410,
         "AM": 41134,
         "DBS": 5292
       },
       "political_file_type": {
-        "PA": 218700,
+        "PA": 218702,
         "NCIA": 121573
       }
     }
@@ -481,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 205,
-    "processTime": 214,
-    "responseTime": 214
+    "queryTime": 338,
+    "processTime": 345,
+    "responseTime": 345
   }
 }
