@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 507331,
+    "numFound": 507332,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "1dcc318f-0a3f-fc31-9f5e-2b62f4ff7905",
+        "file_id": "1dcc318f-0a3f-fc31-9f5e-2b62f4ff7905",
+        "file_name": "2021-10-05 Programs Issues report",
+        "file_extension": "docx",
+        "file_size": 10733,
+        "file_status": "com_prc",
+        "folder_id": "e638a2d5-4f51-6ad5-fa8d-2927097544a3",
+        "create_ts": "2021-10-05T19:18:48.054Z",
+        "last_update_ts": "2021-12-22T04:06:18.983Z",
+        "active_ind": "Y",
+        "file_manager_id": "d260d7f0-c98c-4d4d-8a8e-8d20ed416577",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/2021-10-05 Programs Issues report",
+        "entity_id": "40791",
+        "source_service_code": "FM",
+        "callsign": "WAVM",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1719817727610192000,
+        "score": 0.24995694
+      },
       {
         "id": "8e615a42-3b42-bf47-5cd2-56b8d450d620",
         "file_id": "8e615a42-3b42-bf47-5cd2-56b8d450d620",
@@ -210,29 +231,6 @@
         "campaign_year": "2020",
         "_version_": 1719794430623350800,
         "score": 0.24995694
-      },
-      {
-        "id": "8c366298-1e2d-3c9f-cbf7-ff79f96156f7",
-        "file_id": "8c366298-1e2d-3c9f-cbf7-ff79f96156f7",
-        "file_name": "2019 Political_0622_Curtis Crandall_confirmation_0475-001",
-        "file_extension": "pdf",
-        "file_size": 294489,
-        "file_status": "com_cpy",
-        "folder_id": "8b053bfc-6565-fb45-b9c4-0aa54d3085b2",
-        "create_ts": "2021-12-21T21:54:46.634Z",
-        "last_update_ts": "2021-12-21T21:54:47.799Z",
-        "active_ind": "Y",
-        "file_manager_id": "d8b0acd0-a131-4225-8a3e-cd11e4ac6018",
-        "file_folder_path": "Political Files/2019/State",
-        "full_qualified_file_name": "Political Files/2019/State/2019 Political_0622_Curtis Crandall_confirmation_0475-001",
-        "entity_id": "52841",
-        "source_service_code": "AM",
-        "callsign": "WLEA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2019",
-        "_version_": 1719794335401115600,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -427,7 +425,7 @@
         "Issues and Programs Lists": 44129,
         "Equal Employment Opportunity Records": 37061,
         "Donor Lists - Applicable Only for NCEs": 11402,
-        "FCC Authorizations": 7187,
+        "FCC Authorizations": 7188,
         "Local Public Notice Announcements": 1750,
         "Applications and Related Materials": 1642,
         "FCC Investigations or Complaints": 1524,
@@ -453,7 +451,7 @@
       "source_service_code": {
         "TV": 233981,
         "CABLE": 116423,
-        "FM": 110441,
+        "FM": 110442,
         "AM": 41194,
         "DBS": 5292
       },
@@ -475,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1745,
-    "processTime": 752,
-    "responseTime": 1752
+    "queryTime": 215,
+    "processTime": 225,
+    "responseTime": 225
   }
 }
