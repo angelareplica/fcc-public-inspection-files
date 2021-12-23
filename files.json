@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 507393,
+    "numFound": 507395,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "643bd2ca-8fd9-d8d2-7ee3-eba85c0e9142",
+        "file_id": "643bd2ca-8fd9-d8d2-7ee3-eba85c0e9142",
+        "file_name": "KSAZ League of Conservation Voters est 0201 1126316",
+        "file_extension": "pdf",
+        "file_size": 519751,
+        "file_status": "com_cpy",
+        "folder_id": "5c6fa444-d836-348d-9ffc-6f3abf1bc059",
+        "create_ts": "2021-12-23T20:24:40.459Z",
+        "last_update_ts": "2021-12-23T20:24:24.016Z",
+        "active_ind": "Y",
+        "file_manager_id": "8d2a9771-8863-441e-b5cb-63dbeee711bb",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders/KSAZ League of Conservation Voters est 0201 1126316",
+        "entity_id": "35587",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
+        "callsign": "KSAZ-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1719969860620910600,
+        "score": 0.24995694
+      },
+      {
+        "id": "5796b355-e645-70f5-3a9d-91eb1505fc45",
+        "file_id": "5796b355-e645-70f5-3a9d-91eb1505fc45",
+        "file_name": "KSAZ League of Conservation Voters est 0201 1126316",
+        "file_extension": "pdf",
+        "file_size": 293431,
+        "file_status": "com_cpy",
+        "folder_id": "5c6fa444-d836-348d-9ffc-6f3abf1bc059",
+        "create_ts": "2021-12-23T20:16:16.939Z",
+        "last_update_ts": "2021-12-23T20:16:18.108Z",
+        "active_ind": "Y",
+        "file_manager_id": "a934a6bf-3596-48fb-88a3-e1daa36bb025",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/League of Conservation Voters - LCV/Orders/KSAZ League of Conservation Voters est 0201 1126316",
+        "entity_id": "35587",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
+        "callsign": "KSAZ-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1719969332500365300,
+        "score": 0.24995694
+      },
       {
         "id": "72b0212d-6ebe-79c8-669f-9599bf3fbc92",
         "file_id": "72b0212d-6ebe-79c8-669f-9599bf3fbc92",
@@ -187,52 +235,6 @@
         "non_political_file_folder": "Availability of Signals",
         "_version_": 1719962281840738300,
         "score": 0.24995694
-      },
-      {
-        "id": "a3601e62-9dae-d0f8-f89d-b7f7658d5cfb",
-        "file_id": "a3601e62-9dae-d0f8-f89d-b7f7658d5cfb",
-        "file_name": "Must Carry PSID 004024",
-        "file_extension": "pdf",
-        "file_size": 56523,
-        "file_status": "com_cpy",
-        "folder_id": "f42fd991-e740-0ae1-bf5f-d742646c0350",
-        "create_ts": "2021-12-23T18:22:43.108Z",
-        "last_update_ts": "2021-12-23T18:22:44.087Z",
-        "active_ind": "Y",
-        "file_manager_id": "7ee31112-e482-413e-a070-0207d1451c44",
-        "file_folder_path": "Availability of Signals",
-        "full_qualified_file_name": "Availability of Signals/Must Carry PSID 004024",
-        "entity_id": "004024",
-        "source_service_code": "CABLE",
-        "legal_name": "MCC IOWA LLC",
-        "operator_city_name": "MEDIACOM PARK",
-        "operator_state_name": "NY",
-        "non_political_file_folder": "Availability of Signals",
-        "_version_": 1719962187489869800,
-        "score": 0.24995694
-      },
-      {
-        "id": "d781a88e-ce07-205e-237d-43d5b4b32eae",
-        "file_id": "d781a88e-ce07-205e-237d-43d5b4b32eae",
-        "file_name": "Must Carry PSID 003951",
-        "file_extension": "pdf",
-        "file_size": 54541,
-        "file_status": "com_cpy",
-        "folder_id": "5e3e6d28-feeb-7d67-b871-8147dbd40fab",
-        "create_ts": "2021-12-23T17:31:25.419Z",
-        "last_update_ts": "2021-12-23T17:33:26.639Z",
-        "active_ind": "Y",
-        "file_manager_id": "e86b3618-7bdb-4c75-907c-a27fec456b2e",
-        "file_folder_path": "Availability of Signals",
-        "full_qualified_file_name": "Availability of Signals/Must Carry PSID 003951",
-        "entity_id": "003951",
-        "source_service_code": "CABLE",
-        "legal_name": "MEDIACOM IOWA LLC",
-        "operator_city_name": "MEDIACOM PARK",
-        "operator_state_name": "NY",
-        "non_political_file_folder": "Availability of Signals",
-        "_version_": 1719958960348332000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -285,7 +287,7 @@
         "GREENVLL-SPART-ASHEVLL-AND": 1552,
         "LINCOLN & HASTINGS-KRNY": 1544,
         "MADISON": 1499,
-        "PHOENIX (PRESCOTT)": 1484,
+        "PHOENIX (PRESCOTT)": 1486,
         "BINGHAMTON": 1459,
         "MINOT-BISMARCK-DICKINSON": 1457,
         "FARGO-VALLEY CITY": 1408,
@@ -342,7 +344,7 @@
         "ABC": 57148,
         "NBC": 55931,
         "CBS": 38087,
-        "FOX": 27466,
+        "FOX": 27468,
         "PBS": 14220,
         "CW": 12018,
         "IND": 2984,
@@ -410,7 +412,7 @@
         "2018": 67786,
         "2019": 14058,
         "2020": 126021,
-        "2021": 21633,
+        "2021": 21635,
         "2022": 95,
         "KYAZ": 5,
         "Fede": 1
@@ -451,7 +453,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233995,
+        "TV": 233997,
         "CABLE": 116456,
         "FM": 110451,
         "AM": 41199,
@@ -459,7 +461,7 @@
       },
       "political_file_type": {
         "PA": 218818,
-        "NCIA": 121591
+        "NCIA": 121593
       }
     }
   },
@@ -475,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 221,
-    "responseTime": 221
+    "queryTime": 1756,
+    "processTime": 764,
+    "responseTime": 1765
   }
 }
