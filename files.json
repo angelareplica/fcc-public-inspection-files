@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 507398,
+    "numFound": 507391,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
@@ -238,7 +238,7 @@
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8382,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7034,
-        "WILKES BARRE-SCRANTON": 6791,
+        "WILKES BARRE-SCRANTON": 6788,
         "LAS VEGAS": 5995,
         "WEST PALM BEACH-FT. PIERCE": 5814,
         "PITTSBURGH": 5323,
@@ -278,7 +278,7 @@
         "GREAT FALLS": 1923,
         "WASHINGTON DC (HAGRSTWN)": 1908,
         "LA CROSSE-EAU CLAIRE": 1802,
-        "BLUEFIELD-BECKLEY-OAK HILL": 1761,
+        "BLUEFIELD-BECKLEY-OAK HILL": 1757,
         "ALBUQUERQUE-SANTA FE": 1702,
         "ROCKFORD": 1619,
         "GREENVLL-SPART-ASHEVLL-AND": 1552,
@@ -338,7 +338,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57148,
+        "ABC": 57141,
         "NBC": 55931,
         "CBS": 38087,
         "FOX": 27468,
@@ -405,18 +405,18 @@
         "2014": 22062,
         "2015": 6083,
         "2016": 68738,
-        "2017": 10362,
+        "2017": 10358,
         "2018": 67786,
         "2019": 14058,
         "2020": 126021,
         "2021": 21638,
-        "2022": 95,
+        "2022": 92,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 64897,
-        "US Senate": 48677,
+        "US Senate": 48674,
         "US House": 41477,
         "Presidential": 39030,
         "Local": 23758
@@ -450,15 +450,15 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233997,
+        "TV": 233990,
         "CABLE": 116456,
         "FM": 110453,
         "AM": 41200,
         "DBS": 5292
       },
       "political_file_type": {
-        "PA": 218818,
-        "NCIA": 121596
+        "PA": 218815,
+        "NCIA": 121592
       }
     }
   },
@@ -474,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1742,
-    "processTime": 754,
-    "responseTime": 1754
+    "queryTime": 1746,
+    "processTime": 757,
+    "responseTime": 1757
   }
 }
