@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 507374,
+    "numFound": 507375,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "1111b8d0-244d-3e09-2c01-4fdfb79a8cf4",
+        "file_id": "1111b8d0-244d-3e09-2c01-4fdfb79a8cf4",
+        "file_name": "Must Carry PSID 002927",
+        "file_extension": "pdf",
+        "file_size": 56266,
+        "file_status": "com_cpy",
+        "folder_id": "b76d40a5-e9ef-49ea-4e03-d00ebaa706e4",
+        "create_ts": "2021-12-23T14:22:01.129Z",
+        "last_update_ts": "2021-12-23T14:21:44.539Z",
+        "active_ind": "Y",
+        "file_manager_id": "dd1fa803-4464-48ce-ac15-533c22bf9915",
+        "file_folder_path": "Availability of Signals",
+        "full_qualified_file_name": "Availability of Signals/Must Carry PSID 002927",
+        "entity_id": "002927",
+        "source_service_code": "CABLE",
+        "legal_name": "MEDIACOM ILLINOIS LLC",
+        "operator_city_name": "MEDIACOM PARK",
+        "operator_state_name": "NY",
+        "non_political_file_folder": "Availability of Signals",
+        "_version_": 1719947044088447000,
+        "score": 0.24995694
+      },
       {
         "id": "9f74d79e-e520-df21-c5e1-905db6fbec39",
         "file_id": "9f74d79e-e520-df21-c5e1-905db6fbec39",
@@ -210,29 +233,6 @@
         "non_political_file_folder": "Availability of Signals",
         "_version_": 1719941602455060500,
         "score": 0.24995694
-      },
-      {
-        "id": "51764210-32ed-fce9-16f6-f46e33963c89",
-        "file_id": "51764210-32ed-fce9-16f6-f46e33963c89",
-        "file_name": "wjgl stacey abrams 1227 0101 Abrams for Governor NAB PB-19 Candidate Agreement 12-17-2021",
-        "file_extension": "pdf",
-        "file_size": 1067878,
-        "file_status": "com_cpy",
-        "folder_id": "89fe319b-b9b6-7d6a-f78a-d480e3ab6d75",
-        "create_ts": "2021-12-23T12:37:22.223Z",
-        "last_update_ts": "2021-12-23T12:39:23.309Z",
-        "active_ind": "Y",
-        "file_manager_id": "9bfe8b68-fb71-4d7a-a036-4255f28e0a5c",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/wjgl stacey abrams 1227 0101 Abrams for Governor NAB PB-19 Candidate Agreement 12-17-2021",
-        "entity_id": "53590",
-        "source_service_code": "FM",
-        "callsign": "WJGL",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1719940460587253800,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -431,7 +431,7 @@
         "Local Public Notice Announcements": 1750,
         "Applications and Related Materials": 1643,
         "FCC Investigations or Complaints": 1524,
-        "Availability of Signals": 1522,
+        "Availability of Signals": 1523,
         "Must-Carry or Retransmission Consent": 1333,
         "Childrens TV Programming Reports": 1147,
         "Ownership Reports": 1111,
@@ -452,7 +452,7 @@
       },
       "source_service_code": {
         "TV": 233993,
-        "CABLE": 116441,
+        "CABLE": 116442,
         "FM": 110450,
         "AM": 41198,
         "DBS": 5292
@@ -475,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 213,
-    "processTime": 220,
-    "responseTime": 221
+    "queryTime": 1745,
+    "processTime": 754,
+    "responseTime": 1755
   }
 }
