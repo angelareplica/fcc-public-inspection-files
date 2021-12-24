@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 507402,
+    "numFound": 507403,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "84efc18e-b5ee-7ddf-6288-0de698add843",
+        "file_id": "84efc18e-b5ee-7ddf-6288-0de698add843",
+        "file_name": "2021-09-17 - Notice of Change Informational Rate Schedule (Eff 9-29 and 10-5-21)",
+        "file_extension": "pdf",
+        "file_size": 186039,
+        "file_status": "com_cpy",
+        "folder_id": "69c7c83e-e60b-8ea0-78b2-d782dd5ffae6",
+        "create_ts": "2021-12-24T01:24:45.005Z",
+        "last_update_ts": "2021-12-24T01:24:28.426Z",
+        "active_ind": "Y",
+        "file_manager_id": "65033175-31cb-4997-933c-765c9733963a",
+        "file_folder_path": "State and Local Franchising Related Materials/NJ-Rates and Terms of Service NJAC 14-18-34 b",
+        "full_qualified_file_name": "State and Local Franchising Related Materials/NJ-Rates and Terms of Service NJAC 14-18-34 b/2021-09-17 - Notice of Change Informational Rate Schedule (Eff 9-29 and 10-5-21)",
+        "entity_id": "020922",
+        "source_service_code": "CABLE",
+        "legal_name": "VERIZON NEW JERSEY, INC",
+        "operator_city_name": "IRVING",
+        "operator_state_name": "TX",
+        "non_political_file_folder": "State and Local Franchising Related Materials",
+        "_version_": 1719988739687579600,
+        "score": 0.24995694
+      },
       {
         "id": "abfdca79-bfa8-89ae-4757-2f01e2987dcb",
         "file_id": "abfdca79-bfa8-89ae-4757-2f01e2987dcb",
@@ -210,29 +233,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1719980295620395000,
         "score": 0.24995694
-      },
-      {
-        "id": "101554bb-454c-bc5d-6d57-7419c18497de",
-        "file_id": "101554bb-454c-bc5d-6d57-7419c18497de",
-        "file_name": "2022 01 01 Issues and Programs List",
-        "file_extension": "pdf",
-        "file_size": 505976,
-        "file_status": "com_cpy",
-        "folder_id": "772e7ad6-36c6-754e-24f9-436e072913f9",
-        "create_ts": "2021-12-23T22:55:02.851Z",
-        "last_update_ts": "2021-12-23T22:54:46.366Z",
-        "active_ind": "Y",
-        "file_manager_id": "0ace4946-9278-4829-a49e-21f626cbceac",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/2022 01 01 Issues and Programs List",
-        "entity_id": "62427",
-        "source_service_code": "TV",
-        "network_affiliation": "PBS",
-        "nielsen_dma_rank": "TWIN FALLS",
-        "callsign": "KIPT",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1719979321255264300,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -437,7 +437,7 @@
         "Ownership Reports": 1111,
         "Class A TV Continuing Eligibility": 636,
         "Political Matters and Controversial Issues Disclosures": 592,
-        "State and Local Franchising Related Materials": 482,
+        "State and Local Franchising Related Materials": 483,
         "Time Brokerage Agreements": 399,
         "Channels Delivered": 275,
         "Compatibility with Consumer Electronics Equipment": 142,
@@ -452,7 +452,7 @@
       },
       "source_service_code": {
         "TV": 233996,
-        "CABLE": 116461,
+        "CABLE": 116462,
         "FM": 110453,
         "AM": 41200,
         "DBS": 5292
@@ -475,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 216,
-    "processTime": 227,
-    "responseTime": 227
+    "queryTime": 211,
+    "processTime": 219,
+    "responseTime": 220
   }
 }
