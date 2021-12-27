@@ -1,9 +1,56 @@
 {
   "response": {
-    "numFound": 507441,
+    "numFound": 507443,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "8d7b3299-b59a-b8c5-b4eb-5ea3256b41ab",
+        "file_id": "8d7b3299-b59a-b8c5-b4eb-5ea3256b41ab",
+        "file_name": "WV Freedom Alliance 122721 to 010222 WQCW order 2344941 including NAB spot Rules",
+        "file_extension": "pdf",
+        "file_size": 630222,
+        "file_status": "com_cpy",
+        "folder_id": "95f48a9d-48ef-94bf-1c0a-dea55cb49fca",
+        "create_ts": "2021-12-27T20:12:00.504Z",
+        "last_update_ts": "2021-12-27T20:12:01.913Z",
+        "active_ind": "Y",
+        "file_manager_id": "83dd541a-8b81-413e-abdb-f4f3e0368fea",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/West Virginia Freedom Alliance Action Fund",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/West Virginia Freedom Alliance Action Fund/WV Freedom Alliance 122721 to 010222 WQCW order 2344941 including NAB spot Rules",
+        "entity_id": "65130",
+        "source_service_code": "TV",
+        "network_affiliation": "CW",
+        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
+        "callsign": "WQCW",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1720331451670462500,
+        "score": 0.24995694
+      },
+      {
+        "id": "8795e8ba-fd72-5a6e-650b-7f3ef374614f",
+        "file_id": "8795e8ba-fd72-5a6e-650b-7f3ef374614f",
+        "file_name": "KDLT-TV Post-Filing Announcement (002)",
+        "file_extension": "docx",
+        "file_size": 26381,
+        "file_status": "com_prc",
+        "folder_id": "99990dc3-1a51-e4b6-8bfb-cc316476fcae",
+        "create_ts": "2021-12-27T19:47:04.309Z",
+        "last_update_ts": "2021-12-27T19:49:18.648Z",
+        "active_ind": "Y",
+        "file_manager_id": "c7c2c274-0a61-40c5-aa06-2d453bb6923b",
+        "file_folder_path": "Local Public Notice Announcements",
+        "full_qualified_file_name": "Local Public Notice Announcements/KDLT-TV Post-Filing Announcement (002)",
+        "entity_id": "55379",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "SIOUX FALLS(MITCHELL)",
+        "callsign": "KDLT-TV",
+        "non_political_file_folder": "Local Public Notice Announcements",
+        "_version_": 1720329884276883500,
+        "score": 0.24995694
+      },
       {
         "id": "a7000f8e-ecdf-d7a8-fcfa-0dba121f5aa6",
         "file_id": "a7000f8e-ecdf-d7a8-fcfa-0dba121f5aa6",
@@ -185,51 +232,6 @@
         "campaign_year": "2021",
         "_version_": 1720323176432402400,
         "score": 0.24995694
-      },
-      {
-        "id": "1d484f46-8238-2337-4858-92be954be519",
-        "file_id": "1d484f46-8238-2337-4858-92be954be519",
-        "file_name": "United States Justice Foundation__Flight 004__Dec 2021__Invoice__VOM",
-        "file_extension": "pdf",
-        "file_size": 18720,
-        "file_status": "com_cpy",
-        "folder_id": "cde4adff-c8c2-6c05-a859-c21b64b02d6a",
-        "create_ts": "2021-12-27T17:59:20.252Z",
-        "last_update_ts": "2021-12-27T18:01:32.511Z",
-        "active_ind": "Y",
-        "file_manager_id": "15ef25c3-b85a-4956-88cc-d90cf5fd76a1",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/United States Justice Foundation-2021",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/United States Justice Foundation-2021/United States Justice Foundation__Flight 004__Dec 2021__Invoice__VOM",
-        "entity_id": "57300",
-        "source_service_code": "AM",
-        "callsign": "WVOM",
-        "political_file_type": "NCIA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1720323104251576300,
-        "score": 0.24995694
-      },
-      {
-        "id": "8ce2d1c3-b981-a61e-62bf-3d85b28b70f0",
-        "file_id": "8ce2d1c3-b981-a61e-62bf-3d85b28b70f0",
-        "file_name": "Coalition For American Jobs__Flight 003 Revised__Dec 2021__Invoice__VOM",
-        "file_extension": "pdf",
-        "file_size": 31849,
-        "file_status": "com_cpy",
-        "folder_id": "2346ffee-87f4-e0c7-e112-3f98f2496e6e",
-        "create_ts": "2021-12-27T17:40:37.972Z",
-        "last_update_ts": "2021-12-27T17:42:50.255Z",
-        "active_ind": "Y",
-        "file_manager_id": "1434b8a6-095a-4af5-b7fa-9b335524059b",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Coalition For American Jobs- 2021",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Coalition For American Jobs- 2021/Coalition For American Jobs__Flight 003 Revised__Dec 2021__Invoice__VOM",
-        "entity_id": "68660",
-        "source_service_code": "FM",
-        "callsign": "WVQM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1720321927515472000,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -242,7 +244,7 @@
         "PITTSBURGH": 5323,
         "HONOLULU": 5204,
         "DULUTH-SUPERIOR": 4650,
-        "CHARLESTON-HUNTINGTON": 4294,
+        "CHARLESTON-HUNTINGTON": 4295,
         "PORTLAND-AUBURN": 4216,
         "TALLAHASSEE-THOMASVILLE": 3972,
         "OMAHA": 3653,
@@ -337,11 +339,11 @@
       },
       "network_affiliation": {
         "ABC": 57142,
-        "NBC": 55931,
+        "NBC": 55932,
         "CBS": 38087,
         "FOX": 27468,
         "PBS": 14226,
-        "CW": 12018,
+        "CW": 12019,
         "IND": 2984,
         "MYTV": 2232,
         "UNIVISION": 1859,
@@ -407,7 +409,7 @@
         "2018": 67786,
         "2019": 14058,
         "2020": 126021,
-        "2021": 21672,
+        "2021": 21673,
         "2022": 92,
         "KYAZ": 5,
         "Fede": 1
@@ -425,7 +427,7 @@
         "Equal Employment Opportunity Records": 37061,
         "Donor Lists - Applicable Only for NCEs": 11402,
         "FCC Authorizations": 7189,
-        "Local Public Notice Announcements": 1750,
+        "Local Public Notice Announcements": 1751,
         "Applications and Related Materials": 1643,
         "Availability of Signals": 1528,
         "FCC Investigations or Complaints": 1524,
@@ -448,7 +450,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233997,
+        "TV": 233999,
         "CABLE": 116462,
         "FM": 110486,
         "AM": 41204,
@@ -456,7 +458,7 @@
       },
       "political_file_type": {
         "PA": 218815,
-        "NCIA": 121626
+        "NCIA": 121627
       }
     }
   },
@@ -472,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1761,
-    "processTime": 769,
-    "responseTime": 1770
+    "queryTime": 1752,
+    "processTime": 764,
+    "responseTime": 1764
   }
 }
