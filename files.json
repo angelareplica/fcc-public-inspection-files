@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 507440,
+    "numFound": 507441,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "a7000f8e-ecdf-d7a8-fcfa-0dba121f5aa6",
+        "file_id": "a7000f8e-ecdf-d7a8-fcfa-0dba121f5aa6",
+        "file_name": "CTPA 12.28.21-01.30.22 963270 Order",
+        "file_extension": "pdf",
+        "file_size": 35295,
+        "file_status": "com_cpy",
+        "folder_id": "f8354775-3a99-8890-5844-97dc08a66756",
+        "create_ts": "2021-12-27T18:55:39.912Z",
+        "last_update_ts": "2021-12-27T18:55:40.976Z",
+        "active_ind": "Y",
+        "file_manager_id": "82b147d3-529f-4806-b4ce-c5c57fc41287",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Coalition to Protect Access",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Coalition to Protect Access/CTPA 12.28.21-01.30.22 963270 Order",
+        "entity_id": "74100",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KTNV-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1720326648210915300,
+        "score": 0.24995694
+      },
       {
         "id": "bcb2486f-73af-df0b-0c7a-7cdd5f5d5c48",
         "file_id": "bcb2486f-73af-df0b-0c7a-7cdd5f5d5c48",
@@ -206,28 +230,6 @@
         "campaign_year": "2021",
         "_version_": 1720321927515472000,
         "score": 0.24995694
-      },
-      {
-        "id": "6990235c-ac97-2e01-16c4-2c3b314644c9",
-        "file_id": "6990235c-ac97-2e01-16c4-2c3b314644c9",
-        "file_name": "Coalition For American Jobs__Flight 002__Dec 2021__Invoice__VOM",
-        "file_extension": "pdf",
-        "file_size": 20700,
-        "file_status": "com_cpy",
-        "folder_id": "2346ffee-87f4-e0c7-e112-3f98f2496e6e",
-        "create_ts": "2021-12-27T17:40:37.939Z",
-        "last_update_ts": "2021-12-27T17:40:38.938Z",
-        "active_ind": "Y",
-        "file_manager_id": "8445eeb1-693e-448c-845b-542b209f2db3",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Coalition For American Jobs- 2021",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Coalition For American Jobs- 2021/Coalition For American Jobs__Flight 002__Dec 2021__Invoice__VOM",
-        "entity_id": "68660",
-        "source_service_code": "FM",
-        "callsign": "WVQM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1720321927466188800,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -235,7 +237,7 @@
         "DES MOINES-AMES": 8382,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7034,
         "WILKES BARRE-SCRANTON": 6788,
-        "LAS VEGAS": 5995,
+        "LAS VEGAS": 5996,
         "WEST PALM BEACH-FT. PIERCE": 5814,
         "PITTSBURGH": 5323,
         "HONOLULU": 5204,
@@ -334,7 +336,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57141,
+        "ABC": 57142,
         "NBC": 55931,
         "CBS": 38087,
         "FOX": 27468,
@@ -405,7 +407,7 @@
         "2018": 67786,
         "2019": 14058,
         "2020": 126021,
-        "2021": 21671,
+        "2021": 21672,
         "2022": 92,
         "KYAZ": 5,
         "Fede": 1
@@ -446,7 +448,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 233996,
+        "TV": 233997,
         "CABLE": 116462,
         "FM": 110486,
         "AM": 41204,
@@ -454,7 +456,7 @@
       },
       "political_file_type": {
         "PA": 218815,
-        "NCIA": 121625
+        "NCIA": 121626
       }
     }
   },
@@ -470,8 +472,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1748,
-    "processTime": 759,
-    "responseTime": 1760
+    "queryTime": 208,
+    "processTime": 216,
+    "responseTime": 216
   }
 }
