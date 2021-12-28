@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 507479,
+    "numFound": 507480,
     "start": 0,
     "maxScore": 0.50016385,
     "docs": [
+      {
+        "id": "b885c617-df3d-99e6-7a7e-f21034f27334",
+        "file_id": "b885c617-df3d-99e6-7a7e-f21034f27334",
+        "file_name": "Lynda Lindy Blanchard 0103-010922",
+        "file_extension": "pdf",
+        "file_size": 1603631,
+        "file_status": "com_cpy",
+        "folder_id": "2a0e1741-923b-7120-4853-7b0f250e6038",
+        "create_ts": "2021-12-28T19:58:44.861Z",
+        "last_update_ts": "2021-12-28T20:02:08.822Z",
+        "active_ind": "Y",
+        "file_manager_id": "0e7eec5b-6640-4654-a046-fcc753220a20",
+        "file_folder_path": "Political Files/2021/State/Governor/Blanchard",
+        "full_qualified_file_name": "Political Files/2021/State/Governor/Blanchard/Lynda Lindy Blanchard 0103-010922",
+        "entity_id": "5360",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
+        "callsign": "WIAT",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2021",
+        "_version_": 1720421285867028500,
+        "score": 0.24995694
+      },
       {
         "id": "02cdf3f5-c532-c19f-5009-1f64ff332ca7",
         "file_id": "02cdf3f5-c532-c19f-5009-1f64ff332ca7",
@@ -212,27 +237,6 @@
         "non_political_file_folder": "Local Public Notice Announcements",
         "_version_": 1720416799032344600,
         "score": 0.24995694
-      },
-      {
-        "id": "ee658559-eb28-e483-bdd8-fd83aeee0f8e",
-        "file_id": "ee658559-eb28-e483-bdd8-fd83aeee0f8e",
-        "file_name": "WBQQ Post renewal filing PN (01573858xB3D1E)",
-        "file_extension": "pdf",
-        "file_size": 42996,
-        "file_status": "com_cpy",
-        "folder_id": "dc39ac51-d8fe-1270-a768-b5bd48674de9",
-        "create_ts": "2021-12-28T16:32:00.606Z",
-        "last_update_ts": "2021-12-28T18:49:29.267Z",
-        "active_ind": "Y",
-        "file_manager_id": "08f3a92d-06ae-4a53-a49d-94f313081fc1",
-        "file_folder_path": "Local Public Notice Announcements",
-        "full_qualified_file_name": "Local Public Notice Announcements/WBQQ Post renewal filing PN (01573858xB3D1E)",
-        "entity_id": "69854",
-        "source_service_code": "FM",
-        "callsign": "WBQQ",
-        "non_political_file_folder": "Local Public Notice Announcements",
-        "_version_": 1720416714688036900,
-        "score": 0.24995694
       }
     ],
     "facets": {
@@ -268,7 +272,7 @@
         "QUINCY-HANNIBAL-KEOKUK": 2385,
         "WAUSAU-RHINELANDER": 2212,
         "PEORIA-BLOOMINGTON": 2210,
-        "BIRMINGHAM (ANN TUSC)": 2207,
+        "BIRMINGHAM (ANN TUSC)": 2208,
         "Greenville-Spartanburg-Asheville-Anderson": 2183,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2171,
         "TAMPA-ST. PETE (SARASOTA)": 2154,
@@ -341,7 +345,7 @@
       "network_affiliation": {
         "ABC": 57143,
         "NBC": 55936,
-        "CBS": 38093,
+        "CBS": 38094,
         "FOX": 27470,
         "PBS": 14226,
         "CW": 12019,
@@ -410,13 +414,13 @@
         "2018": 67786,
         "2019": 14058,
         "2020": 126021,
-        "2021": 21691,
+        "2021": 21692,
         "2022": 92,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 64904,
+        "State": 64905,
         "US Senate": 48677,
         "US House": 41477,
         "Presidential": 39030,
@@ -451,14 +455,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 234012,
+        "TV": 234013,
         "CABLE": 116464,
         "FM": 110504,
         "AM": 41207,
         "DBS": 5292
       },
       "political_file_type": {
-        "PA": 218820,
+        "PA": 218821,
         "NCIA": 121640
       }
     }
@@ -475,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1745,
-    "processTime": 754,
-    "responseTime": 1755
+    "queryTime": 1763,
+    "processTime": 771,
+    "responseTime": 1771
   }
 }
