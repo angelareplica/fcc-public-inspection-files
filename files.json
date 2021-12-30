@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 508124,
+    "numFound": 508125,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "1fb2b628-98b3-d70f-0db8-5580cd0ec90f",
+        "file_id": "1fb2b628-98b3-d70f-0db8-5580cd0ec90f",
+        "file_name": "WETR-AM quarterly report, 2021-04",
+        "file_extension": "doc",
+        "file_size": 109568,
+        "file_status": "com_prc",
+        "folder_id": "d326224b-896d-a6c5-6967-71bde312a722",
+        "create_ts": "2021-12-30T13:02:49.458Z",
+        "last_update_ts": "2021-12-30T13:03:00.939Z",
+        "active_ind": "Y",
+        "file_manager_id": "cafd642a-755f-4cf9-bd91-f3e48ae0a8d0",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/WETR-AM quarterly report, 2021-04",
+        "entity_id": "65205",
+        "source_service_code": "AM",
+        "callsign": "WETR",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1720576248783044600,
+        "score": 0.24995688
+      },
       {
         "id": "a13aa846-5909-b649-a7f8-c2f678649c3f",
         "file_id": "a13aa846-5909-b649-a7f8-c2f678649c3f",
@@ -211,27 +232,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1720509043964903400,
         "score": 0.24995688
-      },
-      {
-        "id": "14fa361e-8b79-901d-d08f-213e3e583f0f",
-        "file_id": "14fa361e-8b79-901d-d08f-213e3e583f0f",
-        "file_name": "2021 Issues Programs fourth quarterly report WGMF, 2021-04",
-        "file_extension": "pdf",
-        "file_size": 209415,
-        "file_status": "com_cpy",
-        "folder_id": "a812a0bb-90f8-f792-ad88-396f94d9825f",
-        "create_ts": "2021-12-29T19:11:53.544Z",
-        "last_update_ts": "2021-12-29T19:11:35.649Z",
-        "active_ind": "Y",
-        "file_manager_id": "c7da4c49-2cec-44cb-9419-048caf03afdf",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/2021 Issues Programs fourth quarterly report WGMF, 2021-04",
-        "entity_id": "59757",
-        "source_service_code": "AM",
-        "callsign": "WGMF",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1720508863154749400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -423,7 +423,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54247,
-        "Issues and Programs Lists": 44158,
+        "Issues and Programs Lists": 44159,
         "Equal Employment Opportunity Records": 37061,
         "Donor Lists - Applicable Only for NCEs": 11402,
         "FCC Authorizations": 7189,
@@ -453,7 +453,7 @@
         "TV": 234024,
         "CABLE": 117076,
         "FM": 110511,
-        "AM": 41221,
+        "AM": 41222,
         "DBS": 5292
       },
       "political_file_type": {
@@ -474,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 65,
-    "processTime": 71,
-    "responseTime": 72
+    "queryTime": 210,
+    "processTime": 223,
+    "responseTime": 224
   }
 }
