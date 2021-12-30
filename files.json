@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 508207,
+    "numFound": 508208,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "2fc7bdcd-a442-9c16-e043-77092c1b4aee",
+        "file_id": "2fc7bdcd-a442-9c16-e043-77092c1b4aee",
+        "file_name": "Hillary Clinton 02.23.2016",
+        "file_extension": "pdf",
+        "file_size": 1645425,
+        "file_status": "com_cpy",
+        "folder_id": "fbc7099e-ca5e-97ec-784f-679ff9dea4af",
+        "create_ts": "2021-03-12T19:45:25.226Z",
+        "last_update_ts": "2021-12-30T20:38:48.353Z",
+        "active_ind": "Y",
+        "file_manager_id": "ee3e36dc-534b-4d37-ba5d-e08ddb2d1bad",
+        "file_folder_path": "Political Files/2016/Federal/President",
+        "full_qualified_file_name": "Political Files/2016/Federal/President/Hillary Clinton 02.23.2016",
+        "entity_id": "60801",
+        "source_service_code": "FM",
+        "callsign": "KCHX",
+        "political_file_type": "PA",
+        "office_type": "Presidential",
+        "campaign_year": "2016",
+        "_version_": 1720604927008440300,
+        "score": 0.24995688
+      },
       {
         "id": "a5587b4f-dcc1-69f6-7e56-37c6e974779d",
         "file_id": "a5587b4f-dcc1-69f6-7e56-37c6e974779d",
@@ -222,30 +245,6 @@
         "campaign_year": "2021",
         "_version_": 1720586059595645000,
         "score": 0.24995688
-      },
-      {
-        "id": "4a33fd1f-305c-5751-5ee9-ef117871e0b3",
-        "file_id": "4a33fd1f-305c-5751-5ee9-ef117871e0b3",
-        "file_name": "Hyrdo Quebec PHD 5.18 TO 6.4 WAGM EST 006 1970559 #728774",
-        "file_extension": "pdf",
-        "file_size": 155731,
-        "file_status": "com_cpy",
-        "folder_id": "655de3e0-97c4-cb05-0414-4eac793f44ea",
-        "create_ts": "2021-12-30T15:38:53.598Z",
-        "last_update_ts": "2021-12-30T15:38:57.414Z",
-        "active_ind": "Y",
-        "file_manager_id": "ea66c05b-471b-4c18-b9db-532611586962",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/HYDRO QUEBEC PHD USA",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/HYDRO QUEBEC PHD USA/Hyrdo Quebec PHD 5.18 TO 6.4 WAGM EST 006 1970559 #728774",
-        "entity_id": "48305",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS/FOX",
-        "nielsen_dma_rank": "PRESQUE ISLE",
-        "callsign": "WAGM-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1720586059439407000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -418,7 +417,7 @@
         "2013": 384,
         "2014": 22062,
         "2015": 6083,
-        "2016": 68738,
+        "2016": 68739,
         "2017": 10358,
         "2018": 67786,
         "2019": 14058,
@@ -432,7 +431,7 @@
         "State": 64955,
         "US Senate": 48680,
         "US House": 41477,
-        "Presidential": 39030,
+        "Presidential": 39031,
         "Local": 23758
       },
       "non_political_file_folder": {
@@ -466,12 +465,12 @@
       "source_service_code": {
         "TV": 234106,
         "CABLE": 117076,
-        "FM": 110511,
+        "FM": 110512,
         "AM": 41222,
         "DBS": 5292
       },
       "political_file_type": {
-        "PA": 218875,
+        "PA": 218876,
         "NCIA": 122292
       }
     }
@@ -488,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 218,
-    "processTime": 225,
-    "responseTime": 226
+    "queryTime": 1804,
+    "processTime": 816,
+    "responseTime": 1817
   }
 }
