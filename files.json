@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 508123,
+    "numFound": 508124,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "a13aa846-5909-b649-a7f8-c2f678649c3f",
+        "file_id": "a13aa846-5909-b649-a7f8-c2f678649c3f",
+        "file_name": "Club for Growth Action 1402 0321-0522 2357951--2",
+        "file_extension": "pdf",
+        "file_size": 177949,
+        "file_status": "com_cpy",
+        "folder_id": "c9ddccdf-3fd2-124d-ce53-e72029bf66dd",
+        "create_ts": "2021-12-30T03:34:54.381Z",
+        "last_update_ts": "2021-12-30T03:34:56.681Z",
+        "active_ind": "Y",
+        "file_manager_id": "eda1c293-d022-461a-93c5-c1372f477e38",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action/Club for Growth Action 1402 0321-0522 2357951--2",
+        "entity_id": "72064",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "GREENSBORO-H.POINT-W.SALEM",
+        "callsign": "WFMY-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1720540509980590000,
+        "score": 0.24995688
+      },
       {
         "id": "64a7d3e5-2357-ee3e-089d-43cf4aa71968",
         "file_id": "64a7d3e5-2357-ee3e-089d-43cf4aa71968",
@@ -208,27 +232,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1720508863154749400,
         "score": 0.24995688
-      },
-      {
-        "id": "5584d5b5-8b88-9aec-2a2c-9d1dde62b071",
-        "file_id": "5584d5b5-8b88-9aec-2a2c-9d1dde62b071",
-        "file_name": "2021 Issues Programs fourth quarterly report WGMM, 2021-04",
-        "file_extension": "pdf",
-        "file_size": 209445,
-        "file_status": "com_cpy",
-        "folder_id": "61a21889-715f-2259-8055-1c8daf05b39e",
-        "create_ts": "2021-12-29T19:09:14.937Z",
-        "last_update_ts": "2021-12-29T19:09:16.068Z",
-        "active_ind": "Y",
-        "file_manager_id": "6f8e93d6-c4e5-4e2a-ac46-c08cbca6685e",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/2021 Issues Programs fourth quarterly report WGMM, 2021-04",
-        "entity_id": "19563",
-        "source_service_code": "AM",
-        "callsign": "WGMM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1720508697018368000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -258,7 +261,7 @@
         "MILWAUKEE": 2625,
         "FRESNO-VISALIA": 2603,
         "BEND OR": 2600,
-        "GREENSBORO-H.POINT-W.SALEM": 2530,
+        "GREENSBORO-H.POINT-W.SALEM": 2531,
         "CHICAGO": 2506,
         "SAVANNAH": 2417,
         "QUINCY-HANNIBAL-KEOKUK": 2385,
@@ -337,7 +340,7 @@
       "network_affiliation": {
         "ABC": 57144,
         "NBC": 55939,
-        "CBS": 38098,
+        "CBS": 38099,
         "FOX": 27472,
         "PBS": 14226,
         "CW": 12019,
@@ -407,7 +410,7 @@
         "2019": 14058,
         "2020": 126064,
         "2021": 22269,
-        "2022": 95,
+        "2022": 96,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -447,7 +450,7 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 234023,
+        "TV": 234024,
         "CABLE": 117076,
         "FM": 110511,
         "AM": 41221,
@@ -455,7 +458,7 @@
       },
       "political_file_type": {
         "PA": 218871,
-        "NCIA": 122213
+        "NCIA": 122214
       }
     }
   },
@@ -471,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 222,
-    "responseTime": 222
+    "queryTime": 208,
+    "processTime": 219,
+    "responseTime": 219
   }
 }
