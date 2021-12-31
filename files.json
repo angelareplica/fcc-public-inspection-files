@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 508220,
+    "numFound": 508221,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "ed2feedf-7161-8e1a-a7ec-ceb847d0800a",
+        "file_id": "ed2feedf-7161-8e1a-a7ec-ceb847d0800a",
+        "file_name": "Qtrly Pgm Rpt [10-01-21--12-31-21]_WJVM-FM",
+        "file_extension": "pdf",
+        "file_size": 235329,
+        "file_status": "com_cpy",
+        "folder_id": "10f68053-52e7-4209-ae0f-6c26d9c674ad",
+        "create_ts": "2021-12-31T01:01:06.075Z",
+        "last_update_ts": "2021-12-31T01:01:10.902Z",
+        "active_ind": "Y",
+        "file_manager_id": "9fed77e8-7af3-4a76-902b-5865ebcb9d90",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/Qtrly Pgm Rpt [10-01-21--12-31-21]_WJVM-FM",
+        "entity_id": "172335",
+        "source_service_code": "FM",
+        "callsign": "WJVM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1720621430442295300,
+        "score": 0.24995688
+      },
       {
         "id": "fa5b4551-7480-7b96-41ed-d778b4e6c253",
         "file_id": "fa5b4551-7480-7b96-41ed-d778b4e6c253",
@@ -212,27 +233,6 @@
         "non_political_file_folder": "Childrens TV Programming Reports",
         "_version_": 1720606690188984300,
         "score": 0.24995688
-      },
-      {
-        "id": "95d229b7-fcb2-c3ba-c0c4-26779acd3e54",
-        "file_id": "95d229b7-fcb2-c3ba-c0c4-26779acd3e54",
-        "file_name": "WBII-CD.ChildrensProgReport.2017.Supplement (01582439xB3D1E)",
-        "file_extension": "pdf",
-        "file_size": 100949,
-        "file_status": "com_cpy",
-        "folder_id": "9355f361-fac0-f857-06f5-f1693b7c62ce",
-        "create_ts": "2021-12-30T21:06:48.616Z",
-        "last_update_ts": "2021-12-30T21:06:49.959Z",
-        "active_ind": "Y",
-        "file_manager_id": "067ca1b7-11f8-4749-bd90-386d65b4a1f1",
-        "file_folder_path": "Childrens TV Programming Reports/Additional Documents",
-        "full_qualified_file_name": "Childrens TV Programming Reports/Additional Documents/WBII-CD.ChildrensProgReport.2017.Supplement (01582439xB3D1E)",
-        "entity_id": "41883",
-        "source_service_code": "TV",
-        "callsign": "WBII-CD",
-        "non_political_file_folder": "Childrens TV Programming Reports",
-        "_version_": 1720606690280210400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -424,7 +424,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54247,
-        "Issues and Programs Lists": 44159,
+        "Issues and Programs Lists": 44160,
         "Equal Employment Opportunity Records": 37061,
         "Donor Lists - Applicable Only for NCEs": 11402,
         "FCC Authorizations": 7189,
@@ -453,7 +453,7 @@
       "source_service_code": {
         "TV": 234117,
         "CABLE": 117076,
-        "FM": 110513,
+        "FM": 110514,
         "AM": 41222,
         "DBS": 5292
       },
@@ -475,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 216,
-    "processTime": 227,
+    "queryTime": 215,
+    "processTime": 226,
     "responseTime": 227
   }
 }
