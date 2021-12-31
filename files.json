@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 508221,
+    "numFound": 508222,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "0bfc7366-e325-0fb3-223a-cc02e6f2bdce",
+        "file_id": "0bfc7366-e325-0fb3-223a-cc02e6f2bdce",
+        "file_name": "InfoTrak Show #2022-01 Aired 1-2-22",
+        "file_extension": "pdf",
+        "file_size": 156717,
+        "file_status": "com_cpy",
+        "folder_id": "5cf305b1-68b5-97a4-5c65-fcd249afdc76",
+        "create_ts": "2021-12-31T13:07:18.304Z",
+        "last_update_ts": "2021-12-31T13:07:00.102Z",
+        "active_ind": "Y",
+        "file_manager_id": "64aa3c08-e3e3-48b6-83b8-c4aba27378eb",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/InfoTrak Show #2022-01 Aired 1-2-22",
+        "entity_id": "47103",
+        "source_service_code": "FM",
+        "callsign": "WKKY",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1720667119296708600,
+        "score": 0.24995688
+      },
       {
         "id": "ed2feedf-7161-8e1a-a7ec-ceb847d0800a",
         "file_id": "ed2feedf-7161-8e1a-a7ec-ceb847d0800a",
@@ -212,27 +233,6 @@
         "campaign_year": "2020",
         "_version_": 1720606856615821300,
         "score": 0.24995688
-      },
-      {
-        "id": "0f45e86e-62a0-5712-ed5f-06c995109933",
-        "file_id": "0f45e86e-62a0-5712-ed5f-06c995109933",
-        "file_name": "WBII-CD.ChildrensTVProgReport.2019.Supplement (01582441xB3D1E)",
-        "file_extension": "pdf",
-        "file_size": 99909,
-        "file_status": "com_cpy",
-        "folder_id": "9355f361-fac0-f857-06f5-f1693b7c62ce",
-        "create_ts": "2021-12-30T21:06:48.617Z",
-        "last_update_ts": "2021-12-30T21:06:53.06Z",
-        "active_ind": "Y",
-        "file_manager_id": "e5f8f220-680d-40b5-b8ee-bc85be932852",
-        "file_folder_path": "Childrens TV Programming Reports/Additional Documents",
-        "full_qualified_file_name": "Childrens TV Programming Reports/Additional Documents/WBII-CD.ChildrensTVProgReport.2019.Supplement (01582441xB3D1E)",
-        "entity_id": "41883",
-        "source_service_code": "TV",
-        "callsign": "WBII-CD",
-        "non_political_file_folder": "Childrens TV Programming Reports",
-        "_version_": 1720606690188984300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -424,7 +424,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54247,
-        "Issues and Programs Lists": 44160,
+        "Issues and Programs Lists": 44161,
         "Equal Employment Opportunity Records": 37061,
         "Donor Lists - Applicable Only for NCEs": 11402,
         "FCC Authorizations": 7189,
@@ -453,7 +453,7 @@
       "source_service_code": {
         "TV": 234117,
         "CABLE": 117076,
-        "FM": 110514,
+        "FM": 110515,
         "AM": 41222,
         "DBS": 5292
       },
@@ -475,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 215,
-    "responseTime": 216
+    "queryTime": 1858,
+    "processTime": 878,
+    "responseTime": 1878
   }
 }
