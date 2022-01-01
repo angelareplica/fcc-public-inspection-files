@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 508320,
+    "numFound": 508322,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "90cda83e-8b6f-585e-3082-7241a0e28d7b",
+        "file_id": "90cda83e-8b6f-585e-3082-7241a0e28d7b",
+        "file_name": "KIBMAM 010122",
+        "file_extension": "pdf",
+        "file_size": 1983393,
+        "file_status": "com_cpy",
+        "folder_id": "fe0978fc-157b-41ef-822d-9a57cfdb5071",
+        "create_ts": "2022-01-01T15:45:58.022Z",
+        "last_update_ts": "2022-01-01T15:46:07.988Z",
+        "active_ind": "Y",
+        "file_manager_id": "3db87eaa-5f99-426d-a3c7-40c7123e93ce",
+        "file_folder_path": "Issues and Programs Lists/2021/4TH QUARTER",
+        "full_qualified_file_name": "Issues and Programs Lists/2021/4TH QUARTER/KIBMAM 010122",
+        "entity_id": "74104",
+        "source_service_code": "AM",
+        "callsign": "KIBM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1720767699179536400,
+        "score": 0.24995688
+      },
+      {
+        "id": "0a50eec0-5dd2-7e73-3aea-855d1499f270",
+        "file_id": "0a50eec0-5dd2-7e73-3aea-855d1499f270",
+        "file_name": "KOBMFM 010122",
+        "file_extension": "pdf",
+        "file_size": 1985285,
+        "file_status": "com_cpy",
+        "folder_id": "71ce7152-0c11-3b1a-fd7a-925d1c2a408f",
+        "create_ts": "2022-01-01T15:42:29.527Z",
+        "last_update_ts": "2022-01-01T15:42:39.27Z",
+        "active_ind": "Y",
+        "file_manager_id": "7fee963e-e6ac-4a46-a683-83966629bc77",
+        "file_folder_path": "Issues and Programs Lists/2021/4TH QUARTER",
+        "full_qualified_file_name": "Issues and Programs Lists/2021/4TH QUARTER/KOBMFM 010122",
+        "entity_id": "87840",
+        "source_service_code": "FM",
+        "callsign": "KOBM-FM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1720767480338579500,
+        "score": 0.24995688
+      },
       {
         "id": "cb81ab6d-c23b-5289-1775-8c0f51895e22",
         "file_id": "cb81ab6d-c23b-5289-1775-8c0f51895e22",
@@ -170,48 +212,6 @@
         "callsign": "WNYM",
         "non_political_file_folder": "Time Brokerage Agreements",
         "_version_": 1720710403031302100,
-        "score": 0.24995688
-      },
-      {
-        "id": "48091666-9efd-b094-a5f5-f76310455707",
-        "file_id": "48091666-9efd-b094-a5f5-f76310455707",
-        "file_name": "2023-01-01 expires Red Apple Group Wed show public file WNYM",
-        "file_extension": "pdf",
-        "file_size": 8578059,
-        "file_status": "com_cpy",
-        "folder_id": "d03a2277-c89b-ab3e-1277-b1c0eadaa296",
-        "create_ts": "2022-01-01T00:33:25.505Z",
-        "last_update_ts": "2022-01-01T00:33:08.982Z",
-        "active_ind": "Y",
-        "file_manager_id": "ee6db09c-9d88-4cd8-97ae-35b4f0f90eb0",
-        "file_folder_path": "Time Brokerage Agreements/Red Apple Group",
-        "full_qualified_file_name": "Time Brokerage Agreements/Red Apple Group/2023-01-01 expires Red Apple Group Wed show public file WNYM",
-        "entity_id": "58635",
-        "source_service_code": "AM",
-        "callsign": "WNYM",
-        "non_political_file_folder": "Time Brokerage Agreements",
-        "_version_": 1720710288129392600,
-        "score": 0.24995688
-      },
-      {
-        "id": "42054cef-833c-2834-8c6f-bbc7bda11585",
-        "file_id": "42054cef-833c-2834-8c6f-bbc7bda11585",
-        "file_name": "WMBU-FM  2021-04 Quarterly Issues Report",
-        "file_extension": "pdf",
-        "file_size": 146032,
-        "file_status": "com_cpy",
-        "folder_id": "be908f59-2380-aea6-2b3a-e62d7d5b2517",
-        "create_ts": "2022-01-01T00:31:02.841Z",
-        "last_update_ts": "2022-01-01T00:31:10.559Z",
-        "active_ind": "Y",
-        "file_manager_id": "14f28976-0ab3-495a-99bd-8c27dd55b2ec",
-        "file_folder_path": "Issues and Programs Lists/2021",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/WMBU-FM  2021-04 Quarterly Issues Report",
-        "entity_id": "9926",
-        "source_service_code": "FM",
-        "callsign": "WMBU",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1720710136842944500,
         "score": 0.24995688
       }
     ],
@@ -404,7 +404,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54247,
-        "Issues and Programs Lists": 44237,
+        "Issues and Programs Lists": 44239,
         "Equal Employment Opportunity Records": 37061,
         "Donor Lists - Applicable Only for NCEs": 11402,
         "FCC Authorizations": 7189,
@@ -433,8 +433,8 @@
       "source_service_code": {
         "TV": 234118,
         "CABLE": 117076,
-        "FM": 110591,
-        "AM": 41243,
+        "FM": 110592,
+        "AM": 41244,
         "DBS": 5292
       },
       "political_file_type": {
@@ -455,8 +455,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 217,
-    "responseTime": 217
+    "queryTime": 1770,
+    "processTime": 780,
+    "responseTime": 1780
   }
 }
