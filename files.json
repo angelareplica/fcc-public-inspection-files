@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 508401,
+    "numFound": 508402,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "a7b51efa-73f4-0fdc-5743-2504cfd9d22d",
+        "file_id": "a7b51efa-73f4-0fdc-5743-2504cfd9d22d",
+        "file_name": "WBUA - On-air Post-Filing Notifications - 2021 Renewals (01577126-2xB3D1E)",
+        "file_extension": "pdf",
+        "file_size": 170962,
+        "file_status": "com_cpy",
+        "folder_id": "5059f673-b295-9963-1d04-d3a24e831a06",
+        "create_ts": "2022-01-04T11:16:34.639Z",
+        "last_update_ts": "2022-01-04T11:16:35.821Z",
+        "active_ind": "Y",
+        "file_manager_id": "b813db8a-d1af-481c-b41d-ca99581e1019",
+        "file_folder_path": "Local Public Notice Announcements",
+        "full_qualified_file_name": "Local Public Notice Announcements/WBUA - On-air Post-Filing Notifications - 2021 Renewals (01577126-2xB3D1E)",
+        "entity_id": "7055",
+        "source_service_code": "FM",
+        "callsign": "WBUA",
+        "non_political_file_folder": "Local Public Notice Announcements",
+        "_version_": 1721022540758909000,
+        "score": 0.24995688
+      },
       {
         "id": "0361976b-51d9-b347-fa2e-710ee92707b9",
         "file_id": "0361976b-51d9-b347-fa2e-710ee92707b9",
@@ -204,31 +225,6 @@
         "campaign_year": "2022",
         "_version_": 1720975694116159500,
         "score": 0.24995688
-      },
-      {
-        "id": "71783657-4649-3504-78b0-07750a5e93ea",
-        "file_id": "71783657-4649-3504-78b0-07750a5e93ea",
-        "file_name": "Charles Herbster 1717744 EstD29104 122921 to 010422 KPTM Order NAB",
-        "file_extension": "pdf",
-        "file_size": 2521157,
-        "file_status": "com_cpy",
-        "folder_id": "3637e2f6-f6d4-09fc-7128-9c8a7e627ed9",
-        "create_ts": "2022-01-03T22:17:00.436Z",
-        "last_update_ts": "2022-01-03T22:16:42.954Z",
-        "active_ind": "Y",
-        "file_manager_id": "cec33e4e-e694-4bfb-bde1-95ec7bf97d31",
-        "file_folder_path": "Political Files/2021/State/Charles Herbster",
-        "full_qualified_file_name": "Political Files/2021/State/Charles Herbster/Charles Herbster 1717744 EstD29104 122921 to 010422 KPTM Order NAB",
-        "entity_id": "51491",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "OMAHA",
-        "callsign": "KPTM",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1720973496002019300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -424,7 +420,7 @@
         "Equal Employment Opportunity Records": 37061,
         "Donor Lists - Applicable Only for NCEs": 11404,
         "FCC Authorizations": 7191,
-        "Local Public Notice Announcements": 1765,
+        "Local Public Notice Announcements": 1766,
         "Applications and Related Materials": 1651,
         "Availability of Signals": 1528,
         "FCC Investigations or Complaints": 1527,
@@ -449,7 +445,7 @@
       "source_service_code": {
         "TV": 234150,
         "CABLE": 117077,
-        "FM": 110627,
+        "FM": 110628,
         "AM": 41254,
         "DBS": 5293
       },
@@ -471,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 64,
-    "processTime": 75,
-    "responseTime": 75
+    "queryTime": 216,
+    "processTime": 225,
+    "responseTime": 226
   }
 }
