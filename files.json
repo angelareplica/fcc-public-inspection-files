@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 508449,
+    "numFound": 508450,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "7f95b98a-04a6-3534-5fb9-7da8b3126d59",
+        "file_id": "7f95b98a-04a6-3534-5fb9-7da8b3126d59",
+        "file_name": "2021-04_Quarterly_Issues_Report",
+        "file_extension": "pdf",
+        "file_size": 142291,
+        "file_status": "com_cpy",
+        "folder_id": "e1329400-60de-72a6-2e7e-7013648a5b97",
+        "create_ts": "2022-01-04T15:47:58.476Z",
+        "last_update_ts": "2022-01-04T15:47:39.317Z",
+        "active_ind": "Y",
+        "file_manager_id": "1b1717b1-435c-400f-ab78-0aa706558bc1",
+        "file_folder_path": "Issues and Programs Lists/2021",
+        "full_qualified_file_name": "Issues and Programs Lists/2021/2021-04_Quarterly_Issues_Report",
+        "entity_id": "8698",
+        "source_service_code": "FM",
+        "callsign": "WVNH",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1721039615541903400,
+        "score": 0.24995688
+      },
       {
         "id": "6bdb329c-c918-9ac1-0e42-f6c8db045844",
         "file_id": "6bdb329c-c918-9ac1-0e42-f6c8db045844",
@@ -210,27 +231,6 @@
         "non_political_file_folder": "FCC Authorizations",
         "_version_": 1721035328460947500,
         "score": 0.24995688
-      },
-      {
-        "id": "8d0c503e-64c9-af82-be36-c033765798bc",
-        "file_id": "8d0c503e-64c9-af82-be36-c033765798bc",
-        "file_name": "wngn-fm-2019-01-quarterly-issues-report-20190409-115646112-pdf",
-        "file_extension": "pdf",
-        "file_size": 344054,
-        "file_status": "com_cpy",
-        "folder_id": "3d51e3e4-eadc-9928-017b-1d5c2f52bc30",
-        "create_ts": "2022-01-04T14:26:08.892Z",
-        "last_update_ts": "2022-01-04T14:40:07.178Z",
-        "active_ind": "Y",
-        "file_manager_id": "4c76889c-059c-4013-aa98-1b7a93cc9904",
-        "file_folder_path": "FCC Authorizations/Additional Documents",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/wngn-fm-2019-01-quarterly-issues-report-20190409-115646112-pdf",
-        "entity_id": "11120",
-        "source_service_code": "FM",
-        "callsign": "WNGN",
-        "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1721035328459899000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -422,7 +422,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54247,
-        "Issues and Programs Lists": 44265,
+        "Issues and Programs Lists": 44266,
         "Equal Employment Opportunity Records": 37061,
         "Donor Lists - Applicable Only for NCEs": 11407,
         "FCC Authorizations": 7230,
@@ -451,7 +451,7 @@
       "source_service_code": {
         "TV": 234157,
         "CABLE": 117077,
-        "FM": 110667,
+        "FM": 110668,
         "AM": 41255,
         "DBS": 5293
       },
@@ -473,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 215,
-    "processTime": 225,
-    "responseTime": 226
+    "queryTime": 1765,
+    "processTime": 775,
+    "responseTime": 1776
   }
 }
