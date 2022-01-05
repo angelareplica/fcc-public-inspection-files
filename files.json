@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 508638,
+    "numFound": 508640,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "f7c0e361-cfad-f00d-6ed5-490e5141709e",
+        "file_id": "f7c0e361-cfad-f00d-6ed5-490e5141709e",
+        "file_name": "eeo-general-statement-01052022",
+        "file_extension": "pdf",
+        "file_size": 45950,
+        "file_status": "com_cpy",
+        "folder_id": "d4ea205a-6f44-f543-3a04-d78c819022bc",
+        "create_ts": "2022-01-05T18:16:37.071Z",
+        "last_update_ts": "2022-01-05T18:16:57.398Z",
+        "active_ind": "Y",
+        "file_manager_id": "f2148779-cf88-465c-94d8-31666c9339be",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/eeo-general-statement-01052022",
+        "entity_id": "42895",
+        "source_service_code": "FM",
+        "callsign": "KJLY",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1721139564192465000,
+        "score": 0.24995688
+      },
+      {
+        "id": "4327cda5-afa3-1788-f9b9-806567d8069e",
+        "file_id": "4327cda5-afa3-1788-f9b9-806567d8069e",
+        "file_name": "eeo-disemination-list-01052022",
+        "file_extension": "pdf",
+        "file_size": 46588,
+        "file_status": "com_cpy",
+        "folder_id": "d4ea205a-6f44-f543-3a04-d78c819022bc",
+        "create_ts": "2022-01-05T18:16:37.095Z",
+        "last_update_ts": "2022-01-05T18:16:38.148Z",
+        "active_ind": "Y",
+        "file_manager_id": "86a0b7ba-e04a-4dfc-8f93-a06fa529eb10",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/eeo-disemination-list-01052022",
+        "entity_id": "42895",
+        "source_service_code": "FM",
+        "callsign": "KJLY",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1721139564165202000,
+        "score": 0.24995688
+      },
       {
         "id": "a1dc98de-38e6-42d2-b499-d3cae78b0f83",
         "file_id": "a1dc98de-38e6-42d2-b499-d3cae78b0f83",
@@ -180,48 +222,6 @@
         "callsign": "WMHI",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1721135254298689500,
-        "score": 0.24995688
-      },
-      {
-        "id": "1c7c009d-2961-84b3-c0b2-98577cce4596",
-        "file_id": "1c7c009d-2961-84b3-c0b2-98577cce4596",
-        "file_name": "October 01 - December 31, 2021",
-        "file_extension": "pdf",
-        "file_size": 2511732,
-        "file_status": "com_cpy",
-        "folder_id": "c8eace2d-85f9-6812-8df1-c66c0a86eeb2",
-        "create_ts": "2022-01-05T17:05:55.699Z",
-        "last_update_ts": "2022-01-05T17:06:16.65Z",
-        "active_ind": "Y",
-        "file_manager_id": "6bdd006f-2c1d-4d3b-a981-5561a6f00a3a",
-        "file_folder_path": "Issues and Programs Lists/Issues List Jan 1-Dec 31 2021",
-        "full_qualified_file_name": "Issues and Programs Lists/Issues List Jan 1-Dec 31 2021/October 01 - December 31, 2021",
-        "entity_id": "40432",
-        "source_service_code": "FM",
-        "callsign": "WMHR",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1721135117594787800,
-        "score": 0.24995688
-      },
-      {
-        "id": "cf74dbf8-ef70-fe0e-4e85-7b6e8f73e093",
-        "file_id": "cf74dbf8-ef70-fe0e-4e85-7b6e8f73e093",
-        "file_name": "October 01 - December 31, 2021",
-        "file_extension": "pdf",
-        "file_size": 2511732,
-        "file_status": "com_cpy",
-        "folder_id": "266dcc5f-b49e-9a70-d98c-747396664a7f",
-        "create_ts": "2022-01-05T17:03:51.874Z",
-        "last_update_ts": "2022-01-05T17:03:33.201Z",
-        "active_ind": "Y",
-        "file_manager_id": "4e0e1f74-7a71-443f-9344-34b991c53e0d",
-        "file_folder_path": "Issues and Programs Lists/Issues List Jan 1-Dec 31 2021",
-        "full_qualified_file_name": "Issues and Programs Lists/Issues List Jan 1-Dec 31 2021/October 01 - December 31, 2021",
-        "entity_id": "40430",
-        "source_service_code": "FM",
-        "callsign": "WMHN",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1721134987804147700,
         "score": 0.24995688
       }
     ],
@@ -417,7 +417,7 @@
         "Issues and Programs Lists": 44378,
         "Equal Employment Opportunity Records": 37061,
         "Donor Lists - Applicable Only for NCEs": 11408,
-        "FCC Authorizations": 7236,
+        "FCC Authorizations": 7238,
         "Local Public Notice Announcements": 1765,
         "Applications and Related Materials": 1652,
         "FCC Investigations or Complaints": 1529,
@@ -443,7 +443,7 @@
       "source_service_code": {
         "TV": 234202,
         "CABLE": 117091,
-        "FM": 110763,
+        "FM": 110765,
         "AM": 41289,
         "DBS": 5293
       },
@@ -465,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1839,
-    "processTime": 847,
-    "responseTime": 1848
+    "queryTime": 1767,
+    "processTime": 773,
+    "responseTime": 1774
   }
 }
