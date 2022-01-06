@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 508844,
+    "numFound": 508845,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "1339242e-dc49-83fd-4666-0890f66c37e2",
+        "file_id": "1339242e-dc49-83fd-4666-0890f66c37e2",
+        "file_name": "Texans for Greg Abbott New Order PQ2368978 01.06.2022",
+        "file_extension": "pdf",
+        "file_size": 33696,
+        "file_status": "com_cpy",
+        "folder_id": "d2e67ff5-f980-f77c-69a1-df14d2fed809",
+        "create_ts": "2022-01-06T22:31:25.354Z",
+        "last_update_ts": "2022-01-06T22:32:41.032Z",
+        "active_ind": "Y",
+        "file_manager_id": "84215e9d-f33e-4929-b4fd-ec825bc3b8ae",
+        "file_folder_path": "Political Files/2022/State/Texans for Greg Abbott",
+        "full_qualified_file_name": "Political Files/2022/State/Texans for Greg Abbott/Texans for Greg Abbott New Order PQ2368978 01.06.2022",
+        "entity_id": "68541",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "TYLER-LONGVIEW(LFKN&NCGD)",
+        "callsign": "KTRE",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1721246270271520800,
+        "score": 0.24995688
+      },
+      {
+        "id": "d3aebf8e-df83-bdd7-24b0-6122b6e632f5",
+        "file_id": "d3aebf8e-df83-bdd7-24b0-6122b6e632f5",
+        "file_name": "Texans for Greg Abbott NAB  01.06.2022",
+        "file_extension": "pdf",
+        "file_size": 1052805,
+        "file_status": "com_cpy",
+        "folder_id": "d2e67ff5-f980-f77c-69a1-df14d2fed809",
+        "create_ts": "2022-01-06T22:31:35.878Z",
+        "last_update_ts": "2022-01-06T22:32:21.778Z",
+        "active_ind": "Y",
+        "file_manager_id": "72d5a3dd-af24-4d1d-9cd7-16ed61a925c2",
+        "file_folder_path": "Political Files/2022/State/Texans for Greg Abbott",
+        "full_qualified_file_name": "Political Files/2022/State/Texans for Greg Abbott/Texans for Greg Abbott NAB  01.06.2022",
+        "entity_id": "68541",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "TYLER-LONGVIEW(LFKN&NCGD)",
+        "callsign": "KTRE",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1721246226485084200,
+        "score": 0.24995688
+      },
       {
         "id": "7cb868cd-322f-5dec-140c-486d9a994940",
         "file_id": "7cb868cd-322f-5dec-140c-486d9a994940",
@@ -193,56 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1721244110877098000,
         "score": 0.24995688
-      },
-      {
-        "id": "921fb069-4c33-8eb1-757b-86c034184c35",
-        "file_id": "921fb069-4c33-8eb1-757b-86c034184c35",
-        "file_name": "Abbott KAMC 3366320 011022-012622",
-        "file_extension": "pdf",
-        "file_size": 397645,
-        "file_status": "com_cpy",
-        "folder_id": "22d8947a-81f9-51c9-20ee-dadfb3314c69",
-        "create_ts": "2022-01-06T21:54:44.031Z",
-        "last_update_ts": "2022-01-06T21:55:07.816Z",
-        "active_ind": "Y",
-        "file_manager_id": "66cbc963-1b77-4617-9296-b57af65a5755",
-        "file_folder_path": "Political Files/2022/State/Abbott",
-        "full_qualified_file_name": "Political Files/2022/State/Abbott/Abbott KAMC 3366320 011022-012622",
-        "entity_id": "40820",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LUBBOCK",
-        "callsign": "KAMC",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1721243884077449200,
-        "score": 0.24995688
-      },
-      {
-        "id": "2917200c-9d14-0b5a-47f3-0c5cf3121aa5",
-        "file_id": "2917200c-9d14-0b5a-47f3-0c5cf3121aa5",
-        "file_name": "Abbott KLBK 3366328 011022-012622",
-        "file_extension": "pdf",
-        "file_size": 405545,
-        "file_status": "com_cpy",
-        "folder_id": "9afc28f0-5b9b-4e3e-0135-d023faa0aa8f",
-        "create_ts": "2022-01-06T21:52:36.101Z",
-        "last_update_ts": "2022-01-06T21:52:37.409Z",
-        "active_ind": "Y",
-        "file_manager_id": "cdb30509-0783-4c66-9736-643a68cd1989",
-        "file_folder_path": "Political Files/2022/State/Abbott",
-        "full_qualified_file_name": "Political Files/2022/State/Abbott/Abbott KLBK 3366328 011022-012622",
-        "entity_id": "3660",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LUBBOCK",
-        "callsign": "KLBK-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1721243749874401300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -349,7 +349,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57176,
+        "ABC": 57178,
         "NBC": 55955,
         "CBS": 38130,
         "FOX": 27497,
@@ -417,20 +417,20 @@
         "2015": 6083,
         "2016": 68739,
         "2017": 10359,
-        "2018": 67773,
+        "2018": 67772,
         "2019": 14049,
         "2020": 126058,
         "2021": 22414,
-        "2022": 242,
+        "2022": 244,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65018,
+        "State": 65020,
         "US Senate": 48719,
         "US House": 41479,
         "Presidential": 39023,
-        "Local": 23783
+        "Local": 23782
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54256,
@@ -461,14 +461,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 234269,
+        "TV": 234271,
         "CABLE": 117093,
-        "FM": 110854,
+        "FM": 110853,
         "AM": 41335,
         "DBS": 5293
       },
       "political_file_type": {
-        "PA": 219002,
+        "PA": 219003,
         "NCIA": 122348
       }
     }
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1767,
-    "processTime": 777,
-    "responseTime": 1777
+    "queryTime": 1772,
+    "processTime": 779,
+    "responseTime": 1780
   }
 }
