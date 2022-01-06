@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 508791,
+    "numFound": 508792,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "4a8b3550-6129-2d35-cd29-700e7f233e57",
+        "file_id": "4a8b3550-6129-2d35-cd29-700e7f233e57",
+        "file_name": "WNIS-Giovanni Dolmo-Virginia House of Delegates-89th District-General Election-NAB Form for Contract CON-NOR-BM-2659-010622",
+        "file_extension": "pdf",
+        "file_size": 124279,
+        "file_status": "com_cpy",
+        "folder_id": "7cb62c01-43ba-cdd0-a396-5ac3d2256b40",
+        "create_ts": "2022-01-06T18:53:23.353Z",
+        "last_update_ts": "2022-01-06T18:53:24.438Z",
+        "active_ind": "Y",
+        "file_manager_id": "f5c40115-c73b-4f5d-a4e0-c190608f3722",
+        "file_folder_path": "Political Files/2022/State/Giovanni Dolmo-Virginia House of Delegates",
+        "full_qualified_file_name": "Political Files/2022/State/Giovanni Dolmo-Virginia House of Delegates/WNIS-Giovanni Dolmo-Virginia House of Delegates-89th District-General Election-NAB Form for Contract CON-NOR-BM-2659-010622",
+        "entity_id": "4671",
+        "source_service_code": "AM",
+        "callsign": "WNIS",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1721232474579665000,
+        "score": 0.24995688
+      },
       {
         "id": "94f6b8e3-ace3-6e2b-bbb2-bec495e7ffc2",
         "file_id": "94f6b8e3-ace3-6e2b-bbb2-bec495e7ffc2",
@@ -199,31 +222,6 @@
         "campaign_year": "2022",
         "_version_": 1721227418232946700,
         "score": 0.24995688
-      },
-      {
-        "id": "5d0664a8-f46c-18d7-5e78-129ce768a91c",
-        "file_id": "5d0664a8-f46c-18d7-5e78-129ce768a91c",
-        "file_name": "1229 0104 Herbster 1719696 NAB KFXL",
-        "file_extension": "pdf",
-        "file_size": 707040,
-        "file_status": "com_cpy",
-        "folder_id": "6d01d8f4-ca17-eb94-4e10-4dfe1607a3ab",
-        "create_ts": "2022-01-06T17:27:09.127Z",
-        "last_update_ts": "2022-01-06T17:27:32.423Z",
-        "active_ind": "Y",
-        "file_manager_id": "632adc8f-c63d-421e-954f-e9a0b800ea7f",
-        "file_folder_path": "Political Files/2022/State/Charles Herbster for Gov R",
-        "full_qualified_file_name": "Political Files/2022/State/Charles Herbster for Gov R/1229 0104 Herbster 1719696 NAB KFXL",
-        "entity_id": "84453",
-        "source_service_code": "TV",
-        "network_affiliation": "CW",
-        "nielsen_dma_rank": "LINCOLN & HASTINGS-KRNY",
-        "callsign": "KFXL-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1721227049326084000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -402,12 +400,12 @@
         "2019": 14049,
         "2020": 126059,
         "2021": 22407,
-        "2022": 226,
+        "2022": 227,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65005,
+        "State": 65006,
         "US Senate": 48716,
         "US House": 41479,
         "Presidential": 39024,
@@ -445,11 +443,11 @@
         "TV": 234255,
         "CABLE": 117091,
         "FM": 110831,
-        "AM": 41321,
+        "AM": 41322,
         "DBS": 5293
       },
       "political_file_type": {
-        "PA": 218987,
+        "PA": 218988,
         "NCIA": 122341
       }
     }
@@ -466,8 +464,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1634,
-    "processTime": 641,
-    "responseTime": 1641
+    "queryTime": 1769,
+    "processTime": 775,
+    "responseTime": 1776
   }
 }
