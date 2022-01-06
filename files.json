@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 508832,
+    "numFound": 508833,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "d2c1db0f-fdad-68c8-9de8-8be496d06ac2",
+        "file_id": "d2c1db0f-fdad-68c8-9de8-8be496d06ac2",
+        "file_name": "WBFS_Political Inquiry Form for TERRY ANN WILLIAMS EDDEN FLORIDA STATE SENATE DISTRICT 33 (003)",
+        "file_extension": "pdf",
+        "file_size": 63063,
+        "file_status": "com_cpy",
+        "folder_id": "ca7efe5a-ecad-bba1-5a15-6559fdc05289",
+        "create_ts": "2022-01-06T21:41:08.859Z",
+        "last_update_ts": "2022-01-06T21:41:09.992Z",
+        "active_ind": "Y",
+        "file_manager_id": "d2c3ba8b-c20b-4345-82f3-d9a51b211fa1",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/CAMPAIGN TO ELECT TERRY ANN WILLIAMS EDDEN DEM FLORIDA SENATE DISTRICT 33",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/CAMPAIGN TO ELECT TERRY ANN WILLIAMS EDDEN DEM FLORIDA SENATE DISTRICT 33/WBFS_Political Inquiry Form for TERRY ANN WILLIAMS EDDEN FLORIDA STATE SENATE DISTRICT 33 (003)",
+        "entity_id": "47902",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "MIAMI-FT. LAUDERDALE",
+        "callsign": "WFOR-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1721243029067530200,
+        "score": 0.24995688
+      },
       {
         "id": "388052e5-98eb-ffbd-6d6c-b36cb326d02c",
         "file_id": "388052e5-98eb-ffbd-6d6c-b36cb326d02c",
@@ -192,27 +217,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1721240199454785500,
         "score": 0.00012497844
-      },
-      {
-        "id": "f49caca1-4d83-7b01-3869-5526c042e9eb",
-        "file_id": "f49caca1-4d83-7b01-3869-5526c042e9eb",
-        "file_name": "Page 4 November PSA Affidavits",
-        "file_extension": "pdf",
-        "file_size": 23476,
-        "file_status": "com_cpy",
-        "folder_id": "9cd096e9-a526-d396-e7e3-652b2477a3bf",
-        "create_ts": "2022-01-06T20:56:09.06Z",
-        "last_update_ts": "2022-01-06T20:56:32.576Z",
-        "active_ind": "Y",
-        "file_manager_id": "22fc7c12-46d3-4a29-99f0-439d819edf91",
-        "file_folder_path": "Issues and Programs Lists/2021/Qtr 4",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/Qtr 4/Page 4 November PSA Affidavits",
-        "entity_id": "61578",
-        "source_service_code": "FM",
-        "callsign": "KICA-FM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1721240198200688600,
-        "score": 0.00012497844
       }
     ],
     "facets": {
@@ -271,7 +275,7 @@
         "FARGO-VALLEY CITY": 1412,
         "BURLINGTON-PLATTSBURGH": 1400,
         "CHATTANOOGA": 1369,
-        "MIAMI-FT. LAUDERDALE": 1297,
+        "MIAMI-FT. LAUDERDALE": 1298,
         "PADUCAH-CAPE GIRARD-HARSBG": 1284,
         "GAINESVILLE": 1265,
         "PROVIDENCE-NEW BEDFORD": 1200,
@@ -321,7 +325,7 @@
       "network_affiliation": {
         "ABC": 57172,
         "NBC": 55954,
-        "CBS": 38129,
+        "CBS": 38130,
         "FOX": 27495,
         "PBS": 14232,
         "CW": 12038,
@@ -391,13 +395,13 @@
         "2019": 14049,
         "2020": 126059,
         "2021": 22412,
-        "2022": 233,
+        "2022": 234,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 65011,
-        "US Senate": 48717,
+        "US Senate": 48718,
         "US House": 41479,
         "Presidential": 39024,
         "Local": 23783
@@ -431,14 +435,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 234260,
+        "TV": 234261,
         "CABLE": 117093,
         "FM": 110851,
         "AM": 41335,
         "DBS": 5293
       },
       "political_file_type": {
-        "PA": 218994,
+        "PA": 218995,
         "NCIA": 122346
       }
     }
@@ -455,8 +459,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1760,
-    "processTime": 768,
-    "responseTime": 1769
+    "queryTime": 1801,
+    "processTime": 808,
+    "responseTime": 1808
   }
 }
