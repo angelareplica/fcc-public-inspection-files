@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 508768,
+    "numFound": 508763,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
@@ -331,7 +331,7 @@
       },
       "network_affiliation": {
         "ABC": 57164,
-        "NBC": 55955,
+        "NBC": 55950,
         "CBS": 38128,
         "FOX": 27495,
         "PBS": 14234,
@@ -399,7 +399,7 @@
         "2016": 68739,
         "2017": 10359,
         "2018": 67786,
-        "2019": 14054,
+        "2019": 14049,
         "2020": 126060,
         "2021": 22404,
         "2022": 201,
@@ -411,7 +411,7 @@
         "US Senate": 48711,
         "US House": 41479,
         "Presidential": 39025,
-        "Local": 23794
+        "Local": 23789
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54256,
@@ -442,14 +442,14 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 234242,
+        "TV": 234237,
         "CABLE": 117091,
         "FM": 110817,
         "AM": 41325,
         "DBS": 5293
       },
       "political_file_type": {
-        "PA": 218981,
+        "PA": 218976,
         "NCIA": 122338
       }
     }
@@ -466,8 +466,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1764,
-    "processTime": 773,
-    "responseTime": 1774
+    "queryTime": 1768,
+    "processTime": 775,
+    "responseTime": 1775
   }
 }
