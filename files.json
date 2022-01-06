@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 508786,
+    "numFound": 508787,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "65472dad-43e2-2c8f-055f-3ed5edec0455",
+        "file_id": "65472dad-43e2-2c8f-055f-3ed5edec0455",
+        "file_name": "Moreno 12-06 thru 10-2021",
+        "file_extension": "pdf",
+        "file_size": 108999,
+        "file_status": "com_cpy",
+        "folder_id": "9c800d35-3ec1-2a4c-0b22-7195fe5184d2",
+        "create_ts": "2022-01-06T18:14:22.208Z",
+        "last_update_ts": "2022-01-06T18:14:45.598Z",
+        "active_ind": "Y",
+        "file_manager_id": "24e75db6-e767-4fb4-a62c-605e6766b391",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/Moreno for US Senate",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/Moreno for US Senate/Moreno 12-06 thru 10-2021",
+        "entity_id": "26221",
+        "source_service_code": "AM",
+        "callsign": "WINT",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1721230020059332600,
+        "score": 0.24995688
+      },
+      {
+        "id": "f5346d1d-1257-b5da-c7d8-5dcb3daa03e7",
+        "file_id": "f5346d1d-1257-b5da-c7d8-5dcb3daa03e7",
+        "file_name": "InfoTrak quarterly report, 2021-04",
+        "file_extension": "doc",
+        "file_size": 118784,
+        "file_status": "com_prc",
+        "folder_id": "085f9c13-817d-da05-9a29-a9721b248a17",
+        "create_ts": "2022-01-06T17:56:00.787Z",
+        "last_update_ts": "2022-01-06T17:56:27.182Z",
+        "active_ind": "Y",
+        "file_manager_id": "67c13531-8a3c-4902-ad15-2053f94140d1",
+        "file_folder_path": "Issues and Programs Lists/WNSR2021",
+        "full_qualified_file_name": "Issues and Programs Lists/WNSR2021/InfoTrak quarterly report, 2021-04",
+        "entity_id": "41062",
+        "source_service_code": "AM",
+        "callsign": "WNSR",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1721228868295065600,
+        "score": 0.24995688
+      },
       {
         "id": "e5da834e-ed93-6e13-44cb-a4d4c857a8bf",
         "file_id": "e5da834e-ed93-6e13-44cb-a4d4c857a8bf",
@@ -190,56 +234,6 @@
         "campaign_year": "2022",
         "_version_": 1721226733143720000,
         "score": 0.24995688
-      },
-      {
-        "id": "f0cc2491-8b81-8efe-e5d7-8fefc10d9edb",
-        "file_id": "f0cc2491-8b81-8efe-e5d7-8fefc10d9edb",
-        "file_name": "KHGI KFXL FCC Posting Delay Document 03313021",
-        "file_extension": "docx",
-        "file_size": 18786,
-        "file_status": "com_prc",
-        "folder_id": "3c2a4902-1ecc-9fd4-8692-3048a05add48",
-        "create_ts": "2022-01-06T17:18:06.809Z",
-        "last_update_ts": "2022-01-06T17:18:30.421Z",
-        "active_ind": "Y",
-        "file_manager_id": "3995fd29-10a9-40ad-99eb-98cf961e2fdb",
-        "file_folder_path": "Political Files/2022/State/Charles Herbster for Gov R",
-        "full_qualified_file_name": "Political Files/2022/State/Charles Herbster for Gov R/KHGI KFXL FCC Posting Delay Document 03313021",
-        "entity_id": "21162",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LINCOLN & HASTINGS-KRNY",
-        "callsign": "KWNB-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1721226481010475000,
-        "score": 0.24995688
-      },
-      {
-        "id": "34cd3be3-5c5b-aacf-2bb4-d378e7ec555a",
-        "file_id": "34cd3be3-5c5b-aacf-2bb4-d378e7ec555a",
-        "file_name": "1229 0104 Herbster 1719705 NAB KHGI",
-        "file_extension": "pdf",
-        "file_size": 668019,
-        "file_status": "com_cpy",
-        "folder_id": "bdfc8e7a-b664-f907-1565-f5e6e5960f0a",
-        "create_ts": "2022-01-06T17:13:53.281Z",
-        "last_update_ts": "2022-01-06T17:13:54.601Z",
-        "active_ind": "Y",
-        "file_manager_id": "0739c2c8-a2fd-4d3d-a064-3606ff844af7",
-        "file_folder_path": "Political Files/2022/State/Charles Herbster for Gov R",
-        "full_qualified_file_name": "Political Files/2022/State/Charles Herbster for Gov R/1229 0104 Herbster 1719705 NAB KHGI",
-        "entity_id": "21160",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LINCOLN & HASTINGS-KRNY",
-        "callsign": "KHGI-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1721226214747668500,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -346,7 +340,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57172,
+        "ABC": 57171,
         "NBC": 55954,
         "CBS": 38128,
         "FOX": 27495,
@@ -416,22 +410,22 @@
         "2017": 10359,
         "2018": 67773,
         "2019": 14049,
-        "2020": 126060,
-        "2021": 22406,
+        "2020": 126059,
+        "2021": 22407,
         "2022": 225,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 65004,
-        "US Senate": 48715,
+        "US Senate": 48716,
         "US House": 41479,
-        "Presidential": 39025,
+        "Presidential": 39024,
         "Local": 23783
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54256,
-        "Issues and Programs Lists": 44475,
+        "Issues and Programs Lists": 44476,
         "Equal Employment Opportunity Records": 37061,
         "Donor Lists - Applicable Only for NCEs": 11409,
         "FCC Authorizations": 7239,
@@ -458,10 +452,10 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 234256,
+        "TV": 234255,
         "CABLE": 117091,
         "FM": 110830,
-        "AM": 41316,
+        "AM": 41318,
         "DBS": 5293
       },
       "political_file_type": {
@@ -482,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1764,
-    "processTime": 771,
-    "responseTime": 1771
+    "queryTime": 1767,
+    "processTime": 774,
+    "responseTime": 1774
   }
 }
