@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 508889,
+    "numFound": 508890,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "b7ad803a-6fe6-00a7-0e79-a9ae837542b4",
+        "file_id": "b7ad803a-6fe6-00a7-0e79-a9ae837542b4",
+        "file_name": "Texans for Greg Abbott NAB 2022 Brandon Judd 010622",
+        "file_extension": "pdf",
+        "file_size": 1056937,
+        "file_status": "com_cpy",
+        "folder_id": "59b31035-18fd-ea67-e4c9-68d04e913a30",
+        "create_ts": "2022-01-07T23:35:25.37Z",
+        "last_update_ts": "2022-01-07T23:35:05.909Z",
+        "active_ind": "Y",
+        "file_manager_id": "53a2b838-39a1-4980-8dec-ac78d4abc53a",
+        "file_folder_path": "Political Files/2022/State/Texas/Greg Abbott TX Governor",
+        "full_qualified_file_name": "Political Files/2022/State/Texas/Greg Abbott TX Governor/Texans for Greg Abbott NAB 2022 Brandon Judd 010622",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1721340816115368000,
+        "score": 0.24995688
+      },
       {
         "id": "0f5be8dc-3e38-8409-1679-4027f18ed9be",
         "file_id": "0f5be8dc-3e38-8409-1679-4027f18ed9be",
@@ -216,27 +238,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1721334623221317600,
         "score": 0.24995688
-      },
-      {
-        "id": "267bf846-493b-c03a-414f-0225e9ade230",
-        "file_id": "267bf846-493b-c03a-414f-0225e9ade230",
-        "file_name": "KTPZ-FM infoTrak quarterly report, 2021-04_29.5 min.docx",
-        "file_extension": "pdf",
-        "file_size": 207222,
-        "file_status": "com_cpy",
-        "folder_id": "3f5834a0-c9d6-a11b-7eb4-5e487ea3b792",
-        "create_ts": "2022-01-07T21:49:24.566Z",
-        "last_update_ts": "2022-01-07T21:49:51.076Z",
-        "active_ind": "Y",
-        "file_manager_id": "26ed4814-10dd-4e2a-9346-5b105c39d15b",
-        "file_folder_path": "Issues and Programs Lists/2021 - Issues and Programming - KTPZ-FM/Q4",
-        "full_qualified_file_name": "Issues and Programs Lists/2021 - Issues and Programming - KTPZ-FM/Q4/KTPZ-FM infoTrak quarterly report, 2021-04_29.5 min.docx",
-        "entity_id": "164127",
-        "source_service_code": "FM",
-        "callsign": "KTPZ",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1721334145952514000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -415,12 +416,12 @@
         "2019": 14041,
         "2020": 126057,
         "2021": 22416,
-        "2022": 273,
+        "2022": 274,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65040,
+        "State": 65041,
         "US Senate": 48721,
         "US House": 41479,
         "Presidential": 39020,
@@ -459,10 +460,10 @@
         "CABLE": 117095,
         "FM": 110879,
         "AM": 41346,
-        "DBS": 5293
+        "DBS": 5294
       },
       "political_file_type": {
-        "PA": 219023,
+        "PA": 219024,
         "NCIA": 122347
       }
     }
@@ -479,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1765,
-    "processTime": 773,
-    "responseTime": 1773
+    "queryTime": 215,
+    "processTime": 221,
+    "responseTime": 221
   }
 }
