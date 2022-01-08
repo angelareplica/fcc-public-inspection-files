@@ -5,6 +5,27 @@
     "maxScore": 0.50016373,
     "docs": [
       {
+        "id": "1646eb81-d074-2754-a7c7-b23e5ac408a7",
+        "file_id": "1646eb81-d074-2754-a7c7-b23e5ac408a7",
+        "file_name": "InfoTrak Show #2022-02 Aired 1-9-22",
+        "file_extension": "pdf",
+        "file_size": 156959,
+        "file_status": "com_cpy",
+        "folder_id": "5cf305b1-68b5-97a4-5c65-fcd249afdc76",
+        "create_ts": "2022-01-08T20:20:55.806Z",
+        "last_update_ts": "2022-01-08T20:20:57.11Z",
+        "active_ind": "Y",
+        "file_manager_id": "c6a98a00-2967-40b3-b578-b3ddfe5edc81",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/InfoTrak Show #2022-02 Aired 1-9-22",
+        "entity_id": "47103",
+        "source_service_code": "FM",
+        "callsign": "WKKY",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1721419176285831200,
+        "score": 0.24995688
+      },
+      {
         "id": "4afb021d-04bc-b74f-a2e2-47e5beb5cfda",
         "file_id": "4afb021d-04bc-b74f-a2e2-47e5beb5cfda",
         "file_name": "Donor List - 2022-01",
@@ -202,29 +223,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1721342232618860500,
         "score": 0.24995688
-      },
-      {
-        "id": "36a0e89e-1b96-23bd-ed76-93df57b875f8",
-        "file_id": "36a0e89e-1b96-23bd-ed76-93df57b875f8",
-        "file_name": "07 - 4Q21 Station Campaigns",
-        "file_extension": "doc",
-        "file_size": 28160,
-        "file_status": "com_prc",
-        "folder_id": "1938bc69-a6c0-bc47-3305-44fdf22ee783",
-        "create_ts": "2022-01-07T23:57:31.261Z",
-        "last_update_ts": "2022-01-07T23:58:15.452Z",
-        "active_ind": "Y",
-        "file_manager_id": "e7d5315a-10fa-4cac-8990-7b5bf9b7f37e",
-        "file_folder_path": "Issues and Programs Lists/4th Quarter 2021",
-        "full_qualified_file_name": "Issues and Programs Lists/4th Quarter 2021/07 - 4Q21 Station Campaigns",
-        "entity_id": "282",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LOS ANGELES",
-        "callsign": "KABC-TV",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1721342224325673000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -416,10 +414,10 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54257,
-        "Issues and Programs Lists": 44542,
+        "Issues and Programs Lists": 44543,
         "Equal Employment Opportunity Records": 37060,
         "Donor Lists - Applicable Only for NCEs": 11412,
-        "FCC Authorizations": 7240,
+        "FCC Authorizations": 7239,
         "Local Public Notice Announcements": 1768,
         "Applications and Related Materials": 1652,
         "FCC Investigations or Complaints": 1532,
@@ -467,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1771,
-    "processTime": 780,
-    "responseTime": 1781
+    "queryTime": 1770,
+    "processTime": 778,
+    "responseTime": 1779
   }
 }
