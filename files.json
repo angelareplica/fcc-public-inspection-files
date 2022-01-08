@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 508901,
+    "numFound": 508902,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "e7b3b914-a079-705d-627a-6d410b7cad51",
+        "file_id": "e7b3b914-a079-705d-627a-6d410b7cad51",
+        "file_name": "Donor List - 2022-01",
+        "file_extension": "pdf",
+        "file_size": 29380,
+        "file_status": "com_cpy",
+        "folder_id": "6ae4e3d3-7b6e-53d1-85c7-715d8eb21798",
+        "create_ts": "2022-01-08T19:13:56.014Z",
+        "last_update_ts": "2022-01-08T19:14:24.906Z",
+        "active_ind": "Y",
+        "file_manager_id": "c7a9faa7-a3c1-4c44-8df2-e74e8a07778c",
+        "file_folder_path": "Donor Lists - Applicable Only for NCEs",
+        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/Donor List - 2022-01",
+        "entity_id": "91840",
+        "source_service_code": "FM",
+        "callsign": "KRTM",
+        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
+        "_version_": 1721414961072177200,
+        "score": 0.24995688
+      },
       {
         "id": "0709f34d-0632-f457-11c1-e17e4be764a0",
         "file_id": "0709f34d-0632-f457-11c1-e17e4be764a0",
@@ -208,29 +229,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1721342208433455000,
         "score": 0.24995688
-      },
-      {
-        "id": "4a300aad-3b49-5147-b763-d971ef48b08f",
-        "file_id": "4a300aad-3b49-5147-b763-d971ef48b08f",
-        "file_name": "03 - 4Q21 Litton Calm Act",
-        "file_extension": "pdf",
-        "file_size": 478895,
-        "file_status": "com_cpy",
-        "folder_id": "1938bc69-a6c0-bc47-3305-44fdf22ee783",
-        "create_ts": "2022-01-07T23:57:31.598Z",
-        "last_update_ts": "2022-01-07T23:57:11.817Z",
-        "active_ind": "Y",
-        "file_manager_id": "71be1dc6-0ef2-48c0-84fb-613e52762ff6",
-        "file_folder_path": "Issues and Programs Lists/4th Quarter 2021",
-        "full_qualified_file_name": "Issues and Programs Lists/4th Quarter 2021/03 - 4Q21 Litton Calm Act",
-        "entity_id": "282",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LOS ANGELES",
-        "callsign": "KABC-TV",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1721342206408654800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -424,7 +422,7 @@
         "Records Concerning Commercial Limits in Childrens Programs": 54257,
         "Issues and Programs Lists": 44542,
         "Equal Employment Opportunity Records": 37060,
-        "Donor Lists - Applicable Only for NCEs": 11409,
+        "Donor Lists - Applicable Only for NCEs": 11410,
         "FCC Authorizations": 7240,
         "Local Public Notice Announcements": 1768,
         "Applications and Related Materials": 1652,
@@ -451,7 +449,7 @@
       "source_service_code": {
         "TV": 234283,
         "CABLE": 117095,
-        "FM": 110883,
+        "FM": 110884,
         "AM": 41346,
         "DBS": 5294
       },
@@ -473,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 218,
-    "processTime": 225,
-    "responseTime": 225
+    "queryTime": 1774,
+    "processTime": 781,
+    "responseTime": 1781
   }
 }
