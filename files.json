@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 509054,
+    "numFound": 509056,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "63da9c3b-e856-53bd-074c-c136b32f4cb9",
+        "file_id": "63da9c3b-e856-53bd-074c-c136b32f4cb9",
+        "file_name": "Q4 2021 Quarterly Report (002)",
+        "file_extension": "pdf",
+        "file_size": 188305,
+        "file_status": "com_cpy",
+        "folder_id": "c4f06f31-b372-7cc8-5fa7-19b8e124e1c7",
+        "create_ts": "2022-01-10T17:44:53.331Z",
+        "last_update_ts": "2022-01-10T17:45:27.913Z",
+        "active_ind": "Y",
+        "file_manager_id": "8a2e267e-af42-44f1-9700-d906e76d80df",
+        "file_folder_path": "Issues and Programs Lists/2021",
+        "full_qualified_file_name": "Issues and Programs Lists/2021/Q4 2021 Quarterly Report (002)",
+        "entity_id": "66974",
+        "source_service_code": "FM",
+        "callsign": "WRHQ",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1721590552999231500,
+        "score": 0.24995688
+      },
+      {
+        "id": "f9a94466-9daa-9697-75a7-8742d8ef5533",
+        "file_id": "f9a94466-9daa-9697-75a7-8742d8ef5533",
+        "file_name": "WSRE QP 21-04",
+        "file_extension": "pdf",
+        "file_size": 173643,
+        "file_status": "com_cpy",
+        "folder_id": "13fcaa14-eee6-9503-1247-820f161d91cc",
+        "create_ts": "2022-01-10T17:40:33.287Z",
+        "last_update_ts": "2022-01-10T17:41:07.802Z",
+        "active_ind": "Y",
+        "file_manager_id": "27da6a14-e479-452b-a773-947c2860a334",
+        "file_folder_path": "Issues and Programs Lists/2021 Issues-Programs",
+        "full_qualified_file_name": "Issues and Programs Lists/2021 Issues-Programs/WSRE QP 21-04",
+        "entity_id": "17611",
+        "source_service_code": "TV",
+        "network_affiliation": "PBS",
+        "nielsen_dma_rank": "MOBILE-PENSACOLA (FT WALT)",
+        "callsign": "WSRE",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1721590280266711000,
+        "score": 0.24995688
+      },
       {
         "id": "44b0bd72-149d-8b10-0296-78b4a43b47c4",
         "file_id": "44b0bd72-149d-8b10-0296-78b4a43b47c4",
@@ -177,50 +221,6 @@
         "campaign_year": "2022",
         "_version_": 1721586271681249300,
         "score": 0.24995688
-      },
-      {
-        "id": "4e79d368-01b3-228f-3515-14ece92ad2b9",
-        "file_id": "4e79d368-01b3-228f-3515-14ece92ad2b9",
-        "file_name": "WQPT QP 21-04",
-        "file_extension": "docx",
-        "file_size": 28060,
-        "file_status": "com_prc",
-        "folder_id": "138feac9-3c8b-c668-5ec3-c8b289b0a8fd",
-        "create_ts": "2022-01-10T16:21:23.135Z",
-        "last_update_ts": "2022-01-10T16:22:16.942Z",
-        "active_ind": "Y",
-        "file_manager_id": "72177aff-c756-41b4-8d9f-a6f62956c59d",
-        "file_folder_path": "Issues and Programs Lists/Programming 2021",
-        "full_qualified_file_name": "Issues and Programs Lists/Programming 2021/WQPT QP 21-04",
-        "entity_id": "5468",
-        "source_service_code": "TV",
-        "network_affiliation": "ETV",
-        "nielsen_dma_rank": "DAVENPORT-R.ISLAND-MOLINE",
-        "callsign": "WQPT-TV",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1721585319768227800,
-        "score": 0.24995688
-      },
-      {
-        "id": "e00af36e-e423-6602-5e66-c27e790bd778",
-        "file_id": "e00af36e-e423-6602-5e66-c27e790bd778",
-        "file_name": "WQUB Quarterly Issues Programs Report 2021-010-01 to 2021-12-31",
-        "file_extension": "pdf",
-        "file_size": 290450,
-        "file_status": "com_cpy",
-        "folder_id": "4ad41b12-7a21-fe82-9c2d-c2404dc7a488",
-        "create_ts": "2022-01-10T16:20:23.687Z",
-        "last_update_ts": "2022-01-10T16:20:58.082Z",
-        "active_ind": "Y",
-        "file_manager_id": "067efdc7-d7aa-44ac-ae14-feed6db55b58",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/WQUB Quarterly Issues Programs Report 2021-010-01 to 2021-12-31",
-        "entity_id": "54282",
-        "source_service_code": "FM",
-        "callsign": "WQUB",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1721585237070184400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -331,7 +331,7 @@
         "NBC": 55961,
         "CBS": 38127,
         "FOX": 27508,
-        "PBS": 14237,
+        "PBS": 14238,
         "CW": 12038,
         "IND": 2987,
         "MYTV": 2233,
@@ -412,7 +412,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54257,
-        "Issues and Programs Lists": 44662,
+        "Issues and Programs Lists": 44664,
         "Equal Employment Opportunity Records": 37068,
         "Donor Lists - Applicable Only for NCEs": 11415,
         "FCC Authorizations": 7241,
@@ -439,9 +439,9 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 234279,
+        "TV": 234280,
         "CABLE": 117127,
-        "FM": 111002,
+        "FM": 111003,
         "AM": 41352,
         "DBS": 5294
       },
@@ -463,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1828,
-    "processTime": 834,
-    "responseTime": 1835
+    "queryTime": 210,
+    "processTime": 218,
+    "responseTime": 219
   }
 }
