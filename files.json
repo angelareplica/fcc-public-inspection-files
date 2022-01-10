@@ -5,6 +5,29 @@
     "maxScore": 0.50016373,
     "docs": [
       {
+        "id": "e6365c61-eedf-f0e2-64aa-9526f53bc569",
+        "file_id": "e6365c61-eedf-f0e2-64aa-9526f53bc569",
+        "file_name": "WFSU QP 21-04",
+        "file_extension": "pdf",
+        "file_size": 148925,
+        "file_status": "com_cpy",
+        "folder_id": "8ed7db89-4090-5485-897a-582b6d2e54f7",
+        "create_ts": "2022-01-10T14:28:06.639Z",
+        "last_update_ts": "2022-01-10T14:27:46.643Z",
+        "active_ind": "Y",
+        "file_manager_id": "64abeadb-7628-4432-a9f6-bcc0b927c29a",
+        "file_folder_path": "Issues and Programs Lists/Q4 2021",
+        "full_qualified_file_name": "Issues and Programs Lists/Q4 2021/WFSU QP 21-04",
+        "entity_id": "21801",
+        "source_service_code": "TV",
+        "network_affiliation": "ETV",
+        "nielsen_dma_rank": "TALLAHASSEE-THOMASVILLE",
+        "callsign": "WFSU-TV",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1721578173046456300,
+        "score": 0.24995688
+      },
+      {
         "id": "01bcf7c5-b577-0640-0285-3a2498008daf",
         "file_id": "01bcf7c5-b577-0640-0285-3a2498008daf",
         "file_name": "WFSU QP 21-04",
@@ -215,31 +238,6 @@
         "campaign_year": "2022",
         "_version_": 1721574675013697500,
         "score": 0.24995688
-      },
-      {
-        "id": "1713b9bb-bf31-fa17-2a8a-2de877d3cdd4",
-        "file_id": "1713b9bb-bf31-fa17-2a8a-2de877d3cdd4",
-        "file_name": "Don Huffines for Texas Governor San Angelo 0648 12.20-1.2",
-        "file_extension": "pdf",
-        "file_size": 55877,
-        "file_status": "com_cpy",
-        "folder_id": "a5148b06-2462-5581-b574-d12c5f5be592",
-        "create_ts": "2022-01-10T13:32:31.365Z",
-        "last_update_ts": "2022-01-10T13:32:11.064Z",
-        "active_ind": "Y",
-        "file_manager_id": "37495f09-cb61-452a-a10d-ca3d46633f67",
-        "file_folder_path": "Political Files/2022/State/Don Huffines for Texas Govenor-Linear Media",
-        "full_qualified_file_name": "Political Files/2022/State/Don Huffines for Texas Govenor-Linear Media/Don Huffines for Texas Governor San Angelo 0648 12.20-1.2",
-        "entity_id": "001615",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1721574675424739300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -254,7 +252,7 @@
         "DULUTH-SUPERIOR": 4653,
         "CHARLESTON-HUNTINGTON": 4310,
         "PORTLAND-AUBURN": 4216,
-        "TALLAHASSEE-THOMASVILLE": 3973,
+        "TALLAHASSEE-THOMASVILLE": 3974,
         "OMAHA": 3655,
         "BUTTE-BOZEMAN": 3620,
         "EUGENE": 3369,
@@ -368,7 +366,7 @@
         "NBC & CBS": 376,
         "MYNETWORKTV": 241,
         "ABC, NBC": 232,
-        "ETV": 207,
+        "ETV": 208,
         "NONE": 205,
         "TRINITY BROADCASTING NETWORK": 163,
         "NBC & CW (DIGITAL ONLY)": 162,
@@ -458,9 +456,9 @@
         "Operator Interests in Video Programming": 12
       },
       "source_service_code": {
-        "TV": 234291,
+        "TV": 234292,
         "CABLE": 117126,
-        "FM": 110989,
+        "FM": 110988,
         "AM": 41350,
         "DBS": 5294
       },
@@ -482,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1769,
-    "processTime": 779,
-    "responseTime": 1779
+    "queryTime": 1766,
+    "processTime": 773,
+    "responseTime": 1773
   }
 }
