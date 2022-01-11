@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 509434,
+    "numFound": 509435,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "db5bc39d-08b2-d7e4-a560-25406187e346",
+        "file_id": "db5bc39d-08b2-d7e4-a560-25406187e346",
+        "file_name": "CLUB FOR GROWTH ACTION NAB WYOMING 011122",
+        "file_extension": "pdf",
+        "file_size": 1107764,
+        "file_status": "com_cpy",
+        "folder_id": "fc044a3d-f8c7-7862-21d8-29d5b1458629",
+        "create_ts": "2022-01-11T23:32:14.987Z",
+        "last_update_ts": "2022-01-11T23:32:53.43Z",
+        "active_ind": "Y",
+        "file_manager_id": "2d50945b-267a-451e-8b05-bcc060c923e4",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Alabama/Club for Growth Action",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Alabama/Club for Growth Action/CLUB FOR GROWTH ACTION NAB WYOMING 011122",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1721703004359360500,
+        "score": 0.24995688
+      },
       {
         "id": "b9acf69f-22a6-4166-17a9-d7b101b9f4a0",
         "file_id": "b9acf69f-22a6-4166-17a9-d7b101b9f4a0",
@@ -216,28 +237,6 @@
         "campaign_year": "2022",
         "_version_": 1721700350656774100,
         "score": 0.24995688
-      },
-      {
-        "id": "808c46ed-8cbb-7b83-27fc-660acab2c599",
-        "file_id": "808c46ed-8cbb-7b83-27fc-660acab2c599",
-        "file_name": "01-11-22 Citizens for Tax Relief",
-        "file_extension": "pdf",
-        "file_size": 2475824,
-        "file_status": "com_cpy",
-        "folder_id": "6535552a-8e0e-92c3-af52-12924116b4e3",
-        "create_ts": "2022-01-11T22:44:15.665Z",
-        "last_update_ts": "2022-01-11T22:43:56.023Z",
-        "active_ind": "Y",
-        "file_manager_id": "d938a5f7-8c41-4a56-af96-c8a1f81dcb39",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief/01-11-22 Citizens for Tax Relief",
-        "entity_id": "183367",
-        "source_service_code": "FM",
-        "callsign": "KBPY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1721699985735549000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -416,7 +415,7 @@
         "2019": 14037,
         "2020": 126033,
         "2021": 22454,
-        "2022": 457,
+        "2022": 458,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -460,11 +459,11 @@
         "CABLE": 117196,
         "FM": 111067,
         "AM": 41401,
-        "DBS": 5299
+        "DBS": 5300
       },
       "political_file_type": {
         "PA": 219127,
-        "NCIA": 122426
+        "NCIA": 122427
       }
     }
   },
@@ -480,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 219,
-    "processTime": 227,
-    "responseTime": 227
+    "queryTime": 1770,
+    "processTime": 778,
+    "responseTime": 1779
   }
 }
