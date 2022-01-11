@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 509423,
+    "numFound": 509425,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "808c46ed-8cbb-7b83-27fc-660acab2c599",
+        "file_id": "808c46ed-8cbb-7b83-27fc-660acab2c599",
+        "file_name": "01-11-22 Citizens for Tax Relief",
+        "file_extension": "pdf",
+        "file_size": 2475824,
+        "file_status": "com_cpy",
+        "folder_id": "6535552a-8e0e-92c3-af52-12924116b4e3",
+        "create_ts": "2022-01-11T22:44:15.665Z",
+        "last_update_ts": "2022-01-11T22:43:56.023Z",
+        "active_ind": "Y",
+        "file_manager_id": "d938a5f7-8c41-4a56-af96-c8a1f81dcb39",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief/01-11-22 Citizens for Tax Relief",
+        "entity_id": "183367",
+        "source_service_code": "FM",
+        "callsign": "KBPY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1721699985735549000,
+        "score": 0.24995688
+      },
+      {
+        "id": "5b4f094c-884c-825f-30dd-98dfc8f8c8d7",
+        "file_id": "5b4f094c-884c-825f-30dd-98dfc8f8c8d7",
+        "file_name": "01-11-22 Citizens for Tax Relief",
+        "file_extension": "pdf",
+        "file_size": 2475824,
+        "file_status": "com_cpy",
+        "folder_id": "f9cf0dc1-2b7a-6be9-e714-771da4660082",
+        "create_ts": "2022-01-11T22:42:12.194Z",
+        "last_update_ts": "2022-01-11T22:42:14.184Z",
+        "active_ind": "Y",
+        "file_manager_id": "377a7650-8b9c-4379-8e1d-5dfbb2787310",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief/01-11-22 Citizens for Tax Relief",
+        "entity_id": "10081",
+        "source_service_code": "AM",
+        "callsign": "KCSR",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1721699855971123200,
+        "score": 0.24995688
+      },
       {
         "id": "1c1a4fbd-d2f5-f189-292f-05e4ca9466ea",
         "file_id": "1c1a4fbd-d2f5-f189-292f-05e4ca9466ea",
@@ -195,48 +239,6 @@
         "campaign_year": "2022",
         "_version_": 1721697943384227800,
         "score": 0.24995688
-      },
-      {
-        "id": "3597b92c-322b-1362-0697-dfb8330e09b8",
-        "file_id": "3597b92c-322b-1362-0697-dfb8330e09b8",
-        "file_name": "mpn_best_of_itm_2021-04_quarterly_issues_report",
-        "file_extension": "xls",
-        "file_size": 32256,
-        "file_status": "com_prc",
-        "folder_id": "be8994e4-1a0c-9b35-691b-cd298b1dd148",
-        "create_ts": "2022-01-11T22:09:07.82Z",
-        "last_update_ts": "2022-01-11T22:10:01.895Z",
-        "active_ind": "Y",
-        "file_manager_id": "d0dce52d-7df3-441e-b9a5-8b201a48e7e1",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/mpn_best_of_itm_2021-04_quarterly_issues_report",
-        "entity_id": "184747",
-        "source_service_code": "FM",
-        "callsign": "WHRD",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1721697791500091400,
-        "score": 0.24995688
-      },
-      {
-        "id": "f5efda1b-445d-f260-2391-f471c7231d18",
-        "file_id": "f5efda1b-445d-f260-2391-f471c7231d18",
-        "file_name": "mpn_itm_2021-04_quarterly_issues_report",
-        "file_extension": "xls",
-        "file_size": 47104,
-        "file_status": "com_prc",
-        "folder_id": "be8994e4-1a0c-9b35-691b-cd298b1dd148",
-        "create_ts": "2022-01-11T22:09:07.709Z",
-        "last_update_ts": "2022-01-11T22:09:48.332Z",
-        "active_ind": "Y",
-        "file_manager_id": "11edeb8d-bd8c-47d8-a081-649e4d17c32f",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/mpn_itm_2021-04_quarterly_issues_report",
-        "entity_id": "184747",
-        "source_service_code": "FM",
-        "callsign": "WHRD",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1721697777282449400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -415,7 +417,7 @@
         "2019": 14037,
         "2020": 126033,
         "2021": 22454,
-        "2022": 449,
+        "2022": 451,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -457,13 +459,13 @@
       "source_service_code": {
         "TV": 234465,
         "CABLE": 117196,
-        "FM": 111065,
-        "AM": 41398,
+        "FM": 111066,
+        "AM": 41399,
         "DBS": 5299
       },
       "political_file_type": {
         "PA": 219121,
-        "NCIA": 122424
+        "NCIA": 122426
       }
     }
   },
@@ -479,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 292,
-    "processTime": 302,
-    "responseTime": 302
+    "queryTime": 1767,
+    "processTime": 775,
+    "responseTime": 1776
   }
 }
