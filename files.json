@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 509537,
+    "numFound": 509538,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "52834978-356e-e172-3ec7-fcf2dbd2ce25",
+        "file_id": "52834978-356e-e172-3ec7-fcf2dbd2ce25",
+        "file_name": "The Oklahoma Project 01.13.22-01.19.22 #135108 KOTV",
+        "file_extension": "pdf",
+        "file_size": 1950540,
+        "file_status": "com_cpy",
+        "folder_id": "b08f279b-e8dc-2fc7-bf8a-293f13b743ae",
+        "create_ts": "2022-01-12T23:33:17.065Z",
+        "last_update_ts": "2022-01-12T23:33:58.659Z",
+        "active_ind": "Y",
+        "file_manager_id": "bb68966f-d195-47a4-a6d2-f05a0d4c298d",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/The Oklahoma Project",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/The Oklahoma Project/The Oklahoma Project 01.13.22-01.19.22 #135108 KOTV",
+        "entity_id": "35434",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "TULSA",
+        "callsign": "KOTV-DT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1721793666732785700,
+        "score": 0.24995688
+      },
       {
         "id": "9fce6ca1-2916-8cfb-8b9c-416198d05030",
         "file_id": "9fce6ca1-2916-8cfb-8b9c-416198d05030",
@@ -221,29 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1721787481296208000,
         "score": 0.24995688
-      },
-      {
-        "id": "b63f111e-a1fc-bb5e-5a75-f3684a90f7ba",
-        "file_id": "b63f111e-a1fc-bb5e-5a75-f3684a90f7ba",
-        "file_name": "ION 2021-01-14_Annual_Childrens_Commercial_Limits_Certification2",
-        "file_extension": "pdf",
-        "file_size": 116877,
-        "file_status": "com_cpy",
-        "folder_id": "78b9e5f1-8d00-15e5-8abe-e5709eac9721",
-        "create_ts": "2022-01-12T21:44:24.294Z",
-        "last_update_ts": "2022-01-12T21:45:04.857Z",
-        "active_ind": "Y",
-        "file_manager_id": "8fa52e8d-0fdb-4349-8c8c-d8459b661b86",
-        "file_folder_path": "Records Concerning Commercial Limits in Childrens Programs/2021 Documents",
-        "full_qualified_file_name": "Records Concerning Commercial Limits in Childrens Programs/2021 Documents/ION 2021-01-14_Annual_Childrens_Commercial_Limits_Certification2",
-        "entity_id": "46728",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "BURLINGTON-PLATTSBURGH",
-        "callsign": "WCAX-TV",
-        "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
-        "_version_": 1721786815759777800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -327,7 +328,7 @@
         "PANAMA CITY": 859,
         "INDIANAPOLIS": 839,
         "GREENVILLE-N.BERN-WASHNGTN": 802,
-        "TULSA": 784,
+        "TULSA": 785,
         "HELENA": 780,
         "TWIN FALLS": 749,
         "AUSTIN": 740,
@@ -352,7 +353,7 @@
       "network_affiliation": {
         "ABC": 57213,
         "NBC": 55985,
-        "CBS": 38163,
+        "CBS": 38164,
         "FOX": 27535,
         "PBS": 14349,
         "CW": 12039,
@@ -422,7 +423,7 @@
         "2019": 14037,
         "2020": 126033,
         "2021": 22459,
-        "2022": 542,
+        "2022": 543,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -462,7 +463,7 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 234530,
+        "TV": 234531,
         "CABLE": 117217,
         "FM": 111083,
         "AM": 41407,
@@ -470,7 +471,7 @@
       },
       "political_file_type": {
         "PA": 219200,
-        "NCIA": 122443
+        "NCIA": 122444
       }
     }
   },
@@ -486,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1787,
-    "processTime": 801,
-    "responseTime": 1801
+    "queryTime": 1770,
+    "processTime": 778,
+    "responseTime": 1779
   }
 }
