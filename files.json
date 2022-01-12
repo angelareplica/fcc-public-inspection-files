@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 509492,
+    "numFound": 509493,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "1b3acb93-8827-6829-984e-95ab23df1af8",
+        "file_id": "1b3acb93-8827-6829-984e-95ab23df1af8",
+        "file_name": "Cumulus Dallas Radio Stations Raise a Total of $1,767,990 for DFW Charities in 2021 Rel FINAL 01 07 22",
+        "file_extension": "docx",
+        "file_size": 29538,
+        "file_status": "com_prc",
+        "folder_id": "d0adc4da-db74-e239-dc12-3d138fa0c295",
+        "create_ts": "2022-01-12T19:09:57.165Z",
+        "last_update_ts": "2022-01-12T19:10:55.053Z",
+        "active_ind": "Y",
+        "file_manager_id": "eaad9b20-fde6-4c56-b830-2ba6ba8e44f6",
+        "file_folder_path": "FCC Authorizations/Additional Documents/Press Releases",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/Press Releases/Cumulus Dallas Radio Stations Raise a Total of $1,767,990 for DFW Charities in 2021 Rel FINAL 01 07 22",
+        "entity_id": "71200",
+        "source_service_code": "AM",
+        "callsign": "WBAP",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1721777116963405800,
+        "score": 0.24995688
+      },
       {
         "id": "59657f0e-70e6-81d1-1e6a-45bc1d3e5ec6",
         "file_id": "59657f0e-70e6-81d1-1e6a-45bc1d3e5ec6",
@@ -218,31 +239,6 @@
         "campaign_year": "2022",
         "_version_": 1721773612933841000,
         "score": 0.24995688
-      },
-      {
-        "id": "de4467d0-00a3-abda-a305-3986c24783ee",
-        "file_id": "de4467d0-00a3-abda-a305-3986c24783ee",
-        "file_name": "Texans for Greg Abbott Lubbock 0214 1.15-1.30",
-        "file_extension": "pdf",
-        "file_size": 12567,
-        "file_status": "com_cpy",
-        "folder_id": "19a6e6be-ba3d-bf98-b041-9da3f0b0193c",
-        "create_ts": "2022-01-12T18:09:13.555Z",
-        "last_update_ts": "2022-01-12T18:09:14.811Z",
-        "active_ind": "Y",
-        "file_manager_id": "8196d0de-0bd2-41e7-a6b1-7ec140c01ee2",
-        "file_folder_path": "Political Files/2022/State/Greg Abbott-Linear Media",
-        "full_qualified_file_name": "Political Files/2022/State/Greg Abbott-Linear Media/Texans for Greg Abbott Lubbock 0214 1.15-1.30",
-        "entity_id": "005382",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1721773277893886000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -437,7 +433,7 @@
         "Issues and Programs Lists": 44836,
         "Equal Employment Opportunity Records": 37082,
         "Donor Lists - Applicable Only for NCEs": 11406,
-        "FCC Authorizations": 7249,
+        "FCC Authorizations": 7250,
         "Local Public Notice Announcements": 1765,
         "Applications and Related Materials": 1652,
         "Availability of Signals": 1544,
@@ -464,7 +460,7 @@
         "TV": 234493,
         "CABLE": 117217,
         "FM": 111078,
-        "AM": 41404,
+        "AM": 41405,
         "DBS": 5300
       },
       "political_file_type": {
@@ -485,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 219,
-    "processTime": 226,
-    "responseTime": 227
+    "queryTime": 1766,
+    "processTime": 778,
+    "responseTime": 1779
   }
 }
