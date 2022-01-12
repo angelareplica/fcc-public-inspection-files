@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 509435,
+    "numFound": 509436,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "43dd8fb0-6364-1c5f-4eab-7f043a9d7336",
+        "file_id": "43dd8fb0-6364-1c5f-4eab-7f043a9d7336",
+        "file_name": "KRODAM Schedule and Clearance Affidavit for the Week of 01.01.2022 to 01.16.2022",
+        "file_extension": "pdf",
+        "file_size": 69021,
+        "file_status": "com_cpy",
+        "folder_id": "461a5994-652c-dce0-4ba6-ffa1c78b12c6",
+        "create_ts": "2022-01-11T23:58:04.709Z",
+        "last_update_ts": "2022-01-11T23:58:05.99Z",
+        "active_ind": "Y",
+        "file_manager_id": "726a6573-eb03-4d5d-acad-43d6de0999b1",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/KRODAM Schedule and Clearance Affidavit for the Week of 01.01.2022 to 01.16.2022",
+        "entity_id": "14908",
+        "source_service_code": "AM",
+        "callsign": "KROD",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1721704628884603000,
+        "score": 0.24995688
+      },
       {
         "id": "db5bc39d-08b2-d7e4-a560-25406187e346",
         "file_id": "db5bc39d-08b2-d7e4-a560-25406187e346",
@@ -212,31 +235,6 @@
         "campaign_year": "2022",
         "_version_": 1721700350760583200,
         "score": 0.24995688
-      },
-      {
-        "id": "421de18b-a205-602a-2ab2-730cc374a406",
-        "file_id": "421de18b-a205-602a-2ab2-730cc374a406",
-        "file_name": "A29658-NAB-011022",
-        "file_extension": "pdf",
-        "file_size": 63623,
-        "file_status": "com_cpy",
-        "folder_id": "0fe79270-5131-a938-268b-0968a9eea7a1",
-        "create_ts": "2022-01-11T22:50:04.697Z",
-        "last_update_ts": "2022-01-11T22:50:05.939Z",
-        "active_ind": "Y",
-        "file_manager_id": "2fcf3d01-3cb7-4763-bf09-e6763ed2bad3",
-        "file_folder_path": "Political Files/2022/State/IL Governor/Pritzker/JB A29658",
-        "full_qualified_file_name": "Political Files/2022/State/IL Governor/Pritzker/JB A29658/A29658-NAB-011022",
-        "entity_id": "73940",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "ROCKFORD",
-        "callsign": "WREX",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1721700350656774100,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -415,12 +413,12 @@
         "2019": 14037,
         "2020": 126033,
         "2021": 22454,
-        "2022": 458,
+        "2022": 459,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65119,
+        "State": 65120,
         "US Senate": 48755,
         "US House": 41479,
         "Presidential": 38997,
@@ -458,11 +456,11 @@
         "TV": 234471,
         "CABLE": 117196,
         "FM": 111067,
-        "AM": 41401,
+        "AM": 41402,
         "DBS": 5300
       },
       "political_file_type": {
-        "PA": 219127,
+        "PA": 219128,
         "NCIA": 122427
       }
     }
@@ -479,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1770,
-    "processTime": 778,
-    "responseTime": 1779
+    "queryTime": 209,
+    "processTime": 218,
+    "responseTime": 219
   }
 }
