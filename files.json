@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 509547,
+    "numFound": 509546,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
@@ -255,7 +255,7 @@
         "PITTSBURGH": 5340,
         "HONOLULU": 5207,
         "DULUTH-SUPERIOR": 4653,
-        "CHARLESTON-HUNTINGTON": 4313,
+        "CHARLESTON-HUNTINGTON": 4312,
         "PORTLAND-AUBURN": 4216,
         "TALLAHASSEE-THOMASVILLE": 3974,
         "OMAHA": 3657,
@@ -350,7 +350,7 @@
       },
       "network_affiliation": {
         "ABC": 57214,
-        "NBC": 55991,
+        "NBC": 55990,
         "CBS": 38164,
         "FOX": 27535,
         "PBS": 14349,
@@ -421,7 +421,7 @@
         "2019": 14037,
         "2020": 126033,
         "2021": 22460,
-        "2022": 551,
+        "2022": 550,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -461,7 +461,7 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 234538,
+        "TV": 234537,
         "CABLE": 117217,
         "FM": 111083,
         "AM": 41407,
@@ -469,7 +469,7 @@
       },
       "political_file_type": {
         "PA": 219206,
-        "NCIA": 122447
+        "NCIA": 122446
       }
     }
   },
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 218,
-    "processTime": 226,
-    "responseTime": 226
+    "queryTime": 277,
+    "processTime": 284,
+    "responseTime": 285
   }
 }
