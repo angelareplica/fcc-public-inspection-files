@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 509588,
+    "numFound": 509587,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
@@ -420,7 +420,7 @@
         "2018": 67759,
         "2019": 14037,
         "2020": 126033,
-        "2021": 22460,
+        "2021": 22459,
         "2022": 588,
         "KYAZ": 5,
         "Fede": 1
@@ -430,7 +430,7 @@
         "US Senate": 48812,
         "US House": 41479,
         "Presidential": 38997,
-        "Local": 23803
+        "Local": 23802
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54262,
@@ -464,11 +464,11 @@
         "TV": 234570,
         "CABLE": 117220,
         "FM": 111087,
-        "AM": 41408,
+        "AM": 41407,
         "DBS": 5303
       },
       "political_file_type": {
-        "PA": 219226,
+        "PA": 219225,
         "NCIA": 122464
       }
     }
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 225,
-    "responseTime": 226
+    "queryTime": 1765,
+    "processTime": 772,
+    "responseTime": 1773
   }
 }
