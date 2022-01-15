@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 509694,
+    "numFound": 509695,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "dbe73ca6-105a-1292-da1e-83165e6e73b2",
+        "file_id": "dbe73ca6-105a-1292-da1e-83165e6e73b2",
+        "file_name": "InfoTrak Show #2022-03 Aired 1-16-22",
+        "file_extension": "pdf",
+        "file_size": 160163,
+        "file_status": "com_cpy",
+        "folder_id": "5cf305b1-68b5-97a4-5c65-fcd249afdc76",
+        "create_ts": "2022-01-15T17:36:24.571Z",
+        "last_update_ts": "2022-01-15T17:36:26.225Z",
+        "active_ind": "Y",
+        "file_manager_id": "3f07aa7c-38fb-4fc3-87f0-e5ff51a0d32f",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/InfoTrak Show #2022-03 Aired 1-16-22",
+        "entity_id": "47103",
+        "source_service_code": "FM",
+        "callsign": "WKKY",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1722043004535963600,
+        "score": 0.24995688
+      },
       {
         "id": "646895e8-964b-41fe-7a2a-88d2504d0694",
         "file_id": "646895e8-964b-41fe-7a2a-88d2504d0694",
@@ -217,29 +238,6 @@
         "campaign_year": "2022",
         "_version_": 1721971431940554800,
         "score": 0.24995688
-      },
-      {
-        "id": "966dd30f-dbe3-330d-4775-6ffd9d55f51c",
-        "file_id": "966dd30f-dbe3-330d-4775-6ffd9d55f51c",
-        "file_name": "Travis Clardy Texas State Representative District 11   01-14-2022",
-        "file_extension": "pdf",
-        "file_size": 349241,
-        "file_status": "com_cpy",
-        "folder_id": "eeaa8700-30a8-5890-d9dc-a1f67585a70d",
-        "create_ts": "2022-01-14T22:33:35.686Z",
-        "last_update_ts": "2022-01-14T22:34:22.237Z",
-        "active_ind": "Y",
-        "file_manager_id": "c0271850-cce7-417f-81b8-4798b37f8feb",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/Travis Clardy Texas State Representative District 11   01-14-2022",
-        "entity_id": "71519",
-        "source_service_code": "AM",
-        "callsign": "KWRD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1721971104682082300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -431,7 +429,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54262,
-        "Issues and Programs Lists": 44850,
+        "Issues and Programs Lists": 44851,
         "Equal Employment Opportunity Records": 37083,
         "Donor Lists - Applicable Only for NCEs": 11406,
         "FCC Authorizations": 7253,
@@ -460,7 +458,7 @@
       "source_service_code": {
         "TV": 234629,
         "CABLE": 117243,
-        "FM": 111106,
+        "FM": 111107,
         "AM": 41412,
         "DBS": 5304
       },
@@ -482,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 216,
-    "responseTime": 216
+    "queryTime": 201,
+    "processTime": 211,
+    "responseTime": 212
   }
 }
