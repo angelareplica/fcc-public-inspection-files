@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 509696,
+    "numFound": 509698,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "0e77f644-faf8-d72f-0a25-c99c325e5586",
+        "file_id": "0e77f644-faf8-d72f-0a25-c99c325e5586",
+        "file_name": "Program Report for 2022, 01-10",
+        "file_extension": "pdf",
+        "file_size": 8860,
+        "file_status": "com_cpy",
+        "folder_id": "179f861e-9255-8fc5-40c9-e49cffe6ec2b",
+        "create_ts": "2022-01-17T18:46:03.953Z",
+        "last_update_ts": "2022-01-17T18:46:05.313Z",
+        "active_ind": "Y",
+        "file_manager_id": "9c3bde73-8bb2-4e0a-950a-02e803b577ce",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/Program Report for 2022, 01-10",
+        "entity_id": "54817",
+        "source_service_code": "AM",
+        "callsign": "WINI",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1722228580477304800,
+        "score": 0.24995688
+      },
+      {
+        "id": "513293b8-3f23-f544-5497-ac4c2a56ce6a",
+        "file_id": "513293b8-3f23-f544-5497-ac4c2a56ce6a",
+        "file_name": "WHCO Program Report - 2022, 01-10",
+        "file_extension": "pdf",
+        "file_size": 10015,
+        "file_status": "com_cpy",
+        "folder_id": "d0986178-3c7f-d513-5c04-81e1b9a450d8",
+        "create_ts": "2022-01-17T18:44:00.621Z",
+        "last_update_ts": "2022-01-17T18:44:02.03Z",
+        "active_ind": "Y",
+        "file_manager_id": "2acc2229-6f39-4ef8-808d-8c4c28848966",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/WHCO Program Report - 2022, 01-10",
+        "entity_id": "27264",
+        "source_service_code": "AM",
+        "callsign": "WHCO",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1722228451824369700,
+        "score": 0.24995688
+      },
       {
         "id": "d2bcdc6e-a9b2-2a3c-ad9a-31c49c18eb28",
         "file_id": "d2bcdc6e-a9b2-2a3c-ad9a-31c49c18eb28",
@@ -186,52 +228,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2022",
         "_version_": 1721973639803306000,
-        "score": 0.24995688
-      },
-      {
-        "id": "03964f73-032c-5da8-8cc8-2cdddfb888a2",
-        "file_id": "03964f73-032c-5da8-8cc8-2cdddfb888a2",
-        "file_name": "01-14-22 Citizens for Tax Relief",
-        "file_extension": "pdf",
-        "file_size": 2439307,
-        "file_status": "com_cpy",
-        "folder_id": "f9cf0dc1-2b7a-6be9-e714-771da4660082",
-        "create_ts": "2022-01-14T23:12:10.85Z",
-        "last_update_ts": "2022-01-14T23:12:58.193Z",
-        "active_ind": "Y",
-        "file_manager_id": "a6764c58-c654-4170-9c6f-19a9209122bc",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief/01-14-22 Citizens for Tax Relief",
-        "entity_id": "10081",
-        "source_service_code": "AM",
-        "callsign": "KCSR",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1721973533063512000,
-        "score": 0.24995688
-      },
-      {
-        "id": "cd0091bb-8f05-bb1b-0bd8-0e3c34591fda",
-        "file_id": "cd0091bb-8f05-bb1b-0bd8-0e3c34591fda",
-        "file_name": "NAB Board 2021-2022 (002)",
-        "file_extension": "docx",
-        "file_size": 27676,
-        "file_status": "com_prc",
-        "folder_id": "8f47b2b7-fae9-b01d-8325-30c88d1c239a",
-        "create_ts": "2022-01-14T22:45:59.844Z",
-        "last_update_ts": "2022-01-14T22:45:55.249Z",
-        "active_ind": "Y",
-        "file_manager_id": "c61b8d83-0126-454a-85b1-f642eff8ccab",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/NAB Board 2021-2022 (002)",
-        "entity_id": "55644",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "TYLER-LONGVIEW(LFKN&NCGD)",
-        "callsign": "KYTX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1721971902267785200,
         "score": 0.24995688
       }
     ],
@@ -424,7 +420,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54262,
-        "Issues and Programs Lists": 44851,
+        "Issues and Programs Lists": 44853,
         "Equal Employment Opportunity Records": 37083,
         "Donor Lists - Applicable Only for NCEs": 11406,
         "FCC Authorizations": 7254,
@@ -454,7 +450,7 @@
         "TV": 234632,
         "CABLE": 117243,
         "FM": 111106,
-        "AM": 41411,
+        "AM": 41413,
         "DBS": 5304
       },
       "political_file_type": {
@@ -475,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 203,
-    "processTime": 210,
-    "responseTime": 211
+    "queryTime": 201,
+    "processTime": 208,
+    "responseTime": 208
   }
 }
