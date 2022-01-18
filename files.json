@@ -5,6 +5,30 @@
     "maxScore": 0.50016373,
     "docs": [
       {
+        "id": "7ba59427-6521-f700-751b-809222b5d3c3",
+        "file_id": "7ba59427-6521-f700-751b-809222b5d3c3",
+        "file_name": "Fight Back Fund PB19 01.12.22",
+        "file_extension": "pdf",
+        "file_size": 1046625,
+        "file_status": "com_cpy",
+        "folder_id": "d67fb9a4-a074-2088-3845-49b7b3dae0d1",
+        "create_ts": "2022-01-18T20:36:08.506Z",
+        "last_update_ts": "2022-01-18T20:36:10.431Z",
+        "active_ind": "Y",
+        "file_manager_id": "d70924f3-26fd-4569-807c-a78608ade548",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Fight Back Fund",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Fight Back Fund/Fight Back Fund PB19 01.12.22",
+        "entity_id": "73226",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "CHICAGO",
+        "callsign": "WLS-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1722326103377313800,
+        "score": 0.24995688
+      },
+      {
         "id": "06f764d8-c28f-83c9-aa9f-15fdbdcb9a1d",
         "file_id": "06f764d8-c28f-83c9-aa9f-15fdbdcb9a1d",
         "file_name": "DR OZ FOR SENATE 1728757 011922-012522 MAKEGOOD",
@@ -212,30 +236,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2022",
         "_version_": 1722317143457923000,
-        "score": 0.24995688
-      },
-      {
-        "id": "5979e54f-cba1-d60f-ce0a-124c2a8e4c15",
-        "file_id": "5979e54f-cba1-d60f-ce0a-124c2a8e4c15",
-        "file_name": "A21434-REQUEST-624681-011322",
-        "file_extension": "pdf",
-        "file_size": 19458,
-        "file_status": "com_cpy",
-        "folder_id": "b6b4335b-155e-7d7e-e230-4b22b70d83d0",
-        "create_ts": "2022-01-18T18:13:42.759Z",
-        "last_update_ts": "2022-01-18T18:14:40Z",
-        "active_ind": "Y",
-        "file_manager_id": "7afaece7-8256-4873-86f9-108546b66278",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Senate Majority PAC 21434",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Senate Majority PAC 21434/A21434-REQUEST-624681-011322",
-        "entity_id": "81503",
-        "source_service_code": "TV",
-        "network_affiliation": "FAMILYNET",
-        "nielsen_dma_rank": "WAUSAU-RHINELANDER",
-        "callsign": "WMOW",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1722317141921759200,
         "score": 0.24995688
       }
     ],
@@ -479,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 218,
-    "responseTime": 219
+    "queryTime": 1753,
+    "processTime": 763,
+    "responseTime": 1764
   }
 }
