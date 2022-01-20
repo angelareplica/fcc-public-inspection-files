@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 509942,
+    "numFound": 509943,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "4b48227c-6980-8a89-6001-e8de21dda895",
+        "file_id": "4b48227c-6980-8a89-6001-e8de21dda895",
+        "file_name": "Great Lakes Michigan Jobs 01-24-2022 20927--1",
+        "file_extension": "pdf",
+        "file_size": 25170,
+        "file_status": "com_cpy",
+        "folder_id": "0e255188-76fc-cdf7-574f-2f1d7e1e8d87",
+        "create_ts": "2022-01-20T14:27:56.455Z",
+        "last_update_ts": "2022-01-20T14:27:56.246Z",
+        "active_ind": "Y",
+        "file_manager_id": "8843d2a2-f0b6-45db-8f06-382341399d5f",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Great Lakes Michigan Jobs/GBKB/Orders",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Great Lakes Michigan Jobs/GBKB/Orders/Great Lakes Michigan Jobs 01-24-2022 20927--1",
+        "entity_id": "67048",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "ALPENA",
+        "callsign": "WBKB-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1722484131593453600,
+        "score": 0.24995688
+      },
       {
         "id": "6a5bbefb-c5c5-f15c-c7e0-d05c635db4ad",
         "file_id": "6a5bbefb-c5c5-f15c-c7e0-d05c635db4ad",
@@ -220,31 +244,6 @@
         "campaign_year": "2022",
         "_version_": 1722434470139658200,
         "score": 0.24995688
-      },
-      {
-        "id": "e9c5278f-bf0c-7df1-90cd-833534ba6581",
-        "file_id": "e9c5278f-bf0c-7df1-90cd-833534ba6581",
-        "file_name": "KARRIN FOR ARIZONA NCC CDR3621688_sys_1200 0001",
-        "file_extension": "pdf",
-        "file_size": 8950,
-        "file_status": "com_cpy",
-        "folder_id": "523249b5-6ebe-5fde-6db4-08a22c40d609",
-        "create_ts": "2022-01-20T01:13:58.188Z",
-        "last_update_ts": "2022-01-20T01:13:58.085Z",
-        "active_ind": "Y",
-        "file_manager_id": "13534ec0-67df-43c5-9205-824271288f35",
-        "file_folder_path": "Political Files/2022/State/Karrin Taylor Robson",
-        "full_qualified_file_name": "Political Files/2022/State/Karrin Taylor Robson/KARRIN FOR ARIZONA NCC CDR3621688_sys_1200 0001",
-        "entity_id": "002288",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS ARIZONA, LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1722434179259433000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -353,7 +352,7 @@
       "network_affiliation": {
         "ABC": 57265,
         "NBC": 56038,
-        "CBS": 38211,
+        "CBS": 38212,
         "FOX": 27555,
         "PBS": 14349,
         "CW": 12042,
@@ -423,7 +422,7 @@
         "2019": 14022,
         "2020": 126034,
         "2021": 22462,
-        "2022": 833,
+        "2022": 834,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -463,7 +462,7 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 234723,
+        "TV": 234724,
         "CABLE": 117326,
         "FM": 111143,
         "AM": 41438,
@@ -471,7 +470,7 @@
       },
       "political_file_type": {
         "PA": 219392,
-        "NCIA": 122531
+        "NCIA": 122532
       }
     }
   },
@@ -487,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 368,
-    "processTime": 374,
-    "responseTime": 374
+    "queryTime": 1766,
+    "processTime": 776,
+    "responseTime": 1777
   }
 }
