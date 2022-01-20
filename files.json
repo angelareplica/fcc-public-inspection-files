@@ -1,9 +1,54 @@
 {
   "response": {
-    "numFound": 509943,
+    "numFound": 509945,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "62174250-03bd-b5dc-7d5d-c5f8d10146ff",
+        "file_id": "62174250-03bd-b5dc-7d5d-c5f8d10146ff",
+        "file_name": "Great Lakes Michigan Jobs 01-24-2022 20925--1",
+        "file_extension": "pdf",
+        "file_size": 26016,
+        "file_status": "com_cpy",
+        "folder_id": "6371890e-4d34-b720-3b28-fd8310928d2d",
+        "create_ts": "2022-01-20T14:30:08.89Z",
+        "last_update_ts": "2022-01-20T14:30:08.711Z",
+        "active_ind": "Y",
+        "file_manager_id": "9a52e15c-8ff7-43cd-b19c-2f99de1fc30a",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Great Lakes Michigan Jobs/WBKB/Orders",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Great Lakes Michigan Jobs/WBKB/Orders/Great Lakes Michigan Jobs 01-24-2022 20925--1",
+        "entity_id": "67048",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "ALPENA",
+        "callsign": "WBKB-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1722484270496219100,
+        "score": 0.24995688
+      },
+      {
+        "id": "3079e01f-7c89-c3be-e31b-0a42a6d76d7b",
+        "file_id": "3079e01f-7c89-c3be-e31b-0a42a6d76d7b",
+        "file_name": "InfoTrak Show #2022-04 Aired 1-23-22",
+        "file_extension": "pdf",
+        "file_size": 159496,
+        "file_status": "com_cpy",
+        "folder_id": "5cf305b1-68b5-97a4-5c65-fcd249afdc76",
+        "create_ts": "2022-01-20T14:28:46.226Z",
+        "last_update_ts": "2022-01-20T14:28:47.904Z",
+        "active_ind": "Y",
+        "file_manager_id": "158b7e86-ee5f-48b0-8dad-40d6a2427e8e",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/InfoTrak Show #2022-04 Aired 1-23-22",
+        "entity_id": "47103",
+        "source_service_code": "FM",
+        "callsign": "WKKY",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1722484184001282000,
+        "score": 0.24995688
+      },
       {
         "id": "4b48227c-6980-8a89-6001-e8de21dda895",
         "file_id": "4b48227c-6980-8a89-6001-e8de21dda895",
@@ -194,56 +239,6 @@
         "campaign_year": "2022",
         "_version_": 1722434906165870600,
         "score": 0.24995688
-      },
-      {
-        "id": "c2df6c3c-95cb-b7aa-aa45-ad6685dd8688",
-        "file_id": "c2df6c3c-95cb-b7aa-aa45-ad6685dd8688",
-        "file_name": "KARRIN FOR ARIZONA NCC CDR3621688_sys_1200 0001",
-        "file_extension": "pdf",
-        "file_size": 8950,
-        "file_status": "com_cpy",
-        "folder_id": "bfb22b03-c170-18b9-12f9-c6cf1cd5a14d",
-        "create_ts": "2022-01-20T01:18:35.568Z",
-        "last_update_ts": "2022-01-20T01:18:37.069Z",
-        "active_ind": "Y",
-        "file_manager_id": "20c97556-e629-456e-b264-83f7c5e266eb",
-        "file_folder_path": "Political Files/2022/State/Karrin Robson Taylor",
-        "full_qualified_file_name": "Political Files/2022/State/Karrin Robson Taylor/KARRIN FOR ARIZONA NCC CDR3621688_sys_1200 0001",
-        "entity_id": "002699",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS ARIZONA, LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1722434470159581200,
-        "score": 0.24995688
-      },
-      {
-        "id": "aaaeb822-8aa4-c30e-fcd6-159dadf69e86",
-        "file_id": "aaaeb822-8aa4-c30e-fcd6-159dadf69e86",
-        "file_name": "KARRIN FOR ARIZONA NCC CDR3621434_sys_1200 0002",
-        "file_extension": "pdf",
-        "file_size": 9374,
-        "file_status": "com_cpy",
-        "folder_id": "bfb22b03-c170-18b9-12f9-c6cf1cd5a14d",
-        "create_ts": "2022-01-20T01:18:35.571Z",
-        "last_update_ts": "2022-01-20T01:18:37.033Z",
-        "active_ind": "Y",
-        "file_manager_id": "87e273f7-9e50-4dfd-b22d-edc55dee314a",
-        "file_folder_path": "Political Files/2022/State/Karrin Robson Taylor",
-        "full_qualified_file_name": "Political Files/2022/State/Karrin Robson Taylor/KARRIN FOR ARIZONA NCC CDR3621434_sys_1200 0002",
-        "entity_id": "002699",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS ARIZONA, LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1722434470139658200,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -352,7 +347,7 @@
       "network_affiliation": {
         "ABC": 57265,
         "NBC": 56038,
-        "CBS": 38212,
+        "CBS": 38213,
         "FOX": 27555,
         "PBS": 14349,
         "CW": 12042,
@@ -422,7 +417,7 @@
         "2019": 14022,
         "2020": 126034,
         "2021": 22462,
-        "2022": 834,
+        "2022": 835,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -435,7 +430,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54264,
-        "Issues and Programs Lists": 44862,
+        "Issues and Programs Lists": 44863,
         "Equal Employment Opportunity Records": 37080,
         "Donor Lists - Applicable Only for NCEs": 11406,
         "FCC Authorizations": 7258,
@@ -462,15 +457,15 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 234724,
+        "TV": 234725,
         "CABLE": 117326,
-        "FM": 111143,
+        "FM": 111144,
         "AM": 41438,
         "DBS": 5312
       },
       "political_file_type": {
         "PA": 219392,
-        "NCIA": 122532
+        "NCIA": 122533
       }
     }
   },
@@ -486,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1766,
-    "processTime": 776,
-    "responseTime": 1777
+    "queryTime": 1752,
+    "processTime": 761,
+    "responseTime": 1761
   }
 }
