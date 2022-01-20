@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 509938,
+    "numFound": 509940,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "04ffe724-49f2-0c67-a7d8-704956906237",
+        "file_id": "04ffe724-49f2-0c67-a7d8-704956906237",
+        "file_name": "Eva Guzman for TX AG 616279 est 8353 order 2.23-03.01.22",
+        "file_extension": "pdf",
+        "file_size": 78797,
+        "file_status": "com_cpy",
+        "folder_id": "860cdb88-77ea-b5d2-a166-2941840c18f0",
+        "create_ts": "2022-01-20T04:37:04.946Z",
+        "last_update_ts": "2022-01-20T04:37:04.861Z",
+        "active_ind": "Y",
+        "file_manager_id": "53e525d7-806c-4bd4-96b2-b59715ddfe13",
+        "file_folder_path": "Political Files/2022/State/Eva Guzman for TX State Attorney General R/Orders",
+        "full_qualified_file_name": "Political Files/2022/State/Eva Guzman for TX State Attorney General R/Orders/Eva Guzman for TX AG 616279 est 8353 order 2.23-03.01.22",
+        "entity_id": "53117",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HOUSTON",
+        "callsign": "KPRC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1722446958041235500,
+        "score": 0.24995688
+      },
+      {
+        "id": "f4f2df98-75ba-25d9-fd8d-466ad73bd063",
+        "file_id": "f4f2df98-75ba-25d9-fd8d-466ad73bd063",
+        "file_name": "Eva Guzman for TX AG 616278 est 8352 order 2.16-02-22.22",
+        "file_extension": "pdf",
+        "file_size": 57320,
+        "file_status": "com_cpy",
+        "folder_id": "860cdb88-77ea-b5d2-a166-2941840c18f0",
+        "create_ts": "2022-01-20T04:37:04.947Z",
+        "last_update_ts": "2022-01-20T04:37:04.777Z",
+        "active_ind": "Y",
+        "file_manager_id": "8e86d6c4-bab7-4df9-9028-29c408a1cdc8",
+        "file_folder_path": "Political Files/2022/State/Eva Guzman for TX State Attorney General R/Orders",
+        "full_qualified_file_name": "Political Files/2022/State/Eva Guzman for TX State Attorney General R/Orders/Eva Guzman for TX AG 616278 est 8352 order 2.16-02-22.22",
+        "entity_id": "53117",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HOUSTON",
+        "callsign": "KPRC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1722446957962592300,
+        "score": 0.24995688
+      },
       {
         "id": "0c074991-d429-e597-48c2-cc1c173dbfc6",
         "file_id": "0c074991-d429-e597-48c2-cc1c173dbfc6",
@@ -199,50 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1722430328777212000,
         "score": 0.24995688
-      },
-      {
-        "id": "f77f98cb-2641-0e5f-ea7b-42bacab0b179",
-        "file_id": "f77f98cb-2641-0e5f-ea7b-42bacab0b179",
-        "file_name": "01-11-22 Citizens for Tax Relief Invoice",
-        "file_extension": "pdf",
-        "file_size": 84956,
-        "file_status": "com_cpy",
-        "folder_id": "6535552a-8e0e-92c3-af52-12924116b4e3",
-        "create_ts": "2022-01-20T00:12:46.072Z",
-        "last_update_ts": "2022-01-20T00:12:46.029Z",
-        "active_ind": "Y",
-        "file_manager_id": "16a8bc8e-454e-4a9e-8f4e-bcdacb1ff15f",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief/01-11-22 Citizens for Tax Relief Invoice",
-        "entity_id": "183367",
-        "source_service_code": "FM",
-        "callsign": "KBPY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1722430328818106400,
-        "score": 0.24995688
-      },
-      {
-        "id": "6fea2be9-ec57-058d-5dee-e7f3af61784d",
-        "file_id": "6fea2be9-ec57-058d-5dee-e7f3af61784d",
-        "file_name": "01-14-22 Citizens for Tax Relief Invoice",
-        "file_extension": "pdf",
-        "file_size": 84749,
-        "file_status": "com_cpy",
-        "folder_id": "f9cf0dc1-2b7a-6be9-e714-771da4660082",
-        "create_ts": "2022-01-20T00:09:42.246Z",
-        "last_update_ts": "2022-01-20T00:10:43.185Z",
-        "active_ind": "Y",
-        "file_manager_id": "cec0cd7a-49fe-4d73-b885-45f9b8c7bdd3",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief/01-14-22 Citizens for Tax Relief Invoice",
-        "entity_id": "10081",
-        "source_service_code": "AM",
-        "callsign": "KCSR",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1722430136079351800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -350,7 +356,7 @@
       },
       "network_affiliation": {
         "ABC": 57265,
-        "NBC": 56036,
+        "NBC": 56038,
         "CBS": 38211,
         "FOX": 27555,
         "PBS": 14349,
@@ -421,12 +427,12 @@
         "2019": 14022,
         "2020": 126034,
         "2021": 22462,
-        "2022": 831,
+        "2022": 833,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65267,
+        "State": 65269,
         "US Senate": 48857,
         "US House": 41483,
         "Presidential": 38997,
@@ -461,14 +467,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 234721,
+        "TV": 234723,
         "CABLE": 117326,
         "FM": 111141,
         "AM": 41438,
         "DBS": 5312
       },
       "political_file_type": {
-        "PA": 219390,
+        "PA": 219392,
         "NCIA": 122531
       }
     }
@@ -485,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 215,
-    "responseTime": 215
+    "queryTime": 206,
+    "processTime": 218,
+    "responseTime": 219
   }
 }
