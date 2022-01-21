@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 510116,
+    "numFound": 510118,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "a2702d9d-941b-0b5c-b827-5adc5b1a8f53",
+        "file_id": "a2702d9d-941b-0b5c-b827-5adc5b1a8f53",
+        "file_name": "Schedule & Update-01",
+        "file_extension": "pdf",
+        "file_size": 284100,
+        "file_status": "com_cpy",
+        "folder_id": "cb5a5133-82af-ee7f-70a6-de122681ff93",
+        "create_ts": "2022-01-21T13:08:47.558Z",
+        "last_update_ts": "2022-01-21T13:08:49.253Z",
+        "active_ind": "Y",
+        "file_manager_id": "8941d400-a014-4c41-b5fd-e4489e2eb8e3",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Schedule & Update-01",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1722569749194342400,
+        "score": 0.24995688
+      },
+      {
+        "id": "ca207078-fc9a-3a07-fb99-a85571e4e507",
+        "file_id": "ca207078-fc9a-3a07-fb99-a85571e4e507",
+        "file_name": "2022-01-21 NET199387.1-Second Amendment Foundation-WWO",
+        "file_extension": "pdf",
+        "file_size": 4179173,
+        "file_status": "com_cpy",
+        "folder_id": "cb5a5133-82af-ee7f-70a6-de122681ff93",
+        "create_ts": "2022-01-21T13:06:55.562Z",
+        "last_update_ts": "2022-01-21T13:06:58.07Z",
+        "active_ind": "Y",
+        "file_manager_id": "07415bf9-b131-4fd4-b298-5e1660ec7ea3",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/2022-01-21 NET199387.1-Second Amendment Foundation-WWO",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1722569632613662700,
+        "score": 0.24995688
+      },
       {
         "id": "8c617ccb-fb17-e5fa-b21c-e2c719a489f1",
         "file_id": "8c617ccb-fb17-e5fa-b21c-e2c719a489f1",
@@ -197,56 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1722525319227768800,
         "score": 0.24995688
-      },
-      {
-        "id": "0b5bae8c-039d-022b-d9d3-ac674868d39d",
-        "file_id": "0b5bae8c-039d-022b-d9d3-ac674868d39d",
-        "file_name": "Andrew Sorrell for State Auditor 2388595 est WK 1 0411 order",
-        "file_extension": "pdf",
-        "file_size": 216684,
-        "file_status": "com_cpy",
-        "folder_id": "3759b36c-fe19-819e-3b97-c56b033622b3",
-        "create_ts": "2022-01-21T01:22:35.885Z",
-        "last_update_ts": "2022-01-21T01:22:36.028Z",
-        "active_ind": "Y",
-        "file_manager_id": "2c790b46-d9b0-415b-94c1-ce2a4841e223",
-        "file_folder_path": "Political Files/2022/State/State Auditor/Andrew Sorrell",
-        "full_qualified_file_name": "Political Files/2022/State/State Auditor/Andrew Sorrell/Andrew Sorrell for State Auditor 2388595 est WK 1 0411 order",
-        "entity_id": "591",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "HUNTSVILLE-DECATUR (FLOR)",
-        "callsign": "WAFF",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1722525319524515800,
-        "score": 0.24995688
-      },
-      {
-        "id": "48958c1d-1f44-81e1-4381-0399023663f0",
-        "file_id": "48958c1d-1f44-81e1-4381-0399023663f0",
-        "file_name": "John Roberts for Congress 2389664 est 0124-0403 order",
-        "file_extension": "pdf",
-        "file_size": 211151,
-        "file_status": "com_cpy",
-        "folder_id": "8e7528a3-7e86-467d-93eb-22db5273651d",
-        "create_ts": "2022-01-21T00:53:10.341Z",
-        "last_update_ts": "2022-01-21T00:53:11.897Z",
-        "active_ind": "Y",
-        "file_manager_id": "ca9144d9-e08f-4723-ac1d-6e3acb879fc6",
-        "file_folder_path": "Political Files/2022/Federal/US House/John Roberts for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/John Roberts for Congress/John Roberts for Congress 2389664 est 0124-0403 order",
-        "entity_id": "591",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "HUNTSVILLE-DECATUR (FLOR)",
-        "callsign": "WAFF",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1722523467833671700,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -425,7 +419,7 @@
         "2019": 14022,
         "2020": 126024,
         "2021": 22474,
-        "2022": 914,
+        "2022": 916,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -467,13 +461,13 @@
       "source_service_code": {
         "TV": 234783,
         "CABLE": 117418,
-        "FM": 111156,
+        "FM": 111158,
         "AM": 41443,
         "DBS": 5316
       },
       "political_file_type": {
         "PA": 219442,
-        "NCIA": 122564
+        "NCIA": 122566
       }
     }
   },
@@ -489,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 214,
-    "responseTime": 215
+    "queryTime": 1755,
+    "processTime": 765,
+    "responseTime": 1765
   }
 }
