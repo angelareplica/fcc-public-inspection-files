@@ -1,9 +1,56 @@
 {
   "response": {
-    "numFound": 510392,
+    "numFound": 510394,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "44ed84a1-3913-0790-2174-be2b3b7afdc7",
+        "file_id": "44ed84a1-3913-0790-2174-be2b3b7afdc7",
+        "file_name": "Texans for Henry Cuellar Congressional Campiagn TX-28 (Primary) NAB 01-21-2022",
+        "file_extension": "pdf",
+        "file_size": 1057216,
+        "file_status": "com_cpy",
+        "folder_id": "ed30a90c-8287-af46-743f-24f41a59fd60",
+        "create_ts": "2022-01-22T03:21:32.623Z",
+        "last_update_ts": "2022-01-22T03:21:32.451Z",
+        "active_ind": "Y",
+        "file_manager_id": "01968c59-13b2-41db-9efb-4a5a2c28272c",
+        "file_folder_path": "Political Files/2022/Federal/US House/Texans For Henry Cuellar/NAB Forms",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Texans For Henry Cuellar/NAB Forms/Texans for Henry Cuellar Congressional Campiagn TX-28 (Primary) NAB 01-21-2022",
+        "entity_id": "64969",
+        "source_service_code": "TV",
+        "network_affiliation": "TELEMUNDO",
+        "nielsen_dma_rank": "SAN ANTONIO",
+        "callsign": "KVDA",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1722623399789854700,
+        "score": 0.24995688
+      },
+      {
+        "id": "224f20cd-caf6-dd3a-78f7-20e399b18455",
+        "file_id": "224f20cd-caf6-dd3a-78f7-20e399b18455",
+        "file_name": "KPOD McCarthy Victory Fund - Non Candidate Issue December 2021 Revised 01202022",
+        "file_extension": "pdf",
+        "file_size": 649053,
+        "file_status": "com_cpy",
+        "folder_id": "b8f027cb-91bc-27fc-1394-466a2dbff1b2",
+        "create_ts": "2022-01-22T03:16:00.672Z",
+        "last_update_ts": "2022-01-22T03:16:02.541Z",
+        "active_ind": "Y",
+        "file_manager_id": "f707e583-eee3-4110-92db-43266149b6ed",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/KPOD McCarthy Victory Fund - Non Candidate Issue December 2021 Revised 01202022",
+        "entity_id": "72537",
+        "source_service_code": "AM",
+        "callsign": "KPOD",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1722623051745460200,
+        "score": 0.24995688
+      },
       {
         "id": "c25e79e5-e356-eb25-c7c7-40b6a278bcce",
         "file_id": "c25e79e5-e356-eb25-c7c7-40b6a278bcce",
@@ -191,56 +238,6 @@
         "campaign_year": "2022",
         "_version_": 1722612093357654000,
         "score": 0.24995688
-      },
-      {
-        "id": "aa2ad816-3b6d-9b2d-c34b-803185e03032",
-        "file_id": "aa2ad816-3b6d-9b2d-c34b-803185e03032",
-        "file_name": "Andrew Sorrell for State Auditor 2389175 est WK 5 0509 NAB",
-        "file_extension": "pdf",
-        "file_size": 901914,
-        "file_status": "com_cpy",
-        "folder_id": "3759b36c-fe19-819e-3b97-c56b033622b3",
-        "create_ts": "2022-01-22T00:21:47.475Z",
-        "last_update_ts": "2022-01-22T00:21:51.046Z",
-        "active_ind": "Y",
-        "file_manager_id": "8e1ffc0e-0096-4a31-bd55-fe6fa7002162",
-        "file_folder_path": "Political Files/2022/State/State Auditor/Andrew Sorrell",
-        "full_qualified_file_name": "Political Files/2022/State/State Auditor/Andrew Sorrell/Andrew Sorrell for State Auditor 2389175 est WK 5 0509 NAB",
-        "entity_id": "591",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "HUNTSVILLE-DECATUR (FLOR)",
-        "callsign": "WAFF",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1722612092560736300,
-        "score": 0.24995688
-      },
-      {
-        "id": "d2dd2f34-30cf-968c-d825-bc056f33d9df",
-        "file_id": "d2dd2f34-30cf-968c-d825-bc056f33d9df",
-        "file_name": "Andrew Sorrell for State Auditor 2389126 est WK 3 0425 NAB",
-        "file_extension": "pdf",
-        "file_size": 894587,
-        "file_status": "com_cpy",
-        "folder_id": "3759b36c-fe19-819e-3b97-c56b033622b3",
-        "create_ts": "2022-01-22T00:21:46.919Z",
-        "last_update_ts": "2022-01-22T00:21:51.045Z",
-        "active_ind": "Y",
-        "file_manager_id": "05691861-7a35-439f-b2f0-03c549567964",
-        "file_folder_path": "Political Files/2022/State/State Auditor/Andrew Sorrell",
-        "full_qualified_file_name": "Political Files/2022/State/State Auditor/Andrew Sorrell/Andrew Sorrell for State Auditor 2389126 est WK 3 0425 NAB",
-        "entity_id": "591",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "HUNTSVILLE-DECATUR (FLOR)",
-        "callsign": "WAFF",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1722612092560736300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -359,7 +356,7 @@
         "MY NETWORK": 1551,
         "CBS/NBC": 1081,
         "MNT": 854,
-        "TELEMUNDO": 839,
+        "TELEMUNDO": 840,
         "ION": 735,
         "N/A": 654,
         "FAMILYNET": 636,
@@ -418,15 +415,15 @@
         "2018": 67759,
         "2019": 14022,
         "2020": 126024,
-        "2021": 22480,
-        "2022": 1045,
+        "2021": 22481,
+        "2022": 1046,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 65351,
         "US Senate": 48897,
-        "US House": 41487,
+        "US House": 41488,
         "Presidential": 38986,
         "Local": 23831
       },
@@ -459,15 +456,15 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 234853,
+        "TV": 234854,
         "CABLE": 117570,
         "FM": 111176,
-        "AM": 41476,
+        "AM": 41477,
         "DBS": 5317
       },
       "political_file_type": {
-        "PA": 219534,
-        "NCIA": 122609
+        "PA": 219535,
+        "NCIA": 122610
       }
     }
   },
@@ -483,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 220,
-    "responseTime": 220
+    "queryTime": 1752,
+    "processTime": 760,
+    "responseTime": 1760
   }
 }
