@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 510408,
+    "numFound": 510409,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "6b8190ac-d400-71c5-6b90-9b822f87be7c",
+        "file_id": "6b8190ac-d400-71c5-6b90-9b822f87be7c",
+        "file_name": "HERBSTER FOR GOV 01.25.2022 KLIN",
+        "file_extension": "pdf",
+        "file_size": 188832,
+        "file_status": "com_cpy",
+        "folder_id": "987656aa-9ee0-384f-320d-3566e8fc2a29",
+        "create_ts": "2022-01-24T16:48:38.205Z",
+        "last_update_ts": "2022-01-24T16:49:52.705Z",
+        "active_ind": "Y",
+        "file_manager_id": "2e8389f3-91c5-4bb5-9381-b496089c9e03",
+        "file_folder_path": "Political Files/2022/State/PRIMARY/HERBSTER FOR GOVERNOR",
+        "full_qualified_file_name": "Political Files/2022/State/PRIMARY/HERBSTER FOR GOVERNOR/HERBSTER FOR GOV 01.25.2022 KLIN",
+        "entity_id": "35064",
+        "source_service_code": "AM",
+        "callsign": "KLIN",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1722855371470536700,
+        "score": 0.24995688
+      },
       {
         "id": "ab79ec99-518d-80f4-c4b0-82a1c96bb87a",
         "file_id": "ab79ec99-518d-80f4-c4b0-82a1c96bb87a",
@@ -198,27 +221,6 @@
         "non_political_file_folder": "Ownership Reports",
         "_version_": 1722849332231667700,
         "score": 0.24995688
-      },
-      {
-        "id": "83e0988d-4efa-b480-68fa-00278f39bd1b",
-        "file_id": "83e0988d-4efa-b480-68fa-00278f39bd1b",
-        "file_name": "WSKG Charter 06231961",
-        "file_extension": "pdf",
-        "file_size": 858109,
-        "file_status": "com_cpy",
-        "folder_id": "5d796cee-df0b-b750-bbb6-87b5b8e513df",
-        "create_ts": "2022-01-24T15:10:19.434Z",
-        "last_update_ts": "2022-01-24T15:10:21.301Z",
-        "active_ind": "Y",
-        "file_manager_id": "8ffb34a3-af5a-4e4c-814b-b0b379c6a8df",
-        "file_folder_path": "Ownership Reports/Additional Documents/Contracts and Agreements",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Contracts and Agreements/WSKG Charter 06231961",
-        "entity_id": "171732",
-        "source_service_code": "FM",
-        "callsign": "WSQN",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1722849186263597000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -397,12 +399,12 @@
         "2019": 14022,
         "2020": 126024,
         "2021": 22481,
-        "2022": 1054,
+        "2022": 1055,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65352,
+        "State": 65353,
         "US Senate": 48899,
         "US House": 41488,
         "Presidential": 38986,
@@ -440,11 +442,11 @@
         "TV": 234858,
         "CABLE": 117570,
         "FM": 111184,
-        "AM": 41479,
+        "AM": 41480,
         "DBS": 5317
       },
       "political_file_type": {
-        "PA": 219539,
+        "PA": 219540,
         "NCIA": 122614
       }
     }
@@ -461,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1889,
-    "processTime": 896,
-    "responseTime": 1896
+    "queryTime": 1769,
+    "processTime": 776,
+    "responseTime": 1776
   }
 }
