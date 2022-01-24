@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 510397,
+    "numFound": 510398,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "2164f94c-c40f-031d-ca41-b0d2f524fb5b",
+        "file_id": "2164f94c-c40f-031d-ca41-b0d2f524fb5b",
+        "file_name": "Centex Broadcasting Consent Decree - Corrected 10.25.21 (01565752xB3D1E) (1)",
+        "file_extension": "pdf",
+        "file_size": 167984,
+        "file_status": "com_cpy",
+        "folder_id": "4d5b7c17-50bf-1743-1c0a-5c7a59e68cba",
+        "create_ts": "2022-01-24T14:14:34.695Z",
+        "last_update_ts": "2022-01-24T14:14:33.945Z",
+        "active_ind": "Y",
+        "file_manager_id": "02144e1b-5bbb-4739-ab1c-c81ec66900ae",
+        "file_folder_path": "FCC Investigations or Complaints",
+        "full_qualified_file_name": "FCC Investigations or Complaints/Centex Broadcasting Consent Decree - Corrected 10.25.21 (01565752xB3D1E) (1)",
+        "entity_id": "84381",
+        "source_service_code": "FM",
+        "callsign": "KMIL",
+        "non_political_file_folder": "FCC Investigations or Complaints",
+        "_version_": 1722845678993932300,
+        "score": 0.24995688
+      },
       {
         "id": "a177046d-c320-2162-bcb6-63b3fc9a5570",
         "file_id": "a177046d-c320-2162-bcb6-63b3fc9a5570",
@@ -219,29 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1722618940831563800,
         "score": 0.24995688
-      },
-      {
-        "id": "605f335a-2e82-25a5-cf2b-8b22faace2f2",
-        "file_id": "605f335a-2e82-25a5-cf2b-8b22faace2f2",
-        "file_name": "Matt Schaefer Campaign 012422-030122",
-        "file_extension": "pdf",
-        "file_size": 358009,
-        "file_status": "com_cpy",
-        "folder_id": "b25563d1-c86a-ad6e-1238-5cb994bfad04",
-        "create_ts": "2022-01-22T02:08:58.047Z",
-        "last_update_ts": "2022-01-22T02:08:59.883Z",
-        "active_ind": "Y",
-        "file_manager_id": "6d9bf41b-7346-499e-ad86-9ab0b291004b",
-        "file_folder_path": "Political Files/2022/State/Matt Schaefer Campaign",
-        "full_qualified_file_name": "Political Files/2022/State/Matt Schaefer Campaign/Matt Schaefer Campaign 012422-030122",
-        "entity_id": "24248",
-        "source_service_code": "AM",
-        "callsign": "KTBB",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1722618833681776600,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -440,7 +438,7 @@
         "Availability of Signals": 1842,
         "Local Public Notice Announcements": 1764,
         "Applications and Related Materials": 1660,
-        "FCC Investigations or Complaints": 1536,
+        "FCC Investigations or Complaints": 1537,
         "Must-Carry or Retransmission Consent": 1333,
         "Childrens TV Programming Reports": 1155,
         "Ownership Reports": 1105,
@@ -462,7 +460,7 @@
       "source_service_code": {
         "TV": 234859,
         "CABLE": 117570,
-        "FM": 111174,
+        "FM": 111175,
         "AM": 41477,
         "DBS": 5317
       },
@@ -484,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 217,
-    "responseTime": 217
+    "queryTime": 209,
+    "processTime": 218,
+    "responseTime": 219
   }
 }
