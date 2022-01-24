@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 510409,
+    "numFound": 510410,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "04c8da8e-0ba6-445f-73fb-fab0b659bbaa",
+        "file_id": "04c8da8e-0ba6-445f-73fb-fab0b659bbaa",
+        "file_name": "IRVIN FOR IL NAB Guarantee H 012022",
+        "file_extension": "pdf",
+        "file_size": 164180,
+        "file_status": "com_cpy",
+        "folder_id": "2cdb2ecd-002c-4ac7-e1f7-4a6ee182d0a0",
+        "create_ts": "2022-01-24T17:30:41.049Z",
+        "last_update_ts": "2022-01-24T17:31:55.547Z",
+        "active_ind": "Y",
+        "file_manager_id": "281633e2-5251-4f11-a099-8e3d511cb81c",
+        "file_folder_path": "Political Files/2022/State/Illinois/Richard Irvin IL Governor",
+        "full_qualified_file_name": "Political Files/2022/State/Illinois/Richard Irvin IL Governor/IRVIN FOR IL NAB Guarantee H 012022",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1722858016760397800,
+        "score": 0.24995688
+      },
       {
         "id": "6b8190ac-d400-71c5-6b90-9b822f87be7c",
         "file_id": "6b8190ac-d400-71c5-6b90-9b822f87be7c",
@@ -200,27 +222,6 @@
         "non_political_file_folder": "Ownership Reports",
         "_version_": 1722849456953491500,
         "score": 0.24995688
-      },
-      {
-        "id": "6e0f1177-1a7b-ee4c-dfa7-f1ba49ab89d6",
-        "file_id": "6e0f1177-1a7b-ee4c-dfa7-f1ba49ab89d6",
-        "file_name": "WSKG Charter 06231961",
-        "file_extension": "pdf",
-        "file_size": 858109,
-        "file_status": "com_cpy",
-        "folder_id": "98775b83-5deb-1c40-aec2-a2dfb43cf5e4",
-        "create_ts": "2022-01-24T15:12:38.706Z",
-        "last_update_ts": "2022-01-24T15:12:40.511Z",
-        "active_ind": "Y",
-        "file_manager_id": "108d7bac-1e30-4782-be8f-825123299ba4",
-        "file_folder_path": "Ownership Reports/Additional Documents/Contracts and Agreements",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Contracts and Agreements/WSKG Charter 06231961",
-        "entity_id": "74039",
-        "source_service_code": "FM",
-        "callsign": "WSKG-FM",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1722849332231667700,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -399,12 +400,12 @@
         "2019": 14022,
         "2020": 126024,
         "2021": 22481,
-        "2022": 1055,
+        "2022": 1056,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65353,
+        "State": 65354,
         "US Senate": 48899,
         "US House": 41488,
         "Presidential": 38986,
@@ -443,10 +444,10 @@
         "CABLE": 117570,
         "FM": 111184,
         "AM": 41480,
-        "DBS": 5317
+        "DBS": 5318
       },
       "political_file_type": {
-        "PA": 219540,
+        "PA": 219541,
         "NCIA": 122614
       }
     }
@@ -463,8 +464,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1769,
-    "processTime": 776,
-    "responseTime": 1776
+    "queryTime": 1754,
+    "processTime": 761,
+    "responseTime": 1761
   }
 }
