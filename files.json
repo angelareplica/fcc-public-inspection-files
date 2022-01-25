@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 510909,
+    "numFound": 510910,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "56eec3d8-40b3-d80f-c957-874d31328138",
+        "file_id": "56eec3d8-40b3-d80f-c957-874d31328138",
+        "file_name": "2022-01-25_JAN_WELR_EAS_LOGS",
+        "file_extension": "pdf",
+        "file_size": 1290918,
+        "file_status": "com_cpy",
+        "folder_id": "6f227f28-c72b-0f2d-b152-a9782a1f3ee3",
+        "create_ts": "2022-01-25T14:15:57.601Z",
+        "last_update_ts": "2022-01-25T14:15:59.72Z",
+        "active_ind": "Y",
+        "file_manager_id": "70efd9f4-b4ed-4c04-8374-dd20a76f926b",
+        "file_folder_path": "FCC Authorizations/Additional Documents/2022/1st Quarter",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/2022/1st Quarter/2022-01-25_JAN_WELR_EAS_LOGS",
+        "entity_id": "18135",
+        "source_service_code": "FM",
+        "callsign": "WELR-FM",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1722936363182981000,
+        "score": 0.24995688
+      },
       {
         "id": "deed55df-253c-d408-08cd-d477973667f2",
         "file_id": "deed55df-253c-d408-08cd-d477973667f2",
@@ -220,31 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1722882105396953000,
         "score": 0.24995688
-      },
-      {
-        "id": "b6293b96-39e7-316f-f4c4-8daff17e6b02",
-        "file_id": "b6293b96-39e7-316f-f4c4-8daff17e6b02",
-        "file_name": "Janice McGeachin for Idaho Governor-R - KBOI Contract Confirmation - 2022.01.24-01.30",
-        "file_extension": "pdf",
-        "file_size": 273851,
-        "file_status": "com_cpy",
-        "folder_id": "95b32107-bd43-9ae1-5d62-33dfe3aab6b9",
-        "create_ts": "2022-01-24T23:53:33.607Z",
-        "last_update_ts": "2022-01-24T23:53:32.816Z",
-        "active_ind": "Y",
-        "file_manager_id": "9542594f-fcf3-4785-8a21-95dd6ef18b48",
-        "file_folder_path": "Political Files/2022/State/Janice McGeachin for Idaho Governor",
-        "full_qualified_file_name": "Political Files/2022/State/Janice McGeachin for Idaho Governor/Janice McGeachin for Idaho Governor-R - KBOI Contract Confirmation - 2022.01.24-01.30",
-        "entity_id": "49760",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "BOISE",
-        "callsign": "KBOI-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1722882105421070300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -439,7 +435,7 @@
         "Issues and Programs Lists": 44860,
         "Equal Employment Opportunity Records": 37095,
         "Donor Lists - Applicable Only for NCEs": 11406,
-        "FCC Authorizations": 7260,
+        "FCC Authorizations": 7261,
         "Availability of Signals": 1842,
         "Local Public Notice Announcements": 1764,
         "Applications and Related Materials": 1660,
@@ -465,7 +461,7 @@
       "source_service_code": {
         "TV": 234910,
         "CABLE": 118005,
-        "FM": 111188,
+        "FM": 111189,
         "AM": 41488,
         "DBS": 5318
       },
@@ -487,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1762,
-    "processTime": 770,
-    "responseTime": 1771
+    "queryTime": 1756,
+    "processTime": 763,
+    "responseTime": 1763
   }
 }
