@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 511009,
+    "numFound": 511010,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "047101ec-7035-f621-a246-f86e7e444261",
+        "file_id": "047101ec-7035-f621-a246-f86e7e444261",
+        "file_name": "WDAM Gray EEO Public File Report 02.01.2021 - 01.31.2022",
+        "file_extension": "doc",
+        "file_size": 86016,
+        "file_status": "com_prc",
+        "folder_id": "239b0403-252a-75f8-8e68-59660947537f",
+        "create_ts": "2022-01-26T15:13:23.522Z",
+        "last_update_ts": "2022-01-26T15:13:45.059Z",
+        "active_ind": "Y",
+        "file_manager_id": "a5956d9f-ed4c-4528-aa93-b8ac1ff3755a",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2021 EEO REPORT",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2021 EEO REPORT/WDAM Gray EEO Public File Report 02.01.2021 - 01.31.2022",
+        "entity_id": "21250",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HATTIESBURG-LAUREL",
+        "callsign": "WDAM-TV",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1723030593804959700,
+        "score": 0.24995688
+      },
       {
         "id": "cc0ba32f-bf69-10d5-9c49-a4b9d5ee21a4",
         "file_id": "cc0ba32f-bf69-10d5-9c49-a4b9d5ee21a4",
@@ -219,28 +242,6 @@
         "campaign_year": "2022",
         "_version_": 1722972044630425600,
         "score": 0.24995688
-      },
-      {
-        "id": "7638da49-33a1-e153-108e-a2bad60900ac",
-        "file_id": "7638da49-33a1-e153-108e-a2bad60900ac",
-        "file_name": "TX-LC Buckingham PB-19 Consequences 012522",
-        "file_extension": "pdf",
-        "file_size": 81931,
-        "file_status": "com_cpy",
-        "folder_id": "d982ab93-f359-07ea-0707-fb2b86277ac9",
-        "create_ts": "2022-01-25T23:38:31.898Z",
-        "last_update_ts": "2022-01-25T23:38:33.483Z",
-        "active_ind": "Y",
-        "file_manager_id": "5bc60010-9029-4a16-b49b-04ba1c6788b9",
-        "file_folder_path": "Political Files/2022/State/Texas/Dawn Buckingham TX Land Commissioner",
-        "full_qualified_file_name": "Political Files/2022/State/Texas/Dawn Buckingham TX Land Commissioner/TX-LC Buckingham PB-19 Consequences 012522",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1722971756562481200,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -348,7 +349,7 @@
       },
       "network_affiliation": {
         "ABC": 57305,
-        "NBC": 56089,
+        "NBC": 56090,
         "CBS": 38268,
         "FOX": 27606,
         "PBS": 14347,
@@ -433,7 +434,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54705,
         "Issues and Programs Lists": 44880,
-        "Equal Employment Opportunity Records": 37097,
+        "Equal Employment Opportunity Records": 37098,
         "Donor Lists - Applicable Only for NCEs": 11406,
         "FCC Authorizations": 7261,
         "Availability of Signals": 1843,
@@ -459,7 +460,7 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 234953,
+        "TV": 234954,
         "CABLE": 118010,
         "FM": 111214,
         "AM": 41509,
@@ -484,7 +485,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 208,
-    "processTime": 216,
-    "responseTime": 217
+    "processTime": 215,
+    "responseTime": 216
   }
 }
