@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 511017,
+    "numFound": 511016,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "5c7bc153-2584-d3f8-24a7-d2c4c1a55086",
+        "file_id": "5c7bc153-2584-d3f8-24a7-d2c4c1a55086",
+        "file_name": "EST-000578",
+        "file_extension": "pdf",
+        "file_size": 65287,
+        "file_status": "com_cpy",
+        "folder_id": "0e940192-db2d-ae88-6b18-d8991f3d1233",
+        "create_ts": "2022-01-26T18:42:20.941Z",
+        "last_update_ts": "2022-01-26T18:42:22.624Z",
+        "active_ind": "Y",
+        "file_manager_id": "2ee3dc21-41a4-4d82-a078-eaf3d6241673",
+        "file_folder_path": "Political Files/2022/Local/Jessica Herrera Taos Council",
+        "full_qualified_file_name": "Political Files/2022/Local/Jessica Herrera Taos Council/EST-000578",
+        "entity_id": "183377",
+        "source_service_code": "FM",
+        "callsign": "KNCE",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1723043719419003000,
+        "score": 0.24995688
+      },
       {
         "id": "ca4939cc-edfd-9bbe-6e3a-4baa79711ce2",
         "file_id": "ca4939cc-edfd-9bbe-6e3a-4baa79711ce2",
@@ -199,31 +222,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1723030593804959700,
         "score": 0.24995688
-      },
-      {
-        "id": "cc0ba32f-bf69-10d5-9c49-a4b9d5ee21a4",
-        "file_id": "cc0ba32f-bf69-10d5-9c49-a4b9d5ee21a4",
-        "file_name": "DAVID MCCORMICK FOR SENATE 1737955 01-24-22-01-30-22 MAKEGOOD",
-        "file_extension": "pdf",
-        "file_size": 1055163,
-        "file_status": "com_cpy",
-        "folder_id": "a791077b-3ff8-ed01-5996-a37dbc12f3a2",
-        "create_ts": "2022-01-26T13:48:29.856Z",
-        "last_update_ts": "2022-01-26T13:48:28.838Z",
-        "active_ind": "Y",
-        "file_manager_id": "e16305f8-7b97-49bb-bf0a-d4ff7e4cb6a2",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/DAVID MCCORMICK FOR SENATE",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/DAVID MCCORMICK FOR SENATE/DAVID MCCORMICK FOR SENATE 1737955 01-24-22-01-30-22 MAKEGOOD",
-        "entity_id": "73375",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WOLF-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1723025232209379300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -400,9 +398,9 @@
         "2017": 10358,
         "2018": 67758,
         "2019": 14006,
-        "2020": 126020,
+        "2020": 126018,
         "2021": 22485,
-        "2022": 1209,
+        "2022": 1210,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -411,7 +409,7 @@
         "US Senate": 48919,
         "US House": 41497,
         "Presidential": 38981,
-        "Local": 23839
+        "Local": 23838
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 54706,
@@ -444,12 +442,12 @@
       "source_service_code": {
         "TV": 234956,
         "CABLE": 118010,
-        "FM": 111220,
+        "FM": 111219,
         "AM": 41508,
         "DBS": 5323
       },
       "political_file_type": {
-        "PA": 219647,
+        "PA": 219646,
         "NCIA": 122644
       }
     }
@@ -466,8 +464,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1757,
-    "processTime": 765,
-    "responseTime": 1766
+    "queryTime": 1772,
+    "processTime": 778,
+    "responseTime": 1778
   }
 }
