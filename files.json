@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 511032,
+    "numFound": 511033,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "5937404b-2974-bf9d-4246-e9795403ceea",
+        "file_id": "5937404b-2974-bf9d-4246-e9795403ceea",
+        "file_name": "KMSS Texans for Abbott ISCI TGA22-02H NAB",
+        "file_extension": "pdf",
+        "file_size": 252849,
+        "file_status": "com_cpy",
+        "folder_id": "2a9a51b9-d1ca-8e57-54ed-e8c90121f27b",
+        "create_ts": "2022-01-26T20:24:21.33Z",
+        "last_update_ts": "2022-01-26T20:24:23.06Z",
+        "active_ind": "Y",
+        "file_manager_id": "b4526b52-3ec7-4d2f-94dd-6826510a1622",
+        "file_folder_path": "Political Files/2022/State/Greg Abbott-Texas-Governor",
+        "full_qualified_file_name": "Political Files/2022/State/Greg Abbott-Texas-Governor/KMSS Texans for Abbott ISCI TGA22-02H NAB",
+        "entity_id": "12525",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "SHREVEPORT",
+        "callsign": "KMSS-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1723050137152913400,
+        "score": 0.24995688
+      },
       {
         "id": "18f066e1-a0f0-05be-1843-34af9f596602",
         "file_id": "18f066e1-a0f0-05be-1843-34af9f596602",
@@ -215,31 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1723046617556189200,
         "score": 0.24995688
-      },
-      {
-        "id": "946fed2d-59c8-2273-752a-2b611b0e081a",
-        "file_id": "946fed2d-59c8-2273-752a-2b611b0e081a",
-        "file_name": "James, Tim 0128 to 0203",
-        "file_extension": "pdf",
-        "file_size": 2720732,
-        "file_status": "com_cpy",
-        "folder_id": "ef869e28-7084-f1ef-c9ef-fee253f4c188",
-        "create_ts": "2022-01-26T19:29:17.722Z",
-        "last_update_ts": "2022-01-26T19:29:16.929Z",
-        "active_ind": "Y",
-        "file_manager_id": "e071c6af-1514-4076-98e9-ba68e945f827",
-        "file_folder_path": "Political Files/2022/State/Governor/James",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/James/James, Tim 0128 to 0203",
-        "entity_id": "5360",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
-        "callsign": "WIAT",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1723046673615159300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -349,7 +349,7 @@
         "ABC": 57307,
         "NBC": 56090,
         "CBS": 38276,
-        "FOX": 27610,
+        "FOX": 27611,
         "PBS": 14347,
         "CW": 12051,
         "IND": 2988,
@@ -418,12 +418,12 @@
         "2019": 14006,
         "2020": 126018,
         "2021": 22485,
-        "2022": 1224,
+        "2022": 1225,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65438,
+        "State": 65439,
         "US Senate": 48922,
         "US House": 41497,
         "Presidential": 38981,
@@ -458,14 +458,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 234968,
+        "TV": 234969,
         "CABLE": 118010,
         "FM": 111221,
         "AM": 41510,
         "DBS": 5323
       },
       "political_file_type": {
-        "PA": 219659,
+        "PA": 219660,
         "NCIA": 122645
       }
     }
@@ -482,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1759,
-    "processTime": 769,
-    "responseTime": 1769
+    "queryTime": 207,
+    "processTime": 216,
+    "responseTime": 216
   }
 }
