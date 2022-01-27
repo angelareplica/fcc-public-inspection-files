@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 512617,
+    "numFound": 512603,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
@@ -248,7 +248,7 @@
         "CHARLESTON-HUNTINGTON": 4316,
         "PORTLAND-AUBURN": 4216,
         "TALLAHASSEE-THOMASVILLE": 3978,
-        "OMAHA": 3645,
+        "OMAHA": 3631,
         "BUTTE-BOZEMAN": 3622,
         "EUGENE": 3369,
         "MISSOULA": 3294,
@@ -342,7 +342,7 @@
         "ABC": 57315,
         "NBC": 56096,
         "CBS": 38277,
-        "FOX": 27609,
+        "FOX": 27595,
         "PBS": 14349,
         "CW": 12025,
         "IND": 2988,
@@ -409,7 +409,7 @@
         "2017": 10358,
         "2018": 67758,
         "2019": 14006,
-        "2020": 125988,
+        "2020": 125974,
         "2021": 22479,
         "2022": 1514,
         "KYAZ": 5,
@@ -418,8 +418,8 @@
       "office_type": {
         "State": 65682,
         "US Senate": 48940,
-        "US House": 41489,
-        "Presidential": 38970,
+        "US House": 41484,
+        "Presidential": 38961,
         "Local": 23845
       },
       "non_political_file_folder": {
@@ -451,14 +451,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 234960,
+        "TV": 234946,
         "CABLE": 119533,
         "FM": 111266,
         "AM": 41535,
         "DBS": 5323
       },
       "political_file_type": {
-        "PA": 219910,
+        "PA": 219896,
         "NCIA": 122648
       }
     }
@@ -476,7 +476,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 1757,
-    "processTime": 764,
-    "responseTime": 1765
+    "processTime": 766,
+    "responseTime": 1766
   }
 }
