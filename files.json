@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 512687,
+    "numFound": 512688,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "48fb2978-ee25-a14e-d41c-6f33e6bafb25",
+        "file_id": "48fb2978-ee25-a14e-d41c-6f33e6bafb25",
+        "file_name": "Jerrod Sessler The American Comeback radio script 010522",
+        "file_extension": "docx",
+        "file_size": 12878,
+        "file_status": "com_prc",
+        "folder_id": "3ee062c0-817c-51b1-75ff-f63a4e82673b",
+        "create_ts": "2022-01-28T18:27:52.382Z",
+        "last_update_ts": "2022-01-28T18:29:36.438Z",
+        "active_ind": "Y",
+        "file_manager_id": "85e1df8b-c779-410e-9dab-5d46356192df",
+        "file_folder_path": "Political Files/2022/Federal/US House/Jerrod Sessler for Congress",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Jerrod Sessler for Congress/Jerrod Sessler The American Comeback radio script 010522",
+        "entity_id": "5285",
+        "source_service_code": "FM",
+        "callsign": "KKWN",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1723224021473951700,
+        "score": 0.24995688
+      },
       {
         "id": "9f28c377-33dd-d74a-aa51-d41aed1704e9",
         "file_id": "9f28c377-33dd-d74a-aa51-d41aed1704e9",
@@ -202,29 +225,6 @@
         "campaign_year": "2022",
         "_version_": 1723220572151742500,
         "score": 0.24995688
-      },
-      {
-        "id": "f83d6710-f36c-89aa-fac7-96c83ccdce9e",
-        "file_id": "f83d6710-f36c-89aa-fac7-96c83ccdce9e",
-        "file_name": "2022 0127 INQUIRY LIST",
-        "file_extension": "pdf",
-        "file_size": 17718,
-        "file_status": "com_cpy",
-        "folder_id": "a9371bc2-a8d7-1cbe-8f30-af1d51a915f8",
-        "create_ts": "2022-01-28T17:31:27.841Z",
-        "last_update_ts": "2022-01-28T17:32:53.712Z",
-        "active_ind": "Y",
-        "file_manager_id": "f81baf96-52ee-4b5e-a49e-93c69fed6af6",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Inquiry List",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Inquiry List/2022 0127 INQUIRY LIST",
-        "entity_id": "67613",
-        "source_service_code": "AM",
-        "callsign": "KKOO",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1723220453549408300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -403,14 +403,14 @@
         "2019": 14006,
         "2020": 125974,
         "2021": 22479,
-        "2022": 1588,
+        "2022": 1589,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 65734,
         "US Senate": 48949,
-        "US House": 41484,
+        "US House": 41485,
         "Presidential": 38961,
         "Local": 23846
       },
@@ -445,12 +445,12 @@
       "source_service_code": {
         "TV": 234983,
         "CABLE": 119551,
-        "FM": 111283,
+        "FM": 111284,
         "AM": 41547,
         "DBS": 5323
       },
       "political_file_type": {
-        "PA": 219962,
+        "PA": 219963,
         "NCIA": 122656
       }
     }
@@ -467,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 205,
-    "processTime": 211,
-    "responseTime": 211
+    "queryTime": 206,
+    "processTime": 213,
+    "responseTime": 213
   }
 }
