@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 512786,
+    "numFound": 512787,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "f9e32e48-9fd5-c4ff-619d-cad35ec870ce",
+        "file_id": "f9e32e48-9fd5-c4ff-619d-cad35ec870ce",
+        "file_name": "Dave McCormick for US Senate 332004 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 156716,
+        "file_status": "com_cpy",
+        "folder_id": "ad82d42a-87f9-15bb-c384-6cc32bbf2c26",
+        "create_ts": "2022-01-31T13:24:09.639Z",
+        "last_update_ts": "2022-01-31T13:24:07.589Z",
+        "active_ind": "Y",
+        "file_manager_id": "6633e00f-6c79-4a2e-a721-3a7d59c64a3f",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Dave McCormick for US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Dave McCormick for US Senate/Dave McCormick for US Senate 332004 Rev 0",
+        "entity_id": "8616",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "PHILADELPHIA",
+        "callsign": "WPVI-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1723476685786972200,
+        "score": 0.24995688
+      },
       {
         "id": "f66c0653-6116-753f-491e-b5117ecf9163",
         "file_id": "f66c0653-6116-753f-491e-b5117ecf9163",
@@ -220,31 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1723396840142930000,
         "score": 0.24995688
-      },
-      {
-        "id": "4340176b-8dea-e11a-9caf-4b4c96f6d7ed",
-        "file_id": "4340176b-8dea-e11a-9caf-4b4c96f6d7ed",
-        "file_name": "Friends of Gentner Drummond 3635019 01.29-03.29.22 7900",
-        "file_extension": "pdf",
-        "file_size": 12366,
-        "file_status": "com_cpy",
-        "folder_id": "01700a05-e60f-1dd6-853b-69d1a40d8b4b",
-        "create_ts": "2022-01-30T16:15:03.165Z",
-        "last_update_ts": "2022-01-30T16:15:04.972Z",
-        "active_ind": "Y",
-        "file_manager_id": "24d5c6ae-63f1-414e-92e9-eafeda18e903",
-        "file_folder_path": "Political Files/2022/State/Drummond for AG",
-        "full_qualified_file_name": "Political Files/2022/State/Drummond for AG/Friends of Gentner Drummond 3635019 01.29-03.29.22 7900",
-        "entity_id": "001320",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS, INC.",
-        "operator_city_name": "Atlanta",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1723396840200601600,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -283,7 +283,7 @@
         "WAUSAU-RHINELANDER": 2246,
         "Greenville-Spartanburg-Asheville-Anderson": 2186,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2170,
-        "PHILADELPHIA": 2165,
+        "PHILADELPHIA": 2166,
         "TAMPA-ST. PETE (SARASOTA)": 2154,
         "LEXINGTON": 2082,
         "ROCHESTR-MASON CITY-AUSTIN": 1984,
@@ -351,7 +351,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57342,
+        "ABC": 57343,
         "NBC": 56111,
         "CBS": 38289,
         "FOX": 27618,
@@ -423,13 +423,13 @@
         "2019": 14006,
         "2020": 125974,
         "2021": 22479,
-        "2022": 1683,
+        "2022": 1684,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 65776,
-        "US Senate": 48964,
+        "US Senate": 48965,
         "US House": 41491,
         "Presidential": 38961,
         "Local": 23864
@@ -463,14 +463,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235037,
+        "TV": 235038,
         "CABLE": 119561,
         "FM": 111300,
         "AM": 41560,
         "DBS": 5328
       },
       "political_file_type": {
-        "PA": 220044,
+        "PA": 220045,
         "NCIA": 122669
       }
     }
@@ -487,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 215,
-    "responseTime": 215
+    "queryTime": 1765,
+    "processTime": 772,
+    "responseTime": 1772
   }
 }
