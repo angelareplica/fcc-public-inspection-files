@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 512822,
+    "numFound": 512823,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "215ec8de-bfc3-7f85-1494-a4903cd687dc",
+        "file_id": "215ec8de-bfc3-7f85-1494-a4903cd687dc",
+        "file_name": "John-Raney-01-31-2022",
+        "file_extension": "pdf",
+        "file_size": 61811,
+        "file_status": "com_cpy",
+        "folder_id": "eb4acd8b-e551-1a77-a887-ae7bc9d42498",
+        "create_ts": "2022-01-31T15:58:19.155Z",
+        "last_update_ts": "2022-01-31T15:58:20.987Z",
+        "active_ind": "Y",
+        "file_manager_id": "6e7373f6-71aa-4bb3-bfcc-4812fce2000c",
+        "file_folder_path": "Political Files/2022/State/State Representative/Texas HD-14/Raney",
+        "full_qualified_file_name": "Political Files/2022/State/State Representative/Texas HD-14/Raney/John-Raney-01-31-2022",
+        "entity_id": "68538",
+        "source_service_code": "TV",
+        "callsign": "KRHD-CD",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1723486384382017500,
+        "score": 0.24995688
+      },
       {
         "id": "4f168ba1-21d6-31b8-b5f6-167ca2d3adc1",
         "file_id": "4f168ba1-21d6-31b8-b5f6-167ca2d3adc1",
@@ -213,29 +236,6 @@
         "campaign_year": "2022",
         "_version_": 1723483163097825300,
         "score": 0.24995688
-      },
-      {
-        "id": "83cf518e-991f-6637-9587-1c8b23f438e8",
-        "file_id": "83cf518e-991f-6637-9587-1c8b23f438e8",
-        "file_name": "WNYA FCC EEO Combined Public File Report 02-01-21 through 1-31-21",
-        "file_extension": "pdf",
-        "file_size": 201849,
-        "file_status": "com_cpy",
-        "folder_id": "0d447da7-a265-6006-7c2d-21d284308f19",
-        "create_ts": "2022-01-31T15:08:04.782Z",
-        "last_update_ts": "2022-01-31T15:08:06.725Z",
-        "active_ind": "Y",
-        "file_manager_id": "a9df5777-532a-4b94-88ef-6bccc494f6e4",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/WNYA FCC EEO Combined Public File Report 02-01-21 through 1-31-21",
-        "entity_id": "136751",
-        "source_service_code": "TV",
-        "network_affiliation": "MY NETWORK TV",
-        "nielsen_dma_rank": "ALBANY-SCHENECTADY-TROY",
-        "callsign": "WNYA",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1723483223701323800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -414,12 +414,12 @@
         "2019": 14006,
         "2020": 125974,
         "2021": 22479,
-        "2022": 1707,
+        "2022": 1708,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65777,
+        "State": 65778,
         "US Senate": 48977,
         "US House": 41491,
         "Presidential": 38961,
@@ -454,14 +454,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235065,
+        "TV": 235066,
         "CABLE": 119561,
         "FM": 111307,
         "AM": 41561,
         "DBS": 5328
       },
       "political_file_type": {
-        "PA": 220058,
+        "PA": 220059,
         "NCIA": 122679
       }
     }
@@ -478,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1772,
-    "processTime": 780,
-    "responseTime": 1781
+    "queryTime": 1768,
+    "processTime": 778,
+    "responseTime": 1778
   }
 }
