@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 512787,
+    "numFound": 512788,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "30d28a26-e378-1d7b-1f75-32471913c925",
+        "file_id": "30d28a26-e378-1d7b-1f75-32471913c925",
+        "file_name": "TIM JAMES FOR GOVERNOR WACV 01312022",
+        "file_extension": "pdf",
+        "file_size": 334704,
+        "file_status": "com_cpy",
+        "folder_id": "53bcde95-f743-498f-81d5-2841513f943b",
+        "create_ts": "2022-01-31T13:37:04.183Z",
+        "last_update_ts": "2022-01-31T13:38:38.5Z",
+        "active_ind": "Y",
+        "file_manager_id": "915fb731-25e5-4c0a-82fc-0cd33a766e23",
+        "file_folder_path": "Political Files/2022/State/TIM JAMES FOR GOVERNOR",
+        "full_qualified_file_name": "Political Files/2022/State/TIM JAMES FOR GOVERNOR/TIM JAMES FOR GOVERNOR WACV 01312022",
+        "entity_id": "189524",
+        "source_service_code": "FM",
+        "callsign": "WACV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1723477497944735700,
+        "score": 0.24995688
+      },
       {
         "id": "f9e32e48-9fd5-c4ff-619d-cad35ec870ce",
         "file_id": "f9e32e48-9fd5-c4ff-619d-cad35ec870ce",
@@ -220,31 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1723396946441273300,
         "score": 0.24995688
-      },
-      {
-        "id": "33b28e10-f83b-352c-b698-06a5d2b4fa7d",
-        "file_id": "33b28e10-f83b-352c-b698-06a5d2b4fa7d",
-        "file_name": "Friends of Gentner Drummond 62958413 01.29-03.29.22 7900",
-        "file_extension": "pdf",
-        "file_size": 42985,
-        "file_status": "com_cpy",
-        "folder_id": "01700a05-e60f-1dd6-853b-69d1a40d8b4b",
-        "create_ts": "2022-01-30T16:15:03.236Z",
-        "last_update_ts": "2022-01-30T16:16:34.663Z",
-        "active_ind": "Y",
-        "file_manager_id": "d9e63517-9b56-4ced-b1bc-fa8c4ba618ba",
-        "file_folder_path": "Political Files/2022/State/Drummond for AG",
-        "full_qualified_file_name": "Political Files/2022/State/Drummond for AG/Friends of Gentner Drummond 62958413 01.29-03.29.22 7900",
-        "entity_id": "001320",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS, INC.",
-        "operator_city_name": "Atlanta",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1723396840142930000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -423,12 +421,12 @@
         "2019": 14006,
         "2020": 125974,
         "2021": 22479,
-        "2022": 1684,
+        "2022": 1685,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65776,
+        "State": 65777,
         "US Senate": 48965,
         "US House": 41491,
         "Presidential": 38961,
@@ -465,12 +463,12 @@
       "source_service_code": {
         "TV": 235038,
         "CABLE": 119561,
-        "FM": 111300,
+        "FM": 111301,
         "AM": 41560,
         "DBS": 5328
       },
       "political_file_type": {
-        "PA": 220045,
+        "PA": 220046,
         "NCIA": 122669
       }
     }
@@ -487,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1765,
-    "processTime": 772,
-    "responseTime": 1772
+    "queryTime": 213,
+    "processTime": 222,
+    "responseTime": 222
   }
 }
