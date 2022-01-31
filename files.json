@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 512828,
+    "numFound": 512829,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "4bfb56dc-a288-ef7f-aa61-4ad802ffb64c",
+        "file_id": "4bfb56dc-a288-ef7f-aa61-4ad802ffb64c",
+        "file_name": "White_NAB - Candidate Advertisement Agreement Form _2022 01 31",
+        "file_extension": "pdf",
+        "file_size": 1078619,
+        "file_status": "com_cpy",
+        "folder_id": "7e4d1a61-ec60-68b2-8636-6bad0184041f",
+        "create_ts": "2022-01-31T17:39:26.12Z",
+        "last_update_ts": "2022-01-31T17:39:28.404Z",
+        "active_ind": "Y",
+        "file_manager_id": "f89a8e19-af86-494c-88c3-a9ee4f6bd658",
+        "file_folder_path": "Political Files/2022/State/GOVERNOR/FRIENDS OF DAVE WHITE",
+        "full_qualified_file_name": "Political Files/2022/State/GOVERNOR/FRIENDS OF DAVE WHITE/White_NAB - Candidate Advertisement Agreement Form _2022 01 31",
+        "entity_id": "25454",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "KDKA-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1723492746531963000,
+        "score": 0.24995688
+      },
       {
         "id": "6c2db9b3-94df-9de0-9603-d349b1005ad9",
         "file_id": "6c2db9b3-94df-9de0-9603-d349b1005ad9",
@@ -211,28 +236,6 @@
         "campaign_year": "2022",
         "_version_": 1723484310042837000,
         "score": 0.24995688
-      },
-      {
-        "id": "93a1b3e6-b534-8220-dc3a-da5a0b282f71",
-        "file_id": "93a1b3e6-b534-8220-dc3a-da5a0b282f71",
-        "file_name": "Hagedorn 101882-002 KUXX Schedule",
-        "file_extension": "pdf",
-        "file_size": 19170,
-        "file_status": "com_cpy",
-        "folder_id": "1b5618d5-aef5-4c89-0d3d-3ce39541aea6",
-        "create_ts": "2022-01-31T15:25:18.471Z",
-        "last_update_ts": "2022-01-31T15:25:20.176Z",
-        "active_ind": "Y",
-        "file_manager_id": "dbde6924-c8df-4cfa-b23f-26cd0d0fcd68",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Hagedorn 101882-002 KUXX Schedule",
-        "entity_id": "35057",
-        "source_service_code": "FM",
-        "callsign": "KUXX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1723484307355336700,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -242,7 +245,7 @@
         "WILKES BARRE-SCRANTON": 6880,
         "LAS VEGAS": 6024,
         "WEST PALM BEACH-FT. PIERCE": 5810,
-        "PITTSBURGH": 5371,
+        "PITTSBURGH": 5372,
         "HONOLULU": 5207,
         "DULUTH-SUPERIOR": 4653,
         "CHARLESTON-HUNTINGTON": 4323,
@@ -341,7 +344,7 @@
       "network_affiliation": {
         "ABC": 57343,
         "NBC": 56115,
-        "CBS": 38289,
+        "CBS": 38290,
         "FOX": 27633,
         "PBS": 14358,
         "CW": 12031,
@@ -411,12 +414,12 @@
         "2019": 14006,
         "2020": 125974,
         "2021": 22479,
-        "2022": 1712,
+        "2022": 1713,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65782,
+        "State": 65783,
         "US Senate": 48977,
         "US House": 41491,
         "Presidential": 38961,
@@ -451,14 +454,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235070,
+        "TV": 235071,
         "CABLE": 119561,
         "FM": 111308,
         "AM": 41561,
         "DBS": 5328
       },
       "political_file_type": {
-        "PA": 220063,
+        "PA": 220064,
         "NCIA": 122679
       }
     }
@@ -475,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1764,
-    "processTime": 772,
-    "responseTime": 1772
+    "queryTime": 209,
+    "processTime": 218,
+    "responseTime": 219
   }
 }
