@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 513363,
+    "numFound": 513362,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
@@ -339,7 +339,7 @@
         "ROANOKE-LYNCHBURG": 517
       },
       "network_affiliation": {
-        "ABC": 57359,
+        "ABC": 57358,
         "NBC": 56134,
         "CBS": 38301,
         "FOX": 27644,
@@ -409,7 +409,7 @@
         "2017": 10358,
         "2018": 67744,
         "2019": 14006,
-        "2020": 125974,
+        "2020": 125973,
         "2021": 22488,
         "2022": 1802,
         "KYAZ": 5,
@@ -420,7 +420,7 @@
         "US Senate": 48993,
         "US House": 41478,
         "Presidential": 38961,
-        "Local": 23879
+        "Local": 23878
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 56469,
@@ -451,14 +451,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235128,
+        "TV": 235127,
         "CABLE": 120017,
         "FM": 111319,
         "AM": 41568,
         "DBS": 5331
       },
       "political_file_type": {
-        "PA": 220127,
+        "PA": 220126,
         "NCIA": 122700
       }
     }
@@ -475,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1765,
-    "processTime": 774,
-    "responseTime": 1775
+    "queryTime": 209,
+    "processTime": 217,
+    "responseTime": 218
   }
 }
