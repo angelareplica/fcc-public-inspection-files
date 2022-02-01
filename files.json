@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 513364,
+    "numFound": 513363,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
@@ -340,7 +340,7 @@
       },
       "network_affiliation": {
         "ABC": 57359,
-        "NBC": 56135,
+        "NBC": 56134,
         "CBS": 38301,
         "FOX": 27644,
         "PBS": 14358,
@@ -411,7 +411,7 @@
         "2019": 14006,
         "2020": 125974,
         "2021": 22488,
-        "2022": 1803,
+        "2022": 1802,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -451,7 +451,7 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235129,
+        "TV": 235128,
         "CABLE": 120017,
         "FM": 111319,
         "AM": 41568,
@@ -459,7 +459,7 @@
       },
       "political_file_type": {
         "PA": 220127,
-        "NCIA": 122701
+        "NCIA": 122700
       }
     }
   },
@@ -475,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1769,
-    "processTime": 795,
-    "responseTime": 1796
+    "queryTime": 1765,
+    "processTime": 774,
+    "responseTime": 1775
   }
 }
