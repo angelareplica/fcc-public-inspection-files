@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 513358,
+    "numFound": 513359,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "1eff0959-bbc8-1b51-9e0d-fb52d1bc857d",
+        "file_id": "1eff0959-bbc8-1b51-9e0d-fb52d1bc857d",
+        "file_name": "2022-01-28 - Comunicado Prensa Med Centro - Entrega kits pruebas COVID-19 a la población version final",
+        "file_extension": "pdf",
+        "file_size": 113005,
+        "file_status": "com_cpy",
+        "folder_id": "9837c7d5-bf43-038b-430c-20067ff7142d",
+        "create_ts": "2022-02-01T10:14:54.9Z",
+        "last_update_ts": "2022-02-01T10:14:56.96Z",
+        "active_ind": "Y",
+        "file_manager_id": "a3a9b79e-2261-480e-9fd3-61f0d5e015dc",
+        "file_folder_path": "FCC Authorizations/Additional Documents/PSA 2022",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/PSA 2022/2022-01-28 - Comunicado Prensa Med Centro - Entrega kits pruebas COVID-19 a la población version final",
+        "entity_id": "54483",
+        "source_service_code": "AM",
+        "callsign": "WOIZ",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1723555376456007700,
+        "score": 0.24995685
+      },
       {
         "id": "f1f9b129-ac0b-3030-3fa3-1b00b0e7bc00",
         "file_id": "f1f9b129-ac0b-3030-3fa3-1b00b0e7bc00",
@@ -218,31 +239,6 @@
         "campaign_year": "2022",
         "_version_": 1723519244910461000,
         "score": 0.24995685
-      },
-      {
-        "id": "3150b3b5-8f1c-75d2-d222-e27627236ab8",
-        "file_id": "3150b3b5-8f1c-75d2-d222-e27627236ab8",
-        "file_name": "Pol M Oz R SSN PA_907946",
-        "file_extension": "pdf",
-        "file_size": 237656,
-        "file_status": "com_cpy",
-        "folder_id": "d3766414-959d-9615-f94f-ee4bbda857a7",
-        "create_ts": "2022-02-01T00:12:00.143Z",
-        "last_update_ts": "2022-02-01T00:12:02.034Z",
-        "active_ind": "Y",
-        "file_manager_id": "3033ccb7-b4e8-43fe-a507-3bcff3475b30",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/907946-0406-0412",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/907946-0406-0412/Pol M Oz R SSN PA_907946",
-        "entity_id": "73910",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PITTSBURGH",
-        "callsign": "WPXI",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1723517444475060200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -437,7 +433,7 @@
         "Issues and Programs Lists": 44894,
         "Equal Employment Opportunity Records": 37121,
         "Donor Lists - Applicable Only for NCEs": 11425,
-        "FCC Authorizations": 7264,
+        "FCC Authorizations": 7265,
         "Availability of Signals": 1844,
         "Local Public Notice Announcements": 1764,
         "Applications and Related Materials": 1661,
@@ -464,7 +460,7 @@
         "TV": 235126,
         "CABLE": 120017,
         "FM": 111317,
-        "AM": 41567,
+        "AM": 41568,
         "DBS": 5331
       },
       "political_file_type": {
@@ -485,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 63,
-    "processTime": 73,
-    "responseTime": 73
+    "queryTime": 208,
+    "processTime": 217,
+    "responseTime": 218
   }
 }
