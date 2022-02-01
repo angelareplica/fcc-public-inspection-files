@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 513356,
+    "numFound": 513357,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "4f904dde-3308-fe20-3bf7-89cfd4fad2b4",
+        "file_id": "4f904dde-3308-fe20-3bf7-89cfd4fad2b4",
+        "file_name": "KAJE 013122 Susan Barclay",
+        "file_extension": "pdf",
+        "file_size": 994304,
+        "file_status": "com_cpy",
+        "folder_id": "407017ec-0e6b-29ee-664f-6777a17cb83d",
+        "create_ts": "2022-02-01T05:13:14.703Z",
+        "last_update_ts": "2022-02-01T05:13:17.023Z",
+        "active_ind": "Y",
+        "file_manager_id": "998b9342-3bd1-4c40-ae63-db590393f835",
+        "file_folder_path": "Political Files/2022/Local/117th District Court",
+        "full_qualified_file_name": "Political Files/2022/Local/117th District Court/KAJE 013122 Susan Barclay",
+        "entity_id": "5393",
+        "source_service_code": "FM",
+        "callsign": "KAJE",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1723536397296468000,
+        "score": 0.24995685
+      },
       {
         "id": "f00f24cd-f46e-ae37-4157-b1cacdf058e4",
         "file_id": "f00f24cd-f46e-ae37-4157-b1cacdf058e4",
@@ -220,29 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1723514885638193200,
         "score": 0.24995685
-      },
-      {
-        "id": "b26b224e-1bd8-be82-6a31-4ca6a5095139",
-        "file_id": "b26b224e-1bd8-be82-6a31-4ca6a5095139",
-        "file_name": "NAB Form Contract and Order Brett Lindstrom 03.07-05.13 KOIL",
-        "file_extension": "pdf",
-        "file_size": 1982437,
-        "file_status": "com_cpy",
-        "folder_id": "0e085cfe-7661-1583-4bb2-1984bd9ced15",
-        "create_ts": "2022-01-21T21:30:28.541Z",
-        "last_update_ts": "2022-01-31T23:30:36.552Z",
-        "active_ind": "Y",
-        "file_manager_id": "1a65c0c7-0e17-453e-94ba-6d66f28268aa",
-        "file_folder_path": "Political Files/2022/State/Brett Lindstrom",
-        "full_qualified_file_name": "Political Files/2022/State/Brett Lindstrom/NAB Form Contract and Order Brett Lindstrom 03.07-05.13 KOIL",
-        "entity_id": "542",
-        "source_service_code": "AM",
-        "callsign": "KOIL",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1723514838087368700,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -421,7 +421,7 @@
         "2019": 14006,
         "2020": 125974,
         "2021": 22488,
-        "2022": 1798,
+        "2022": 1799,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -430,7 +430,7 @@
         "US Senate": 48992,
         "US House": 41478,
         "Presidential": 38961,
-        "Local": 23877
+        "Local": 23878
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 56469,
@@ -463,12 +463,12 @@
       "source_service_code": {
         "TV": 235126,
         "CABLE": 120017,
-        "FM": 111315,
+        "FM": 111316,
         "AM": 41567,
         "DBS": 5331
       },
       "political_file_type": {
-        "PA": 220122,
+        "PA": 220123,
         "NCIA": 122701
       }
     }
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 216,
-    "responseTime": 217
+    "queryTime": 210,
+    "processTime": 220,
+    "responseTime": 220
   }
 }
