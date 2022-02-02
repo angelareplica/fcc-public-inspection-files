@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 518341,
+    "numFound": 518342,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "d53ee87e-6ac4-62ca-f025-cb35575c737e",
+        "file_id": "d53ee87e-6ac4-62ca-f025-cb35575c737e",
+        "file_name": "Chief Operator 02022022",
+        "file_extension": "docx",
+        "file_size": 12208,
+        "file_status": "com_prc",
+        "folder_id": "a980d819-042e-d612-e3c3-6cb257ca5c90",
+        "create_ts": "2022-02-02T18:43:44.511Z",
+        "last_update_ts": "2022-02-02T18:44:06.583Z",
+        "active_ind": "Y",
+        "file_manager_id": "33ecd8b4-37d9-4b8a-b14f-762d8c832468",
+        "file_folder_path": "FCC Authorizations/Additional Documents/Chief Operator",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/Chief Operator/Chief Operator 02022022",
+        "entity_id": "11264",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "LINCOLN & HASTINGS-KRNY",
+        "callsign": "KLKN",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1723678005625094100,
+        "score": 0.24995685
+      },
       {
         "id": "9b104249-72ec-4e13-a909-1a718212d1d9",
         "file_id": "9b104249-72ec-4e13-a909-1a718212d1d9",
@@ -13,7 +36,7 @@
         "file_status": "com_cpy",
         "folder_id": "c12af762-cfb3-71d9-53fc-895cdad1cab4",
         "create_ts": "2022-02-02T18:21:42.893Z",
-        "last_update_ts": "2022-02-02T18:21:44.654Z",
+        "last_update_ts": "2022-02-02T18:40:05.171Z",
         "active_ind": "Y",
         "file_manager_id": "0a0baca7-0ec8-48f8-a84c-bf0265e457b1",
         "file_folder_path": "Political Files/2022/State/Tepper",
@@ -26,7 +49,7 @@
         "political_file_type": "PA",
         "office_type": "State",
         "campaign_year": "2022",
-        "_version_": 1723676599861117000,
+        "_version_": 1723677758685446100,
         "score": 0.24995685
       },
       {
@@ -217,31 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1723673367211409400,
         "score": 0.24995685
-      },
-      {
-        "id": "82617aa1-d678-a8cf-d2f8-38260879cb05",
-        "file_id": "82617aa1-d678-a8cf-d2f8-38260879cb05",
-        "file_name": "George P Bush-Atty General - Contract#3400435  020222-020822",
-        "file_extension": "pdf",
-        "file_size": 686987,
-        "file_status": "com_cpy",
-        "folder_id": "74282ca0-d7ff-0b2e-2b27-a7de8d278d0f",
-        "create_ts": "2022-02-02T17:30:19.35Z",
-        "last_update_ts": "2022-02-02T17:30:17.146Z",
-        "active_ind": "Y",
-        "file_manager_id": "b5afa072-f500-4ab9-a5a6-00b98b8c9b44",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/George P Bush-Atty General - Contract#3400435  020222-020822",
-        "entity_id": "23394",
-        "source_service_code": "TV",
-        "network_affiliation": "CW",
-        "nielsen_dma_rank": "HOUSTON",
-        "callsign": "KIAH",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1723673367158980600,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -291,7 +289,7 @@
         "BLUEFIELD-BECKLEY-OAK HILL": 1757,
         "ALBUQUERQUE-SANTA FE": 1714,
         "ROCKFORD": 1657,
-        "LINCOLN & HASTINGS-KRNY": 1589,
+        "LINCOLN & HASTINGS-KRNY": 1590,
         "GREENVLL-SPART-ASHEVLL-AND": 1555,
         "MADISON": 1536,
         "PHOENIX (PRESCOTT)": 1499,
@@ -348,7 +346,7 @@
         "HOUSTON": 519
       },
       "network_affiliation": {
-        "ABC": 57391,
+        "ABC": 57392,
         "NBC": 56140,
         "CBS": 38302,
         "FOX": 27614,
@@ -436,7 +434,7 @@
         "Issues and Programs Lists": 44893,
         "Equal Employment Opportunity Records": 37131,
         "Donor Lists - Applicable Only for NCEs": 11429,
-        "FCC Authorizations": 7265,
+        "FCC Authorizations": 7266,
         "Availability of Signals": 1865,
         "Local Public Notice Announcements": 1764,
         "Applications and Related Materials": 1664,
@@ -460,7 +458,7 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235151,
+        "TV": 235152,
         "CABLE": 124896,
         "FM": 111374,
         "AM": 41587,
@@ -484,7 +482,7 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 210,
+    "queryTime": 213,
     "processTime": 220,
     "responseTime": 220
   }
