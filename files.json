@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 518379,
+    "numFound": 518380,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "c8b64a52-762d-e65d-2c6c-8b807dffb00c",
+        "file_id": "c8b64a52-762d-e65d-2c6c-8b807dffb00c",
+        "file_name": "MCCORMICK 013122 - 020622  5138446",
+        "file_extension": "pdf",
+        "file_size": 182086,
+        "file_status": "com_cpy",
+        "folder_id": "51d95b27-42dc-48e8-dca6-6fa953f3b211",
+        "create_ts": "2022-02-03T19:14:56.063Z",
+        "last_update_ts": "2022-02-03T19:14:58.043Z",
+        "active_ind": "Y",
+        "file_manager_id": "9c7d515a-b235-4a08-b6af-42ec0aa79af5",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Friends of David McCormick",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Friends of David McCormick/MCCORMICK 013122 - 020622  5138446",
+        "entity_id": "73120",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "JOHNSTOWN-ALTOONA-ST COLGE",
+        "callsign": "WJAC-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1723770545322852400,
+        "score": 0.24995685
+      },
       {
         "id": "79f1cda6-2eda-8a3a-51c8-3c6426c8a29e",
         "file_id": "79f1cda6-2eda-8a3a-51c8-3c6426c8a29e",
@@ -225,27 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1723763845631049700,
         "score": 0.24995685
-      },
-      {
-        "id": "95b31d50-6417-15d3-9bc9-e3a9cbb7000d",
-        "file_id": "95b31d50-6417-15d3-9bc9-e3a9cbb7000d",
-        "file_name": "Seal PAC 2022-02-02_121854",
-        "file_extension": "pdf",
-        "file_size": 12738269,
-        "file_status": "com_cpy",
-        "folder_id": "04277cc3-c235-52f1-08c4-08ba43bd354a",
-        "create_ts": "2022-02-03T17:17:42.603Z",
-        "last_update_ts": "2022-02-03T17:17:47.185Z",
-        "active_ind": "Y",
-        "file_manager_id": "bbd0fad2-51d9-44b1-a8cb-1200d2c6e35d",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/California/SEAL PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/California/SEAL PAC/Seal PAC 2022-02-02_121854",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1723763172932845600,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -310,7 +314,7 @@
         "PROVIDENCE-NEW BEDFORD": 1200,
         "ANCHORAGE": 1194,
         "LOS ANGELES": 1137,
-        "JOHNSTOWN-ALTOONA-ST COLGE": 1133,
+        "JOHNSTOWN-ALTOONA-ST COLGE": 1134,
         "CHARLOTTE": 1115,
         "SALT LAKE CITY": 1104,
         "GLENDIVE": 1081,
@@ -353,7 +357,7 @@
       },
       "network_affiliation": {
         "ABC": 57396,
-        "NBC": 56154,
+        "NBC": 56155,
         "CBS": 38305,
         "FOX": 27617,
         "PBS": 14359,
@@ -424,13 +428,13 @@
         "2019": 14006,
         "2020": 125920,
         "2021": 22496,
-        "2022": 2009,
+        "2022": 2010,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 65893,
-        "US Senate": 49032,
+        "US Senate": 49033,
         "US House": 41473,
         "Presidential": 38955,
         "Local": 23910
@@ -464,14 +468,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235184,
+        "TV": 235185,
         "CABLE": 124903,
         "FM": 111368,
         "AM": 41589,
         "DBS": 5335
       },
       "political_file_type": {
-        "PA": 220251,
+        "PA": 220252,
         "NCIA": 122712
       }
     }
@@ -488,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1781,
-    "processTime": 788,
-    "responseTime": 1788
+    "queryTime": 213,
+    "processTime": 222,
+    "responseTime": 223
   }
 }
