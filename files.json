@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 518465,
+    "numFound": 518467,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "899cce46-c581-544c-a1d0-7251b808e2ad",
+        "file_id": "899cce46-c581-544c-a1d0-7251b808e2ad",
+        "file_name": "POL McSwain Commonwealth Leader Fund Gov PA_909375",
+        "file_extension": "pdf",
+        "file_size": 233826,
+        "file_status": "com_cpy",
+        "folder_id": "cf04bc54-10b4-279a-c051-cb55dd76fc97",
+        "create_ts": "2022-02-04T17:18:19.513Z",
+        "last_update_ts": "2022-02-04T17:18:28.274Z",
+        "active_ind": "Y",
+        "file_manager_id": "b6ad074a-b0a3-40e5-87fc-2ab50799d59a",
+        "file_folder_path": "Political Files/2022/State/Governor/POL McSwain Commonwealth Leader Fund Gov PA/909375-0207-0213",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/POL McSwain Commonwealth Leader Fund Gov PA/909375-0207-0213/POL McSwain Commonwealth Leader Fund Gov PA_909375",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1723853805958725600,
+        "score": 0.24995685
+      },
+      {
+        "id": "0162435c-da49-2ab0-550a-0db33bd9a1a3",
+        "file_id": "0162435c-da49-2ab0-550a-0db33bd9a1a3",
+        "file_name": "Lasry for Wisconsin (Primary) Updated NAB 01-31-2022",
+        "file_extension": "pdf",
+        "file_size": 1132087,
+        "file_status": "com_cpy",
+        "folder_id": "09755ab7-53c9-7c43-adfe-c5bc2f969ce9",
+        "create_ts": "2022-02-04T17:07:22.411Z",
+        "last_update_ts": "2022-02-04T17:07:19.865Z",
+        "active_ind": "Y",
+        "file_manager_id": "b97b9128-e4f4-4bb1-9aed-03677ee142be",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Lasry for Wisconsin",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Lasry for Wisconsin/Lasry for Wisconsin (Primary) Updated NAB 01-31-2022",
+        "entity_id": "65143",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "MADISON",
+        "callsign": "WISC-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1723853117343137800,
+        "score": 0.24995685
+      },
       {
         "id": "36c035cf-3045-4e30-670c-e3083c82a0c6",
         "file_id": "36c035cf-3045-4e30-670c-e3083c82a0c6",
@@ -190,54 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1723849790981144600,
         "score": 0.24995685
-      },
-      {
-        "id": "5dfa9eea-d247-a6a3-ff72-0228b721d0c0",
-        "file_id": "5dfa9eea-d247-a6a3-ff72-0228b721d0c0",
-        "file_name": "Tim Jennings - Mayor - Invoice 3053-00004-0001 - KZDB",
-        "file_extension": "pdf",
-        "file_size": 1986172,
-        "file_status": "com_cpy",
-        "folder_id": "7b6299b1-a50a-91e5-0ed5-069d584a2392",
-        "create_ts": "2022-02-04T16:14:28.82Z",
-        "last_update_ts": "2022-02-04T16:14:31.318Z",
-        "active_ind": "Y",
-        "file_manager_id": "57fc5251-4e24-4fda-b05b-84ba39dec152",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Tim Jennings - Mayor - Invoice 3053-00004-0001 - KZDB",
-        "entity_id": "57720",
-        "source_service_code": "FM",
-        "callsign": "KZDB",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1723849789624287200,
-        "score": 0.24995685
-      },
-      {
-        "id": "b1aba6d8-f664-24b1-fc63-e0d549ec5623",
-        "file_id": "b1aba6d8-f664-24b1-fc63-e0d549ec5623",
-        "file_name": "Texans for Greg Abbott 1730155-0122-INV-3",
-        "file_extension": "pdf",
-        "file_size": 26189,
-        "file_status": "com_cpy",
-        "folder_id": "7d334767-8595-6387-78d2-af030f5500f7",
-        "create_ts": "2022-02-04T15:41:56.72Z",
-        "last_update_ts": "2022-02-04T15:41:58.551Z",
-        "active_ind": "Y",
-        "file_manager_id": "36c5d08e-c5f0-442a-a902-f616b0e4fdf9",
-        "file_folder_path": "Political Files/2022/State/Governor/Greg Abbott",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Greg Abbott/Texans for Greg Abbott 1730155-0122-INV-3",
-        "entity_id": "82910",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "CORPUS CHRISTI",
-        "callsign": "KSCC",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1723847742005969000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -247,7 +249,7 @@
         "WILKES BARRE-SCRANTON": 6903,
         "LAS VEGAS": 6031,
         "WEST PALM BEACH-FT. PIERCE": 5809,
-        "PITTSBURGH": 5406,
+        "PITTSBURGH": 5407,
         "HONOLULU": 5207,
         "DULUTH-SUPERIOR": 4653,
         "CHARLESTON-HUNTINGTON": 4326,
@@ -289,7 +291,7 @@
         "ROCKFORD": 1657,
         "LINCOLN & HASTINGS-KRNY": 1600,
         "GREENVLL-SPART-ASHEVLL-AND": 1555,
-        "MADISON": 1536,
+        "MADISON": 1537,
         "PHOENIX (PRESCOTT)": 1501,
         "MINOT-BISMARCK-DICKINSON": 1459,
         "BINGHAMTON": 1457,
@@ -345,8 +347,8 @@
       },
       "network_affiliation": {
         "ABC": 57405,
-        "NBC": 56170,
-        "CBS": 38314,
+        "NBC": 56171,
+        "CBS": 38315,
         "FOX": 27621,
         "PBS": 14361,
         "CW": 12048,
@@ -416,13 +418,13 @@
         "2019": 14006,
         "2020": 125919,
         "2021": 22498,
-        "2022": 2092,
+        "2022": 2094,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65928,
-        "US Senate": 49043,
+        "State": 65929,
+        "US Senate": 49044,
         "US House": 41474,
         "Presidential": 38955,
         "Local": 23921
@@ -456,14 +458,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235231,
+        "TV": 235233,
         "CABLE": 124904,
         "FM": 111392,
         "AM": 41603,
         "DBS": 5335
       },
       "political_file_type": {
-        "PA": 220316,
+        "PA": 220318,
         "NCIA": 122731
       }
     }
@@ -480,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1768,
-    "processTime": 776,
-    "responseTime": 1777
+    "queryTime": 1771,
+    "processTime": 779,
+    "responseTime": 1780
   }
 }
