@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 518447,
+    "numFound": 518448,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "7b89b5f6-e188-f2b3-dfc7-784f69c3cf4e",
+        "file_id": "7b89b5f6-e188-f2b3-dfc7-784f69c3cf4e",
+        "file_name": "Freedom's Future PFD 02-02-2022-Accepted",
+        "file_extension": "pdf",
+        "file_size": 64645,
+        "file_status": "com_cpy",
+        "folder_id": "89084fd3-9118-9cd0-5243-271bec27704a",
+        "create_ts": "2022-02-04T14:20:24.877Z",
+        "last_update_ts": "2022-02-04T14:20:33.096Z",
+        "active_ind": "Y",
+        "file_manager_id": "e8704172-7deb-472c-818d-afef25a4c4e5",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Freedoms Future Fund",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Freedoms Future Fund/Freedom's Future PFD 02-02-2022-Accepted",
+        "entity_id": "59440",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
+        "callsign": "KNXV-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1723842612579795000,
+        "score": 0.24995685
+      },
       {
         "id": "93b2d575-6a2b-39c2-c4ba-1b0ee5634f8d",
         "file_id": "93b2d575-6a2b-39c2-c4ba-1b0ee5634f8d",
@@ -201,28 +225,6 @@
         "campaign_year": "2022",
         "_version_": 1723792920270602200,
         "score": 0.24995685
-      },
-      {
-        "id": "b8001eb8-9c39-381f-230f-a8f05c7e20a6",
-        "file_id": "b8001eb8-9c39-381f-230f-a8f05c7e20a6",
-        "file_name": "2022 POLITICAL INQUIRIES through 02 03 2022 File B",
-        "file_extension": "docx",
-        "file_size": 10789,
-        "file_status": "com_prc",
-        "folder_id": "733bdd71-11cb-0b0d-8b34-48a659b40e0c",
-        "create_ts": "2022-02-04T01:10:11.027Z",
-        "last_update_ts": "2022-02-04T01:10:23.159Z",
-        "active_ind": "Y",
-        "file_manager_id": "d3fd91de-8294-4f68-948b-7019329e5388",
-        "file_folder_path": "Political Files/2022/Terms and Disclosures",
-        "full_qualified_file_name": "Political Files/2022/Terms and Disclosures/2022 POLITICAL INQUIRIES through 02 03 2022 File B",
-        "entity_id": "35026",
-        "source_service_code": "AM",
-        "callsign": "KYVA",
-        "political_file_type": "PA",
-        "campaign_year": "2022",
-        "_version_": 1723792911415378000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -275,7 +277,7 @@
         "LINCOLN & HASTINGS-KRNY": 1600,
         "GREENVLL-SPART-ASHEVLL-AND": 1555,
         "MADISON": 1536,
-        "PHOENIX (PRESCOTT)": 1500,
+        "PHOENIX (PRESCOTT)": 1501,
         "MINOT-BISMARCK-DICKINSON": 1459,
         "BINGHAMTON": 1457,
         "FARGO-VALLEY CITY": 1422,
@@ -329,7 +331,7 @@
         "HOUSTON": 519
       },
       "network_affiliation": {
-        "ABC": 57404,
+        "ABC": 57405,
         "NBC": 56163,
         "CBS": 38314,
         "FOX": 27620,
@@ -401,7 +403,7 @@
         "2019": 14006,
         "2020": 125920,
         "2021": 22498,
-        "2022": 2074,
+        "2022": 2075,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -441,7 +443,7 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235219,
+        "TV": 235220,
         "CABLE": 124904,
         "FM": 111388,
         "AM": 41601,
@@ -449,7 +451,7 @@
       },
       "political_file_type": {
         "PA": 220303,
-        "NCIA": 122727
+        "NCIA": 122728
       }
     }
   },
@@ -465,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1766,
-    "processTime": 774,
-    "responseTime": 1775
+    "queryTime": 1770,
+    "processTime": 778,
+    "responseTime": 1778
   }
 }
