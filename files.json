@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 518455,
+    "numFound": 518456,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "b1aba6d8-f664-24b1-fc63-e0d549ec5623",
+        "file_id": "b1aba6d8-f664-24b1-fc63-e0d549ec5623",
+        "file_name": "Texans for Greg Abbott 1730155-0122-INV-3",
+        "file_extension": "pdf",
+        "file_size": 26189,
+        "file_status": "com_cpy",
+        "folder_id": "7d334767-8595-6387-78d2-af030f5500f7",
+        "create_ts": "2022-02-04T15:41:56.72Z",
+        "last_update_ts": "2022-02-04T15:41:58.551Z",
+        "active_ind": "Y",
+        "file_manager_id": "36c5d08e-c5f0-442a-a902-f616b0e4fdf9",
+        "file_folder_path": "Political Files/2022/State/Governor/Greg Abbott",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Greg Abbott/Texans for Greg Abbott 1730155-0122-INV-3",
+        "entity_id": "82910",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "CORPUS CHRISTI",
+        "callsign": "KSCC",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1723847742005969000,
+        "score": 0.24995685
+      },
+      {
+        "id": "e5efdd0b-93ee-3228-ed13-c821d7f94ec3",
+        "file_id": "e5efdd0b-93ee-3228-ed13-c821d7f94ec3",
+        "file_name": "Texans for Greg Abbott 1740871-0122-INV",
+        "file_extension": "pdf",
+        "file_size": 24112,
+        "file_status": "com_cpy",
+        "folder_id": "7d334767-8595-6387-78d2-af030f5500f7",
+        "create_ts": "2022-02-04T15:41:56.643Z",
+        "last_update_ts": "2022-02-04T15:41:53.531Z",
+        "active_ind": "Y",
+        "file_manager_id": "c959c4c2-937c-4b2b-a3e1-62e59a64a3d5",
+        "file_folder_path": "Political Files/2022/State/Governor/Greg Abbott",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Greg Abbott/Texans for Greg Abbott 1740871-0122-INV",
+        "entity_id": "82910",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "CORPUS CHRISTI",
+        "callsign": "KSCC",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1723847741981851600,
+        "score": 0.24995685
+      },
       {
         "id": "8f73f5c0-ee8d-42d4-6a93-5bd293d194e9",
         "file_id": "8f73f5c0-ee8d-42d4-6a93-5bd293d194e9",
@@ -196,50 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1723842612579795000,
         "score": 0.24995685
-      },
-      {
-        "id": "93b2d575-6a2b-39c2-c4ba-1b0ee5634f8d",
-        "file_id": "93b2d575-6a2b-39c2-c4ba-1b0ee5634f8d",
-        "file_name": "Munoz for New Mexico  Issues Buy English  KYVA FM  02 03 2022",
-        "file_extension": "pdf",
-        "file_size": 931213,
-        "file_status": "com_cpy",
-        "folder_id": "a047c336-b2ef-7c22-0399-5f7ec67ac500",
-        "create_ts": "2022-02-04T01:32:39.312Z",
-        "last_update_ts": "2022-02-04T01:50:05.338Z",
-        "active_ind": "N",
-        "file_manager_id": "d7dd76b5-bce2-44a4-a944-7a83f8e7d4d4",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Munoz for New Mexico  Issues Buy English  KYVA FM  02 03 2022",
-        "entity_id": "61902",
-        "source_service_code": "FM",
-        "callsign": "KYVA-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1723795404211880000,
-        "score": 0.24995685
-      },
-      {
-        "id": "87d22149-05ed-1a08-3493-6834ea71e30b",
-        "file_id": "87d22149-05ed-1a08-3493-6834ea71e30b",
-        "file_name": "Munoz for New Mexico  Issues Buy English  KYVA FM  02 03 2022",
-        "file_extension": "pdf",
-        "file_size": 931213,
-        "file_status": "com_cpy",
-        "folder_id": "a047c336-b2ef-7c22-0399-5f7ec67ac500",
-        "create_ts": "2022-02-04T01:34:32.308Z",
-        "last_update_ts": "2022-02-04T01:34:39.447Z",
-        "active_ind": "Y",
-        "file_manager_id": "2aec18be-eaef-49d4-8bf6-3302c20ba60e",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Munoz for New Mexico  Issues Buy English  KYVA FM  02 03 2022",
-        "entity_id": "61902",
-        "source_service_code": "FM",
-        "callsign": "KYVA-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1723794428221456400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -327,8 +333,8 @@
         "HELENA": 780,
         "TWIN FALLS": 749,
         "AUSTIN": 743,
-        "FLINT-SAGINAW-BAY CITY": 732,
         "DAYTON": 731,
+        "FLINT-SAGINAW-BAY CITY": 731,
         "DALLAS-FT. WORTH": 725,
         "COLORADO SPRINGS-PUEBLO": 724,
         "BUFFALO": 683,
@@ -349,7 +355,7 @@
         "ABC": 57405,
         "NBC": 56168,
         "CBS": 38314,
-        "FOX": 27620,
+        "FOX": 27621,
         "PBS": 14360,
         "CW": 12048,
         "IND": 2989,
@@ -416,14 +422,14 @@
         "2017": 10353,
         "2018": 67737,
         "2019": 14006,
-        "2020": 125920,
+        "2020": 125919,
         "2021": 22498,
-        "2022": 2082,
+        "2022": 2084,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65925,
+        "State": 65927,
         "US Senate": 49043,
         "US House": 41474,
         "Presidential": 38955,
@@ -458,14 +464,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235227,
+        "TV": 235228,
         "CABLE": 124904,
         "FM": 111388,
         "AM": 41601,
         "DBS": 5335
       },
       "political_file_type": {
-        "PA": 220308,
+        "PA": 220309,
         "NCIA": 122730
       }
     }
@@ -482,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1765,
-    "processTime": 773,
-    "responseTime": 1774
+    "queryTime": 1767,
+    "processTime": 774,
+    "responseTime": 1775
   }
 }
