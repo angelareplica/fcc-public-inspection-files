@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 518557,
+    "numFound": 518559,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "7cdc3721-cb1c-4238-6ceb-99b67e6c1e6c",
+        "file_id": "7cdc3721-cb1c-4238-6ceb-99b67e6c1e6c",
+        "file_name": "Pol J Corman R Gov PA_NAB_909660",
+        "file_extension": "pdf",
+        "file_size": 535450,
+        "file_status": "com_cpy",
+        "folder_id": "618aab39-2f4e-08d7-cf52-87e168664b5c",
+        "create_ts": "2022-02-05T22:58:47.967Z",
+        "last_update_ts": "2022-02-05T22:59:00.231Z",
+        "active_ind": "Y",
+        "file_manager_id": "9ad2d226-43a6-4f43-8867-f0d877aec610",
+        "file_folder_path": "Political Files/2022/State/Governor/Pol J Corman R GOV PA/909660-0216-0222",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Pol J Corman R GOV PA/909660-0216-0222/Pol J Corman R Gov PA_NAB_909660",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1723965823716950000,
+        "score": 0.24995685
+      },
+      {
+        "id": "7149ace1-a466-e2ca-9e0f-9a00c5fe01b4",
+        "file_id": "7149ace1-a466-e2ca-9e0f-9a00c5fe01b4",
+        "file_name": "Pol J Corman R Gov PA_909660",
+        "file_extension": "pdf",
+        "file_size": 240641,
+        "file_status": "com_cpy",
+        "folder_id": "618aab39-2f4e-08d7-cf52-87e168664b5c",
+        "create_ts": "2022-02-05T22:58:47.876Z",
+        "last_update_ts": "2022-02-05T22:58:50.064Z",
+        "active_ind": "Y",
+        "file_manager_id": "07447b44-8ad0-4c24-81ce-143e6a498294",
+        "file_folder_path": "Political Files/2022/State/Governor/Pol J Corman R GOV PA/909660-0216-0222",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Pol J Corman R GOV PA/909660-0216-0222/Pol J Corman R Gov PA_909660",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1723965823704367000,
+        "score": 0.24995685
+      },
       {
         "id": "d44ea7c4-6051-e578-9f63-a235c60f1576",
         "file_id": "d44ea7c4-6051-e578-9f63-a235c60f1576",
@@ -196,51 +246,6 @@
         "campaign_year": "2020",
         "_version_": 1723877760488702000,
         "score": 0.24995685
-      },
-      {
-        "id": "7d2cad48-b176-491b-4ec5-d8aaf89edf3c",
-        "file_id": "7d2cad48-b176-491b-4ec5-d8aaf89edf3c",
-        "file_name": "Pastors for Children 020722-022522",
-        "file_extension": "pdf",
-        "file_size": 265985,
-        "file_status": "com_cpy",
-        "folder_id": "c507e27a-8462-a169-ae2f-60dc18f31eac",
-        "create_ts": "2022-02-04T23:38:45.285Z",
-        "last_update_ts": "2022-02-04T23:38:42.203Z",
-        "active_ind": "Y",
-        "file_manager_id": "ea2f6eac-5234-410d-9d8a-75a1d5896bd4",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Pastors for Children",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Pastors for Children/Pastors for Children 020722-022522",
-        "entity_id": "24248",
-        "source_service_code": "AM",
-        "callsign": "KTBB",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1723877740433637400,
-        "score": 0.24995685
-      },
-      {
-        "id": "b31003a6-3043-7859-07df-e8b7dbf69c50",
-        "file_id": "b31003a6-3043-7859-07df-e8b7dbf69c50",
-        "file_name": "Don Huffines Campaign 020722-030122",
-        "file_extension": "pdf",
-        "file_size": 424015,
-        "file_status": "com_cpy",
-        "folder_id": "f68c03e0-e21a-b6c2-beae-c3e21d545ebf",
-        "create_ts": "2022-02-04T23:37:44.034Z",
-        "last_update_ts": "2022-02-04T23:37:46.285Z",
-        "active_ind": "Y",
-        "file_manager_id": "4ec26cec-684b-45a0-a61a-9b29ee6260eb",
-        "file_folder_path": "Political Files/2022/State/Don Huffines Campaign",
-        "full_qualified_file_name": "Political Files/2022/State/Don Huffines Campaign/Don Huffines Campaign 020722-030122",
-        "entity_id": "24248",
-        "source_service_code": "AM",
-        "callsign": "KTBB",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1723877676471550000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -250,7 +255,7 @@
         "WILKES BARRE-SCRANTON": 6914,
         "LAS VEGAS": 6031,
         "WEST PALM BEACH-FT. PIERCE": 5809,
-        "PITTSBURGH": 5413,
+        "PITTSBURGH": 5415,
         "HONOLULU": 5210,
         "DULUTH-SUPERIOR": 4653,
         "CHARLESTON-HUNTINGTON": 4326,
@@ -348,7 +353,7 @@
       },
       "network_affiliation": {
         "ABC": 57399,
-        "NBC": 56188,
+        "NBC": 56190,
         "CBS": 38323,
         "FOX": 27623,
         "PBS": 14361,
@@ -419,12 +424,12 @@
         "2019": 14006,
         "2020": 125881,
         "2021": 22501,
-        "2022": 2212,
+        "2022": 2214,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 65982,
+        "State": 65984,
         "US Senate": 49070,
         "US House": 41484,
         "Presidential": 38919,
@@ -459,14 +464,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235260,
+        "TV": 235262,
         "CABLE": 124923,
         "FM": 111407,
         "AM": 41632,
         "DBS": 5335
       },
       "political_file_type": {
-        "PA": 220377,
+        "PA": 220379,
         "NCIA": 122755
       }
     }
@@ -483,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 65,
-    "processTime": 71,
-    "responseTime": 72
+    "queryTime": 208,
+    "processTime": 218,
+    "responseTime": 218
   }
 }
