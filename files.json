@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 518585,
+    "numFound": 518586,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "8dcd0cb4-7241-30ec-c2f9-b00309460e02",
+        "file_id": "8dcd0cb4-7241-30ec-c2f9-b00309460e02",
+        "file_name": "ISS Honor Pennsylvania INC_909771",
+        "file_extension": "pdf",
+        "file_size": 291246,
+        "file_status": "com_cpy",
+        "folder_id": "c5f8973f-9dd5-97a9-3dc7-52637679b59d",
+        "create_ts": "2022-02-06T23:29:54.374Z",
+        "last_update_ts": "2022-02-06T23:30:09.621Z",
+        "active_ind": "Y",
+        "file_manager_id": "0c8db26d-b665-4465-86c5-c96345010c8f",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Iss Honor Pennsylvania INC/909771-0301-0307",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Iss Honor Pennsylvania INC/909771-0301-0307/ISS Honor Pennsylvania INC_909771",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1724058377823191000,
+        "score": 0.24995685
+      },
       {
         "id": "8e78b029-3f14-2138-1b50-60d9272f0d68",
         "file_id": "8e78b029-3f14-2138-1b50-60d9272f0d68",
@@ -201,31 +225,6 @@
         "campaign_year": "2022",
         "_version_": 1723982694410354700,
         "score": 0.24995685
-      },
-      {
-        "id": "e81a63a3-2f8f-d9f3-5cb5-7d963b670032",
-        "file_id": "e81a63a3-2f8f-d9f3-5cb5-7d963b670032",
-        "file_name": "POL McSwain Commonwealth Leader Fund Gov PA_909765",
-        "file_extension": "pdf",
-        "file_size": 232364,
-        "file_status": "com_cpy",
-        "folder_id": "d19f09aa-4b0f-0d06-2ca8-163c32b8d542",
-        "create_ts": "2022-02-06T02:02:06.863Z",
-        "last_update_ts": "2022-02-06T02:02:19.362Z",
-        "active_ind": "Y",
-        "file_manager_id": "f976971f-bb26-4b05-93b3-dad3e51bdd77",
-        "file_folder_path": "Political Files/2022/State/Governor/POL McSwain Commonwealth Leader Fund Gov PA/909765-0328-0401",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/POL McSwain Commonwealth Leader Fund Gov PA/909765-0328-0401/POL McSwain Commonwealth Leader Fund Gov PA_909765",
-        "entity_id": "73910",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PITTSBURGH",
-        "callsign": "WPXI",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1723977356764250000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -235,7 +234,7 @@
         "WILKES BARRE-SCRANTON": 6914,
         "LAS VEGAS": 6031,
         "WEST PALM BEACH-FT. PIERCE": 5809,
-        "PITTSBURGH": 5429,
+        "PITTSBURGH": 5430,
         "HONOLULU": 5210,
         "DULUTH-SUPERIOR": 4653,
         "CHARLESTON-HUNTINGTON": 4326,
@@ -333,7 +332,7 @@
       },
       "network_affiliation": {
         "ABC": 57399,
-        "NBC": 56204,
+        "NBC": 56205,
         "CBS": 38323,
         "FOX": 27623,
         "PBS": 14361,
@@ -404,7 +403,7 @@
         "2019": 14006,
         "2020": 125881,
         "2021": 22501,
-        "2022": 2231,
+        "2022": 2232,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -444,7 +443,7 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235276,
+        "TV": 235277,
         "CABLE": 124923,
         "FM": 111415,
         "AM": 41636,
@@ -452,7 +451,7 @@
       },
       "political_file_type": {
         "PA": 220394,
-        "NCIA": 122757
+        "NCIA": 122758
       }
     }
   },
@@ -468,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 65,
-    "processTime": 76,
-    "responseTime": 77
+    "queryTime": 213,
+    "processTime": 220,
+    "responseTime": 221
   }
 }
