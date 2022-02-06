@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 518578,
+    "numFound": 518579,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "d17c9f6f-2e31-9786-d34b-8d73af60e6ae",
+        "file_id": "d17c9f6f-2e31-9786-d34b-8d73af60e6ae",
+        "file_name": "Issues and Programs List 2022-01",
+        "file_extension": "pdf",
+        "file_size": 159088,
+        "file_status": "com_cpy",
+        "folder_id": "f392df6b-07d5-7b27-5794-5caa88d128be",
+        "create_ts": "2022-02-06T13:23:32.125Z",
+        "last_update_ts": "2022-02-06T13:23:46.074Z",
+        "active_ind": "Y",
+        "file_manager_id": "e5f92135-f7d5-4908-88d2-c31605f4d790",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/Issues and Programs List 2022-01",
+        "entity_id": "41820",
+        "source_service_code": "AM",
+        "callsign": "KLFD",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1724020228148428800,
+        "score": 0.24995685
+      },
       {
         "id": "db447caa-6cc8-4d4d-1b9c-57773aad03a7",
         "file_id": "db447caa-6cc8-4d4d-1b9c-57773aad03a7",
@@ -226,31 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1723974116874125300,
         "score": 0.24995685
-      },
-      {
-        "id": "b74d8a4e-2678-22f0-512d-28cad8ce91e8",
-        "file_id": "b74d8a4e-2678-22f0-512d-28cad8ce91e8",
-        "file_name": "POL McSwain Commonwealth Leader Fund Gov PA_909762",
-        "file_extension": "pdf",
-        "file_size": 236096,
-        "file_status": "com_cpy",
-        "folder_id": "d80cb9b8-f245-6508-d799-4af186cd1c4c",
-        "create_ts": "2022-02-06T01:10:34.013Z",
-        "last_update_ts": "2022-02-06T01:10:30.807Z",
-        "active_ind": "Y",
-        "file_manager_id": "93277939-6c18-4549-b4dd-726953c6809d",
-        "file_folder_path": "Political Files/2022/State/Governor/POL McSwain Commonwealth Leader Fund Gov PA/909762-0314-0320",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/POL McSwain Commonwealth Leader Fund Gov PA/909762-0314-0320/POL McSwain Commonwealth Leader Fund Gov PA_909762",
-        "entity_id": "73910",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PITTSBURGH",
-        "callsign": "WPXI",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1723974116327817200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -442,7 +438,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61312,
-        "Issues and Programs Lists": 44895,
+        "Issues and Programs Lists": 44896,
         "Equal Employment Opportunity Records": 37130,
         "Donor Lists - Applicable Only for NCEs": 11432,
         "FCC Authorizations": 7268,
@@ -472,7 +468,7 @@
         "TV": 235276,
         "CABLE": 124923,
         "FM": 111410,
-        "AM": 41634,
+        "AM": 41635,
         "DBS": 5335
       },
       "political_file_type": {
@@ -493,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 64,
-    "processTime": 71,
-    "responseTime": 72
+    "queryTime": 1764,
+    "processTime": 772,
+    "responseTime": 1772
   }
 }
