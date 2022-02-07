@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 518650,
+    "numFound": 518651,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "88aa8c23-b620-4ec6-6eb2-ed42377737c2",
+        "file_id": "88aa8c23-b620-4ec6-6eb2-ed42377737c2",
+        "file_name": "Dennis Kintigh - Mayor - KBCQ - Order 3061-00002 - Jan 18 2022 - 1",
+        "file_extension": "pdf",
+        "file_size": 704864,
+        "file_status": "com_cpy",
+        "folder_id": "1dd3df98-31ee-f5cf-b5eb-2b6d3ea8faf6",
+        "create_ts": "2022-01-18T17:50:21.113Z",
+        "last_update_ts": "2022-02-07T17:26:54.463Z",
+        "active_ind": "Y",
+        "file_manager_id": "33dd9c23-7192-49e2-b195-6ce93b44df7b",
+        "file_folder_path": "Political Files/2022/Local/Dennis Kintigh for Mayor",
+        "full_qualified_file_name": "Political Files/2022/Local/Dennis Kintigh for Mayor/Dennis Kintigh - Mayor - KBCQ - Order 3061-00002 - Jan 18 2022 - 1",
+        "entity_id": "57722",
+        "source_service_code": "FM",
+        "callsign": "KBCQ-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1724126118655557600,
+        "score": 0.24995685
+      },
+      {
+        "id": "0b0655f8-1744-6e4d-9ba5-9b183a4ca5c8",
+        "file_id": "0b0655f8-1744-6e4d-9ba5-9b183a4ca5c8",
+        "file_name": "Dennis Kintigh - Mayor - KBCQ - Order 3061-00002 - payment - Jan 19 2022 - 2",
+        "file_extension": "pdf",
+        "file_size": 841288,
+        "file_status": "com_cpy",
+        "folder_id": "1dd3df98-31ee-f5cf-b5eb-2b6d3ea8faf6",
+        "create_ts": "2022-01-19T15:57:24.126Z",
+        "last_update_ts": "2022-02-07T17:25:25.027Z",
+        "active_ind": "Y",
+        "file_manager_id": "984f6909-9028-4a82-aa2b-a6905ee0542b",
+        "file_folder_path": "Political Files/2022/Local/Dennis Kintigh for Mayor",
+        "full_qualified_file_name": "Political Files/2022/Local/Dennis Kintigh for Mayor/Dennis Kintigh - Mayor - KBCQ - Order 3061-00002 - payment - Jan 19 2022 - 2",
+        "entity_id": "57722",
+        "source_service_code": "FM",
+        "callsign": "KBCQ-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1724126046731632600,
+        "score": 0.24995685
+      },
       {
         "id": "d994a2fc-22b5-d231-e1ac-f971632f4e2d",
         "file_id": "d994a2fc-22b5-d231-e1ac-f971632f4e2d",
@@ -197,54 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1724125280119816200,
         "score": 0.24995685
-      },
-      {
-        "id": "b2b928a8-b691-dfed-d5e7-9fd216b563ae",
-        "file_id": "b2b928a8-b691-dfed-d5e7-9fd216b563ae",
-        "file_name": "JB for Governor EEEK NAB & Contract 2412669 02-07",
-        "file_extension": "pdf",
-        "file_size": 482217,
-        "file_status": "com_cpy",
-        "folder_id": "baae6680-5786-6d00-c8a1-bda94dda732e",
-        "create_ts": "2022-02-07T17:13:17.119Z",
-        "last_update_ts": "2022-02-07T17:13:13.945Z",
-        "active_ind": "Y",
-        "file_manager_id": "3dfac4a5-8113-4b92-8a77-5406758a66c5",
-        "file_folder_path": "Political Files/2022/State/JB For Governor",
-        "full_qualified_file_name": "Political Files/2022/State/JB For Governor/JB for Governor EEEK NAB & Contract 2412669 02-07",
-        "entity_id": "24801",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PEORIA-BLOOMINGTON",
-        "callsign": "WEEK-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724125280131350500,
-        "score": 0.24995685
-      },
-      {
-        "id": "915ef8b1-254f-a38e-366e-fd4d7016be70",
-        "file_id": "915ef8b1-254f-a38e-366e-fd4d7016be70",
-        "file_name": "0202 Vadim Mozyrsky Portland City Commissioner #3",
-        "file_extension": "pdf",
-        "file_size": 25941,
-        "file_status": "com_cpy",
-        "folder_id": "17ef0ff8-5869-e966-d9e3-1fa3c6580241",
-        "create_ts": "2022-02-07T16:54:55.363Z",
-        "last_update_ts": "2022-02-07T16:55:12.43Z",
-        "active_ind": "Y",
-        "file_manager_id": "d6aea46c-961c-4f7c-9f65-78a601df2c69",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/0202 Vadim Mozyrsky Portland City Commissioner #3",
-        "entity_id": "65755",
-        "source_service_code": "FM",
-        "callsign": "KBOO",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1724124125607231500,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -423,7 +421,7 @@
         "2019": 14006,
         "2020": 125873,
         "2021": 22501,
-        "2022": 2300,
+        "2022": 2301,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -432,7 +430,7 @@
         "US Senate": 49094,
         "US House": 41484,
         "Presidential": 38912,
-        "Local": 23933
+        "Local": 23934
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61312,
@@ -465,12 +463,12 @@
       "source_service_code": {
         "TV": 235332,
         "CABLE": 124923,
-        "FM": 111420,
+        "FM": 111421,
         "AM": 41640,
         "DBS": 5335
       },
       "political_file_type": {
-        "PA": 220437,
+        "PA": 220438,
         "NCIA": 122775
       }
     }
@@ -487,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1771,
-    "processTime": 779,
-    "responseTime": 1780
+    "queryTime": 1762,
+    "processTime": 770,
+    "responseTime": 1770
   }
 }
