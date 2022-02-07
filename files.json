@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 518669,
+    "numFound": 518671,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "02350f33-5688-9daf-2598-627dc337906b",
+        "file_id": "02350f33-5688-9daf-2598-627dc337906b",
+        "file_name": "Honor PA PAC 3403907 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 298863,
+        "file_status": "com_cpy",
+        "folder_id": "a14711e7-6aa4-b09b-2842-496fe4dd9bd5",
+        "create_ts": "2022-02-07T19:15:02.468Z",
+        "last_update_ts": "2022-02-07T19:15:04.689Z",
+        "active_ind": "Y",
+        "file_manager_id": "443e8928-eeeb-4fd5-b718-6e310578ed8d",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Honor PA PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Honor PA PAC/Honor PA PAC 3403907 Rev 0",
+        "entity_id": "71225",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WBRE-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1724132940286263300,
+        "score": 0.24995685
+      },
+      {
+        "id": "25932bd2-b0d2-17a6-2dc9-edd39130c265",
+        "file_id": "25932bd2-b0d2-17a6-2dc9-edd39130c265",
+        "file_name": "Honor PA PAC 3404085 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 424337,
+        "file_status": "com_cpy",
+        "folder_id": "7e870607-a762-26bd-9bcf-6a86151c0541",
+        "create_ts": "2022-02-07T19:13:36.884Z",
+        "last_update_ts": "2022-02-07T19:13:54.791Z",
+        "active_ind": "Y",
+        "file_manager_id": "56fd853f-a1b1-480f-90fe-e7fb5a4051ab",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Honor PA PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Honor PA PAC/Honor PA PAC 3404085 Rev 0",
+        "entity_id": "17010",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WYOU",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1724132850633015300,
+        "score": 0.24995685
+      },
       {
         "id": "b322dfad-5946-5a61-de93-841ac8bb929b",
         "file_id": "b322dfad-5946-5a61-de93-841ac8bb929b",
@@ -201,63 +249,13 @@
         "campaign_year": "2022",
         "_version_": 1724130099435929600,
         "score": 0.24995685
-      },
-      {
-        "id": "fd989e20-e071-f204-5102-48516135ebc2",
-        "file_id": "fd989e20-e071-f204-5102-48516135ebc2",
-        "file_name": "JAKE CORMAN FOR GOVERNOR 1746569 02-16-22-02-22-22 ORDER",
-        "file_extension": "pdf",
-        "file_size": 1471639,
-        "file_status": "com_cpy",
-        "folder_id": "b89a8f9b-80e9-0a05-c94b-649b08a700ee",
-        "create_ts": "2022-02-07T18:29:53.947Z",
-        "last_update_ts": "2022-02-07T18:29:56.362Z",
-        "active_ind": "Y",
-        "file_manager_id": "398c0006-7d1a-4e09-8123-55ef359613b4",
-        "file_folder_path": "Political Files/2022/State/JAKE CORMAN FOR GOVERNOR",
-        "full_qualified_file_name": "Political Files/2022/State/JAKE CORMAN FOR GOVERNOR/JAKE CORMAN FOR GOVERNOR 1746569 02-16-22-02-22-22 ORDER",
-        "entity_id": "73375",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WOLF-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724130100166787000,
-        "score": 0.24995685
-      },
-      {
-        "id": "8523ec90-11c3-b9af-aa90-15a7ce70db5a",
-        "file_id": "8523ec90-11c3-b9af-aa90-15a7ce70db5a",
-        "file_name": "Univision Candidate Ads Intake Greg Abbott 02 07",
-        "file_extension": "docx",
-        "file_size": 29519,
-        "file_status": "com_prc",
-        "folder_id": "57ddf597-4d39-41fc-b050-09cf614ef751",
-        "create_ts": "2022-02-07T18:26:31.881Z",
-        "last_update_ts": "2022-02-07T18:26:36.934Z",
-        "active_ind": "Y",
-        "file_manager_id": "cb88801c-cbfb-4ce7-92c7-b6e5efc9867d",
-        "file_folder_path": "Political Files/2022/State/Texas Governor/Texans for Greg Abbott",
-        "full_qualified_file_name": "Political Files/2022/State/Texas Governor/Texans for Greg Abbott/Univision Candidate Ads Intake Greg Abbott 02 07",
-        "entity_id": "35881",
-        "source_service_code": "TV",
-        "network_affiliation": "UNIVISION",
-        "nielsen_dma_rank": "SAN ANTONIO",
-        "callsign": "KWEX-DT",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724129891058712600,
-        "score": 0.24995685
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8382,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7039,
-        "WILKES BARRE-SCRANTON": 6957,
+        "WILKES BARRE-SCRANTON": 6959,
         "LAS VEGAS": 6031,
         "WEST PALM BEACH-FT. PIERCE": 5809,
         "PITTSBURGH": 5445,
@@ -358,8 +356,8 @@
       },
       "network_affiliation": {
         "ABC": 57395,
-        "NBC": 56229,
-        "CBS": 38326,
+        "NBC": 56230,
+        "CBS": 38327,
         "FOX": 27666,
         "PBS": 14361,
         "CW": 12050,
@@ -429,7 +427,7 @@
         "2019": 14006,
         "2020": 125873,
         "2021": 22501,
-        "2022": 2319,
+        "2022": 2321,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -469,7 +467,7 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235345,
+        "TV": 235347,
         "CABLE": 124923,
         "FM": 111422,
         "AM": 41644,
@@ -477,7 +475,7 @@
       },
       "political_file_type": {
         "PA": 220452,
-        "NCIA": 122779
+        "NCIA": 122781
       }
     }
   },
@@ -493,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 216,
-    "responseTime": 217
+    "queryTime": 208,
+    "processTime": 221,
+    "responseTime": 221
   }
 }
