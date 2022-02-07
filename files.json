@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 518599,
+    "numFound": 518601,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "116b1a74-bca1-3c94-b884-712379a6959e",
+        "file_id": "116b1a74-bca1-3c94-b884-712379a6959e",
+        "file_name": "Pol M OZ R SSN PA_909778",
+        "file_extension": "pdf",
+        "file_size": 235089,
+        "file_status": "com_cpy",
+        "folder_id": "8a026f97-81d1-7659-f5e6-6db415fe0d22",
+        "create_ts": "2022-02-07T02:26:32.415Z",
+        "last_update_ts": "2022-02-07T02:26:48.029Z",
+        "active_ind": "Y",
+        "file_manager_id": "54d22a81-accb-4e70-9518-26c4e2057f01",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/909778-0323-0329",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/909778-0323-0329/Pol M OZ R SSN PA_909778",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1724069490695602200,
+        "score": 0.24995685
+      },
+      {
+        "id": "7121b99a-77a7-7ce7-57cb-b75c18562b08",
+        "file_id": "7121b99a-77a7-7ce7-57cb-b75c18562b08",
+        "file_name": "Pol M OZ R SSN PA_NAB2_909778",
+        "file_extension": "pdf",
+        "file_size": 558341,
+        "file_status": "com_cpy",
+        "folder_id": "8a026f97-81d1-7659-f5e6-6db415fe0d22",
+        "create_ts": "2022-02-07T02:26:32.509Z",
+        "last_update_ts": "2022-02-07T02:26:34.722Z",
+        "active_ind": "Y",
+        "file_manager_id": "1f906c8e-eaf4-476d-b741-29f0875757fc",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/909778-0323-0329",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/909778-0323-0329/Pol M OZ R SSN PA_NAB2_909778",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1724069490767954000,
+        "score": 0.24995685
+      },
       {
         "id": "3308e04a-9f0b-6a50-040c-941a8692da6a",
         "file_id": "3308e04a-9f0b-6a50-040c-941a8692da6a",
@@ -203,54 +253,6 @@
         "campaign_year": "2022",
         "_version_": 1724065557048721400,
         "score": 0.24995685
-      },
-      {
-        "id": "bbb33d83-80a7-9b9c-964a-226a68473e63",
-        "file_id": "bbb33d83-80a7-9b9c-964a-226a68473e63",
-        "file_name": "ISS Honor Pennsylvania INC_NAB_909773",
-        "file_extension": "pdf",
-        "file_size": 918789,
-        "file_status": "com_cpy",
-        "folder_id": "42642804-9494-ad36-f7c8-473fb0a8b359",
-        "create_ts": "2022-02-07T00:33:49.676Z",
-        "last_update_ts": "2022-02-07T00:33:46.504Z",
-        "active_ind": "Y",
-        "file_manager_id": "90110c91-048b-444b-8a9b-77efbe12566d",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Iss Honor Pennsylvania INC/909773-0315-0321",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Iss Honor Pennsylvania INC/909773-0315-0321/ISS Honor Pennsylvania INC_NAB_909773",
-        "entity_id": "73910",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PITTSBURGH",
-        "callsign": "WPXI",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1724062399566184400,
-        "score": 0.24995685
-      },
-      {
-        "id": "3a7467a5-2121-a853-890d-e94de9b3d88e",
-        "file_id": "3a7467a5-2121-a853-890d-e94de9b3d88e",
-        "file_name": "ISS Honor Pennsylvania INC_909773",
-        "file_extension": "pdf",
-        "file_size": 291271,
-        "file_status": "com_cpy",
-        "folder_id": "42642804-9494-ad36-f7c8-473fb0a8b359",
-        "create_ts": "2022-02-07T00:33:49.525Z",
-        "last_update_ts": "2022-02-07T00:33:46.231Z",
-        "active_ind": "Y",
-        "file_manager_id": "f8ac3801-2a69-477e-b14c-a212d500b098",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Iss Honor Pennsylvania INC/909773-0315-0321",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Iss Honor Pennsylvania INC/909773-0315-0321/ISS Honor Pennsylvania INC_909773",
-        "entity_id": "73910",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PITTSBURGH",
-        "callsign": "WPXI",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1724062399289360400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -260,7 +262,7 @@
         "WILKES BARRE-SCRANTON": 6914,
         "LAS VEGAS": 6031,
         "WEST PALM BEACH-FT. PIERCE": 5809,
-        "PITTSBURGH": 5443,
+        "PITTSBURGH": 5445,
         "HONOLULU": 5210,
         "DULUTH-SUPERIOR": 4653,
         "CHARLESTON-HUNTINGTON": 4326,
@@ -358,7 +360,7 @@
       },
       "network_affiliation": {
         "ABC": 57399,
-        "NBC": 56218,
+        "NBC": 56220,
         "CBS": 38323,
         "FOX": 27623,
         "PBS": 14361,
@@ -429,13 +431,13 @@
         "2019": 14006,
         "2020": 125881,
         "2021": 22501,
-        "2022": 2245,
+        "2022": 2247,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 65996,
-        "US Senate": 49078,
+        "US Senate": 49080,
         "US House": 41484,
         "Presidential": 38919,
         "Local": 23927
@@ -469,14 +471,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235290,
+        "TV": 235292,
         "CABLE": 124923,
         "FM": 111415,
         "AM": 41636,
         "DBS": 5335
       },
       "political_file_type": {
-        "PA": 220402,
+        "PA": 220404,
         "NCIA": 122763
       }
     }
@@ -493,8 +495,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 220,
+    "queryTime": 209,
+    "processTime": 221,
     "responseTime": 221
   }
 }
