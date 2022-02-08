@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 518992,
+    "numFound": 518991,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
@@ -298,7 +298,7 @@
         "ALBUQUERQUE-SANTA FE": 1715,
         "ROCKFORD": 1670,
         "LINCOLN & HASTINGS-KRNY": 1605,
-        "GREENVLL-SPART-ASHEVLL-AND": 1552,
+        "GREENVLL-SPART-ASHEVLL-AND": 1551,
         "MADISON": 1551,
         "PHOENIX (PRESCOTT)": 1503,
         "MINOT-BISMARCK-DICKINSON": 1459,
@@ -357,7 +357,7 @@
         "ABC": 57440,
         "NBC": 56263,
         "CBS": 38356,
-        "FOX": 27677,
+        "FOX": 27676,
         "PBS": 14361,
         "CW": 12049,
         "IND": 2989,
@@ -440,7 +440,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61312,
         "Issues and Programs Lists": 44899,
-        "Equal Employment Opportunity Records": 37126,
+        "Equal Employment Opportunity Records": 37125,
         "Donor Lists - Applicable Only for NCEs": 11436,
         "FCC Authorizations": 7274,
         "Availability of Signals": 1865,
@@ -466,7 +466,7 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235475,
+        "TV": 235474,
         "CABLE": 125044,
         "FM": 111462,
         "AM": 41669,
@@ -490,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 210,
-    "processTime": 218,
-    "responseTime": 218
+    "queryTime": 1777,
+    "processTime": 784,
+    "responseTime": 1785
   }
 }
