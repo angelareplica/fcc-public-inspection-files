@@ -1,9 +1,54 @@
 {
   "response": {
-    "numFound": 518920,
+    "numFound": 518922,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "cda38e22-3e93-784f-1326-e71a69fef94e",
+        "file_id": "cda38e22-3e93-784f-1326-e71a69fef94e",
+        "file_name": "WDBT - Tim James - 10979-00002",
+        "file_extension": "pdf",
+        "file_size": 393653,
+        "file_status": "com_cpy",
+        "folder_id": "2a31305f-3d70-acf9-aebd-057d7537d571",
+        "create_ts": "2022-02-08T19:11:10.892Z",
+        "last_update_ts": "2022-02-08T19:11:31.337Z",
+        "active_ind": "Y",
+        "file_manager_id": "9b681471-2b4b-4d63-a036-48c5c5e36e0b",
+        "file_folder_path": "Political Files/2022/State/Governor/Tim James",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Tim James/WDBT - Tim James - 10979-00002",
+        "entity_id": "63945",
+        "source_service_code": "FM",
+        "callsign": "WDBT",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1724223294187503600,
+        "score": 0.24995685
+      },
+      {
+        "id": "6aa7b844-dd0f-c13b-01de-dbdcbce448ec",
+        "file_id": "6aa7b844-dd0f-c13b-01de-dbdcbce448ec",
+        "file_name": "WDBT - Alabama Patriots -10977-00003",
+        "file_extension": "pdf",
+        "file_size": 386817,
+        "file_status": "com_cpy",
+        "folder_id": "6bc94580-d463-8840-dad1-7e85c3c1e20a",
+        "create_ts": "2022-02-08T19:07:51.266Z",
+        "last_update_ts": "2022-02-08T19:08:11.702Z",
+        "active_ind": "Y",
+        "file_manager_id": "1f2d254f-fe9d-4e09-8e20-4b1a0c9be6c0",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Alabama Patriots",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Alabama Patriots/WDBT - Alabama Patriots -10977-00003",
+        "entity_id": "63945",
+        "source_service_code": "FM",
+        "callsign": "WDBT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1724223084866568200,
+        "score": 0.24995685
+      },
       {
         "id": "ba5b4ac4-a09f-d1f5-14d7-ae17843cde2d",
         "file_id": "ba5b4ac4-a09f-d1f5-14d7-ae17843cde2d",
@@ -203,56 +248,6 @@
         "campaign_year": "2022",
         "_version_": 1724220597834088400,
         "score": 0.24995685
-      },
-      {
-        "id": "93613bd1-eb91-673c-8daf-044f891d171a",
-        "file_id": "93613bd1-eb91-673c-8daf-044f891d171a",
-        "file_name": "A36031-NAB-020722",
-        "file_extension": "pdf",
-        "file_size": 1592006,
-        "file_status": "com_cpy",
-        "folder_id": "e7c48c82-c741-200c-0e54-9a8ee7bc7c13",
-        "create_ts": "2022-02-08T18:28:19.079Z",
-        "last_update_ts": "2022-02-08T18:28:21.655Z",
-        "active_ind": "Y",
-        "file_manager_id": "58f197cd-d673-4d30-959d-c7d3df01864e",
-        "file_folder_path": "Political Files/2022/State/IL Governor/Richard Irvin/Irvin for Illinois 36031",
-        "full_qualified_file_name": "Political Files/2022/State/IL Governor/Richard Irvin/Irvin for Illinois 36031/A36031-NAB-020722",
-        "entity_id": "73940",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "ROCKFORD",
-        "callsign": "WREX",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724220597798436900,
-        "score": 0.24995685
-      },
-      {
-        "id": "424d7f53-ad39-393d-800a-7913a323add0",
-        "file_id": "424d7f53-ad39-393d-800a-7913a323add0",
-        "file_name": "A36031-REQUEST 625538-020722",
-        "file_extension": "pdf",
-        "file_size": 497244,
-        "file_status": "com_cpy",
-        "folder_id": "e7c48c82-c741-200c-0e54-9a8ee7bc7c13",
-        "create_ts": "2022-02-08T18:28:18.813Z",
-        "last_update_ts": "2022-02-08T18:28:21.647Z",
-        "active_ind": "Y",
-        "file_manager_id": "dac23dce-6321-42b9-971e-5763afe29d3d",
-        "file_folder_path": "Political Files/2022/State/IL Governor/Richard Irvin/Irvin for Illinois 36031",
-        "full_qualified_file_name": "Political Files/2022/State/IL Governor/Richard Irvin/Irvin for Illinois 36031/A36031-REQUEST 625538-020722",
-        "entity_id": "73940",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "ROCKFORD",
-        "callsign": "WREX",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724220597793194000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -431,12 +426,12 @@
         "2019": 14006,
         "2020": 125873,
         "2021": 22505,
-        "2022": 2569,
+        "2022": 2571,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66102,
+        "State": 66103,
         "US Senate": 49156,
         "US House": 41494,
         "Presidential": 38912,
@@ -473,13 +468,13 @@
       "source_service_code": {
         "TV": 235455,
         "CABLE": 124999,
-        "FM": 111461,
+        "FM": 111463,
         "AM": 41668,
         "DBS": 5337
       },
       "political_file_type": {
-        "PA": 220623,
-        "NCIA": 122860
+        "PA": 220624,
+        "NCIA": 122861
       }
     }
   },
@@ -495,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 216,
-    "responseTime": 216
+    "queryTime": 1767,
+    "processTime": 775,
+    "responseTime": 1776
   }
 }
