@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 518821,
+    "numFound": 518823,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "d101d17e-7361-fc35-ce63-dbffa943f7a2",
+        "file_id": "d101d17e-7361-fc35-ce63-dbffa943f7a2",
+        "file_name": "ISS Honor Pennsylvania INC_909766",
+        "file_extension": "pdf",
+        "file_size": 265446,
+        "file_status": "com_cpy",
+        "folder_id": "31e59d31-0269-d0f5-1546-8121f60766c4",
+        "create_ts": "2022-02-08T14:13:01.573Z",
+        "last_update_ts": "2022-02-08T14:13:03.832Z",
+        "active_ind": "Y",
+        "file_manager_id": "38b9ea20-ba5b-4c78-b0a2-7d20e1413356",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Iss Honor Pennsylvania INC/909766-0215-0221",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Iss Honor Pennsylvania INC/909766-0215-0221/ISS Honor Pennsylvania INC_909766",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1724204535919935500,
+        "score": 0.24995685
+      },
+      {
+        "id": "9646e181-0e02-413a-818b-1de0674ecf3f",
+        "file_id": "9646e181-0e02-413a-818b-1de0674ecf3f",
+        "file_name": "ISS Honor Pennsylvania INC_NAB_909766",
+        "file_extension": "pdf",
+        "file_size": 917935,
+        "file_status": "com_cpy",
+        "folder_id": "31e59d31-0269-d0f5-1546-8121f60766c4",
+        "create_ts": "2022-02-08T14:13:01.743Z",
+        "last_update_ts": "2022-02-08T14:12:58.225Z",
+        "active_ind": "Y",
+        "file_manager_id": "85dc8997-97e4-44ed-94b8-2e1dd010752b",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Iss Honor Pennsylvania INC/909766-0215-0221",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Iss Honor Pennsylvania INC/909766-0215-0221/ISS Honor Pennsylvania INC_NAB_909766",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1724204536169496600,
+        "score": 0.24995685
+      },
       {
         "id": "de700bbb-b34e-5699-3895-ba616ec35079",
         "file_id": "de700bbb-b34e-5699-3895-ba616ec35079",
@@ -203,52 +251,6 @@
         "campaign_year": "2022",
         "_version_": 1724163060400128000,
         "score": 0.24995685
-      },
-      {
-        "id": "ea0e6e30-15fe-badc-7c16-b9efa4aab9e8",
-        "file_id": "ea0e6e30-15fe-badc-7c16-b9efa4aab9e8",
-        "file_name": "JASMINE FOR US NAB PAGE 2 2.8-2.14",
-        "file_extension": "pdf",
-        "file_size": 1129428,
-        "file_status": "com_cpy",
-        "folder_id": "14b9811e-6467-fad3-da3e-00e974a6150c",
-        "create_ts": "2022-02-08T02:55:56.215Z",
-        "last_update_ts": "2022-02-08T02:56:14.757Z",
-        "active_ind": "Y",
-        "file_manager_id": "94f9f5c8-4b37-4dda-b61a-6fff052cd66c",
-        "file_folder_path": "Political Files/2022/Federal/US House/Jasmine For US",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Jasmine For US/JASMINE FOR US NAB PAGE 2 2.8-2.14",
-        "entity_id": "6386",
-        "source_service_code": "FM",
-        "callsign": "KZMJ",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1724161937131962400,
-        "score": 0.00012497843
-      },
-      {
-        "id": "a1bc0d5b-34c6-95de-8abe-d1c17e40f807",
-        "file_id": "a1bc0d5b-34c6-95de-8abe-d1c17e40f807",
-        "file_name": "JASMINE FOR US SIGNED NAB FORM PAGE 1",
-        "file_extension": "pdf",
-        "file_size": 533338,
-        "file_status": "com_cpy",
-        "folder_id": "14b9811e-6467-fad3-da3e-00e974a6150c",
-        "create_ts": "2022-02-08T02:55:54.896Z",
-        "last_update_ts": "2022-02-08T02:56:13.375Z",
-        "active_ind": "Y",
-        "file_manager_id": "d7fff631-ffeb-4017-9545-5b40d6c943b6",
-        "file_folder_path": "Political Files/2022/Federal/US House/Jasmine For US",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Jasmine For US/JASMINE FOR US SIGNED NAB FORM PAGE 1",
-        "entity_id": "6386",
-        "source_service_code": "FM",
-        "callsign": "KZMJ",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1724161935682830300,
-        "score": 0.00012497843
       }
     ],
     "facets": {
@@ -258,7 +260,7 @@
         "WILKES BARRE-SCRANTON": 6968,
         "LAS VEGAS": 6031,
         "WEST PALM BEACH-FT. PIERCE": 5809,
-        "PITTSBURGH": 5462,
+        "PITTSBURGH": 5464,
         "HONOLULU": 5210,
         "DULUTH-SUPERIOR": 4653,
         "CHARLESTON-HUNTINGTON": 4328,
@@ -356,7 +358,7 @@
       },
       "network_affiliation": {
         "ABC": 57429,
-        "NBC": 56245,
+        "NBC": 56247,
         "CBS": 38341,
         "FOX": 27676,
         "PBS": 14361,
@@ -427,7 +429,7 @@
         "2019": 14006,
         "2020": 125873,
         "2021": 22505,
-        "2022": 2468,
+        "2022": 2470,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -467,7 +469,7 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235422,
+        "TV": 235424,
         "CABLE": 124965,
         "FM": 111440,
         "AM": 41657,
@@ -475,7 +477,7 @@
       },
       "political_file_type": {
         "PA": 220566,
-        "NCIA": 122816
+        "NCIA": 122818
       }
     }
   },
@@ -491,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 210,
-    "processTime": 219,
-    "responseTime": 219
+    "queryTime": 1763,
+    "processTime": 770,
+    "responseTime": 1770
   }
 }
