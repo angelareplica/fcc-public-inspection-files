@@ -1,9 +1,56 @@
 {
   "response": {
-    "numFound": 519206,
+    "numFound": 519208,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "28ff3aca-7137-02b1-86e0-88d086c534bb",
+        "file_id": "28ff3aca-7137-02b1-86e0-88d086c534bb",
+        "file_name": "don-huffines-nab-2022-02-09-001115",
+        "file_extension": "pdf",
+        "file_size": 907177,
+        "file_status": "com_cpy",
+        "folder_id": "0f317ea3-1374-17b9-ca95-595bdf17f31f",
+        "create_ts": "2022-02-09T21:40:06.336Z",
+        "last_update_ts": "2022-02-09T21:40:29.975Z",
+        "active_ind": "Y",
+        "file_manager_id": "86561bf6-7803-4995-839e-87adb81ec001",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/don-huffines-nab-2022-02-09-001115",
+        "entity_id": "11952",
+        "source_service_code": "AM",
+        "callsign": "WOAI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1724323260706848800,
+        "score": 0.24995685
+      },
+      {
+        "id": "47306af2-77a0-d013-1eca-7f38749b4644",
+        "file_id": "47306af2-77a0-d013-1eca-7f38749b4644",
+        "file_name": "AB FOUNDATION NAB 03-16-2021",
+        "file_extension": "pdf",
+        "file_size": 1052250,
+        "file_status": "com_cpy",
+        "folder_id": "e59cdc8b-e3a6-047f-20ea-5d6b438acff6",
+        "create_ts": "2022-02-09T21:28:17.443Z",
+        "last_update_ts": "2022-02-09T21:28:13.961Z",
+        "active_ind": "Y",
+        "file_manager_id": "f3ae821d-982c-4f11-a25c-5a131f0c80b5",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AB Foundation/AB FOUNDATION NAB 03-16-2021",
+        "entity_id": "000039",
+        "source_service_code": "CABLE",
+        "legal_name": "VYVE BROADBAND A, LLC",
+        "operator_city_name": "RYE BROOK",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1724322517728886800,
+        "score": 0.24995685
+      },
       {
         "id": "6f05942b-895f-6710-55c9-2ec0c0f0bead",
         "file_id": "6f05942b-895f-6710-55c9-2ec0c0f0bead",
@@ -189,52 +236,6 @@
         "campaign_year": "2022",
         "_version_": 1724319239709393000,
         "score": 0.24995685
-      },
-      {
-        "id": "f5d50456-fd2b-4adf-da5f-1b97e4ca1824",
-        "file_id": "f5d50456-fd2b-4adf-da5f-1b97e4ca1824",
-        "file_name": "Phil King for State Senate - KEAN - 021622",
-        "file_extension": "pdf",
-        "file_size": 742434,
-        "file_status": "com_cpy",
-        "folder_id": "6ce8bb4c-b4a1-1c0b-1c2d-2c7e04119601",
-        "create_ts": "2022-02-09T20:36:11.01Z",
-        "last_update_ts": "2022-02-09T20:36:07.211Z",
-        "active_ind": "Y",
-        "file_manager_id": "5d2d3436-4171-44a2-94d8-24d03b6954f1",
-        "file_folder_path": "Political Files/2022/State/Phil King for State Senate",
-        "full_qualified_file_name": "Political Files/2022/State/Phil King for State Senate/Phil King for State Senate - KEAN - 021622",
-        "entity_id": "54904",
-        "source_service_code": "FM",
-        "callsign": "KEAN-FM",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724319239114850300,
-        "score": 0.24995685
-      },
-      {
-        "id": "8c421e95-c52a-c697-f415-552d65b24eaa",
-        "file_id": "8c421e95-c52a-c697-f415-552d65b24eaa",
-        "file_name": "Phil King for State Senate - KULL - 021622",
-        "file_extension": "pdf",
-        "file_size": 747224,
-        "file_status": "com_cpy",
-        "folder_id": "25e3fc16-3c63-1ddc-a04b-d264fdf5a088",
-        "create_ts": "2022-02-09T20:35:15.348Z",
-        "last_update_ts": "2022-02-09T20:35:38.866Z",
-        "active_ind": "Y",
-        "file_manager_id": "c8b889db-4ced-49fe-b59f-c810281dcf82",
-        "file_folder_path": "Political Files/2022/State/Phil King for State Senate",
-        "full_qualified_file_name": "Political Files/2022/State/Phil King for State Senate/Phil King for State Senate - KULL - 021622",
-        "entity_id": "73681",
-        "source_service_code": "FM",
-        "callsign": "KULL",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724319180726993000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -412,13 +413,13 @@
         "2018": 67735,
         "2019": 14002,
         "2020": 125864,
-        "2021": 22507,
-        "2022": 2758,
+        "2021": 22508,
+        "2022": 2759,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66155,
+        "State": 66156,
         "US Senate": 49177,
         "US House": 41507,
         "Presidential": 38902,
@@ -454,14 +455,14 @@
       },
       "source_service_code": {
         "TV": 235518,
-        "CABLE": 125073,
+        "CABLE": 125074,
         "FM": 111565,
-        "AM": 41707,
+        "AM": 41708,
         "DBS": 5343
       },
       "political_file_type": {
-        "PA": 220715,
-        "NCIA": 122944
+        "PA": 220716,
+        "NCIA": 122945
       }
     }
   },
@@ -477,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1767,
-    "processTime": 775,
-    "responseTime": 1776
+    "queryTime": 1768,
+    "processTime": 778,
+    "responseTime": 1779
   }
 }
