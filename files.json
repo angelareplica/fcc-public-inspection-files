@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 519212,
+    "numFound": 519214,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "d7e402d2-0c38-5b7c-1ece-dd7c2750d714",
+        "file_id": "d7e402d2-0c38-5b7c-1ece-dd7c2750d714",
+        "file_name": "Sullivan for Illinois 02.08.22-02.21.22 #332548 Rev 1",
+        "file_extension": "pdf",
+        "file_size": 219876,
+        "file_status": "com_cpy",
+        "folder_id": "5e4eadf4-e6e3-5884-faa8-afa0cebbf9c2",
+        "create_ts": "2022-02-09T23:27:14.864Z",
+        "last_update_ts": "2022-02-09T23:27:10.82Z",
+        "active_ind": "Y",
+        "file_manager_id": "4b831b71-ddb8-420d-8d9e-5cc3cf9230e6",
+        "file_folder_path": "Political Files/2022/State/Sullivan for Illinois NRP",
+        "full_qualified_file_name": "Political Files/2022/State/Sullivan for Illinois NRP/Sullivan for Illinois 02.08.22-02.21.22 #332548 Rev 1",
+        "entity_id": "73226",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "CHICAGO",
+        "callsign": "WLS-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1724330001304649700,
+        "score": 0.24995685
+      },
+      {
+        "id": "a64e866a-4a54-642d-20bf-c49b54594e7f",
+        "file_id": "a64e866a-4a54-642d-20bf-c49b54594e7f",
+        "file_name": "JB for Governor 02.08.22-02.14.22 #332538 Rev 2",
+        "file_extension": "pdf",
+        "file_size": 190602,
+        "file_status": "com_cpy",
+        "folder_id": "6334f15d-3835-d085-f092-6ba82b66c2e2",
+        "create_ts": "2022-02-09T23:25:55.691Z",
+        "last_update_ts": "2022-02-09T23:25:57.76Z",
+        "active_ind": "Y",
+        "file_manager_id": "cf5404d2-5470-4231-9d66-48bc55b5c94c",
+        "file_folder_path": "Political Files/2022/State/JB Pritzker for Governor",
+        "full_qualified_file_name": "Political Files/2022/State/JB Pritzker for Governor/JB for Governor 02.08.22-02.14.22 #332538 Rev 2",
+        "entity_id": "73226",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "CHICAGO",
+        "callsign": "WLS-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1724329918234361900,
+        "score": 0.24995685
+      },
       {
         "id": "d0ff2855-cf84-d318-7640-756bff240c0b",
         "file_id": "d0ff2855-cf84-d318-7640-756bff240c0b",
@@ -190,56 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1724325577420177400,
         "score": 0.24995685
-      },
-      {
-        "id": "7a897f98-db80-ce04-f7b1-c8b1ff3ebbba",
-        "file_id": "7a897f98-db80-ce04-f7b1-c8b1ff3ebbba",
-        "file_name": "Friends of Brett Lindstrom_3597982_01.31.22-03.13.22_2099",
-        "file_extension": "pdf",
-        "file_size": 11165,
-        "file_status": "com_cpy",
-        "folder_id": "253e5e87-3dd6-6857-1c6e-4c20814ba516",
-        "create_ts": "2022-02-09T22:16:56.044Z",
-        "last_update_ts": "2022-02-09T22:16:57.996Z",
-        "active_ind": "Y",
-        "file_manager_id": "ed742744-9259-462d-8c01-9a14de413d7a",
-        "file_folder_path": "Political Files/2022/State/Friends of Brett Lindstrom",
-        "full_qualified_file_name": "Political Files/2022/State/Friends of Brett Lindstrom/Friends of Brett Lindstrom_3597982_01.31.22-03.13.22_2099",
-        "entity_id": "008575",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS OMAHA LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724325577369845800,
-        "score": 0.24995685
-      },
-      {
-        "id": "332b0019-375c-efc3-03e9-20c0dc4bc70a",
-        "file_id": "332b0019-375c-efc3-03e9-20c0dc4bc70a",
-        "file_name": "Friends of Brett Lindstrom_3600527_03.09.22-03.25.22_2099",
-        "file_extension": "pdf",
-        "file_size": 9767,
-        "file_status": "com_cpy",
-        "folder_id": "253e5e87-3dd6-6857-1c6e-4c20814ba516",
-        "create_ts": "2022-02-09T22:16:56.188Z",
-        "last_update_ts": "2022-02-09T22:16:51.961Z",
-        "active_ind": "Y",
-        "file_manager_id": "b21426b6-8574-47a6-ab93-f75b34c18bce",
-        "file_folder_path": "Political Files/2022/State/Friends of Brett Lindstrom",
-        "full_qualified_file_name": "Political Files/2022/State/Friends of Brett Lindstrom/Friends of Brett Lindstrom_3600527_03.09.22-03.25.22_2099",
-        "entity_id": "008575",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS OMAHA LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724325577490432000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -269,7 +269,7 @@
         "FRESNO-VISALIA": 2709,
         "MILWAUKEE": 2630,
         "BEND OR": 2602,
-        "CHICAGO": 2540,
+        "CHICAGO": 2542,
         "GREENSBORO-H.POINT-W.SALEM": 2531,
         "SAVANNAH": 2428,
         "QUINCY-HANNIBAL-KEOKUK": 2383,
@@ -346,7 +346,7 @@
         "HOUSTON": 524
       },
       "network_affiliation": {
-        "ABC": 57448,
+        "ABC": 57450,
         "NBC": 56266,
         "CBS": 38354,
         "FOX": 27687,
@@ -418,12 +418,12 @@
         "2019": 14002,
         "2020": 125850,
         "2021": 22509,
-        "2022": 2774,
+        "2022": 2776,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66162,
+        "State": 66164,
         "US Senate": 49178,
         "US House": 41510,
         "Presidential": 38890,
@@ -458,14 +458,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235512,
+        "TV": 235514,
         "CABLE": 125081,
         "FM": 111567,
         "AM": 41709,
         "DBS": 5343
       },
       "political_file_type": {
-        "PA": 220714,
+        "PA": 220716,
         "NCIA": 122949
       }
     }
@@ -482,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1903,
-    "processTime": 910,
-    "responseTime": 1910
+    "queryTime": 1776,
+    "processTime": 787,
+    "responseTime": 1788
   }
 }
