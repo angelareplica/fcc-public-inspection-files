@@ -5,6 +5,27 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "c6f5344f-149b-bbfb-783f-7e20c8c53a45",
+        "file_id": "c6f5344f-149b-bbfb-783f-7e20c8c53a45",
+        "file_name": "Other Shows_010122-013122",
+        "file_extension": "pdf",
+        "file_size": 82996,
+        "file_status": "com_cpy",
+        "folder_id": "f086b034-b83a-dfb1-0437-04d7b791e84e",
+        "create_ts": "2022-02-09T03:20:02.386Z",
+        "last_update_ts": "2022-02-09T03:40:05.279Z",
+        "active_ind": "Y",
+        "file_manager_id": "cca87ace-137e-42a0-b6ed-ff2fa01aeff0",
+        "file_folder_path": "Donor Lists - Applicable Only for NCEs/Other Shows",
+        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/Other Shows/Other Shows_010122-013122",
+        "entity_id": "174221",
+        "source_service_code": "FM",
+        "callsign": "KOJD",
+        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
+        "_version_": 1724255289356583000,
+        "score": 0.24995685
+      },
+      {
         "id": "0fd1c266-3122-a843-5ebc-e60fc207b086",
         "file_id": "0fd1c266-3122-a843-5ebc-e60fc207b086",
         "file_name": "Public Radio Exchange_010122-013122",
@@ -191,27 +212,6 @@
         "callsign": "KOTD",
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1724254199601954800,
-        "score": 0.24995685
-      },
-      {
-        "id": "07926cab-0401-d0e0-b973-ca97e3fadb45",
-        "file_id": "07926cab-0401-d0e0-b973-ca97e3fadb45",
-        "file_name": "Public Radio Exchange_010122-013122",
-        "file_extension": "pdf",
-        "file_size": 96488,
-        "file_status": "com_cpy",
-        "folder_id": "20c66400-6a18-871f-2ac3-4d927d9579ae",
-        "create_ts": "2022-02-09T03:22:18.275Z",
-        "last_update_ts": "2022-02-09T03:22:20.418Z",
-        "active_ind": "Y",
-        "file_manager_id": "98aaa975-012d-4f01-9ac9-e22f3fb785bb",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/Public Radio Exchange",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/Public Radio Exchange/Public Radio Exchange_010122-013122",
-        "entity_id": "90769",
-        "source_service_code": "FM",
-        "callsign": "KHRV",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1724254192870097000,
         "score": 0.24995685
       }
     ],
@@ -455,8 +455,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 218,
-    "responseTime": 219
+    "queryTime": 210,
+    "processTime": 219,
+    "responseTime": 220
   }
 }
