@@ -5,6 +5,48 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "d0ff2855-cf84-d318-7640-756bff240c0b",
+        "file_id": "d0ff2855-cf84-d318-7640-756bff240c0b",
+        "file_name": "InfoTrak quarterly report, 2021-03_29.5 min",
+        "file_extension": "doc",
+        "file_size": 110080,
+        "file_status": "com_prc",
+        "folder_id": "1d0b49e2-5024-0123-747a-b0f1ee7f4a4b",
+        "create_ts": "2022-02-09T22:59:45.009Z",
+        "last_update_ts": "2022-02-09T23:00:06.506Z",
+        "active_ind": "Y",
+        "file_manager_id": "d24abca1-9358-4706-8675-0a3f0c6f960a",
+        "file_folder_path": "Issues and Programs Lists/2021 QUARTERLY ISSUES",
+        "full_qualified_file_name": "Issues and Programs Lists/2021 QUARTERLY ISSUES/InfoTrak quarterly report, 2021-03_29.5 min",
+        "entity_id": "65263",
+        "source_service_code": "AM",
+        "callsign": "KOFE",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1724328298075390000,
+        "score": 0.24995685
+      },
+      {
+        "id": "fb0685cf-c5b8-d4f5-4bb7-0f172f4f7101",
+        "file_id": "fb0685cf-c5b8-d4f5-4bb7-0f172f4f7101",
+        "file_name": "InfoTrak quarterly report, 2021-04_29.5 min",
+        "file_extension": "doc",
+        "file_size": 110080,
+        "file_status": "com_prc",
+        "folder_id": "1d0b49e2-5024-0123-747a-b0f1ee7f4a4b",
+        "create_ts": "2022-02-09T22:59:44.561Z",
+        "last_update_ts": "2022-02-09T22:59:52.028Z",
+        "active_ind": "Y",
+        "file_manager_id": "883a6b96-4893-4e12-8f0a-c573c65ca855",
+        "file_folder_path": "Issues and Programs Lists/2021 QUARTERLY ISSUES",
+        "full_qualified_file_name": "Issues and Programs Lists/2021 QUARTERLY ISSUES/InfoTrak quarterly report, 2021-04_29.5 min",
+        "entity_id": "65263",
+        "source_service_code": "AM",
+        "callsign": "KOFE",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1724328276433830000,
+        "score": 0.24995685
+      },
+      {
         "id": "6f324456-9507-a4fe-0e47-3c2eee59f6eb",
         "file_id": "6f324456-9507-a4fe-0e47-3c2eee59f6eb",
         "file_name": "PFCD-NAB 08.05.2021",
@@ -198,56 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1724325577490432000,
         "score": 0.24995685
-      },
-      {
-        "id": "ac601db0-e4fa-2a16-8f29-7381c6429be7",
-        "file_id": "ac601db0-e4fa-2a16-8f29-7381c6429be7",
-        "file_name": "Mike Flood Primary NAB 02.04.22",
-        "file_extension": "pdf",
-        "file_size": 253578,
-        "file_status": "com_cpy",
-        "folder_id": "9e7e348a-8562-aa73-3576-03abb35b4e2d",
-        "create_ts": "2022-02-09T22:15:56.317Z",
-        "last_update_ts": "2022-02-09T22:15:58.527Z",
-        "active_ind": "Y",
-        "file_manager_id": "895ba8c2-fbb7-41db-8886-9c2f38c72408",
-        "file_folder_path": "Political Files/2022/Federal/US House/Mike Flood for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Mike Flood for Congress/Mike Flood Primary NAB 02.04.22",
-        "entity_id": "008575",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS OMAHA LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1724325515009982500,
-        "score": 0.24995685
-      },
-      {
-        "id": "9ea8f43f-6964-e3ab-488f-25be4a28516e",
-        "file_id": "9ea8f43f-6964-e3ab-488f-25be4a28516e",
-        "file_name": "Mike Flood for Congress_3605906_02.07.22-02.13.22_2099",
-        "file_extension": "pdf",
-        "file_size": 9945,
-        "file_status": "com_cpy",
-        "folder_id": "9e7e348a-8562-aa73-3576-03abb35b4e2d",
-        "create_ts": "2022-02-09T22:15:48.556Z",
-        "last_update_ts": "2022-02-09T22:15:50.865Z",
-        "active_ind": "Y",
-        "file_manager_id": "eb003709-cfb3-4d26-bf60-6a9e2dbed587",
-        "file_folder_path": "Political Files/2022/Federal/US House/Mike Flood for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Mike Flood for Congress/Mike Flood for Congress_3605906_02.07.22-02.13.22_2099",
-        "entity_id": "008575",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS OMAHA LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1724325506977890300,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -255,7 +247,7 @@
         "DES MOINES-AMES": 8382,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7039,
         "WILKES BARRE-SCRANTON": 6972,
-        "LAS VEGAS": 6019,
+        "LAS VEGAS": 6017,
         "WEST PALM BEACH-FT. PIERCE": 5809,
         "PITTSBURGH": 5461,
         "HONOLULU": 5210,
@@ -356,7 +348,7 @@
       "network_affiliation": {
         "ABC": 57448,
         "NBC": 56266,
-        "CBS": 38356,
+        "CBS": 38354,
         "FOX": 27687,
         "PBS": 14370,
         "CW": 12050,
@@ -424,7 +416,7 @@
         "2017": 10353,
         "2018": 67735,
         "2019": 14002,
-        "2020": 125852,
+        "2020": 125850,
         "2021": 22509,
         "2022": 2774,
         "KYAZ": 5,
@@ -439,7 +431,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61326,
-        "Issues and Programs Lists": 44899,
+        "Issues and Programs Lists": 44901,
         "Equal Employment Opportunity Records": 37127,
         "Donor Lists - Applicable Only for NCEs": 11533,
         "FCC Authorizations": 7274,
@@ -466,15 +458,15 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235514,
+        "TV": 235512,
         "CABLE": 125081,
         "FM": 111567,
-        "AM": 41707,
+        "AM": 41709,
         "DBS": 5343
       },
       "political_file_type": {
         "PA": 220714,
-        "NCIA": 122951
+        "NCIA": 122949
       }
     }
   },
@@ -490,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 217,
-    "responseTime": 218
+    "queryTime": 1903,
+    "processTime": 910,
+    "responseTime": 1910
   }
 }
