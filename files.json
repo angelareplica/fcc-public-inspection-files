@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 519222,
+    "numFound": 519224,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "7890bc8c-045b-e785-9e46-1c8e674a4012",
+        "file_id": "7890bc8c-045b-e785-9e46-1c8e674a4012",
+        "file_name": "James Lankford for US Senate 02.13.22-02.26.22 #136659 KQCW",
+        "file_extension": "pdf",
+        "file_size": 1775508,
+        "file_status": "com_cpy",
+        "folder_id": "d405e758-8646-3377-0978-5c8fdbd62c00",
+        "create_ts": "2022-02-10T03:16:53.807Z",
+        "last_update_ts": "2022-02-10T03:16:56.324Z",
+        "active_ind": "Y",
+        "file_manager_id": "38932a1c-6695-455e-b084-6f7d3c8d6df9",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/James Lankford for US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/James Lankford for US Senate/James Lankford for US Senate 02.13.22-02.26.22 #136659 KQCW",
+        "entity_id": "78322",
+        "source_service_code": "TV",
+        "network_affiliation": "CW",
+        "nielsen_dma_rank": "TULSA",
+        "callsign": "KQCW-DT",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1724344449984626700,
+        "score": 0.24995685
+      },
+      {
+        "id": "5e47c4b2-beaf-b703-a9e8-f345988824d3",
+        "file_id": "5e47c4b2-beaf-b703-a9e8-f345988824d3",
+        "file_name": "James Lankford for US Senate 02.13.22-02.26.22 #136658 KOTV",
+        "file_extension": "pdf",
+        "file_size": 2493901,
+        "file_status": "com_cpy",
+        "folder_id": "5e5a1990-3a8b-8cb0-d27d-c10c4425bb6f",
+        "create_ts": "2022-02-10T03:14:36.549Z",
+        "last_update_ts": "2022-02-10T03:14:33.381Z",
+        "active_ind": "Y",
+        "file_manager_id": "3bd2ccb6-9bbe-4327-9622-8da7a3615149",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/James Lankford for US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/James Lankford for US Senate/James Lankford for US Senate 02.13.22-02.26.22 #136658 KOTV",
+        "entity_id": "35434",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "TULSA",
+        "callsign": "KOTV-DT",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1724344306605490200,
+        "score": 0.24995685
+      },
       {
         "id": "e8605c33-e1a8-540c-2803-eba8a2e9919b",
         "file_id": "e8605c33-e1a8-540c-2803-eba8a2e9919b",
@@ -195,53 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1724332648060420000,
         "score": 0.24995685
-      },
-      {
-        "id": "1858c605-efce-1528-543f-9f589f07b6bc",
-        "file_id": "1858c605-efce-1528-543f-9f589f07b6bc",
-        "file_name": "Kevin Sparks Primary NAB In the Field BH 020922",
-        "file_extension": "pdf",
-        "file_size": 1153377,
-        "file_status": "com_cpy",
-        "folder_id": "d3ff2820-d160-f773-20b7-0abe7f5dca9d",
-        "create_ts": "2022-02-09T23:59:41.917Z",
-        "last_update_ts": "2022-02-10T00:00:06.304Z",
-        "active_ind": "Y",
-        "file_manager_id": "22577ddc-cb5b-47bd-b3dc-eb600bc40cd5",
-        "file_folder_path": "Political Files/2022/State/Texas/Kevin Sparks TX State Senate D31",
-        "full_qualified_file_name": "Political Files/2022/State/Texas/Kevin Sparks TX State Senate D31/Kevin Sparks Primary NAB In the Field BH 020922",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724332043634999300,
-        "score": 0.24995685
-      },
-      {
-        "id": "d7e402d2-0c38-5b7c-1ece-dd7c2750d714",
-        "file_id": "d7e402d2-0c38-5b7c-1ece-dd7c2750d714",
-        "file_name": "Sullivan for Illinois 02.08.22-02.21.22 #332548 Rev 1",
-        "file_extension": "pdf",
-        "file_size": 219876,
-        "file_status": "com_cpy",
-        "folder_id": "5e4eadf4-e6e3-5884-faa8-afa0cebbf9c2",
-        "create_ts": "2022-02-09T23:27:14.864Z",
-        "last_update_ts": "2022-02-09T23:27:10.82Z",
-        "active_ind": "Y",
-        "file_manager_id": "4b831b71-ddb8-420d-8d9e-5cc3cf9230e6",
-        "file_folder_path": "Political Files/2022/State/Sullivan for Illinois NRP",
-        "full_qualified_file_name": "Political Files/2022/State/Sullivan for Illinois NRP/Sullivan for Illinois 02.08.22-02.21.22 #332548 Rev 1",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724330001304649700,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -325,7 +328,7 @@
         "PANAMA CITY": 859,
         "INDIANAPOLIS": 839,
         "GREENVILLE-N.BERN-WASHNGTN": 802,
-        "TULSA": 787,
+        "TULSA": 789,
         "HELENA": 780,
         "TWIN FALLS": 749,
         "AUSTIN": 744,
@@ -350,10 +353,10 @@
       "network_affiliation": {
         "ABC": 57450,
         "NBC": 56267,
-        "CBS": 38356,
+        "CBS": 38357,
         "FOX": 27687,
         "PBS": 14370,
-        "CW": 12050,
+        "CW": 12051,
         "IND": 2989,
         "MYTV": 2224,
         "UNIVISION": 1875,
@@ -420,13 +423,13 @@
         "2019": 14002,
         "2020": 125850,
         "2021": 22509,
-        "2022": 2784,
+        "2022": 2786,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 66170,
-        "US Senate": 49179,
+        "US Senate": 49181,
         "US House": 41511,
         "Presidential": 38890,
         "Local": 23970
@@ -460,14 +463,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235520,
+        "TV": 235522,
         "CABLE": 125081,
         "FM": 111569,
         "AM": 41709,
         "DBS": 5343
       },
       "political_file_type": {
-        "PA": 220724,
+        "PA": 220726,
         "NCIA": 122949
       }
     }
@@ -484,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 220,
-    "responseTime": 220
+    "queryTime": 1775,
+    "processTime": 785,
+    "responseTime": 1785
   }
 }
