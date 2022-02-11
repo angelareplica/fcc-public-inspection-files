@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 519619,
+    "numFound": 519621,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "b030d62e-e63f-66a8-29bc-bb7100fb6958",
+        "file_id": "b030d62e-e63f-66a8-29bc-bb7100fb6958",
+        "file_name": "Don Huffines for Texas Governor Tyler 0226 2.10-3.1",
+        "file_extension": "pdf",
+        "file_size": 57204,
+        "file_status": "com_cpy",
+        "folder_id": "c470e2d1-ff8a-ec92-6a72-b996c6136284",
+        "create_ts": "2022-02-11T13:41:43.578Z",
+        "last_update_ts": "2022-02-11T13:41:45.696Z",
+        "active_ind": "Y",
+        "file_manager_id": "a3ff195a-ab1f-4e82-bf57-ca7a71830b38",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Don Huffines for Texas Governor Tyler 0226 2.10-3.1",
+        "entity_id": "000271",
+        "source_service_code": "CABLE",
+        "legal_name": "SHENANDOAH CABLE TELEVISION, LLC",
+        "operator_city_name": "EDINBURG",
+        "operator_state_name": "VA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1724474357364818000,
+        "score": 0.24995685
+      },
+      {
+        "id": "41308b5d-4f71-fd68-2687-e97040bef8ce",
+        "file_id": "41308b5d-4f71-fd68-2687-e97040bef8ce",
+        "file_name": "Ken Paxton for Texas Attorney General Tyler 0226 2.9-2.28",
+        "file_extension": "pdf",
+        "file_size": 55023,
+        "file_status": "com_cpy",
+        "folder_id": "c470e2d1-ff8a-ec92-6a72-b996c6136284",
+        "create_ts": "2022-02-11T13:41:43.583Z",
+        "last_update_ts": "2022-02-11T13:41:39.07Z",
+        "active_ind": "Y",
+        "file_manager_id": "7bd70ed8-f795-48b9-a9cd-6f7645dc516b",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Ken Paxton for Texas Attorney General Tyler 0226 2.9-2.28",
+        "entity_id": "000271",
+        "source_service_code": "CABLE",
+        "legal_name": "SHENANDOAH CABLE TELEVISION, LLC",
+        "operator_city_name": "EDINBURG",
+        "operator_state_name": "VA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1724474357257863200,
+        "score": 0.24995685
+      },
       {
         "id": "6a00b20e-a0ea-b604-3479-eeca16e8d05d",
         "file_id": "6a00b20e-a0ea-b604-3479-eeca16e8d05d",
@@ -183,56 +231,6 @@
         "campaign_year": "2022",
         "_version_": 1724424880460398600,
         "score": 0.24995685
-      },
-      {
-        "id": "f9a25b0d-e619-cce5-d421-1606e406506a",
-        "file_id": "f9a25b0d-e619-cce5-d421-1606e406506a",
-        "file_name": "Boozman for Arkansas Novar 3645840 Ft Smith RB ATT 0378 9972 2.12_2.25",
-        "file_extension": "pdf",
-        "file_size": 131437,
-        "file_status": "com_cpy",
-        "folder_id": "41e429da-e825-c4d1-97f1-98b151a153c1",
-        "create_ts": "2022-02-11T00:35:18.911Z",
-        "last_update_ts": "2022-02-11T00:35:14.57Z",
-        "active_ind": "Y",
-        "file_manager_id": "84f8cfdd-eaf1-42db-8843-ed0eaa51632b",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Boozman for Arkansas",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Boozman for Arkansas/Boozman for Arkansas Novar 3645840 Ft Smith RB ATT 0378 9972 2.12_2.25",
-        "entity_id": "020585",
-        "source_service_code": "CABLE",
-        "legal_name": "COXCOM, LLC",
-        "operator_city_name": "Atlanta",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1724424880613490700,
-        "score": 0.24995685
-      },
-      {
-        "id": "11d8dcdd-f9c6-78f8-7481-7f59f3edf700",
-        "file_id": "11d8dcdd-f9c6-78f8-7481-7f59f3edf700",
-        "file_name": "Boozman for Arkansas 62962039 Ft Smith RB ATT 0378 9972 2.12_2.25",
-        "file_extension": "pdf",
-        "file_size": 29875,
-        "file_status": "com_cpy",
-        "folder_id": "9edd3133-7c9d-3b6b-4148-7d09b96dee96",
-        "create_ts": "2022-02-11T00:33:49.389Z",
-        "last_update_ts": "2022-02-11T00:33:51.466Z",
-        "active_ind": "Y",
-        "file_manager_id": "ae082f37-0c52-458e-8ac7-9b879c14c38f",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Boozman for Arkansas",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Boozman for Arkansas/Boozman for Arkansas 62962039 Ft Smith RB ATT 0378 9972 2.12_2.25",
-        "entity_id": "010074",
-        "source_service_code": "CABLE",
-        "legal_name": "COXCOM, LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1724424786759647200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -411,7 +409,7 @@
         "2019": 14002,
         "2020": 125850,
         "2021": 22511,
-        "2022": 2904,
+        "2022": 2906,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -452,14 +450,14 @@
       },
       "source_service_code": {
         "TV": 235587,
-        "CABLE": 125370,
+        "CABLE": 125372,
         "FM": 111601,
         "AM": 41716,
         "DBS": 5345
       },
       "political_file_type": {
         "PA": 220812,
-        "NCIA": 122983
+        "NCIA": 122985
       }
     }
   },
@@ -475,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 216,
-    "responseTime": 216
+    "queryTime": 1768,
+    "processTime": 778,
+    "responseTime": 1779
   }
 }
