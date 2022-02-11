@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 519649,
+    "numFound": 519651,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "832bb602-4697-2ad3-20e7-559c719f3dd1",
+        "file_id": "832bb602-4697-2ad3-20e7-559c719f3dd1",
+        "file_name": "JB Pritzker 01.31.22-02.06.22 C5139273",
+        "file_extension": "pdf",
+        "file_size": 423799,
+        "file_status": "com_cpy",
+        "folder_id": "bf686cd4-73c3-c980-f910-f11041d06c0c",
+        "create_ts": "2022-02-11T17:53:41.427Z",
+        "last_update_ts": "2022-02-11T17:53:43.744Z",
+        "active_ind": "Y",
+        "file_manager_id": "cbd2bf61-dc40-4ae3-9657-1d3de6853dde",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/JB Pritzker 01.31.22-02.06.22 C5139273",
+        "entity_id": "56524",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "ST. LOUIS",
+        "callsign": "KDNL-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1724490209770340400,
+        "score": 0.24995685
+      },
+      {
+        "id": "217c7ae8-5fa2-ac85-0595-0576633c72b8",
+        "file_id": "217c7ae8-5fa2-ac85-0595-0576633c72b8",
+        "file_name": "Texans for Greg Abbott 1748616-0211-ORD",
+        "file_extension": "pdf",
+        "file_size": 533962,
+        "file_status": "com_cpy",
+        "folder_id": "7d334767-8595-6387-78d2-af030f5500f7",
+        "create_ts": "2022-02-11T17:47:14.102Z",
+        "last_update_ts": "2022-02-11T17:47:16.482Z",
+        "active_ind": "Y",
+        "file_manager_id": "558d7870-699a-4cdd-bf36-b160916938b8",
+        "file_folder_path": "Political Files/2022/State/Governor/Greg Abbott",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Greg Abbott/Texans for Greg Abbott 1748616-0211-ORD",
+        "entity_id": "82910",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "CORPUS CHRISTI",
+        "callsign": "KSCC",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1724489803715575800,
+        "score": 0.24995685
+      },
       {
         "id": "becc3f65-7d7b-5253-add4-af72445a5aad",
         "file_id": "becc3f65-7d7b-5253-add4-af72445a5aad",
@@ -185,54 +235,6 @@
         "campaign_year": "2022",
         "_version_": 1724485465358205000,
         "score": 0.24995685
-      },
-      {
-        "id": "671fee2d-84ac-974b-dca8-95e2c428255f",
-        "file_id": "671fee2d-84ac-974b-dca8-95e2c428255f",
-        "file_name": "Confirm_2750-004",
-        "file_extension": "pdf",
-        "file_size": 5915,
-        "file_status": "com_cpy",
-        "folder_id": "f69b5d2d-f3f2-c584-5373-c1e7d39e9671",
-        "create_ts": "2022-02-11T16:37:45.252Z",
-        "last_update_ts": "2022-02-11T16:37:47.307Z",
-        "active_ind": "Y",
-        "file_manager_id": "ed03ab03-ca30-4b13-a5df-238f71dd20a6",
-        "file_folder_path": "Political Files/2022/Local/Suzanne Bellsnyder",
-        "full_qualified_file_name": "Political Files/2022/Local/Suzanne Bellsnyder/Confirm_2750-004",
-        "entity_id": "61684",
-        "source_service_code": "FM",
-        "callsign": "KXDJ",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1724485432011391000,
-        "score": 0.24995685
-      },
-      {
-        "id": "b885a2fe-c49e-a1c0-7bbd-4034f83c95f3",
-        "file_id": "b885a2fe-c49e-a1c0-7bbd-4034f83c95f3",
-        "file_name": "White_NAB - Candidate Advertisement Agreement Form _2022 02 10",
-        "file_extension": "pdf",
-        "file_size": 1084893,
-        "file_status": "com_cpy",
-        "folder_id": "e571d0ac-b205-e3d5-5d8c-877fe2315158",
-        "create_ts": "2022-02-11T16:27:15.042Z",
-        "last_update_ts": "2022-02-11T16:27:17.579Z",
-        "active_ind": "Y",
-        "file_manager_id": "4336a283-0d76-4e61-899d-ff724bcc2a8e",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/White_NAB - Candidate Advertisement Agreement Form _2022 02 10",
-        "entity_id": "10213",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "HARRISBURG-LNCSTR-LEB-YORK",
-        "callsign": "WPMT",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724484771692675000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -305,7 +307,7 @@
         "NEW YORK": 1073,
         "DENVER": 1064,
         "ORLANDO-DAYTONA BCH-MELBRN": 1038,
-        "ST. LOUIS": 1016,
+        "ST. LOUIS": 1017,
         "LITTLE ROCK-PINE BLUFF": 1007,
         "COLUMBUS OH": 1002,
         "JACKSON MS": 987,
@@ -339,10 +341,10 @@
         "HOUSTON": 528
       },
       "network_affiliation": {
-        "ABC": 57473,
+        "ABC": 57474,
         "NBC": 56285,
         "CBS": 38365,
-        "FOX": 27692,
+        "FOX": 27693,
         "PBS": 14378,
         "CW": 12056,
         "IND": 2989,
@@ -411,12 +413,12 @@
         "2019": 14002,
         "2020": 125850,
         "2021": 22512,
-        "2022": 2932,
+        "2022": 2934,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66212,
+        "State": 66214,
         "US Senate": 49207,
         "US House": 41514,
         "Presidential": 38890,
@@ -451,14 +453,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235594,
+        "TV": 235596,
         "CABLE": 125383,
         "FM": 111605,
         "AM": 41722,
         "DBS": 5345
       },
       "political_file_type": {
-        "PA": 220821,
+        "PA": 220823,
         "NCIA": 123003
       }
     }
@@ -475,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1777,
-    "processTime": 787,
-    "responseTime": 1787
+    "queryTime": 1782,
+    "processTime": 789,
+    "responseTime": 1790
   }
 }
