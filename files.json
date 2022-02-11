@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 519739,
+    "numFound": 519740,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "deb80346-cb54-0ffa-74ec-ecadf9a4cb42",
+        "file_id": "deb80346-cb54-0ffa-74ec-ecadf9a4cb42",
+        "file_name": "JAY KLEBERG FOR TX LC 02-15-22 to 02-21-22  est. #10392 order #1252178_Station Contract_KXAS REV 1",
+        "file_extension": "pdf",
+        "file_size": 332868,
+        "file_status": "com_cpy",
+        "folder_id": "709f13a7-31c5-041e-a14e-44bc94163573",
+        "create_ts": "2022-02-11T23:38:58.058Z",
+        "last_update_ts": "2022-02-11T23:39:00.36Z",
+        "active_ind": "Y",
+        "file_manager_id": "8f1ff699-60e0-4f28-ad7a-8f026aee353d",
+        "file_folder_path": "Political Files/2022/State/Texas Land Commissioner/Klebberg Jay",
+        "full_qualified_file_name": "Political Files/2022/State/Texas Land Commissioner/Klebberg Jay/JAY KLEBERG FOR TX LC 02-15-22 to 02-21-22  est. #10392 order #1252178_Station Contract_KXAS REV 1",
+        "entity_id": "49330",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "DALLAS-FT. WORTH",
+        "callsign": "KXAS-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1724511932721922000,
+        "score": 0.24995685
+      },
       {
         "id": "34824d06-56f2-e595-4be2-a759088c2fa4",
         "file_id": "34824d06-56f2-e595-4be2-a759088c2fa4",
@@ -209,30 +234,6 @@
         "campaign_year": "2022",
         "_version_": 1724507569687363600,
         "score": 0.24995685
-      },
-      {
-        "id": "d24b679d-656c-7b39-51b4-047d6ab57219",
-        "file_id": "d24b679d-656c-7b39-51b4-047d6ab57219",
-        "file_name": "Honor Pennsylvania 0308-0314 2414339--1",
-        "file_extension": "pdf",
-        "file_size": 233752,
-        "file_status": "com_cpy",
-        "folder_id": "944210d2-a2f9-24c2-0f5a-0aa4b1c42b75",
-        "create_ts": "2022-02-11T22:28:32.372Z",
-        "last_update_ts": "2022-02-11T22:29:01.606Z",
-        "active_ind": "Y",
-        "file_manager_id": "8edb2c0b-0b70-4dcf-91dc-2d60194f1a8d",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Honor Pennsylvania Inc",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Honor Pennsylvania Inc/Honor Pennsylvania 0308-0314 2414339--1",
-        "entity_id": "73318",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WNEP-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1724507501685112800,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -320,7 +321,7 @@
         "HELENA": 780,
         "TWIN FALLS": 749,
         "AUSTIN": 745,
-        "DALLAS-FT. WORTH": 737,
+        "DALLAS-FT. WORTH": 738,
         "DAYTON": 732,
         "FLINT-SAGINAW-BAY CITY": 731,
         "COLORADO SPRINGS-PUEBLO": 724,
@@ -340,7 +341,7 @@
       },
       "network_affiliation": {
         "ABC": 57485,
-        "NBC": 56297,
+        "NBC": 56298,
         "CBS": 38385,
         "FOX": 27701,
         "PBS": 14378,
@@ -411,12 +412,12 @@
         "2019": 14001,
         "2020": 125850,
         "2021": 22512,
-        "2022": 3026,
+        "2022": 3027,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66237,
+        "State": 66238,
         "US Senate": 49239,
         "US House": 41515,
         "Presidential": 38890,
@@ -451,14 +452,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235651,
+        "TV": 235652,
         "CABLE": 125384,
         "FM": 111616,
         "AM": 41743,
         "DBS": 5345
       },
       "political_file_type": {
-        "PA": 220885,
+        "PA": 220886,
         "NCIA": 123032
       }
     }
@@ -475,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1775,
-    "processTime": 781,
-    "responseTime": 1782
+    "queryTime": 210,
+    "processTime": 219,
+    "responseTime": 219
   }
 }
