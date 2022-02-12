@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 519758,
+    "numFound": 519759,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "564afc16-7ebd-240e-93c0-96bcc65aa321",
+        "file_id": "564afc16-7ebd-240e-93c0-96bcc65aa321",
+        "file_name": "Lincoln Project 2418764 PB19 (TLP211OLYMPICTVH) 021122",
+        "file_extension": "pdf",
+        "file_size": 547254,
+        "file_status": "com_cpy",
+        "folder_id": "54adb742-d90c-9d42-5872-c098c15a5cd9",
+        "create_ts": "2022-02-12T14:26:13.241Z",
+        "last_update_ts": "2022-02-12T14:26:08.756Z",
+        "active_ind": "Y",
+        "file_manager_id": "c1cc5d28-88d1-4517-8b3e-af02721d694f",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Lincoln Project",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Lincoln Project/Lincoln Project 2418764 PB19 (TLP211OLYMPICTVH) 021122",
+        "entity_id": "39736",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "WEST PALM BEACH-FT. PIERCE",
+        "callsign": "WFLX",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1724567753842491400,
+        "score": 0.24995685
+      },
       {
         "id": "58420e02-cfa2-8503-5316-477912569491",
         "file_id": "58420e02-cfa2-8503-5316-477912569491",
@@ -226,31 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1724514051304718300,
         "score": 0.24995685
-      },
-      {
-        "id": "057791e4-d54e-f9fe-4271-b016aa198245",
-        "file_id": "057791e4-d54e-f9fe-4271-b016aa198245",
-        "file_name": "TIM O'HARE FOR TARRANT COUNTY JUDGE 02-14-22 to 02-20-22  est. #2876 order #1252114_Station Contract_KXAS",
-        "file_extension": "pdf",
-        "file_size": 245280,
-        "file_status": "com_cpy",
-        "folder_id": "c0763f36-238d-de11-c819-95d61ade5084",
-        "create_ts": "2022-02-12T00:11:46.477Z",
-        "last_update_ts": "2022-02-12T00:12:16.028Z",
-        "active_ind": "Y",
-        "file_manager_id": "ed002688-cce5-4ab5-bd73-49c31fa2349a",
-        "file_folder_path": "Political Files/2022/Local/TARRANT COUNTY JUDGE/OHare Tim",
-        "full_qualified_file_name": "Political Files/2022/Local/TARRANT COUNTY JUDGE/OHare Tim/TIM O'HARE FOR TARRANT COUNTY JUDGE 02-14-22 to 02-20-22  est. #2876 order #1252114_Station Contract_KXAS",
-        "entity_id": "49330",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "DALLAS-FT. WORTH",
-        "callsign": "KXAS-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1724513996795543600,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -259,7 +258,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7039,
         "WILKES BARRE-SCRANTON": 6994,
         "LAS VEGAS": 6019,
-        "WEST PALM BEACH-FT. PIERCE": 5811,
+        "WEST PALM BEACH-FT. PIERCE": 5812,
         "PITTSBURGH": 5464,
         "HONOLULU": 5216,
         "DULUTH-SUPERIOR": 4654,
@@ -360,7 +359,7 @@
         "ABC": 57485,
         "NBC": 56305,
         "CBS": 38388,
-        "FOX": 27704,
+        "FOX": 27705,
         "PBS": 14378,
         "CW": 12058,
         "IND": 2989,
@@ -429,7 +428,7 @@
         "2019": 14001,
         "2020": 125850,
         "2021": 22512,
-        "2022": 3045,
+        "2022": 3046,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -469,7 +468,7 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235665,
+        "TV": 235666,
         "CABLE": 125384,
         "FM": 111618,
         "AM": 41743,
@@ -477,7 +476,7 @@
       },
       "political_file_type": {
         "PA": 220902,
-        "NCIA": 123034
+        "NCIA": 123035
       }
     }
   },
@@ -493,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 212,
-    "processTime": 220,
-    "responseTime": 221
+    "queryTime": 213,
+    "processTime": 223,
+    "responseTime": 224
   }
 }
