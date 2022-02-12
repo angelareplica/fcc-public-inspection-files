@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 519763,
+    "numFound": 519765,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "6962002a-a789-43ea-5d7e-d88fb79531dd",
+        "file_id": "6962002a-a789-43ea-5d7e-d88fb79531dd",
+        "file_name": "WBCF MFS #s 3193590 3193591 3193592  Est #s 3459 3460 3461 Durant For Senate 021622-030822 OPIF",
+        "file_extension": "pdf",
+        "file_size": 2380961,
+        "file_status": "com_cpy",
+        "folder_id": "3e620530-984c-2615-738c-cf86c273783e",
+        "create_ts": "2022-02-12T16:52:29.227Z",
+        "last_update_ts": "2022-02-12T16:52:31.898Z",
+        "active_ind": "Y",
+        "file_manager_id": "8f810fae-0cd2-45d6-8de2-5b6fd811a960",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/WBCF MFS #s 3193590 3193591 3193592  Est #s 3459 3460 3461 Durant For Senate 021622-030822 OPIF",
+        "entity_id": "4769",
+        "source_service_code": "AM",
+        "callsign": "WBCF",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1724576956547072000,
+        "score": 0.24995685
+      },
+      {
+        "id": "bb4bcfb0-b253-191d-eaa1-31c7d18ab59b",
+        "file_id": "bb4bcfb0-b253-191d-eaa1-31c7d18ab59b",
+        "file_name": "WBCF MFS #s 3193590 3193591 3193592  Est #s 3459 3460 3461 Durant For Senate 021622-030822 OPIF",
+        "file_extension": "pdf",
+        "file_size": 2385662,
+        "file_status": "com_cpy",
+        "folder_id": "3e620530-984c-2615-738c-cf86c273783e",
+        "create_ts": "2022-02-12T16:34:03.329Z",
+        "last_update_ts": "2022-02-12T16:34:35.48Z",
+        "active_ind": "Y",
+        "file_manager_id": "823d71c2-6346-490c-ab05-bf15e4ffd236",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/WBCF MFS #s 3193590 3193591 3193592  Est #s 3459 3460 3461 Durant For Senate 021622-030822 OPIF",
+        "entity_id": "4769",
+        "source_service_code": "AM",
+        "callsign": "WBCF",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1724575797275000800,
+        "score": 0.24995685
+      },
       {
         "id": "9b0cd49b-49f0-f479-c39c-e0d6819f5466",
         "file_id": "9b0cd49b-49f0-f479-c39c-e0d6819f5466",
@@ -186,56 +232,6 @@
         "campaign_year": "2022",
         "_version_": 1724523263016566800,
         "score": 0.24995685
-      },
-      {
-        "id": "cd0a4614-c2f6-388a-aca0-90ba98a26bc6",
-        "file_id": "cd0a4614-c2f6-388a-aca0-90ba98a26bc6",
-        "file_name": "Vicky Cayetano for Gov 2.3-2.20 KHII 3401483B-0",
-        "file_extension": "pdf",
-        "file_size": 27453,
-        "file_status": "com_cpy",
-        "folder_id": "c9828959-3db5-cb75-1832-67d268bb2b2d",
-        "create_ts": "2022-02-12T02:37:54.723Z",
-        "last_update_ts": "2022-02-12T02:37:50.166Z",
-        "active_ind": "Y",
-        "file_manager_id": "9e6cbfc6-3091-425e-baad-52e50271b7b0",
-        "file_folder_path": "Political Files/2022/Local/Governor/Vicky Cayetano",
-        "full_qualified_file_name": "Political Files/2022/Local/Governor/Vicky Cayetano/Vicky Cayetano for Gov 2.3-2.20 KHII 3401483B-0",
-        "entity_id": "36920",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "HONOLULU",
-        "callsign": "KGMV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1724523190716203000,
-        "score": 0.24995685
-      },
-      {
-        "id": "d7103515-03f7-2869-f993-4f29eb31d591",
-        "file_id": "d7103515-03f7-2869-f993-4f29eb31d591",
-        "file_name": "Vicky Cayetano for Gov 2.3-2.20 KHII 3401483B-0",
-        "file_extension": "pdf",
-        "file_size": 27453,
-        "file_status": "com_cpy",
-        "folder_id": "b7162b52-cca3-5685-35dd-4ef2693f46c4",
-        "create_ts": "2022-02-12T02:36:40.673Z",
-        "last_update_ts": "2022-02-12T02:36:42.751Z",
-        "active_ind": "Y",
-        "file_manager_id": "c03ccf9f-ab75-4234-b1a4-4563fb169af1",
-        "file_folder_path": "Political Files/2022/Local/Governer/Vicky Cayetano",
-        "full_qualified_file_name": "Political Files/2022/Local/Governer/Vicky Cayetano/Vicky Cayetano for Gov 2.3-2.20 KHII 3401483B-0",
-        "entity_id": "36917",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "HONOLULU",
-        "callsign": "KHII-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1724523113061810200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -414,13 +410,13 @@
         "2019": 14001,
         "2020": 125850,
         "2021": 22512,
-        "2022": 3049,
+        "2022": 3051,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 66242,
-        "US Senate": 49241,
+        "US Senate": 49243,
         "US House": 41515,
         "Presidential": 38890,
         "Local": 24007
@@ -457,11 +453,11 @@
         "TV": 235666,
         "CABLE": 125384,
         "FM": 111619,
-        "AM": 41746,
+        "AM": 41748,
         "DBS": 5348
       },
       "political_file_type": {
-        "PA": 220902,
+        "PA": 220904,
         "NCIA": 123038
       }
     }
@@ -478,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 217,
-    "responseTime": 217
+    "queryTime": 1771,
+    "processTime": 778,
+    "responseTime": 1778
   }
 }
