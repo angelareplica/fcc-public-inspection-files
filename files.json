@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 519750,
+    "numFound": 519751,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "34d633d7-332c-02c2-b00a-34b152668c0d",
+        "file_id": "34d633d7-332c-02c2-b00a-34b152668c0d",
+        "file_name": "EST-000580",
+        "file_extension": "pdf",
+        "file_size": 66303,
+        "file_status": "com_cpy",
+        "folder_id": "fe74078c-45d1-0619-b3fb-f395573b8e41",
+        "create_ts": "2022-02-12T01:40:45.375Z",
+        "last_update_ts": "2022-02-12T01:41:15.69Z",
+        "active_ind": "Y",
+        "file_manager_id": "3a8fd4c6-2018-48d1-bda8-2e0989b02f5b",
+        "file_folder_path": "Political Files/2022/Local/Dan Barrone Town Mayor",
+        "full_qualified_file_name": "Political Files/2022/Local/Dan Barrone Town Mayor/EST-000580",
+        "entity_id": "183377",
+        "source_service_code": "FM",
+        "callsign": "KNCE",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1724519595671289900,
+        "score": 0.24995685
+      },
       {
         "id": "824cccd4-b4e2-3dc9-4cdf-f1b279083f3e",
         "file_id": "824cccd4-b4e2-3dc9-4cdf-f1b279083f3e",
@@ -217,29 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1724513287607943200,
         "score": 0.24995685
-      },
-      {
-        "id": "58ee2b6f-2b6d-9a0e-38ab-6a99be37ec99",
-        "file_id": "58ee2b6f-2b6d-9a0e-38ab-6a99be37ec99",
-        "file_name": "Boozman for Arkansas 02.11.2022",
-        "file_extension": "pdf",
-        "file_size": 2996461,
-        "file_status": "com_cpy",
-        "folder_id": "01df34ec-7d1e-0a5b-c5b9-c9b26e0721e2",
-        "create_ts": "2022-02-11T23:49:20.085Z",
-        "last_update_ts": "2022-02-11T23:49:50.459Z",
-        "active_ind": "Y",
-        "file_manager_id": "545110e3-992a-4534-8bf8-8cb206d56607",
-        "file_folder_path": "Political Files/2022/Federal/US Senate",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Boozman for Arkansas 02.11.2022",
-        "entity_id": "81678",
-        "source_service_code": "FM",
-        "callsign": "KOTN",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1724512585897738200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -418,7 +418,7 @@
         "2019": 14001,
         "2020": 125850,
         "2021": 22512,
-        "2022": 3037,
+        "2022": 3038,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -427,7 +427,7 @@
         "US Senate": 49241,
         "US House": 41515,
         "Presidential": 38890,
-        "Local": 24000
+        "Local": 24001
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61584,
@@ -460,12 +460,12 @@
       "source_service_code": {
         "TV": 235658,
         "CABLE": 125384,
-        "FM": 111617,
+        "FM": 111618,
         "AM": 41743,
         "DBS": 5348
       },
       "political_file_type": {
-        "PA": 220894,
+        "PA": 220895,
         "NCIA": 123034
       }
     }
@@ -482,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 218,
-    "processTime": 230,
-    "responseTime": 230
+    "queryTime": 216,
+    "processTime": 225,
+    "responseTime": 225
   }
 }
