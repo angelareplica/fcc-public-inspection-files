@@ -494,7 +494,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 65,
-    "processTime": 76,
-    "responseTime": 77
+    "processTime": 74,
+    "responseTime": 74
   }
 }
