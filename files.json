@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 519767,
+    "numFound": 519768,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "21c288e7-f4e0-8105-2485-4332a39d52ce",
+        "file_id": "21c288e7-f4e0-8105-2485-4332a39d52ce",
+        "file_name": "022563 CUID Listing",
+        "file_extension": "pdf",
+        "file_size": 43787,
+        "file_status": "com_cpy",
+        "folder_id": "dde07fc9-182b-a1ce-1692-a35ba6fa11c7",
+        "create_ts": "2022-02-13T19:28:22.003Z",
+        "last_update_ts": "2022-02-13T19:28:56.425Z",
+        "active_ind": "Y",
+        "file_manager_id": "58bf790a-af0d-4060-b5c4-d02dcee8ceaa",
+        "file_folder_path": "State and Local Franchising Related Materials",
+        "full_qualified_file_name": "State and Local Franchising Related Materials/022563 CUID Listing",
+        "entity_id": "022563",
+        "source_service_code": "CABLE",
+        "legal_name": "CO-MO COMM, INC.",
+        "operator_city_name": "Tipton",
+        "operator_state_name": "MO",
+        "non_political_file_folder": "State and Local Franchising Related Materials",
+        "_version_": 1724677360035299300,
+        "score": 0.24995685
+      },
       {
         "id": "47550fdd-4622-95e4-be55-bc62f0380268",
         "file_id": "47550fdd-4622-95e4-be55-bc62f0380268",
@@ -205,27 +228,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2022",
         "_version_": 1724574210514223000,
-        "score": 0.24995685
-      },
-      {
-        "id": "a69c7eec-a2f1-9952-392b-b30934c3cead",
-        "file_id": "a69c7eec-a2f1-9952-392b-b30934c3cead",
-        "file_name": "InfoTrak Show #2022-07 Aired 2-13-22",
-        "file_extension": "pdf",
-        "file_size": 159038,
-        "file_status": "com_cpy",
-        "folder_id": "5cf305b1-68b5-97a4-5c65-fcd249afdc76",
-        "create_ts": "2022-02-12T15:44:49.849Z",
-        "last_update_ts": "2022-02-12T15:44:45.267Z",
-        "active_ind": "Y",
-        "file_manager_id": "099b39b4-74a6-4359-a6e2-13471f4f734c",
-        "file_folder_path": "Issues and Programs Lists/2022",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/InfoTrak Show #2022-07 Aired 2-13-22",
-        "entity_id": "47103",
-        "source_service_code": "FM",
-        "callsign": "WKKY",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1724572699469021200,
         "score": 0.24995685
       }
     ],
@@ -431,7 +433,7 @@
         "Ownership Reports": 1109,
         "Class A TV Continuing Eligibility": 646,
         "Political Matters and Controversial Issues Disclosures": 595,
-        "State and Local Franchising Related Materials": 483,
+        "State and Local Franchising Related Materials": 484,
         "Time Brokerage Agreements": 405,
         "Channels Delivered": 275,
         "Compatibility with Consumer Electronics Equipment": 148,
@@ -446,7 +448,7 @@
       },
       "source_service_code": {
         "TV": 235666,
-        "CABLE": 125383,
+        "CABLE": 125384,
         "FM": 111620,
         "AM": 41750,
         "DBS": 5348
@@ -469,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1775,
-    "processTime": 786,
-    "responseTime": 1787
+    "queryTime": 208,
+    "processTime": 218,
+    "responseTime": 218
   }
 }
