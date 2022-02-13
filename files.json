@@ -469,7 +469,7 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 66,
+    "queryTime": 64,
     "processTime": 76,
     "responseTime": 76
   }
