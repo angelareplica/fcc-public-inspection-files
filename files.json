@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 519768,
+    "numFound": 519767,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
@@ -417,7 +417,7 @@
         "Local": 24007
       },
       "non_political_file_folder": {
-        "Records Concerning Commercial Limits in Childrens Programs": 61584,
+        "Records Concerning Commercial Limits in Childrens Programs": 61583,
         "Issues and Programs Lists": 44902,
         "Equal Employment Opportunity Records": 37127,
         "Donor Lists - Applicable Only for NCEs": 11546,
@@ -446,7 +446,7 @@
       },
       "source_service_code": {
         "TV": 235666,
-        "CABLE": 125384,
+        "CABLE": 125383,
         "FM": 111620,
         "AM": 41750,
         "DBS": 5348
@@ -469,8 +469,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1769,
-    "processTime": 785,
-    "responseTime": 1786
+    "queryTime": 210,
+    "processTime": 220,
+    "responseTime": 221
   }
 }
