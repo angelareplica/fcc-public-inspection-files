@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 519799,
+    "numFound": 519801,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "7fe6e380-b7c6-3d12-7aac-8fc38c740bf1",
+        "file_id": "7fe6e380-b7c6-3d12-7aac-8fc38c740bf1",
+        "file_name": "Larry Payne 02-07-22",
+        "file_extension": "pdf",
+        "file_size": 431015,
+        "file_status": "com_cpy",
+        "folder_id": "ee8f0385-27ab-b4d3-c730-1982fe16f540",
+        "create_ts": "2022-02-14T17:41:00.911Z",
+        "last_update_ts": "2022-02-14T17:41:03.267Z",
+        "active_ind": "Y",
+        "file_manager_id": "57a840f9-c6c7-4f7d-b48a-9d0ad7b64b46",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Larry Payne 02-07-22",
+        "entity_id": "43740",
+        "source_service_code": "AM",
+        "callsign": "WHIP",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1724761203192889300,
+        "score": 0.24995685
+      },
+      {
+        "id": "db1dfc06-4dd4-0068-b6f0-ed9c1a99c49e",
+        "file_id": "db1dfc06-4dd4-0068-b6f0-ed9c1a99c49e",
+        "file_name": "Cisneros NAB_ORD22-000647_20220213_00001",
+        "file_extension": "pdf",
+        "file_size": 148039,
+        "file_status": "com_cpy",
+        "folder_id": "cb80046a-8b93-c833-bb6c-efad003d899e",
+        "create_ts": "2022-02-14T17:32:05.166Z",
+        "last_update_ts": "2022-02-14T17:32:00.229Z",
+        "active_ind": "Y",
+        "file_manager_id": "0e841453-8741-4b36-8ba8-a2d2988e4d5c",
+        "file_folder_path": "Political Files/2022/Federal/US House/Cisneros",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Cisneros/Cisneros NAB_ORD22-000647_20220213_00001",
+        "entity_id": "10061",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "LAREDO",
+        "callsign": "KGNS-TV",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1724760641356431400,
+        "score": 0.24995685
+      },
       {
         "id": "80070bdf-d56a-b14a-5b99-7b742056c857",
         "file_id": "80070bdf-d56a-b14a-5b99-7b742056c857",
@@ -191,56 +239,6 @@
         "campaign_year": "2022",
         "_version_": 1724756759861526500,
         "score": 0.24995685
-      },
-      {
-        "id": "9f4b8399-9f4d-8a6f-c713-c2e7ba17c8d4",
-        "file_id": "9f4b8399-9f4d-8a6f-c713-c2e7ba17c8d4",
-        "file_name": "Mike Flood for Congress-R NE Dist1 Est2868 KPTM #1749027 Order 021422 to 022022",
-        "file_extension": "pdf",
-        "file_size": 36820,
-        "file_status": "com_cpy",
-        "folder_id": "e715d083-ca4a-95cd-675c-04abfc0f03c2",
-        "create_ts": "2022-02-14T16:30:18.1Z",
-        "last_update_ts": "2022-02-14T16:30:20.375Z",
-        "active_ind": "Y",
-        "file_manager_id": "8f6ed312-67a4-4885-b720-d3f39fc3d3fe",
-        "file_folder_path": "Political Files/2022/Federal/US House/Mike Flood for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Mike Flood for Congress/Mike Flood for Congress-R NE Dist1 Est2868 KPTM #1749027 Order 021422 to 022022",
-        "entity_id": "51491",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "OMAHA",
-        "callsign": "KPTM",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1724756754198167600,
-        "score": 0.24995685
-      },
-      {
-        "id": "c4a5e3bb-ef4f-4786-ef8d-1eb8ba9d4730",
-        "file_id": "c4a5e3bb-ef4f-4786-ef8d-1eb8ba9d4730",
-        "file_name": "Jim Pillen Gov Est2881 KPTM #1749139 Order NAB 2 021322 to 021322",
-        "file_extension": "pdf",
-        "file_size": 2881089,
-        "file_status": "com_cpy",
-        "folder_id": "af723c62-8a0a-36a3-a3a0-3400f7fa88e0",
-        "create_ts": "2022-02-14T16:29:06.825Z",
-        "last_update_ts": "2022-02-14T16:29:45.336Z",
-        "active_ind": "Y",
-        "file_manager_id": "63a81a24-ef50-48e4-83f8-eb5b33a112fc",
-        "file_folder_path": "Political Files/2022/Local/Jim Pillen Governor",
-        "full_qualified_file_name": "Political Files/2022/Local/Jim Pillen Governor/Jim Pillen Gov Est2881 KPTM #1749139 Order NAB 2 021322 to 021322",
-        "entity_id": "51491",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "OMAHA",
-        "callsign": "KPTM",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1724756681023291400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -348,7 +346,7 @@
       },
       "network_affiliation": {
         "ABC": 57488,
-        "NBC": 56306,
+        "NBC": 56307,
         "CBS": 38389,
         "FOX": 27713,
         "PBS": 14378,
@@ -419,16 +417,16 @@
         "2019": 14001,
         "2020": 125850,
         "2021": 22513,
-        "2022": 3080,
+        "2022": 3082,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 66247,
         "US Senate": 49252,
-        "US House": 41519,
+        "US House": 41520,
         "Presidential": 38890,
-        "Local": 24012
+        "Local": 24013
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61583,
@@ -459,14 +457,14 @@
         "Leased Access": 14
       },
       "source_service_code": {
-        "TV": 235682,
+        "TV": 235683,
         "CABLE": 125386,
         "FM": 111628,
-        "AM": 41755,
+        "AM": 41756,
         "DBS": 5348
       },
       "political_file_type": {
-        "PA": 220927,
+        "PA": 220929,
         "NCIA": 123045
       }
     }
@@ -483,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1774,
-    "processTime": 784,
-    "responseTime": 1785
+    "queryTime": 1776,
+    "processTime": 785,
+    "responseTime": 1786
   }
 }
