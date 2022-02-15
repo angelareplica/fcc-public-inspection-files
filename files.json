@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 519974,
+    "numFound": 519975,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "64c1e49e-7a21-697e-d30c-61ead66b32aa",
+        "file_id": "64c1e49e-7a21-697e-d30c-61ead66b32aa",
+        "file_name": "2022-02-08 - Comunicado Prensa Med Centro - Pruebaton COVID-19  entrega de kits gratis por servicarro en Ponce final",
+        "file_extension": "pdf",
+        "file_size": 125702,
+        "file_status": "com_cpy",
+        "folder_id": "9837c7d5-bf43-038b-430c-20067ff7142d",
+        "create_ts": "2022-02-15T08:52:44.981Z",
+        "last_update_ts": "2022-02-15T08:53:23.889Z",
+        "active_ind": "Y",
+        "file_manager_id": "12142014-7369-486e-92e5-9e510fca88f7",
+        "file_folder_path": "FCC Authorizations/Additional Documents/PSA 2022",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/PSA 2022/2022-02-08 - Comunicado Prensa Med Centro - Pruebaton COVID-19  entrega de kits gratis por servicarro en Ponce final",
+        "entity_id": "54483",
+        "source_service_code": "AM",
+        "callsign": "WOIZ",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1724818564422041600,
+        "score": 0.24995685
+      },
       {
         "id": "76f013d6-807e-1869-7553-aa78ac04f64a",
         "file_id": "76f013d6-807e-1869-7553-aa78ac04f64a",
@@ -218,31 +239,6 @@
         "campaign_year": "2022",
         "_version_": 1724785309414064000,
         "score": 0.24995685
-      },
-      {
-        "id": "a7713d17-51b5-c20a-7c01-a5930e1c9f6a",
-        "file_id": "a7713d17-51b5-c20a-7c01-a5930e1c9f6a",
-        "file_name": "TEXANS FOR GREG ABBOTT 01-17-22 TO 02-1-22 est. #6166 order #1247394_Final Station Contract_KXAS",
-        "file_extension": "pdf",
-        "file_size": 484290,
-        "file_status": "com_cpy",
-        "folder_id": "9e0416d0-aea6-f8b5-a936-556dc3b91536",
-        "create_ts": "2022-02-15T00:04:10.755Z",
-        "last_update_ts": "2022-02-15T00:04:05.859Z",
-        "active_ind": "Y",
-        "file_manager_id": "9042783c-aba8-4d79-b471-96de39bb3441",
-        "file_folder_path": "Political Files/2022/State/Abbott Greg",
-        "full_qualified_file_name": "Political Files/2022/State/Abbott Greg/TEXANS FOR GREG ABBOTT 01-17-22 TO 02-1-22 est. #6166 order #1247394_Final Station Contract_KXAS",
-        "entity_id": "49330",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "DALLAS-FT. WORTH",
-        "callsign": "KXAS-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724785309823008800,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -437,7 +433,7 @@
         "Issues and Programs Lists": 44902,
         "Equal Employment Opportunity Records": 37127,
         "Donor Lists - Applicable Only for NCEs": 11546,
-        "FCC Authorizations": 7274,
+        "FCC Authorizations": 7275,
         "Availability of Signals": 1865,
         "Local Public Notice Announcements": 1766,
         "Applications and Related Materials": 1672,
@@ -465,7 +461,7 @@
         "TV": 235763,
         "CABLE": 125422,
         "FM": 111658,
-        "AM": 41780,
+        "AM": 41781,
         "DBS": 5351
       },
       "political_file_type": {
@@ -486,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 66,
-    "processTime": 77,
-    "responseTime": 77
+    "queryTime": 208,
+    "processTime": 229,
+    "responseTime": 229
   }
 }
