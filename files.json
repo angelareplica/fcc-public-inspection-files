@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 520202,
+    "numFound": 520203,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "387df441-4d34-d613-ddb3-8a91496c2434",
+        "file_id": "387df441-4d34-d613-ddb3-8a91496c2434",
+        "file_name": "AJ Louderback for Congress Record of Request 021622",
+        "file_extension": "pdf",
+        "file_size": 143908,
+        "file_status": "com_cpy",
+        "folder_id": "3c2f233e-6c24-5162-f6a8-1845f20a1f15",
+        "create_ts": "2022-02-16T18:56:36.385Z",
+        "last_update_ts": "2022-02-16T18:56:38.798Z",
+        "active_ind": "Y",
+        "file_manager_id": "e695896e-d527-4055-b75b-987f85347983",
+        "file_folder_path": "Political Files/2022/Federal/US House/US Congress Dist 27",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/US Congress Dist 27/AJ Louderback for Congress Record of Request 021622",
+        "entity_id": "5393",
+        "source_service_code": "FM",
+        "callsign": "KAJE",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1724947152915923000,
+        "score": 0.24995685
+      },
       {
         "id": "386d94a3-7c65-6ae4-debd-7a9c6a7f2dec",
         "file_id": "386d94a3-7c65-6ae4-debd-7a9c6a7f2dec",
@@ -219,29 +242,6 @@
         "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
         "_version_": 1724944340962246700,
         "score": 0.24995685
-      },
-      {
-        "id": "69b8dec8-2606-5973-c36c-041c5d74bffe",
-        "file_id": "69b8dec8-2606-5973-c36c-041c5d74bffe",
-        "file_name": "Bally Sports CALM-Act-Cert-FS-Southwest-2687-0",
-        "file_extension": "pdf",
-        "file_size": 114326,
-        "file_status": "com_cpy",
-        "folder_id": "19a1194d-ce03-ca88-3358-fbdaa964331c",
-        "create_ts": "2022-02-16T18:11:54.729Z",
-        "last_update_ts": "2022-02-16T18:11:56.866Z",
-        "active_ind": "Y",
-        "file_manager_id": "72b22757-958b-4e3b-b130-3fe6acd39ac1",
-        "file_folder_path": "Records Concerning Commercial Limits in Childrens Programs/2021/Q4 and 2021 Annual-All Certs",
-        "full_qualified_file_name": "Records Concerning Commercial Limits in Childrens Programs/2021/Q4 and 2021 Annual-All Certs/Bally Sports CALM-Act-Cert-FS-Southwest-2687-0",
-        "entity_id": "006597",
-        "source_service_code": "CABLE",
-        "legal_name": "VYVE BROADBAND A, LLC",
-        "operator_city_name": "RYE BROOK",
-        "operator_state_name": "NY",
-        "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
-        "_version_": 1724944340731560000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -420,14 +420,14 @@
         "2019": 13992,
         "2020": 125783,
         "2021": 22515,
-        "2022": 3541,
+        "2022": 3542,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 66416,
         "US Senate": 49326,
-        "US House": 41531,
+        "US House": 41532,
         "Presidential": 38843,
         "Local": 24020
       },
@@ -463,12 +463,12 @@
       "source_service_code": {
         "TV": 235817,
         "CABLE": 125504,
-        "FM": 111717,
+        "FM": 111718,
         "AM": 41812,
         "DBS": 5352
       },
       "political_file_type": {
-        "PA": 221174,
+        "PA": 221175,
         "NCIA": 123185
       }
     }
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1807,
-    "processTime": 817,
-    "responseTime": 1818
+    "queryTime": 221,
+    "processTime": 232,
+    "responseTime": 233
   }
 }
