@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 520143,
+    "numFound": 520144,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "34713183-d41c-8b59-d053-b1f47356bf6c",
+        "file_id": "34713183-d41c-8b59-d053-b1f47356bf6c",
+        "file_name": "George P Bush for TX AG 616929 est 2101supplemental form  02.16 - 02.22.22rev",
+        "file_extension": "pdf",
+        "file_size": 33918,
+        "file_status": "com_cpy",
+        "folder_id": "b1a83ed6-acdf-620e-e899-0dafa2451ac3",
+        "create_ts": "2022-02-16T01:44:55.258Z",
+        "last_update_ts": "2022-02-16T01:44:57.348Z",
+        "active_ind": "Y",
+        "file_manager_id": "12af4741-c174-4488-9a50-182e94641385",
+        "file_folder_path": "Political Files/2022/State/TX State Attorney General/George P Bush for TX State Attorney General R/Forms",
+        "full_qualified_file_name": "Political Files/2022/State/TX State Attorney General/George P Bush for TX State Attorney General R/Forms/George P Bush for TX AG 616929 est 2101supplemental form  02.16 - 02.22.22rev",
+        "entity_id": "53117",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HOUSTON",
+        "callsign": "KPRC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1724882244562059300,
+        "score": 0.24995685
+      },
       {
         "id": "4660fc41-1819-e44c-e17a-1b4ba0ebb7e4",
         "file_id": "4660fc41-1819-e44c-e17a-1b4ba0ebb7e4",
@@ -228,31 +253,6 @@
         "campaign_year": "2022",
         "_version_": 1724878280158347300,
         "score": 0.24995685
-      },
-      {
-        "id": "67b5c6a8-de9f-5498-9640-5cea355ec6ed",
-        "file_id": "67b5c6a8-de9f-5498-9640-5cea355ec6ed",
-        "file_name": "KLBK Abbott 3409663 021222 - 030122 REV",
-        "file_extension": "pdf",
-        "file_size": 548411,
-        "file_status": "com_cpy",
-        "folder_id": "9afc28f0-5b9b-4e3e-0135-d023faa0aa8f",
-        "create_ts": "2022-02-16T00:40:46.908Z",
-        "last_update_ts": "2022-02-16T00:40:49.394Z",
-        "active_ind": "Y",
-        "file_manager_id": "6e8b26e1-0ee5-4be5-b2f8-c787d3d38d5f",
-        "file_folder_path": "Political Files/2022/State/Abbott",
-        "full_qualified_file_name": "Political Files/2022/State/Abbott/KLBK Abbott 3409663 021222 - 030122 REV",
-        "entity_id": "3660",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LUBBOCK",
-        "callsign": "KLBK-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724878209692991500,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -356,11 +356,11 @@
         "BOSTON (MANCHESTER)": 546,
         "WACO-TEMPLE-BRYAN": 543,
         "AUGUSTA": 538,
-        "HOUSTON": 529
+        "HOUSTON": 530
       },
       "network_affiliation": {
         "ABC": 57516,
-        "NBC": 56333,
+        "NBC": 56334,
         "CBS": 38426,
         "FOX": 27725,
         "PBS": 14387,
@@ -431,12 +431,12 @@
         "2019": 13995,
         "2020": 125784,
         "2021": 22514,
-        "2022": 3498,
+        "2022": 3499,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66404,
+        "State": 66405,
         "US Senate": 49308,
         "US House": 41529,
         "Presidential": 38844,
@@ -472,14 +472,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 235787,
+        "TV": 235788,
         "CABLE": 125496,
         "FM": 111704,
         "AM": 41804,
         "DBS": 5352
       },
       "political_file_type": {
-        "PA": 221140,
+        "PA": 221141,
         "NCIA": 123179
       }
     }
@@ -496,8 +496,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1764,
-    "processTime": 772,
-    "responseTime": 1772
+    "queryTime": 209,
+    "processTime": 218,
+    "responseTime": 218
   }
 }
