@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 520154,
+    "numFound": 520155,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "8858ec20-d532-0efa-3bd5-d15e8006cd08",
+        "file_id": "8858ec20-d532-0efa-3bd5-d15e8006cd08",
+        "file_name": "Political Little 021522",
+        "file_extension": "pdf",
+        "file_size": 1029291,
+        "file_status": "com_cpy",
+        "folder_id": "a1dfea4a-8b91-57a1-0214-b744cf08e8bd",
+        "create_ts": "2022-02-16T13:28:56.587Z",
+        "last_update_ts": "2022-02-16T13:28:51.471Z",
+        "active_ind": "Y",
+        "file_manager_id": "6f69c1cb-a61a-4d3f-b735-00b3d7534e29",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Political Little 021522",
+        "entity_id": "21233",
+        "source_service_code": "AM",
+        "callsign": "KBEC",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1724926538224238600,
+        "score": 0.24995685
+      },
+      {
+        "id": "15b596ed-570e-cb84-c12c-db1c5da2ca6f",
+        "file_id": "15b596ed-570e-cb84-c12c-db1c5da2ca6f",
+        "file_name": "Political Ellzey 020822",
+        "file_extension": "pdf",
+        "file_size": 1069522,
+        "file_status": "com_cpy",
+        "folder_id": "b12a6bf0-d728-9a3b-3752-cb2039f03ed0",
+        "create_ts": "2022-02-11T16:05:22.455Z",
+        "last_update_ts": "2022-02-16T13:28:19.03Z",
+        "active_ind": "Y",
+        "file_manager_id": "92c9d4e3-7c01-4d01-86ac-93f3f3d8a3fe",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Political Ellzey 020822",
+        "entity_id": "21233",
+        "source_service_code": "AM",
+        "callsign": "KBEC",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1724926504213676000,
+        "score": 0.24995685
+      },
       {
         "id": "1653d4e0-b883-25cf-ad0f-afbab985ba45",
         "file_id": "1653d4e0-b883-25cf-ad0f-afbab985ba45",
@@ -199,52 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1724885281853669400,
         "score": 0.24995685
-      },
-      {
-        "id": "7f71e81d-8948-9084-d710-ca87f9ee379a",
-        "file_id": "7f71e81d-8948-9084-d710-ca87f9ee379a",
-        "file_name": "WFXO-HD2-Ben Robbins for State House-22010147-013122",
-        "file_extension": "pdf",
-        "file_size": 10502,
-        "file_status": "com_cpy",
-        "folder_id": "6e8ddeaf-a4bc-60cf-5031-8cc71d64e055",
-        "create_ts": "2022-02-16T02:31:42.039Z",
-        "last_update_ts": "2022-02-16T02:32:23.033Z",
-        "active_ind": "Y",
-        "file_manager_id": "42b071c8-94f4-4cf8-bfcc-245f47bf2b89",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/WFXO-HD2-Ben Robbins for State House-22010147-013122",
-        "entity_id": "704",
-        "source_service_code": "FM",
-        "callsign": "WFXO",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724885187819470800,
-        "score": 0.24995685
-      },
-      {
-        "id": "35ca494d-206c-3757-8821-d2fd92d406b3",
-        "file_id": "35ca494d-206c-3757-8821-d2fd92d406b3",
-        "file_name": "WFXO-Ben Robbins for State House-22010145-013122",
-        "file_extension": "pdf",
-        "file_size": 8163,
-        "file_status": "com_cpy",
-        "folder_id": "6e8ddeaf-a4bc-60cf-5031-8cc71d64e055",
-        "create_ts": "2022-02-16T02:31:42.062Z",
-        "last_update_ts": "2022-02-16T02:32:22.94Z",
-        "active_ind": "Y",
-        "file_manager_id": "de35e3ff-7ca3-492f-920b-f55831757f63",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/WFXO-Ben Robbins for State House-22010145-013122",
-        "entity_id": "704",
-        "source_service_code": "FM",
-        "callsign": "WFXO",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724885187735584800,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -423,14 +423,14 @@
         "2019": 13995,
         "2020": 125784,
         "2021": 22514,
-        "2022": 3509,
+        "2022": 3510,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 66411,
         "US Senate": 49309,
-        "US House": 41530,
+        "US House": 41531,
         "Presidential": 38844,
         "Local": 24017
       },
@@ -467,11 +467,11 @@
         "TV": 235795,
         "CABLE": 125496,
         "FM": 111706,
-        "AM": 41805,
+        "AM": 41806,
         "DBS": 5352
       },
       "political_file_type": {
-        "PA": 221149,
+        "PA": 221150,
         "NCIA": 123181
       }
     }
@@ -488,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1809,
-    "processTime": 817,
-    "responseTime": 1817
+    "queryTime": 210,
+    "processTime": 226,
+    "responseTime": 226
   }
 }
