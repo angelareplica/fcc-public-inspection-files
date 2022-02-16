@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 520150,
+    "numFound": 520151,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "67f75be2-edc3-7e07-fb78-5cdf27948802",
+        "file_id": "67f75be2-edc3-7e07-fb78-5cdf27948802",
+        "file_name": "Pete-Sessions-02-15-2022",
+        "file_extension": "pdf",
+        "file_size": 60771,
+        "file_status": "com_cpy",
+        "folder_id": "6751dff6-a3d5-f702-14a1-33758db67b66",
+        "create_ts": "2022-02-16T05:25:35.331Z",
+        "last_update_ts": "2022-02-16T05:25:29.911Z",
+        "active_ind": "Y",
+        "file_manager_id": "f60aca27-9124-4c16-b892-106e94294fe5",
+        "file_folder_path": "Political Files/2022/Federal/US House/Sessions",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Sessions/Pete-Sessions-02-15-2022",
+        "entity_id": "9781",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "WACO-TEMPLE-BRYAN",
+        "callsign": "KXXV",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1724896127818399700,
+        "score": 0.24995685
+      },
       {
         "id": "98c068d7-e151-ad86-7134-8637b111eb12",
         "file_id": "98c068d7-e151-ad86-7134-8637b111eb12",
@@ -222,31 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1724878673558896600,
         "score": 0.24995685
-      },
-      {
-        "id": "294c593c-6027-3d5f-fde4-181f7a4043a4",
-        "file_id": "294c593c-6027-3d5f-fde4-181f7a4043a4",
-        "file_name": "KAMC Huffines 3413765 021422 - 022722",
-        "file_extension": "pdf",
-        "file_size": 332917,
-        "file_status": "com_cpy",
-        "folder_id": "18a0352e-539a-b375-e7d4-f346673ab737",
-        "create_ts": "2022-02-16T00:47:30.587Z",
-        "last_update_ts": "2022-02-16T00:47:33.083Z",
-        "active_ind": "Y",
-        "file_manager_id": "39b0ca56-03cf-4efc-acc2-275d0acb0c88",
-        "file_folder_path": "Political Files/2022/State/Huffines",
-        "full_qualified_file_name": "Political Files/2022/State/Huffines/KAMC Huffines 3413765 021422 - 022722",
-        "entity_id": "40820",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LUBBOCK",
-        "callsign": "KAMC",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724878632987394000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -347,13 +347,13 @@
         "TERRE HAUTE": 635,
         "MONTEREY-SALINAS": 632,
         "MACON": 611,
+        "WACO-TEMPLE-BRYAN": 547,
         "BOSTON (MANCHESTER)": 546,
-        "WACO-TEMPLE-BRYAN": 546,
         "AUGUSTA": 538,
         "HOUSTON": 530
       },
       "network_affiliation": {
-        "ABC": 57519,
+        "ABC": 57520,
         "NBC": 56334,
         "CBS": 38426,
         "FOX": 27725,
@@ -425,14 +425,14 @@
         "2019": 13995,
         "2020": 125784,
         "2021": 22514,
-        "2022": 3505,
+        "2022": 3506,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 66411,
         "US Senate": 49308,
-        "US House": 41529,
+        "US House": 41530,
         "Presidential": 38844,
         "Local": 24017
       },
@@ -466,14 +466,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 235791,
+        "TV": 235792,
         "CABLE": 125496,
         "FM": 111706,
         "AM": 41805,
         "DBS": 5352
       },
       "political_file_type": {
-        "PA": 221147,
+        "PA": 221148,
         "NCIA": 123179
       }
     }
@@ -490,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1813,
-    "processTime": 820,
-    "responseTime": 1821
+    "queryTime": 211,
+    "processTime": 219,
+    "responseTime": 219
   }
 }
