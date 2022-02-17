@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 520350,
+    "numFound": 520352,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "ad25127d-2ad6-0a02-ae9f-46681840bd2c",
+        "file_id": "ad25127d-2ad6-0a02-ae9f-46681840bd2c",
+        "file_name": "1_27 Tom Suozzi1145587-0",
+        "file_extension": "pdf",
+        "file_size": 112044,
+        "file_status": "com_cpy",
+        "folder_id": "c0ae4d5f-913f-1e9e-ac91-88c34063451f",
+        "create_ts": "2022-02-17T04:54:24.906Z",
+        "last_update_ts": "2022-02-17T04:55:09.086Z",
+        "active_ind": "Y",
+        "file_manager_id": "c9cb6935-3ced-4b36-b62f-1b46e26e2e50",
+        "file_folder_path": "Political Files/2022/State/Gubernatorial/Tom Suozzi",
+        "full_qualified_file_name": "Political Files/2022/State/Gubernatorial/Tom Suozzi/1_27 Tom Suozzi1145587-0",
+        "entity_id": "22206",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "NEW YORK",
+        "callsign": "WNYW",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1724984763665612800,
+        "score": 0.24995685
+      },
+      {
+        "id": "d219b500-f6a4-777a-f583-0eb1c85e5b34",
+        "file_id": "d219b500-f6a4-777a-f583-0eb1c85e5b34",
+        "file_name": "DICK LAW FIRM spot placement 02.15. - 02.18.2022",
+        "file_extension": "xlsx",
+        "file_size": 11694,
+        "file_status": "com_prc",
+        "folder_id": "d8483a93-c59b-03ab-70a0-03f04237a595",
+        "create_ts": "2022-02-17T04:53:38.755Z",
+        "last_update_ts": "2022-02-17T04:53:50.111Z",
+        "active_ind": "Y",
+        "file_manager_id": "71b52c9b-80de-4dd6-801f-537e51d620a1",
+        "file_folder_path": "Political Files/2022/Local/Harris County Treasurer/Eric Dick/DICK Law Firm Paid CM Spots",
+        "full_qualified_file_name": "Political Files/2022/Local/Harris County Treasurer/Eric Dick/DICK Law Firm Paid CM Spots/DICK LAW FIRM spot placement 02.15. - 02.18.2022",
+        "entity_id": "53117",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HOUSTON",
+        "callsign": "KPRC-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1724984732905635800,
+        "score": 0.24995685
+      },
       {
         "id": "61905e1c-5161-b204-da27-19cca69769b6",
         "file_id": "61905e1c-5161-b204-da27-19cca69769b6",
@@ -197,56 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1724966735224766500,
         "score": 0.24995685
-      },
-      {
-        "id": "7caccc92-8d7f-0ddf-908b-08f59ad6c867",
-        "file_id": "7caccc92-8d7f-0ddf-908b-08f59ad6c867",
-        "file_name": "KAMC Tepper 3414834 021722 - 030122",
-        "file_extension": "pdf",
-        "file_size": 3546468,
-        "file_status": "com_cpy",
-        "folder_id": "c12af762-cfb3-71d9-53fc-895cdad1cab4",
-        "create_ts": "2022-02-16T23:56:29.051Z",
-        "last_update_ts": "2022-02-16T23:56:24.375Z",
-        "active_ind": "Y",
-        "file_manager_id": "ee47dd96-e47c-4b01-8bae-8a3d88ff9d24",
-        "file_folder_path": "Political Files/2022/State/Tepper",
-        "full_qualified_file_name": "Political Files/2022/State/Tepper/KAMC Tepper 3414834 021722 - 030122",
-        "entity_id": "40820",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LUBBOCK",
-        "callsign": "KAMC",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724966020259512300,
-        "score": 0.24995685
-      },
-      {
-        "id": "cbf9392d-412c-3e99-796f-20cad65a269b",
-        "file_id": "cbf9392d-412c-3e99-796f-20cad65a269b",
-        "file_name": "KAMC Patrick 3415899 021422 - 022722",
-        "file_extension": "pdf",
-        "file_size": 384132,
-        "file_status": "com_cpy",
-        "folder_id": "4d7f307d-7887-f09f-3453-f03887682a8b",
-        "create_ts": "2022-02-16T23:54:49.359Z",
-        "last_update_ts": "2022-02-16T23:54:51.772Z",
-        "active_ind": "Y",
-        "file_manager_id": "28227767-bcc3-4213-bf66-d19a4e9ad314",
-        "file_folder_path": "Political Files/2022/State/Patrick",
-        "full_qualified_file_name": "Political Files/2022/State/Patrick/KAMC Patrick 3415899 021422 - 022722",
-        "entity_id": "40820",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LUBBOCK",
-        "callsign": "KAMC",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724965915059028000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -316,7 +316,7 @@
         "SALT LAKE CITY": 1104,
         "GREEN BAY-APPLETON": 1083,
         "GLENDIVE": 1081,
-        "NEW YORK": 1073,
+        "NEW YORK": 1074,
         "DENVER": 1063,
         "ORLANDO-DAYTONA BCH-MELBRN": 1038,
         "ST. LOUIS": 1017,
@@ -350,13 +350,13 @@
         "WACO-TEMPLE-BRYAN": 548,
         "BOSTON (MANCHESTER)": 546,
         "AUGUSTA": 538,
-        "HOUSTON": 531
+        "HOUSTON": 532
       },
       "network_affiliation": {
         "ABC": 57530,
-        "NBC": 56349,
+        "NBC": 56350,
         "CBS": 38455,
-        "FOX": 27747,
+        "FOX": 27748,
         "PBS": 14387,
         "CW": 12060,
         "IND": 2989,
@@ -425,16 +425,16 @@
         "2019": 13991,
         "2020": 125783,
         "2021": 22521,
-        "2022": 3672,
+        "2022": 3674,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66458,
+        "State": 66459,
         "US Senate": 49345,
         "US House": 41536,
         "Presidential": 38843,
-        "Local": 24069
+        "Local": 24070
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61591,
@@ -466,14 +466,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 235886,
+        "TV": 235888,
         "CABLE": 125553,
         "FM": 111731,
         "AM": 41824,
         "DBS": 5356
       },
       "political_file_type": {
-        "PA": 221288,
+        "PA": 221290,
         "NCIA": 123207
       }
     }
@@ -490,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 218,
-    "responseTime": 219
+    "queryTime": 224,
+    "processTime": 233,
+    "responseTime": 233
   }
 }
