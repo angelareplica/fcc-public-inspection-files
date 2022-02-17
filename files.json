@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 520349,
+    "numFound": 520350,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "61905e1c-5161-b204-da27-19cca69769b6",
+        "file_id": "61905e1c-5161-b204-da27-19cca69769b6",
+        "file_name": "US Congress Dist 27 AJ Louderback 021622 ",
+        "file_extension": "pdf",
+        "file_size": 1195953,
+        "file_status": "com_cpy",
+        "folder_id": "3c2f233e-6c24-5162-f6a8-1845f20a1f15",
+        "create_ts": "2022-02-17T04:20:52.668Z",
+        "last_update_ts": "2022-02-17T04:21:37.377Z",
+        "active_ind": "Y",
+        "file_manager_id": "3ec3b7a3-00e5-4ed2-8dd3-4ca5b2b945f3",
+        "file_folder_path": "Political Files/2022/Federal/US House/US Congress Dist 27",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/US Congress Dist 27/US Congress Dist 27 AJ Louderback 021622 ",
+        "entity_id": "5393",
+        "source_service_code": "FM",
+        "callsign": "KAJE",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1724982654311334000,
+        "score": 0.24995685
+      },
       {
         "id": "b226df50-7f44-ae06-a9b4-52311122daef",
         "file_id": "b226df50-7f44-ae06-a9b4-52311122daef",
@@ -224,31 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1724965915059028000,
         "score": 0.24995685
-      },
-      {
-        "id": "c77f5dc0-3e82-cb63-ae6d-fdcb54612730",
-        "file_id": "c77f5dc0-3e82-cb63-ae6d-fdcb54612730",
-        "file_name": "KLBK Tepper 3414865 021722 - 030122",
-        "file_extension": "pdf",
-        "file_size": 3421833,
-        "file_status": "com_cpy",
-        "folder_id": "aae20a05-d8d8-6250-5545-eb94f155919f",
-        "create_ts": "2022-02-16T23:53:50.195Z",
-        "last_update_ts": "2022-02-16T23:53:45.679Z",
-        "active_ind": "Y",
-        "file_manager_id": "9d479e30-8172-47d4-8616-3a026039caf6",
-        "file_folder_path": "Political Files/2022/State/Tepper",
-        "full_qualified_file_name": "Political Files/2022/State/Tepper/KLBK Tepper 3414865 021722 - 030122",
-        "entity_id": "3660",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LUBBOCK",
-        "callsign": "KLBK-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1724965853841064000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -427,14 +425,14 @@
         "2019": 13991,
         "2020": 125783,
         "2021": 22521,
-        "2022": 3671,
+        "2022": 3672,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 66458,
         "US Senate": 49345,
-        "US House": 41535,
+        "US House": 41536,
         "Presidential": 38843,
         "Local": 24069
       },
@@ -470,12 +468,12 @@
       "source_service_code": {
         "TV": 235886,
         "CABLE": 125553,
-        "FM": 111730,
+        "FM": 111731,
         "AM": 41824,
         "DBS": 5356
       },
       "political_file_type": {
-        "PA": 221287,
+        "PA": 221288,
         "NCIA": 123207
       }
     }
@@ -492,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 225,
-    "processTime": 232,
-    "responseTime": 233
+    "queryTime": 224,
+    "processTime": 236,
+    "responseTime": 236
   }
 }
