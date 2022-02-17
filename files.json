@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 520355,
+    "numFound": 520357,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "c173f821-2055-7891-7afb-75932ccc8ff1",
+        "file_id": "c173f821-2055-7891-7afb-75932ccc8ff1",
+        "file_name": "Pol B McSwain R Gov PA_REV_908930",
+        "file_extension": "pdf",
+        "file_size": 247127,
+        "file_status": "com_cpy",
+        "folder_id": "b516c11f-eb13-c321-439f-70e2cb82dc57",
+        "create_ts": "2022-02-17T14:37:33.74Z",
+        "last_update_ts": "2022-02-17T14:37:28.138Z",
+        "active_ind": "Y",
+        "file_manager_id": "69ec6e26-896e-42a8-be8e-6cd4b83e245b",
+        "file_folder_path": "Political Files/2022/State/Governor/Pol B McSwain R GOV PA/908930-0504-0510",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Pol B McSwain R GOV PA/908930-0504-0510/Pol B McSwain R Gov PA_REV_908930",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725021452053250000,
+        "score": 0.24995685
+      },
+      {
+        "id": "b8841791-4f79-587c-4f9b-22e76f569600",
+        "file_id": "b8841791-4f79-587c-4f9b-22e76f569600",
+        "file_name": "Pol B McSwain R Gov PA_REV_908878",
+        "file_extension": "pdf",
+        "file_size": 240994,
+        "file_status": "com_cpy",
+        "folder_id": "d09d337d-4ed2-2c50-585e-fc708005a0d8",
+        "create_ts": "2022-02-17T14:25:14.026Z",
+        "last_update_ts": "2022-02-17T14:25:16.393Z",
+        "active_ind": "Y",
+        "file_manager_id": "1805f2ef-1cdb-4c2b-a9e3-ac5cdecb36b8",
+        "file_folder_path": "Political Files/2022/State/Governor/Pol B McSwain R GOV PA/908878-0424-0503",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Pol B McSwain R GOV PA/908878-0424-0503/Pol B McSwain R Gov PA_REV_908878",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725020676533780500,
+        "score": 0.24995685
+      },
       {
         "id": "21e62629-f53c-5387-2bad-2a75c9b33aac",
         "file_id": "21e62629-f53c-5387-2bad-2a75c9b33aac",
@@ -201,54 +251,6 @@
         "campaign_year": "2022",
         "_version_": 1724967786818568200,
         "score": 0.24995685
-      },
-      {
-        "id": "d6196822-9f6f-863e-c3c9-8da6440c6dba",
-        "file_id": "d6196822-9f6f-863e-c3c9-8da6440c6dba",
-        "file_name": "11-17-21 to 12-05-21 inv",
-        "file_extension": "pdf",
-        "file_size": 287563,
-        "file_status": "com_cpy",
-        "folder_id": "35ff2530-f44b-54dc-f646-587cf54c967e",
-        "create_ts": "2022-02-17T00:09:05.661Z",
-        "last_update_ts": "2022-02-17T00:09:49.263Z",
-        "active_ind": "Y",
-        "file_manager_id": "abdc8b1d-228f-48a2-9ced-4a9b7ef32a3e",
-        "file_folder_path": "Political Files/2021/State/Governor/Nohra",
-        "full_qualified_file_name": "Political Files/2021/State/Governor/Nohra/11-17-21 to 12-05-21 inv",
-        "entity_id": "35870",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KVVU-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2021",
-        "_version_": 1724966813655105500,
-        "score": 0.24995685
-      },
-      {
-        "id": "ae3f77e1-bd9e-a051-a04a-46869267cbe1",
-        "file_id": "ae3f77e1-bd9e-a051-a04a-46869267cbe1",
-        "file_name": "NAB-Reelect Judge Dedra Davis Rev 021622",
-        "file_extension": "pdf",
-        "file_size": 484533,
-        "file_status": "com_cpy",
-        "folder_id": "eb817928-7be9-1237-1c19-9354e52083d8",
-        "create_ts": "2022-02-17T00:08:53.23Z",
-        "last_update_ts": "2022-02-17T00:09:36.965Z",
-        "active_ind": "Y",
-        "file_manager_id": "0cbe2ee0-80ad-4abb-9518-c0b9e2c8d433",
-        "file_folder_path": "Political Files/2022/Local/Reelect Judge Dedra Davis Campaign",
-        "full_qualified_file_name": "Political Files/2022/Local/Reelect Judge Dedra Davis Campaign/NAB-Reelect Judge Dedra Davis Rev 021622",
-        "entity_id": "35565",
-        "source_service_code": "FM",
-        "callsign": "KROI",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1724966799911420000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -258,7 +260,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7039,
         "LAS VEGAS": 6017,
         "WEST PALM BEACH-FT. PIERCE": 5811,
-        "PITTSBURGH": 5487,
+        "PITTSBURGH": 5489,
         "HONOLULU": 5214,
         "DULUTH-SUPERIOR": 4654,
         "CHARLESTON-HUNTINGTON": 4332,
@@ -356,7 +358,7 @@
       },
       "network_affiliation": {
         "ABC": 57530,
-        "NBC": 56353,
+        "NBC": 56355,
         "CBS": 38455,
         "FOX": 27748,
         "PBS": 14387,
@@ -427,12 +429,12 @@
         "2019": 13991,
         "2020": 125783,
         "2021": 22521,
-        "2022": 3677,
+        "2022": 3679,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66462,
+        "State": 66464,
         "US Senate": 49345,
         "US House": 41536,
         "Presidential": 38843,
@@ -468,14 +470,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 235891,
+        "TV": 235893,
         "CABLE": 125553,
         "FM": 111731,
         "AM": 41824,
         "DBS": 5356
       },
       "political_file_type": {
-        "PA": 221293,
+        "PA": 221295,
         "NCIA": 123207
       }
     }
@@ -492,8 +494,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 215,
-    "responseTime": 216
+    "queryTime": 224,
+    "processTime": 231,
+    "responseTime": 232
   }
 }
