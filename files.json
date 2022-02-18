@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 520551,
+    "numFound": 520553,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "aaf70ceb-2516-8ac8-c63b-e217f557ad10",
+        "file_id": "aaf70ceb-2516-8ac8-c63b-e217f557ad10",
+        "file_name": "Congrssional Leadership Fund - Contract#3417144  021622-030122",
+        "file_extension": "pdf",
+        "file_size": 2248771,
+        "file_status": "com_cpy",
+        "folder_id": "dc8306de-cbe1-70fe-514b-fe4ba16c5e49",
+        "create_ts": "2022-02-18T17:41:24.283Z",
+        "last_update_ts": "2022-02-18T17:41:26.873Z",
+        "active_ind": "Y",
+        "file_manager_id": "2efe1e0c-f880-4cdd-a30c-3d54d6468342",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Congrssional Leadership Fund - Contract#3417144  021622-030122",
+        "entity_id": "23394",
+        "source_service_code": "TV",
+        "network_affiliation": "CW",
+        "nielsen_dma_rank": "HOUSTON",
+        "callsign": "KIAH",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725123615753502700,
+        "score": 0.24995685
+      },
+      {
+        "id": "f728a7c2-c09d-e7d0-9214-68563b2a59e6",
+        "file_id": "f728a7c2-c09d-e7d0-9214-68563b2a59e6",
+        "file_name": "Congressional Leadership Fund - Agreement Form  021822",
+        "file_extension": "pdf",
+        "file_size": 934038,
+        "file_status": "com_cpy",
+        "folder_id": "dc8306de-cbe1-70fe-514b-fe4ba16c5e49",
+        "create_ts": "2022-02-18T17:41:24.07Z",
+        "last_update_ts": "2022-02-18T17:41:18.536Z",
+        "active_ind": "Y",
+        "file_manager_id": "b0598208-606c-4aa4-b505-db80b5fcf9d1",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Congressional Leadership Fund - Agreement Form  021822",
+        "entity_id": "23394",
+        "source_service_code": "TV",
+        "network_affiliation": "CW",
+        "nielsen_dma_rank": "HOUSTON",
+        "callsign": "KIAH",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725123615498698800,
+        "score": 0.24995685
+      },
       {
         "id": "460ea969-b803-a4b3-bc3a-d584d6cebcdf",
         "file_id": "460ea969-b803-a4b3-bc3a-d584d6cebcdf",
@@ -201,56 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1725120957416210400,
         "score": 0.24995685
-      },
-      {
-        "id": "426b189d-c01b-46fd-aa8f-73c4760b3e91",
-        "file_id": "426b189d-c01b-46fd-aa8f-73c4760b3e91",
-        "file_name": "Nathaniel Moran for Texas CD1 Tyler 0739 2.23-3.1",
-        "file_extension": "pdf",
-        "file_size": 8813,
-        "file_status": "com_cpy",
-        "folder_id": "e88ac3ea-6ce5-4ef7-2cc7-dc85434c88b9",
-        "create_ts": "2022-02-18T16:31:14.1Z",
-        "last_update_ts": "2022-02-18T16:31:08.139Z",
-        "active_ind": "Y",
-        "file_manager_id": "2b616e1c-3103-4b05-b4e3-5d374b574b42",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Nathaneil Moran for Texas-Linear Media",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Nathaneil Moran for Texas-Linear Media/Nathaniel Moran for Texas CD1 Tyler 0739 2.23-3.1",
-        "entity_id": "003375",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1725119200564871200,
-        "score": 0.24995685
-      },
-      {
-        "id": "2e67ff2f-46f5-cc89-d380-0e469b12f823",
-        "file_id": "2e67ff2f-46f5-cc89-d380-0e469b12f823",
-        "file_name": "Nathaniel Moran for Congress Tyler 0739 2.16-2.22",
-        "file_extension": "pdf",
-        "file_size": 8793,
-        "file_status": "com_cpy",
-        "folder_id": "e88ac3ea-6ce5-4ef7-2cc7-dc85434c88b9",
-        "create_ts": "2022-02-18T16:31:13.418Z",
-        "last_update_ts": "2022-02-18T16:31:07.461Z",
-        "active_ind": "Y",
-        "file_manager_id": "e4dbd83f-4dc5-47a7-af63-a872676d1925",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Nathaneil Moran for Texas-Linear Media",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Nathaneil Moran for Texas-Linear Media/Nathaniel Moran for Congress Tyler 0739 2.16-2.22",
-        "entity_id": "003375",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1725119199854985200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -354,7 +352,7 @@
         "WACO-TEMPLE-BRYAN": 551,
         "BOSTON (MANCHESTER)": 546,
         "AUGUSTA": 538,
-        "HOUSTON": 535
+        "HOUSTON": 537
       },
       "network_affiliation": {
         "ABC": 57549,
@@ -362,7 +360,7 @@
         "CBS": 38458,
         "FOX": 27769,
         "PBS": 14387,
-        "CW": 12069,
+        "CW": 12071,
         "IND": 2989,
         "MYTV": 2225,
         "UNIVISION": 1883,
@@ -429,7 +427,7 @@
         "2019": 13966,
         "2020": 125783,
         "2021": 22525,
-        "2022": 3892,
+        "2022": 3894,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -470,7 +468,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 235988,
+        "TV": 235990,
         "CABLE": 125591,
         "FM": 111753,
         "AM": 41845,
@@ -478,7 +476,7 @@
       },
       "political_file_type": {
         "PA": 221452,
-        "NCIA": 123242
+        "NCIA": 123244
       }
     }
   },
@@ -494,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1777,
-    "processTime": 785,
-    "responseTime": 1785
+    "queryTime": 1767,
+    "processTime": 778,
+    "responseTime": 1778
   }
 }
