@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 520463,
+    "numFound": 520464,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "e168981a-18c8-c5a4-fce8-059f6e87f534",
+        "file_id": "e168981a-18c8-c5a4-fce8-059f6e87f534",
+        "file_name": "PFCD-NAB 08.05.2021",
+        "file_extension": "pdf",
+        "file_size": 1068055,
+        "file_status": "com_cpy",
+        "folder_id": "a951fe11-a42c-9a89-3f2b-8b0a0b9d5d8d",
+        "create_ts": "2022-02-18T00:57:18.026Z",
+        "last_update_ts": "2022-02-18T00:57:20.686Z",
+        "active_ind": "Y",
+        "file_manager_id": "9a11076d-e7fb-4330-9ef2-e1a40e5dd332",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/PFCD",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/PFCD/PFCD-NAB 08.05.2021",
+        "entity_id": "008648",
+        "source_service_code": "CABLE",
+        "legal_name": "VYVE BROADBAND A, LLC",
+        "operator_city_name": "RYE BROOK",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1725060443039334400,
+        "score": 0.24995685
+      },
       {
         "id": "2034b086-3d79-e914-9118-1a069d7ee99f",
         "file_id": "2034b086-3d79-e914-9118-1a069d7ee99f",
@@ -222,31 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1725053175366418400,
         "score": 0.24995685
-      },
-      {
-        "id": "cf438be8-18a8-349f-78c2-9e2a8e65e8d1",
-        "file_id": "cf438be8-18a8-349f-78c2-9e2a8e65e8d1",
-        "file_name": "KLBK Glasheen 3417056 022122 - 022122",
-        "file_extension": "pdf",
-        "file_size": 18810,
-        "file_status": "com_cpy",
-        "folder_id": "c8def19d-1158-7c06-38c2-ecb8805ea083",
-        "create_ts": "2022-02-17T23:01:47.414Z",
-        "last_update_ts": "2022-02-17T23:01:49.605Z",
-        "active_ind": "Y",
-        "file_manager_id": "f92cbae2-8b8a-46ce-a8f9-5d867cdd1082",
-        "file_folder_path": "Political Files/2022/State/Glasheen",
-        "full_qualified_file_name": "Political Files/2022/State/Glasheen/KLBK Glasheen 3417056 022122 - 022122",
-        "entity_id": "3660",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LUBBOCK",
-        "callsign": "KLBK-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725053175272046600,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -424,7 +423,7 @@
         "2018": 67735,
         "2019": 13966,
         "2020": 125783,
-        "2021": 22523,
+        "2021": 22524,
         "2022": 3808,
         "KYAZ": 5,
         "Fede": 1
@@ -467,14 +466,14 @@
       },
       "source_service_code": {
         "TV": 235954,
-        "CABLE": 125559,
+        "CABLE": 125560,
         "FM": 111748,
         "AM": 41842,
         "DBS": 5360
       },
       "political_file_type": {
         "PA": 221395,
-        "NCIA": 123213
+        "NCIA": 123214
       }
     }
   },
@@ -490,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1783,
-    "processTime": 794,
-    "responseTime": 1794
+    "queryTime": 1776,
+    "processTime": 784,
+    "responseTime": 1784
   }
 }
