@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 520470,
+    "numFound": 520471,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "d73876e3-4c14-5b3b-a809-fe2f0fcddfce",
+        "file_id": "d73876e3-4c14-5b3b-a809-fe2f0fcddfce",
+        "file_name": "62892971 SYS 1500 American Action Network 5.17-06.06",
+        "file_extension": "pdf",
+        "file_size": 50480,
+        "file_status": "com_cpy",
+        "folder_id": "f32bf30e-138e-5883-0400-53cc10fa551c",
+        "create_ts": "2022-02-18T05:30:50.786Z",
+        "last_update_ts": "2022-02-18T05:31:37.647Z",
+        "active_ind": "Y",
+        "file_manager_id": "d436a61d-3479-4a11-ae13-1f526e1d612b",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/62892971 SYS 1500 American Action Network 5.17-06.06",
+        "entity_id": "020967",
+        "source_service_code": "CABLE",
+        "legal_name": "VERIZON VIRGINIA LLC",
+        "operator_city_name": "IRVING",
+        "operator_state_name": "TX",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1725077652542324700,
+        "score": 0.24995685
+      },
       {
         "id": "20e3a900-de3f-4021-da91-8eb3d13e9646",
         "file_id": "20e3a900-de3f-4021-da91-8eb3d13e9646",
@@ -218,30 +242,6 @@
         "campaign_year": "2022",
         "_version_": 1725055308534907000,
         "score": 0.24995685
-      },
-      {
-        "id": "d35edcf6-ba5d-9d04-eb60-88eefb81a26d",
-        "file_id": "d35edcf6-ba5d-9d04-eb60-88eefb81a26d",
-        "file_name": "Protect our Future NAB KOIN 3.1",
-        "file_extension": "pdf",
-        "file_size": 465538,
-        "file_status": "com_cpy",
-        "folder_id": "e009d636-7c8c-ed7e-de71-dbe0a6ecb059",
-        "create_ts": "2022-02-17T23:34:19.819Z",
-        "last_update_ts": "2022-02-17T23:35:06.25Z",
-        "active_ind": "Y",
-        "file_manager_id": "362f98da-990d-435f-8c5f-ee743f535783",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future OR-06/NAB",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future OR-06/NAB/Protect our Future NAB KOIN 3.1",
-        "entity_id": "35380",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "PORTLAND OR",
-        "callsign": "KOIN",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1725055222737272800,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -419,7 +419,7 @@
         "2018": 67735,
         "2019": 13966,
         "2020": 125783,
-        "2021": 22524,
+        "2021": 22525,
         "2022": 3814,
         "KYAZ": 5,
         "Fede": 1
@@ -462,14 +462,14 @@
       },
       "source_service_code": {
         "TV": 235957,
-        "CABLE": 125560,
+        "CABLE": 125561,
         "FM": 111750,
         "AM": 41843,
         "DBS": 5360
       },
       "political_file_type": {
         "PA": 221400,
-        "NCIA": 123215
+        "NCIA": 123216
       }
     }
   },
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1785,
-    "processTime": 795,
-    "responseTime": 1795
+    "queryTime": 1811,
+    "processTime": 821,
+    "responseTime": 1822
   }
 }
