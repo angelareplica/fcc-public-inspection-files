@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 520471,
+    "numFound": 520469,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
@@ -351,7 +351,7 @@
         "ABC": 57549,
         "NBC": 56386,
         "CBS": 38451,
-        "FOX": 27760,
+        "FOX": 27758,
         "PBS": 14387,
         "CW": 12065,
         "IND": 2989,
@@ -420,14 +420,14 @@
         "2019": 13966,
         "2020": 125783,
         "2021": 22525,
-        "2022": 3814,
+        "2022": 3812,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 66516,
         "US Senate": 49385,
-        "US House": 41541,
+        "US House": 41539,
         "Presidential": 38843,
         "Local": 24080
       },
@@ -461,14 +461,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 235957,
+        "TV": 235955,
         "CABLE": 125561,
         "FM": 111750,
         "AM": 41843,
         "DBS": 5360
       },
       "political_file_type": {
-        "PA": 221400,
+        "PA": 221398,
         "NCIA": 123216
       }
     }
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1785,
-    "processTime": 794,
-    "responseTime": 1794
+    "queryTime": 226,
+    "processTime": 234,
+    "responseTime": 235
   }
 }
