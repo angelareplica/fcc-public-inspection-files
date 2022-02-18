@@ -5,6 +5,31 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "1fff33ab-ac7f-d2d2-c92b-9c12cb02d779",
+        "file_id": "1fff33ab-ac7f-d2d2-c92b-9c12cb02d779",
+        "file_name": "Irvin for Illinois WEEK NAB & contract 2426610 02-18",
+        "file_extension": "pdf",
+        "file_size": 449408,
+        "file_status": "com_cpy",
+        "folder_id": "389d8b82-066b-1e9d-8e1d-9dc57d44ef20",
+        "create_ts": "2022-02-18T23:15:43.595Z",
+        "last_update_ts": "2022-02-18T23:30:06.12Z",
+        "active_ind": "Y",
+        "file_manager_id": "ba2141f5-ec87-4fe5-82ad-5d4f4acaab96",
+        "file_folder_path": "Political Files/2022/State/Irvin for Illinois",
+        "full_qualified_file_name": "Political Files/2022/State/Irvin for Illinois/Irvin for Illinois WEEK NAB & contract 2426610 02-18",
+        "entity_id": "24801",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PEORIA-BLOOMINGTON",
+        "callsign": "WEEK-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725145502139285500,
+        "score": 0.24995685
+      },
+      {
         "id": "c4cb72ae-e4eb-fee1-d245-b81b3dc11a7b",
         "file_id": "c4cb72ae-e4eb-fee1-d245-b81b3dc11a7b",
         "file_name": "JB for Governor WEEK NAB & contract 2426920 02-18",
@@ -77,31 +102,6 @@
         "office_type": "State",
         "campaign_year": "2022",
         "_version_": 1725144649219178500,
-        "score": 0.24995685
-      },
-      {
-        "id": "1fff33ab-ac7f-d2d2-c92b-9c12cb02d779",
-        "file_id": "1fff33ab-ac7f-d2d2-c92b-9c12cb02d779",
-        "file_name": "Irvin for Illinois WEEK NAB & contract 2426610 02-18",
-        "file_extension": "pdf",
-        "file_size": 449408,
-        "file_status": "com_cpy",
-        "folder_id": "389d8b82-066b-1e9d-8e1d-9dc57d44ef20",
-        "create_ts": "2022-02-18T23:15:43.595Z",
-        "last_update_ts": "2022-02-18T23:15:37.745Z",
-        "active_ind": "Y",
-        "file_manager_id": "ba2141f5-ec87-4fe5-82ad-5d4f4acaab96",
-        "file_folder_path": "Political Files/2022/State/Irvin for Illinois",
-        "full_qualified_file_name": "Political Files/2022/State/Irvin for Illinois/Irvin for Illinois WEEK NAB & contract 2426610 02-18",
-        "entity_id": "24801",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PEORIA-BLOOMINGTON",
-        "callsign": "WEEK-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725144649147875300,
         "score": 0.24995685
       },
       {
@@ -490,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1790,
-    "processTime": 800,
-    "responseTime": 1800
+    "queryTime": 224,
+    "processTime": 236,
+    "responseTime": 236
   }
 }
