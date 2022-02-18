@@ -5,6 +5,27 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "ac800dd0-09cc-e992-a301-03170f7ecc35",
+        "file_id": "ac800dd0-09cc-e992-a301-03170f7ecc35",
+        "file_name": "ECU LET AMERICA VOTE - N#3616801 - 011222-011722 - IC",
+        "file_extension": "pdf",
+        "file_size": 123081,
+        "file_status": "com_cpy",
+        "folder_id": "fe33aa7b-8f41-b28d-352f-cd2cc6fb3172",
+        "create_ts": "2022-02-18T15:12:04.808Z",
+        "last_update_ts": "2022-02-18T15:30:06.121Z",
+        "active_ind": "Y",
+        "file_manager_id": "b40ba2da-ac2c-49b7-a33f-fa111aab6724",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Nevada/End Citizens United-Let America Vote",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Nevada/End Citizens United-Let America Vote/ECU LET AMERICA VOTE - N#3616801 - 011222-011722 - IC",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725115304120418300,
+        "score": 0.24995685
+      },
+      {
         "id": "8bc92c9c-7b06-2c83-3128-403c6309c5a8",
         "file_id": "8bc92c9c-7b06-2c83-3128-403c6309c5a8",
         "file_name": "NATIONAL COMMUNITY PHARMACISTSASSOCIATION - N#3643721 - 022022-022722 - IC",
@@ -195,31 +216,6 @@
         "office_type": "US Senate",
         "campaign_year": "2022",
         "_version_": 1725114550638870500,
-        "score": 0.24995685
-      },
-      {
-        "id": "5743e756-0cbb-9d03-d6fd-4f7c49571728",
-        "file_id": "5743e756-0cbb-9d03-d6fd-4f7c49571728",
-        "file_name": "Pol David McCormick R SSN PA_913564",
-        "file_extension": "pdf",
-        "file_size": 239931,
-        "file_status": "com_cpy",
-        "folder_id": "ff804a87-de9d-095e-74f3-94134a6262f9",
-        "create_ts": "2022-02-18T15:17:18.972Z",
-        "last_update_ts": "2022-02-18T15:17:21.293Z",
-        "active_ind": "Y",
-        "file_manager_id": "8ab2cd7f-163e-49a5-bc2d-09c88df068bb",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Pol David McCormick R SSN PA/913564-0221-0225",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Pol David McCormick R SSN PA/913564-0221-0225/Pol David McCormick R SSN PA_913564",
-        "entity_id": "73910",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PITTSBURGH",
-        "callsign": "WPXI",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1725114550200565800,
         "score": 0.24995685
       }
     ],
@@ -464,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1812,
-    "processTime": 822,
-    "responseTime": 1822
+    "queryTime": 213,
+    "processTime": 221,
+    "responseTime": 221
   }
 }
