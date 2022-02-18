@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 520469,
+    "numFound": 520470,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "20e3a900-de3f-4021-da91-8eb3d13e9646",
+        "file_id": "20e3a900-de3f-4021-da91-8eb3d13e9646",
+        "file_name": "D Patrick for TX Lt Gov 619414 est 1333 supplemental form  02.27.22",
+        "file_extension": "pdf",
+        "file_size": 50435,
+        "file_status": "com_cpy",
+        "folder_id": "fdf4fd07-7323-3853-ccf7-04fe6894717a",
+        "create_ts": "2022-02-18T04:53:04.665Z",
+        "last_update_ts": "2022-02-18T04:53:51.493Z",
+        "active_ind": "Y",
+        "file_manager_id": "aae47677-319b-4a6e-abc6-a8f109e9674f",
+        "file_folder_path": "Political Files/2022/State/TX State Lieutenant Govenor/Dan Patrick for TX Lt Governor R/Forms",
+        "full_qualified_file_name": "Political Files/2022/State/TX State Lieutenant Govenor/Dan Patrick for TX Lt Governor R/Forms/D Patrick for TX Lt Gov 619414 est 1333 supplemental form  02.27.22",
+        "entity_id": "53117",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HOUSTON",
+        "callsign": "KPRC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725075276389417000,
+        "score": 0.24995685
+      },
       {
         "id": "809abc76-b0fb-501b-5b5b-d4ecaa7b7f47",
         "file_id": "809abc76-b0fb-501b-5b5b-d4ecaa7b7f47",
@@ -217,30 +242,6 @@
         "campaign_year": "2022",
         "_version_": 1725055222737272800,
         "score": 0.24995685
-      },
-      {
-        "id": "c73e4d77-7b83-c684-9a95-09801b4333dd",
-        "file_id": "c73e4d77-7b83-c684-9a95-09801b4333dd",
-        "file_name": "Protect our Future NAB KOIN 2.22",
-        "file_extension": "pdf",
-        "file_size": 466283,
-        "file_status": "com_cpy",
-        "folder_id": "e009d636-7c8c-ed7e-de71-dbe0a6ecb059",
-        "create_ts": "2022-02-17T23:32:09.563Z",
-        "last_update_ts": "2022-02-17T23:32:11.956Z",
-        "active_ind": "Y",
-        "file_manager_id": "6cbea9d5-5159-415d-8a18-fcf79d8a4a21",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future OR-06/NAB",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future OR-06/NAB/Protect our Future NAB KOIN 2.22",
-        "entity_id": "35380",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "PORTLAND OR",
-        "callsign": "KOIN",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1725055086151860200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -344,11 +345,11 @@
         "WACO-TEMPLE-BRYAN": 550,
         "BOSTON (MANCHESTER)": 546,
         "AUGUSTA": 538,
-        "HOUSTON": 533
+        "HOUSTON": 534
       },
       "network_affiliation": {
         "ABC": 57549,
-        "NBC": 56385,
+        "NBC": 56386,
         "CBS": 38451,
         "FOX": 27760,
         "PBS": 14387,
@@ -419,12 +420,12 @@
         "2019": 13966,
         "2020": 125783,
         "2021": 22524,
-        "2022": 3813,
+        "2022": 3814,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66515,
+        "State": 66516,
         "US Senate": 49385,
         "US House": 41541,
         "Presidential": 38843,
@@ -460,14 +461,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 235956,
+        "TV": 235957,
         "CABLE": 125560,
         "FM": 111750,
         "AM": 41843,
         "DBS": 5360
       },
       "political_file_type": {
-        "PA": 221399,
+        "PA": 221400,
         "NCIA": 123215
       }
     }
@@ -484,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1782,
-    "processTime": 791,
-    "responseTime": 1792
+    "queryTime": 1785,
+    "processTime": 795,
+    "responseTime": 1795
   }
 }
