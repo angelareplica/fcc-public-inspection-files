@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 520556,
+    "numFound": 520545,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
@@ -286,7 +286,7 @@
         "GREENSBORO-H.POINT-W.SALEM": 2530,
         "SAVANNAH": 2432,
         "QUINCY-HANNIBAL-KEOKUK": 2383,
-        "BIRMINGHAM (ANN TUSC)": 2340,
+        "BIRMINGHAM (ANN TUSC)": 2329,
         "PEORIA-BLOOMINGTON": 2308,
         "WAUSAU-RHINELANDER": 2291,
         "PHILADELPHIA": 2189,
@@ -361,7 +361,7 @@
       "network_affiliation": {
         "ABC": 57549,
         "NBC": 56394,
-        "CBS": 38468,
+        "CBS": 38457,
         "FOX": 27768,
         "PBS": 14387,
         "CW": 12069,
@@ -431,12 +431,12 @@
         "2019": 13966,
         "2020": 125783,
         "2021": 22525,
-        "2022": 3897,
+        "2022": 3886,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66529,
+        "State": 66522,
         "US Senate": 49421,
         "US House": 41544,
         "Presidential": 38843,
@@ -472,15 +472,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 235994,
+        "TV": 235983,
         "CABLE": 125591,
         "FM": 111752,
         "AM": 41845,
         "DBS": 5374
       },
       "political_file_type": {
-        "PA": 221453,
-        "NCIA": 123246
+        "PA": 221446,
+        "NCIA": 123242
       }
     }
   },
@@ -496,8 +496,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 220,
-    "responseTime": 221
+    "queryTime": 1793,
+    "processTime": 801,
+    "responseTime": 1802
   }
 }
