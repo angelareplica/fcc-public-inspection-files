@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 520468,
+    "numFound": 520469,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "809abc76-b0fb-501b-5b5b-d4ecaa7b7f47",
+        "file_id": "809abc76-b0fb-501b-5b5b-d4ecaa7b7f47",
+        "file_name": "Patrick  for Lt Gov 619414 est 1333 order 02.27.22",
+        "file_extension": "pdf",
+        "file_size": 30107,
+        "file_status": "com_cpy",
+        "folder_id": "1352cc47-d241-1983-fb27-a97806e0102f",
+        "create_ts": "2022-02-18T04:50:05.932Z",
+        "last_update_ts": "2022-02-18T04:50:00.063Z",
+        "active_ind": "Y",
+        "file_manager_id": "01264f60-0f90-4b62-b350-839f70865103",
+        "file_folder_path": "Political Files/2022/State/TX State Lieutenant Govenor/Dan Patrick for TX Lt Governor R/Orders",
+        "full_qualified_file_name": "Political Files/2022/State/TX State Lieutenant Govenor/Dan Patrick for TX Lt Governor R/Orders/Patrick  for Lt Gov 619414 est 1333 order 02.27.22",
+        "entity_id": "53117",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HOUSTON",
+        "callsign": "KPRC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725075088871522300,
+        "score": 0.24995685
+      },
       {
         "id": "24d0aa3d-304a-66f7-f041-e67bf74383e1",
         "file_id": "24d0aa3d-304a-66f7-f041-e67bf74383e1",
@@ -216,31 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1725055086151860200,
         "score": 0.24995685
-      },
-      {
-        "id": "bb7c7313-4818-935b-cb8d-2513c198b5e3",
-        "file_id": "bb7c7313-4818-935b-cb8d-2513c198b5e3",
-        "file_name": "KAMC Nebb 3417514 021822 - 022822",
-        "file_extension": "pdf",
-        "file_size": 2554252,
-        "file_status": "com_cpy",
-        "folder_id": "08c9b7f0-80b0-010f-4c1d-82148b3c73f3",
-        "create_ts": "2022-02-17T23:13:59.796Z",
-        "last_update_ts": "2022-02-17T23:14:46.889Z",
-        "active_ind": "Y",
-        "file_manager_id": "3dfce10a-341d-42a6-884f-c5e3b6ee9098",
-        "file_folder_path": "Political Files/2022/Local/Nebb",
-        "full_qualified_file_name": "Political Files/2022/Local/Nebb/KAMC Nebb 3417514 021822 - 022822",
-        "entity_id": "40820",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LUBBOCK",
-        "callsign": "KAMC",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1725053944180244500,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -344,11 +344,11 @@
         "WACO-TEMPLE-BRYAN": 550,
         "BOSTON (MANCHESTER)": 546,
         "AUGUSTA": 538,
-        "HOUSTON": 532
+        "HOUSTON": 533
       },
       "network_affiliation": {
         "ABC": 57549,
-        "NBC": 56384,
+        "NBC": 56385,
         "CBS": 38451,
         "FOX": 27760,
         "PBS": 14387,
@@ -419,12 +419,12 @@
         "2019": 13966,
         "2020": 125783,
         "2021": 22524,
-        "2022": 3812,
+        "2022": 3813,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66514,
+        "State": 66515,
         "US Senate": 49385,
         "US House": 41541,
         "Presidential": 38843,
@@ -460,14 +460,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 235955,
+        "TV": 235956,
         "CABLE": 125560,
         "FM": 111750,
         "AM": 41843,
         "DBS": 5360
       },
       "political_file_type": {
-        "PA": 221398,
+        "PA": 221399,
         "NCIA": 123215
       }
     }
@@ -484,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 220,
-    "responseTime": 221
+    "queryTime": 1782,
+    "processTime": 791,
+    "responseTime": 1792
   }
 }
