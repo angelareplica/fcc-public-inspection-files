@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 520649,
+    "numFound": 520647,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
@@ -419,7 +419,7 @@
         "2019": 13966,
         "2020": 125731,
         "2021": 22525,
-        "2022": 4041,
+        "2022": 4039,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -461,14 +461,14 @@
       },
       "source_service_code": {
         "TV": 236035,
-        "CABLE": 125612,
+        "CABLE": 125610,
         "FM": 111764,
         "AM": 41859,
         "DBS": 5379
       },
       "political_file_type": {
         "PA": 221516,
-        "NCIA": 123275
+        "NCIA": 123273
       }
     }
   },
@@ -484,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 222,
-    "processTime": 229,
-    "responseTime": 230
+    "queryTime": 210,
+    "processTime": 218,
+    "responseTime": 219
   }
 }
