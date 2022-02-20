@@ -5,6 +5,48 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "457a31ef-fb00-aa99-1e19-8542fd671c29",
+        "file_id": "457a31ef-fb00-aa99-1e19-8542fd671c29",
+        "file_name": "InfoTrak Show #2022-08 Aired 2-20-22",
+        "file_extension": "pdf",
+        "file_size": 161392,
+        "file_status": "com_cpy",
+        "folder_id": "5cf305b1-68b5-97a4-5c65-fcd249afdc76",
+        "create_ts": "2022-02-20T00:12:12.966Z",
+        "last_update_ts": "2022-02-20T00:12:06.94Z",
+        "active_ind": "Y",
+        "file_manager_id": "d2a6acbc-389f-4c2a-9d89-1188e175f93c",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/InfoTrak Show #2022-08 Aired 2-20-22",
+        "entity_id": "47103",
+        "source_service_code": "FM",
+        "callsign": "WKKY",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1725238800165109800,
+        "score": 0.24995685
+      },
+      {
+        "id": "efabefba-f638-598e-f985-a3ddf9f2a26f",
+        "file_id": "efabefba-f638-598e-f985-a3ddf9f2a26f",
+        "file_name": "WTIG Notary Page 4th Q 2021 Quarterly Issues Report",
+        "file_extension": "pdf",
+        "file_size": 145137,
+        "file_status": "com_cpy",
+        "folder_id": "07de8ef7-69e9-8df5-1ebe-383715065fc6",
+        "create_ts": "2022-02-20T00:07:53.828Z",
+        "last_update_ts": "2022-02-20T00:07:56.186Z",
+        "active_ind": "Y",
+        "file_manager_id": "01ad275c-5cfb-4087-a51a-def5d99280af",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/WTIG Notary Page 4th Q 2021 Quarterly Issues Report",
+        "entity_id": "15282",
+        "source_service_code": "AM",
+        "callsign": "WTIG",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1725238528452853800,
+        "score": 0.00012497843
+      },
+      {
         "id": "aecee52f-bfc3-2d82-dcc5-67a5c11022fa",
         "file_id": "aecee52f-bfc3-2d82-dcc5-67a5c11022fa",
         "file_name": "PA InfoTrak quarterly report, 2021-04_29.5 min",
@@ -191,56 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1725150353556504600,
         "score": 0.24995685
-      },
-      {
-        "id": "272d15d7-4253-d65d-7c65-ea7fe845254d",
-        "file_id": "272d15d7-4253-d65d-7c65-ea7fe845254d",
-        "file_name": "Dave White PA Gov 0221-0227 2417400--1",
-        "file_extension": "pdf",
-        "file_size": 260905,
-        "file_status": "com_cpy",
-        "folder_id": "89ea492b-eeaa-735a-16f6-5bf058815a84",
-        "create_ts": "2022-02-19T00:46:23.7Z",
-        "last_update_ts": "2022-02-19T00:46:26.063Z",
-        "active_ind": "Y",
-        "file_manager_id": "a1060dfd-ad8d-4fb5-a1d7-6e05f6efc3c7",
-        "file_folder_path": "Political Files/2022/State/Dave White-R-Governor PA",
-        "full_qualified_file_name": "Political Files/2022/State/Dave White-R-Governor PA/Dave White PA Gov 0221-0227 2417400--1",
-        "entity_id": "73318",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WNEP-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725150353580621800,
-        "score": 0.24995685
-      },
-      {
-        "id": "0142f3ae-fe55-0ad3-8348-dc6a76de8a1c",
-        "file_id": "0142f3ae-fe55-0ad3-8348-dc6a76de8a1c",
-        "file_name": "McCormick US Sen 0221-0225 2417425--1",
-        "file_extension": "pdf",
-        "file_size": 233695,
-        "file_status": "com_cpy",
-        "folder_id": "a4cda6c9-107c-1a71-bcfb-053bd28a763a",
-        "create_ts": "2022-02-19T00:44:28.024Z",
-        "last_update_ts": "2022-02-19T00:45:17.363Z",
-        "active_ind": "Y",
-        "file_manager_id": "73201fcd-34a6-4888-adbc-009f7510fc53",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Dave McCormick-R-US Senate PA",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Dave McCormick-R-US Senate PA/McCormick US Sen 0221-0225 2417425--1",
-        "entity_id": "73318",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WNEP-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1725150232349507600,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -419,7 +411,7 @@
         "2019": 13966,
         "2020": 125731,
         "2021": 22525,
-        "2022": 4041,
+        "2022": 4039,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -432,7 +424,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61591,
-        "Issues and Programs Lists": 44905,
+        "Issues and Programs Lists": 44907,
         "Equal Employment Opportunity Records": 37145,
         "Donor Lists - Applicable Only for NCEs": 11562,
         "FCC Authorizations": 7274,
@@ -461,14 +453,14 @@
       },
       "source_service_code": {
         "TV": 236035,
-        "CABLE": 125612,
-        "FM": 111764,
-        "AM": 41859,
+        "CABLE": 125610,
+        "FM": 111765,
+        "AM": 41860,
         "DBS": 5379
       },
       "political_file_type": {
         "PA": 221516,
-        "NCIA": 123275
+        "NCIA": 123273
       }
     }
   },
@@ -484,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 210,
-    "processTime": 219,
-    "responseTime": 219
+    "queryTime": 212,
+    "processTime": 222,
+    "responseTime": 222
   }
 }
