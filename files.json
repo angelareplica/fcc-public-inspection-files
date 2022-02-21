@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 520733,
+    "numFound": 520734,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "b9d5a9b5-621c-1aae-1fe2-bffc9977f0a3",
+        "file_id": "b9d5a9b5-621c-1aae-1fe2-bffc9977f0a3",
+        "file_name": "Pol Friends of Dave White R Gov PA_NAB_913379",
+        "file_extension": "pdf",
+        "file_size": 962031,
+        "file_status": "com_cpy",
+        "folder_id": "4bebf097-38a8-7321-a3dc-98ea444a3e17",
+        "create_ts": "2022-02-21T22:26:36.69Z",
+        "last_update_ts": "2022-02-21T22:26:39.432Z",
+        "active_ind": "Y",
+        "file_manager_id": "755a6083-8f37-41d9-b91c-411ff29db05e",
+        "file_folder_path": "Political Files/2022/State/Governor/Pol Friends of David White R GOV PA/913379-0221-0227",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Pol Friends of David White R GOV PA/913379-0221-0227/Pol Friends of Dave White R Gov PA_NAB_913379",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725413350389579800,
+        "score": 0.24995685
+      },
       {
         "id": "464504e3-99c3-91f7-f335-92f22af197ea",
         "file_id": "464504e3-99c3-91f7-f335-92f22af197ea",
@@ -221,31 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1725409351425851400,
         "score": 0.00012497843
-      },
-      {
-        "id": "08b1a932-7cec-1daa-a710-8eb865e9b0ed",
-        "file_id": "08b1a932-7cec-1daa-a710-8eb865e9b0ed",
-        "file_name": "Timothy Gassaway KEYU NAB New Order Page 1",
-        "file_extension": "pdf",
-        "file_size": 1699510,
-        "file_status": "com_cpy",
-        "folder_id": "4095cbdf-9132-52b9-fa0d-ac6611f3f5e0",
-        "create_ts": "2022-02-21T21:23:03.482Z",
-        "last_update_ts": "2022-02-21T21:22:58.058Z",
-        "active_ind": "Y",
-        "file_manager_id": "9707b954-bb95-4c4e-977c-31cfd05790f5",
-        "file_folder_path": "Political Files/2022/Local/Potter County Commissioner Precinct 4/Timothy Gassaway",
-        "full_qualified_file_name": "Political Files/2022/Local/Potter County Commissioner Precinct 4/Timothy Gassaway/Timothy Gassaway KEYU NAB New Order Page 1",
-        "entity_id": "51466",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "AMARILLO",
-        "callsign": "KFDA-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1725409352589770800,
-        "score": 0.00012497843
       }
     ],
     "facets": {
@@ -255,7 +255,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7039,
         "LAS VEGAS": 6026,
         "WEST PALM BEACH-FT. PIERCE": 5811,
-        "PITTSBURGH": 5519,
+        "PITTSBURGH": 5520,
         "HONOLULU": 5214,
         "DULUTH-SUPERIOR": 4654,
         "CHARLESTON-HUNTINGTON": 4332,
@@ -353,7 +353,7 @@
       },
       "network_affiliation": {
         "ABC": 57571,
-        "NBC": 56420,
+        "NBC": 56421,
         "CBS": 38457,
         "FOX": 27783,
         "PBS": 14387,
@@ -424,12 +424,12 @@
         "2019": 13966,
         "2020": 125731,
         "2021": 22525,
-        "2022": 4131,
+        "2022": 4132,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66632,
+        "State": 66633,
         "US Senate": 49408,
         "US House": 41566,
         "Presidential": 38823,
@@ -465,14 +465,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236062,
+        "TV": 236063,
         "CABLE": 125642,
         "FM": 111774,
         "AM": 41876,
         "DBS": 5379
       },
       "political_file_type": {
-        "PA": 221568,
+        "PA": 221569,
         "NCIA": 123313
       }
     }
@@ -489,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1808,
-    "processTime": 817,
-    "responseTime": 1817
+    "queryTime": 1806,
+    "processTime": 814,
+    "responseTime": 1815
   }
 }
