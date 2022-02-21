@@ -5,6 +5,54 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "242863a9-2b0e-8e5e-5c06-41eb11649fd2",
+        "file_id": "242863a9-2b0e-8e5e-5c06-41eb11649fd2",
+        "file_name": "1Q22 Jim Pillen for Gov Est2905 KPTM #1751146 Order NABs 2 022122 to 022722",
+        "file_extension": "pdf",
+        "file_size": 3080083,
+        "file_status": "com_cpy",
+        "folder_id": "af723c62-8a0a-36a3-a3a0-3400f7fa88e0",
+        "create_ts": "2022-02-21T19:40:59.542Z",
+        "last_update_ts": "2022-02-21T19:41:57.652Z",
+        "active_ind": "Y",
+        "file_manager_id": "e46aca4e-0711-4b01-ac9e-7338797093b8",
+        "file_folder_path": "Political Files/2022/Local/Jim Pillen Governor",
+        "full_qualified_file_name": "Political Files/2022/Local/Jim Pillen Governor/1Q22 Jim Pillen for Gov Est2905 KPTM #1751146 Order NABs 2 022122 to 022722",
+        "entity_id": "51491",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "OMAHA",
+        "callsign": "KPTM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1725402931131318300,
+        "score": 0.24995685
+      },
+      {
+        "id": "9ca72b6b-3ba1-0b8e-2dc4-4bb50988864d",
+        "file_id": "9ca72b6b-3ba1-0b8e-2dc4-4bb50988864d",
+        "file_name": "Kemp for Gov WGKA 022322 Order and NAB PB-19",
+        "file_extension": "pdf",
+        "file_size": 2050358,
+        "file_status": "com_cpy",
+        "folder_id": "eaf7c565-a23e-7475-7e1f-75c4f2eb2533",
+        "create_ts": "2022-02-21T19:38:14.567Z",
+        "last_update_ts": "2022-02-21T19:38:17.517Z",
+        "active_ind": "Y",
+        "file_manager_id": "a953b182-4f42-41b6-b74b-9bfaec1fcb3a",
+        "file_folder_path": "Political Files/2022/State/Georgia Governor Primary",
+        "full_qualified_file_name": "Political Files/2022/State/Georgia Governor Primary/Kemp for Gov WGKA 022322 Order and NAB PB-19",
+        "entity_id": "65976",
+        "source_service_code": "AM",
+        "callsign": "WGKA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725402757762908200,
+        "score": 0.24995685
+      },
+      {
         "id": "94d91646-ff44-e54a-421f-3d03049b7334",
         "file_id": "94d91646-ff44-e54a-421f-3d03049b7334",
         "file_name": "Traffic 02.22 AL-Gov Kay Ivey",
@@ -192,56 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1725398630329745400,
         "score": 0.24995685
-      },
-      {
-        "id": "e9492fcf-970c-508f-71d1-f8cdb307463f",
-        "file_id": "e9492fcf-970c-508f-71d1-f8cdb307463f",
-        "file_name": "Pol J Corman R Gov PA_NAB_914014",
-        "file_extension": "pdf",
-        "file_size": 535363,
-        "file_status": "com_cpy",
-        "folder_id": "51799dfd-266c-3518-358a-728cb1a166bb",
-        "create_ts": "2022-02-21T18:30:48.619Z",
-        "last_update_ts": "2022-02-21T18:30:51.138Z",
-        "active_ind": "Y",
-        "file_manager_id": "0381564e-e66d-4cb7-b96c-93df1e78a44b",
-        "file_folder_path": "Political Files/2022/State/Governor/Pol J Corman R GOV PA/914014-0223-0225",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Pol J Corman R GOV PA/914014-0223-0225/Pol J Corman R Gov PA_NAB_914014",
-        "entity_id": "73910",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PITTSBURGH",
-        "callsign": "WPXI",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725398514824904700,
-        "score": 0.24995685
-      },
-      {
-        "id": "106716f3-507d-b0f0-66d9-73c9feebd9a3",
-        "file_id": "106716f3-507d-b0f0-66d9-73c9feebd9a3",
-        "file_name": "Pol J Corman R Gov PA_914014",
-        "file_extension": "pdf",
-        "file_size": 227725,
-        "file_status": "com_cpy",
-        "folder_id": "51799dfd-266c-3518-358a-728cb1a166bb",
-        "create_ts": "2022-02-21T18:30:48.512Z",
-        "last_update_ts": "2022-02-21T18:30:42.296Z",
-        "active_ind": "Y",
-        "file_manager_id": "a9bf2e6f-eaf3-4ec4-9a66-eed4deb726b0",
-        "file_folder_path": "Political Files/2022/State/Governor/Pol J Corman R GOV PA/914014-0223-0225",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Pol J Corman R GOV PA/914014-0223-0225/Pol J Corman R Gov PA_914014",
-        "entity_id": "73910",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PITTSBURGH",
-        "callsign": "WPXI",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725398514731581400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -257,7 +255,7 @@
         "CHARLESTON-HUNTINGTON": 4332,
         "PORTLAND-AUBURN": 4216,
         "TALLAHASSEE-THOMASVILLE": 3986,
-        "OMAHA": 3630,
+        "OMAHA": 3631,
         "BUTTE-BOZEMAN": 3622,
         "EUGENE": 3373,
         "MISSOULA": 3294,
@@ -351,7 +349,7 @@
         "ABC": 57571,
         "NBC": 56414,
         "CBS": 38456,
-        "FOX": 27780,
+        "FOX": 27781,
         "PBS": 14387,
         "CW": 12073,
         "IND": 2989,
@@ -425,11 +423,11 @@
         "Fede": 1
       },
       "office_type": {
-        "State": 66626,
+        "State": 66627,
         "US Senate": 49408,
         "US House": 41565,
         "Presidential": 38823,
-        "Local": 24095
+        "Local": 24096
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61591,
@@ -461,15 +459,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236052,
-        "CABLE": 125614,
+        "TV": 236053,
+        "CABLE": 125612,
         "FM": 111771,
-        "AM": 41875,
+        "AM": 41876,
         "DBS": 5379
       },
       "political_file_type": {
-        "PA": 221552,
-        "NCIA": 123284
+        "PA": 221554,
+        "NCIA": 123282
       }
     }
   },
@@ -485,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1781,
-    "processTime": 793,
-    "responseTime": 1794
+    "queryTime": 1802,
+    "processTime": 810,
+    "responseTime": 1810
   }
 }
