@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 520647,
+    "numFound": 520649,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "6ee4f0aa-5627-75dc-ea39-7817fd07a513",
+        "file_id": "6ee4f0aa-5627-75dc-ea39-7817fd07a513",
+        "file_name": "WDBT - Alabama Patriots - 10977-00007",
+        "file_extension": "pdf",
+        "file_size": 393468,
+        "file_status": "com_cpy",
+        "folder_id": "6bc94580-d463-8840-dad1-7e85c3c1e20a",
+        "create_ts": "2022-02-21T15:43:18.451Z",
+        "last_update_ts": "2022-02-21T15:44:15.324Z",
+        "active_ind": "Y",
+        "file_manager_id": "2d7bdaef-761d-42f3-92c1-7d49c4ccad7a",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Alabama Patriots",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Alabama Patriots/WDBT - Alabama Patriots - 10977-00007",
+        "entity_id": "63945",
+        "source_service_code": "FM",
+        "callsign": "WDBT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725387976478818300,
+        "score": 0.24995685
+      },
+      {
+        "id": "2db0de9b-7372-b5c0-2b8c-4d1c5571e234",
+        "file_id": "2db0de9b-7372-b5c0-2b8c-4d1c5571e234",
+        "file_name": "WDBT - Alabama Patriots - 10977-00004",
+        "file_extension": "pdf",
+        "file_size": 393864,
+        "file_status": "com_cpy",
+        "folder_id": "6bc94580-d463-8840-dad1-7e85c3c1e20a",
+        "create_ts": "2022-02-21T15:42:49.487Z",
+        "last_update_ts": "2022-02-21T15:42:52.012Z",
+        "active_ind": "Y",
+        "file_manager_id": "d88ebcaf-7fa3-4bc2-9c87-c1ca9e741628",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Alabama Patriots",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Alabama Patriots/WDBT - Alabama Patriots - 10977-00004",
+        "entity_id": "63945",
+        "source_service_code": "FM",
+        "callsign": "WDBT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725387946106814500,
+        "score": 0.24995685
+      },
       {
         "id": "754aedd8-d4aa-7cd3-6699-13a1974a96f8",
         "file_id": "754aedd8-d4aa-7cd3-6699-13a1974a96f8",
@@ -187,48 +231,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1725238800165109800,
         "score": 0.24995685
-      },
-      {
-        "id": "efabefba-f638-598e-f985-a3ddf9f2a26f",
-        "file_id": "efabefba-f638-598e-f985-a3ddf9f2a26f",
-        "file_name": "WTIG Notary Page 4th Q 2021 Quarterly Issues Report",
-        "file_extension": "pdf",
-        "file_size": 145137,
-        "file_status": "com_cpy",
-        "folder_id": "07de8ef7-69e9-8df5-1ebe-383715065fc6",
-        "create_ts": "2022-02-20T00:07:53.828Z",
-        "last_update_ts": "2022-02-20T00:07:56.186Z",
-        "active_ind": "Y",
-        "file_manager_id": "01ad275c-5cfb-4087-a51a-def5d99280af",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/WTIG Notary Page 4th Q 2021 Quarterly Issues Report",
-        "entity_id": "15282",
-        "source_service_code": "AM",
-        "callsign": "WTIG",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1725238528452853800,
-        "score": 0.00012497843
-      },
-      {
-        "id": "aecee52f-bfc3-2d82-dcc5-67a5c11022fa",
-        "file_id": "aecee52f-bfc3-2d82-dcc5-67a5c11022fa",
-        "file_name": "PA InfoTrak quarterly report, 2021-04_29.5 min",
-        "file_extension": "pdf",
-        "file_size": 280801,
-        "file_status": "com_cpy",
-        "folder_id": "096f3417-f618-cbf3-1120-d1e89a2bf2e6",
-        "create_ts": "2022-02-19T21:10:36.872Z",
-        "last_update_ts": "2022-02-19T21:10:57.069Z",
-        "active_ind": "Y",
-        "file_manager_id": "4c097661-598c-44c8-8706-c5d26dfcae95",
-        "file_folder_path": "Issues and Programs Lists/2021",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/PA InfoTrak quarterly report, 2021-04_29.5 min",
-        "entity_id": "31153",
-        "source_service_code": "AM",
-        "callsign": "WANO",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1725227402248847400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -407,7 +409,7 @@
         "2019": 13966,
         "2020": 125731,
         "2021": 22525,
-        "2022": 4042,
+        "2022": 4044,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -450,13 +452,13 @@
       "source_service_code": {
         "TV": 236036,
         "CABLE": 125612,
-        "FM": 111759,
+        "FM": 111761,
         "AM": 41861,
         "DBS": 5379
       },
       "political_file_type": {
         "PA": 221519,
-        "NCIA": 123273
+        "NCIA": 123275
       }
     }
   },
@@ -472,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 210,
-    "processTime": 219,
-    "responseTime": 220
+    "queryTime": 209,
+    "processTime": 217,
+    "responseTime": 217
   }
 }
