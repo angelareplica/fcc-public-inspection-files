@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 520691,
+    "numFound": 520692,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "28c1529e-fb03-3826-e45b-9080f56c424a",
+        "file_id": "28c1529e-fb03-3826-e45b-9080f56c424a",
+        "file_name": "Pol J Corman R Gov PA_NAB_914046",
+        "file_extension": "pdf",
+        "file_size": 828685,
+        "file_status": "com_cpy",
+        "folder_id": "e5cf4be4-b81c-e801-bbcf-1a4235c66c30",
+        "create_ts": "2022-02-21T19:51:35.939Z",
+        "last_update_ts": "2022-02-21T19:51:29.741Z",
+        "active_ind": "Y",
+        "file_manager_id": "c63c532a-56ce-406f-8d37-1b7fffcee9ae",
+        "file_folder_path": "Political Files/2022/State/Governor/Pol J Corman R GOV PA/914046-0226-0301",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Pol J Corman R GOV PA/914046-0226-0301/Pol J Corman R Gov PA_NAB_914046",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725403597652361200,
+        "score": 0.24995685
+      },
+      {
+        "id": "86488772-0b55-01f3-4ec7-9485cbf018a3",
+        "file_id": "86488772-0b55-01f3-4ec7-9485cbf018a3",
+        "file_name": "Pol J Corman R Gov PA_914046",
+        "file_extension": "pdf",
+        "file_size": 261921,
+        "file_status": "com_cpy",
+        "folder_id": "e5cf4be4-b81c-e801-bbcf-1a4235c66c30",
+        "create_ts": "2022-02-21T19:51:35.8Z",
+        "last_update_ts": "2022-02-21T19:51:29.355Z",
+        "active_ind": "Y",
+        "file_manager_id": "143d5856-869e-4990-8567-423da07c7d11",
+        "file_folder_path": "Political Files/2022/State/Governor/Pol J Corman R GOV PA/914046-0226-0301",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Pol J Corman R GOV PA/914046-0226-0301/Pol J Corman R Gov PA_914046",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725403597257048000,
+        "score": 0.24995685
+      },
       {
         "id": "242863a9-2b0e-8e5e-5c06-41eb11649fd2",
         "file_id": "242863a9-2b0e-8e5e-5c06-41eb11649fd2",
@@ -191,55 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1725398755536011300,
         "score": 0.24995685
-      },
-      {
-        "id": "872bb9e2-5575-8d47-b402-ed57e974658e",
-        "file_id": "872bb9e2-5575-8d47-b402-ed57e974658e",
-        "file_name": "BNP 02.21.22-03.01.22 984471 Order",
-        "file_extension": "pdf",
-        "file_size": 33917,
-        "file_status": "com_cpy",
-        "folder_id": "63e53f30-ec06-f850-2b82-313a545b7d8d",
-        "create_ts": "2022-02-21T18:34:38.559Z",
-        "last_update_ts": "2022-02-21T18:34:40.796Z",
-        "active_ind": "Y",
-        "file_manager_id": "fc338af9-7844-4f34-add1-8701f3df2848",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Better Nevada PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Better Nevada PAC/BNP 02.21.22-03.01.22 984471 Order",
-        "entity_id": "74100",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KTNV-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1725398755639820300,
-        "score": 0.24995685
-      },
-      {
-        "id": "960df13c-07f0-0fbe-c153-8ef077d943c6",
-        "file_id": "960df13c-07f0-0fbe-c153-8ef077d943c6",
-        "file_name": "WMYD Perry-Johnson-02-10-2022 (003)",
-        "file_extension": "pdf",
-        "file_size": 59836,
-        "file_status": "com_cpy",
-        "folder_id": "1440d652-dbeb-1537-3d51-6162fd3c5136",
-        "create_ts": "2022-02-21T18:32:39.054Z",
-        "last_update_ts": "2022-02-21T18:32:32.526Z",
-        "active_ind": "Y",
-        "file_manager_id": "5d1a8333-307c-4ab9-90cd-b65f526f5ba0",
-        "file_folder_path": "Political Files/2022/State/Govenor/Perry Johnson Republican/Political Disclosure",
-        "full_qualified_file_name": "Political Files/2022/State/Govenor/Perry Johnson Republican/Political Disclosure/WMYD Perry-Johnson-02-10-2022 (003)",
-        "entity_id": "74211",
-        "source_service_code": "TV",
-        "network_affiliation": "MYTV",
-        "nielsen_dma_rank": "DETROIT",
-        "callsign": "WMYD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725398630329745400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -249,7 +250,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7039,
         "LAS VEGAS": 6026,
         "WEST PALM BEACH-FT. PIERCE": 5811,
-        "PITTSBURGH": 5515,
+        "PITTSBURGH": 5517,
         "HONOLULU": 5214,
         "DULUTH-SUPERIOR": 4654,
         "CHARLESTON-HUNTINGTON": 4332,
@@ -340,15 +341,15 @@
         "TERRE HAUTE": 635,
         "MONTEREY-SALINAS": 632,
         "MACON": 613,
-        "WACO-TEMPLE-BRYAN": 553,
+        "WACO-TEMPLE-BRYAN": 552,
         "BOSTON (MANCHESTER)": 546,
         "HOUSTON": 539,
         "AUGUSTA": 538
       },
       "network_affiliation": {
         "ABC": 57571,
-        "NBC": 56414,
-        "CBS": 38456,
+        "NBC": 56416,
+        "CBS": 38455,
         "FOX": 27781,
         "PBS": 14387,
         "CW": 12073,
@@ -418,12 +419,12 @@
         "2019": 13966,
         "2020": 125731,
         "2021": 22525,
-        "2022": 4086,
+        "2022": 4088,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66627,
+        "State": 66629,
         "US Senate": 49408,
         "US House": 41565,
         "Presidential": 38823,
@@ -432,7 +433,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61591,
         "Issues and Programs Lists": 44907,
-        "Equal Employment Opportunity Records": 37144,
+        "Equal Employment Opportunity Records": 37143,
         "Donor Lists - Applicable Only for NCEs": 11562,
         "FCC Authorizations": 7272,
         "Availability of Signals": 1867,
@@ -459,14 +460,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236053,
+        "TV": 236054,
         "CABLE": 125612,
         "FM": 111771,
         "AM": 41876,
         "DBS": 5379
       },
       "political_file_type": {
-        "PA": 221554,
+        "PA": 221556,
         "NCIA": 123282
       }
     }
@@ -483,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1802,
-    "processTime": 810,
-    "responseTime": 1810
+    "queryTime": 1788,
+    "processTime": 796,
+    "responseTime": 1797
   }
 }
