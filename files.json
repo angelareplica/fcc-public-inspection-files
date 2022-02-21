@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 520644,
+    "numFound": 520646,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "d92478a9-ac41-3218-6160-f009fd6f32f1",
+        "file_id": "d92478a9-ac41-3218-6160-f009fd6f32f1",
+        "file_name": "A600974-NAB-021722",
+        "file_extension": "pdf",
+        "file_size": 5518864,
+        "file_status": "com_cpy",
+        "folder_id": "811cb13b-1b98-b4a7-5ac0-59ef57841523",
+        "create_ts": "2022-02-21T14:19:44.61Z",
+        "last_update_ts": "2022-02-21T14:20:42.636Z",
+        "active_ind": "Y",
+        "file_manager_id": "a0a3726e-8905-442f-b040-d6f15be9ecac",
+        "file_folder_path": "Political Files/2022/State/Governor/Irvin for Illinois 2022",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Irvin for Illinois 2022/A600974-NAB-021722",
+        "entity_id": "54281",
+        "source_service_code": "FM",
+        "callsign": "WGEM-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725382720474841000,
+        "score": 0.24995685
+      },
+      {
+        "id": "f48cfe7f-a6f3-f732-e233-6574f6d73a66",
+        "file_id": "f48cfe7f-a6f3-f732-e233-6574f6d73a66",
+        "file_name": "A600974-REQUEST-2427982-021722",
+        "file_extension": "pdf",
+        "file_size": 87062,
+        "file_status": "com_cpy",
+        "folder_id": "811cb13b-1b98-b4a7-5ac0-59ef57841523",
+        "create_ts": "2022-02-21T14:19:35.606Z",
+        "last_update_ts": "2022-02-21T14:19:37.887Z",
+        "active_ind": "Y",
+        "file_manager_id": "d34b3fec-29bf-48f7-a5ec-223281a1eec1",
+        "file_folder_path": "Political Files/2022/State/Governor/Irvin for Illinois 2022",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Irvin for Illinois 2022/A600974-REQUEST-2427982-021722",
+        "entity_id": "54281",
+        "source_service_code": "FM",
+        "callsign": "WGEM-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725382709391392800,
+        "score": 0.24995685
+      },
       {
         "id": "76fb087b-8f7b-8065-3986-b7bf3be78f34",
         "file_id": "76fb087b-8f7b-8065-3986-b7bf3be78f34",
@@ -178,56 +224,6 @@
         "office_type": "US Senate",
         "campaign_year": "2022",
         "_version_": 1725208987062763500,
-        "score": 0.24995685
-      },
-      {
-        "id": "5c987fa5-4797-4826-7849-3c66227901bf",
-        "file_id": "5c987fa5-4797-4826-7849-3c66227901bf",
-        "file_name": "A36004-CONTRACT-625702-021122",
-        "file_extension": "pdf",
-        "file_size": 278253,
-        "file_status": "com_cpy",
-        "folder_id": "e9c62cb3-e697-92e7-5677-4a7e3cb7fee4",
-        "create_ts": "2022-02-19T16:18:21.875Z",
-        "last_update_ts": "2022-02-19T16:18:16.005Z",
-        "active_ind": "Y",
-        "file_manager_id": "a27b1957-9b68-439e-8b8e-2843645211f2",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Ron Johnson/Ron Johnson for Senate 36004",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Ron Johnson/Ron Johnson for Senate 36004/A36004-CONTRACT-625702-021122",
-        "entity_id": "64546",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "WAUSAU-RHINELANDER",
-        "callsign": "WAOW",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1725208988094562300,
-        "score": 0.24995685
-      },
-      {
-        "id": "a1d5b29d-d5f9-2fb0-9244-1b5709793555",
-        "file_id": "a1d5b29d-d5f9-2fb0-9244-1b5709793555",
-        "file_name": "A36004-CONTRACT-625702-021122",
-        "file_extension": "pdf",
-        "file_size": 278253,
-        "file_status": "com_cpy",
-        "folder_id": "345e84a3-ae03-7a1e-b95a-6b9c9f20a308",
-        "create_ts": "2022-02-19T16:17:20.483Z",
-        "last_update_ts": "2022-02-19T16:18:11.573Z",
-        "active_ind": "Y",
-        "file_manager_id": "55d7b10e-4786-4b1b-b83b-9c67c4deed1d",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Ron Johnson/Ron Johnson for Senate 36004",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Ron Johnson/Ron Johnson for Senate 36004/A36004-CONTRACT-625702-021122",
-        "entity_id": "81503",
-        "source_service_code": "TV",
-        "network_affiliation": "FAMILYNET",
-        "nielsen_dma_rank": "WAUSAU-RHINELANDER",
-        "callsign": "WMOW",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1725208923629158400,
         "score": 0.24995685
       }
     ],
@@ -407,7 +403,7 @@
         "2019": 13966,
         "2020": 125731,
         "2021": 22525,
-        "2022": 4039,
+        "2022": 4041,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -449,14 +445,14 @@
       },
       "source_service_code": {
         "TV": 236035,
-        "CABLE": 125612,
+        "CABLE": 125614,
         "FM": 111758,
         "AM": 41860,
         "DBS": 5379
       },
       "political_file_type": {
         "PA": 221516,
-        "NCIA": 123273
+        "NCIA": 123275
       }
     }
   },
@@ -472,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1773,
-    "processTime": 787,
-    "responseTime": 1788
+    "queryTime": 1810,
+    "processTime": 818,
+    "responseTime": 1818
   }
 }
