@@ -341,7 +341,7 @@
         "TERRE HAUTE": 635,
         "MONTEREY-SALINAS": 632,
         "MACON": 613,
-        "WACO-TEMPLE-BRYAN": 552,
+        "WACO-TEMPLE-BRYAN": 550,
         "BOSTON (MANCHESTER)": 546,
         "HOUSTON": 539,
         "AUGUSTA": 538
@@ -349,7 +349,7 @@
       "network_affiliation": {
         "ABC": 57571,
         "NBC": 56416,
-        "CBS": 38455,
+        "CBS": 38453,
         "FOX": 27781,
         "PBS": 14387,
         "CW": 12073,
@@ -419,7 +419,7 @@
         "2019": 13966,
         "2020": 125731,
         "2021": 22525,
-        "2022": 4088,
+        "2022": 4090,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -433,7 +433,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61591,
         "Issues and Programs Lists": 44907,
-        "Equal Employment Opportunity Records": 37143,
+        "Equal Employment Opportunity Records": 37141,
         "Donor Lists - Applicable Only for NCEs": 11562,
         "FCC Authorizations": 7272,
         "Availability of Signals": 1867,
@@ -460,15 +460,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236054,
-        "CABLE": 125612,
+        "TV": 236052,
+        "CABLE": 125614,
         "FM": 111771,
         "AM": 41876,
         "DBS": 5379
       },
       "political_file_type": {
         "PA": 221556,
-        "NCIA": 123282
+        "NCIA": 123284
       }
     }
   },
@@ -484,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1788,
-    "processTime": 796,
-    "responseTime": 1797
+    "queryTime": 209,
+    "processTime": 218,
+    "responseTime": 219
   }
 }
