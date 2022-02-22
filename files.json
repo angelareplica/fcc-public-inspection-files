@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 520746,
+    "numFound": 520748,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "bf20763e-b3ce-c896-75f3-a8a637a75322",
+        "file_id": "bf20763e-b3ce-c896-75f3-a8a637a75322",
+        "file_name": "Theresa For Governor 2022 Primary Election 02-23-22 to 03-22-22",
+        "file_extension": "pdf",
+        "file_size": 2837608,
+        "file_status": "com_cpy",
+        "folder_id": "e17c5858-c7b8-d78d-2c41-94daa97020f9",
+        "create_ts": "2022-02-22T01:48:12.497Z",
+        "last_update_ts": "2022-02-22T01:48:15.473Z",
+        "active_ind": "Y",
+        "file_manager_id": "020cbe88-e860-48d8-b794-e344dc43fe26",
+        "file_folder_path": "Political Files/2022/State/Governor/Theresa For Governor Primary",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Theresa For Governor Primary/Theresa For Governor 2022 Primary Election 02-23-22 to 03-22-22",
+        "entity_id": "191571",
+        "source_service_code": "FM",
+        "callsign": "KDJL",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725426034021499000,
+        "score": 0.24995685
+      },
+      {
+        "id": "43b19bca-13bb-6bcc-b895-ee71f30d2d89",
+        "file_id": "43b19bca-13bb-6bcc-b895-ee71f30d2d89",
+        "file_name": "Theresa For Governor 2022 Primary Election 02-23-22 to 03-22-22",
+        "file_extension": "pdf",
+        "file_size": 2837608,
+        "file_status": "com_cpy",
+        "folder_id": "c514a935-9cb4-1aa3-1587-aa9243d0c858",
+        "create_ts": "2022-02-22T01:44:46.358Z",
+        "last_update_ts": "2022-02-22T01:44:49.37Z",
+        "active_ind": "Y",
+        "file_manager_id": "9dd62409-7bca-45fe-bf92-56c399660cd0",
+        "file_folder_path": "Political Files/2022/State/Governor/Theresa For Governor Primary",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Theresa For Governor Primary/Theresa For Governor 2022 Primary Election 02-23-22 to 03-22-22",
+        "entity_id": "17028",
+        "source_service_code": "FM",
+        "callsign": "KSDZ",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725425817951928300,
+        "score": 0.24995685
+      },
       {
         "id": "d50a15c8-6152-16bf-fb00-627740fd2bf7",
         "file_id": "d50a15c8-6152-16bf-fb00-627740fd2bf7",
@@ -200,53 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1725415167210029000,
         "score": 0.24995685
-      },
-      {
-        "id": "7d77be8a-b998-a7da-4a97-3b52746be40b",
-        "file_id": "7d77be8a-b998-a7da-4a97-3b52746be40b",
-        "file_name": "BN 0221-0301 - 3419950 ORD R1",
-        "file_extension": "pdf",
-        "file_size": 44698,
-        "file_status": "com_cpy",
-        "folder_id": "bc3e2f7a-85c5-b213-b573-c1f787b0fc07",
-        "create_ts": "2022-02-21T22:55:16.965Z",
-        "last_update_ts": "2022-02-21T22:55:10.444Z",
-        "active_ind": "Y",
-        "file_manager_id": "c9553138-7430-41d5-8f48-1706210f361f",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/BN Better Nevada PAC/Orders  Revisions",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/BN Better Nevada PAC/Orders  Revisions/BN 0221-0301 - 3419950 ORD R1",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1725415153729536000,
-        "score": 0.24995685
-      },
-      {
-        "id": "1546fe4a-d65f-1a26-ced1-4336b8eef2d4",
-        "file_id": "1546fe4a-d65f-1a26-ced1-4336b8eef2d4",
-        "file_name": "KBAT Matt Coday for OGWA, Inc 02-22-22 to 03-01-22",
-        "file_extension": "pdf",
-        "file_size": 5731984,
-        "file_status": "com_cpy",
-        "folder_id": "13ccb443-93c4-5caf-ceef-5198e542ecee",
-        "create_ts": "2022-02-21T22:51:44.491Z",
-        "last_update_ts": "2022-02-21T22:51:39.514Z",
-        "active_ind": "Y",
-        "file_manager_id": "65327920-5ddc-476b-a07e-4aa3fe34f482",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/KBAT Matt Coday for OGWA, Inc 02-22-22 to 03-01-22",
-        "entity_id": "48433",
-        "source_service_code": "FM",
-        "callsign": "KBAT",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1725414932560740400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -425,12 +424,12 @@
         "2019": 13966,
         "2020": 125731,
         "2021": 22525,
-        "2022": 4144,
+        "2022": 4146,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 66637,
+        "State": 66639,
         "US Senate": 49408,
         "US House": 41566,
         "Presidential": 38823,
@@ -468,12 +467,12 @@
       "source_service_code": {
         "TV": 236071,
         "CABLE": 125642,
-        "FM": 111778,
+        "FM": 111780,
         "AM": 41876,
         "DBS": 5379
       },
       "political_file_type": {
-        "PA": 221579,
+        "PA": 221581,
         "NCIA": 123315
       }
     }
@@ -490,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1786,
-    "processTime": 794,
-    "responseTime": 1794
+    "queryTime": 1769,
+    "processTime": 776,
+    "responseTime": 1776
   }
 }
