@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 520752,
+    "numFound": 520751,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "7021769b-7ed5-bca5-52d1-321c3b0197bf",
+        "file_id": "7021769b-7ed5-bca5-52d1-321c3b0197bf",
+        "file_name": "02-21-22 Citizens for Tax Relief",
+        "file_extension": "pdf",
+        "file_size": 2552561,
+        "file_status": "com_cpy",
+        "folder_id": "6535552a-8e0e-92c3-af52-12924116b4e3",
+        "create_ts": "2022-02-22T15:46:35.992Z",
+        "last_update_ts": "2022-02-22T15:46:39.025Z",
+        "active_ind": "Y",
+        "file_manager_id": "e664be41-3230-4b46-a683-19f1933f105d",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief/02-21-22 Citizens for Tax Relief",
+        "entity_id": "183367",
+        "source_service_code": "FM",
+        "callsign": "KBPY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725478781096820700,
+        "score": 0.24995685
+      },
       {
         "id": "400f6952-a76c-df6d-62ff-7f5c463851df",
         "file_id": "400f6952-a76c-df6d-62ff-7f5c463851df",
@@ -220,31 +242,6 @@
         "campaign_year": "2022",
         "_version_": 1725416654883520500,
         "score": 0.24995685
-      },
-      {
-        "id": "ae2d5c43-bdc1-30bf-f66c-0c8dd3d0544e",
-        "file_id": "ae2d5c43-bdc1-30bf-f66c-0c8dd3d0544e",
-        "file_name": "KLBK Boren 3420908 022222 - 030122",
-        "file_extension": "pdf",
-        "file_size": 17584,
-        "file_status": "com_cpy",
-        "folder_id": "850ffcbc-c68a-32d5-4126-02de52f53efd",
-        "create_ts": "2022-02-21T23:17:48.032Z",
-        "last_update_ts": "2022-02-21T23:18:45.511Z",
-        "active_ind": "Y",
-        "file_manager_id": "237b1626-9292-4867-a918-927de643f749",
-        "file_folder_path": "Political Files/2022/Local/Boren",
-        "full_qualified_file_name": "Political Files/2022/Local/Boren/KLBK Boren 3420908 022222 - 030122",
-        "entity_id": "3660",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LUBBOCK",
-        "callsign": "KLBK-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1725416570430161000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -270,7 +267,7 @@
         "PORTLAND OR": 3160,
         "SACRAMNTO-STKTON-MODESTO": 2804,
         "KANSAS CITY": 2744,
-        "FT. WAYNE": 2714,
+        "FT. WAYNE": 2712,
         "FRESNO-VISALIA": 2682,
         "MILWAUKEE": 2630,
         "BEND OR": 2602,
@@ -351,7 +348,7 @@
         "AUGUSTA": 538
       },
       "network_affiliation": {
-        "ABC": 57576,
+        "ABC": 57574,
         "NBC": 56422,
         "CBS": 38462,
         "FOX": 27783,
@@ -423,7 +420,7 @@
         "2019": 13966,
         "2020": 125731,
         "2021": 22525,
-        "2022": 4150,
+        "2022": 4151,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -455,7 +452,7 @@
         "Compatibility with Consumer Electronics Equipment": 148,
         "Auction Transition Consumer Certification": 83,
         "Information on Third-Party Fundraising - For NCE Stations Only": 83,
-        "Joint Sales Agreements": 82,
+        "Joint Sales Agreements": 80,
         "Citizen Agreements": 57,
         "Shared Service Agreements": 51,
         "Operator Interests in Video Programming": 33,
@@ -464,15 +461,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236074,
+        "TV": 236072,
         "CABLE": 125642,
-        "FM": 111780,
+        "FM": 111781,
         "AM": 41877,
         "DBS": 5379
       },
       "political_file_type": {
         "PA": 221583,
-        "NCIA": 123317
+        "NCIA": 123318
       }
     }
   },
@@ -488,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 216,
-    "responseTime": 216
+    "queryTime": 1778,
+    "processTime": 787,
+    "responseTime": 1787
   }
 }
