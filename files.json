@@ -5,6 +5,30 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "91f41bbc-fd12-c447-9b73-834bd8731fad",
+        "file_id": "91f41bbc-fd12-c447-9b73-834bd8731fad",
+        "file_name": "Arkansas Patriots Fund Little Rock 0382 2.18-3.22",
+        "file_extension": "pdf",
+        "file_size": 11964,
+        "file_status": "com_cpy",
+        "folder_id": "e76718d7-0f66-d929-6e62-66d74797a57e",
+        "create_ts": "2022-02-22T18:19:38.336Z",
+        "last_update_ts": "2022-02-22T18:30:07.918Z",
+        "active_ind": "Y",
+        "file_manager_id": "df1469ad-954c-4587-88dd-e7384b5ea520",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/AMP - ARKANSAS PATRIOTS FUND Comcast",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/AMP - ARKANSAS PATRIOTS FUND Comcast/Arkansas Patriots Fund Little Rock 0382 2.18-3.22",
+        "entity_id": "003143",
+        "source_service_code": "CABLE",
+        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
+        "operator_city_name": "LONG ISLAND CITY",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725489006452408300,
+        "score": 0.24995685
+      },
+      {
         "id": "1b61e529-731e-749d-b217-a724944d2d7f",
         "file_id": "1b61e529-731e-749d-b217-a724944d2d7f",
         "file_name": "DAVID MCORMICK FOR SENATE 1751040 02-21-22-02-27-22 ORDER",
@@ -175,30 +199,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2022",
         "_version_": 1725488499077939200,
-        "score": 0.24995685
-      },
-      {
-        "id": "91f41bbc-fd12-c447-9b73-834bd8731fad",
-        "file_id": "91f41bbc-fd12-c447-9b73-834bd8731fad",
-        "file_name": "Arkansas Patriots Fund Little Rock 0382 2.18-3.22",
-        "file_extension": "pdf",
-        "file_size": 11964,
-        "file_status": "com_cpy",
-        "folder_id": "e76718d7-0f66-d929-6e62-66d74797a57e",
-        "create_ts": "2022-02-22T18:19:38.336Z",
-        "last_update_ts": "2022-02-22T18:19:40.63Z",
-        "active_ind": "Y",
-        "file_manager_id": "df1469ad-954c-4587-88dd-e7384b5ea520",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/AMP - ARKANSAS PATRIOTS FUND Comcast",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/AMP - ARKANSAS PATRIOTS FUND Comcast/Arkansas Patriots Fund Little Rock 0382 2.18-3.22",
-        "entity_id": "003143",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1725488408698028000,
         "score": 0.24995685
       },
       {
@@ -492,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1771,
-    "processTime": 779,
-    "responseTime": 1780
+    "queryTime": 1497,
+    "processTime": 504,
+    "responseTime": 1504
   }
 }
