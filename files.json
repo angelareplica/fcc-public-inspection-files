@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 520749,
+    "numFound": 520752,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "400f6952-a76c-df6d-62ff-7f5c463851df",
+        "file_id": "400f6952-a76c-df6d-62ff-7f5c463851df",
+        "file_name": "02-21-22 Citizens for Tax Relief",
+        "file_extension": "pdf",
+        "file_size": 2552561,
+        "file_status": "com_cpy",
+        "folder_id": "f9cf0dc1-2b7a-6be9-e714-771da4660082",
+        "create_ts": "2022-02-22T15:44:58.749Z",
+        "last_update_ts": "2022-02-22T15:45:01.872Z",
+        "active_ind": "Y",
+        "file_manager_id": "6bfa29b3-7844-4aba-b56c-a5dba6a60b81",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Citizens for Tax Relief/02-21-22 Citizens for Tax Relief",
+        "entity_id": "10081",
+        "source_service_code": "AM",
+        "callsign": "KCSR",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725478679215079400,
+        "score": 0.24995685
+      },
       {
         "id": "b2b5de03-a2b0-0eb1-ca3a-fb761a37d4e9",
         "file_id": "b2b5de03-a2b0-0eb1-ca3a-fb761a37d4e9",
@@ -223,31 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1725416570430161000,
         "score": 0.24995685
-      },
-      {
-        "id": "01bae408-27fc-36aa-c1cc-3424c11b47ab",
-        "file_id": "01bae408-27fc-36aa-c1cc-3424c11b47ab",
-        "file_name": "Corman 0223-0302 2418055--1",
-        "file_extension": "pdf",
-        "file_size": 233828,
-        "file_status": "com_cpy",
-        "folder_id": "4c27ffe5-67c3-30ba-6afd-5265b9a5af4b",
-        "create_ts": "2022-02-21T22:55:56.972Z",
-        "last_update_ts": "2022-02-21T22:56:54.636Z",
-        "active_ind": "Y",
-        "file_manager_id": "a883fa9f-c3dd-46ba-abb8-bf98632efa79",
-        "file_folder_path": "Political Files/2022/State/Jake Corman-R- Governor PA",
-        "full_qualified_file_name": "Political Files/2022/State/Jake Corman-R- Governor PA/Corman 0223-0302 2418055--1",
-        "entity_id": "73318",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WNEP-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725415195917942800,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -426,7 +423,7 @@
         "2019": 13966,
         "2020": 125731,
         "2021": 22525,
-        "2022": 4147,
+        "2022": 4150,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -468,14 +465,14 @@
       },
       "source_service_code": {
         "TV": 236074,
-        "CABLE": 125640,
+        "CABLE": 125642,
         "FM": 111780,
-        "AM": 41876,
+        "AM": 41877,
         "DBS": 5379
       },
       "political_file_type": {
         "PA": 221583,
-        "NCIA": 123314
+        "NCIA": 123317
       }
     }
   },
@@ -491,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 212,
-    "processTime": 221,
-    "responseTime": 221
+    "queryTime": 209,
+    "processTime": 216,
+    "responseTime": 216
   }
 }
