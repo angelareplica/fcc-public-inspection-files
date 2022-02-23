@@ -5,6 +5,31 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "dd6b31a8-5379-d2db-ead9-08464dee9d7a",
+        "file_id": "dd6b31a8-5379-d2db-ead9-08464dee9d7a",
+        "file_name": "DICK LAW FIRM spot placement 02.19. - 02.23.2022",
+        "file_extension": "xlsx",
+        "file_size": 15798,
+        "file_status": "com_prc",
+        "folder_id": "d8483a93-c59b-03ab-70a0-03f04237a595",
+        "create_ts": "2022-02-23T18:49:04.8Z",
+        "last_update_ts": "2022-02-23T18:49:10.126Z",
+        "active_ind": "Y",
+        "file_manager_id": "d6f86de2-2b81-40aa-b87d-72fa6a775737",
+        "file_folder_path": "Political Files/2022/Local/Harris County Treasurer/Eric Dick/DICK Law Firm Paid CM Spots",
+        "full_qualified_file_name": "Political Files/2022/Local/Harris County Treasurer/Eric Dick/DICK Law Firm Paid CM Spots/DICK LAW FIRM spot placement 02.19. - 02.23.2022",
+        "entity_id": "53117",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HOUSTON",
+        "callsign": "KPRC-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1725580861122805800,
+        "score": 0.24995685
+      },
+      {
         "id": "f6ec5508-10cb-21e1-ff98-b97082abc7b1",
         "file_id": "f6ec5508-10cb-21e1-ff98-b97082abc7b1",
         "file_name": "John Lee for Governor Invoice #TC-121114545 contract #658474 12-01-21 thru 12-15-21 KOLC",
@@ -220,31 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1725577307213529000,
         "score": 0.24995685
-      },
-      {
-        "id": "216b3f96-d7ef-2192-981c-7a57c8a9997d",
-        "file_id": "216b3f96-d7ef-2192-981c-7a57c8a9997d",
-        "file_name": "Greg Abbott for Texas Governor Waco 0279 2.12-3.2",
-        "file_extension": "pdf",
-        "file_size": 19478,
-        "file_status": "com_cpy",
-        "folder_id": "ba9ea8eb-4841-f649-cd39-ad7f8d5f22e6",
-        "create_ts": "2022-02-23T17:52:38.785Z",
-        "last_update_ts": "2022-02-23T17:52:31.804Z",
-        "active_ind": "Y",
-        "file_manager_id": "240da3df-32a9-4525-b0a6-50ed3eb4f005",
-        "file_folder_path": "Political Files/2022/State/Glen Abbott-Linear Media",
-        "full_qualified_file_name": "Political Files/2022/State/Glen Abbott-Linear Media/Greg Abbott for Texas Governor Waco 0279 2.12-3.2",
-        "entity_id": "007745",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725577307397030000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -311,7 +311,7 @@
         "JOHNSTOWN-ALTOONA-ST COLGE": 1171,
         "LOS ANGELES": 1141,
         "CHARLOTTE": 1110,
-        "SALT LAKE CITY": 1104,
+        "SALT LAKE CITY": 1103,
         "GREEN BAY-APPLETON": 1089,
         "GLENDIVE": 1081,
         "NEW YORK": 1074,
@@ -347,12 +347,12 @@
         "MACON": 613,
         "WACO-TEMPLE-BRYAN": 558,
         "BOSTON (MANCHESTER)": 546,
-        "HOUSTON": 544,
+        "HOUSTON": 545,
         "AUGUSTA": 538
       },
       "network_affiliation": {
-        "ABC": 57625,
-        "NBC": 56456,
+        "ABC": 57624,
+        "NBC": 56457,
         "CBS": 38482,
         "FOX": 27840,
         "PBS": 14387,
@@ -421,9 +421,9 @@
         "2017": 10353,
         "2018": 67735,
         "2019": 13966,
-        "2020": 125731,
+        "2020": 125730,
         "2021": 22528,
-        "2022": 4839,
+        "2022": 4840,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -431,8 +431,8 @@
         "State": 67134,
         "US Senate": 49512,
         "US House": 41581,
-        "Presidential": 38823,
-        "Local": 24137
+        "Presidential": 38822,
+        "Local": 24138
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61609,
@@ -488,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1780,
-    "processTime": 788,
-    "responseTime": 1789
+    "queryTime": 1806,
+    "processTime": 819,
+    "responseTime": 1819
   }
 }
