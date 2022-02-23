@@ -5,6 +5,27 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "aee5130b-25fe-dbb0-44c4-3ddb631f3aa2",
+        "file_id": "aee5130b-25fe-dbb0-44c4-3ddb631f3aa2",
+        "file_name": "Americans 4 Security NAB PB-19  OK-04 Border Crisis 022322",
+        "file_extension": "pdf",
+        "file_size": 171343,
+        "file_status": "com_cpy",
+        "folder_id": "b8d3e3c4-9c46-61a6-370a-2bbfb9ea1744",
+        "create_ts": "2022-02-23T22:41:22.737Z",
+        "last_update_ts": "2022-02-23T22:41:15.904Z",
+        "active_ind": "Y",
+        "file_manager_id": "adc374e8-8c88-4d8a-89f9-5c58d22e5be3",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Oklahoma/Americans 4 Security Inc",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Oklahoma/Americans 4 Security Inc/Americans 4 Security NAB PB-19  OK-04 Border Crisis 022322",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725595473074454500,
+        "score": 0.24995685
+      },
+      {
         "id": "4f03ca62-2ddb-e7a2-dbc7-1a07e3b21e14",
         "file_id": "4f03ca62-2ddb-e7a2-dbc7-1a07e3b21e14",
         "file_name": "PFCD-NAB 08.05.2021",
@@ -227,30 +248,6 @@
         "campaign_year": "2022",
         "_version_": 1725592134343458800,
         "score": 0.24995685
-      },
-      {
-        "id": "45d07b74-ef1f-707f-7342-ca671bb54023",
-        "file_id": "45d07b74-ef1f-707f-7342-ca671bb54023",
-        "file_name": "Fight Back Fund UPDATED NAB 02.8.2021",
-        "file_extension": "pdf",
-        "file_size": 1052824,
-        "file_status": "com_cpy",
-        "folder_id": "30f98356-56cd-fad8-e2fa-7644a6bbb1cf",
-        "create_ts": "2022-02-23T21:40:03.463Z",
-        "last_update_ts": "2022-02-23T21:41:06.811Z",
-        "active_ind": "Y",
-        "file_manager_id": "6e703426-08a6-4e53-9dd6-762c94fe45ae",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Fight Back Fund",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Fight Back Fund/Fight Back Fund UPDATED NAB 02.8.2021",
-        "entity_id": "006837",
-        "source_service_code": "CABLE",
-        "legal_name": "VYVE BROADBAND J, LLC",
-        "operator_city_name": "RYE BROOK",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1725591615535317000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -258,7 +255,7 @@
         "DES MOINES-AMES": 8382,
         "WILKES BARRE-SCRANTON": 7157,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7039,
-        "LAS VEGAS": 6012,
+        "LAS VEGAS": 6011,
         "WEST PALM BEACH-FT. PIERCE": 5811,
         "PITTSBURGH": 5558,
         "HONOLULU": 5214,
@@ -357,7 +354,7 @@
         "AUGUSTA": 538
       },
       "network_affiliation": {
-        "ABC": 57633,
+        "ABC": 57632,
         "NBC": 56452,
         "CBS": 38478,
         "FOX": 27840,
@@ -470,11 +467,11 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236251,
+        "TV": 236250,
         "CABLE": 126115,
         "FM": 111820,
         "AM": 41888,
-        "DBS": 5382
+        "DBS": 5383
       },
       "political_file_type": {
         "PA": 222233,
@@ -494,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 212,
-    "processTime": 220,
-    "responseTime": 221
+    "queryTime": 1798,
+    "processTime": 806,
+    "responseTime": 1807
   }
 }
