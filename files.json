@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 520933,
+    "numFound": 520934,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "f2953af8-2f14-e82e-7c57-168ab51ba355",
+        "file_id": "f2953af8-2f14-e82e-7c57-168ab51ba355",
+        "file_name": "KELA JOE KENT US HOUSE_-02222022170943",
+        "file_extension": "pdf",
+        "file_size": 142593,
+        "file_status": "com_cpy",
+        "folder_id": "b17bff69-8e11-e33f-293e-9d34f680419e",
+        "create_ts": "2022-02-23T01:45:56.137Z",
+        "last_update_ts": "2022-02-23T01:46:56.896Z",
+        "active_ind": "Y",
+        "file_manager_id": "42a8e594-30fb-4505-8b85-14163427b269",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/KELA JOE KENT US HOUSE_-02222022170943",
+        "entity_id": "32996",
+        "source_service_code": "AM",
+        "callsign": "KELA",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1725516487473496000,
+        "score": 0.24995685
+      },
       {
         "id": "a90a938a-8aca-4b3b-ba32-074651431844",
         "file_id": "a90a938a-8aca-4b3b-ba32-074651431844",
@@ -216,29 +239,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1725514086935953400,
         "score": 0.24995685
-      },
-      {
-        "id": "e155d1ec-21de-4ba2-eec7-980ed2bc4d80",
-        "file_id": "e155d1ec-21de-4ba2-eec7-980ed2bc4d80",
-        "file_name": "Highlands, NC #06871- 2019 FCC 396-C",
-        "file_extension": "pdf",
-        "file_size": 1373962,
-        "file_status": "com_cpy",
-        "folder_id": "221fcb44-ecb9-96a8-ffb7-630ff6bf9348",
-        "create_ts": "2022-02-23T01:06:32.084Z",
-        "last_update_ts": "2022-02-23T01:06:34.793Z",
-        "active_ind": "Y",
-        "file_manager_id": "6c302f44-4b34-47da-ad4b-50dac8e13376",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2019",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2019/Highlands, NC #06871- 2019 FCC 396-C",
-        "entity_id": "008931",
-        "source_service_code": "CABLE",
-        "legal_name": "NORTHLAND CABLE TELEVISION, INC.",
-        "operator_city_name": "RYE BROOK",
-        "operator_state_name": "NY",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1725514008804458500,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -417,14 +417,14 @@
         "2019": 13966,
         "2020": 125731,
         "2021": 22525,
-        "2022": 4334,
+        "2022": 4335,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 66726,
         "US Senate": 49447,
-        "US House": 41577,
+        "US House": 41578,
         "Presidential": 38823,
         "Local": 24129
       },
@@ -461,11 +461,11 @@
         "TV": 236170,
         "CABLE": 125674,
         "FM": 111809,
-        "AM": 41898,
+        "AM": 41899,
         "DBS": 5382
       },
       "political_file_type": {
-        "PA": 221741,
+        "PA": 221742,
         "NCIA": 123343
       }
     }
@@ -482,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1778,
-    "processTime": 788,
-    "responseTime": 1789
+    "queryTime": 211,
+    "processTime": 220,
+    "responseTime": 220
   }
 }
