@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 521516,
+    "numFound": 521517,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "0e956597-52a5-6833-c741-d76812e592a7",
+        "file_id": "0e956597-52a5-6833-c741-d76812e592a7",
+        "file_name": "BETSY PRICE CAMPAIGN 02-25-22 to 03-01-22  est. # PLANNED MEDIA BUY 2 order #1254844_Station Contract_KXAS",
+        "file_extension": "pdf",
+        "file_size": 260018,
+        "file_status": "com_cpy",
+        "folder_id": "574af89e-5640-9ab7-8509-900afb990145",
+        "create_ts": "2022-02-24T15:42:03.415Z",
+        "last_update_ts": "2022-02-24T15:42:05.799Z",
+        "active_ind": "Y",
+        "file_manager_id": "1d16f0b6-d9f2-40b0-807d-a2987b59ad2a",
+        "file_folder_path": "Political Files/2022/Local/Price Betsy",
+        "full_qualified_file_name": "Political Files/2022/Local/Price Betsy/BETSY PRICE CAMPAIGN 02-25-22 to 03-01-22  est. # PLANNED MEDIA BUY 2 order #1254844_Station Contract_KXAS",
+        "entity_id": "49330",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "DALLAS-FT. WORTH",
+        "callsign": "KXAS-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1725659688518811600,
+        "score": 0.24995685
+      },
       {
         "id": "b14039cc-70b3-25a5-857f-0e6ebad82904",
         "file_id": "b14039cc-70b3-25a5-857f-0e6ebad82904",
@@ -222,31 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1725655537367908400,
         "score": 0.24995685
-      },
-      {
-        "id": "f2cb905f-656b-844e-1f14-85053fef8fb0",
-        "file_id": "f2cb905f-656b-844e-1f14-85053fef8fb0",
-        "file_name": "Corman 3423938 Rev 0",
-        "file_extension": "pdf",
-        "file_size": 104861,
-        "file_status": "com_cpy",
-        "folder_id": "eb9572b8-b1fc-73b4-4e8f-df81c53e83e7",
-        "create_ts": "2022-02-24T14:35:28.297Z",
-        "last_update_ts": "2022-02-24T14:35:31.142Z",
-        "active_ind": "Y",
-        "file_manager_id": "7ca2a407-4716-48a5-9a8c-bf350645677e",
-        "file_folder_path": "Political Files/2022/State/Jake Corman",
-        "full_qualified_file_name": "Political Files/2022/State/Jake Corman/Corman 3423938 Rev 0",
-        "entity_id": "17010",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WYOU",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725655499812110300,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -332,7 +332,7 @@
         "GREENVILLE-N.BERN-WASHNGTN": 802,
         "TULSA": 793,
         "HELENA": 780,
-        "DALLAS-FT. WORTH": 760,
+        "DALLAS-FT. WORTH": 761,
         "TWIN FALLS": 749,
         "DAYTON": 736,
         "FLINT-SAGINAW-BAY CITY": 731,
@@ -354,7 +354,7 @@
       },
       "network_affiliation": {
         "ABC": 57632,
-        "NBC": 56463,
+        "NBC": 56464,
         "CBS": 38489,
         "FOX": 27845,
         "PBS": 14387,
@@ -425,7 +425,7 @@
         "2019": 13966,
         "2020": 125695,
         "2021": 22534,
-        "2022": 4949,
+        "2022": 4950,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -434,7 +434,7 @@
         "US Senate": 49546,
         "US House": 41588,
         "Presidential": 38787,
-        "Local": 24147
+        "Local": 24148
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61612,
@@ -466,14 +466,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236277,
+        "TV": 236278,
         "CABLE": 126118,
         "FM": 111835,
         "AM": 41901,
         "DBS": 5385
       },
       "political_file_type": {
-        "PA": 222277,
+        "PA": 222278,
         "NCIA": 123395
       }
     }
@@ -490,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1779,
-    "processTime": 789,
-    "responseTime": 1789
+    "queryTime": 1835,
+    "processTime": 843,
+    "responseTime": 1843
   }
 }
