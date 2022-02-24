@@ -5,6 +5,29 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "fee9ddaa-d9e2-58a5-a0ad-ada44b6d7489",
+        "file_id": "fee9ddaa-d9e2-58a5-a0ad-ada44b6d7489",
+        "file_name": "2020-10-05_ 3Q20_Children's Television Commercial Limits Certification Statement - Cozi (current)",
+        "file_extension": "pdf",
+        "file_size": 114181,
+        "file_status": "com_cpy",
+        "folder_id": "25676498-99fc-8a38-7a07-4416a67fa8f6",
+        "create_ts": "2021-01-25T19:58:56.003Z",
+        "last_update_ts": "2022-02-24T17:09:56.507Z",
+        "active_ind": "Y",
+        "file_manager_id": "9536c5b6-1570-4fc7-a52f-2fc595dc7671",
+        "file_folder_path": "Records Concerning Commercial Limits in Childrens Programs/2020",
+        "full_qualified_file_name": "Records Concerning Commercial Limits in Childrens Programs/2020/2020-10-05_ 3Q20_Children's Television Commercial Limits Certification Statement - Cozi (current)",
+        "entity_id": "10188",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "CORPUS CHRISTI",
+        "callsign": "KIII",
+        "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
+        "_version_": 1725665225151086600,
+        "score": 0.24995685
+      },
+      {
         "id": "b351afc3-0d69-f7d2-b942-002fd5e98146",
         "file_id": "b351afc3-0d69-f7d2-b942-002fd5e98146",
         "file_name": "QUARTERLY CERTIFICATE ON COMPLIANCE 093015",
@@ -221,31 +244,6 @@
         "office_type": "US Senate",
         "campaign_year": "2022",
         "_version_": 1725660832404078600,
-        "score": 0.24995685
-      },
-      {
-        "id": "773f1c30-26bb-fcce-1bb1-219090b24358",
-        "file_id": "773f1c30-26bb-fcce-1bb1-219090b24358",
-        "file_name": "Lee-Zeldin-02-23-2022 PFD",
-        "file_extension": "pdf",
-        "file_size": 68822,
-        "file_status": "com_cpy",
-        "folder_id": "41f19e6c-a845-174d-bca8-8a2a47bc2684",
-        "create_ts": "2022-02-24T15:52:24.231Z",
-        "last_update_ts": "2022-02-24T15:52:26.439Z",
-        "active_ind": "Y",
-        "file_manager_id": "46d2061f-7d63-4ec2-aa94-e316cec97c5a",
-        "file_folder_path": "Political Files/2022/State/Zeldin Republican Governor",
-        "full_qualified_file_name": "Political Files/2022/State/Zeldin Republican Governor/Lee-Zeldin-02-23-2022 PFD",
-        "entity_id": "54176",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BUFFALO",
-        "callsign": "WKBW-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725660344034001000,
         "score": 0.24995685
       }
     ],
@@ -490,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1381,
-    "processTime": 387,
-    "responseTime": 1387
+    "queryTime": 1818,
+    "processTime": 831,
+    "responseTime": 1832
   }
 }
