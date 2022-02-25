@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 521611,
+    "numFound": 521612,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "73fa2236-ea61-d487-d371-12d977970bcb",
+        "file_id": "73fa2236-ea61-d487-d371-12d977970bcb",
+        "file_name": "Louie Gohmert for TX Attorney General - KCRS-AM - 02.23.22 to 03.01.22",
+        "file_extension": "pdf",
+        "file_size": 558580,
+        "file_status": "com_cpy",
+        "folder_id": "71fb7a17-8454-5f72-210e-647718cfec99",
+        "create_ts": "2022-02-24T23:46:32.627Z",
+        "last_update_ts": "2022-02-24T23:47:38.927Z",
+        "active_ind": "Y",
+        "file_manager_id": "469003df-69c2-41a5-ac33-c98811b97e11",
+        "file_folder_path": "Political Files/2022/State/Attorney General/Louie Gohmert for Attorney General",
+        "full_qualified_file_name": "Political Files/2022/State/Attorney General/Louie Gohmert for Attorney General/Louie Gohmert for TX Attorney General - KCRS-AM - 02.23.22 to 03.01.22",
+        "entity_id": "42015",
+        "source_service_code": "AM",
+        "callsign": "KCRS",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725690170197409800,
+        "score": 0.24995685
+      },
       {
         "id": "90de4fde-c123-7f74-2817-519215c3b36e",
         "file_id": "90de4fde-c123-7f74-2817-519215c3b36e",
@@ -223,31 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1725684869556600800,
         "score": 0.24995685
-      },
-      {
-        "id": "c211f060-5c90-b726-831f-572dd1d75205",
-        "file_id": "c211f060-5c90-b726-831f-572dd1d75205",
-        "file_name": "TaxpayersforWilson-contract2432872-022422",
-        "file_extension": "pdf",
-        "file_size": 261952,
-        "file_status": "com_cpy",
-        "folder_id": "dc00ab05-5037-6c59-63c4-e3bffee8e483",
-        "create_ts": "2022-02-24T22:22:17.842Z",
-        "last_update_ts": "2022-02-24T22:23:23.662Z",
-        "active_ind": "Y",
-        "file_manager_id": "922e87a5-9a25-4dda-be07-d7b8383f3fbf",
-        "file_folder_path": "Political Files/2022/State/New York State Governor/Taxpayers for Wilson",
-        "full_qualified_file_name": "Political Files/2022/State/New York State Governor/Taxpayers for Wilson/TaxpayersforWilson-contract2432872-022422",
-        "entity_id": "23337",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "BINGHAMTON",
-        "callsign": "WBNG-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725684869544018000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -426,12 +424,12 @@
         "2019": 13966,
         "2020": 125695,
         "2021": 22534,
-        "2022": 5042,
+        "2022": 5043,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 67219,
+        "State": 67220,
         "US Senate": 49559,
         "US House": 41593,
         "Presidential": 38787,
@@ -470,11 +468,11 @@
         "TV": 236324,
         "CABLE": 126141,
         "FM": 111846,
-        "AM": 41911,
+        "AM": 41912,
         "DBS": 5389
       },
       "political_file_type": {
-        "PA": 222353,
+        "PA": 222354,
         "NCIA": 123412
       }
     }
@@ -491,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1781,
-    "processTime": 791,
-    "responseTime": 1791
+    "queryTime": 1771,
+    "processTime": 782,
+    "responseTime": 1783
   }
 }
