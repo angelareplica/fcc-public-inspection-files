@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 521545,
+    "numFound": 521547,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "211fd124-5d48-7a68-f52e-c7ef5d88785b",
+        "file_id": "211fd124-5d48-7a68-f52e-c7ef5d88785b",
+        "file_name": "KRNV CLUB FOR GROWTH ORDER 1749562 REV.01",
+        "file_extension": "pdf",
+        "file_size": 1190961,
+        "file_status": "com_cpy",
+        "folder_id": "bc9d51dc-85f1-4bd9-6979-0b8cbf686c2d",
+        "create_ts": "2022-02-25T18:41:13.443Z",
+        "last_update_ts": "2022-02-25T18:41:16.138Z",
+        "active_ind": "Y",
+        "file_manager_id": "8c4b197b-979d-4f57-862e-65900c1c624e",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth/KRNV CLUB FOR GROWTH ORDER 1749562 REV.01",
+        "entity_id": "60307",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "RENO",
+        "callsign": "KRNV-DT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725761558006464500,
+        "score": 0.24995685
+      },
+      {
+        "id": "42ac4bb5-528c-fa0e-3cca-dedb9cfe0a06",
+        "file_id": "42ac4bb5-528c-fa0e-3cca-dedb9cfe0a06",
+        "file_name": "Issue-Alabama Patriots PAC_payment auth 02.25.22",
+        "file_extension": "pdf",
+        "file_size": 364050,
+        "file_status": "com_cpy",
+        "folder_id": "3d06da11-2703-4423-5b61-30032b667561",
+        "create_ts": "2022-02-25T18:29:57.733Z",
+        "last_update_ts": "2022-02-25T18:30:02.475Z",
+        "active_ind": "Y",
+        "file_manager_id": "3f041edc-5ea6-4cce-850e-2e6a7064ae56",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Alabama Patriots PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Alabama Patriots PAC/Issue-Alabama Patriots PAC_payment auth 02.25.22",
+        "entity_id": "71363",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "MOBILE-PENSACOLA (FT WALT)",
+        "callsign": "WEAR-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725760851633242000,
+        "score": 0.24995685
+      },
       {
         "id": "def46427-41ba-f8dd-3f13-3538cce939bc",
         "file_id": "def46427-41ba-f8dd-3f13-3538cce939bc",
@@ -198,54 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1725759151661908000,
         "score": 0.24995685
-      },
-      {
-        "id": "c18f16cf-2403-ee44-db9c-177d79d9a760",
-        "file_id": "c18f16cf-2403-ee44-db9c-177d79d9a760",
-        "file_name": "Louie Gohmert for Texas Attorney General Tyler 0226 2.25-3.1",
-        "file_extension": "pdf",
-        "file_size": 10608,
-        "file_status": "com_cpy",
-        "folder_id": "e83318dd-f5e3-82ac-7c89-0b6e66343eea",
-        "create_ts": "2022-02-25T18:00:34.452Z",
-        "last_update_ts": "2022-02-25T18:01:42.386Z",
-        "active_ind": "Y",
-        "file_manager_id": "aa00928b-77c4-42f2-baab-b8ba72bd9868",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Louie Gohmert for Texas Attorney General Tyler 0226 2.25-3.1",
-        "entity_id": "000569",
-        "source_service_code": "CABLE",
-        "legal_name": "SHENANDOAH CABLE TELEVISION, LLC",
-        "operator_city_name": "EDINBURG",
-        "operator_state_name": "VA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1725759000121704400,
-        "score": 0.24995685
-      },
-      {
-        "id": "3c33a741-5a9c-27fa-3f69-c863c8a6ed19",
-        "file_id": "3c33a741-5a9c-27fa-3f69-c863c8a6ed19",
-        "file_name": "Louie Gohmert for Texas Attorney General Tyler 0226 2.25-3.1",
-        "file_extension": "pdf",
-        "file_size": 10608,
-        "file_status": "com_cpy",
-        "folder_id": "c470e2d1-ff8a-ec92-6a72-b996c6136284",
-        "create_ts": "2022-02-25T17:59:56.138Z",
-        "last_update_ts": "2022-02-25T17:59:48.723Z",
-        "active_ind": "Y",
-        "file_manager_id": "dfbb782c-0c3d-4aeb-9bff-c3a9a7ab0ba0",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Louie Gohmert for Texas Attorney General Tyler 0226 2.25-3.1",
-        "entity_id": "000271",
-        "source_service_code": "CABLE",
-        "legal_name": "SHENANDOAH CABLE TELEVISION, LLC",
-        "operator_city_name": "EDINBURG",
-        "operator_state_name": "VA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1725758959881552000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -352,8 +352,8 @@
         "AUGUSTA": 538
       },
       "network_affiliation": {
-        "ABC": 57590,
-        "NBC": 56488,
+        "ABC": 57591,
+        "NBC": 56489,
         "CBS": 38457,
         "FOX": 27856,
         "PBS": 14389,
@@ -424,7 +424,7 @@
         "2019": 13964,
         "2020": 125588,
         "2021": 22536,
-        "2022": 5084,
+        "2022": 5086,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -465,7 +465,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236245,
+        "TV": 236247,
         "CABLE": 126150,
         "FM": 111846,
         "AM": 41915,
@@ -473,7 +473,7 @@
       },
       "political_file_type": {
         "PA": 222282,
-        "NCIA": 123417
+        "NCIA": 123419
       }
     }
   },
@@ -489,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1821,
-    "processTime": 834,
-    "responseTime": 1834
+    "queryTime": 1807,
+    "processTime": 819,
+    "responseTime": 1819
   }
 }
