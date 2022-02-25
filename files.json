@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 521615,
+    "numFound": 521571,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
@@ -325,9 +325,9 @@
         "COLUMBUS OH": 1003,
         "JACKSON MS": 987,
         "WICHITA-HUTCHINSON PLUS": 955,
-        "LANSING": 941,
         "FT. SMITH-FAY-SPRNGDL-RGRS": 914,
         "LOUISVILLE": 898,
+        "LANSING": 897,
         "PANAMA CITY": 859,
         "INDIANAPOLIS": 829,
         "GREENVILLE-N.BERN-WASHNGTN": 802,
@@ -354,7 +354,7 @@
         "AUGUSTA": 538
       },
       "network_affiliation": {
-        "ABC": 57643,
+        "ABC": 57599,
         "NBC": 56476,
         "CBS": 38503,
         "FOX": 27853,
@@ -424,7 +424,7 @@
         "2017": 10353,
         "2018": 67735,
         "2019": 13966,
-        "2020": 125695,
+        "2020": 125651,
         "2021": 22534,
         "2022": 5046,
         "KYAZ": 5,
@@ -432,9 +432,9 @@
       },
       "office_type": {
         "State": 67223,
-        "US Senate": 49559,
+        "US Senate": 49556,
         "US House": 41593,
-        "Presidential": 38787,
+        "Presidential": 38751,
         "Local": 24158
       },
       "non_political_file_folder": {
@@ -467,15 +467,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236327,
+        "TV": 236283,
         "CABLE": 126141,
         "FM": 111846,
         "AM": 41912,
         "DBS": 5389
       },
       "political_file_type": {
-        "PA": 222357,
-        "NCIA": 123412
+        "PA": 222318,
+        "NCIA": 123407
       }
     }
   },
@@ -491,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 210,
-    "processTime": 219,
-    "responseTime": 220
+    "queryTime": 1813,
+    "processTime": 821,
+    "responseTime": 1821
   }
 }
