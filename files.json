@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 521613,
+    "numFound": 521614,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "3ee0db7c-9190-2cea-7bda-3d3e069cd8bd",
+        "file_id": "3ee0db7c-9190-2cea-7bda-3d3e069cd8bd",
+        "file_name": "Eva Guzman for TX AG 619677 est 8439 supplemental form 2.23 - 03.01.22",
+        "file_extension": "pdf",
+        "file_size": 42835,
+        "file_status": "com_cpy",
+        "folder_id": "0e4f630b-76a4-b92d-15e2-d61a19604f44",
+        "create_ts": "2022-02-25T04:07:15.702Z",
+        "last_update_ts": "2022-02-25T04:07:08.493Z",
+        "active_ind": "Y",
+        "file_manager_id": "0c446205-c1ad-4684-bcf6-f554bc6f628e",
+        "file_folder_path": "Political Files/2022/State/TX State Attorney General/Eva Guzman for TX State Attorney General R/Forms",
+        "full_qualified_file_name": "Political Files/2022/State/TX State Attorney General/Eva Guzman for TX State Attorney General R/Forms/Eva Guzman for TX AG 619677 est 8439 supplemental form 2.23 - 03.01.22",
+        "entity_id": "53117",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HOUSTON",
+        "callsign": "KPRC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725706572677513200,
+        "score": 0.24995685
+      },
+      {
+        "id": "b169d299-85bb-ee6c-955b-94b15ad3f488",
+        "file_id": "b169d299-85bb-ee6c-955b-94b15ad3f488",
+        "file_name": "Luttrell for Congress 618532 est 2044 order 02.09- 02.15.22",
+        "file_extension": "pdf",
+        "file_size": 38487,
+        "file_status": "com_cpy",
+        "folder_id": "95312333-4e90-c722-9037-dc8c40587ccc",
+        "create_ts": "2022-02-08T03:13:47.712Z",
+        "last_update_ts": "2022-02-25T03:52:45.084Z",
+        "active_ind": "Y",
+        "file_manager_id": "9cedfbc7-a6ca-4f2c-8fa8-0c812d97165a",
+        "file_folder_path": "Political Files/2022/State/TX State Congress House of Representatives/Morgan Luttrell for TX Congress/Orders",
+        "full_qualified_file_name": "Political Files/2022/State/TX State Congress House of Representatives/Morgan Luttrell for TX Congress/Orders/Luttrell for Congress 618532 est 2044 order 02.09- 02.15.22",
+        "entity_id": "53117",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HOUSTON",
+        "callsign": "KPRC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725705657346162700,
+        "score": 0.24995685
+      },
       {
         "id": "809abc76-b0fb-501b-5b5b-d4ecaa7b7f47",
         "file_id": "809abc76-b0fb-501b-5b5b-d4ecaa7b7f47",
@@ -196,56 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1725686190023114800,
         "score": 0.24995685
-      },
-      {
-        "id": "3a878168-ac42-9c08-d969-27e69bc65ea9",
-        "file_id": "3a878168-ac42-9c08-d969-27e69bc65ea9",
-        "file_name": "Friends of Brett Lindstrom_3600504_03.26.22-05.10.22_2099 Revised",
-        "file_extension": "pdf",
-        "file_size": 12260,
-        "file_status": "com_cpy",
-        "folder_id": "253e5e87-3dd6-6857-1c6e-4c20814ba516",
-        "create_ts": "2022-02-24T22:43:03.339Z",
-        "last_update_ts": "2022-02-24T22:42:56.143Z",
-        "active_ind": "Y",
-        "file_manager_id": "c67a0303-5602-4df6-9443-7d7fdfbf1224",
-        "file_folder_path": "Political Files/2022/State/Friends of Brett Lindstrom",
-        "full_qualified_file_name": "Political Files/2022/State/Friends of Brett Lindstrom/Friends of Brett Lindstrom_3600504_03.26.22-05.10.22_2099 Revised",
-        "entity_id": "008575",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS OMAHA LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725686175354585000,
-        "score": 0.24995685
-      },
-      {
-        "id": "e33b78e8-1c16-39ea-ddad-a58b1f3e1d04",
-        "file_id": "e33b78e8-1c16-39ea-ddad-a58b1f3e1d04",
-        "file_name": "TaxpayersforWilson-contract2432887-022422",
-        "file_extension": "pdf",
-        "file_size": 259061,
-        "file_status": "com_cpy",
-        "folder_id": "dc00ab05-5037-6c59-63c4-e3bffee8e483",
-        "create_ts": "2022-02-24T22:22:17.841Z",
-        "last_update_ts": "2022-02-24T22:23:23.696Z",
-        "active_ind": "Y",
-        "file_manager_id": "b9029bae-f5a7-4cb5-9446-e1e6c1a35ee1",
-        "file_folder_path": "Political Files/2022/State/New York State Governor/Taxpayers for Wilson",
-        "full_qualified_file_name": "Political Files/2022/State/New York State Governor/Taxpayers for Wilson/TaxpayersforWilson-contract2432887-022422",
-        "entity_id": "23337",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "BINGHAMTON",
-        "callsign": "WBNG-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725684869577572400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -347,13 +347,13 @@
         "MONTEREY-SALINAS": 632,
         "MACON": 614,
         "WACO-TEMPLE-BRYAN": 558,
-        "HOUSTON": 550,
+        "HOUSTON": 551,
         "BOSTON (MANCHESTER)": 546,
         "AUGUSTA": 538
       },
       "network_affiliation": {
         "ABC": 57643,
-        "NBC": 56475,
+        "NBC": 56476,
         "CBS": 38503,
         "FOX": 27852,
         "PBS": 14389,
@@ -424,12 +424,12 @@
         "2019": 13966,
         "2020": 125695,
         "2021": 22534,
-        "2022": 5044,
+        "2022": 5045,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 67221,
+        "State": 67222,
         "US Senate": 49559,
         "US House": 41593,
         "Presidential": 38787,
@@ -465,14 +465,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236325,
+        "TV": 236326,
         "CABLE": 126141,
         "FM": 111846,
         "AM": 41912,
         "DBS": 5389
       },
       "political_file_type": {
-        "PA": 222355,
+        "PA": 222356,
         "NCIA": 123412
       }
     }
@@ -489,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1776,
-    "processTime": 783,
-    "responseTime": 1784
+    "queryTime": 213,
+    "processTime": 220,
+    "responseTime": 221
   }
 }
