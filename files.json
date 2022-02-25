@@ -5,6 +5,31 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "809abc76-b0fb-501b-5b5b-d4ecaa7b7f47",
+        "file_id": "809abc76-b0fb-501b-5b5b-d4ecaa7b7f47",
+        "file_name": "Patrick  for TX Lt Gov 619414 est 1333 order 02.27.22",
+        "file_extension": "pdf",
+        "file_size": 30107,
+        "file_status": "com_cpy",
+        "folder_id": "1352cc47-d241-1983-fb27-a97806e0102f",
+        "create_ts": "2022-02-18T04:50:05.932Z",
+        "last_update_ts": "2022-02-25T03:09:25.27Z",
+        "active_ind": "Y",
+        "file_manager_id": "01264f60-0f90-4b62-b350-839f70865103",
+        "file_folder_path": "Political Files/2022/State/TX State Lieutenant Govenor/Dan Patrick for TX Lt Governor R/Orders",
+        "full_qualified_file_name": "Political Files/2022/State/TX State Lieutenant Govenor/Dan Patrick for TX Lt Governor R/Orders/Patrick  for TX Lt Gov 619414 est 1333 order 02.27.22",
+        "entity_id": "53117",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HOUSTON",
+        "callsign": "KPRC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725702941217652700,
+        "score": 0.24995685
+      },
+      {
         "id": "8e1d5069-9bd5-a337-fe4c-c564f8f7a9ff",
         "file_id": "8e1d5069-9bd5-a337-fe4c-c564f8f7a9ff",
         "file_name": "Ken Paxton for TX AG  617767 est 226301 supplemental form 2.25 - 03.01.22rev",
@@ -220,31 +245,6 @@
         "office_type": "State",
         "campaign_year": "2022",
         "_version_": 1725684869577572400,
-        "score": 0.24995685
-      },
-      {
-        "id": "b933f7e1-55fb-ad14-f5be-4dde969f1941",
-        "file_id": "b933f7e1-55fb-ad14-f5be-4dde969f1941",
-        "file_name": "TaxpayersforWilson-contract2432851-022422",
-        "file_extension": "pdf",
-        "file_size": 260959,
-        "file_status": "com_cpy",
-        "folder_id": "dc00ab05-5037-6c59-63c4-e3bffee8e483",
-        "create_ts": "2022-02-24T22:22:17.665Z",
-        "last_update_ts": "2022-02-24T22:23:23.682Z",
-        "active_ind": "Y",
-        "file_manager_id": "28bad3be-acff-4428-89c8-a08eaf7c7c4b",
-        "file_folder_path": "Political Files/2022/State/New York State Governor/Taxpayers for Wilson",
-        "full_qualified_file_name": "Political Files/2022/State/New York State Governor/Taxpayers for Wilson/TaxpayersforWilson-contract2432851-022422",
-        "entity_id": "23337",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "BINGHAMTON",
-        "callsign": "WBNG-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725684869559746600,
         "score": 0.24995685
       }
     ],
@@ -489,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1813,
-    "processTime": 822,
-    "responseTime": 1822
+    "queryTime": 210,
+    "processTime": 217,
+    "responseTime": 218
   }
 }
