@@ -1,9 +1,56 @@
 {
   "response": {
-    "numFound": 521516,
+    "numFound": 521518,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "961fdbec-703c-3763-e33b-5babcf262f34",
+        "file_id": "961fdbec-703c-3763-e33b-5babcf262f34",
+        "file_name": "FU FEB 25 - MAR 07 ORDER",
+        "file_extension": "pdf",
+        "file_size": 48912,
+        "file_status": "com_cpy",
+        "folder_id": "840af702-d4be-d811-ebd2-752c58835836",
+        "create_ts": "2022-02-25T14:41:58.983Z",
+        "last_update_ts": "2022-02-25T14:41:52.021Z",
+        "active_ind": "Y",
+        "file_manager_id": "a0dda273-8ea5-47e2-9957-caeadb3b1bde",
+        "file_folder_path": "Political Files/2022/Federal/US House/FRED UPTON REP",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/FRED UPTON REP/FU FEB 25 - MAR 07 ORDER",
+        "entity_id": "17203",
+        "source_service_code": "TV",
+        "callsign": "WOGC-CD",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1725746506232758300,
+        "score": 0.24995685
+      },
+      {
+        "id": "91014404-d3a6-23a4-4322-3e897a9f474d",
+        "file_id": "91014404-d3a6-23a4-4322-3e897a9f474d",
+        "file_name": "SEMINOLE TRIBE OF FLORIDA EST 10128 TRAFFIC",
+        "file_extension": "pdf",
+        "file_size": 11024,
+        "file_status": "com_cpy",
+        "folder_id": "4697a174-81e6-e754-2101-d76873751d6b",
+        "create_ts": "2022-02-25T14:26:27.071Z",
+        "last_update_ts": "2022-02-25T14:27:34.698Z",
+        "active_ind": "Y",
+        "file_manager_id": "472eca13-c610-4243-a6a0-2af0b9127e9e",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/SEMINOLE TRIBE OF FLORIDA/0228-031122",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/SEMINOLE TRIBE OF FLORIDA/0228-031122/SEMINOLE TRIBE OF FLORIDA EST 10128 TRAFFIC",
+        "entity_id": "31590",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "TALLAHASSEE-THOMASVILLE",
+        "callsign": "WCTV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725745528781668400,
+        "score": 0.24995685
+      },
       {
         "id": "50549647-e98d-1129-150b-a4915d2af7b5",
         "file_id": "50549647-e98d-1129-150b-a4915d2af7b5",
@@ -199,56 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1725742506269737000,
         "score": 0.24995685
-      },
-      {
-        "id": "1bc35044-772f-0a7c-4cc3-6c30b389fe19",
-        "file_id": "1bc35044-772f-0a7c-4cc3-6c30b389fe19",
-        "file_name": "1150035-0",
-        "file_extension": "pdf",
-        "file_size": 150936,
-        "file_status": "com_cpy",
-        "folder_id": "c0ae4d5f-913f-1e9e-ac91-88c34063451f",
-        "create_ts": "2022-02-25T06:24:53.799Z",
-        "last_update_ts": "2022-02-25T06:24:56.188Z",
-        "active_ind": "Y",
-        "file_manager_id": "ec8cc9b0-7f6b-45bc-a8e9-4ba864666634",
-        "file_folder_path": "Political Files/2022/State/Gubernatorial/Tom Suozzi",
-        "full_qualified_file_name": "Political Files/2022/State/Gubernatorial/Tom Suozzi/1150035-0",
-        "entity_id": "22206",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "NEW YORK",
-        "callsign": "WNYW",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725715231993233400,
-        "score": 0.24995685
-      },
-      {
-        "id": "3ee0db7c-9190-2cea-7bda-3d3e069cd8bd",
-        "file_id": "3ee0db7c-9190-2cea-7bda-3d3e069cd8bd",
-        "file_name": "Eva Guzman for TX AG 619677 est 8439 supplemental form 2.23 - 03.01.22",
-        "file_extension": "pdf",
-        "file_size": 42835,
-        "file_status": "com_cpy",
-        "folder_id": "0e4f630b-76a4-b92d-15e2-d61a19604f44",
-        "create_ts": "2022-02-25T04:07:15.702Z",
-        "last_update_ts": "2022-02-25T04:07:08.493Z",
-        "active_ind": "Y",
-        "file_manager_id": "0c446205-c1ad-4684-bcf6-f554bc6f628e",
-        "file_folder_path": "Political Files/2022/State/TX State Attorney General/Eva Guzman for TX State Attorney General R/Forms",
-        "full_qualified_file_name": "Political Files/2022/State/TX State Attorney General/Eva Guzman for TX State Attorney General R/Forms/Eva Guzman for TX AG 619677 est 8439 supplemental form 2.23 - 03.01.22",
-        "entity_id": "53117",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "HOUSTON",
-        "callsign": "KPRC-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725706572677513200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -263,7 +260,7 @@
         "DULUTH-SUPERIOR": 4654,
         "CHARLESTON-HUNTINGTON": 4332,
         "PORTLAND-AUBURN": 4216,
-        "TALLAHASSEE-THOMASVILLE": 3990,
+        "TALLAHASSEE-THOMASVILLE": 3991,
         "OMAHA": 3635,
         "BUTTE-BOZEMAN": 3622,
         "EUGENE": 3373,
@@ -357,7 +354,7 @@
       "network_affiliation": {
         "ABC": 57589,
         "NBC": 56476,
-        "CBS": 38456,
+        "CBS": 38457,
         "FOX": 27854,
         "PBS": 14389,
         "CW": 12079,
@@ -427,14 +424,14 @@
         "2019": 13966,
         "2020": 125588,
         "2021": 22534,
-        "2022": 5054,
+        "2022": 5056,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 67229,
         "US Senate": 49551,
-        "US House": 41593,
+        "US House": 41594,
         "Presidential": 38698,
         "Local": 24158
       },
@@ -468,15 +465,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236227,
+        "TV": 236229,
         "CABLE": 126141,
         "FM": 111846,
         "AM": 41913,
         "DBS": 5389
       },
       "political_file_type": {
-        "PA": 222266,
-        "NCIA": 123404
+        "PA": 222267,
+        "NCIA": 123405
       }
     }
   },
@@ -492,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 219,
-    "responseTime": 220
+    "queryTime": 1821,
+    "processTime": 830,
+    "responseTime": 1830
   }
 }
