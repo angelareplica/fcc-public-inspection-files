@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 521559,
+    "numFound": 521561,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
@@ -13,7 +13,7 @@
         "file_status": "com_cpy",
         "folder_id": "20779e88-b070-549f-ee53-a97c87090d6b",
         "create_ts": "2022-02-25T19:18:05.035Z",
-        "last_update_ts": "2022-02-25T19:18:07.761Z",
+        "last_update_ts": "2022-02-25T19:30:05.475Z",
         "active_ind": "Y",
         "file_manager_id": "ea2b99c6-dbaa-436b-9ff7-65ea41cf4180",
         "file_folder_path": "Political Files/2022/State/Dave White for Governor",
@@ -26,7 +26,57 @@
         "political_file_type": "PA",
         "office_type": "State",
         "campaign_year": "2022",
-        "_version_": 1725763877062312000,
+        "_version_": 1725764560641589200,
+        "score": 0.24995685
+      },
+      {
+        "id": "2de74c85-7346-ccb3-3b4e-97e1d12dedd0",
+        "file_id": "2de74c85-7346-ccb3-3b4e-97e1d12dedd0",
+        "file_name": "Harry Wilson - 022522 - NB-19",
+        "file_extension": "pdf",
+        "file_size": 689489,
+        "file_status": "com_cpy",
+        "folder_id": "62c11291-d1f4-4ad6-d0cf-fcc5ab27924c",
+        "create_ts": "2022-02-25T19:23:17.396Z",
+        "last_update_ts": "2022-02-25T19:23:10.463Z",
+        "active_ind": "Y",
+        "file_manager_id": "322e2869-fe20-452a-b1a7-ac2a4603973c",
+        "file_folder_path": "Political Files/2022/State/Wilson",
+        "full_qualified_file_name": "Political Files/2022/State/Wilson/Harry Wilson - 022522 - NB-19",
+        "entity_id": "68851",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WATERTOWN",
+        "callsign": "WWNY-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725764204599705600,
+        "score": 0.24995685
+      },
+      {
+        "id": "b407e0fa-5bf8-b6ad-ab17-ec046aa17751",
+        "file_id": "b407e0fa-5bf8-b6ad-ab17-ec046aa17751",
+        "file_name": "TIM O'HARE FOR TARRANT COUNTY JUDGE 02-22-22 to 02-28-22  est#2983 order #1255479_Station Contract_KXAS",
+        "file_extension": "pdf",
+        "file_size": 262729,
+        "file_status": "com_cpy",
+        "folder_id": "c0763f36-238d-de11-c819-95d61ade5084",
+        "create_ts": "2022-02-25T19:20:46.198Z",
+        "last_update_ts": "2022-02-25T19:20:48.668Z",
+        "active_ind": "Y",
+        "file_manager_id": "a07b40e6-34b4-4f46-b641-0f49f5f97e55",
+        "file_folder_path": "Political Files/2022/Local/TARRANT COUNTY JUDGE/OHare Tim",
+        "full_qualified_file_name": "Political Files/2022/Local/TARRANT COUNTY JUDGE/OHare Tim/TIM O'HARE FOR TARRANT COUNTY JUDGE 02-22-22 to 02-28-22  est#2983 order #1255479_Station Contract_KXAS",
+        "entity_id": "49330",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "DALLAS-FT. WORTH",
+        "callsign": "KXAS-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1725764045784481800,
         "score": 0.24995685
       },
       {
@@ -189,50 +239,6 @@
         "campaign_year": "2020",
         "_version_": 1725762292545486800,
         "score": 0.24995685
-      },
-      {
-        "id": "f44ae5ad-e621-8ea3-f9e7-eaf8b63fca27",
-        "file_id": "f44ae5ad-e621-8ea3-f9e7-eaf8b63fca27",
-        "file_name": "WPKL-FM Political Rate Card 2020 General 080420",
-        "file_extension": "pdf",
-        "file_size": 591199,
-        "file_status": "com_cpy",
-        "folder_id": "5e7f9cb8-97bb-12c1-00eb-55bc1905ac82",
-        "create_ts": "2022-02-25T18:52:53.077Z",
-        "last_update_ts": "2022-02-25T18:54:01.581Z",
-        "active_ind": "Y",
-        "file_manager_id": "2cf5ac8d-0873-4360-9907-f297876c91d7",
-        "file_folder_path": "Political Files/2020/Terms and Disclosures",
-        "full_qualified_file_name": "Political Files/2020/Terms and Disclosures/WPKL-FM Political Rate Card 2020 General 080420",
-        "entity_id": "33828",
-        "source_service_code": "FM",
-        "callsign": "WPKL",
-        "political_file_type": "PA",
-        "campaign_year": "2020",
-        "_version_": 1725762291692994600,
-        "score": 0.24995685
-      },
-      {
-        "id": "383c7cb9-7e41-1992-0845-8f729a25f05a",
-        "file_id": "383c7cb9-7e41-1992-0845-8f729a25f05a",
-        "file_name": "Political Disclosure Statement 2021 Brownsville 011921",
-        "file_extension": "pdf",
-        "file_size": 175262,
-        "file_status": "com_cpy",
-        "folder_id": "82e0fa10-d7e3-3082-28fb-82cf16771d79",
-        "create_ts": "2022-02-25T18:51:56.781Z",
-        "last_update_ts": "2022-02-25T18:51:49.491Z",
-        "active_ind": "Y",
-        "file_manager_id": "cb0e8078-8f31-42f2-8b8d-026ba6dcf1ab",
-        "file_folder_path": "Political Files/2021/Terms and Disclosures",
-        "full_qualified_file_name": "Political Files/2021/Terms and Disclosures/Political Disclosure Statement 2021 Brownsville 011921",
-        "entity_id": "33828",
-        "source_service_code": "FM",
-        "callsign": "WPKL",
-        "political_file_type": "PA",
-        "campaign_year": "2021",
-        "_version_": 1725762232259707000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -318,7 +324,7 @@
         "GREENVILLE-N.BERN-WASHNGTN": 802,
         "TULSA": 793,
         "HELENA": 780,
-        "DALLAS-FT. WORTH": 767,
+        "DALLAS-FT. WORTH": 768,
         "TWIN FALLS": 749,
         "DAYTON": 736,
         "FLINT-SAGINAW-BAY CITY": 731,
@@ -340,8 +346,8 @@
       },
       "network_affiliation": {
         "ABC": 57592,
-        "NBC": 56490,
-        "CBS": 38457,
+        "NBC": 56491,
+        "CBS": 38458,
         "FOX": 27857,
         "PBS": 14389,
         "CW": 12080,
@@ -411,16 +417,16 @@
         "2019": 13964,
         "2020": 125592,
         "2021": 22539,
-        "2022": 5091,
+        "2022": 5093,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 67240,
+        "State": 67241,
         "US Senate": 49551,
         "US House": 41596,
         "Presidential": 38698,
-        "Local": 24164
+        "Local": 24165
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61612,
@@ -452,14 +458,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236252,
+        "TV": 236254,
         "CABLE": 126151,
         "FM": 111852,
         "AM": 41915,
         "DBS": 5389
       },
       "political_file_type": {
-        "PA": 222292,
+        "PA": 222294,
         "NCIA": 123421
       }
     }
@@ -476,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1779,
-    "processTime": 787,
-    "responseTime": 1788
+    "queryTime": 1817,
+    "processTime": 825,
+    "responseTime": 1826
   }
 }
