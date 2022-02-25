@@ -1,9 +1,58 @@
 {
   "response": {
-    "numFound": 521527,
+    "numFound": 521529,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "0fd2d632-26a3-3ffc-265f-af90c2cf7a36",
+        "file_id": "0fd2d632-26a3-3ffc-265f-af90c2cf7a36",
+        "file_name": "Blanchard Mar8-May2 mg1",
+        "file_extension": "pdf",
+        "file_size": 46058,
+        "file_status": "com_cpy",
+        "folder_id": "9e5977f5-3d66-976c-857b-225e610eff65",
+        "create_ts": "2022-02-25T16:24:49.313Z",
+        "last_update_ts": "2022-02-25T16:24:51.572Z",
+        "active_ind": "Y",
+        "file_manager_id": "bebd3e09-07c5-4325-9b36-60bf7264bc9f",
+        "file_folder_path": "Political Files/2022/State/Lynda Blanchard/Lynda Blanchard 030822-050222 preorder",
+        "full_qualified_file_name": "Political Files/2022/State/Lynda Blanchard/Lynda Blanchard 030822-050222 preorder/Blanchard Mar8-May2 mg1",
+        "entity_id": "74173",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
+        "callsign": "WVTM-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725752975865938000,
+        "score": 0.24995685
+      },
+      {
+        "id": "41e58a82-46de-eb52-c83b-c3450729fa84",
+        "file_id": "41e58a82-46de-eb52-c83b-c3450729fa84",
+        "file_name": "White_2021 NAB - Candidate Advertisement Agreement Form _ 2021 12 06",
+        "file_extension": "pdf",
+        "file_size": 1065646,
+        "file_status": "com_cpy",
+        "folder_id": "d7655df7-5dfd-200a-276b-007187650b17",
+        "create_ts": "2022-02-25T16:17:12.639Z",
+        "last_update_ts": "2022-02-25T16:18:21.318Z",
+        "active_ind": "Y",
+        "file_manager_id": "4ff1a3cd-3932-4c86-bdcb-5bcc6ee4efa0",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/White",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/White/White_2021 NAB - Candidate Advertisement Agreement Form _ 2021 12 06",
+        "entity_id": "008858",
+        "source_service_code": "CABLE",
+        "legal_name": "VYVE BROADBAND J, LLC",
+        "operator_city_name": "RYE BROOK",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725752498040340500,
+        "score": 0.24995685
+      },
       {
         "id": "a19a07cf-61cc-92e7-0019-a3a4705c3802",
         "file_id": "a19a07cf-61cc-92e7-0019-a3a4705c3802",
@@ -11,18 +60,19 @@
         "file_extension": "pdf",
         "file_size": 37496,
         "file_status": "com_cpy",
-        "folder_id": "75efcdf7-e084-59d6-8246-7907f17a11ca",
+        "folder_id": "d2135e11-5232-fa71-dfad-a2d5d1b061d4",
         "create_ts": "2022-02-25T15:45:17.751Z",
-        "last_update_ts": "2022-02-25T15:45:10.399Z",
+        "last_update_ts": "2022-02-25T15:47:56.914Z",
         "active_ind": "Y",
         "file_manager_id": "15fcf191-b52f-4f6c-8ba5-e0f783a85e65",
-        "file_folder_path": "FCC Authorizations/Additional Documents",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/[Minneapolis] [KTMY_Mpls FED TEACHERS 239 01-01 (111443)]",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/[Minneapolis] [KTMY_Mpls FED TEACHERS 239 01-01 (111443)]",
         "entity_id": "60641",
         "source_service_code": "FM",
         "callsign": "KTMY",
-        "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1725750489124962300,
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725750585078055000,
         "score": 0.24995685
       },
       {
@@ -197,53 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1725749454373388300,
         "score": 0.24995685
-      },
-      {
-        "id": "15415df4-a135-058c-f6c3-d3eb1a3a40e7",
-        "file_id": "15415df4-a135-058c-f6c3-d3eb1a3a40e7",
-        "file_name": "Represent US WPTZ 02-01-2022 - INVOICE",
-        "file_extension": "pdf",
-        "file_size": 153473,
-        "file_status": "com_cpy",
-        "folder_id": "df99e8b9-9bcd-0278-57b7-0d1895b41283",
-        "create_ts": "2022-02-25T15:14:17.7Z",
-        "last_update_ts": "2022-02-25T15:15:25.394Z",
-        "active_ind": "Y",
-        "file_manager_id": "a5a24526-39a8-4805-83c2-e60e3aba9933",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Represent US",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Represent US/Represent US WPTZ 02-01-2022 - INVOICE",
-        "entity_id": "57476",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "BURLINGTON-PLATTSBURGH",
-        "callsign": "WPTZ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1725748538819739600,
-        "score": 0.24995685
-      },
-      {
-        "id": "c49670ef-03b6-8d8b-b890-14864dd6c6a2",
-        "file_id": "c49670ef-03b6-8d8b-b890-14864dd6c6a2",
-        "file_name": "Confirm_2746-004",
-        "file_extension": "pdf",
-        "file_size": 5558,
-        "file_status": "com_cpy",
-        "folder_id": "3dd1f154-e054-bd7c-4845-1f193071c56d",
-        "create_ts": "2022-02-25T14:51:35.536Z",
-        "last_update_ts": "2022-02-25T14:51:38.332Z",
-        "active_ind": "Y",
-        "file_manager_id": "6f22368a-0708-457f-8369-318089ef6c12",
-        "file_folder_path": "Political Files/2022/Local/Tim Glass",
-        "full_qualified_file_name": "Political Files/2022/Local/Tim Glass/Confirm_2746-004",
-        "entity_id": "61684",
-        "source_service_code": "FM",
-        "callsign": "KXDJ",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1725747110940246000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -278,7 +281,7 @@
         "SAVANNAH": 2438,
         "QUINCY-HANNIBAL-KEOKUK": 2383,
         "PEORIA-BLOOMINGTON": 2321,
-        "BIRMINGHAM (ANN TUSC)": 2311,
+        "BIRMINGHAM (ANN TUSC)": 2312,
         "WAUSAU-RHINELANDER": 2295,
         "PHILADELPHIA": 2193,
         "Greenville-Spartanburg-Asheville-Anderson": 2186,
@@ -351,7 +354,7 @@
       },
       "network_affiliation": {
         "ABC": 57589,
-        "NBC": 56484,
+        "NBC": 56485,
         "CBS": 38457,
         "FOX": 27855,
         "PBS": 14389,
@@ -422,12 +425,12 @@
         "2019": 13964,
         "2020": 125588,
         "2021": 22534,
-        "2022": 5067,
+        "2022": 5070,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 67230,
+        "State": 67231,
         "US Senate": 49551,
         "US House": 41596,
         "Presidential": 38698,
@@ -438,7 +441,7 @@
         "Issues and Programs Lists": 44907,
         "Equal Employment Opportunity Records": 37141,
         "Donor Lists - Applicable Only for NCEs": 11564,
-        "FCC Authorizations": 7276,
+        "FCC Authorizations": 7275,
         "Availability of Signals": 1867,
         "Local Public Notice Announcements": 1766,
         "Applications and Related Materials": 1667,
@@ -463,15 +466,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236238,
-        "CABLE": 126141,
+        "TV": 236239,
+        "CABLE": 126142,
         "FM": 111845,
         "AM": 41914,
         "DBS": 5389
       },
       "political_file_type": {
-        "PA": 222275,
-        "NCIA": 123405
+        "PA": 222276,
+        "NCIA": 123407
       }
     }
   },
@@ -487,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1806,
-    "processTime": 813,
-    "responseTime": 1814
+    "queryTime": 1799,
+    "processTime": 808,
+    "responseTime": 1808
   }
 }
