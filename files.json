@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 521612,
+    "numFound": 521613,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "8e1d5069-9bd5-a337-fe4c-c564f8f7a9ff",
+        "file_id": "8e1d5069-9bd5-a337-fe4c-c564f8f7a9ff",
+        "file_name": "Ken Paxton for TX AG  617767 est 226301 supplemental form 2.25 - 03.01.22rev",
+        "file_extension": "pdf",
+        "file_size": 38378,
+        "file_status": "com_cpy",
+        "folder_id": "fc0f667c-3c31-65e7-ae79-05473d15e00e",
+        "create_ts": "2022-02-25T02:47:55.674Z",
+        "last_update_ts": "2022-02-25T02:47:48.486Z",
+        "active_ind": "Y",
+        "file_manager_id": "bebfcc46-4bce-42fd-9607-cc871af5b1c7",
+        "file_folder_path": "Political Files/2022/State/TX State Attorney General/Ken Paxton for TX State Attorney General R/Forms",
+        "full_qualified_file_name": "Political Files/2022/State/TX State Attorney General/Ken Paxton for TX State Attorney General R/Forms/Ken Paxton for TX AG  617767 est 226301 supplemental form 2.25 - 03.01.22rev",
+        "entity_id": "53117",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HOUSTON",
+        "callsign": "KPRC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725701581428490200,
+        "score": 0.24995685
+      },
       {
         "id": "73fa2236-ea61-d487-d371-12d977970bcb",
         "file_id": "73fa2236-ea61-d487-d371-12d977970bcb",
@@ -221,31 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1725684869559746600,
         "score": 0.24995685
-      },
-      {
-        "id": "5891f7c0-f361-f9c0-ba9a-20f0db1b03e3",
-        "file_id": "5891f7c0-f361-f9c0-ba9a-20f0db1b03e3",
-        "file_name": "TaxpayersforWilson-contract2432845-022422",
-        "file_extension": "pdf",
-        "file_size": 222023,
-        "file_status": "com_cpy",
-        "folder_id": "dc00ab05-5037-6c59-63c4-e3bffee8e483",
-        "create_ts": "2022-02-24T22:22:17.665Z",
-        "last_update_ts": "2022-02-24T22:23:23.676Z",
-        "active_ind": "Y",
-        "file_manager_id": "2a2f3719-05b2-4cba-9243-65a874ae6728",
-        "file_folder_path": "Political Files/2022/State/New York State Governor/Taxpayers for Wilson",
-        "full_qualified_file_name": "Political Files/2022/State/New York State Governor/Taxpayers for Wilson/TaxpayersforWilson-contract2432845-022422",
-        "entity_id": "23337",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "BINGHAMTON",
-        "callsign": "WBNG-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725684869556600800,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -347,13 +347,13 @@
         "MONTEREY-SALINAS": 632,
         "MACON": 614,
         "WACO-TEMPLE-BRYAN": 558,
-        "HOUSTON": 549,
+        "HOUSTON": 550,
         "BOSTON (MANCHESTER)": 546,
         "AUGUSTA": 538
       },
       "network_affiliation": {
         "ABC": 57643,
-        "NBC": 56474,
+        "NBC": 56475,
         "CBS": 38503,
         "FOX": 27852,
         "PBS": 14389,
@@ -424,12 +424,12 @@
         "2019": 13966,
         "2020": 125695,
         "2021": 22534,
-        "2022": 5043,
+        "2022": 5044,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 67220,
+        "State": 67221,
         "US Senate": 49559,
         "US House": 41593,
         "Presidential": 38787,
@@ -465,14 +465,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236324,
+        "TV": 236325,
         "CABLE": 126141,
         "FM": 111846,
         "AM": 41912,
         "DBS": 5389
       },
       "political_file_type": {
-        "PA": 222354,
+        "PA": 222355,
         "NCIA": 123412
       }
     }
@@ -489,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1796,
-    "processTime": 806,
-    "responseTime": 1806
+    "queryTime": 1813,
+    "processTime": 822,
+    "responseTime": 1822
   }
 }
