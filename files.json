@@ -5,6 +5,56 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "be0c23d7-5255-bc36-2ec1-b2b32dd7097d",
+        "file_id": "be0c23d7-5255-bc36-2ec1-b2b32dd7097d",
+        "file_name": "MEHMET OZ  5145249  EST 3441  022322-030422",
+        "file_extension": "pdf",
+        "file_size": 163670,
+        "file_status": "com_cpy",
+        "folder_id": "f5e02f75-943c-1d21-7416-d4cfc0b3ee8f",
+        "create_ts": "2022-02-25T23:36:32.362Z",
+        "last_update_ts": "2022-02-25T23:36:34.904Z",
+        "active_ind": "Y",
+        "file_manager_id": "ceaeb48d-1eb1-43c2-86bc-ed0989b0618b",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Mehmet Oz for Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Mehmet Oz for Senate/MEHMET OZ  5145249  EST 3441  022322-030422",
+        "entity_id": "73120",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "JOHNSTOWN-ALTOONA-ST COLGE",
+        "callsign": "WJAC-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1725780137475047400,
+        "score": 0.24995685
+      },
+      {
+        "id": "6188d21f-530e-6c26-7051-63da5d88a160",
+        "file_id": "6188d21f-530e-6c26-7051-63da5d88a160",
+        "file_name": "MEHMET OZ  5145605  EST 3442  022822-031322  ",
+        "file_extension": "pdf",
+        "file_size": 162939,
+        "file_status": "com_cpy",
+        "folder_id": "f5e02f75-943c-1d21-7416-d4cfc0b3ee8f",
+        "create_ts": "2022-02-25T23:36:32.356Z",
+        "last_update_ts": "2022-02-25T23:36:25.199Z",
+        "active_ind": "Y",
+        "file_manager_id": "12064cc7-0f3d-4eb3-9e34-e8ceee2268b1",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Mehmet Oz for Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Mehmet Oz for Senate/MEHMET OZ  5145605  EST 3442  022822-031322  ",
+        "entity_id": "73120",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "JOHNSTOWN-ALTOONA-ST COLGE",
+        "callsign": "WJAC-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1725780137476096000,
+        "score": 0.24995685
+      },
+      {
         "id": "945fbd2d-0b67-6f27-06b1-94fa47ff7eba",
         "file_id": "945fbd2d-0b67-6f27-06b1-94fa47ff7eba",
         "file_name": "CORMAN FOR GOV  5155809  EST 1519  022522-030122",
@@ -194,57 +244,12 @@
         "campaign_year": "2022",
         "_version_": 1725777122069315600,
         "score": 0.24995685
-      },
-      {
-        "id": "3e6e9b2d-4659-a321-e120-fbae87fa3a7f",
-        "file_id": "3e6e9b2d-4659-a321-e120-fbae87fa3a7f",
-        "file_name": "Political Disclosure Statement 2022 Robinson 022122",
-        "file_extension": "pdf",
-        "file_size": 348744,
-        "file_status": "com_cpy",
-        "folder_id": "3e39db61-6e87-d52c-82d5-93a5cecc29c2",
-        "create_ts": "2022-02-25T22:40:11.563Z",
-        "last_update_ts": "2022-02-25T22:40:04.24Z",
-        "active_ind": "Y",
-        "file_manager_id": "2f61781d-6b7f-4f96-bdfb-7caf8e9998ca",
-        "file_folder_path": "Political Files/2022/Terms and Disclosures",
-        "full_qualified_file_name": "Political Files/2022/Terms and Disclosures/Political Disclosure Statement 2022 Robinson 022122",
-        "entity_id": "24999",
-        "source_service_code": "FM",
-        "callsign": "WKPL",
-        "political_file_type": "PA",
-        "campaign_year": "2022",
-        "_version_": 1725776592275243000,
-        "score": 0.24995685
-      },
-      {
-        "id": "88cea829-8062-2a11-abf3-6ae2d46f0b49",
-        "file_id": "88cea829-8062-2a11-abf3-6ae2d46f0b49",
-        "file_name": "Tammie Minton for Polk Co Probate Clerk oRDER 0913-001 KDQN FM",
-        "file_extension": "pdf",
-        "file_size": 257250,
-        "file_status": "com_cpy",
-        "folder_id": "013db39f-1be8-638f-6c30-7cb0a093e28a",
-        "create_ts": "2022-02-25T22:32:41.896Z",
-        "last_update_ts": "2022-02-25T22:32:34.686Z",
-        "active_ind": "Y",
-        "file_manager_id": "d1dcdf8a-1c7e-4cf4-bd05-adb0221f391b",
-        "file_folder_path": "Political Files/2022/Local/Polk County",
-        "full_qualified_file_name": "Political Files/2022/Local/Polk County/Tammie Minton for Polk Co Probate Clerk oRDER 0913-001 KDQN FM",
-        "entity_id": "30599",
-        "source_service_code": "FM",
-        "callsign": "KDQN-FM",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1725776120885805000,
-        "score": 0.24995685
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8382,
-        "WILKES BARRE-SCRANTON": 7168,
+        "WILKES BARRE-SCRANTON": 7166,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7039,
         "LAS VEGAS": 6012,
         "WEST PALM BEACH-FT. PIERCE": 5811,
@@ -302,7 +307,7 @@
         "GAINESVILLE": 1265,
         "PROVIDENCE-NEW BEDFORD": 1200,
         "ANCHORAGE": 1194,
-        "JOHNSTOWN-ALTOONA-ST COLGE": 1177,
+        "JOHNSTOWN-ALTOONA-ST COLGE": 1179,
         "LOS ANGELES": 1141,
         "CHARLOTTE": 1110,
         "SALT LAKE CITY": 1099,
@@ -345,8 +350,8 @@
         "AUGUSTA": 538
       },
       "network_affiliation": {
-        "ABC": 57598,
-        "NBC": 56500,
+        "ABC": 57596,
+        "NBC": 56502,
         "CBS": 38479,
         "FOX": 27859,
         "PBS": 14389,
@@ -423,7 +428,7 @@
       },
       "office_type": {
         "State": 67270,
-        "US Senate": 49553,
+        "US Senate": 49555,
         "US House": 41599,
         "Presidential": 38698,
         "Local": 24182
@@ -465,8 +470,8 @@
         "DBS": 5391
       },
       "political_file_type": {
-        "PA": 222352,
-        "NCIA": 123430
+        "PA": 222354,
+        "NCIA": 123428
       }
     }
   },
@@ -482,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1801,
-    "processTime": 810,
-    "responseTime": 1811
+    "queryTime": 1775,
+    "processTime": 783,
+    "responseTime": 1784
   }
 }
