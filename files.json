@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 521654,
+    "numFound": 521653,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
@@ -340,7 +340,7 @@
         "BUFFALO": 689,
         "SAN FRANCISCO-OAK-SAN JOSE": 674,
         "BANGOR": 673,
-        "SAN DIEGO": 658,
+        "SAN DIEGO": 657,
         "HARTFORD & NEW HAVEN": 639,
         "EL PASO (LAS CRUCES)": 637,
         "TERRE HAUTE": 635,
@@ -354,7 +354,7 @@
       "network_affiliation": {
         "ABC": 57603,
         "NBC": 56505,
-        "CBS": 38485,
+        "CBS": 38484,
         "FOX": 27859,
         "PBS": 14389,
         "CW": 12081,
@@ -421,7 +421,7 @@
         "2016": 68731,
         "2017": 10353,
         "2018": 67729,
-        "2019": 13964,
+        "2019": 13963,
         "2020": 125592,
         "2021": 22542,
         "2022": 5187,
@@ -465,7 +465,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236314,
+        "TV": 236313,
         "CABLE": 126151,
         "FM": 111882,
         "AM": 41916,
@@ -473,7 +473,7 @@
       },
       "political_file_type": {
         "PA": 222373,
-        "NCIA": 123434
+        "NCIA": 123433
       }
     }
   },
@@ -489,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 210,
-    "processTime": 217,
+    "queryTime": 211,
+    "processTime": 218,
     "responseTime": 218
   }
 }
