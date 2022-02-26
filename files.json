@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 521650,
+    "numFound": 521651,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "66b08303-aa6b-d0e8-4512-3a76da2fc75a",
+        "file_id": "66b08303-aa6b-d0e8-4512-3a76da2fc75a",
+        "file_name": "2022-02-26 04-42 Friends of Joe Blyslone for Governor",
+        "file_extension": "pdf",
+        "file_size": 3608326,
+        "file_status": "com_cpy",
+        "folder_id": "e21e90d7-9fcb-c2a2-bcba-ff2ae260cb0d",
+        "create_ts": "2022-02-26T09:49:10.282Z",
+        "last_update_ts": "2022-02-26T09:50:20.987Z",
+        "active_ind": "Y",
+        "file_manager_id": "ddbd9df6-59d2-4877-a476-c1bfcc24d796",
+        "file_folder_path": "Political Files/2022/State/Joe Blyslone for Governor",
+        "full_qualified_file_name": "Political Files/2022/State/Joe Blyslone for Governor/2022-02-26 04-42 Friends of Joe Blyslone for Governor",
+        "entity_id": "68421",
+        "source_service_code": "FM",
+        "callsign": "WNPQ",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1725818681651363800,
+        "score": 0.24995685
+      },
       {
         "id": "6b1a2702-de01-3971-0d6e-0f14ba87c78b",
         "file_id": "6b1a2702-de01-3971-0d6e-0f14ba87c78b",
@@ -225,31 +248,6 @@
         "campaign_year": "2022",
         "_version_": 1725784135708967000,
         "score": 0.24995685
-      },
-      {
-        "id": "b218a025-3585-1541-6484-2d403ff7617d",
-        "file_id": "b218a025-3585-1541-6484-2d403ff7617d",
-        "file_name": "JLEE 0217-0226 - 3415756 REQ R2",
-        "file_extension": "pdf",
-        "file_size": 42613,
-        "file_status": "com_cpy",
-        "folder_id": "547fb9d7-8ef8-f141-753a-d68892d3a45f",
-        "create_ts": "2022-02-26T00:39:21.796Z",
-        "last_update_ts": "2022-02-26T00:39:24.136Z",
-        "active_ind": "Y",
-        "file_manager_id": "78f55908-eef6-4238-a86b-4f4dd3061cff",
-        "file_folder_path": "Political Files/2022/Local/Governor/John Lee/Orders  Revisions",
-        "full_qualified_file_name": "Political Files/2022/Local/Governor/John Lee/Orders  Revisions/JLEE 0217-0226 - 3415756 REQ R2",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1725784089797066800,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -428,12 +426,12 @@
         "2019": 13964,
         "2020": 125592,
         "2021": 22542,
-        "2022": 5183,
+        "2022": 5184,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 67276,
+        "State": 67277,
         "US Senate": 49559,
         "US House": 41602,
         "Presidential": 38698,
@@ -471,12 +469,12 @@
       "source_service_code": {
         "TV": 236311,
         "CABLE": 126151,
-        "FM": 111881,
+        "FM": 111882,
         "AM": 41916,
         "DBS": 5391
       },
       "political_file_type": {
-        "PA": 222371,
+        "PA": 222372,
         "NCIA": 123432
       }
     }
@@ -493,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 219,
-    "responseTime": 219
+    "queryTime": 1796,
+    "processTime": 816,
+    "responseTime": 1817
   }
 }
