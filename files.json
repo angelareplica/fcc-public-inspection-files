@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 521653,
+    "numFound": 521655,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "5a75276b-82ca-2c72-0b4d-26978c00a802",
+        "file_id": "5a75276b-82ca-2c72-0b4d-26978c00a802",
+        "file_name": "America's Pac AM22-020 KVLV",
+        "file_extension": "pdf",
+        "file_size": 588792,
+        "file_status": "com_cpy",
+        "folder_id": "bbe0be1b-d377-9981-50ac-6515a9248ba9",
+        "create_ts": "2022-02-26T23:41:06.368Z",
+        "last_update_ts": "2022-02-26T23:40:59.085Z",
+        "active_ind": "Y",
+        "file_manager_id": "06e288bf-d36f-4447-8c75-d6259c7631ad",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/America's Pac AM22-020 KVLV",
+        "entity_id": "36244",
+        "source_service_code": "FM",
+        "callsign": "KKTU-FM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725871021842497500,
+        "score": 0.24995685
+      },
+      {
+        "id": "a99232fd-498b-20ee-ae08-2b47e4b2a060",
+        "file_id": "a99232fd-498b-20ee-ae08-2b47e4b2a060",
+        "file_name": "America's Pac AM22-020 KVLV",
+        "file_extension": "pdf",
+        "file_size": 588792,
+        "file_status": "com_cpy",
+        "folder_id": "4e818015-812d-fa14-42e1-ccee701b8052",
+        "create_ts": "2022-02-26T23:37:40.422Z",
+        "last_update_ts": "2022-02-26T23:38:52.214Z",
+        "active_ind": "Y",
+        "file_manager_id": "507c9731-5e88-4430-8fbe-72a1585d747e",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/America's Pac AM22-020 KVLV",
+        "entity_id": "36243",
+        "source_service_code": "AM",
+        "callsign": "KVLV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725870805934407700,
+        "score": 0.24995685
+      },
       {
         "id": "b388de0e-6f79-0e5e-8adf-3f8006399211",
         "file_id": "b388de0e-6f79-0e5e-8adf-3f8006399211",
@@ -198,54 +242,6 @@
         "campaign_year": "2022",
         "_version_": 1725786148246126600,
         "score": 0.24995685
-      },
-      {
-        "id": "b039aff4-3c3b-327d-5851-3c8f36f4b362",
-        "file_id": "b039aff4-3c3b-327d-5851-3c8f36f4b362",
-        "file_name": "Revised  EXT WavemakerWPP Pro Bono Opportunity (002)",
-        "file_extension": "pdf",
-        "file_size": 75287,
-        "file_status": "com_cpy",
-        "folder_id": "e090d0c5-6166-d112-8490-2148e34ed8ea",
-        "create_ts": "2022-02-26T00:54:54.894Z",
-        "last_update_ts": "2022-02-26T00:54:47.489Z",
-        "active_ind": "Y",
-        "file_manager_id": "1f4be0c8-d23d-453d-9ef2-0daf3cfa4c80",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/The Human Rights Champaign",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/The Human Rights Champaign/Revised  EXT WavemakerWPP Pro Bono Opportunity (002)",
-        "entity_id": "73264",
-        "source_service_code": "TV",
-        "network_affiliation": "CW",
-        "nielsen_dma_rank": "ALBANY-SCHENECTADY-TROY",
-        "callsign": "WCWN",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1725785068199215000,
-        "score": 0.24995685
-      },
-      {
-        "id": "98db37b8-4b19-2e45-6f6b-067bc6db5aeb",
-        "file_id": "98db37b8-4b19-2e45-6f6b-067bc6db5aeb",
-        "file_name": "Revised  EXT WavemakerWPP Pro Bono Opportunity (002)",
-        "file_extension": "pdf",
-        "file_size": 75287,
-        "file_status": "com_cpy",
-        "folder_id": "97d5be71-0555-ddc2-59af-f8253e40181b",
-        "create_ts": "2022-02-26T00:52:16.06Z",
-        "last_update_ts": "2022-02-26T00:53:24.856Z",
-        "active_ind": "Y",
-        "file_manager_id": "eb006fc2-92c7-4428-80a7-f0d2cb77888b",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/The Human Rights Champaign",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/The Human Rights Champaign/Revised  EXT WavemakerWPP Pro Bono Opportunity (002)",
-        "entity_id": "73942",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "ALBANY-SCHENECTADY-TROY",
-        "callsign": "WRGB",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1725784901695832000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -424,7 +420,7 @@
         "2019": 13963,
         "2020": 125592,
         "2021": 22542,
-        "2022": 5187,
+        "2022": 5189,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -467,13 +463,13 @@
       "source_service_code": {
         "TV": 236313,
         "CABLE": 126151,
-        "FM": 111882,
-        "AM": 41916,
+        "FM": 111883,
+        "AM": 41917,
         "DBS": 5391
       },
       "political_file_type": {
         "PA": 222373,
-        "NCIA": 123433
+        "NCIA": 123435
       }
     }
   },
@@ -489,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1815,
-    "processTime": 824,
-    "responseTime": 1825
+    "queryTime": 212,
+    "processTime": 223,
+    "responseTime": 223
   }
 }
