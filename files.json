@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 521655,
+    "numFound": 521656,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "216f1473-6fe5-fad1-8d98-5294fad95c26",
+        "file_id": "216f1473-6fe5-fad1-8d98-5294fad95c26",
+        "file_name": "InfoTrak Show #2022-09 Aired 2-27-22",
+        "file_extension": "pdf",
+        "file_size": 159891,
+        "file_status": "com_cpy",
+        "folder_id": "5cf305b1-68b5-97a4-5c65-fcd249afdc76",
+        "create_ts": "2022-02-27T13:43:08.169Z",
+        "last_update_ts": "2022-02-27T13:44:21.427Z",
+        "active_ind": "Y",
+        "file_manager_id": "ed53f504-f0ab-44f2-932d-a362c59f4695",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/InfoTrak Show #2022-09 Aired 2-27-22",
+        "entity_id": "47103",
+        "source_service_code": "FM",
+        "callsign": "WKKY",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1725923997614342100,
+        "score": 0.24995685
+      },
       {
         "id": "5a75276b-82ca-2c72-0b4d-26978c00a802",
         "file_id": "5a75276b-82ca-2c72-0b4d-26978c00a802",
@@ -218,30 +239,6 @@
         "campaign_year": "2022",
         "_version_": 1725797456998826000,
         "score": 0.24995685
-      },
-      {
-        "id": "fcf65553-ea05-cfea-2e42-04847d7db338",
-        "file_id": "fcf65553-ea05-cfea-2e42-04847d7db338",
-        "file_name": "Club for Growth 02.28.22-03.06.22 #137472",
-        "file_extension": "pdf",
-        "file_size": 3349554,
-        "file_status": "com_cpy",
-        "folder_id": "78f46859-8024-9ce7-fca5-1f109fe72dce",
-        "create_ts": "2022-02-26T01:12:04.006Z",
-        "last_update_ts": "2022-02-26T01:11:57.493Z",
-        "active_ind": "Y",
-        "file_manager_id": "bb5e1213-2da4-4875-b28b-87885a42ca90",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth/Club for Growth 02.28.22-03.06.22 #137472",
-        "entity_id": "25382",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "OKLAHOMA CITY",
-        "callsign": "KWTV-DT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1725786148246126600,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -433,7 +430,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61612,
-        "Issues and Programs Lists": 44907,
+        "Issues and Programs Lists": 44908,
         "Equal Employment Opportunity Records": 37141,
         "Donor Lists - Applicable Only for NCEs": 11564,
         "FCC Authorizations": 7275,
@@ -463,7 +460,7 @@
       "source_service_code": {
         "TV": 236313,
         "CABLE": 126151,
-        "FM": 111883,
+        "FM": 111884,
         "AM": 41917,
         "DBS": 5391
       },
@@ -485,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 65,
-    "processTime": 75,
-    "responseTime": 75
+    "queryTime": 210,
+    "processTime": 219,
+    "responseTime": 220
   }
 }
