@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 521662,
+    "numFound": 521664,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "bc3b0320-2ee4-1d91-55d2-b584426236d1",
+        "file_id": "bc3b0320-2ee4-1d91-55d2-b584426236d1",
+        "file_name": "KENS Auxiliary Construction Permit 0000178638",
+        "file_extension": "pdf",
+        "file_size": 344350,
+        "file_status": "com_cpy",
+        "folder_id": "4bb0d698-62c9-bef1-fcd2-ce85a589836c",
+        "create_ts": "2022-02-27T20:49:57.89Z",
+        "last_update_ts": "2022-02-27T20:51:12.126Z",
+        "active_ind": "Y",
+        "file_manager_id": "e612bf1b-00c6-4e94-9e11-747697bdcf7d",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/KENS Auxiliary Construction Permit 0000178638",
+        "entity_id": "26304",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "SAN ANTONIO",
+        "callsign": "KENS",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1725950851499950000,
+        "score": 0.24995685
+      },
+      {
+        "id": "b9347ca8-bcc1-3312-ebcf-3e0eb1365a19",
+        "file_id": "b9347ca8-bcc1-3312-ebcf-3e0eb1365a19",
+        "file_name": "KENS Auxiliary License 0000179674",
+        "file_extension": "pdf",
+        "file_size": 344365,
+        "file_status": "com_cpy",
+        "folder_id": "4bb0d698-62c9-bef1-fcd2-ce85a589836c",
+        "create_ts": "2022-02-27T20:49:58.016Z",
+        "last_update_ts": "2022-02-27T20:50:00.587Z",
+        "active_ind": "Y",
+        "file_manager_id": "3650f76d-a141-4154-b9b6-811d01a2f74c",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/KENS Auxiliary License 0000179674",
+        "entity_id": "26304",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "SAN ANTONIO",
+        "callsign": "KENS",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1725950851539796000,
+        "score": 0.24995685
+      },
       {
         "id": "5fff9c58-c884-03e8-a09e-2b06434c0e8a",
         "file_id": "5fff9c58-c884-03e8-a09e-2b06434c0e8a",
@@ -174,49 +220,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1725942960709697500,
         "score": 0.24995685
-      },
-      {
-        "id": "216f1473-6fe5-fad1-8d98-5294fad95c26",
-        "file_id": "216f1473-6fe5-fad1-8d98-5294fad95c26",
-        "file_name": "InfoTrak Show #2022-09 Aired 2-27-22",
-        "file_extension": "pdf",
-        "file_size": 159891,
-        "file_status": "com_cpy",
-        "folder_id": "5cf305b1-68b5-97a4-5c65-fcd249afdc76",
-        "create_ts": "2022-02-27T13:43:08.169Z",
-        "last_update_ts": "2022-02-27T13:44:21.427Z",
-        "active_ind": "Y",
-        "file_manager_id": "ed53f504-f0ab-44f2-932d-a362c59f4695",
-        "file_folder_path": "Issues and Programs Lists/2022",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/InfoTrak Show #2022-09 Aired 2-27-22",
-        "entity_id": "47103",
-        "source_service_code": "FM",
-        "callsign": "WKKY",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1725923997614342100,
-        "score": 0.24995685
-      },
-      {
-        "id": "5a75276b-82ca-2c72-0b4d-26978c00a802",
-        "file_id": "5a75276b-82ca-2c72-0b4d-26978c00a802",
-        "file_name": "America's Pac AM22-020 KVLV",
-        "file_extension": "pdf",
-        "file_size": 588792,
-        "file_status": "com_cpy",
-        "folder_id": "bbe0be1b-d377-9981-50ac-6515a9248ba9",
-        "create_ts": "2022-02-26T23:41:06.368Z",
-        "last_update_ts": "2022-02-26T23:40:59.085Z",
-        "active_ind": "Y",
-        "file_manager_id": "06e288bf-d36f-4447-8c75-d6259c7631ad",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/America's Pac AM22-020 KVLV",
-        "entity_id": "36244",
-        "source_service_code": "FM",
-        "callsign": "KKTU-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1725871021842497500,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -325,7 +328,7 @@
       "network_affiliation": {
         "ABC": 57603,
         "NBC": 56505,
-        "CBS": 38483,
+        "CBS": 38485,
         "FOX": 27859,
         "PBS": 14389,
         "CW": 12081,
@@ -411,7 +414,7 @@
         "Issues and Programs Lists": 44915,
         "Equal Employment Opportunity Records": 37141,
         "Donor Lists - Applicable Only for NCEs": 11564,
-        "FCC Authorizations": 7275,
+        "FCC Authorizations": 7277,
         "Availability of Signals": 1867,
         "Local Public Notice Announcements": 1766,
         "Applications and Related Materials": 1667,
@@ -436,7 +439,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236312,
+        "TV": 236314,
         "CABLE": 126151,
         "FM": 111884,
         "AM": 41924,
@@ -460,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1797,
-    "processTime": 805,
-    "responseTime": 1805
+    "queryTime": 1833,
+    "processTime": 840,
+    "responseTime": 1841
   }
 }
