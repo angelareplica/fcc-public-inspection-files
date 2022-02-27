@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 521662,
+    "numFound": 521661,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "f2356d23-9e3a-9939-d380-cb1afe9474a4",
+        "file_id": "f2356d23-9e3a-9939-d380-cb1afe9474a4",
+        "file_name": "NEWS 2-07-22 PUBLIC FILE",
+        "file_extension": "pdf",
+        "file_size": 41640,
+        "file_status": "com_cpy",
+        "folder_id": "fef5abea-9fe0-0a4f-80cf-a1c3bae444a1",
+        "create_ts": "2022-02-27T18:46:22.596Z",
+        "last_update_ts": "2022-02-27T18:46:14.906Z",
+        "active_ind": "Y",
+        "file_manager_id": "134c3c47-4546-4bf2-8044-ebf0838cb371",
+        "file_folder_path": "Issues and Programs Lists/Issues 2022",
+        "full_qualified_file_name": "Issues and Programs Lists/Issues 2022/NEWS 2-07-22 PUBLIC FILE",
+        "entity_id": "24952",
+        "source_service_code": "AM",
+        "callsign": "KUHL",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1725943075759456300,
+        "score": 0.24995685
+      },
       {
         "id": "7f5601cf-8c89-d54f-9bc7-facb8c742f8e",
         "file_id": "7f5601cf-8c89-d54f-9bc7-facb8c742f8e",
@@ -194,31 +215,6 @@
         "campaign_year": "2022",
         "_version_": 1725870805934407700,
         "score": 0.24995685
-      },
-      {
-        "id": "b388de0e-6f79-0e5e-8adf-3f8006399211",
-        "file_id": "b388de0e-6f79-0e5e-8adf-3f8006399211",
-        "file_name": "ZELDIN 2022 NAB - Candidate Advertisement Agreement Form - 2022 02 23",
-        "file_extension": "pdf",
-        "file_size": 1099837,
-        "file_status": "com_cpy",
-        "folder_id": "ca3aedc4-72ff-9899-b152-c7a730571c0b",
-        "create_ts": "2022-02-26T17:10:53.301Z",
-        "last_update_ts": "2022-02-26T17:10:46.268Z",
-        "active_ind": "Y",
-        "file_manager_id": "659eed33-f04c-45da-89e8-068a4b68939d",
-        "file_folder_path": "Political Files/2022/State/Governor/Zeldin for NY -R",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Zeldin for NY -R/ZELDIN 2022 NAB - Candidate Advertisement Agreement Form - 2022 02 23",
-        "entity_id": "73371",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "ROCHESTER NY",
-        "callsign": "WHAM-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1725846471656341500,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -327,7 +323,7 @@
       "network_affiliation": {
         "ABC": 57603,
         "NBC": 56505,
-        "CBS": 38484,
+        "CBS": 38482,
         "FOX": 27859,
         "PBS": 14389,
         "CW": 12081,
@@ -410,7 +406,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61612,
-        "Issues and Programs Lists": 44914,
+        "Issues and Programs Lists": 44915,
         "Equal Employment Opportunity Records": 37141,
         "Donor Lists - Applicable Only for NCEs": 11564,
         "FCC Authorizations": 7275,
@@ -420,7 +416,7 @@
         "FCC Investigations or Complaints": 1508,
         "Must-Carry or Retransmission Consent": 1302,
         "Childrens TV Programming Reports": 1155,
-        "Ownership Reports": 1108,
+        "Ownership Reports": 1106,
         "Class A TV Continuing Eligibility": 645,
         "Political Matters and Controversial Issues Disclosures": 596,
         "State and Local Franchising Related Materials": 484,
@@ -438,10 +434,10 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236313,
+        "TV": 236311,
         "CABLE": 126151,
         "FM": 111884,
-        "AM": 41923,
+        "AM": 41924,
         "DBS": 5391
       },
       "political_file_type": {
@@ -462,8 +458,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 218,
-    "responseTime": 219
+    "queryTime": 1783,
+    "processTime": 791,
+    "responseTime": 1791
   }
 }
