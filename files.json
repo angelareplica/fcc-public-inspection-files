@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 521661,
+    "numFound": 521662,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "5fff9c58-c884-03e8-a09e-2b06434c0e8a",
+        "file_id": "5fff9c58-c884-03e8-a09e-2b06434c0e8a",
+        "file_name": "Club for Growth Action 1526 0307_0327 2419488-1",
+        "file_extension": "pdf",
+        "file_size": 169634,
+        "file_status": "com_cpy",
+        "folder_id": "c9ddccdf-3fd2-124d-ce53-e72029bf66dd",
+        "create_ts": "2022-02-27T20:27:13.242Z",
+        "last_update_ts": "2022-02-27T20:27:15.773Z",
+        "active_ind": "Y",
+        "file_manager_id": "2e053074-b545-48ec-93a6-a1b624f19b0e",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action/Club for Growth Action 1526 0307_0327 2419488-1",
+        "entity_id": "72064",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "GREENSBORO-H.POINT-W.SALEM",
+        "callsign": "WFMY-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725949420436979700,
+        "score": 0.24995685
+      },
       {
         "id": "f2356d23-9e3a-9939-d380-cb1afe9474a4",
         "file_id": "f2356d23-9e3a-9939-d380-cb1afe9474a4",
@@ -193,28 +217,6 @@
         "campaign_year": "2022",
         "_version_": 1725871021842497500,
         "score": 0.24995685
-      },
-      {
-        "id": "a99232fd-498b-20ee-ae08-2b47e4b2a060",
-        "file_id": "a99232fd-498b-20ee-ae08-2b47e4b2a060",
-        "file_name": "America's Pac AM22-020 KVLV",
-        "file_extension": "pdf",
-        "file_size": 588792,
-        "file_status": "com_cpy",
-        "folder_id": "4e818015-812d-fa14-42e1-ccee701b8052",
-        "create_ts": "2022-02-26T23:37:40.422Z",
-        "last_update_ts": "2022-02-26T23:38:52.214Z",
-        "active_ind": "Y",
-        "file_manager_id": "507c9731-5e88-4430-8fbe-72a1585d747e",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/America's Pac AM22-020 KVLV",
-        "entity_id": "36243",
-        "source_service_code": "AM",
-        "callsign": "KVLV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1725870805934407700,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -245,7 +247,7 @@
         "MILWAUKEE": 2630,
         "BEND OR": 2602,
         "CHICAGO": 2553,
-        "GREENSBORO-H.POINT-W.SALEM": 2530,
+        "GREENSBORO-H.POINT-W.SALEM": 2531,
         "SAVANNAH": 2438,
         "QUINCY-HANNIBAL-KEOKUK": 2383,
         "PEORIA-BLOOMINGTON": 2321,
@@ -323,7 +325,7 @@
       "network_affiliation": {
         "ABC": 57603,
         "NBC": 56505,
-        "CBS": 38482,
+        "CBS": 38483,
         "FOX": 27859,
         "PBS": 14389,
         "CW": 12081,
@@ -393,7 +395,7 @@
         "2019": 13963,
         "2020": 125592,
         "2021": 22542,
-        "2022": 5189,
+        "2022": 5190,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -434,7 +436,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236311,
+        "TV": 236312,
         "CABLE": 126151,
         "FM": 111884,
         "AM": 41924,
@@ -442,7 +444,7 @@
       },
       "political_file_type": {
         "PA": 222373,
-        "NCIA": 123435
+        "NCIA": 123436
       }
     }
   },
@@ -458,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 227,
-    "processTime": 233,
-    "responseTime": 234
+    "queryTime": 1797,
+    "processTime": 805,
+    "responseTime": 1805
   }
 }
