@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 521664,
+    "numFound": 521666,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "6f9f9f05-ee87-7c2b-2af5-cc130b5b4626",
+        "file_id": "6f9f9f05-ee87-7c2b-2af5-cc130b5b4626",
+        "file_name": "Friends of Andrew CuomoNAB_2.24.22 (002)",
+        "file_extension": "pdf",
+        "file_size": 1632907,
+        "file_status": "com_cpy",
+        "folder_id": "2e0258cd-b838-e4f6-0a8b-2af7af58b847",
+        "create_ts": "2022-02-28T00:28:04.944Z",
+        "last_update_ts": "2022-02-28T00:29:19.894Z",
+        "active_ind": "Y",
+        "file_manager_id": "7852eda6-b741-43c3-aac6-ee55c158c09f",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Friends of Cuomo",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Friends of Cuomo/Friends of Andrew CuomoNAB_2.24.22 (002)",
+        "entity_id": "74422",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "ALBANY-SCHENECTADY-TROY",
+        "callsign": "WTEN",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725964574563238000,
+        "score": 0.24995685
+      },
+      {
+        "id": "79243e89-004b-2236-3c83-f1ac7cfedf5e",
+        "file_id": "79243e89-004b-2236-3c83-f1ac7cfedf5e",
+        "file_name": "Friends of Andrew CuomoNAB_2.24.22 (002)",
+        "file_extension": "pdf",
+        "file_size": 1632907,
+        "file_status": "com_cpy",
+        "folder_id": "23a48427-434d-764d-b4df-19e241f0009e",
+        "create_ts": "2022-02-28T00:25:43.963Z",
+        "last_update_ts": "2022-02-28T00:25:36.662Z",
+        "active_ind": "Y",
+        "file_manager_id": "ffca82b2-33a5-421e-8e82-1501ea13c8a8",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Friends of Cuomo",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Friends of Cuomo/Friends of Andrew CuomoNAB_2.24.22 (002)",
+        "entity_id": "11970",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "ALBANY-SCHENECTADY-TROY",
+        "callsign": "WXXA-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1725964426651107300,
+        "score": 0.24995685
+      },
       {
         "id": "bc3b0320-2ee4-1d91-55d2-b584426236d1",
         "file_id": "bc3b0320-2ee4-1d91-55d2-b584426236d1",
@@ -178,48 +226,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1725942960523051000,
         "score": 0.24995685
-      },
-      {
-        "id": "c1f15550-9a62-83f9-5f70-70d55de3b84c",
-        "file_id": "c1f15550-9a62-83f9-5f70-70d55de3b84c",
-        "file_name": "NEWS 2-08-22 FM",
-        "file_extension": "pdf",
-        "file_size": 48511,
-        "file_status": "com_cpy",
-        "folder_id": "efcfee8d-ff17-5973-0107-ab02b196ca50",
-        "create_ts": "2022-02-27T18:44:33.137Z",
-        "last_update_ts": "2022-02-27T18:44:35.526Z",
-        "active_ind": "Y",
-        "file_manager_id": "6edc048b-1f85-4964-a431-916d749e4e9a",
-        "file_folder_path": "Issues and Programs Lists/Feb 2022 News",
-        "full_qualified_file_name": "Issues and Programs Lists/Feb 2022 News/NEWS 2-08-22 FM",
-        "entity_id": "24952",
-        "source_service_code": "AM",
-        "callsign": "KUHL",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1725942960935141400,
-        "score": 0.24995685
-      },
-      {
-        "id": "a79db595-d5f4-19c3-c8ab-dc0c7512571e",
-        "file_id": "a79db595-d5f4-19c3-c8ab-dc0c7512571e",
-        "file_name": "NEWS 2-07-22 FM",
-        "file_extension": "pdf",
-        "file_size": 49254,
-        "file_status": "com_cpy",
-        "folder_id": "efcfee8d-ff17-5973-0107-ab02b196ca50",
-        "create_ts": "2022-02-27T18:44:32.947Z",
-        "last_update_ts": "2022-02-27T18:44:35.31Z",
-        "active_ind": "Y",
-        "file_manager_id": "d754de9c-d8ea-4c35-85af-510fe5ca6a72",
-        "file_folder_path": "Issues and Programs Lists/Feb 2022 News",
-        "full_qualified_file_name": "Issues and Programs Lists/Feb 2022 News/NEWS 2-07-22 FM",
-        "entity_id": "24952",
-        "source_service_code": "AM",
-        "callsign": "KUHL",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1725942960709697500,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -326,10 +332,10 @@
         "AUGUSTA": 538
       },
       "network_affiliation": {
-        "ABC": 57603,
+        "ABC": 57604,
         "NBC": 56505,
         "CBS": 38485,
-        "FOX": 27859,
+        "FOX": 27860,
         "PBS": 14389,
         "CW": 12081,
         "IND": 2989,
@@ -398,7 +404,7 @@
         "2019": 13963,
         "2020": 125592,
         "2021": 22542,
-        "2022": 5190,
+        "2022": 5192,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -439,7 +445,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236314,
+        "TV": 236316,
         "CABLE": 126151,
         "FM": 111884,
         "AM": 41924,
@@ -447,7 +453,7 @@
       },
       "political_file_type": {
         "PA": 222373,
-        "NCIA": 123436
+        "NCIA": 123438
       }
     }
   },
@@ -463,8 +469,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1778,
-    "processTime": 786,
-    "responseTime": 1787
+    "queryTime": 1826,
+    "processTime": 835,
+    "responseTime": 1836
   }
 }
