@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 521666,
+    "numFound": 521667,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "4d5146ff-15aa-f506-89fa-7b843671c82e",
+        "file_id": "4d5146ff-15aa-f506-89fa-7b843671c82e",
+        "file_name": "Committee To Elect Pam Snyder WPKL-FM Invoice Date IN-PKL-120094370 09302020",
+        "file_extension": "pdf",
+        "file_size": 872056,
+        "file_status": "com_cpy",
+        "folder_id": "7211fde6-3682-7ebd-bf82-44263803be12",
+        "create_ts": "2022-02-28T13:29:11.192Z",
+        "last_update_ts": "2022-02-28T13:40:04.922Z",
+        "active_ind": "Y",
+        "file_manager_id": "51d2eb5f-2f3e-4ed0-a647-8004b9c6fde0",
+        "file_folder_path": "Political Files/2020/State",
+        "full_qualified_file_name": "Political Files/2020/State/Committee To Elect Pam Snyder WPKL-FM Invoice Date IN-PKL-120094370 09302020",
+        "entity_id": "33828",
+        "source_service_code": "FM",
+        "callsign": "WPKL",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2020",
+        "_version_": 1726014322729025500,
+        "score": 0.24995685
+      },
       {
         "id": "6f9f9f05-ee87-7c2b-2af5-cc130b5b4626",
         "file_id": "6f9f9f05-ee87-7c2b-2af5-cc130b5b4626",
@@ -205,27 +228,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1725942960530391000,
         "score": 0.24995685
-      },
-      {
-        "id": "af40a51e-20de-2043-79eb-1d4e5e9e72f1",
-        "file_id": "af40a51e-20de-2043-79eb-1d4e5e9e72f1",
-        "file_name": "NEWS 2-09-22 FM",
-        "file_extension": "pdf",
-        "file_size": 48856,
-        "file_status": "com_cpy",
-        "folder_id": "efcfee8d-ff17-5973-0107-ab02b196ca50",
-        "create_ts": "2022-02-27T18:44:32.802Z",
-        "last_update_ts": "2022-02-27T18:45:46.461Z",
-        "active_ind": "Y",
-        "file_manager_id": "dc31e27c-d869-4f9e-a3ff-407158d9cf9a",
-        "file_folder_path": "Issues and Programs Lists/Feb 2022 News",
-        "full_qualified_file_name": "Issues and Programs Lists/Feb 2022 News/NEWS 2-09-22 FM",
-        "entity_id": "24952",
-        "source_service_code": "AM",
-        "callsign": "KUHL",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1725942960523051000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -402,14 +404,14 @@
         "2017": 10353,
         "2018": 67729,
         "2019": 13963,
-        "2020": 125592,
+        "2020": 125593,
         "2021": 22542,
         "2022": 5192,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 67278,
+        "State": 67279,
         "US Senate": 49559,
         "US House": 41602,
         "Presidential": 38698,
@@ -447,12 +449,12 @@
       "source_service_code": {
         "TV": 236316,
         "CABLE": 126151,
-        "FM": 111884,
+        "FM": 111885,
         "AM": 41924,
         "DBS": 5391
       },
       "political_file_type": {
-        "PA": 222373,
+        "PA": 222374,
         "NCIA": 123438
       }
     }
@@ -469,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1806,
-    "processTime": 814,
-    "responseTime": 1815
+    "queryTime": 223,
+    "processTime": 231,
+    "responseTime": 231
   }
 }
