@@ -5,6 +5,29 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "40e278a5-dc0f-7d84-9f64-1f2e1cb9e302",
+        "file_id": "40e278a5-dc0f-7d84-9f64-1f2e1cb9e302",
+        "file_name": "4th 2020 quarterly report basin PBS 20-04",
+        "file_extension": "pdf",
+        "file_size": 227969,
+        "file_status": "com_cpy",
+        "folder_id": "ba38916f-4adf-1438-25a8-8baede024347",
+        "create_ts": "2021-02-09T03:02:07.403Z",
+        "last_update_ts": "2022-02-28T23:27:54.32Z",
+        "active_ind": "Y",
+        "file_manager_id": "034e92e4-b12c-4417-ac9c-a94f1d03e7df",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/4th 2020 quarterly report basin PBS 20-04",
+        "entity_id": "50044",
+        "source_service_code": "TV",
+        "network_affiliation": "PBS",
+        "nielsen_dma_rank": "ODESSA-MIDLAND",
+        "callsign": "KPBT-TV",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1726051304080408600,
+        "score": 0.24995685
+      },
+      {
         "id": "b6aa8ab6-06cc-5c2b-66ae-abdfeced27fd",
         "file_id": "b6aa8ab6-06cc-5c2b-66ae-abdfeced27fd",
         "file_name": "Sooner State Leadership 02.28.22-04.17.22 #137573 KOTV",
@@ -207,31 +230,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2022",
         "_version_": 1726049569576321000,
-        "score": 0.24995685
-      },
-      {
-        "id": "006b9675-cb7d-f629-0229-a5cc686cf753",
-        "file_id": "006b9675-cb7d-f629-0229-a5cc686cf753",
-        "file_name": "Irvin for Illinois 1152336-0 WPWR",
-        "file_extension": "pdf",
-        "file_size": 119109,
-        "file_status": "com_cpy",
-        "folder_id": "ac5aa49e-739a-c7e6-37ab-d092da7954e5",
-        "create_ts": "2022-02-28T22:55:45.874Z",
-        "last_update_ts": "2022-02-28T22:57:02.921Z",
-        "active_ind": "Y",
-        "file_manager_id": "9b7a1b3d-b214-472f-8ffd-a8c3780131e3",
-        "file_folder_path": "Political Files/2022/State/Irvin for Illinois",
-        "full_qualified_file_name": "Political Files/2022/State/Irvin for Illinois/Irvin for Illinois 1152336-0 WPWR",
-        "entity_id": "48772",
-        "source_service_code": "TV",
-        "network_affiliation": "MY NETWORK",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WPWR-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726049362816008200,
         "score": 0.24995685
       }
     ],
@@ -476,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1817,
-    "processTime": 827,
-    "responseTime": 1827
+    "queryTime": 1786,
+    "processTime": 796,
+    "responseTime": 1797
   }
 }
