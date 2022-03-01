@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 521929,
+    "numFound": 521930,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "e7cacb3f-7791-2fd1-f74b-5abda562fdc6",
+        "file_id": "e7cacb3f-7791-2fd1-f74b-5abda562fdc6",
+        "file_name": "02_2022_LUP_Tracksheet",
+        "file_extension": "pdf",
+        "file_size": 91460,
+        "file_status": "com_cpy",
+        "folder_id": "df684e40-9279-510f-5e76-6df74b416175",
+        "create_ts": "2022-03-01T03:34:11.597Z",
+        "last_update_ts": "2022-03-01T03:35:29.207Z",
+        "active_ind": "Y",
+        "file_manager_id": "c7ef9d5c-662a-4fb0-a590-fce6f444c95d",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/02_2022_LUP_Tracksheet",
+        "entity_id": "48496",
+        "source_service_code": "FM",
+        "callsign": "KNLF",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1726066880050888700,
+        "score": 0.24995685
+      },
       {
         "id": "a05b632b-764c-5e8a-aadb-458449c3f625",
         "file_id": "a05b632b-764c-5e8a-aadb-458449c3f625",
@@ -226,31 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1726056266085695500,
         "score": 0.24995685
-      },
-      {
-        "id": "74968765-f2ad-2067-4c16-c2d0b3dc8482",
-        "file_id": "74968765-f2ad-2067-4c16-c2d0b3dc8482",
-        "file_name": "JLEE 0221-0313 - 3423178 NAB",
-        "file_extension": "pdf",
-        "file_size": 3120656,
-        "file_status": "com_cpy",
-        "folder_id": "dc6e0297-f9e0-cb5c-e780-7f201031364f",
-        "create_ts": "2022-03-01T00:44:43.609Z",
-        "last_update_ts": "2022-03-01T00:46:01.852Z",
-        "active_ind": "Y",
-        "file_manager_id": "d9a75b2a-6239-46b6-b7b8-c37a64e6b914",
-        "file_folder_path": "Political Files/2022/State/Governor/John Lee/NAB",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/John Lee/NAB/JLEE 0221-0313 - 3423178 NAB",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726056219155628000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -442,7 +438,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61612,
-        "Issues and Programs Lists": 44917,
+        "Issues and Programs Lists": 44918,
         "Equal Employment Opportunity Records": 37144,
         "Donor Lists - Applicable Only for NCEs": 11577,
         "FCC Authorizations": 7278,
@@ -472,7 +468,7 @@
       "source_service_code": {
         "TV": 236490,
         "CABLE": 126186,
-        "FM": 111920,
+        "FM": 111921,
         "AM": 41937,
         "DBS": 5396
       },
@@ -494,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1810,
-    "processTime": 821,
-    "responseTime": 1821
+    "queryTime": 223,
+    "processTime": 234,
+    "responseTime": 234
   }
 }
