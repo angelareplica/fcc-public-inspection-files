@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 522083,
+    "numFound": 522085,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "d96e6ef7-a499-1489-7906-9806985780f1",
+        "file_id": "d96e6ef7-a499-1489-7906-9806985780f1",
+        "file_name": "POL KKSA INV 0222 Pfluger 2106",
+        "file_extension": "pdf",
+        "file_size": 63957,
+        "file_status": "com_cpy",
+        "folder_id": "0375da90-90e9-9a3e-99f6-c590135850cf",
+        "create_ts": "2022-03-01T21:42:02.297Z",
+        "last_update_ts": "2022-03-01T21:43:22.059Z",
+        "active_ind": "Y",
+        "file_manager_id": "b26583d0-27f0-48f7-b6f9-c7ce0a5a2b7f",
+        "file_folder_path": "Political Files/2022/Federal/US House/August Pfluger - 11th Congressional District",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/August Pfluger - 11th Congressional District/POL KKSA INV 0222 Pfluger 2106",
+        "entity_id": "22156",
+        "source_service_code": "AM",
+        "callsign": "KKSA",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1726135321330974700,
+        "score": 0.24995685
+      },
+      {
+        "id": "1cf0088d-f5b8-6484-438a-f56ff44036ed",
+        "file_id": "1cf0088d-f5b8-6484-438a-f56ff44036ed",
+        "file_name": "Sooner State Leadership - 1341 - 02.28.22 - 04.17.22",
+        "file_extension": "pdf",
+        "file_size": 470029,
+        "file_status": "com_cpy",
+        "folder_id": "b51660a2-8427-dd22-199b-87533045f4bb",
+        "create_ts": "2022-03-01T21:39:47.963Z",
+        "last_update_ts": "2022-03-01T21:39:50.605Z",
+        "active_ind": "Y",
+        "file_manager_id": "c8143bfd-ffa1-4ba1-a253-027354606066",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Sooner State Leadership",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Sooner State Leadership/Sooner State Leadership - 1341 - 02.28.22 - 04.17.22",
+        "entity_id": "12508",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "OKLAHOMA CITY",
+        "callsign": "KOCO-TV",
+        "political_file_type": "NCIA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726135180655067100,
+        "score": 0.24995685
+      },
       {
         "id": "95733e76-8b63-ceb5-7bca-a61ab1c684cc",
         "file_id": "95733e76-8b63-ceb5-7bca-a61ab1c684cc",
@@ -191,53 +239,6 @@
         "campaign_year": "2022",
         "_version_": 1726132615979729000,
         "score": 0.24995685
-      },
-      {
-        "id": "55d159cd-1c65-c9da-0111-cf439b959608",
-        "file_id": "55d159cd-1c65-c9da-0111-cf439b959608",
-        "file_name": "A600974-INVOICE-022722",
-        "file_extension": "pdf",
-        "file_size": 19928,
-        "file_status": "com_cpy",
-        "folder_id": "811cb13b-1b98-b4a7-5ac0-59ef57841523",
-        "create_ts": "2022-03-01T20:58:11.919Z",
-        "last_update_ts": "2022-03-01T20:59:31.561Z",
-        "active_ind": "Y",
-        "file_manager_id": "d569b3ed-3cd7-4c54-addb-04d3642ee564",
-        "file_folder_path": "Political Files/2022/State/Governor/Irvin for Illinois 2022",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Irvin for Illinois 2022/A600974-INVOICE-022722",
-        "entity_id": "54281",
-        "source_service_code": "FM",
-        "callsign": "WGEM-FM",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726132563146178600,
-        "score": 0.24995685
-      },
-      {
-        "id": "0a338379-de5f-9e47-7029-3f4bb7183986",
-        "file_id": "0a338379-de5f-9e47-7029-3f4bb7183986",
-        "file_name": "OPPORTUNITY WISCONSIN 5147011 03-01-22",
-        "file_extension": "pdf",
-        "file_size": 2629050,
-        "file_status": "com_cpy",
-        "folder_id": "12504010-812c-4cb8-7e07-f1a8be7b52f8",
-        "create_ts": "2022-03-01T20:59:00.983Z",
-        "last_update_ts": "2022-03-01T20:58:54.028Z",
-        "active_ind": "Y",
-        "file_manager_id": "2eceb08c-aab4-4ce9-a522-56f094381ee6",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/OPPORTUNITY WISCONSIN",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/OPPORTUNITY WISCONSIN/OPPORTUNITY WISCONSIN 5147011 03-01-22",
-        "entity_id": "4150",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "GREEN BAY-APPLETON",
-        "callsign": "WLUK-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726132615864385500,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -344,7 +345,7 @@
         "HOUSTON": 538
       },
       "network_affiliation": {
-        "ABC": 57628,
+        "ABC": 57629,
         "NBC": 56554,
         "CBS": 38586,
         "FOX": 27904,
@@ -416,14 +417,14 @@
         "2019": 13963,
         "2020": 125582,
         "2021": 22572,
-        "2022": 5566,
+        "2022": 5568,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 67468,
+        "State": 67469,
         "US Senate": 49619,
-        "US House": 41604,
+        "US House": 41605,
         "Presidential": 38686,
         "Local": 24239
       },
@@ -457,15 +458,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236538,
+        "TV": 236539,
         "CABLE": 126198,
         "FM": 111971,
-        "AM": 41978,
+        "AM": 41979,
         "DBS": 5398
       },
       "political_file_type": {
-        "PA": 222668,
-        "NCIA": 123535
+        "PA": 222669,
+        "NCIA": 123536
       }
     }
   },
@@ -481,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1844,
-    "processTime": 851,
-    "responseTime": 1852
+    "queryTime": 1793,
+    "processTime": 800,
+    "responseTime": 1800
   }
 }
