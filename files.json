@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 521932,
+    "numFound": 521933,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "04e8b611-2a84-07b5-082d-9617706ce624",
+        "file_id": "04e8b611-2a84-07b5-082d-9617706ce624",
+        "file_name": "Jane-Timken-02-28-2022 IC",
+        "file_extension": "pdf",
+        "file_size": 61365,
+        "file_status": "com_cpy",
+        "folder_id": "9ecb67a3-a7a7-c889-5bff-8ccf2a7a0206",
+        "create_ts": "2022-03-01T13:16:53.543Z",
+        "last_update_ts": "2022-03-01T13:16:55.989Z",
+        "active_ind": "Y",
+        "file_manager_id": "5432bbd0-c26d-4161-9eb5-5c2fc16c6bde",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Timken REP/DISCLOSURE",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Timken REP/DISCLOSURE/Jane-Timken-02-28-2022 IC",
+        "entity_id": "59438",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "CINCINNATI",
+        "callsign": "WCPO-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1726103540293697500,
+        "score": 0.24995685
+      },
       {
         "id": "c8228ece-8588-b7c0-4bd6-62a246b3514f",
         "file_id": "c8228ece-8588-b7c0-4bd6-62a246b3514f",
@@ -218,31 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1726056266257662000,
         "score": 0.24995685
-      },
-      {
-        "id": "a3e5d840-347f-cbfb-1ab6-f9519d19af55",
-        "file_id": "a3e5d840-347f-cbfb-1ab6-f9519d19af55",
-        "file_name": "JLEE 0221-0313 - 3423178 REQ",
-        "file_extension": "pdf",
-        "file_size": 40728,
-        "file_status": "com_cpy",
-        "folder_id": "de54cff4-c60e-1447-f42a-42a8e4dbc4f1",
-        "create_ts": "2022-03-01T00:45:29.407Z",
-        "last_update_ts": "2022-03-01T00:46:46.746Z",
-        "active_ind": "Y",
-        "file_manager_id": "104383c4-59fd-4d36-9cbb-d41fbadc0bbf",
-        "file_folder_path": "Political Files/2022/State/Governor/John Lee/Orders  Revisions",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/John Lee/Orders  Revisions/JLEE 0221-0313 - 3423178 REQ",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726056266222010400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -349,7 +349,7 @@
         "AUGUSTA": 538
       },
       "network_affiliation": {
-        "ABC": 57618,
+        "ABC": 57619,
         "NBC": 56544,
         "CBS": 38564,
         "FOX": 27888,
@@ -421,13 +421,13 @@
         "2019": 13963,
         "2020": 125588,
         "2021": 22548,
-        "2022": 5435,
+        "2022": 5436,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 67410,
-        "US Senate": 49587,
+        "US Senate": 49588,
         "US House": 41603,
         "Presidential": 38698,
         "Local": 24198
@@ -462,14 +462,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236490,
+        "TV": 236491,
         "CABLE": 126186,
         "FM": 111923,
         "AM": 41937,
         "DBS": 5396
       },
       "political_file_type": {
-        "PA": 222548,
+        "PA": 222549,
         "NCIA": 123508
       }
     }
@@ -486,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1805,
-    "processTime": 816,
-    "responseTime": 1817
+    "queryTime": 210,
+    "processTime": 218,
+    "responseTime": 219
   }
 }
