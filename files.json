@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 521930,
+    "numFound": 521932,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "c8228ece-8588-b7c0-4bd6-62a246b3514f",
+        "file_id": "c8228ece-8588-b7c0-4bd6-62a246b3514f",
+        "file_name": "2_NAB_ANCHIA_page 1",
+        "file_extension": "pdf",
+        "file_size": 679626,
+        "file_status": "com_cpy",
+        "folder_id": "fdba4f22-0ab8-583e-7cd6-1519ee54957f",
+        "create_ts": "2022-03-01T05:25:32.696Z",
+        "last_update_ts": "2022-03-01T05:25:35.622Z",
+        "active_ind": "Y",
+        "file_manager_id": "b0b978a4-d55c-4b6c-a9a9-db93f2ff6502",
+        "file_folder_path": "Political Files/2022/Local/ANCHIA",
+        "full_qualified_file_name": "Political Files/2022/Local/ANCHIA/2_NAB_ANCHIA_page 1",
+        "entity_id": "41380",
+        "source_service_code": "FM",
+        "callsign": "KLNO",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1726073886180638700,
+        "score": 0.00012497843
+      },
+      {
+        "id": "fcf04c95-2807-5c00-1e44-880a8c39e8e3",
+        "file_id": "fcf04c95-2807-5c00-1e44-880a8c39e8e3",
+        "file_name": "2_NAB_ANCHIA_page 2",
+        "file_extension": "pdf",
+        "file_size": 811305,
+        "file_status": "com_cpy",
+        "folder_id": "fdba4f22-0ab8-583e-7cd6-1519ee54957f",
+        "create_ts": "2022-03-01T05:25:32.7Z",
+        "last_update_ts": "2022-03-01T05:25:35.582Z",
+        "active_ind": "Y",
+        "file_manager_id": "063aead2-1fea-4ed3-a2be-d9a98b61975f",
+        "file_folder_path": "Political Files/2022/Local/ANCHIA",
+        "full_qualified_file_name": "Political Files/2022/Local/ANCHIA/2_NAB_ANCHIA_page 2",
+        "entity_id": "41380",
+        "source_service_code": "FM",
+        "callsign": "KLNO",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1726073886148132900,
+        "score": 0.00012497843
+      },
       {
         "id": "e7cacb3f-7791-2fd1-f74b-5abda562fdc6",
         "file_id": "e7cacb3f-7791-2fd1-f74b-5abda562fdc6",
@@ -197,56 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1726056266222010400,
         "score": 0.24995685
-      },
-      {
-        "id": "0ea0afc5-490a-7fa5-5721-4c256de11ee6",
-        "file_id": "0ea0afc5-490a-7fa5-5721-4c256de11ee6",
-        "file_name": "JLEE 0217-0226 - 3415756 REQ",
-        "file_extension": "pdf",
-        "file_size": 39663,
-        "file_status": "com_cpy",
-        "folder_id": "de54cff4-c60e-1447-f42a-42a8e4dbc4f1",
-        "create_ts": "2022-03-01T00:45:29.406Z",
-        "last_update_ts": "2022-03-01T00:46:46.714Z",
-        "active_ind": "Y",
-        "file_manager_id": "c1ff6f40-32fc-4e1b-b534-156323f7815d",
-        "file_folder_path": "Political Files/2022/State/Governor/John Lee/Orders  Revisions",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/John Lee/Orders  Revisions/JLEE 0217-0226 - 3415756 REQ",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726056266188456000,
-        "score": 0.24995685
-      },
-      {
-        "id": "29d986b5-53c7-4b96-d33c-bcce4c1ff365",
-        "file_id": "29d986b5-53c7-4b96-d33c-bcce4c1ff365",
-        "file_name": "JLEE 0221-0313 - 3423178 REQ R2",
-        "file_extension": "pdf",
-        "file_size": 52254,
-        "file_status": "com_cpy",
-        "folder_id": "de54cff4-c60e-1447-f42a-42a8e4dbc4f1",
-        "create_ts": "2022-03-01T00:45:29.309Z",
-        "last_update_ts": "2022-03-01T00:46:46.614Z",
-        "active_ind": "Y",
-        "file_manager_id": "00576172-4df1-4d11-b530-3707fd3cba71",
-        "file_folder_path": "Political Files/2022/State/Governor/John Lee/Orders  Revisions",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/John Lee/Orders  Revisions/JLEE 0221-0313 - 3423178 REQ R2",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726056266085695500,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -425,7 +421,7 @@
         "2019": 13963,
         "2020": 125588,
         "2021": 22548,
-        "2022": 5433,
+        "2022": 5435,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -434,7 +430,7 @@
         "US Senate": 49587,
         "US House": 41603,
         "Presidential": 38698,
-        "Local": 24196
+        "Local": 24198
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61612,
@@ -468,12 +464,12 @@
       "source_service_code": {
         "TV": 236490,
         "CABLE": 126186,
-        "FM": 111921,
+        "FM": 111923,
         "AM": 41937,
         "DBS": 5396
       },
       "political_file_type": {
-        "PA": 222546,
+        "PA": 222548,
         "NCIA": 123508
       }
     }
@@ -490,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 212,
-    "processTime": 220,
-    "responseTime": 221
+    "queryTime": 1819,
+    "processTime": 830,
+    "responseTime": 1830
   }
 }
