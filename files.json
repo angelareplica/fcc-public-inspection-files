@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 522271,
+    "numFound": 522272,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "c1d8c644-a3e8-a572-4d00-4d5c21fcd698",
+        "file_id": "c1d8c644-a3e8-a572-4d00-4d5c21fcd698",
+        "file_name": "Perry Johnson 20511149219-0",
+        "file_extension": "pdf",
+        "file_size": 113044,
+        "file_status": "com_cpy",
+        "folder_id": "b59f8f66-024e-a909-0434-2c9a718c7d73",
+        "create_ts": "2022-03-02T19:02:05.629Z",
+        "last_update_ts": "2022-03-02T19:03:27.918Z",
+        "active_ind": "Y",
+        "file_manager_id": "94868328-8fca-46a8-8532-aebdd95228cc",
+        "file_folder_path": "Political Files/2022/State/Perry Johnson for Governor/Contract",
+        "full_qualified_file_name": "Political Files/2022/State/Perry Johnson for Governor/Contract/Perry Johnson 20511149219-0",
+        "entity_id": "73123",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "DETROIT",
+        "callsign": "WJBK",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726215855480504300,
+        "score": 0.24995685
+      },
+      {
+        "id": "c4fa7667-46d2-2367-a7aa-57dda6634b24",
+        "file_id": "c4fa7667-46d2-2367-a7aa-57dda6634b24",
+        "file_name": "Perry Johnson 20781150133-0",
+        "file_extension": "pdf",
+        "file_size": 111457,
+        "file_status": "com_cpy",
+        "folder_id": "b59f8f66-024e-a909-0434-2c9a718c7d73",
+        "create_ts": "2022-03-02T19:02:05.627Z",
+        "last_update_ts": "2022-03-02T19:02:08.171Z",
+        "active_ind": "Y",
+        "file_manager_id": "857ab021-f7c2-4a07-8b90-9c87c5d72066",
+        "file_folder_path": "Political Files/2022/State/Perry Johnson for Governor/Contract",
+        "full_qualified_file_name": "Political Files/2022/State/Perry Johnson for Governor/Contract/Perry Johnson 20781150133-0",
+        "entity_id": "73123",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "DETROIT",
+        "callsign": "WJBK",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726215855506718700,
+        "score": 0.24995685
+      },
       {
         "id": "b2c0e80a-56cf-63a0-1912-2249265e3328",
         "file_id": "b2c0e80a-56cf-63a0-1912-2249265e3328",
@@ -203,56 +253,6 @@
         "campaign_year": "2022",
         "_version_": 1726212167517077500,
         "score": 0.24995685
-      },
-      {
-        "id": "ddfd49b4-250e-713e-2036-fa8f82393aa6",
-        "file_id": "ddfd49b4-250e-713e-2036-fa8f82393aa6",
-        "file_name": "Don Huffines for Texas Governor Houston 0444 3.1-3.1",
-        "file_extension": "pdf",
-        "file_size": 54630,
-        "file_status": "com_cpy",
-        "folder_id": "83b25de9-3dbf-3cad-31db-174b42f3ae5f",
-        "create_ts": "2022-03-02T18:00:45.201Z",
-        "last_update_ts": "2022-03-02T18:02:07.291Z",
-        "active_ind": "Y",
-        "file_manager_id": "eadf02aa-08f4-4136-b5f2-5a17437f36ca",
-        "file_folder_path": "Political Files/2022/State/Don Huffines for Texas-Linear Media",
-        "full_qualified_file_name": "Political Files/2022/State/Don Huffines for Texas-Linear Media/Don Huffines for Texas Governor Houston 0444 3.1-3.1",
-        "entity_id": "006407",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726211996188147700,
-        "score": 0.24995685
-      },
-      {
-        "id": "15219bd0-429e-e6cc-da1d-dd9f1db05397",
-        "file_id": "15219bd0-429e-e6cc-da1d-dd9f1db05397",
-        "file_name": "Don Huffines for Texas Governor Houston 0444 3.1-3.1",
-        "file_extension": "pdf",
-        "file_size": 54630,
-        "file_status": "com_cpy",
-        "folder_id": "581254a4-34a5-cde3-cac3-87c76d555249",
-        "create_ts": "2022-03-02T18:01:35.732Z",
-        "last_update_ts": "2022-03-02T18:01:27.339Z",
-        "active_ind": "Y",
-        "file_manager_id": "12fedcbb-c29b-4470-895d-b12df3867329",
-        "file_folder_path": "Political Files/2022/State/Don Huffienes for Texas-Linear Media",
-        "full_qualified_file_name": "Political Files/2022/State/Don Huffienes for Texas-Linear Media/Don Huffines for Texas Governor Houston 0444 3.1-3.1",
-        "entity_id": "001164",
-        "source_service_code": "CABLE",
-        "legal_name": "CEQUEL III COMMUNICATIONS I, LLC",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726212049156964400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -289,7 +289,7 @@
         "PEORIA-BLOOMINGTON": 2333,
         "BIRMINGHAM (ANN TUSC)": 2332,
         "WAUSAU-RHINELANDER": 2295,
-        "PHILADELPHIA": 2195,
+        "PHILADELPHIA": 2194,
         "Greenville-Spartanburg-Asheville-Anderson": 2186,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2173,
         "TAMPA-ST. PETE (SARASOTA)": 2154,
@@ -359,10 +359,10 @@
         "HOUSTON": 538
       },
       "network_affiliation": {
-        "ABC": 57658,
+        "ABC": 57657,
         "NBC": 56580,
         "CBS": 38609,
-        "FOX": 27921,
+        "FOX": 27923,
         "PBS": 14401,
         "CW": 12068,
         "IND": 2989,
@@ -428,15 +428,15 @@
         "2016": 68731,
         "2017": 10353,
         "2018": 67727,
-        "2019": 13963,
+        "2019": 13962,
         "2020": 125591,
         "2021": 22572,
-        "2022": 5735,
+        "2022": 5737,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 67549,
+        "State": 67551,
         "US Senate": 49652,
         "US House": 41612,
         "Presidential": 38686,
@@ -472,15 +472,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236644,
+        "TV": 236645,
         "CABLE": 126229,
         "FM": 112000,
         "AM": 41998,
         "DBS": 5400
       },
       "political_file_type": {
-        "PA": 222800,
-        "NCIA": 123581
+        "PA": 222802,
+        "NCIA": 123580
       }
     }
   },
@@ -496,8 +496,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1789,
-    "processTime": 797,
-    "responseTime": 1798
+    "queryTime": 1819,
+    "processTime": 827,
+    "responseTime": 1828
   }
 }
