@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 522269,
+    "numFound": 522271,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "b2c0e80a-56cf-63a0-1912-2249265e3328",
+        "file_id": "b2c0e80a-56cf-63a0-1912-2249265e3328",
+        "file_name": "FETTERMAN FOR SENATE 1756639 03-03-22-03-14-22 ORDER",
+        "file_extension": "pdf",
+        "file_size": 79518,
+        "file_status": "com_cpy",
+        "folder_id": "dfea8ab9-de59-1154-d54c-5ff25969e163",
+        "create_ts": "2022-03-02T18:30:38.534Z",
+        "last_update_ts": "2022-03-02T18:50:06.522Z",
+        "active_ind": "Y",
+        "file_manager_id": "9519664c-27cc-4644-8d86-4ab7cf7403d0",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/FETTERMAN FOR SENATE",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/FETTERMAN FOR SENATE/FETTERMAN FOR SENATE 1756639 03-03-22-03-14-22 ORDER",
+        "entity_id": "73375",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WOLF-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1726215015185252400,
+        "score": 0.24995685
+      },
+      {
+        "id": "06937145-403b-0e0f-492c-71bc9c375ab5",
+        "file_id": "06937145-403b-0e0f-492c-71bc9c375ab5",
+        "file_name": "FETTERMAN FOR SENATE 1756639 03-03-22-03-14-22 NAB",
+        "file_extension": "pdf",
+        "file_size": 158227,
+        "file_status": "com_cpy",
+        "folder_id": "dfea8ab9-de59-1154-d54c-5ff25969e163",
+        "create_ts": "2022-03-02T18:30:38.588Z",
+        "last_update_ts": "2022-03-02T18:30:41.151Z",
+        "active_ind": "Y",
+        "file_manager_id": "3ab09e13-129f-455d-a8b9-0c5d815ecac5",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/FETTERMAN FOR SENATE",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/FETTERMAN FOR SENATE/FETTERMAN FOR SENATE 1756639 03-03-22-03-14-22 NAB",
+        "entity_id": "73375",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WOLF-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1726213876829126700,
+        "score": 0.24995685
+      },
       {
         "id": "30029662-8111-f8b8-cfd4-a9f87332611d",
         "file_id": "30029662-8111-f8b8-cfd4-a9f87332611d",
@@ -203,58 +253,12 @@
         "campaign_year": "2022",
         "_version_": 1726212049156964400,
         "score": 0.24995685
-      },
-      {
-        "id": "f495ede9-45c6-259d-0602-f2a7c8252950",
-        "file_id": "f495ede9-45c6-259d-0602-f2a7c8252950",
-        "file_name": "BOOZMAN FOR ARKANSAS - PRIMARY NAB",
-        "file_extension": "pdf",
-        "file_size": 1078612,
-        "file_status": "com_cpy",
-        "folder_id": "5520aeea-cc10-6f20-c6b1-f2147a6cb49e",
-        "create_ts": "2022-03-02T18:00:59.652Z",
-        "last_update_ts": "2022-03-02T18:01:02.526Z",
-        "active_ind": "Y",
-        "file_manager_id": "fec6064e-baed-4d5a-8e9a-12a84b0f1526",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/02-28-2022 KCXY Boozman",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/02-28-2022 KCXY Boozman/BOOZMAN FOR ARKANSAS - PRIMARY NAB",
-        "entity_id": "23279",
-        "source_service_code": "FM",
-        "callsign": "KCXY",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1726212011799347200,
-        "score": 0.24995685
-      },
-      {
-        "id": "a7588f47-02c2-0c5c-45ae-d4ba0f63cd1a",
-        "file_id": "a7588f47-02c2-0c5c-45ae-d4ba0f63cd1a",
-        "file_name": "BOOZMAN KCXY 2-22-22",
-        "file_extension": "pdf",
-        "file_size": 113991,
-        "file_status": "com_cpy",
-        "folder_id": "5520aeea-cc10-6f20-c6b1-f2147a6cb49e",
-        "create_ts": "2022-03-02T18:00:59.511Z",
-        "last_update_ts": "2022-03-02T18:01:02.129Z",
-        "active_ind": "Y",
-        "file_manager_id": "50baadf2-22a8-4f5c-be03-46a09fba023c",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/02-28-2022 KCXY Boozman",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/02-28-2022 KCXY Boozman/BOOZMAN KCXY 2-22-22",
-        "entity_id": "23279",
-        "source_service_code": "FM",
-        "callsign": "KCXY",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1726212011399839700,
-        "score": 0.24995685
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8384,
-        "WILKES BARRE-SCRANTON": 7213,
+        "WILKES BARRE-SCRANTON": 7215,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7041,
         "LAS VEGAS": 6039,
         "WEST PALM BEACH-FT. PIERCE": 5811,
@@ -358,7 +362,7 @@
         "ABC": 57658,
         "NBC": 56580,
         "CBS": 38609,
-        "FOX": 27919,
+        "FOX": 27921,
         "PBS": 14401,
         "CW": 12068,
         "IND": 2989,
@@ -427,13 +431,13 @@
         "2019": 13963,
         "2020": 125591,
         "2021": 22572,
-        "2022": 5733,
+        "2022": 5735,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 67549,
-        "US Senate": 49650,
+        "US Senate": 49652,
         "US House": 41612,
         "Presidential": 38686,
         "Local": 24250
@@ -468,14 +472,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236642,
+        "TV": 236644,
         "CABLE": 126229,
         "FM": 112000,
         "AM": 41998,
         "DBS": 5400
       },
       "political_file_type": {
-        "PA": 222798,
+        "PA": 222800,
         "NCIA": 123581
       }
     }
@@ -492,8 +496,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1814,
-    "processTime": 822,
-    "responseTime": 1822
+    "queryTime": 1789,
+    "processTime": 797,
+    "responseTime": 1798
   }
 }
