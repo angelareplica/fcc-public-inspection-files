@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 522185,
+    "numFound": 522187,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "a042b69b-4f16-7f2e-1146-7713cd7cdab0",
+        "file_id": "a042b69b-4f16-7f2e-1146-7713cd7cdab0",
+        "file_name": "POET LLC 3 1 2022 ISSUE - 048 EXT # 2229",
+        "file_extension": "pdf",
+        "file_size": 2260397,
+        "file_status": "com_cpy",
+        "folder_id": "ae82f0c8-cc6c-ae6a-a7cc-62fb6fb06b69",
+        "create_ts": "2022-03-02T03:11:27.608Z",
+        "last_update_ts": "2022-03-02T03:11:30.534Z",
+        "active_ind": "Y",
+        "file_manager_id": "2975a82b-9589-448d-8d76-777b0bd494e9",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/POET LLC 3 1 2022 ISSUE - 048 EXT # 2229",
+        "entity_id": "24207",
+        "source_service_code": "AM",
+        "callsign": "KBIZ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726156047239872500,
+        "score": 0.24995685
+      },
+      {
+        "id": "45981830-a56f-dca0-5266-ff4372d554d9",
+        "file_id": "45981830-a56f-dca0-5266-ff4372d554d9",
+        "file_name": "POET LLC 3 1 2022 ISSUE - 048 EST # 2230",
+        "file_extension": "pdf",
+        "file_size": 2078416,
+        "file_status": "com_cpy",
+        "folder_id": "ae82f0c8-cc6c-ae6a-a7cc-62fb6fb06b69",
+        "create_ts": "2022-03-02T03:11:27.255Z",
+        "last_update_ts": "2022-03-02T03:11:19.793Z",
+        "active_ind": "Y",
+        "file_manager_id": "b91f8ad3-39bb-4701-be38-aeb676830ffa",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/POET LLC 3 1 2022 ISSUE - 048 EST # 2230",
+        "entity_id": "24207",
+        "source_service_code": "AM",
+        "callsign": "KBIZ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726156047163326500,
+        "score": 0.24995685
+      },
       {
         "id": "9e6f2a33-274c-1986-3d61-64699d422707",
         "file_id": "9e6f2a33-274c-1986-3d61-64699d422707",
@@ -192,50 +236,6 @@
         "campaign_year": "2022",
         "_version_": 1726143673931923500,
         "score": 0.24995685
-      },
-      {
-        "id": "d2ef9da1-39ae-9e7b-e72c-59af5d5ba8ba",
-        "file_id": "d2ef9da1-39ae-9e7b-e72c-59af5d5ba8ba",
-        "file_name": "Ken Paxton NAB 1.10.22 D2 Endorse 022522",
-        "file_extension": "pdf",
-        "file_size": 1080272,
-        "file_status": "com_cpy",
-        "folder_id": "78303407-8e8e-5ae4-da9f-7a66ceb3d553",
-        "create_ts": "2022-02-28T23:02:50.487Z",
-        "last_update_ts": "2022-03-01T23:56:03.525Z",
-        "active_ind": "Y",
-        "file_manager_id": "3aae9370-1a9a-4be1-8744-9cbea36d2097",
-        "file_folder_path": "Political Files/2022/State/Texas/Ken Paxton TX Attorney General",
-        "full_qualified_file_name": "Political Files/2022/State/Texas/Ken Paxton TX Attorney General/Ken Paxton NAB 1.10.22 D2 Endorse 022522",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726143750590169000,
-        "score": 0.24995685
-      },
-      {
-        "id": "89624f53-cbbf-391f-9fcc-257342019f01",
-        "file_id": "89624f53-cbbf-391f-9fcc-257342019f01",
-        "file_name": "Ken Paxton NAB 1.10.22 D2 Texas 022422",
-        "file_extension": "pdf",
-        "file_size": 1080272,
-        "file_status": "com_cpy",
-        "folder_id": "78303407-8e8e-5ae4-da9f-7a66ceb3d553",
-        "create_ts": "2022-02-24T20:35:58.525Z",
-        "last_update_ts": "2022-03-01T23:55:15.579Z",
-        "active_ind": "Y",
-        "file_manager_id": "67658bf8-4447-4ae9-b965-54fcd25a906f",
-        "file_folder_path": "Political Files/2022/State/Texas/Ken Paxton TX Attorney General",
-        "full_qualified_file_name": "Political Files/2022/State/Texas/Ken Paxton TX Attorney General/Ken Paxton NAB 1.10.22 D2 Texas 022422",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726143711455215600,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -414,7 +414,7 @@
         "2019": 13963,
         "2020": 125591,
         "2021": 22572,
-        "2022": 5656,
+        "2022": 5658,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -458,12 +458,12 @@
         "TV": 236611,
         "CABLE": 126198,
         "FM": 111983,
-        "AM": 41993,
+        "AM": 41995,
         "DBS": 5400
       },
       "political_file_type": {
         "PA": 222743,
-        "NCIA": 123559
+        "NCIA": 123561
       }
     }
   },
@@ -479,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1784,
-    "processTime": 794,
-    "responseTime": 1794
+    "queryTime": 1777,
+    "processTime": 789,
+    "responseTime": 1790
   }
 }
