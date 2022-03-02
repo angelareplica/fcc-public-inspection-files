@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 522227,
+    "numFound": 522229,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "e205710f-1085-bead-953d-55019ba56322",
+        "file_id": "e205710f-1085-bead-953d-55019ba56322",
+        "file_name": "DAVID PERDUE 030222",
+        "file_extension": "pdf",
+        "file_size": 1287051,
+        "file_status": "com_cpy",
+        "folder_id": "dc44a0f6-7dac-9907-bd28-773f9ab527f3",
+        "create_ts": "2022-03-02T15:35:45.658Z",
+        "last_update_ts": "2022-03-02T15:35:48.522Z",
+        "active_ind": "Y",
+        "file_manager_id": "be91057c-9822-4b05-80ba-e6e702e753ec",
+        "file_folder_path": "Political Files/2022/State/GOVERNOR GEORGIA/DAVID PERDUE",
+        "full_qualified_file_name": "Political Files/2022/State/GOVERNOR GEORGIA/DAVID PERDUE/DAVID PERDUE 030222",
+        "entity_id": "37174",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SAVANNAH",
+        "callsign": "WJCL",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726202874510180400,
+        "score": 0.24995685
+      },
+      {
+        "id": "74285b9c-aa38-3847-fcf9-8bd73bd106af",
+        "file_id": "74285b9c-aa38-3847-fcf9-8bd73bd106af",
+        "file_name": "RAPHAEL WARNOCK 030222",
+        "file_extension": "pdf",
+        "file_size": 871437,
+        "file_status": "com_cpy",
+        "folder_id": "f10c2cee-1755-d86c-b405-652170510aab",
+        "create_ts": "2022-03-02T15:35:02.819Z",
+        "last_update_ts": "2022-03-02T15:35:06.287Z",
+        "active_ind": "Y",
+        "file_manager_id": "f7304fa4-0067-4004-beb0-1201d9945565",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/RAPHAEL WARNOCK",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/RAPHAEL WARNOCK/RAPHAEL WARNOCK 030222",
+        "entity_id": "37174",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SAVANNAH",
+        "callsign": "WJCL",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1726202830225670100,
+        "score": 0.24995685
+      },
       {
         "id": "14292517-3b30-0027-08cf-4dc9ea42a717",
         "file_id": "14292517-3b30-0027-08cf-4dc9ea42a717",
@@ -199,54 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1726198524480061400,
         "score": 0.24995685
-      },
-      {
-        "id": "74efd6af-76b0-a8db-d248-7bc083506526",
-        "file_id": "74efd6af-76b0-a8db-d248-7bc083506526",
-        "file_name": "Ken Paxton for Texas Attorney General Tyler 0226 3.1-3.1",
-        "file_extension": "pdf",
-        "file_size": 54802,
-        "file_status": "com_cpy",
-        "folder_id": "73b72de1-26e6-055c-d9fb-ebdb68be8ad1",
-        "create_ts": "2022-03-02T14:26:22.42Z",
-        "last_update_ts": "2022-03-02T14:27:44.102Z",
-        "active_ind": "Y",
-        "file_manager_id": "d439eeef-b937-4761-a44b-ebf97c30e594",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Ken Paxton for Texas Attorney General Tyler 0226 3.1-3.1",
-        "entity_id": "022443",
-        "source_service_code": "CABLE",
-        "legal_name": "SHENANDOAH CABLE TELEVISION, LLC",
-        "operator_city_name": "EDINBURG",
-        "operator_state_name": "VA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726198508593086500,
-        "score": 0.24995685
-      },
-      {
-        "id": "03301a10-800a-d332-f2be-9eea5cf4bb58",
-        "file_id": "03301a10-800a-d332-f2be-9eea5cf4bb58",
-        "file_name": "Glenn Hegar for Texas Comptroller of Public Accounts Tyler 0226 3.1-3.1",
-        "file_extension": "pdf",
-        "file_size": 9717,
-        "file_status": "com_cpy",
-        "folder_id": "c42c1490-5677-3670-250c-8dc3f3a8d9bd",
-        "create_ts": "2022-03-02T14:25:36.773Z",
-        "last_update_ts": "2022-03-02T14:26:58.536Z",
-        "active_ind": "Y",
-        "file_manager_id": "9e286d2a-261a-483b-8f64-70d6ca54f1ad",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Glenn Hegar for Texas Comptroller of Public Accounts Tyler 0226 3.1-3.1",
-        "entity_id": "007970",
-        "source_service_code": "CABLE",
-        "legal_name": "SHENANDOAH CABLE TELEVISION, LLC",
-        "operator_city_name": "EDINBURG",
-        "operator_state_name": "VA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726198460816818200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -278,7 +280,7 @@
         "BEND OR": 2602,
         "CHICAGO": 2561,
         "GREENSBORO-H.POINT-W.SALEM": 2532,
-        "SAVANNAH": 2440,
+        "SAVANNAH": 2442,
         "QUINCY-HANNIBAL-KEOKUK": 2383,
         "PEORIA-BLOOMINGTON": 2333,
         "BIRMINGHAM (ANN TUSC)": 2328,
@@ -353,7 +355,7 @@
         "HOUSTON": 538
       },
       "network_affiliation": {
-        "ABC": 57655,
+        "ABC": 57657,
         "NBC": 56580,
         "CBS": 38608,
         "FOX": 27919,
@@ -425,13 +427,13 @@
         "2019": 13963,
         "2020": 125591,
         "2021": 22572,
-        "2022": 5694,
+        "2022": 5696,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 67524,
-        "US Senate": 49637,
+        "State": 67525,
+        "US Senate": 49638,
         "US House": 41612,
         "Presidential": 38686,
         "Local": 24250
@@ -466,14 +468,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236630,
+        "TV": 236632,
         "CABLE": 126216,
         "FM": 111984,
         "AM": 41997,
         "DBS": 5400
       },
       "political_file_type": {
-        "PA": 222760,
+        "PA": 222762,
         "NCIA": 123580
       }
     }
@@ -490,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1788,
-    "processTime": 798,
-    "responseTime": 1798
+    "queryTime": 1818,
+    "processTime": 826,
+    "responseTime": 1826
   }
 }
