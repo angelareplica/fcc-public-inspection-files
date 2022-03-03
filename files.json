@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 522462,
+    "numFound": 522464,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "a88f7174-50f3-cd4a-c110-ea2a2dd09ef3",
+        "file_id": "a88f7174-50f3-cd4a-c110-ea2a2dd09ef3",
+        "file_name": "WYFX-MIKE GIBBONS US SENATE OH-ADDENDUM-030422",
+        "file_extension": "pdf",
+        "file_size": 5631,
+        "file_status": "com_cpy",
+        "folder_id": "e87ab4f7-1b5d-1324-1a8c-a86f925de8ae",
+        "create_ts": "2022-03-03T19:41:25.067Z",
+        "last_update_ts": "2022-03-03T19:42:50.182Z",
+        "active_ind": "Y",
+        "file_manager_id": "3c6f01ef-4948-4578-9c2c-334287453eec",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/WYFX-MIKE GIBBONS US SENATE OH",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/WYFX-MIKE GIBBONS US SENATE OH/WYFX-MIKE GIBBONS US SENATE OH-ADDENDUM-030422",
+        "entity_id": "73153",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "YOUNGSTOWN",
+        "callsign": "WKBN-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1726308926461313000,
+        "score": 0.24995685
+      },
+      {
+        "id": "883bb06b-d73a-8c1c-59f6-d8b31a52d958",
+        "file_id": "883bb06b-d73a-8c1c-59f6-d8b31a52d958",
+        "file_name": "WKBN-MIKE GIBBONS US SENATE OH-ADDENDUM-030422",
+        "file_extension": "pdf",
+        "file_size": 5631,
+        "file_status": "com_cpy",
+        "folder_id": "b4ca869f-d194-5ae8-d84f-d3ef7a824f84",
+        "create_ts": "2022-03-03T19:42:00.29Z",
+        "last_update_ts": "2022-03-03T19:42:02.752Z",
+        "active_ind": "Y",
+        "file_manager_id": "54277ac4-fb63-4eff-8f92-cf7fd2409aba",
+        "file_folder_path": "Political Files/2021/Federal/US Senate/WKBN-MIKE GIBBONS US SENATE OH",
+        "full_qualified_file_name": "Political Files/2021/Federal/US Senate/WKBN-MIKE GIBBONS US SENATE OH/WKBN-MIKE GIBBONS US SENATE OH-ADDENDUM-030422",
+        "entity_id": "73153",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "YOUNGSTOWN",
+        "callsign": "WKBN-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2021",
+        "_version_": 1726308963344973800,
+        "score": 0.24995685
+      },
       {
         "id": "ec1b4e70-5b55-59ae-5ad7-910e17141d53",
         "file_id": "ec1b4e70-5b55-59ae-5ad7-910e17141d53",
@@ -191,48 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1726305212816162800,
         "score": 0.24995685
-      },
-      {
-        "id": "0a4f90d1-e960-d9cc-1afb-809600394dbd",
-        "file_id": "0a4f90d1-e960-d9cc-1afb-809600394dbd",
-        "file_name": "Honor Pennsylvania PAC PB-19 MO D2 Greatest Hits 021422",
-        "file_extension": "pdf",
-        "file_size": 87157,
-        "file_status": "com_cpy",
-        "folder_id": "b8304726-883d-cf35-c876-d0cab30f8bee",
-        "create_ts": "2022-02-15T00:15:39.199Z",
-        "last_update_ts": "2022-03-03T18:42:05.044Z",
-        "active_ind": "Y",
-        "file_manager_id": "175ee4a6-d305-4a45-a9d1-83d273bacdb7",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Pennsylvania/Honor Pennsylvania",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Pennsylvania/Honor Pennsylvania/Honor Pennsylvania PAC PB-19 MO D2 Greatest Hits 021422",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726305190881001500,
-        "score": 0.24995685
-      },
-      {
-        "id": "4f1baa0c-1ffc-d254-4661-0cbabb2ac58c",
-        "file_id": "4f1baa0c-1ffc-d254-4661-0cbabb2ac58c",
-        "file_name": "Honor Pennsylvania PAC PB-19 MO D2 California 021822",
-        "file_extension": "pdf",
-        "file_size": 87170,
-        "file_status": "com_cpy",
-        "folder_id": "b8304726-883d-cf35-c876-d0cab30f8bee",
-        "create_ts": "2022-02-18T19:22:19.328Z",
-        "last_update_ts": "2022-03-03T18:41:47.134Z",
-        "active_ind": "Y",
-        "file_manager_id": "c3e74ed5-bdca-457b-8369-c337858edac9",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Pennsylvania/Honor Pennsylvania",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Pennsylvania/Honor Pennsylvania/Honor Pennsylvania PAC PB-19 MO D2 California 021822",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726305172102054000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -341,7 +349,7 @@
       "network_affiliation": {
         "ABC": 57694,
         "NBC": 56581,
-        "CBS": 38651,
+        "CBS": 38653,
         "FOX": 27951,
         "PBS": 14401,
         "CW": 12069,
@@ -410,14 +418,14 @@
         "2018": 67727,
         "2019": 13962,
         "2020": 125585,
-        "2021": 22572,
+        "2021": 22574,
         "2022": 5912,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 67640,
-        "US Senate": 49679,
+        "US Senate": 49681,
         "US House": 41620,
         "Presidential": 38681,
         "Local": 24258
@@ -452,14 +460,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236757,
+        "TV": 236759,
         "CABLE": 126247,
         "FM": 112039,
         "AM": 42017,
         "DBS": 5402
       },
       "political_file_type": {
-        "PA": 222930,
+        "PA": 222932,
         "NCIA": 123621
       }
     }
@@ -476,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1834,
-    "processTime": 844,
-    "responseTime": 1845
+    "queryTime": 1897,
+    "processTime": 905,
+    "responseTime": 1906
   }
 }
