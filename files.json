@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 522406,
+    "numFound": 522407,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "2cb2be33-f9ea-718f-7e5d-067057fc3b8d",
+        "file_id": "2cb2be33-f9ea-718f-7e5d-067057fc3b8d",
+        "file_name": "Rodger McLane County Judge Run-Off Election 03-03-2022",
+        "file_extension": "pdf",
+        "file_size": 660411,
+        "file_status": "com_cpy",
+        "folder_id": "badb2630-e93d-55f3-1b67-9088f5a5a306",
+        "create_ts": "2022-03-03T13:56:45.973Z",
+        "last_update_ts": "2022-03-03T13:56:37.772Z",
+        "active_ind": "Y",
+        "file_manager_id": "328d2a84-eac4-4943-9e28-6ab414f5f3f5",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Rodger McLane County Judge Run-Off Election 03-03-2022",
+        "entity_id": "25990",
+        "source_service_code": "FM",
+        "callsign": "KGAS-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1726287243181555700,
+        "score": 0.24995685
+      },
       {
         "id": "18e560d2-4256-f9ec-ee81-5005571f22cd",
         "file_id": "18e560d2-4256-f9ec-ee81-5005571f22cd",
@@ -205,28 +228,6 @@
         "campaign_year": "2022",
         "_version_": 1726234326055518200,
         "score": 0.24995685
-      },
-      {
-        "id": "f3b0f4e2-505a-b3f7-b250-33520e393518",
-        "file_id": "f3b0f4e2-505a-b3f7-b250-33520e393518",
-        "file_name": "Britt NAB Fight for Alabama D2 ALT 30 H 010322",
-        "file_extension": "pdf",
-        "file_size": 105139,
-        "file_status": "com_cpy",
-        "folder_id": "f6de8806-da4b-eb66-a9d8-52d0fa69da98",
-        "create_ts": "2022-01-04T00:02:24.857Z",
-        "last_update_ts": "2022-03-02T23:54:58.669Z",
-        "active_ind": "Y",
-        "file_manager_id": "1e029f96-6253-418d-b3a8-b2728d568968",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Alabama/Katie Britt AL",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Alabama/Katie Britt AL/Britt NAB Fight for Alabama D2 ALT 30 H 010322",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1726234290910396400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -405,7 +406,7 @@
         "2019": 13962,
         "2020": 125585,
         "2021": 22572,
-        "2022": 5857,
+        "2022": 5858,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -414,7 +415,7 @@
         "US Senate": 49660,
         "US House": 41613,
         "Presidential": 38681,
-        "Local": 24251
+        "Local": 24252
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61612,
@@ -448,12 +449,12 @@
       "source_service_code": {
         "TV": 236737,
         "CABLE": 126239,
-        "FM": 112023,
+        "FM": 112024,
         "AM": 42006,
         "DBS": 5401
       },
       "political_file_type": {
-        "PA": 222884,
+        "PA": 222885,
         "NCIA": 123612
       }
     }
@@ -470,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 212,
-    "processTime": 219,
-    "responseTime": 220
+    "queryTime": 1792,
+    "processTime": 800,
+    "responseTime": 1801
   }
 }
