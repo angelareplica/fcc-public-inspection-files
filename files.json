@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 522407,
+    "numFound": 522409,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "d7db6276-360b-c6b5-5e36-ede92aada349",
+        "file_id": "d7db6276-360b-c6b5-5e36-ede92aada349",
+        "file_name": "ZELDIN 2022 NAB - Candidate Advertisement Agreement Form - 2022 02 23",
+        "file_extension": "pdf",
+        "file_size": 1113033,
+        "file_status": "com_cpy",
+        "folder_id": "ca3aedc4-72ff-9899-b152-c7a730571c0b",
+        "create_ts": "2022-03-03T14:26:04.28Z",
+        "last_update_ts": "2022-03-03T14:26:07.402Z",
+        "active_ind": "Y",
+        "file_manager_id": "4c8bf838-c5ba-4f77-9713-81e7514de65b",
+        "file_folder_path": "Political Files/2022/State/Governor/Zeldin for NY -R",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Zeldin for NY -R/ZELDIN 2022 NAB - Candidate Advertisement Agreement Form - 2022 02 23",
+        "entity_id": "73371",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "ROCHESTER NY",
+        "callsign": "WHAM-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726289087225135000,
+        "score": 0.24995685
+      },
+      {
+        "id": "4f18b5b8-83ba-41ac-dcb5-765a684aa14a",
+        "file_id": "4f18b5b8-83ba-41ac-dcb5-765a684aa14a",
+        "file_name": "Scott Myers MD 04-04-22 to 05-02-22 172161",
+        "file_extension": "pdf",
+        "file_size": 160337,
+        "file_status": "com_cpy",
+        "folder_id": "f0f2d343-8fc4-8666-abc1-24c3800bcb42",
+        "create_ts": "2022-03-03T14:25:19.497Z",
+        "last_update_ts": "2022-03-03T14:25:11.107Z",
+        "active_ind": "Y",
+        "file_manager_id": "20594d74-60f4-4f29-8fad-8c64a7c7c41b",
+        "file_folder_path": "Political Files/2022/Local/ScottMyersMDcom",
+        "full_qualified_file_name": "Political Files/2022/Local/ScottMyersMDcom/Scott Myers MD 04-04-22 to 05-02-22 172161",
+        "entity_id": "28205",
+        "source_service_code": "AM",
+        "callsign": "WOWO",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1726289039745613800,
+        "score": 0.24995685
+      },
       {
         "id": "2cb2be33-f9ea-718f-7e5d-067057fc3b8d",
         "file_id": "2cb2be33-f9ea-718f-7e5d-067057fc3b8d",
@@ -184,50 +232,6 @@
         "campaign_year": "2022",
         "_version_": 1726234527148277800,
         "score": 0.24995685
-      },
-      {
-        "id": "120c65ee-3bba-2873-e278-e81a7169b744",
-        "file_id": "120c65ee-3bba-2873-e278-e81a7169b744",
-        "file_name": "Ron Johnson NAB 2022 D2 Media Advocate 30 H 022322",
-        "file_extension": "pdf",
-        "file_size": 105129,
-        "file_status": "com_cpy",
-        "folder_id": "dec873da-8fac-f76c-2044-25cbb9fe02d4",
-        "create_ts": "2022-02-23T22:46:56.997Z",
-        "last_update_ts": "2022-03-02T23:57:25.271Z",
-        "active_ind": "Y",
-        "file_manager_id": "2614a103-1bf0-407b-845b-585e1aba0770",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Wisconsin/Ron Johnson WI",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Wisconsin/Ron Johnson WI/Ron Johnson NAB 2022 D2 Media Advocate 30 H 022322",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1726234444640026600,
-        "score": 0.24995685
-      },
-      {
-        "id": "86c28b9c-11a0-285f-9202-7504af08e6c8",
-        "file_id": "86c28b9c-11a0-285f-9202-7504af08e6c8",
-        "file_name": "Britt NAB Fight for Alabama D2 Family Church 30 H 022822",
-        "file_extension": "pdf",
-        "file_size": 105471,
-        "file_status": "com_cpy",
-        "folder_id": "f6de8806-da4b-eb66-a9d8-52d0fa69da98",
-        "create_ts": "2022-02-28T22:54:51.372Z",
-        "last_update_ts": "2022-03-02T23:55:43.054Z",
-        "active_ind": "Y",
-        "file_manager_id": "56954c11-29d8-41a6-9bae-1e8d3ec8d627",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Alabama/Katie Britt AL",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Alabama/Katie Britt AL/Britt NAB Fight for Alabama D2 Family Church 30 H 022822",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1726234326055518200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -334,7 +338,7 @@
         "HOUSTON": 538
       },
       "network_affiliation": {
-        "ABC": 57677,
+        "ABC": 57678,
         "NBC": 56579,
         "CBS": 38651,
         "FOX": 27951,
@@ -406,16 +410,16 @@
         "2019": 13962,
         "2020": 125585,
         "2021": 22572,
-        "2022": 5858,
+        "2022": 5860,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 67629,
+        "State": 67630,
         "US Senate": 49660,
         "US House": 41613,
         "Presidential": 38681,
-        "Local": 24252
+        "Local": 24253
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61612,
@@ -447,14 +451,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236737,
+        "TV": 236738,
         "CABLE": 126239,
         "FM": 112024,
-        "AM": 42006,
+        "AM": 42007,
         "DBS": 5401
       },
       "political_file_type": {
-        "PA": 222885,
+        "PA": 222887,
         "NCIA": 123612
       }
     }
@@ -471,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1792,
-    "processTime": 800,
-    "responseTime": 1801
+    "queryTime": 225,
+    "processTime": 249,
+    "responseTime": 249
   }
 }
