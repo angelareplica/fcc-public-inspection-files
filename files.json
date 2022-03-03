@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 522476,
+    "numFound": 522478,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "7412b8f9-df91-df09-60a4-feef0ead7e73",
+        "file_id": "7412b8f9-df91-df09-60a4-feef0ead7e73",
+        "file_name": "BUILDING BACK TOGETHER - NAB - 012022",
+        "file_extension": "pdf",
+        "file_size": 1065766,
+        "file_status": "com_cpy",
+        "folder_id": "da5251dc-8ba8-5977-193f-e15c02cb2acb",
+        "create_ts": "2022-03-03T20:39:36.769Z",
+        "last_update_ts": "2022-03-03T20:41:02.328Z",
+        "active_ind": "Y",
+        "file_manager_id": "702a2c80-ed2b-4a65-99b2-9bad34f1cfc8",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/BBT",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/BBT/BUILDING BACK TOGETHER - NAB - 012022",
+        "entity_id": "DISH",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726312588118065200,
+        "score": 0.24995685
+      },
+      {
+        "id": "258f37fd-7464-0f33-2f58-357df7fb0341",
+        "file_id": "258f37fd-7464-0f33-2f58-357df7fb0341",
+        "file_name": "BUILDING BACK TOGETHER - N#3625263 - 012222-030622 - DISH",
+        "file_extension": "pdf",
+        "file_size": 114693,
+        "file_status": "com_cpy",
+        "folder_id": "da5251dc-8ba8-5977-193f-e15c02cb2acb",
+        "create_ts": "2022-03-03T20:39:34.868Z",
+        "last_update_ts": "2022-03-03T20:39:37.339Z",
+        "active_ind": "Y",
+        "file_manager_id": "020e83a7-d5e8-4fa9-8379-6057a30c3a30",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/BBT",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/BBT/BUILDING BACK TOGETHER - N#3625263 - 012222-030622 - DISH",
+        "entity_id": "DISH",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726312585739894800,
+        "score": 0.24995685
+      },
       {
         "id": "b8e41fe5-48b0-c8ce-7c7f-e76294223d63",
         "file_id": "b8e41fe5-48b0-c8ce-7c7f-e76294223d63",
@@ -199,56 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1726309607735820300,
         "score": 0.24995685
-      },
-      {
-        "id": "018908fc-e994-46fe-5653-bd135328b0f5",
-        "file_id": "018908fc-e994-46fe-5653-bd135328b0f5",
-        "file_name": "Pol Brian Kemp for Gov WATL 2423087-0",
-        "file_extension": "pdf",
-        "file_size": 241389,
-        "file_status": "com_cpy",
-        "folder_id": "45397a7f-a065-9902-8df8-668f2890bf57",
-        "create_ts": "2022-03-03T19:52:14.26Z",
-        "last_update_ts": "2022-03-03T19:52:06.203Z",
-        "active_ind": "Y",
-        "file_manager_id": "e3e62bd3-b761-44a1-87cb-77045912f408",
-        "file_folder_path": "Political Files/2022/State/POL Brian Kemp for Governor",
-        "full_qualified_file_name": "Political Files/2022/State/POL Brian Kemp for Governor/Pol Brian Kemp for Gov WATL 2423087-0",
-        "entity_id": "22819",
-        "source_service_code": "TV",
-        "network_affiliation": "MY NETWORK TV",
-        "nielsen_dma_rank": "ATLANTA",
-        "callsign": "WATL",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726309607715897300,
-        "score": 0.24995685
-      },
-      {
-        "id": "45345ce3-de5f-4615-7a19-ef721f1b3f39",
-        "file_id": "45345ce3-de5f-4615-7a19-ef721f1b3f39",
-        "file_name": "Pol Brian Kemp for Gov WATL 2423110-0",
-        "file_extension": "pdf",
-        "file_size": 240504,
-        "file_status": "com_cpy",
-        "folder_id": "45397a7f-a065-9902-8df8-668f2890bf57",
-        "create_ts": "2022-03-03T19:52:14.593Z",
-        "last_update_ts": "2022-03-03T19:52:06.197Z",
-        "active_ind": "Y",
-        "file_manager_id": "de39e35f-be8d-4256-8e87-ee99f933cd55",
-        "file_folder_path": "Political Files/2022/State/POL Brian Kemp for Governor",
-        "full_qualified_file_name": "Political Files/2022/State/POL Brian Kemp for Governor/Pol Brian Kemp for Gov WATL 2423110-0",
-        "entity_id": "22819",
-        "source_service_code": "TV",
-        "network_affiliation": "MY NETWORK TV",
-        "nielsen_dma_rank": "ATLANTA",
-        "callsign": "WATL",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726309607706460200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -427,7 +419,7 @@
         "2019": 13962,
         "2020": 125585,
         "2021": 22574,
-        "2022": 5924,
+        "2022": 5926,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -472,11 +464,11 @@
         "CABLE": 126247,
         "FM": 112039,
         "AM": 42019,
-        "DBS": 5402
+        "DBS": 5404
       },
       "political_file_type": {
         "PA": 222941,
-        "NCIA": 123624
+        "NCIA": 123626
       }
     }
   },
@@ -492,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1886,
-    "processTime": 895,
-    "responseTime": 1895
+    "queryTime": 225,
+    "processTime": 234,
+    "responseTime": 234
   }
 }
