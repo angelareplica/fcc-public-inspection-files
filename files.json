@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 522527,
+    "numFound": 522529,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "a7d8f1f9-90ac-34ff-4a00-e17645ce4398",
+        "file_id": "a7d8f1f9-90ac-34ff-4a00-e17645ce4398",
+        "file_name": "Oklahoma State Medical Association 03.04.22-03.22.22 #137833",
+        "file_extension": "pdf",
+        "file_size": 5014203,
+        "file_status": "com_cpy",
+        "folder_id": "93021a4e-195c-8863-9c62-899d89f8d052",
+        "create_ts": "2022-03-04T05:32:30.654Z",
+        "last_update_ts": "2022-03-04T05:32:34.553Z",
+        "active_ind": "Y",
+        "file_manager_id": "cd52d9b7-7330-400b-b2ad-1831996db7c6",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Oklahoma State Medical Association",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Oklahoma State Medical Association/Oklahoma State Medical Association 03.04.22-03.22.22 #137833",
+        "entity_id": "25382",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "OKLAHOMA CITY",
+        "callsign": "KWTV-DT",
+        "political_file_type": "NCIA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726346116267507700,
+        "score": 0.24995685
+      },
+      {
+        "id": "85518644-8077-c78d-be0c-cf545c7acdef",
+        "file_id": "85518644-8077-c78d-be0c-cf545c7acdef",
+        "file_name": "Fix Our Jail 06.13.22-06.28.22 #137919",
+        "file_extension": "pdf",
+        "file_size": 2356754,
+        "file_status": "com_cpy",
+        "folder_id": "9907378e-42bc-22df-ae4b-e9778809d398",
+        "create_ts": "2022-03-04T05:28:33.212Z",
+        "last_update_ts": "2022-03-04T05:30:00.037Z",
+        "active_ind": "Y",
+        "file_manager_id": "460ceafb-f1b5-4286-92d7-74c98cf8a3ec",
+        "file_folder_path": "Political Files/2022/Local/Fix Our Jail",
+        "full_qualified_file_name": "Political Files/2022/Local/Fix Our Jail/Fix Our Jail 06.13.22-06.28.22 #137919",
+        "entity_id": "25382",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "OKLAHOMA CITY",
+        "callsign": "KWTV-DT",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1726345866441130000,
+        "score": 0.24995685
+      },
       {
         "id": "8047f879-c68a-8857-b2fe-22a21d9cc2b8",
         "file_id": "8047f879-c68a-8857-b2fe-22a21d9cc2b8",
@@ -199,56 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1726332520356642800,
         "score": 0.24995685
-      },
-      {
-        "id": "36a64169-93ec-f3d3-f5ae-17682b514eee",
-        "file_id": "36a64169-93ec-f3d3-f5ae-17682b514eee",
-        "file_name": "WTVH WILSON FOR NEW YORK GOVERNOR EST 3465 03.07.22-03.13.22 - NAB",
-        "file_extension": "pdf",
-        "file_size": 65092,
-        "file_status": "com_cpy",
-        "folder_id": "909a02e9-a44a-b025-db96-b81799a348e0",
-        "create_ts": "2022-03-04T01:56:25.704Z",
-        "last_update_ts": "2022-03-04T01:57:51.721Z",
-        "active_ind": "Y",
-        "file_manager_id": "bef1e02e-c478-48f5-8be6-8c2da3ac7090",
-        "file_folder_path": "Political Files/2022/State/WILSON FOR NEW YORK GOVERNOR-R",
-        "full_qualified_file_name": "Political Files/2022/State/WILSON FOR NEW YORK GOVERNOR-R/WTVH WILSON FOR NEW YORK GOVERNOR EST 3465 03.07.22-03.13.22 - NAB",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726332520263319600,
-        "score": 0.24995685
-      },
-      {
-        "id": "225310af-3ef8-76ab-0b6c-f5f01ba7a1de",
-        "file_id": "225310af-3ef8-76ab-0b6c-f5f01ba7a1de",
-        "file_name": "WTVH WILSON FOR NEW YORK GOVERNOR EST 3466 03.14.22-03.20.22 - NAB",
-        "file_extension": "pdf",
-        "file_size": 63288,
-        "file_status": "com_cpy",
-        "folder_id": "909a02e9-a44a-b025-db96-b81799a348e0",
-        "create_ts": "2022-03-04T01:56:25.704Z",
-        "last_update_ts": "2022-03-04T01:56:28.294Z",
-        "active_ind": "Y",
-        "file_manager_id": "2840db0f-bf1d-4dc3-a9e3-55027a9ed2c2",
-        "file_folder_path": "Political Files/2022/State/WILSON FOR NEW YORK GOVERNOR-R",
-        "full_qualified_file_name": "Political Files/2022/State/WILSON FOR NEW YORK GOVERNOR-R/WTVH WILSON FOR NEW YORK GOVERNOR EST 3466 03.14.22-03.20.22 - NAB",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726332520215085000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -357,7 +357,7 @@
       "network_affiliation": {
         "ABC": 57703,
         "NBC": 56582,
-        "CBS": 38692,
+        "CBS": 38694,
         "FOX": 27958,
         "PBS": 14403,
         "CW": 12069,
@@ -427,16 +427,16 @@
         "2019": 13960,
         "2020": 125584,
         "2021": 22574,
-        "2022": 6022,
+        "2022": 6024,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 67678,
+        "State": 67679,
         "US Senate": 49691,
         "US House": 41611,
         "Presidential": 38680,
-        "Local": 24241
+        "Local": 24242
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61612,
@@ -468,15 +468,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236829,
+        "TV": 236831,
         "CABLE": 126260,
         "FM": 112016,
         "AM": 42015,
         "DBS": 5407
       },
       "political_file_type": {
-        "PA": 222956,
-        "NCIA": 123661
+        "PA": 222957,
+        "NCIA": 123662
       }
     }
   },
@@ -492,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 215,
-    "responseTime": 215
+    "queryTime": 1794,
+    "processTime": 807,
+    "responseTime": 1808
   }
 }
