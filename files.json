@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 522785,
+    "numFound": 522787,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "4d169529-2e59-26b4-4aaf-03a47f24a5e4",
+        "file_id": "4d169529-2e59-26b4-4aaf-03a47f24a5e4",
+        "file_name": "RICK CARUSO FOR MAYOR 0222 333158-5 CONTRACT",
+        "file_extension": "pdf",
+        "file_size": 237329,
+        "file_status": "com_cpy",
+        "folder_id": "0d6cad1f-08d0-f1ef-f414-812a45c98498",
+        "create_ts": "2022-03-04T23:30:43.279Z",
+        "last_update_ts": "2022-03-04T23:30:45.989Z",
+        "active_ind": "Y",
+        "file_manager_id": "5f005e8d-7fcd-4a65-9a57-e93040baa42d",
+        "file_folder_path": "Political Files/2022/Local/MAYOR/RICK CARUSO FOR MAYOR 2022",
+        "full_qualified_file_name": "Political Files/2022/Local/MAYOR/RICK CARUSO FOR MAYOR 2022/RICK CARUSO FOR MAYOR 0222 333158-5 CONTRACT",
+        "entity_id": "282",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "LOS ANGELES",
+        "callsign": "KABC-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1726413950124294100,
+        "score": 0.24995685
+      },
+      {
+        "id": "550c1070-5d9a-80b5-fadb-5582572fb373",
+        "file_id": "550c1070-5d9a-80b5-fadb-5582572fb373",
+        "file_name": "Unite the Country NAB D2 FAMILY 030422",
+        "file_extension": "pdf",
+        "file_size": 1120281,
+        "file_status": "com_cpy",
+        "folder_id": "7dce9af6-0589-31b4-bf34-37b204f4d697",
+        "create_ts": "2022-03-04T23:23:53.286Z",
+        "last_update_ts": "2022-03-04T23:23:56.392Z",
+        "active_ind": "Y",
+        "file_manager_id": "e88671b7-cc30-4326-8f94-71e838153634",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Arizona/Unite the Country",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Arizona/Unite the Country/Unite the Country NAB D2 FAMILY 030422",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726413520634904600,
+        "score": 0.24995685
+      },
       {
         "id": "c0133e80-8772-a9f9-330e-e342b3cbdcee",
         "file_id": "c0133e80-8772-a9f9-330e-e342b3cbdcee",
@@ -197,56 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1726411617455833000,
         "score": 0.24995685
-      },
-      {
-        "id": "f61f25f8-44ff-c9c5-ddf1-ae362b164137",
-        "file_id": "f61f25f8-44ff-c9c5-ddf1-ae362b164137",
-        "file_name": "0307 0313 1757852 KHGI Jim Pillen _ NAB",
-        "file_extension": "pdf",
-        "file_size": 208861,
-        "file_status": "com_cpy",
-        "folder_id": "7e291c6b-61b7-d433-9d63-c52e9d743fb2",
-        "create_ts": "2022-03-04T22:54:18.042Z",
-        "last_update_ts": "2022-03-04T22:54:20.7Z",
-        "active_ind": "Y",
-        "file_manager_id": "5ea1d5a0-47ce-4c49-a484-7fb901d2edd2",
-        "file_folder_path": "Political Files/2022/State/Jim Pillen for Gov R",
-        "full_qualified_file_name": "Political Files/2022/State/Jim Pillen for Gov R/0307 0313 1757852 KHGI Jim Pillen _ NAB",
-        "entity_id": "21162",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LINCOLN & HASTINGS-KRNY",
-        "callsign": "KWNB-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726411658683744300,
-        "score": 0.24995685
-      },
-      {
-        "id": "db44972c-f0d8-f75d-1101-77ca7adfd8d5",
-        "file_id": "db44972c-f0d8-f75d-1101-77ca7adfd8d5",
-        "file_name": "0307 0312 1757830 KHGI Charles Herbster",
-        "file_extension": "pdf",
-        "file_size": 308307,
-        "file_status": "com_cpy",
-        "folder_id": "3c2a4902-1ecc-9fd4-8692-3048a05add48",
-        "create_ts": "2022-03-04T22:53:37.453Z",
-        "last_update_ts": "2022-03-04T22:53:40.221Z",
-        "active_ind": "Y",
-        "file_manager_id": "7bd0dfe5-b61a-4721-b276-3342e3196077",
-        "file_folder_path": "Political Files/2022/State/Charles Herbster for Gov R",
-        "full_qualified_file_name": "Political Files/2022/State/Charles Herbster for Gov R/0307 0312 1757830 KHGI Charles Herbster",
-        "entity_id": "21162",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LINCOLN & HASTINGS-KRNY",
-        "callsign": "KWNB-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726411616239485000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -311,7 +307,7 @@
         "PROVIDENCE-NEW BEDFORD": 1200,
         "ANCHORAGE": 1194,
         "JOHNSTOWN-ALTOONA-ST COLGE": 1193,
-        "LOS ANGELES": 1141,
+        "LOS ANGELES": 1142,
         "CHARLOTTE": 1110,
         "SALT LAKE CITY": 1099,
         "GREEN BAY-APPLETON": 1093,
@@ -353,7 +349,7 @@
         "AUGUSTA": 538
       },
       "network_affiliation": {
-        "ABC": 57745,
+        "ABC": 57746,
         "NBC": 56671,
         "CBS": 38710,
         "FOX": 27980,
@@ -425,7 +421,7 @@
         "2019": 13960,
         "2020": 125582,
         "2021": 22575,
-        "2022": 6274,
+        "2022": 6276,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -434,7 +430,7 @@
         "US Senate": 49737,
         "US House": 41643,
         "Presidential": 38680,
-        "Local": 24275
+        "Local": 24276
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61613,
@@ -466,15 +462,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237040,
+        "TV": 237041,
         "CABLE": 126266,
         "FM": 112044,
         "AM": 42025,
-        "DBS": 5410
+        "DBS": 5411
       },
       "political_file_type": {
-        "PA": 223166,
-        "NCIA": 123702
+        "PA": 223167,
+        "NCIA": 123703
       }
     }
   },
@@ -490,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 819,
-    "processTime": 826,
-    "responseTime": 826
+    "queryTime": 212,
+    "processTime": 220,
+    "responseTime": 220
   }
 }
