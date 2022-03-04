@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 522537,
+    "numFound": 522538,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "3623d860-9f88-e5e0-8954-768e7374ca11",
+        "file_id": "3623d860-9f88-e5e0-8954-768e7374ca11",
+        "file_name": "Schrader for Congress KBNZ 26616 Order 030322",
+        "file_extension": "pdf",
+        "file_size": 10151,
+        "file_status": "com_cpy",
+        "folder_id": "a167dffa-f779-186f-5437-a84712b7f120",
+        "create_ts": "2022-03-04T06:22:01.602Z",
+        "last_update_ts": "2022-03-04T06:40:06.377Z",
+        "active_ind": "N",
+        "file_manager_id": "8eca7761-1e44-41c7-b8d7-c0aa61ca038f",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Schrader for Congress KBNZ 26616 Order 030322",
+        "entity_id": "166534",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "BEND OR",
+        "callsign": "KOHD",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1726350276955209700,
+        "score": 0.24995685
+      },
       {
         "id": "ec9f3a20-d4bd-b888-7c7c-f05909298b51",
         "file_id": "ec9f3a20-d4bd-b888-7c7c-f05909298b51",
@@ -228,31 +253,6 @@
         "campaign_year": "2022",
         "_version_": 1726349356413485000,
         "score": 0.24995685
-      },
-      {
-        "id": "6c8ac8b0-a548-8355-a816-4106a07166a3",
-        "file_id": "6c8ac8b0-a548-8355-a816-4106a07166a3",
-        "file_name": "Schrader for Congress KOHD 26611 MG 1 030222",
-        "file_extension": "pdf",
-        "file_size": 11168,
-        "file_status": "com_cpy",
-        "folder_id": "1db8bfdd-6b38-beaa-318a-875bd04ad761",
-        "create_ts": "2022-03-04T06:24:01.915Z",
-        "last_update_ts": "2022-03-04T06:24:04.43Z",
-        "active_ind": "Y",
-        "file_manager_id": "6ed8fb89-c61f-4309-a52e-6092c55832f9",
-        "file_folder_path": "Political Files/2022/Federal/US House/Ken Schrader for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Ken Schrader for Congress/Schrader for Congress KOHD 26611 MG 1 030222",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1726349356234178600,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -281,7 +281,7 @@
         "FT. WAYNE": 2712,
         "FRESNO-VISALIA": 2682,
         "MILWAUKEE": 2630,
-        "BEND OR": 2616,
+        "BEND OR": 2617,
         "CHICAGO": 2561,
         "GREENSBORO-H.POINT-W.SALEM": 2538,
         "SAVANNAH": 2445,
@@ -359,7 +359,7 @@
         "HOUSTON": 538
       },
       "network_affiliation": {
-        "ABC": 57711,
+        "ABC": 57712,
         "NBC": 56582,
         "CBS": 38694,
         "FOX": 27958,
@@ -431,14 +431,14 @@
         "2019": 13960,
         "2020": 125584,
         "2021": 22574,
-        "2022": 6032,
+        "2022": 6033,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 67679,
         "US Senate": 49691,
-        "US House": 41619,
+        "US House": 41620,
         "Presidential": 38680,
         "Local": 24242
       },
@@ -472,14 +472,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236839,
+        "TV": 236840,
         "CABLE": 126260,
         "FM": 112016,
         "AM": 42015,
         "DBS": 5407
       },
       "political_file_type": {
-        "PA": 222965,
+        "PA": 222966,
         "NCIA": 123662
       }
     }
@@ -496,8 +496,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1782,
-    "processTime": 791,
-    "responseTime": 1792
+    "queryTime": 1779,
+    "processTime": 795,
+    "responseTime": 1796
   }
 }
