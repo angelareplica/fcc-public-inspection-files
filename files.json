@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 522549,
+    "numFound": 522551,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "90b976b3-70a1-8740-8b6e-d7e478eb96c2",
+        "file_id": "90b976b3-70a1-8740-8b6e-d7e478eb96c2",
+        "file_name": "DAVID MCCORMICK FOR SENATE 05-16-22 ORDER",
+        "file_extension": "pdf",
+        "file_size": 697870,
+        "file_status": "com_cpy",
+        "folder_id": "a791077b-3ff8-ed01-5996-a37dbc12f3a2",
+        "create_ts": "2022-03-04T13:39:10.528Z",
+        "last_update_ts": "2022-03-04T13:40:38.187Z",
+        "active_ind": "Y",
+        "file_manager_id": "dd866865-7d90-4460-bca4-fcfd567863f7",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/DAVID MCCORMICK FOR SENATE",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/DAVID MCCORMICK FOR SENATE/DAVID MCCORMICK FOR SENATE 05-16-22 ORDER",
+        "entity_id": "73375",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WOLF-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1726376733537468400,
+        "score": 0.24995685
+      },
+      {
+        "id": "20bfff2d-cecd-4f1b-cba0-7d726c5117c7",
+        "file_id": "20bfff2d-cecd-4f1b-cba0-7d726c5117c7",
+        "file_name": "DAVID MCCORMICK FOR SENATE 05-16-22 NAB",
+        "file_extension": "pdf",
+        "file_size": 677925,
+        "file_status": "com_cpy",
+        "folder_id": "a791077b-3ff8-ed01-5996-a37dbc12f3a2",
+        "create_ts": "2022-03-04T13:39:10.53Z",
+        "last_update_ts": "2022-03-04T13:39:02.149Z",
+        "active_ind": "Y",
+        "file_manager_id": "e8a0e886-d074-44aa-87ba-7b59d5570fac",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/DAVID MCCORMICK FOR SENATE",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/DAVID MCCORMICK FOR SENATE/DAVID MCCORMICK FOR SENATE 05-16-22 NAB",
+        "entity_id": "73375",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WOLF-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1726376733453582300,
+        "score": 0.24995685
+      },
       {
         "id": "aba4e5ac-7aba-5630-0b1a-04eb242c41e4",
         "file_id": "aba4e5ac-7aba-5630-0b1a-04eb242c41e4",
@@ -203,61 +253,12 @@
         "campaign_year": "2022",
         "_version_": 1726373637967052800,
         "score": 0.24995685
-      },
-      {
-        "id": "e9fb7f7f-3dd5-a1e7-a4d0-270011d319fc",
-        "file_id": "e9fb7f7f-3dd5-a1e7-a4d0-270011d319fc",
-        "file_name": "Dave McCormick C3429919 Rev1 041822",
-        "file_extension": "pdf",
-        "file_size": 38725,
-        "file_status": "com_cpy",
-        "folder_id": "5d1693a2-9839-c81c-b239-1c941ecec752",
-        "create_ts": "2022-03-04T12:29:58.861Z",
-        "last_update_ts": "2022-03-04T12:29:50.099Z",
-        "active_ind": "Y",
-        "file_manager_id": "9f39d919-7d37-42df-bc14-352ab429a6f6",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Dave McCormick for US Senate",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Dave McCormick for US Senate/Dave McCormick C3429919 Rev1 041822",
-        "entity_id": "23341",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "JOHNSTOWN-ALTOONA-ST COLGE",
-        "callsign": "WTAJ-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1726372379706261500,
-        "score": 0.24995685
-      },
-      {
-        "id": "0bd2c445-d2ea-c0f0-c894-140d6adfa09b",
-        "file_id": "0bd2c445-d2ea-c0f0-c894-140d6adfa09b",
-        "file_name": "Honor Pennsylvania PAC C3405814Rev 031522",
-        "file_extension": "pdf",
-        "file_size": 29266,
-        "file_status": "com_cpy",
-        "folder_id": "e2f20338-864d-087f-ba8f-2f4b5cb852a9",
-        "create_ts": "2022-03-04T12:29:13.772Z",
-        "last_update_ts": "2022-03-04T12:29:16.271Z",
-        "active_ind": "Y",
-        "file_manager_id": "10271138-a7b1-4e64-af6a-69d7b06a5419",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Honor Pennsylvania",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Honor Pennsylvania/Honor Pennsylvania PAC C3405814Rev 031522",
-        "entity_id": "23341",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "JOHNSTOWN-ALTOONA-ST COLGE",
-        "callsign": "WTAJ-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726372332464767000,
-        "score": 0.24995685
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8384,
-        "WILKES BARRE-SCRANTON": 7223,
+        "WILKES BARRE-SCRANTON": 7225,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7041,
         "LAS VEGAS": 6043,
         "WEST PALM BEACH-FT. PIERCE": 5813,
@@ -361,7 +362,7 @@
         "ABC": 57712,
         "NBC": 56590,
         "CBS": 38697,
-        "FOX": 27958,
+        "FOX": 27960,
         "PBS": 14403,
         "CW": 12069,
         "IND": 2989,
@@ -430,13 +431,13 @@
         "2019": 13960,
         "2020": 125584,
         "2021": 22574,
-        "2022": 6044,
+        "2022": 6046,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 67687,
-        "US Senate": 49692,
+        "US Senate": 49694,
         "US House": 41620,
         "Presidential": 38680,
         "Local": 24242
@@ -471,14 +472,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236851,
+        "TV": 236853,
         "CABLE": 126260,
         "FM": 112016,
         "AM": 42015,
         "DBS": 5407
       },
       "political_file_type": {
-        "PA": 222975,
+        "PA": 222977,
         "NCIA": 123664
       }
     }
@@ -495,8 +496,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1794,
-    "processTime": 803,
-    "responseTime": 1804
+    "queryTime": 1783,
+    "processTime": 791,
+    "responseTime": 1792
   }
 }
