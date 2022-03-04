@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 522673,
+    "numFound": 522675,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "a7e67e1f-63b0-cdfd-12b2-68d003accded",
+        "file_id": "a7e67e1f-63b0-cdfd-12b2-68d003accded",
+        "file_name": "PARKER FOR TX SD-12 02-14-22 to 03-06-22  est. #1307 order #1245767_Final Invoice_KXAS",
+        "file_extension": "pdf",
+        "file_size": 332541,
+        "file_status": "com_cpy",
+        "folder_id": "3a691bbd-c14e-0221-cb03-32b0380a8f22",
+        "create_ts": "2022-03-04T17:27:35.642Z",
+        "last_update_ts": "2022-03-04T17:29:03.661Z",
+        "active_ind": "Y",
+        "file_manager_id": "faef69ec-8541-48c8-9f25-4b8ea6c6cf0d",
+        "file_folder_path": "Political Files/2022/State/Texas Senate/Parker Tan",
+        "full_qualified_file_name": "Political Files/2022/State/Texas Senate/Parker Tan/PARKER FOR TX SD-12 02-14-22 to 03-06-22  est. #1307 order #1245767_Final Invoice_KXAS",
+        "entity_id": "49330",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "DALLAS-FT. WORTH",
+        "callsign": "KXAS-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726391104287277000,
+        "score": 0.24995685
+      },
+      {
+        "id": "c9050a5a-81e7-49cc-ae04-d8f3cb26dfba",
+        "file_id": "c9050a5a-81e7-49cc-ae04-d8f3cb26dfba",
+        "file_name": "PARKER FOR TX SD-12 02-14-22 to 03-06-22  est. #1307 order #1245767_Final Station Contract_KXAS",
+        "file_extension": "pdf",
+        "file_size": 354506,
+        "file_status": "com_cpy",
+        "folder_id": "3a691bbd-c14e-0221-cb03-32b0380a8f22",
+        "create_ts": "2022-03-04T17:27:35.639Z",
+        "last_update_ts": "2022-03-04T17:27:27.196Z",
+        "active_ind": "Y",
+        "file_manager_id": "00ebe9a6-00f6-4312-bbdd-838da0398c3b",
+        "file_folder_path": "Political Files/2022/State/Texas Senate/Parker Tan",
+        "full_qualified_file_name": "Political Files/2022/State/Texas Senate/Parker Tan/PARKER FOR TX SD-12 02-14-22 to 03-06-22  est. #1307 order #1245767_Final Station Contract_KXAS",
+        "entity_id": "49330",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "DALLAS-FT. WORTH",
+        "callsign": "KXAS-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726391104270499800,
+        "score": 0.24995685
+      },
       {
         "id": "e721e77f-8e56-8d37-7264-9631e37d172e",
         "file_id": "e721e77f-8e56-8d37-7264-9631e37d172e",
@@ -196,55 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1726390296748490800,
         "score": 0.24995685
-      },
-      {
-        "id": "619021bb-4b50-8853-2a60-2befb65e19dd",
-        "file_id": "619021bb-4b50-8853-2a60-2befb65e19dd",
-        "file_name": "SWAD FOR CONGRESS 02-23-22 to 03-01-22  est. #2634 order #1252750_ Final Invoice_KXAS",
-        "file_extension": "pdf",
-        "file_size": 342754,
-        "file_status": "com_cpy",
-        "folder_id": "c7e3fff2-7f9e-432d-32a8-519c2418ffdc",
-        "create_ts": "2022-03-04T17:14:45.384Z",
-        "last_update_ts": "2022-03-04T17:14:37.036Z",
-        "active_ind": "Y",
-        "file_manager_id": "3911b237-6fd8-4430-8ce6-3705ac6acaae",
-        "file_folder_path": "Political Files/2022/Federal/US House/Swad Antonio",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Swad Antonio/SWAD FOR CONGRESS 02-23-22 to 03-01-22  est. #2634 order #1252750_ Final Invoice_KXAS",
-        "entity_id": "49330",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "DALLAS-FT. WORTH",
-        "callsign": "KXAS-TV",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1726390296700256300,
-        "score": 0.24995685
-      },
-      {
-        "id": "3fd5a026-b809-573b-1d98-bb45129f0e21",
-        "file_id": "3fd5a026-b809-573b-1d98-bb45129f0e21",
-        "file_name": "PROTECT OUR FUTURE 02-22-22 to 03-01-22  est. #7512 order #1252002_Final Invoice_KXAS",
-        "file_extension": "pdf",
-        "file_size": 344690,
-        "file_status": "com_cpy",
-        "folder_id": "4bd4a3cf-308a-37a5-4d76-6f9a2ab02c65",
-        "create_ts": "2022-03-04T17:10:24.708Z",
-        "last_update_ts": "2022-03-04T17:11:52.855Z",
-        "active_ind": "Y",
-        "file_manager_id": "e2fa76c7-fbd1-4d70-935d-ab3b9dfd488d",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future/PROTECT OUR FUTURE 02-22-22 to 03-01-22  est. #7512 order #1252002_Final Invoice_KXAS",
-        "entity_id": "49330",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "DALLAS-FT. WORTH",
-        "callsign": "KXAS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726390023445545000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -327,7 +328,7 @@
         "PANAMA CITY": 859,
         "LANSING": 838,
         "INDIANAPOLIS": 829,
-        "DALLAS-FT. WORTH": 826,
+        "DALLAS-FT. WORTH": 828,
         "GREENVILLE-N.BERN-WASHNGTN": 802,
         "TULSA": 796,
         "HELENA": 780,
@@ -352,7 +353,7 @@
       },
       "network_affiliation": {
         "ABC": 57721,
-        "NBC": 56633,
+        "NBC": 56635,
         "CBS": 38701,
         "FOX": 27978,
         "PBS": 14403,
@@ -423,12 +424,12 @@
         "2019": 13960,
         "2020": 125582,
         "2021": 22575,
-        "2022": 6168,
+        "2022": 6170,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 67731,
+        "State": 67733,
         "US Senate": 49728,
         "US House": 41624,
         "Presidential": 38680,
@@ -464,14 +465,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 236944,
+        "TV": 236946,
         "CABLE": 126264,
         "FM": 112034,
         "AM": 42022,
         "DBS": 5409
       },
       "political_file_type": {
-        "PA": 223078,
+        "PA": 223080,
         "NCIA": 123684
       }
     }
@@ -488,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1838,
-    "processTime": 846,
-    "responseTime": 1846
+    "queryTime": 1843,
+    "processTime": 851,
+    "responseTime": 1852
   }
 }
