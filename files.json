@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 522748,
+    "numFound": 522749,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "4465ac09-5317-29a8-97a7-3ed0462d79d6",
+        "file_id": "4465ac09-5317-29a8-97a7-3ed0462d79d6",
+        "file_name": "2022 Channel Mom 03.04.22",
+        "file_extension": "pdf",
+        "file_size": 3078756,
+        "file_status": "com_cpy",
+        "folder_id": "f64366b5-0a25-a6e0-2307-e4f39c7f6454",
+        "create_ts": "2022-03-04T22:06:08.076Z",
+        "last_update_ts": "2022-03-04T22:06:00.048Z",
+        "active_ind": "Y",
+        "file_manager_id": "ed54958f-ea18-4603-8cd4-849ea0209a85",
+        "file_folder_path": "Time Brokerage Agreements",
+        "full_qualified_file_name": "Time Brokerage Agreements/2022 Channel Mom 03.04.22",
+        "entity_id": "20579",
+        "source_service_code": "FM",
+        "callsign": "KGFT",
+        "non_political_file_folder": "Time Brokerage Agreements",
+        "_version_": 1726408629012136000,
+        "score": 0.24995685
+      },
       {
         "id": "ce4617d7-5f7b-b2db-463a-1018877efb8f",
         "file_id": "ce4617d7-5f7b-b2db-463a-1018877efb8f",
@@ -219,31 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1726405545732079600,
         "score": 0.24995685
-      },
-      {
-        "id": "419f9f91-2364-16b3-7d92-7955e0dbea74",
-        "file_id": "419f9f91-2364-16b3-7d92-7955e0dbea74",
-        "file_name": "DAVID PERDUE 030422",
-        "file_extension": "pdf",
-        "file_size": 125261,
-        "file_status": "com_cpy",
-        "folder_id": "dc44a0f6-7dac-9907-bd28-773f9ab527f3",
-        "create_ts": "2022-03-04T21:15:28.278Z",
-        "last_update_ts": "2022-03-04T21:15:30.79Z",
-        "active_ind": "Y",
-        "file_manager_id": "bc8270af-4b44-4fcf-8edb-1979e366f00e",
-        "file_folder_path": "Political Files/2022/State/GOVERNOR GEORGIA/DAVID PERDUE",
-        "full_qualified_file_name": "Political Files/2022/State/GOVERNOR GEORGIA/DAVID PERDUE/DAVID PERDUE 030422",
-        "entity_id": "37174",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "SAVANNAH",
-        "callsign": "WJCL",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726405440724533200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -449,7 +445,7 @@
         "Class A TV Continuing Eligibility": 645,
         "Political Matters and Controversial Issues Disclosures": 597,
         "State and Local Franchising Related Materials": 484,
-        "Time Brokerage Agreements": 413,
+        "Time Brokerage Agreements": 414,
         "Channels Delivered": 275,
         "Compatibility with Consumer Electronics Equipment": 148,
         "Auction Transition Consumer Certification": 83,
@@ -465,7 +461,7 @@
       "source_service_code": {
         "TV": 237005,
         "CABLE": 126266,
-        "FM": 112043,
+        "FM": 112044,
         "AM": 42025,
         "DBS": 5409
       },
@@ -487,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1802,
-    "processTime": 811,
-    "responseTime": 1811
+    "queryTime": 1148,
+    "processTime": 156,
+    "responseTime": 1156
   }
 }
