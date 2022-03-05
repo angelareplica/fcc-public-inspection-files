@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 522801,
+    "numFound": 522802,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "1e210949-6f71-e483-f948-0ae71ea5fd24",
+        "file_id": "1e210949-6f71-e483-f948-0ae71ea5fd24",
+        "file_name": "Friends of Andrew CuomoNAB_3.4.22 (002)",
+        "file_extension": "pdf",
+        "file_size": 1595695,
+        "file_status": "com_cpy",
+        "folder_id": "1b2458fb-9840-ca6f-e2e6-621ce56dfc8d",
+        "create_ts": "2022-03-05T03:01:10.147Z",
+        "last_update_ts": "2022-03-05T03:01:13.266Z",
+        "active_ind": "Y",
+        "file_manager_id": "5e57bfb8-f0d9-4434-b96a-bf9581460f55",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/FRIENDS OF ANDREW CUOMO",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/FRIENDS OF ANDREW CUOMO/Friends of Andrew CuomoNAB_3.4.22 (002)",
+        "entity_id": "413",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "ROCHESTER NY",
+        "callsign": "WUHF",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726427190778658800,
+        "score": 0.24995685
+      },
       {
         "id": "a7e8bf60-aac8-4e91-be2a-e77bf1c38a90",
         "file_id": "a7e8bf60-aac8-4e91-be2a-e77bf1c38a90",
@@ -223,30 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1726417697626914800,
         "score": 0.24995685
-      },
-      {
-        "id": "9216eb5a-5f0a-4ec6-99d3-c14630565297",
-        "file_id": "9216eb5a-5f0a-4ec6-99d3-c14630565297",
-        "file_name": "Majority Forward 632888 3-4-22",
-        "file_extension": "pdf",
-        "file_size": 1918356,
-        "file_status": "com_cpy",
-        "folder_id": "4be7809a-591d-5948-2215-0ff886791475",
-        "create_ts": "2022-03-05T00:22:35.476Z",
-        "last_update_ts": "2022-03-05T00:22:38.696Z",
-        "active_ind": "Y",
-        "file_manager_id": "69381f3f-ccd3-4602-8cb0-fc4e0bed3b9b",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Majority Forward 632888 03-04-22",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Majority Forward 632888 03-04-22/Majority Forward 632888 3-4-22",
-        "entity_id": "51493",
-        "source_service_code": "TV",
-        "network_affiliation": "CW",
-        "nielsen_dma_rank": "RENO",
-        "callsign": "KREN-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726417214027858000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -356,7 +356,7 @@
         "ABC": 57746,
         "NBC": 56672,
         "CBS": 38718,
-        "FOX": 27980,
+        "FOX": 27981,
         "PBS": 14403,
         "CW": 12088,
         "IND": 2989,
@@ -425,7 +425,7 @@
         "2019": 13960,
         "2020": 125582,
         "2021": 22575,
-        "2022": 6290,
+        "2022": 6291,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -466,7 +466,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237051,
+        "TV": 237052,
         "CABLE": 126266,
         "FM": 112048,
         "AM": 42025,
@@ -474,7 +474,7 @@
       },
       "political_file_type": {
         "PA": 223171,
-        "NCIA": 123713
+        "NCIA": 123714
       }
     }
   },
@@ -490,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1820,
-    "processTime": 830,
-    "responseTime": 1830
+    "queryTime": 211,
+    "processTime": 221,
+    "responseTime": 221
   }
 }
