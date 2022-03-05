@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 522817,
+    "numFound": 522819,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "ebf34783-1dc9-e69a-b748-fac816bc01c5",
+        "file_id": "ebf34783-1dc9-e69a-b748-fac816bc01c5",
+        "file_name": "Pol M OZ R SSN PA_INVOICES_901586",
+        "file_extension": "pdf",
+        "file_size": 737249,
+        "file_status": "com_cpy",
+        "folder_id": "ae60ca62-3707-a938-4abc-46016c18a200",
+        "create_ts": "2022-03-05T23:19:19.757Z",
+        "last_update_ts": "2022-03-05T23:20:51.366Z",
+        "active_ind": "Y",
+        "file_manager_id": "f5bb0f64-3e09-4d30-912e-82b2ecc613a9",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/901586-124-0206",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/901586-124-0206/Pol M OZ R SSN PA_INVOICES_901586",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1726503830584033300,
+        "score": 0.24995685
+      },
+      {
+        "id": "382688dc-fc31-812a-1ced-b39fc1207335",
+        "file_id": "382688dc-fc31-812a-1ced-b39fc1207335",
+        "file_name": "Pol M OZ R SSN PA_FINAL_901586",
+        "file_extension": "pdf",
+        "file_size": 333778,
+        "file_status": "com_cpy",
+        "folder_id": "ae60ca62-3707-a938-4abc-46016c18a200",
+        "create_ts": "2022-03-05T23:19:19.619Z",
+        "last_update_ts": "2022-03-05T23:20:51.344Z",
+        "active_ind": "Y",
+        "file_manager_id": "0de10086-623e-47a3-817f-c92097109e01",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/901586-124-0206",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/901586-124-0206/Pol M OZ R SSN PA_FINAL_901586",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1726503830569353200,
+        "score": 0.24995685
+      },
       {
         "id": "84a07157-be60-6735-4696-83761615ab13",
         "file_id": "84a07157-be60-6735-4696-83761615ab13",
@@ -194,48 +244,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1726479081511321600,
         "score": 0.24995685
-      },
-      {
-        "id": "5e166890-fd30-21d9-292a-a7d524ded1cf",
-        "file_id": "5e166890-fd30-21d9-292a-a7d524ded1cf",
-        "file_name": "2022-01 Donor List Specific Programs",
-        "file_extension": "pdf",
-        "file_size": 68302,
-        "file_status": "com_cpy",
-        "folder_id": "04dccc86-d63a-f040-ae6d-414aae4109fa",
-        "create_ts": "2022-03-05T16:45:57.601Z",
-        "last_update_ts": "2022-03-05T16:45:48.68Z",
-        "active_ind": "Y",
-        "file_manager_id": "88b5206c-ce24-41d6-b89e-baff1884cb32",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/2022",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/2022/2022-01 Donor List Specific Programs",
-        "entity_id": "91803",
-        "source_service_code": "FM",
-        "callsign": "WURI",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1726479081554313200,
-        "score": 0.24995685
-      },
-      {
-        "id": "a1be573f-3c73-91f1-54b2-c2b100aa90b8",
-        "file_id": "a1be573f-3c73-91f1-54b2-c2b100aa90b8",
-        "file_name": "2022-02 Donor List",
-        "file_extension": "pdf",
-        "file_size": 31576,
-        "file_status": "com_cpy",
-        "folder_id": "f06beed1-e266-73fa-c476-1cc06df8f5bb",
-        "create_ts": "2022-03-05T16:40:48.243Z",
-        "last_update_ts": "2022-03-05T16:42:18.69Z",
-        "active_ind": "Y",
-        "file_manager_id": "6aeb36ea-cfe5-4e49-8689-30a39f4174db",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/2022-02 Donor List",
-        "entity_id": "172306",
-        "source_service_code": "FM",
-        "callsign": "WUNW-FM",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1726478757135384600,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -245,7 +253,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7041,
         "LAS VEGAS": 6051,
         "WEST PALM BEACH-FT. PIERCE": 5813,
-        "PITTSBURGH": 5620,
+        "PITTSBURGH": 5622,
         "HONOLULU": 5211,
         "DULUTH-SUPERIOR": 4655,
         "CHARLESTON-HUNTINGTON": 4332,
@@ -343,7 +351,7 @@
       },
       "network_affiliation": {
         "ABC": 57746,
-        "NBC": 56679,
+        "NBC": 56681,
         "CBS": 38718,
         "FOX": 27981,
         "PBS": 14403,
@@ -414,13 +422,13 @@
         "2019": 13960,
         "2020": 125582,
         "2021": 22575,
-        "2022": 6298,
+        "2022": 6300,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 67780,
-        "US Senate": 49739,
+        "US Senate": 49741,
         "US House": 41643,
         "Presidential": 38680,
         "Local": 24276
@@ -455,14 +463,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237059,
+        "TV": 237061,
         "CABLE": 126266,
         "FM": 112056,
         "AM": 42025,
         "DBS": 5411
       },
       "political_file_type": {
-        "PA": 223173,
+        "PA": 223175,
         "NCIA": 123719
       }
     }
@@ -479,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 227,
-    "processTime": 234,
-    "responseTime": 235
+    "queryTime": 1801,
+    "processTime": 810,
+    "responseTime": 1811
   }
 }
