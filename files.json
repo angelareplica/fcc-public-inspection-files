@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 523081,
+    "numFound": 523082,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "98daacca-1fe7-f236-64bd-0d52ade6b654",
+        "file_id": "98daacca-1fe7-f236-64bd-0d52ade6b654",
+        "file_name": "James Lankford for US Senate 02.13.22-03.02.22 #136658 KOTV",
+        "file_extension": "pdf",
+        "file_size": 1483347,
+        "file_status": "com_cpy",
+        "folder_id": "5e5a1990-3a8b-8cb0-d27d-c10c4425bb6f",
+        "create_ts": "2022-03-07T23:29:18.423Z",
+        "last_update_ts": "2022-03-07T23:30:55.588Z",
+        "active_ind": "Y",
+        "file_manager_id": "77720488-8a2e-4975-b9e9-15665ab3150a",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/James Lankford for US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/James Lankford for US Senate/James Lankford for US Senate 02.13.22-03.02.22 #136658 KOTV",
+        "entity_id": "35434",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "TULSA",
+        "callsign": "KOTV-DT",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1726685652466008000,
+        "score": 0.24995685
+      },
       {
         "id": "de45f1aa-9030-3c43-657d-5dd75b2eacfd",
         "file_id": "de45f1aa-9030-3c43-657d-5dd75b2eacfd",
@@ -223,30 +248,6 @@
         "campaign_year": "2022",
         "_version_": 1726683498975068200,
         "score": 0.24995685
-      },
-      {
-        "id": "4024f54e-f7b8-70b5-6f97-3884a22ad59d",
-        "file_id": "4024f54e-f7b8-70b5-6f97-3884a22ad59d",
-        "file_name": "AARP 03.08.22 - 03.14.22 989430 Order",
-        "file_extension": "pdf",
-        "file_size": 27565,
-        "file_status": "com_cpy",
-        "folder_id": "f0ceb806-bd70-ca8b-4890-065c755f1468",
-        "create_ts": "2022-03-07T22:54:16.549Z",
-        "last_update_ts": "2022-03-07T22:54:19.128Z",
-        "active_ind": "Y",
-        "file_manager_id": "325c6b14-85b7-4600-8ec8-2eac3fd0db08",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/AARP",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/AARP/AARP 03.08.22 - 03.14.22 989430 Order",
-        "entity_id": "74100",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KTNV-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726683447899979800,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -331,7 +332,7 @@
         "LANSING": 839,
         "INDIANAPOLIS": 829,
         "GREENVILLE-N.BERN-WASHNGTN": 802,
-        "TULSA": 796,
+        "TULSA": 797,
         "HELENA": 780,
         "TWIN FALLS": 749,
         "DAYTON": 746,
@@ -355,7 +356,7 @@
       "network_affiliation": {
         "ABC": 57780,
         "NBC": 56770,
-        "CBS": 38725,
+        "CBS": 38726,
         "FOX": 27992,
         "PBS": 14403,
         "CW": 12089,
@@ -425,13 +426,13 @@
         "2019": 13960,
         "2020": 125546,
         "2021": 22576,
-        "2022": 6551,
+        "2022": 6552,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 67841,
-        "US Senate": 49840,
+        "US Senate": 49841,
         "US House": 41645,
         "Presidential": 38679,
         "Local": 24281
@@ -466,14 +467,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237208,
+        "TV": 237209,
         "CABLE": 126271,
         "FM": 112143,
         "AM": 42045,
         "DBS": 5414
       },
       "political_file_type": {
-        "PA": 223341,
+        "PA": 223342,
         "NCIA": 123768
       }
     }
@@ -490,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1789,
-    "processTime": 797,
-    "responseTime": 1798
+    "queryTime": 210,
+    "processTime": 218,
+    "responseTime": 218
   }
 }
