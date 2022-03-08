@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 523130,
+    "numFound": 523131,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "4aa440bc-fd2c-350e-95a3-06aece7a3cb3",
+        "file_id": "4aa440bc-fd2c-350e-95a3-06aece7a3cb3",
+        "file_name": "Human Rights Campaign est-005638- KBFX",
+        "file_extension": "pdf",
+        "file_size": 1761519,
+        "file_status": "com_cpy",
+        "folder_id": "b991a390-b7b0-05f6-cc6d-83c1373f6450",
+        "create_ts": "2022-03-08T02:46:26.608Z",
+        "last_update_ts": "2022-03-08T02:46:29.803Z",
+        "active_ind": "Y",
+        "file_manager_id": "fd83c096-9f65-4e0b-b505-7a84b7e5eacd",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Human Rights Campaign",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Human Rights Campaign/Human Rights Campaign est-005638- KBFX",
+        "entity_id": "51501",
+        "source_service_code": "TV",
+        "callsign": "KBFX-CD",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726698055285080000,
+        "score": 0.24995685
+      },
       {
         "id": "03fdda3a-7ff2-6667-051b-d5ecb28d9e5f",
         "file_id": "03fdda3a-7ff2-6667-051b-d5ecb28d9e5f",
@@ -202,28 +224,6 @@
         "campaign_year": "2022",
         "_version_": 1726688746114384000,
         "score": 0.24995685
-      },
-      {
-        "id": "6b0fd1ea-5ec2-a78c-9cc6-8cf7a4928ad5",
-        "file_id": "6b0fd1ea-5ec2-a78c-9cc6-8cf7a4928ad5",
-        "file_name": "WILKAM-Political Inv 022022",
-        "file_extension": "pdf",
-        "file_size": 27896,
-        "file_status": "com_cpy",
-        "folder_id": "7458f05d-2536-9644-8101-4c6a1a2749aa",
-        "create_ts": "2022-03-08T00:12:49.235Z",
-        "last_update_ts": "2022-03-08T00:12:51.762Z",
-        "active_ind": "Y",
-        "file_manager_id": "ea1b9ac1-8505-42d1-a72d-35bc4af36fdf",
-        "file_folder_path": "Political Files/2022/Terms and Disclosures/Invoices",
-        "full_qualified_file_name": "Political Files/2022/Terms and Disclosures/Invoices/WILKAM-Political Inv 022022",
-        "entity_id": "22667",
-        "source_service_code": "AM",
-        "callsign": "WODS",
-        "political_file_type": "PA",
-        "campaign_year": "2022",
-        "_version_": 1726688389459083300,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -402,7 +402,7 @@
         "2019": 13960,
         "2020": 125545,
         "2021": 22576,
-        "2022": 6601,
+        "2022": 6602,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -443,7 +443,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237212,
+        "TV": 237213,
         "CABLE": 126271,
         "FM": 112168,
         "AM": 42065,
@@ -451,7 +451,7 @@
       },
       "political_file_type": {
         "PA": 223386,
-        "NCIA": 123772
+        "NCIA": 123773
       }
     }
   },
@@ -467,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 210,
-    "processTime": 220,
-    "responseTime": 220
+    "queryTime": 211,
+    "processTime": 218,
+    "responseTime": 218
   }
 }
