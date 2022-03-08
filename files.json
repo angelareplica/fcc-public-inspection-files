@@ -13,7 +13,7 @@
         "file_status": "com_cpy",
         "folder_id": "c20ed37f-f68a-90f7-6d72-23355919a457",
         "create_ts": "2022-03-08T01:27:33.561Z",
-        "last_update_ts": "2022-03-08T01:29:10.378Z",
+        "last_update_ts": "2022-03-08T01:40:06.423Z",
         "active_ind": "Y",
         "file_manager_id": "883510e3-f94a-4da3-9cd6-ffdcf94d315b",
         "file_folder_path": "Political Files/2022/State/Americas PAC - NV/Order",
@@ -24,7 +24,7 @@
         "political_file_type": "PA",
         "office_type": "State",
         "campaign_year": "2022",
-        "_version_": 1726693091670229000,
+        "_version_": 1726693779564396500,
         "score": 0.24995685
       },
       {
@@ -467,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1799,
-    "processTime": 807,
-    "responseTime": 1807
+    "queryTime": 210,
+    "processTime": 220,
+    "responseTime": 220
   }
 }
