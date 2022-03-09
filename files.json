@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 523696,
+    "numFound": 523697,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "9388a428-b1cf-1df3-786b-9753a67096e9",
+        "file_id": "9388a428-b1cf-1df3-786b-9753a67096e9",
+        "file_name": "AARP 03.08.22-03.14.22 989430 Ord Rev",
+        "file_extension": "pdf",
+        "file_size": 30730,
+        "file_status": "com_cpy",
+        "folder_id": "f0ceb806-bd70-ca8b-4890-065c755f1468",
+        "create_ts": "2022-03-09T22:29:28.255Z",
+        "last_update_ts": "2022-03-09T22:29:18.328Z",
+        "active_ind": "Y",
+        "file_manager_id": "8e52428c-a9ff-4aa2-af96-3df295d58f9d",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/AARP",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/AARP/AARP 03.08.22-03.14.22 989430 Ord Rev",
+        "entity_id": "74100",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KTNV-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726863081201467400,
+        "score": 0.24995685
+      },
       {
         "id": "3269fb36-fe54-85d8-4a27-e7e9b5c79e6a",
         "file_id": "3269fb36-fe54-85d8-4a27-e7e9b5c79e6a",
@@ -222,30 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1726860211373736000,
         "score": 0.24995685
-      },
-      {
-        "id": "c7ec5764-a881-66c9-5a3e-b09ff3359f75",
-        "file_id": "c7ec5764-a881-66c9-5a3e-b09ff3359f75",
-        "file_name": "Conservative Voice of America PB19 030922",
-        "file_extension": "pdf",
-        "file_size": 798814,
-        "file_status": "com_cpy",
-        "folder_id": "2793b416-bcad-86f9-3ae4-7164e62547be",
-        "create_ts": "2022-03-09T21:41:28.023Z",
-        "last_update_ts": "2022-03-09T21:41:32.555Z",
-        "active_ind": "Y",
-        "file_manager_id": "c9bdff30-42ce-4f97-87c4-3561554b2b2b",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Conservative Voice of America",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Conservative Voice of America/Conservative Voice of America PB19 030922",
-        "entity_id": "35954",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SHERMAN-ADA",
-        "callsign": "KXII",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726860061608771600,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -253,7 +253,7 @@
         "DES MOINES-AMES": 8384,
         "WILKES BARRE-SCRANTON": 7259,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7041,
-        "LAS VEGAS": 6062,
+        "LAS VEGAS": 6063,
         "WEST PALM BEACH-FT. PIERCE": 5813,
         "PITTSBURGH": 5680,
         "HONOLULU": 5211,
@@ -352,7 +352,7 @@
         "HOUSTON": 540
       },
       "network_affiliation": {
-        "ABC": 57833,
+        "ABC": 57834,
         "NBC": 56796,
         "CBS": 38775,
         "FOX": 28047,
@@ -424,7 +424,7 @@
         "2019": 13960,
         "2020": 125528,
         "2021": 22596,
-        "2022": 7119,
+        "2022": 7120,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -465,7 +465,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237402,
+        "TV": 237403,
         "CABLE": 126491,
         "FM": 112274,
         "AM": 42110,
@@ -473,7 +473,7 @@
       },
       "political_file_type": {
         "PA": 223804,
-        "NCIA": 123875
+        "NCIA": 123876
       }
     }
   },
@@ -489,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1821,
-    "processTime": 829,
-    "responseTime": 1829
+    "queryTime": 1787,
+    "processTime": 796,
+    "responseTime": 1797
   }
 }
