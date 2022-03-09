@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 523633,
+    "numFound": 523634,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "a2ceddb1-c6b9-526d-2f4e-bfcdf0862bfc",
+        "file_id": "a2ceddb1-c6b9-526d-2f4e-bfcdf0862bfc",
+        "file_name": "AB FOUNDATION NAB 03-16-2021",
+        "file_extension": "pdf",
+        "file_size": 1052250,
+        "file_status": "com_cpy",
+        "folder_id": "4bba3b1e-96ac-e8e8-c1c2-8b386e4155cd",
+        "create_ts": "2022-03-09T18:31:51.403Z",
+        "last_update_ts": "2022-03-09T18:31:41.975Z",
+        "active_ind": "Y",
+        "file_manager_id": "1766cc7f-a474-4a0e-a804-ac2308c5ec7f",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AB FOUNDATION",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AB FOUNDATION/AB FOUNDATION NAB 03-16-2021",
+        "entity_id": "021654",
+        "source_service_code": "CABLE",
+        "legal_name": "EAGLE BROADBAND INVESTMENTS, LLC",
+        "operator_city_name": "RYE BROOK",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1726848134433210400,
+        "score": 0.24995685
+      },
       {
         "id": "9238469f-7637-0efe-017f-22f7a860aabb",
         "file_id": "9238469f-7637-0efe-017f-22f7a860aabb",
@@ -228,31 +252,6 @@
         "campaign_year": "2022",
         "_version_": 1726843898617135000,
         "score": 0.24995685
-      },
-      {
-        "id": "b7a60833-347d-2289-7b61-dfdfaafb7b4e",
-        "file_id": "b7a60833-347d-2289-7b61-dfdfaafb7b4e",
-        "file_name": "Suozzi-NAB_ORD22-000603_20220121_00002",
-        "file_extension": "pdf",
-        "file_size": 123076,
-        "file_status": "com_cpy",
-        "folder_id": "c2c28023-d915-0de5-eb0c-6895a36605c9",
-        "create_ts": "2022-03-09T17:23:08.259Z",
-        "last_update_ts": "2022-03-09T17:23:11.781Z",
-        "active_ind": "Y",
-        "file_manager_id": "8694b6cd-55c4-4a5e-8f92-85beb8bfbcf5",
-        "file_folder_path": "Political Files/2022/State/Suozzi for NY-NYI",
-        "full_qualified_file_name": "Political Files/2022/State/Suozzi for NY-NYI/Suozzi-NAB_ORD22-000603_20220121_00002",
-        "entity_id": "005501",
-        "source_service_code": "CABLE",
-        "legal_name": "CSC NC, LLC",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726843808392413200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -430,7 +429,7 @@
         "2018": 67683,
         "2019": 13960,
         "2020": 125534,
-        "2021": 22588,
+        "2021": 22589,
         "2022": 7060,
         "KYAZ": 5,
         "Fede": 1
@@ -473,14 +472,14 @@
       },
       "source_service_code": {
         "TV": 237365,
-        "CABLE": 126479,
+        "CABLE": 126480,
         "FM": 112265,
         "AM": 42105,
         "DBS": 5419
       },
       "political_file_type": {
         "PA": 223772,
-        "NCIA": 123846
+        "NCIA": 123847
       }
     }
   },
@@ -496,8 +495,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1797,
-    "processTime": 806,
-    "responseTime": 1806
+    "queryTime": 1812,
+    "processTime": 820,
+    "responseTime": 1820
   }
 }
