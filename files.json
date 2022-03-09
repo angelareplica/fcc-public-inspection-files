@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 523540,
+    "numFound": 523542,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "b3ab9d2f-bda0-8a23-024b-f72b7ad2bf97",
+        "file_id": "b3ab9d2f-bda0-8a23-024b-f72b7ad2bf97",
+        "file_name": "WPKL-FM Political Rate Card Primary 2022 030822",
+        "file_extension": "pdf",
+        "file_size": 663024,
+        "file_status": "com_cpy",
+        "folder_id": "51b6fd85-65d4-aaf6-de7b-ab3f19598f4e",
+        "create_ts": "2022-03-09T13:09:35.917Z",
+        "last_update_ts": "2022-03-09T13:09:39.225Z",
+        "active_ind": "Y",
+        "file_manager_id": "ad54b83e-09c7-4a04-93eb-07a2546eb71e",
+        "file_folder_path": "Political Files/2022/Terms and Disclosures",
+        "full_qualified_file_name": "Political Files/2022/Terms and Disclosures/WPKL-FM Political Rate Card Primary 2022 030822",
+        "entity_id": "33828",
+        "source_service_code": "FM",
+        "callsign": "WPKL",
+        "political_file_type": "PA",
+        "campaign_year": "2022",
+        "_version_": 1726827857397678000,
+        "score": 0.24995685
+      },
+      {
+        "id": "60db600d-5901-b07e-af7d-ffb475f04f35",
+        "file_id": "60db600d-5901-b07e-af7d-ffb475f04f35",
+        "file_name": "Political Disclosure Statement 2022 Brownsville 022122",
+        "file_extension": "pdf",
+        "file_size": 380482,
+        "file_status": "com_cpy",
+        "folder_id": "51b6fd85-65d4-aaf6-de7b-ab3f19598f4e",
+        "create_ts": "2022-03-09T13:09:35.223Z",
+        "last_update_ts": "2022-03-09T13:09:25.659Z",
+        "active_ind": "Y",
+        "file_manager_id": "69bf8651-c0c3-46ac-b93c-bd15649e8dbf",
+        "file_folder_path": "Political Files/2022/Terms and Disclosures",
+        "full_qualified_file_name": "Political Files/2022/Terms and Disclosures/Political Disclosure Statement 2022 Brownsville 022122",
+        "entity_id": "33828",
+        "source_service_code": "FM",
+        "callsign": "WPKL",
+        "political_file_type": "PA",
+        "campaign_year": "2022",
+        "_version_": 1726827856651092000,
+        "score": 0.24995685
+      },
       {
         "id": "e5f3d01a-6def-954e-4989-dcf7724c0684",
         "file_id": "e5f3d01a-6def-954e-4989-dcf7724c0684",
@@ -192,55 +236,6 @@
         "campaign_year": "2022",
         "_version_": 1726780925591683000,
         "score": 0.24995685
-      },
-      {
-        "id": "6d1b8ae6-a0e6-b9ca-9583-0defc390efaa",
-        "file_id": "6d1b8ae6-a0e6-b9ca-9583-0defc390efaa",
-        "file_name": "CCMA 0308-0314 - 3437658  NAB",
-        "file_extension": "pdf",
-        "file_size": 3101808,
-        "file_status": "com_cpy",
-        "folder_id": "561b9629-db38-8367-66ed-aa5529e6ccf4",
-        "create_ts": "2022-03-09T00:24:57.134Z",
-        "last_update_ts": "2022-03-09T00:25:00.52Z",
-        "active_ind": "Y",
-        "file_manager_id": "975d5a1c-3b86-4728-8ab5-12132a6ed1cd",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Catherine Cortez Masto/NAB",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Catherine Cortez Masto/NAB/CCMA 0308-0314 - 3437658  NAB",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1726779750571049000,
-        "score": 0.24995685
-      },
-      {
-        "id": "8c5e9440-6cdc-dbbe-77bd-0ad07d322027",
-        "file_id": "8c5e9440-6cdc-dbbe-77bd-0ad07d322027",
-        "file_name": "NAB_ SEIU ORD22-000615_20220128_00001",
-        "file_extension": "pdf",
-        "file_size": 156476,
-        "file_status": "com_cpy",
-        "folder_id": "9eccf0e0-6b9c-5ef5-5193-a2956b4f97f6",
-        "create_ts": "2022-03-09T00:21:08.107Z",
-        "last_update_ts": "2022-03-09T00:21:09.707Z",
-        "active_ind": "Y",
-        "file_manager_id": "47bdbecb-6409-4a39-9385-fd589067b633",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Service Employee Int UnionSEIU 2022/NAB",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Service Employee Int UnionSEIU 2022/NAB/NAB_ SEIU ORD22-000615_20220128_00001",
-        "entity_id": "35486",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
-        "callsign": "KPNX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726779509638692900,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -419,7 +414,7 @@
         "2019": 13960,
         "2020": 125534,
         "2021": 22583,
-        "2022": 6973,
+        "2022": 6975,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -462,12 +457,12 @@
       "source_service_code": {
         "TV": 237331,
         "CABLE": 126446,
-        "FM": 112242,
+        "FM": 112244,
         "AM": 42102,
         "DBS": 5419
       },
       "political_file_type": {
-        "PA": 223696,
+        "PA": 223698,
         "NCIA": 123830
       }
     }
@@ -484,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1779,
-    "processTime": 787,
-    "responseTime": 1787
+    "queryTime": 1782,
+    "processTime": 791,
+    "responseTime": 1791
   }
 }
