@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 523539,
+    "numFound": 523540,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "e5f3d01a-6def-954e-4989-dcf7724c0684",
+        "file_id": "e5f3d01a-6def-954e-4989-dcf7724c0684",
+        "file_name": "EKTV Pol Issue - Friends of Andrew Cuomo - ROI Advertising - 03-13",
+        "file_extension": "pdf",
+        "file_size": 297029,
+        "file_status": "com_cpy",
+        "folder_id": "28881420-ff51-9d88-04df-dd6a66febf30",
+        "create_ts": "2022-03-09T12:33:33.813Z",
+        "last_update_ts": "2022-03-09T12:33:36.962Z",
+        "active_ind": "Y",
+        "file_manager_id": "174cd697-09d3-41fa-975d-6588733e1db6",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/EKTV Pol Issue - Friends of Andrew Cuomo - ROI Advertising - 03-13",
+        "entity_id": "60654",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "UTICA",
+        "callsign": "WKTV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726825590172942300,
+        "score": 0.24995685
+      },
       {
         "id": "929c8cb5-1c10-c169-c57d-8620ede1c59d",
         "file_id": "929c8cb5-1c10-c169-c57d-8620ede1c59d",
@@ -217,30 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1726779509638692900,
         "score": 0.24995685
-      },
-      {
-        "id": "73af74aa-9984-7856-3135-f36b7e9ce6eb",
-        "file_id": "73af74aa-9984-7856-3135-f36b7e9ce6eb",
-        "file_name": "Republican Governors Association 03-08-2022-Accepted",
-        "file_extension": "pdf",
-        "file_size": 51999,
-        "file_status": "com_cpy",
-        "folder_id": "cb98c1a5-11eb-ab0d-60ec-afd67a222705",
-        "create_ts": "2022-03-09T00:09:20.523Z",
-        "last_update_ts": "2022-03-09T00:09:21.948Z",
-        "active_ind": "Y",
-        "file_manager_id": "a694ef13-2225-480f-a9db-76bbd63f5c0d",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Republican Governors Association",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Republican Governors Association/Republican Governors Association 03-08-2022-Accepted",
-        "entity_id": "59440",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
-        "callsign": "KNXV-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726778767515320300,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -348,7 +348,7 @@
       },
       "network_affiliation": {
         "ABC": 57815,
-        "NBC": 56784,
+        "NBC": 56785,
         "CBS": 38754,
         "FOX": 28034,
         "PBS": 14406,
@@ -419,7 +419,7 @@
         "2019": 13960,
         "2020": 125534,
         "2021": 22583,
-        "2022": 6972,
+        "2022": 6973,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -460,7 +460,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237330,
+        "TV": 237331,
         "CABLE": 126446,
         "FM": 112242,
         "AM": 42102,
@@ -468,7 +468,7 @@
       },
       "political_file_type": {
         "PA": 223696,
-        "NCIA": 123829
+        "NCIA": 123830
       }
     }
   },
@@ -484,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 217,
-    "responseTime": 217
+    "queryTime": 1779,
+    "processTime": 787,
+    "responseTime": 1787
   }
 }
