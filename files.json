@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 523542,
+    "numFound": 523544,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "f5caf521-db17-b676-d0d0-802f1085a22d",
+        "file_id": "f5caf521-db17-b676-d0d0-802f1085a22d",
+        "file_name": "NC Warn NAB signed 3-02-22",
+        "file_extension": "pdf",
+        "file_size": 2688615,
+        "file_status": "com_cpy",
+        "folder_id": "fae7b91d-7142-baae-6c74-186c226cde9f",
+        "create_ts": "2022-03-09T13:40:36.595Z",
+        "last_update_ts": "2022-03-09T13:40:40.049Z",
+        "active_ind": "Y",
+        "file_manager_id": "1c4ba4e1-5166-4a21-a591-4fd0264d45e3",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/NC Warn",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/NC Warn/NC Warn NAB signed 3-02-22",
+        "entity_id": "56537",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "GREENVLL-SPART-ASHEVLL-AND",
+        "callsign": "WLOS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726829809088069600,
+        "score": 0.24995685
+      },
+      {
+        "id": "511df088-bffb-bdeb-d9b1-dcb54e4302f0",
+        "file_id": "511df088-bffb-bdeb-d9b1-dcb54e4302f0",
+        "file_name": "wlos.com-NC Warn Q1-Q2 2022 insertion ORDER 3-07-22",
+        "file_extension": "doc",
+        "file_size": 38400,
+        "file_status": "com_prc",
+        "folder_id": "fae7b91d-7142-baae-6c74-186c226cde9f",
+        "create_ts": "2022-03-09T13:40:34.771Z",
+        "last_update_ts": "2022-03-09T13:40:39.421Z",
+        "active_ind": "Y",
+        "file_manager_id": "de5d5af3-36bb-42b6-9c8a-6686e59cdb0b",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/NC Warn",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/NC Warn/wlos.com-NC Warn Q1-Q2 2022 insertion ORDER 3-07-22",
+        "entity_id": "56537",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "GREENVLL-SPART-ASHEVLL-AND",
+        "callsign": "WLOS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726829808445292500,
+        "score": 0.24995685
+      },
       {
         "id": "b3ab9d2f-bda0-8a23-024b-f72b7ad2bf97",
         "file_id": "b3ab9d2f-bda0-8a23-024b-f72b7ad2bf97",
@@ -189,53 +237,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1726781356996821000,
         "score": 0.24995685
-      },
-      {
-        "id": "993a476c-884e-49b2-2158-20e01336425c",
-        "file_id": "993a476c-884e-49b2-2158-20e01336425c",
-        "file_name": "02.2022 KNPB Sold Inventory",
-        "file_extension": "pdf",
-        "file_size": 43195,
-        "file_status": "com_cpy",
-        "folder_id": "7c8be13f-8714-b9e2-d1cc-c8134564339f",
-        "create_ts": "2022-03-09T00:50:30.136Z",
-        "last_update_ts": "2022-03-09T00:50:31.673Z",
-        "active_ind": "Y",
-        "file_manager_id": "31ccc712-8122-4291-a5fa-d59091e91286",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/Donor Lists-2022",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/Donor Lists-2022/02.2022 KNPB Sold Inventory",
-        "entity_id": "10228",
-        "source_service_code": "TV",
-        "network_affiliation": "PBS",
-        "nielsen_dma_rank": "RENO",
-        "callsign": "KNPB",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1726781357128941600,
-        "score": 0.24995685
-      },
-      {
-        "id": "5429f079-c289-a8a4-5c90-0341ae3f071f",
-        "file_id": "5429f079-c289-a8a4-5c90-0341ae3f071f",
-        "file_name": "AARP 0308-0315 -  3437507  NAB",
-        "file_extension": "pdf",
-        "file_size": 4874160,
-        "file_status": "com_cpy",
-        "folder_id": "e848e378-c17a-e9cb-4237-063495cac3ec",
-        "create_ts": "2022-03-09T00:43:37.051Z",
-        "last_update_ts": "2022-03-09T00:43:41.101Z",
-        "active_ind": "Y",
-        "file_manager_id": "82e1bb89-71fb-4998-b59b-5aa342fa2f3f",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/AARP/NAB",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/AARP/NAB/AARP 0308-0315 -  3437507  NAB",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726780925591683000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -287,7 +288,7 @@
         "ROCKFORD": 1715,
         "LINCOLN & HASTINGS-KRNY": 1635,
         "MADISON": 1570,
-        "GREENVLL-SPART-ASHEVLL-AND": 1557,
+        "GREENVLL-SPART-ASHEVLL-AND": 1559,
         "PHOENIX (PRESCOTT)": 1514,
         "BINGHAMTON": 1496,
         "MINOT-BISMARCK-DICKINSON": 1459,
@@ -342,7 +343,7 @@
         "HOUSTON": 539
       },
       "network_affiliation": {
-        "ABC": 57815,
+        "ABC": 57817,
         "NBC": 56785,
         "CBS": 38754,
         "FOX": 28034,
@@ -414,7 +415,7 @@
         "2019": 13960,
         "2020": 125534,
         "2021": 22583,
-        "2022": 6975,
+        "2022": 6977,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -455,7 +456,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237331,
+        "TV": 237333,
         "CABLE": 126446,
         "FM": 112244,
         "AM": 42102,
@@ -463,7 +464,7 @@
       },
       "political_file_type": {
         "PA": 223698,
-        "NCIA": 123830
+        "NCIA": 123832
       }
     }
   },
@@ -479,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1782,
-    "processTime": 791,
-    "responseTime": 1791
+    "queryTime": 1781,
+    "processTime": 789,
+    "responseTime": 1790
   }
 }
