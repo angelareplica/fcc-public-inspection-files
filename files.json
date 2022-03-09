@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 523631,
+    "numFound": 523633,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "9238469f-7637-0efe-017f-22f7a860aabb",
+        "file_id": "9238469f-7637-0efe-017f-22f7a860aabb",
+        "file_name": "ZELDIN 2022 NAB - Candidate Advertisement Agreement Form - 2022 03 09 signed",
+        "file_extension": "pdf",
+        "file_size": 1113295,
+        "file_status": "com_cpy",
+        "folder_id": "c462771f-e9e3-9866-d20f-da0bb829bc25",
+        "create_ts": "2022-03-09T18:28:36.95Z",
+        "last_update_ts": "2022-03-09T18:28:27.636Z",
+        "active_ind": "Y",
+        "file_manager_id": "ff375142-dc47-4349-8145-6897e0f24fd2",
+        "file_folder_path": "Political Files/2022/State/Governor/Lee Zeldin for Governor",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Lee Zeldin for Governor/ZELDIN 2022 NAB - Candidate Advertisement Agreement Form - 2022 03 09 signed",
+        "entity_id": "73363",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "ALBANY-SCHENECTADY-TROY",
+        "callsign": "WNYT",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726847928512807000,
+        "score": 0.24995685
+      },
+      {
+        "id": "9b18fb33-67d6-df6f-4bfc-d383c5b1226e",
+        "file_id": "9b18fb33-67d6-df6f-4bfc-d383c5b1226e",
+        "file_name": "2231391-MAR07-MAR27-EST1468-KETV-R1",
+        "file_extension": "pdf",
+        "file_size": 145537,
+        "file_status": "com_cpy",
+        "folder_id": "69c484fe-5efa-26d5-04fb-e9708a6902d9",
+        "create_ts": "2022-03-09T18:07:06.274Z",
+        "last_update_ts": "2022-03-09T18:07:08.914Z",
+        "active_ind": "Y",
+        "file_manager_id": "a2cb430a-881f-48e7-b61a-4622a300a803",
+        "file_folder_path": "Political Files/2022/State/BRETT LINDSTROM FOR GOVERNOR/MARCH 2022/2231391-MAR-07-MAR27-EST1468-KETV",
+        "full_qualified_file_name": "Political Files/2022/State/BRETT LINDSTROM FOR GOVERNOR/MARCH 2022/2231391-MAR-07-MAR27-EST1468-KETV/2231391-MAR07-MAR27-EST1468-KETV-R1",
+        "entity_id": "53903",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "OMAHA",
+        "callsign": "KETV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726846574633418800,
+        "score": 0.24995685
+      },
       {
         "id": "158a1339-b6fa-8a21-81d1-3f54a9d728cb",
         "file_id": "158a1339-b6fa-8a21-81d1-3f54a9d728cb",
@@ -203,56 +253,6 @@
         "campaign_year": "2022",
         "_version_": 1726843808392413200,
         "score": 0.24995685
-      },
-      {
-        "id": "618a3b10-3766-1fe4-b48e-3775284f2aab",
-        "file_id": "618a3b10-3766-1fe4-b48e-3775284f2aab",
-        "file_name": "Suozzi-NAB_ORD22-000603_20220121_00002",
-        "file_extension": "pdf",
-        "file_size": 123076,
-        "file_status": "com_cpy",
-        "folder_id": "f3ca8fb9-99b7-ace6-783c-e752be8cecf2",
-        "create_ts": "2022-03-09T17:22:27.366Z",
-        "last_update_ts": "2022-03-09T17:22:30.87Z",
-        "active_ind": "Y",
-        "file_manager_id": "f26d834c-0316-420e-a635-5168565af237",
-        "file_folder_path": "Political Files/2022/State/Suozzi for NY-NYI",
-        "full_qualified_file_name": "Political Files/2022/State/Suozzi for NY-NYI/Suozzi-NAB_ORD22-000603_20220121_00002",
-        "entity_id": "003223",
-        "source_service_code": "CABLE",
-        "legal_name": "CSC NC, LLC",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726843765498314800,
-        "score": 0.24995685
-      },
-      {
-        "id": "eabb4d6d-6519-394e-2b6e-84673e6ef8f5",
-        "file_id": "eabb4d6d-6519-394e-2b6e-84673e6ef8f5",
-        "file_name": "Suozzi-NAB_ORD22-000603_20220121_00002",
-        "file_extension": "pdf",
-        "file_size": 123076,
-        "file_status": "com_cpy",
-        "folder_id": "5ce4c1e7-0225-7471-c993-f9d75c902c02",
-        "create_ts": "2022-03-09T17:21:44.196Z",
-        "last_update_ts": "2022-03-09T17:21:46.846Z",
-        "active_ind": "Y",
-        "file_manager_id": "7f0c0633-9679-4e30-9656-1183c24ca892",
-        "file_folder_path": "Political Files/2022/State/Suozzi for NY-NYI",
-        "full_qualified_file_name": "Political Files/2022/State/Suozzi for NY-NYI/Suozzi-NAB_ORD22-000603_20220121_00002",
-        "entity_id": "001705",
-        "source_service_code": "CABLE",
-        "legal_name": "CSC TKR, LLC",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726843720335097900,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -268,7 +268,7 @@
         "CHARLESTON-HUNTINGTON": 4334,
         "PORTLAND-AUBURN": 4216,
         "TALLAHASSEE-THOMASVILLE": 3994,
-        "OMAHA": 3687,
+        "OMAHA": 3688,
         "BUTTE-BOZEMAN": 3622,
         "EUGENE": 3373,
         "MISSOULA": 3294,
@@ -359,8 +359,8 @@
         "HOUSTON": 540
       },
       "network_affiliation": {
-        "ABC": 57823,
-        "NBC": 56787,
+        "ABC": 57824,
+        "NBC": 56788,
         "CBS": 38761,
         "FOX": 28041,
         "PBS": 14406,
@@ -431,12 +431,12 @@
         "2019": 13960,
         "2020": 125534,
         "2021": 22588,
-        "2022": 7058,
+        "2022": 7060,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68133,
+        "State": 68135,
         "US Senate": 49880,
         "US House": 41667,
         "Presidential": 38657,
@@ -472,14 +472,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237363,
+        "TV": 237365,
         "CABLE": 126479,
         "FM": 112265,
         "AM": 42105,
         "DBS": 5419
       },
       "political_file_type": {
-        "PA": 223770,
+        "PA": 223772,
         "NCIA": 123846
       }
     }
@@ -496,8 +496,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 225,
-    "processTime": 238,
-    "responseTime": 239
+    "queryTime": 1797,
+    "processTime": 806,
+    "responseTime": 1806
   }
 }
