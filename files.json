@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 523873,
+    "numFound": 523875,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "b7ef75c7-e8e4-09c5-b2fe-b94f0a27908a",
+        "file_id": "b7ef75c7-e8e4-09c5-b2fe-b94f0a27908a",
+        "file_name": "FCC 2022-01-04_COZI_Aired_E_I_Shows_4Q21",
+        "file_extension": "pdf",
+        "file_size": 76235,
+        "file_status": "com_cpy",
+        "folder_id": "b9561251-f564-68b2-6470-53dc5be66e8c",
+        "create_ts": "2022-03-10T12:17:26.786Z",
+        "last_update_ts": "2022-03-10T12:17:32.581Z",
+        "active_ind": "Y",
+        "file_manager_id": "2eefc2fb-d8d5-451a-8e35-cf41c99ad7fd",
+        "file_folder_path": "Records Concerning Commercial Limits in Childrens Programs",
+        "full_qualified_file_name": "Records Concerning Commercial Limits in Childrens Programs/FCC 2022-01-04_COZI_Aired_E_I_Shows_4Q21",
+        "entity_id": "190120",
+        "source_service_code": "TV",
+        "callsign": "KAGW-CD",
+        "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
+        "_version_": 1726915172999626800,
+        "score": 0.24995685
+      },
+      {
+        "id": "2a6684f3-27dc-0959-9dca-ccf923ff2501",
+        "file_id": "2a6684f3-27dc-0959-9dca-ccf923ff2501",
+        "file_name": "FCC 2022-01-04_COZI_Aired_E_I_Shows_4Q21",
+        "file_extension": "pdf",
+        "file_size": 76235,
+        "file_status": "com_cpy",
+        "folder_id": "cef52a9a-a6d8-987d-8921-802e8014eda9",
+        "create_ts": "2022-03-10T12:12:57.973Z",
+        "last_update_ts": "2022-03-10T12:13:00.692Z",
+        "active_ind": "Y",
+        "file_manager_id": "982b7496-d0e1-42db-b371-2d1ac11ecf17",
+        "file_folder_path": "Childrens TV Programming Reports/Additional Documents",
+        "full_qualified_file_name": "Childrens TV Programming Reports/Additional Documents/FCC 2022-01-04_COZI_Aired_E_I_Shows_4Q21",
+        "entity_id": "190120",
+        "source_service_code": "TV",
+        "callsign": "KAGW-CD",
+        "non_political_file_folder": "Childrens TV Programming Reports",
+        "_version_": 1726914891208458200,
+        "score": 0.24995685
+      },
       {
         "id": "d26a0c24-c413-39ef-d3c0-6384fe584c68",
         "file_id": "d26a0c24-c413-39ef-d3c0-6384fe584c68",
@@ -174,48 +216,6 @@
         "callsign": "KOBN",
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1726880739864084500,
-        "score": 0.24995685
-      },
-      {
-        "id": "3f341588-26e5-9cc7-549f-e02fd54bd34b",
-        "file_id": "3f341588-26e5-9cc7-549f-e02fd54bd34b",
-        "file_name": "Public Radio Exchange_020122-022822",
-        "file_extension": "pdf",
-        "file_size": 77813,
-        "file_status": "com_cpy",
-        "folder_id": "967fa057-e967-db17-7fd0-fe4d004f7c66",
-        "create_ts": "2022-03-10T03:10:05.756Z",
-        "last_update_ts": "2022-03-10T03:10:10.465Z",
-        "active_ind": "Y",
-        "file_manager_id": "b9fddc6d-8f59-47b9-a0da-5453907cc07e",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/Public Radio Exchange",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/Public Radio Exchange/Public Radio Exchange_020122-022822",
-        "entity_id": "50587",
-        "source_service_code": "AM",
-        "callsign": "KOAC",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1726880736659636200,
-        "score": 0.24995685
-      },
-      {
-        "id": "bdc4ea49-0ad7-a2a4-7383-783a9360e3c6",
-        "file_id": "bdc4ea49-0ad7-a2a4-7383-783a9360e3c6",
-        "file_name": "Public Radio Exchange_020122-022822",
-        "file_extension": "pdf",
-        "file_size": 77813,
-        "file_status": "com_cpy",
-        "folder_id": "20c66400-6a18-871f-2ac3-4d927d9579ae",
-        "create_ts": "2022-03-10T03:10:07.208Z",
-        "last_update_ts": "2022-03-10T03:10:09.781Z",
-        "active_ind": "Y",
-        "file_manager_id": "0a569548-7dfe-403d-a6a7-72c2aab0d369",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/Public Radio Exchange",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/Public Radio Exchange/Public Radio Exchange_020122-022822",
-        "entity_id": "90769",
-        "source_service_code": "FM",
-        "callsign": "KHRV",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1726880738146517000,
         "score": 0.24995685
       }
     ],
@@ -407,7 +407,7 @@
         "Local": 24337
       },
       "non_political_file_folder": {
-        "Records Concerning Commercial Limits in Childrens Programs": 61625,
+        "Records Concerning Commercial Limits in Childrens Programs": 61626,
         "Issues and Programs Lists": 44916,
         "Equal Employment Opportunity Records": 37151,
         "Donor Lists - Applicable Only for NCEs": 11699,
@@ -417,7 +417,7 @@
         "Applications and Related Materials": 1680,
         "FCC Investigations or Complaints": 1507,
         "Must-Carry or Retransmission Consent": 1303,
-        "Childrens TV Programming Reports": 1155,
+        "Childrens TV Programming Reports": 1156,
         "Ownership Reports": 1108,
         "Class A TV Continuing Eligibility": 645,
         "Political Matters and Controversial Issues Disclosures": 597,
@@ -436,7 +436,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237437,
+        "TV": 237439,
         "CABLE": 126494,
         "FM": 112393,
         "AM": 42123,
@@ -460,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 63,
-    "processTime": 72,
-    "responseTime": 72
+    "queryTime": 214,
+    "processTime": 224,
+    "responseTime": 224
   }
 }
