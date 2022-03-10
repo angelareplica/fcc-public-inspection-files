@@ -1,9 +1,58 @@
 {
   "response": {
-    "numFound": 523973,
+    "numFound": 523970,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "24ac5d3a-6ca9-1f7b-cae8-fbe320a8643c",
+        "file_id": "24ac5d3a-6ca9-1f7b-cae8-fbe320a8643c",
+        "file_name": "Kay Ivey 0310-0316 revision",
+        "file_extension": "pdf",
+        "file_size": 219579,
+        "file_status": "com_cpy",
+        "folder_id": "d557a7c5-4274-277d-7b8a-7e6e4d564004",
+        "create_ts": "2022-03-10T19:21:46.826Z",
+        "last_update_ts": "2022-03-10T19:21:53.494Z",
+        "active_ind": "Y",
+        "file_manager_id": "745386c1-ee12-4e6e-a9f7-ae03e45f2943",
+        "file_folder_path": "Political Files/2022/State/Governor/Ivey",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Ivey/Kay Ivey 0310-0316 revision",
+        "entity_id": "5360",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
+        "callsign": "WIAT",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726941869831618600,
+        "score": 0.24995685
+      },
+      {
+        "id": "a7adb3ea-24ff-b6a8-a7a9-a7c8792cdc20",
+        "file_id": "a7adb3ea-24ff-b6a8-a7a9-a7c8792cdc20",
+        "file_name": "Alabama's Future 0308-0314 revision",
+        "file_extension": "pdf",
+        "file_size": 366239,
+        "file_status": "com_cpy",
+        "folder_id": "64e038a6-efeb-78e6-2e4b-e0cca275d8f5",
+        "create_ts": "2022-03-10T19:21:02.255Z",
+        "last_update_ts": "2022-03-10T19:21:09.166Z",
+        "active_ind": "Y",
+        "file_manager_id": "976e2316-720f-46ef-b2cb-6ad4204bfc3c",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Alabamas Future PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Alabamas Future PAC/Alabama's Future 0308-0314 revision",
+        "entity_id": "5360",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
+        "callsign": "WIAT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726941823347196000,
+        "score": 0.24995685
+      },
       {
         "id": "b7780eea-76aa-9e19-0e1b-b274768fff3e",
         "file_id": "b7780eea-76aa-9e19-0e1b-b274768fff3e",
@@ -197,55 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1726938574165639200,
         "score": 0.24995685
-      },
-      {
-        "id": "5bd2dc66-5ed2-2012-9a48-d97d7dcb9a80",
-        "file_id": "5bd2dc66-5ed2-2012-9a48-d97d7dcb9a80",
-        "file_name": "White_2021 NAB  _ 2021 12 06",
-        "file_extension": "pdf",
-        "file_size": 1065646,
-        "file_status": "com_cpy",
-        "folder_id": "c39600bd-fb37-1f46-492d-7dbf3ccc389d",
-        "create_ts": "2022-03-10T18:07:35.843Z",
-        "last_update_ts": "2022-03-10T18:07:38.685Z",
-        "active_ind": "Y",
-        "file_manager_id": "a8c419d1-ad58-4044-8d0c-7dbd5015ac84",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/White",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/White/White_2021 NAB  _ 2021 12 06",
-        "entity_id": "006129",
-        "source_service_code": "CABLE",
-        "legal_name": "NORTHLAND CABLE TELEVISION, INC.",
-        "operator_city_name": "RYE BROOK",
-        "operator_state_name": "NY",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1726937202804392000,
-        "score": 0.24995685
-      },
-      {
-        "id": "790285d4-c47b-6218-e5b5-1d2a1ccb3b3e",
-        "file_id": "790285d4-c47b-6218-e5b5-1d2a1ccb3b3e",
-        "file_name": "POV PAC PB-19 (002) 3-7-22",
-        "file_extension": "pdf",
-        "file_size": 118289,
-        "file_status": "com_cpy",
-        "folder_id": "c44fbc86-d82b-1583-7e63-b0dba41bbf6d",
-        "create_ts": "2022-03-10T17:43:25.305Z",
-        "last_update_ts": "2022-03-10T18:00:05.917Z",
-        "active_ind": "Y",
-        "file_manager_id": "db9cc97c-ba69-4f03-806e-da56b47aaefd",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/JD Vance for US Senate/USE/NAB",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/JD Vance for US Senate/USE/NAB/POV PAC PB-19 (002) 3-7-22",
-        "entity_id": "39746",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "CLEVELAND-AKRON (CANTON)",
-        "callsign": "WOIO",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1726936728099356700,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -279,7 +279,7 @@
         "GREENSBORO-H.POINT-W.SALEM": 2541,
         "SAVANNAH": 2454,
         "QUINCY-HANNIBAL-KEOKUK": 2383,
-        "BIRMINGHAM (ANN TUSC)": 2355,
+        "BIRMINGHAM (ANN TUSC)": 2357,
         "PEORIA-BLOOMINGTON": 2337,
         "WAUSAU-RHINELANDER": 2337,
         "PHILADELPHIA": 2203,
@@ -354,7 +354,7 @@
       "network_affiliation": {
         "ABC": 57856,
         "NBC": 56819,
-        "CBS": 38800,
+        "CBS": 38802,
         "FOX": 28058,
         "PBS": 14417,
         "CW": 12090,
@@ -424,12 +424,12 @@
         "2019": 13960,
         "2020": 125524,
         "2021": 22599,
-        "2022": 7277,
+        "2022": 7274,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68208,
+        "State": 68209,
         "US Senate": 49922,
         "US House": 41669,
         "Presidential": 38655,
@@ -465,15 +465,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237512,
+        "TV": 237514,
         "CABLE": 126501,
-        "FM": 112409,
+        "FM": 112404,
         "AM": 42125,
         "DBS": 5426
       },
       "political_file_type": {
-        "PA": 223896,
-        "NCIA": 123940
+        "PA": 223897,
+        "NCIA": 123936
       }
     }
   },
@@ -489,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 226,
-    "processTime": 235,
-    "responseTime": 236
+    "queryTime": 1787,
+    "processTime": 800,
+    "responseTime": 1801
   }
 }
