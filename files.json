@@ -5,6 +5,29 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "01a841a4-8ede-c490-5d22-c810ac400d11",
+        "file_id": "01a841a4-8ede-c490-5d22-c810ac400d11",
+        "file_name": "CANDIDATE Ads-NAB-PB-19 -DEAN ODLE FOR GOVERNOR 03092022",
+        "file_extension": "pdf",
+        "file_size": 194360,
+        "file_status": "com_cpy",
+        "folder_id": "b9cc08a3-51c8-fc08-d6ca-ef7d718976d5",
+        "create_ts": "2022-03-10T13:51:14.584Z",
+        "last_update_ts": "2022-03-10T13:51:20.636Z",
+        "active_ind": "Y",
+        "file_manager_id": "d3b1aa69-5cc7-419c-820a-60704d7fd919",
+        "file_folder_path": "Political Files/2022/State/Governor/Dean Odle",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Dean Odle/CANDIDATE Ads-NAB-PB-19 -DEAN ODLE FOR GOVERNOR 03092022",
+        "entity_id": "48724",
+        "source_service_code": "FM",
+        "callsign": "WZZK-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726921074249040000,
+        "score": 0.24995685
+      },
+      {
         "id": "f6b95f3a-6845-d533-a26d-764844827226",
         "file_id": "f6b95f3a-6845-d533-a26d-764844827226",
         "file_name": "Pol J Corman R Gov PA_REV2_915666",
@@ -212,27 +235,6 @@
         "campaign_year": "2022",
         "_version_": 1726881047940956200,
         "score": 0.24995685
-      },
-      {
-        "id": "a8120a7a-1630-044e-cd6d-f6c4be47cea3",
-        "file_id": "a8120a7a-1630-044e-cd6d-f6c4be47cea3",
-        "file_name": "Public Radio Exchange_020122-022822",
-        "file_extension": "pdf",
-        "file_size": 77813,
-        "file_status": "com_cpy",
-        "folder_id": "5dbcefde-7bbe-32b0-e0ff-e7690660e004",
-        "create_ts": "2022-03-10T03:10:17.481Z",
-        "last_update_ts": "2022-03-10T03:10:22.2Z",
-        "active_ind": "Y",
-        "file_manager_id": "b7fe69f3-f911-4799-a4f6-0549394e011e",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/Public Radio Exchange",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/Public Radio Exchange/Public Radio Exchange_020122-022822",
-        "entity_id": "81807",
-        "source_service_code": "FM",
-        "callsign": "KOAC-FM",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1726880748966772700,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -341,7 +343,7 @@
       "network_affiliation": {
         "ABC": 57842,
         "NBC": 56801,
-        "CBS": 38782,
+        "CBS": 38781,
         "FOX": 28055,
         "PBS": 14416,
         "CW": 12090,
@@ -411,12 +413,12 @@
         "2019": 13960,
         "2020": 125526,
         "2021": 22599,
-        "2022": 7193,
+        "2022": 7194,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68184,
+        "State": 68185,
         "US Senate": 49914,
         "US House": 41669,
         "Presidential": 38655,
@@ -427,7 +429,7 @@
         "Issues and Programs Lists": 44916,
         "Equal Employment Opportunity Records": 37151,
         "Donor Lists - Applicable Only for NCEs": 11699,
-        "FCC Authorizations": 7280,
+        "FCC Authorizations": 7279,
         "Availability of Signals": 1867,
         "Local Public Notice Announcements": 1852,
         "Applications and Related Materials": 1680,
@@ -452,14 +454,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237444,
+        "TV": 237443,
         "CABLE": 126494,
-        "FM": 112393,
+        "FM": 112394,
         "AM": 42123,
         "DBS": 5426
       },
       "political_file_type": {
-        "PA": 223858,
+        "PA": 223859,
         "NCIA": 123896
       }
     }
@@ -477,7 +479,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 1819,
-    "processTime": 827,
-    "responseTime": 1827
+    "processTime": 828,
+    "responseTime": 1828
   }
 }
