@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 523970,
+    "numFound": 523973,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "b7780eea-76aa-9e19-0e1b-b274768fff3e",
+        "file_id": "b7780eea-76aa-9e19-0e1b-b274768fff3e",
+        "file_name": "A35184-CONTRACT-626144-030422",
+        "file_extension": "pdf",
+        "file_size": 268925,
+        "file_status": "com_cpy",
+        "folder_id": "74f9ee50-7927-0e62-c010-2a0890e9e888",
+        "create_ts": "2022-03-10T19:04:40.215Z",
+        "last_update_ts": "2022-03-10T19:04:46.86Z",
+        "active_ind": "Y",
+        "file_manager_id": "20379d54-eda8-4af1-be55-db02b3daa9ef",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Opportunity Wisconsin 35184",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Opportunity Wisconsin 35184/A35184-CONTRACT-626144-030422",
+        "entity_id": "64545",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "MADISON",
+        "callsign": "WKOW",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726940793363497000,
+        "score": 0.24995685
+      },
+      {
+        "id": "d6402dcf-b5bb-18a6-67b3-81df522667a9",
+        "file_id": "d6402dcf-b5bb-18a6-67b3-81df522667a9",
+        "file_name": "A35184-REQUEST-626144-030422",
+        "file_extension": "pdf",
+        "file_size": 19188,
+        "file_status": "com_cpy",
+        "folder_id": "74f9ee50-7927-0e62-c010-2a0890e9e888",
+        "create_ts": "2022-03-10T19:04:39.494Z",
+        "last_update_ts": "2022-03-10T19:04:42.094Z",
+        "active_ind": "Y",
+        "file_manager_id": "02765217-4f72-4a27-af45-3d66cd60038c",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Opportunity Wisconsin 35184",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Opportunity Wisconsin 35184/A35184-REQUEST-626144-030422",
+        "entity_id": "64545",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "MADISON",
+        "callsign": "WKOW",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1726940792500519000,
+        "score": 0.24995685
+      },
       {
         "id": "8eb1d7cd-d036-f9b6-f60b-c40552fd2cd1",
         "file_id": "8eb1d7cd-d036-f9b6-f60b-c40552fd2cd1",
@@ -13,7 +61,7 @@
         "file_status": "com_cpy",
         "folder_id": "b8d3441e-8524-8ea3-77ad-d4404c1271e2",
         "create_ts": "2022-03-10T18:47:09.532Z",
-        "last_update_ts": "2022-03-10T18:47:00.029Z",
+        "last_update_ts": "2022-03-10T19:00:06.047Z",
         "active_ind": "Y",
         "file_manager_id": "b0ed4938-c286-4819-a2a5-d15b35648f1e",
         "file_folder_path": "Political Files/2022/Local/Mayor/Rick Caruso for Mayor2022",
@@ -26,7 +74,32 @@
         "political_file_type": "PA",
         "office_type": "Local",
         "campaign_year": "2022",
-        "_version_": 1726939692126961700,
+        "_version_": 1726940503045308400,
+        "score": 0.24995685
+      },
+      {
+        "id": "494896e8-eebc-ea36-5887-f3485f13f545",
+        "file_id": "494896e8-eebc-ea36-5887-f3485f13f545",
+        "file_name": "KCOP Rick Caruso 1154550-0",
+        "file_extension": "pdf",
+        "file_size": 457356,
+        "file_status": "com_cpy",
+        "folder_id": "959f7870-29f4-bab2-ff37-2db0f75cb72d",
+        "create_ts": "2022-03-10T18:51:53.162Z",
+        "last_update_ts": "2022-03-10T18:51:59.773Z",
+        "active_ind": "Y",
+        "file_manager_id": "d768aba7-de75-4587-83cc-be768d36e95c",
+        "file_folder_path": "Political Files/2022/Local/Mayor/Rick Caruso for Mayor2022",
+        "full_qualified_file_name": "Political Files/2022/Local/Mayor/Rick Caruso for Mayor2022/KCOP Rick Caruso 1154550-0",
+        "entity_id": "33742",
+        "source_service_code": "TV",
+        "network_affiliation": "MY NETWORK",
+        "nielsen_dma_rank": "LOS ANGELES",
+        "callsign": "KCOP-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1726939989034401800,
         "score": 0.24995685
       },
       {
@@ -173,71 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1726936728099356700,
         "score": 0.24995685
-      },
-      {
-        "id": "d368a288-abba-2a59-5ec7-9720b6d803ae",
-        "file_id": "d368a288-abba-2a59-5ec7-9720b6d803ae",
-        "file_name": "Online PF Escape_CourtTV Mystery Agreement Statement REVISED 03.09.2022",
-        "file_extension": "pdf",
-        "file_size": 207393,
-        "file_status": "com_cpy",
-        "folder_id": "acd6aa8f-b707-7698-d602-ec4f3f7c3dad",
-        "create_ts": "2022-03-10T17:55:07.131Z",
-        "last_update_ts": "2022-03-10T17:55:13.771Z",
-        "active_ind": "Y",
-        "file_manager_id": "7194b697-2a71-4c7f-b6a2-2b537373d91a",
-        "file_folder_path": "Ownership Reports/Additional Documents/Contracts and Agreements",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Contracts and Agreements/Online PF Escape_CourtTV Mystery Agreement Statement REVISED 03.09.2022",
-        "entity_id": "35841",
-        "source_service_code": "TV",
-        "network_affiliation": "UNIVISION",
-        "nielsen_dma_rank": "DALLAS-FT. WORTH",
-        "callsign": "KUVN-DT",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1726936417698840600,
-        "score": 0.24995685
-      },
-      {
-        "id": "d368260d-d282-5f0b-977d-938fcab4cd81",
-        "file_id": "d368260d-d282-5f0b-977d-938fcab4cd81",
-        "file_name": "2022 02 FCC Donors and Funders",
-        "file_extension": "pdf",
-        "file_size": 142609,
-        "file_status": "com_cpy",
-        "folder_id": "46c209a1-306d-bdd2-eeb8-ddcdca47447f",
-        "create_ts": "2022-03-10T17:52:05.385Z",
-        "last_update_ts": "2022-03-10T17:52:11.887Z",
-        "active_ind": "Y",
-        "file_manager_id": "9d3b27e6-bbb4-462d-8f68-38fad0f3ea38",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/2022 02 FCC Donors and Funders",
-        "entity_id": "28158",
-        "source_service_code": "FM",
-        "callsign": "KHCC-FM",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1726936226988032000,
-        "score": 0.24995685
-      },
-      {
-        "id": "8ae57c82-6163-7fe1-863d-edeb045398ff",
-        "file_id": "8ae57c82-6163-7fe1-863d-edeb045398ff",
-        "file_name": "2022 02 FCC Donors and Funders",
-        "file_extension": "pdf",
-        "file_size": 142609,
-        "file_status": "com_cpy",
-        "folder_id": "f9b77601-cbf8-93e1-b60d-8305bdc4881d",
-        "create_ts": "2022-03-10T17:51:20.941Z",
-        "last_update_ts": "2022-03-10T17:51:11.015Z",
-        "active_ind": "Y",
-        "file_manager_id": "30e682a3-1a66-41af-ab77-d10216f0f74e",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/2022 02 FCC Donors and Funders",
-        "entity_id": "28157",
-        "source_service_code": "FM",
-        "callsign": "KHCT",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1726936180417626000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -288,7 +296,7 @@
         "ALBUQUERQUE-SANTA FE": 1737,
         "ROCKFORD": 1721,
         "LINCOLN & HASTINGS-KRNY": 1638,
-        "MADISON": 1570,
+        "MADISON": 1572,
         "GREENVLL-SPART-ASHEVLL-AND": 1561,
         "PHOENIX (PRESCOTT)": 1514,
         "BINGHAMTON": 1505,
@@ -302,7 +310,7 @@
         "JOHNSTOWN-ALTOONA-ST COLGE": 1205,
         "PROVIDENCE-NEW BEDFORD": 1200,
         "ANCHORAGE": 1197,
-        "LOS ANGELES": 1143,
+        "LOS ANGELES": 1144,
         "CHARLOTTE": 1111,
         "SALT LAKE CITY": 1099,
         "GREEN BAY-APPLETON": 1096,
@@ -344,7 +352,7 @@
         "HOUSTON": 540
       },
       "network_affiliation": {
-        "ABC": 57854,
+        "ABC": 57856,
         "NBC": 56819,
         "CBS": 38800,
         "FOX": 28058,
@@ -353,7 +361,7 @@
         "IND": 2992,
         "MYTV": 2230,
         "UNIVISION": 1884,
-        "MY NETWORK": 1557,
+        "MY NETWORK": 1558,
         "CBS/NBC": 1081,
         "TELEMUNDO": 868,
         "MNT": 854,
@@ -416,7 +424,7 @@
         "2019": 13960,
         "2020": 125524,
         "2021": 22599,
-        "2022": 7274,
+        "2022": 7277,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -425,7 +433,7 @@
         "US Senate": 49922,
         "US House": 41669,
         "Presidential": 38655,
-        "Local": 24342
+        "Local": 24343
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61632,
@@ -457,15 +465,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237509,
+        "TV": 237512,
         "CABLE": 126501,
         "FM": 112409,
         "AM": 42125,
         "DBS": 5426
       },
       "political_file_type": {
-        "PA": 223895,
-        "NCIA": 123938
+        "PA": 223896,
+        "NCIA": 123940
       }
     }
   },
@@ -481,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1779,
-    "processTime": 788,
-    "responseTime": 1789
+    "queryTime": 226,
+    "processTime": 235,
+    "responseTime": 236
   }
 }
