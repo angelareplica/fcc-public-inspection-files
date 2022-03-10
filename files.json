@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 523880,
+    "numFound": 523882,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "85b64b53-f53f-4885-40d3-788b38da4a3f",
+        "file_id": "85b64b53-f53f-4885-40d3-788b38da4a3f",
+        "file_name": "03.10.22_KCFO_Gentner Drummond - FEB22 Invoice",
+        "file_extension": "pdf",
+        "file_size": 220724,
+        "file_status": "com_cpy",
+        "folder_id": "38ccd471-275b-bf92-ac3b-64b1b5cf52e5",
+        "create_ts": "2022-03-10T14:36:38.282Z",
+        "last_update_ts": "2022-03-10T14:36:44.475Z",
+        "active_ind": "Y",
+        "file_manager_id": "145984cc-65f0-4fe7-b985-13ed01149ec3",
+        "file_folder_path": "Political Files/2022/State/Attorney General",
+        "full_qualified_file_name": "Political Files/2022/State/Attorney General/03.10.22_KCFO_Gentner Drummond - FEB22 Invoice",
+        "entity_id": "22665",
+        "source_service_code": "AM",
+        "callsign": "KCFO",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726923930308968400,
+        "score": 0.24995685
+      },
+      {
+        "id": "ed3bebdf-ae18-61ab-f046-dc8edd18ec75",
+        "file_id": "ed3bebdf-ae18-61ab-f046-dc8edd18ec75",
+        "file_name": "03.10.22_KXOJ_Gentner Drummond - FEB22 Invoice",
+        "file_extension": "pdf",
+        "file_size": 215632,
+        "file_status": "com_cpy",
+        "folder_id": "782a1a25-e5a2-c919-aa39-f94b3af3536f",
+        "create_ts": "2022-03-10T14:35:03.342Z",
+        "last_update_ts": "2022-03-10T14:34:53.428Z",
+        "active_ind": "Y",
+        "file_manager_id": "695e7b46-68c1-4186-87b4-4225e697a53e",
+        "file_folder_path": "Political Files/2022/State/Attorney General",
+        "full_qualified_file_name": "Political Files/2022/State/Attorney General/03.10.22_KXOJ_Gentner Drummond - FEB22 Invoice",
+        "entity_id": "28850",
+        "source_service_code": "FM",
+        "callsign": "KXOJ-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1726923830698442800,
+        "score": 0.24995685
+      },
       {
         "id": "01a841a4-8ede-c490-5d22-c810ac400d11",
         "file_id": "01a841a4-8ede-c490-5d22-c810ac400d11",
@@ -189,52 +235,6 @@
         "non_political_file_folder": "Childrens TV Programming Reports",
         "_version_": 1726914891208458200,
         "score": 0.24995685
-      },
-      {
-        "id": "d26a0c24-c413-39ef-d3c0-6384fe584c68",
-        "file_id": "d26a0c24-c413-39ef-d3c0-6384fe584c68",
-        "file_name": "National Public Radio - National Funders_020122-022822",
-        "file_extension": "pdf",
-        "file_size": 116374,
-        "file_status": "com_cpy",
-        "folder_id": "ad269ac6-6831-0512-2290-07d646448367",
-        "create_ts": "2022-03-10T03:01:35.657Z",
-        "last_update_ts": "2022-03-10T03:20:05.743Z",
-        "active_ind": "Y",
-        "file_manager_id": "1cf8928a-ad97-477c-a68d-66aff93f7485",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/National Public Radio - National Funders",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/National Public Radio - National Funders/National Public Radio - National Funders_020122-022822",
-        "entity_id": "94195",
-        "source_service_code": "FM",
-        "callsign": "KOBK",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1726881363064258600,
-        "score": 0.24995685
-      },
-      {
-        "id": "da5bf9a6-9d35-0e91-28aa-9fc45a8b24c8",
-        "file_id": "da5bf9a6-9d35-0e91-28aa-9fc45a8b24c8",
-        "file_name": "Boozman US Senate ORDER 2427011  03.12.22-03.27.22",
-        "file_extension": "pdf",
-        "file_size": 259756,
-        "file_status": "com_cpy",
-        "folder_id": "feddeced-7eb6-ab97-0306-5f22354fa8df",
-        "create_ts": "2022-03-10T03:15:02.123Z",
-        "last_update_ts": "2022-03-10T03:15:07.33Z",
-        "active_ind": "Y",
-        "file_manager_id": "4c223253-6af8-47ba-99a9-3df875cebb10",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Boozman for US Senate",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Boozman for US Senate/Boozman US Senate ORDER 2427011  03.12.22-03.27.22",
-        "entity_id": "2787",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LITTLE ROCK-PINE BLUFF",
-        "callsign": "KTHV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1726881047940956200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -413,12 +413,12 @@
         "2019": 13960,
         "2020": 125526,
         "2021": 22599,
-        "2022": 7194,
+        "2022": 7196,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68185,
+        "State": 68187,
         "US Senate": 49914,
         "US House": 41669,
         "Presidential": 38655,
@@ -456,12 +456,12 @@
       "source_service_code": {
         "TV": 237443,
         "CABLE": 126494,
-        "FM": 112394,
-        "AM": 42123,
+        "FM": 112395,
+        "AM": 42124,
         "DBS": 5426
       },
       "political_file_type": {
-        "PA": 223859,
+        "PA": 223861,
         "NCIA": 123896
       }
     }
@@ -478,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1819,
-    "processTime": 828,
-    "responseTime": 1828
+    "queryTime": 1823,
+    "processTime": 832,
+    "responseTime": 1833
   }
 }
