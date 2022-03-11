@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 524389,
+    "numFound": 524391,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "53f6616f-24f2-c9d0-18ba-a3ff9bfd9da6",
+        "file_id": "53f6616f-24f2-c9d0-18ba-a3ff9bfd9da6",
+        "file_name": "C2244508 Boozman Contract for 0307 to 0327",
+        "file_extension": "pdf",
+        "file_size": 437235,
+        "file_status": "com_cpy",
+        "folder_id": "7b68fdb9-fe13-550f-834b-39cde1014fed",
+        "create_ts": "2022-03-11T22:39:57.637Z",
+        "last_update_ts": "2022-03-11T22:40:00.597Z",
+        "active_ind": "Y",
+        "file_manager_id": "965b020d-0468-4438-b13a-f9d27608a657",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/CW/John Boozman - C2244508 March 7 - March 27",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/CW/John Boozman - C2244508 March 7 - March 27/C2244508 Boozman Contract for 0307 to 0327",
+        "entity_id": "60353",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "FT. SMITH-FAY-SPRNGDL-RGRS",
+        "callsign": "KHBS",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1727044935500169200,
+        "score": 0.24995685
+      },
+      {
+        "id": "53b54c43-5eac-7c01-aaf8-d5b56b0638f0",
+        "file_id": "53b54c43-5eac-7c01-aaf8-d5b56b0638f0",
+        "file_name": "K2244488 Boozman Contract for 0307 to 0327",
+        "file_extension": "pdf",
+        "file_size": 475875,
+        "file_status": "com_cpy",
+        "folder_id": "4f7ead3a-95b8-9f79-9a0d-08dcf1ac9676",
+        "create_ts": "2022-03-11T22:37:48.123Z",
+        "last_update_ts": "2022-03-11T22:37:51.038Z",
+        "active_ind": "Y",
+        "file_manager_id": "49f59cb7-7096-4328-ae18-17e5c785d537",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/ABC/John Boozman - K2244488 March 7 - March 27",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/ABC/John Boozman - K2244488 March 7 - March 27/K2244488 Boozman Contract for 0307 to 0327",
+        "entity_id": "60353",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "FT. SMITH-FAY-SPRNGDL-RGRS",
+        "callsign": "KHBS",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1727044799627788300,
+        "score": 0.24995685
+      },
       {
         "id": "3c6e0fae-6f1d-6068-74c2-c4b07836c6dc",
         "file_id": "3c6e0fae-6f1d-6068-74c2-c4b07836c6dc",
@@ -200,56 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1727042663774945300,
         "score": 0.24995685
-      },
-      {
-        "id": "a2dd5ce4-81cc-ba6f-fcfe-a4b719a69c01",
-        "file_id": "a2dd5ce4-81cc-ba6f-fcfe-a4b719a69c01",
-        "file_name": "Mike Gibbons #920322 (NAB) PAGE 2",
-        "file_extension": "pdf",
-        "file_size": 549088,
-        "file_status": "com_cpy",
-        "folder_id": "b6b14c70-8431-f3b8-fe00-69448d66b58e",
-        "create_ts": "2022-03-11T21:54:59.541Z",
-        "last_update_ts": "2022-03-11T21:55:09.519Z",
-        "active_ind": "Y",
-        "file_manager_id": "2d696c94-5596-4c40-b25a-fde056df713d",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Mike Gibbons",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Mike Gibbons/Mike Gibbons #920322 (NAB) PAGE 2",
-        "entity_id": "41458",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "DAYTON",
-        "callsign": "WHIO-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1727042106271203300,
-        "score": 0.00012497843
-      },
-      {
-        "id": "37549f8d-eb5c-8a6d-dbfe-2fdadb993e1e",
-        "file_id": "37549f8d-eb5c-8a6d-dbfe-2fdadb993e1e",
-        "file_name": "Mike Gibbons #920322 (NAB) PAGE 1",
-        "file_extension": "pdf",
-        "file_size": 481075,
-        "file_status": "com_cpy",
-        "folder_id": "b6b14c70-8431-f3b8-fe00-69448d66b58e",
-        "create_ts": "2022-03-11T21:54:59.541Z",
-        "last_update_ts": "2022-03-11T21:55:02.707Z",
-        "active_ind": "Y",
-        "file_manager_id": "4af2a455-1ff0-45a7-a856-d53f44556280",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Mike Gibbons",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Mike Gibbons/Mike Gibbons #920322 (NAB) PAGE 1",
-        "entity_id": "41458",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "DAYTON",
-        "callsign": "WHIO-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1727042106527056000,
-        "score": 0.00012497843
       }
     ],
     "facets": {
@@ -327,7 +327,7 @@
         "COLUMBUS OH": 1010,
         "JACKSON MS": 987,
         "WICHITA-HUTCHINSON PLUS": 955,
-        "FT. SMITH-FAY-SPRNGDL-RGRS": 918,
+        "FT. SMITH-FAY-SPRNGDL-RGRS": 920,
         "LOUISVILLE": 899,
         "DALLAS-FT. WORTH": 860,
         "PANAMA CITY": 859,
@@ -356,7 +356,7 @@
         "HOUSTON": 542
       },
       "network_affiliation": {
-        "ABC": 57874,
+        "ABC": 57876,
         "NBC": 56851,
         "CBS": 38832,
         "FOX": 28067,
@@ -428,13 +428,13 @@
         "2019": 13960,
         "2020": 125518,
         "2021": 22605,
-        "2022": 7657,
+        "2022": 7659,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 68441,
-        "US Senate": 50002,
+        "US Senate": 50004,
         "US House": 41675,
         "Presidential": 38649,
         "Local": 24368
@@ -469,14 +469,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237624,
+        "TV": 237626,
         "CABLE": 126696,
         "FM": 112480,
         "AM": 42160,
         "DBS": 5429
       },
       "political_file_type": {
-        "PA": 224238,
+        "PA": 224240,
         "NCIA": 123973
       }
     }
@@ -493,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 3730,
-    "processTime": 743,
-    "responseTime": 3743
+    "queryTime": 215,
+    "processTime": 223,
+    "responseTime": 224
   }
 }
