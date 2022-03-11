@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 524402,
+    "numFound": 524404,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "13c0a8e9-83e2-9492-358a-8a1dd963568b",
+        "file_id": "13c0a8e9-83e2-9492-358a-8a1dd963568b",
+        "file_name": "Online PF Escape_CourtTV Mystery Agreement Statement REVISED 03.09.2022",
+        "file_extension": "pdf",
+        "file_size": 207393,
+        "file_status": "com_cpy",
+        "folder_id": "7a349e5c-1252-1081-8ae8-df10ba8665b5",
+        "create_ts": "2022-03-11T23:27:42.433Z",
+        "last_update_ts": "2022-03-11T23:27:52.352Z",
+        "active_ind": "Y",
+        "file_manager_id": "8cb2c403-1ebd-4889-b235-80fbdedf75f2",
+        "file_folder_path": "Ownership Reports/Additional Documents/Contracts and Agreements",
+        "full_qualified_file_name": "Ownership Reports/Additional Documents/Contracts and Agreements/Online PF Escape_CourtTV Mystery Agreement Statement REVISED 03.09.2022",
+        "entity_id": "48837",
+        "source_service_code": "TV",
+        "callsign": "KCOR-CD",
+        "non_political_file_folder": "Ownership Reports",
+        "_version_": 1727047939148218400,
+        "score": 0.24995685
+      },
+      {
+        "id": "99bede0c-34ec-c3c9-b7e2-bbb37a10550c",
+        "file_id": "99bede0c-34ec-c3c9-b7e2-bbb37a10550c",
+        "file_name": "03-11-2022-Accepted",
+        "file_extension": "pdf",
+        "file_size": 60285,
+        "file_status": "com_cpy",
+        "folder_id": "452367eb-f34e-583c-fd7d-16e98efea21d",
+        "create_ts": "2022-03-11T23:25:15.667Z",
+        "last_update_ts": "2022-03-11T23:25:18.306Z",
+        "active_ind": "Y",
+        "file_manager_id": "f150ebbf-4365-4269-8fa6-2f0d1422ecd6",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Sooner State Leadership",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Sooner State Leadership/03-11-2022-Accepted",
+        "entity_id": "59439",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "TULSA",
+        "callsign": "KJRH-TV",
+        "political_file_type": "NCIA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727047785196290000,
+        "score": 0.24995685
+      },
       {
         "id": "a289353a-5442-34b4-de5a-b7118bf934b5",
         "file_id": "a289353a-5442-34b4-de5a-b7118bf934b5",
@@ -194,52 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1727045537577828400,
         "score": 0.24995685
-      },
-      {
-        "id": "bc216c38-c223-b254-a83e-3eef43047d40",
-        "file_id": "bc216c38-c223-b254-a83e-3eef43047d40",
-        "file_name": "NAB_ORD22-000682_20220311_00001 - KYGO",
-        "file_extension": "pdf",
-        "file_size": 186644,
-        "file_status": "com_cpy",
-        "folder_id": "c70b47af-0306-1652-18e7-de1747f9d7f8",
-        "create_ts": "2022-03-11T22:47:59.209Z",
-        "last_update_ts": "2022-03-11T22:47:49.069Z",
-        "active_ind": "Y",
-        "file_manager_id": "a9fb704b-63af-47f4-81b1-53d4bc7a83b1",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Tobacco Free Kids/Est 9416",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Tobacco Free Kids/Est 9416/NAB_ORD22-000682_20220311_00001 - KYGO",
-        "entity_id": "30829",
-        "source_service_code": "FM",
-        "callsign": "KYGO-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1727045440262635500,
-        "score": 0.24995685
-      },
-      {
-        "id": "02f8cf02-59db-fed9-299d-2e0514a48676",
-        "file_id": "02f8cf02-59db-fed9-299d-2e0514a48676",
-        "file_name": "03-11-2022-Accepted",
-        "file_extension": "pdf",
-        "file_size": 61312,
-        "file_status": "com_cpy",
-        "folder_id": "c960dada-5ee5-92af-f0e4-54f07967305f",
-        "create_ts": "2022-03-11T22:46:38.221Z",
-        "last_update_ts": "2022-03-11T22:46:48.013Z",
-        "active_ind": "Y",
-        "file_manager_id": "b9050ba4-feeb-4386-9887-29b39caf05a9",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Oklahoma Project",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Oklahoma Project/03-11-2022-Accepted",
-        "entity_id": "59439",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "TULSA",
-        "callsign": "KJRH-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1727045355178033200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -323,8 +323,8 @@
         "PANAMA CITY": 859,
         "LANSING": 836,
         "INDIANAPOLIS": 829,
+        "TULSA": 803,
         "GREENVILLE-N.BERN-WASHNGTN": 802,
-        "TULSA": 802,
         "HELENA": 780,
         "DAYTON": 752,
         "TWIN FALLS": 749,
@@ -347,7 +347,7 @@
       },
       "network_affiliation": {
         "ABC": 57878,
-        "NBC": 56852,
+        "NBC": 56853,
         "CBS": 38833,
         "FOX": 28070,
         "PBS": 14422,
@@ -418,12 +418,12 @@
         "2019": 13960,
         "2020": 125518,
         "2021": 22605,
-        "2022": 7670,
+        "2022": 7671,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68445,
+        "State": 68446,
         "US Senate": 50005,
         "US House": 41675,
         "Presidential": 38649,
@@ -441,7 +441,7 @@
         "FCC Investigations or Complaints": 1507,
         "Must-Carry or Retransmission Consent": 1302,
         "Childrens TV Programming Reports": 1156,
-        "Ownership Reports": 1111,
+        "Ownership Reports": 1112,
         "Class A TV Continuing Eligibility": 645,
         "Political Matters and Controversial Issues Disclosures": 597,
         "State and Local Franchising Related Materials": 484,
@@ -459,7 +459,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237633,
+        "TV": 237635,
         "CABLE": 126696,
         "FM": 112483,
         "AM": 42161,
@@ -467,7 +467,7 @@
       },
       "political_file_type": {
         "PA": 224246,
-        "NCIA": 123978
+        "NCIA": 123979
       }
     }
   },
@@ -483,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1788,
-    "processTime": 798,
-    "responseTime": 1799
+    "queryTime": 1798,
+    "processTime": 807,
+    "responseTime": 1807
   }
 }
