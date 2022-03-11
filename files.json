@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 524322,
+    "numFound": 524323,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "2cc2f993-6f44-55ef-fca7-b730bfd09ed0",
+        "file_id": "2cc2f993-6f44-55ef-fca7-b730bfd09ed0",
+        "file_name": "AB FOUNDATION NAB 03-16-2021",
+        "file_extension": "pdf",
+        "file_size": 1052250,
+        "file_status": "com_cpy",
+        "folder_id": "01d55d7f-9b47-56d1-076a-002004e2a342",
+        "create_ts": "2022-03-11T17:33:35.684Z",
+        "last_update_ts": "2022-03-11T17:33:45.387Z",
+        "active_ind": "Y",
+        "file_manager_id": "e48993cc-b3a7-4fa0-9050-7b25553e65df",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/AB FOUNDATION",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/AB FOUNDATION/AB FOUNDATION NAB 03-16-2021",
+        "entity_id": "006129",
+        "source_service_code": "CABLE",
+        "legal_name": "NORTHLAND CABLE TELEVISION, INC.",
+        "operator_city_name": "RYE BROOK",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1727025660793192400,
+        "score": 0.24995685
+      },
       {
         "id": "523215a6-e383-4749-e814-9a15fe5fcd28",
         "file_id": "523215a6-e383-4749-e814-9a15fe5fcd28",
@@ -211,30 +235,6 @@
         "campaign_year": "2022",
         "_version_": 1727021083601666000,
         "score": 0.24995685
-      },
-      {
-        "id": "c22a7317-e7cf-9245-75bc-61076af6fb38",
-        "file_id": "c22a7317-e7cf-9245-75bc-61076af6fb38",
-        "file_name": "A36119-CONTRACT-626474-031022",
-        "file_extension": "pdf",
-        "file_size": 303958,
-        "file_status": "com_cpy",
-        "folder_id": "5efd909a-eaad-2852-7c54-e48fa2dbd991",
-        "create_ts": "2022-03-11T16:20:50.547Z",
-        "last_update_ts": "2022-03-11T16:20:40.742Z",
-        "active_ind": "Y",
-        "file_manager_id": "38c1fa13-0c63-4dab-8d71-fdc62fb4ed9a",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/The Wisconsin Initiative Inc 36119",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/The Wisconsin Initiative Inc 36119/A36119-CONTRACT-626474-031022",
-        "entity_id": "64546",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "WAUSAU-RHINELANDER",
-        "callsign": "WAOW",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1727021083527217200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -412,7 +412,7 @@
         "2018": 67683,
         "2019": 13960,
         "2020": 125518,
-        "2021": 22600,
+        "2021": 22601,
         "2022": 7591,
         "KYAZ": 5,
         "Fede": 1
@@ -455,14 +455,14 @@
       },
       "source_service_code": {
         "TV": 237571,
-        "CABLE": 126693,
+        "CABLE": 126694,
         "FM": 112472,
         "AM": 42157,
         "DBS": 5429
       },
       "political_file_type": {
         "PA": 224189,
-        "NCIA": 123956
+        "NCIA": 123957
       }
     }
   },
@@ -478,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1818,
-    "processTime": 827,
-    "responseTime": 1827
+    "queryTime": 1785,
+    "processTime": 795,
+    "responseTime": 1795
   }
 }
