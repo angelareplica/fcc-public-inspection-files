@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 524296,
+    "numFound": 524298,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "3c7a44b4-9c16-8590-03d4-0fd74cd1ffa7",
+        "file_id": "3c7a44b4-9c16-8590-03d4-0fd74cd1ffa7",
+        "file_name": "RAPHAEL WARNOCK 031122",
+        "file_extension": "pdf",
+        "file_size": 51949,
+        "file_status": "com_cpy",
+        "folder_id": "f10c2cee-1755-d86c-b405-652170510aab",
+        "create_ts": "2022-03-11T13:37:15.673Z",
+        "last_update_ts": "2022-03-11T13:37:24.423Z",
+        "active_ind": "Y",
+        "file_manager_id": "cb6e635c-0fc8-437c-ba0b-32d020e3be47",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/RAPHAEL WARNOCK",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/RAPHAEL WARNOCK/RAPHAEL WARNOCK 031122",
+        "entity_id": "37174",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SAVANNAH",
+        "callsign": "WJCL",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1727010791457030100,
+        "score": 0.24995685
+      },
+      {
+        "id": "6431983a-8d70-e72f-2340-3e0a813c2886",
+        "file_id": "6431983a-8d70-e72f-2340-3e0a813c2886",
+        "file_name": "RAPHAEL WARNOCK 031122 1",
+        "file_extension": "pdf",
+        "file_size": 49787,
+        "file_status": "com_cpy",
+        "folder_id": "f10c2cee-1755-d86c-b405-652170510aab",
+        "create_ts": "2022-03-11T13:37:15.672Z",
+        "last_update_ts": "2022-03-11T13:37:05.511Z",
+        "active_ind": "Y",
+        "file_manager_id": "a91a77ee-d193-4368-9f97-530a7c782bd1",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/RAPHAEL WARNOCK",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/RAPHAEL WARNOCK/RAPHAEL WARNOCK 031122 1",
+        "entity_id": "37174",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SAVANNAH",
+        "callsign": "WJCL",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1727010791492681700,
+        "score": 0.24995685
+      },
       {
         "id": "c4ce6944-e002-ff2f-4bd8-af62d10dabef",
         "file_id": "c4ce6944-e002-ff2f-4bd8-af62d10dabef",
@@ -198,56 +248,6 @@
         "campaign_year": "2022",
         "_version_": 1726965801883271200,
         "score": 0.24995685
-      },
-      {
-        "id": "b226df50-7f44-ae06-a9b4-52311122daef",
-        "file_id": "b226df50-7f44-ae06-a9b4-52311122daef",
-        "file_name": "Univision Candidate Ads Intake Greg Abbott 02 22",
-        "file_extension": "docx",
-        "file_size": 29557,
-        "file_status": "com_prc",
-        "folder_id": "3ec076f2-b861-da3d-e451-50d6bf08c3db",
-        "create_ts": "2022-02-17T00:24:32.788Z",
-        "last_update_ts": "2022-03-11T01:41:09.332Z",
-        "active_ind": "Y",
-        "file_manager_id": "60ea19f9-82ee-477e-9b71-081ac6487b4a",
-        "file_folder_path": "Political Files/2022/State/Texas Governor/Texans for Greg Abbott/Contract 178818",
-        "full_qualified_file_name": "Political Files/2022/State/Texas Governor/Texans for Greg Abbott/Contract 178818/Univision Candidate Ads Intake Greg Abbott 02 22",
-        "entity_id": "35881",
-        "source_service_code": "TV",
-        "network_affiliation": "UNIVISION",
-        "nielsen_dma_rank": "SAN ANTONIO",
-        "callsign": "KWEX-DT",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726965748581007400,
-        "score": 0.24995685
-      },
-      {
-        "id": "61a097f7-0149-fcd3-c513-2c8ad6321525",
-        "file_id": "61a097f7-0149-fcd3-c513-2c8ad6321525",
-        "file_name": "Greg Abbot order 178304 12 015",
-        "file_extension": "pdf",
-        "file_size": 180737,
-        "file_status": "com_cpy",
-        "folder_id": "096f8f8e-280d-c616-c475-158f91bf48b8",
-        "create_ts": "2022-02-11T19:01:06.342Z",
-        "last_update_ts": "2022-03-11T01:40:45.109Z",
-        "active_ind": "Y",
-        "file_manager_id": "fd0fe515-e0d7-4097-aca5-db309531a540",
-        "file_folder_path": "Political Files/2022/State/Texas Governor/Texans for Greg Abbott/Contract 178304",
-        "full_qualified_file_name": "Political Files/2022/State/Texas Governor/Texans for Greg Abbott/Contract 178304/Greg Abbot order 178304 12 015",
-        "entity_id": "35881",
-        "source_service_code": "TV",
-        "network_affiliation": "UNIVISION",
-        "nielsen_dma_rank": "SAN ANTONIO",
-        "callsign": "KWEX-DT",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1726965704895234000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -279,7 +279,7 @@
         "BEND OR": 2621,
         "CHICAGO": 2569,
         "GREENSBORO-H.POINT-W.SALEM": 2541,
-        "SAVANNAH": 2454,
+        "SAVANNAH": 2456,
         "QUINCY-HANNIBAL-KEOKUK": 2383,
         "BIRMINGHAM (ANN TUSC)": 2358,
         "PEORIA-BLOOMINGTON": 2340,
@@ -354,7 +354,7 @@
         "HOUSTON": 542
       },
       "network_affiliation": {
-        "ABC": 57864,
+        "ABC": 57866,
         "NBC": 56820,
         "CBS": 38818,
         "FOX": 28063,
@@ -426,13 +426,13 @@
         "2019": 13960,
         "2020": 125524,
         "2021": 22599,
-        "2022": 7561,
+        "2022": 7563,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 68412,
-        "US Senate": 49963,
+        "US Senate": 49965,
         "US House": 41675,
         "Presidential": 38655,
         "Local": 24360
@@ -467,14 +467,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237563,
+        "TV": 237565,
         "CABLE": 126692,
         "FM": 112458,
         "AM": 42154,
         "DBS": 5429
       },
       "political_file_type": {
-        "PA": 224168,
+        "PA": 224170,
         "NCIA": 123952
       }
     }
@@ -491,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 212,
-    "processTime": 221,
-    "responseTime": 222
+    "queryTime": 226,
+    "processTime": 235,
+    "responseTime": 236
   }
 }
