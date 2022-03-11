@@ -1,9 +1,56 @@
 {
   "response": {
-    "numFound": 524359,
+    "numFound": 524361,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "75efb514-a063-acaa-cf55-84190b10bded",
+        "file_id": "75efb514-a063-acaa-cf55-84190b10bded",
+        "file_name": "ErinLeighWaddellGarrett.KEEL.03112022",
+        "file_extension": "pdf",
+        "file_size": 209974,
+        "file_status": "com_cpy",
+        "folder_id": "423fe7c1-fb20-2ba4-6088-8f95be2d92b3",
+        "create_ts": "2022-03-11T20:02:37.272Z",
+        "last_update_ts": "2022-03-11T20:02:27.093Z",
+        "active_ind": "Y",
+        "file_manager_id": "4c96f715-6019-452a-a033-5562b04d4e69",
+        "file_folder_path": "Political Files/2022/Local/Committee To Elect Erin L Waddell Garrett",
+        "full_qualified_file_name": "Political Files/2022/Local/Committee To Elect Erin L Waddell Garrett/ErinLeighWaddellGarrett.KEEL.03112022",
+        "entity_id": "46983",
+        "source_service_code": "AM",
+        "callsign": "KEEL",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1727035036291563500,
+        "score": 0.24995685
+      },
+      {
+        "id": "f2e0c091-4bb3-157f-3dc2-d4adf22c3a6a",
+        "file_id": "f2e0c091-4bb3-157f-3dc2-d4adf22c3a6a",
+        "file_name": "Club for Growth Action 1526 0307_0327 2419488-3",
+        "file_extension": "pdf",
+        "file_size": 184049,
+        "file_status": "com_cpy",
+        "folder_id": "c9ddccdf-3fd2-124d-ce53-e72029bf66dd",
+        "create_ts": "2022-03-11T19:45:30.154Z",
+        "last_update_ts": "2022-03-11T19:45:20.027Z",
+        "active_ind": "Y",
+        "file_manager_id": "4c78e22c-14fc-4e57-93a5-ae5ed5dc3c1d",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action/Club for Growth Action 1526 0307_0327 2419488-3",
+        "entity_id": "72064",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "GREENSBORO-H.POINT-W.SALEM",
+        "callsign": "WFMY-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727033959333757000,
+        "score": 0.24995685
+      },
       {
         "id": "355c2e25-d77f-4222-7856-bcb18c9f552f",
         "file_id": "355c2e25-d77f-4222-7856-bcb18c9f552f",
@@ -202,52 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1727032253079355400,
         "score": 0.24995685
-      },
-      {
-        "id": "47bba61b-c4bd-8279-f3c2-6affb643083b",
-        "file_id": "47bba61b-c4bd-8279-f3c2-6affb643083b",
-        "file_name": "DAVE WHITE FOR GOV-R  5170685  EST 496  031422-032022",
-        "file_extension": "pdf",
-        "file_size": 144730,
-        "file_status": "com_cpy",
-        "folder_id": "32a4a639-44ac-ba7f-695f-54ee98afea92",
-        "create_ts": "2022-03-11T19:15:07.095Z",
-        "last_update_ts": "2022-03-11T19:14:56.881Z",
-        "active_ind": "Y",
-        "file_manager_id": "f908233c-c961-4e28-963d-4ed324ca439a",
-        "file_folder_path": "Political Files/2022/State/DAVE WHITE FOR GOV-R",
-        "full_qualified_file_name": "Political Files/2022/State/DAVE WHITE FOR GOV-R/DAVE WHITE FOR GOV-R  5170685  EST 496  031422-032022",
-        "entity_id": "73120",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "JOHNSTOWN-ALTOONA-ST COLGE",
-        "callsign": "WJAC-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727032047612985300,
-        "score": 0.24995685
-      },
-      {
-        "id": "7c82bacd-e1e8-fafb-5eb7-062019165104",
-        "file_id": "7c82bacd-e1e8-fafb-5eb7-062019165104",
-        "file_name": "wpti-quarterly-report-2021-q1-info-pulled-03112022",
-        "file_extension": "pdf",
-        "file_size": 141686,
-        "file_status": "com_cpy",
-        "folder_id": "3cb52c84-f6c2-0dcf-85bd-4eee6b55df81",
-        "create_ts": "2022-03-11T19:10:04.444Z",
-        "last_update_ts": "2022-03-11T19:10:13.924Z",
-        "active_ind": "Y",
-        "file_manager_id": "ee3014ed-08ef-4353-8013-0f856367b111",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/wpti-quarterly-report-2021-q1-info-pulled-03112022",
-        "entity_id": "55754",
-        "source_service_code": "FM",
-        "callsign": "WPTI",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1727031730314936300,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -278,7 +279,7 @@
         "MILWAUKEE": 2630,
         "BEND OR": 2621,
         "CHICAGO": 2564,
-        "GREENSBORO-H.POINT-W.SALEM": 2541,
+        "GREENSBORO-H.POINT-W.SALEM": 2542,
         "SAVANNAH": 2456,
         "QUINCY-HANNIBAL-KEOKUK": 2383,
         "BIRMINGHAM (ANN TUSC)": 2358,
@@ -356,7 +357,7 @@
       "network_affiliation": {
         "ABC": 57869,
         "NBC": 56848,
-        "CBS": 38826,
+        "CBS": 38827,
         "FOX": 28058,
         "PBS": 14422,
         "CW": 12091,
@@ -426,7 +427,7 @@
         "2019": 13960,
         "2020": 125518,
         "2021": 22602,
-        "2022": 7630,
+        "2022": 7632,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -435,7 +436,7 @@
         "US Senate": 49997,
         "US House": 41675,
         "Presidential": 38649,
-        "Local": 24363
+        "Local": 24364
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61632,
@@ -467,15 +468,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237600,
+        "TV": 237601,
         "CABLE": 126694,
         "FM": 112478,
-        "AM": 42158,
+        "AM": 42159,
         "DBS": 5429
       },
       "political_file_type": {
-        "PA": 224219,
-        "NCIA": 123962
+        "PA": 224220,
+        "NCIA": 123963
       }
     }
   },
@@ -491,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1824,
-    "processTime": 832,
-    "responseTime": 1832
+    "queryTime": 1792,
+    "processTime": 802,
+    "responseTime": 1803
   }
 }
