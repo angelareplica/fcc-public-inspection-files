@@ -1,9 +1,58 @@
 {
   "response": {
-    "numFound": 524357,
+    "numFound": 524359,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "355c2e25-d77f-4222-7856-bcb18c9f552f",
+        "file_id": "355c2e25-d77f-4222-7856-bcb18c9f552f",
+        "file_name": "Univision Issue Ads Intake 10-08-19 REVISED Better Jobs Together KWEX #168785 11 24 to 11 30",
+        "file_extension": "docx",
+        "file_size": 35988,
+        "file_status": "com_prc",
+        "folder_id": "c5a5271d-34fe-4d38-0c24-30cf939b739e",
+        "create_ts": "2021-11-22T21:58:58.579Z",
+        "last_update_ts": "2022-03-11T19:34:46.438Z",
+        "active_ind": "Y",
+        "file_manager_id": "42179fa9-20ad-4581-8871-61fb1bcd5c43",
+        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Better Jobs Together Campaing/Contract 168785",
+        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Better Jobs Together Campaing/Contract 168785/Univision Issue Ads Intake 10-08-19 REVISED Better Jobs Together KWEX #168785 11 24 to 11 30",
+        "entity_id": "35881",
+        "source_service_code": "TV",
+        "network_affiliation": "UNIVISION",
+        "nielsen_dma_rank": "SAN ANTONIO",
+        "callsign": "KWEX-DT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2021",
+        "_version_": 1727033294965440500,
+        "score": 0.24995685
+      },
+      {
+        "id": "1934b4e8-f084-91ab-a44a-ba388548b89a",
+        "file_id": "1934b4e8-f084-91ab-a44a-ba388548b89a",
+        "file_name": "CORMAN FOR GOV-R  5158504  EST 1523  032322-032922",
+        "file_extension": "pdf",
+        "file_size": 126558,
+        "file_status": "com_cpy",
+        "folder_id": "859a0627-b3c3-05f5-2361-3688b2d7c7ba",
+        "create_ts": "2022-03-11T19:31:13.13Z",
+        "last_update_ts": "2022-03-11T19:31:02.886Z",
+        "active_ind": "Y",
+        "file_manager_id": "d38af40d-7b15-4297-b576-18102a415e4e",
+        "file_folder_path": "Political Files/2022/State/JAKE CORMAN FOR GOV",
+        "full_qualified_file_name": "Political Files/2022/State/JAKE CORMAN FOR GOV/CORMAN FOR GOV-R  5158504  EST 1523  032322-032922",
+        "entity_id": "73120",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "JOHNSTOWN-ALTOONA-ST COLGE",
+        "callsign": "WJAC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727033060544741400,
+        "score": 0.24995685
+      },
       {
         "id": "a98584b1-7836-0606-5e37-c6c757790462",
         "file_id": "a98584b1-7836-0606-5e37-c6c757790462",
@@ -199,56 +248,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1727031730314936300,
         "score": 0.24995685
-      },
-      {
-        "id": "61194971-0d71-c909-6eb4-198ac38be2b1",
-        "file_id": "61194971-0d71-c909-6eb4-198ac38be2b1",
-        "file_name": "MCCORMICK FOR SENATE-R  5165012  EST 3011  041822-042422",
-        "file_extension": "pdf",
-        "file_size": 161790,
-        "file_status": "com_cpy",
-        "folder_id": "51d95b27-42dc-48e8-dca6-6fa953f3b211",
-        "create_ts": "2022-03-11T18:44:34.242Z",
-        "last_update_ts": "2022-03-11T19:00:06.552Z",
-        "active_ind": "Y",
-        "file_manager_id": "6ba312ab-36ba-48e9-b51d-b9ce30fb83fd",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Friends of David McCormick",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Friends of David McCormick/MCCORMICK FOR SENATE-R  5165012  EST 3011  041822-042422",
-        "entity_id": "73120",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "JOHNSTOWN-ALTOONA-ST COLGE",
-        "callsign": "WJAC-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1727031093462302700,
-        "score": 0.24995685
-      },
-      {
-        "id": "6326b75a-a768-ff1c-1c47-635be2148cc9",
-        "file_id": "6326b75a-a768-ff1c-1c47-635be2148cc9",
-        "file_name": "MCCORMICK FOR SENATE-R  5164808  EST 3005  041122-041722",
-        "file_extension": "pdf",
-        "file_size": 162035,
-        "file_status": "com_cpy",
-        "folder_id": "51d95b27-42dc-48e8-dca6-6fa953f3b211",
-        "create_ts": "2022-03-11T18:44:34.384Z",
-        "last_update_ts": "2022-03-11T19:00:06.453Z",
-        "active_ind": "Y",
-        "file_manager_id": "75a2aee5-a158-4f86-a242-3764ccf2fef8",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Friends of David McCormick",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Friends of David McCormick/MCCORMICK FOR SENATE-R  5164808  EST 3005  041122-041722",
-        "entity_id": "73120",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "JOHNSTOWN-ALTOONA-ST COLGE",
-        "callsign": "WJAC-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1727031093359542300,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -310,7 +309,7 @@
         "MIAMI-FT. LAUDERDALE": 1300,
         "PADUCAH-CAPE GIRARD-HARSBG": 1300,
         "GAINESVILLE": 1265,
-        "JOHNSTOWN-ALTOONA-ST COLGE": 1231,
+        "JOHNSTOWN-ALTOONA-ST COLGE": 1232,
         "PROVIDENCE-NEW BEDFORD": 1200,
         "ANCHORAGE": 1197,
         "LOS ANGELES": 1145,
@@ -356,14 +355,14 @@
       },
       "network_affiliation": {
         "ABC": 57869,
-        "NBC": 56847,
+        "NBC": 56848,
         "CBS": 38826,
         "FOX": 28058,
         "PBS": 14422,
         "CW": 12091,
         "IND": 2992,
         "MYTV": 2230,
-        "UNIVISION": 1888,
+        "UNIVISION": 1889,
         "MY NETWORK": 1558,
         "CBS/NBC": 1081,
         "TELEMUNDO": 868,
@@ -426,13 +425,13 @@
         "2018": 67678,
         "2019": 13960,
         "2020": 125518,
-        "2021": 22601,
-        "2022": 7629,
+        "2021": 22602,
+        "2022": 7630,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68431,
+        "State": 68432,
         "US Senate": 49997,
         "US House": 41675,
         "Presidential": 38649,
@@ -468,15 +467,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237598,
+        "TV": 237600,
         "CABLE": 126694,
         "FM": 112478,
         "AM": 42158,
         "DBS": 5429
       },
       "political_file_type": {
-        "PA": 224218,
-        "NCIA": 123961
+        "PA": 224219,
+        "NCIA": 123962
       }
     }
   },
@@ -492,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 226,
-    "processTime": 233,
-    "responseTime": 234
+    "queryTime": 1824,
+    "processTime": 832,
+    "responseTime": 1832
   }
 }
