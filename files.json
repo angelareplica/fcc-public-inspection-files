@@ -1,9 +1,56 @@
 {
   "response": {
-    "numFound": 524361,
+    "numFound": 524363,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "1fa7b7f4-e2bb-0c29-a0c3-857f745625af",
+        "file_id": "1fa7b7f4-e2bb-0c29-a0c3-857f745625af",
+        "file_name": "KSLV-KYDN Carol Riggenbach HD 62 Order Confirmation 031122",
+        "file_extension": "pdf",
+        "file_size": 110452,
+        "file_status": "com_cpy",
+        "folder_id": "90a69295-66d8-b8fc-2fb7-110bf7f70c45",
+        "create_ts": "2022-03-11T20:42:14.545Z",
+        "last_update_ts": "2022-03-11T20:42:24.091Z",
+        "active_ind": "Y",
+        "file_manager_id": "1649528f-e72a-44e8-b9fd-f608aa1dfe5c",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/KSLV-KYDN Carol Riggenbach HD 62 Order Confirmation 031122",
+        "entity_id": "164123",
+        "source_service_code": "FM",
+        "callsign": "KSLV-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727037528933924900,
+        "score": 0.24995685
+      },
+      {
+        "id": "6df84699-ea84-91a2-9bb0-5c31da3004d8",
+        "file_id": "6df84699-ea84-91a2-9bb0-5c31da3004d8",
+        "file_name": "Northern Plains Resource Council KXLH  Order 990622 0313-0501",
+        "file_extension": "pdf",
+        "file_size": 21787,
+        "file_status": "com_cpy",
+        "folder_id": "7134d2fc-a6a3-fa6a-a56c-a62deee07975",
+        "create_ts": "2022-03-11T20:41:57.527Z",
+        "last_update_ts": "2022-03-11T20:41:47.219Z",
+        "active_ind": "Y",
+        "file_manager_id": "9f232c68-607d-4820-8d79-e69c16ed36d2",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Northern Plains Resource Council/ORDERS/KXLH Orders/990622",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Northern Plains Resource Council/ORDERS/KXLH Orders/990622/Northern Plains Resource Council KXLH  Order 990622 0313-0501",
+        "entity_id": "35567",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "GREAT FALLS",
+        "callsign": "KRTV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727037511067238400,
+        "score": 0.24995685
+      },
       {
         "id": "75efb514-a063-acaa-cf55-84190b10bded",
         "file_id": "75efb514-a063-acaa-cf55-84190b10bded",
@@ -199,56 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1727032253718986800,
         "score": 0.24995685
-      },
-      {
-        "id": "e2516d5e-5795-b7da-d7e5-afbb13cbd62a",
-        "file_id": "e2516d5e-5795-b7da-d7e5-afbb13cbd62a",
-        "file_name": "MCSWAIN FOR GOV-R  5147772  EST 3435  041322-041922",
-        "file_extension": "pdf",
-        "file_size": 124294,
-        "file_status": "com_cpy",
-        "folder_id": "38746fcd-342c-9197-1528-0959d7b8724a",
-        "create_ts": "2022-03-11T19:18:23.61Z",
-        "last_update_ts": "2022-03-11T19:18:26.219Z",
-        "active_ind": "Y",
-        "file_manager_id": "88e11726-55dd-4b76-8b0f-9d9f8d855230",
-        "file_folder_path": "Political Files/2022/State/Bill McSwain for Governor-R",
-        "full_qualified_file_name": "Political Files/2022/State/Bill McSwain for Governor-R/MCSWAIN FOR GOV-R  5147772  EST 3435  041322-041922",
-        "entity_id": "73120",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "JOHNSTOWN-ALTOONA-ST COLGE",
-        "callsign": "WJAC-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727032253653975000,
-        "score": 0.24995685
-      },
-      {
-        "id": "0bc13a9a-969a-7cd2-0352-db78b705d1ef",
-        "file_id": "0bc13a9a-969a-7cd2-0352-db78b705d1ef",
-        "file_name": "MCSWAIN FOR GOV-R  5147648  EST 3436  042022-042622",
-        "file_extension": "pdf",
-        "file_size": 126949,
-        "file_status": "com_cpy",
-        "folder_id": "38746fcd-342c-9197-1528-0959d7b8724a",
-        "create_ts": "2022-03-11T19:18:23.025Z",
-        "last_update_ts": "2022-03-11T19:18:25.703Z",
-        "active_ind": "Y",
-        "file_manager_id": "d3c1abae-208b-4c17-983c-7823bda7f3fd",
-        "file_folder_path": "Political Files/2022/State/Bill McSwain for Governor-R",
-        "full_qualified_file_name": "Political Files/2022/State/Bill McSwain for Governor-R/MCSWAIN FOR GOV-R  5147648  EST 3436  042022-042622",
-        "entity_id": "73120",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "JOHNSTOWN-ALTOONA-ST COLGE",
-        "callsign": "WJAC-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727032253079355400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -292,7 +289,7 @@
         "LEXINGTON": 2082,
         "ROCHESTR-MASON CITY-AUSTIN": 1986,
         "WASHINGTON DC (HAGRSTWN)": 1935,
-        "GREAT FALLS": 1923,
+        "GREAT FALLS": 1924,
         "SIOUX CITY": 1861,
         "LA CROSSE-EAU CLAIRE": 1833,
         "BLUEFIELD-BECKLEY-OAK HILL": 1757,
@@ -357,7 +354,7 @@
       "network_affiliation": {
         "ABC": 57869,
         "NBC": 56848,
-        "CBS": 38827,
+        "CBS": 38828,
         "FOX": 28058,
         "PBS": 14422,
         "CW": 12091,
@@ -427,12 +424,12 @@
         "2019": 13960,
         "2020": 125518,
         "2021": 22602,
-        "2022": 7632,
+        "2022": 7634,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68432,
+        "State": 68433,
         "US Senate": 49997,
         "US House": 41675,
         "Presidential": 38649,
@@ -468,15 +465,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237601,
+        "TV": 237602,
         "CABLE": 126694,
-        "FM": 112478,
+        "FM": 112479,
         "AM": 42159,
         "DBS": 5429
       },
       "political_file_type": {
-        "PA": 224220,
-        "NCIA": 123963
+        "PA": 224221,
+        "NCIA": 123964
       }
     }
   },
@@ -492,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1792,
-    "processTime": 802,
-    "responseTime": 1803
+    "queryTime": 1789,
+    "processTime": 798,
+    "responseTime": 1798
   }
 }
