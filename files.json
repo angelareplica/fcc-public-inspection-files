@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 524441,
+    "numFound": 524442,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "3b8a36c0-c12a-e91a-8de5-6fc9ffebb5ef",
+        "file_id": "3b8a36c0-c12a-e91a-8de5-6fc9ffebb5ef",
+        "file_name": "WANI-Tim James for Governor-EST 14188 Confirmation-031122",
+        "file_extension": "pdf",
+        "file_size": 277386,
+        "file_status": "com_cpy",
+        "folder_id": "091e38fa-1f38-3c74-6926-6a6103da4ce3",
+        "create_ts": "2022-03-12T22:14:30.735Z",
+        "last_update_ts": "2022-03-12T22:14:20.36Z",
+        "active_ind": "Y",
+        "file_manager_id": "0cf3611b-a86d-49e0-8055-3f348194498b",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/WANI-Tim James for Governor-EST 14188 Confirmation-031122",
+        "entity_id": "63796",
+        "source_service_code": "AM",
+        "callsign": "WANI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727133931159945200,
+        "score": 0.24995685
+      },
       {
         "id": "a610a397-c433-baca-5c4f-9debf9fddaa2",
         "file_id": "a610a397-c433-baca-5c4f-9debf9fddaa2",
@@ -210,29 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1727119494373965800,
         "score": 0.24995685
-      },
-      {
-        "id": "f8d7ca63-523a-4996-8e97-4734c2a92a94",
-        "file_id": "f8d7ca63-523a-4996-8e97-4734c2a92a94",
-        "file_name": "Lisa Zavogiannis WOWC Remote (031222)",
-        "file_extension": "pdf",
-        "file_size": 1188472,
-        "file_status": "com_cpy",
-        "folder_id": "33be867e-2136-2c87-0775-a90a1773e328",
-        "create_ts": "2022-03-12T18:25:02.14Z",
-        "last_update_ts": "2022-03-12T18:24:52.342Z",
-        "active_ind": "Y",
-        "file_manager_id": "1541c12b-c2da-4b79-8f25-a0e5566e8678",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Lisa Zavogiannis WOWC Remote (031222)",
-        "entity_id": "3337",
-        "source_service_code": "FM",
-        "callsign": "WOWC",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1727119494311051300,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -411,12 +411,12 @@
         "2019": 13960,
         "2020": 125518,
         "2021": 22606,
-        "2022": 7705,
+        "2022": 7706,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68455,
+        "State": 68456,
         "US Senate": 50006,
         "US House": 41676,
         "Presidential": 38649,
@@ -455,11 +455,11 @@
         "TV": 237645,
         "CABLE": 126696,
         "FM": 112494,
-        "AM": 42171,
+        "AM": 42172,
         "DBS": 5435
       },
       "political_file_type": {
-        "PA": 224275,
+        "PA": 224276,
         "NCIA": 123985
       }
     }
@@ -476,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 215,
-    "processTime": 222,
-    "responseTime": 222
+    "queryTime": 226,
+    "processTime": 234,
+    "responseTime": 234
   }
 }
