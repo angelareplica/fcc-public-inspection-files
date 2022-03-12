@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 524421,
+    "numFound": 524422,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "164a473f-330a-31d2-bc24-f15643ccd707",
+        "file_id": "164a473f-330a-31d2-bc24-f15643ccd707",
+        "file_name": "0305-0312",
+        "file_extension": "docx",
+        "file_size": 62770,
+        "file_status": "com_prc",
+        "folder_id": "8d5bc958-6d4b-a442-1a72-2ebb0f6d1aa6",
+        "create_ts": "2022-03-12T13:59:39.581Z",
+        "last_update_ts": "2022-03-12T13:59:58.611Z",
+        "active_ind": "Y",
+        "file_manager_id": "2a1be19a-d5d4-4366-b1b5-db947d72f34f",
+        "file_folder_path": "Issues and Programs Lists/2022/2022 Q1",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/2022 Q1/0305-0312",
+        "entity_id": "15349",
+        "source_service_code": "FM",
+        "callsign": "KHLL",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1727102814777245700,
+        "score": 0.24995685
+      },
       {
         "id": "34954659-19e3-60db-dc0e-a0d7aedccfa0",
         "file_id": "34954659-19e3-60db-dc0e-a0d7aedccfa0",
@@ -207,30 +228,6 @@
         "campaign_year": "2022",
         "_version_": 1727053993571516400,
         "score": 0.24995685
-      },
-      {
-        "id": "d3adb4fd-73bc-8b8b-a2b3-8c3f960f8b97",
-        "file_id": "d3adb4fd-73bc-8b8b-a2b3-8c3f960f8b97",
-        "file_name": "Univision Issue Ads Intake 10-08-19 REVISED Better Jobs Together KNIC #168783 11 24 to 11 30",
-        "file_extension": "docx",
-        "file_size": 35979,
-        "file_status": "com_prc",
-        "folder_id": "f8ffd440-ebc7-6f19-abf2-19b58f88146c",
-        "create_ts": "2021-11-22T22:03:32.215Z",
-        "last_update_ts": "2022-03-12T01:00:44.849Z",
-        "active_ind": "Y",
-        "file_manager_id": "3d5bd49f-7f61-478f-9147-d21c701f1d64",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Better Jobs Together Campaign/Contract 168783",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Better Jobs Together Campaign/Contract 168783/Univision Issue Ads Intake 10-08-19 REVISED Better Jobs Together KNIC #168783 11 24 to 11 30",
-        "entity_id": "125710",
-        "source_service_code": "TV",
-        "network_affiliation": "UNIVISION",
-        "nielsen_dma_rank": "SAN ANTONIO",
-        "callsign": "KNIC-DT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2021",
-        "_version_": 1727053789914988500,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -422,7 +419,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61632,
-        "Issues and Programs Lists": 44918,
+        "Issues and Programs Lists": 44919,
         "Equal Employment Opportunity Records": 37153,
         "Donor Lists - Applicable Only for NCEs": 11721,
         "FCC Authorizations": 7280,
@@ -452,7 +449,7 @@
       "source_service_code": {
         "TV": 237645,
         "CABLE": 126696,
-        "FM": 112484,
+        "FM": 112485,
         "AM": 42161,
         "DBS": 5435
       },
@@ -474,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1826,
-    "processTime": 835,
-    "responseTime": 1835
+    "queryTime": 215,
+    "processTime": 226,
+    "responseTime": 226
   }
 }
