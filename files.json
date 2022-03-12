@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 524426,
+    "numFound": 524428,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "8c7ee54a-25a4-eefd-4b81-a394a8771eb3",
+        "file_id": "8c7ee54a-25a4-eefd-4b81-a394a8771eb3",
+        "file_name": "Friends of Brett Lindstrom Order (Mar 09 2022-May 10 2022) REVISED Mar 11 2022",
+        "file_extension": "pdf",
+        "file_size": 193280,
+        "file_status": "com_cpy",
+        "folder_id": "e28f6ac0-378f-f9f6-9da4-c6c08bd326ea",
+        "create_ts": "2022-03-12T16:52:51.415Z",
+        "last_update_ts": "2022-03-12T16:53:46.235Z",
+        "active_ind": "Y",
+        "file_manager_id": "698c2aa1-0692-4d56-82a9-9910b6bc6ac1",
+        "file_folder_path": "Political Files/2022/State/Nebraska Governor/Friends of Brett Lindstrom",
+        "full_qualified_file_name": "Political Files/2022/State/Nebraska Governor/Friends of Brett Lindstrom/Friends of Brett Lindstrom Order (Mar 09 2022-May 10 2022) REVISED Mar 11 2022",
+        "entity_id": "67472",
+        "source_service_code": "AM",
+        "callsign": "KOLT",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727113762678243300,
+        "score": 0.24995685
+      },
+      {
+        "id": "56e274ed-48ee-5280-bfcc-e3afa148726f",
+        "file_id": "56e274ed-48ee-5280-bfcc-e3afa148726f",
+        "file_name": "Friends of Brett Lindstrom Order (Mar 09 2022-May 10 2022) REVISED Mar 11 2022",
+        "file_extension": "pdf",
+        "file_size": 193050,
+        "file_status": "com_cpy",
+        "folder_id": "35003bbe-b3e4-a1f9-b670-82843248e8e8",
+        "create_ts": "2022-03-12T16:50:42.441Z",
+        "last_update_ts": "2022-03-12T16:51:19.824Z",
+        "active_ind": "Y",
+        "file_manager_id": "8141844b-1a43-430d-a45d-c45154734694",
+        "file_folder_path": "Political Files/2022/State/Nebraska Governor/Friends of Brett Lindstrom",
+        "full_qualified_file_name": "Political Files/2022/State/Nebraska Governor/Friends of Brett Lindstrom/Friends of Brett Lindstrom Order (Mar 09 2022-May 10 2022) REVISED Mar 11 2022",
+        "entity_id": "51463",
+        "source_service_code": "AM",
+        "callsign": "KNEB",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727113595406254000,
+        "score": 0.24995685
+      },
       {
         "id": "92c86275-5b59-d76c-13b7-28db6383ce72",
         "file_id": "92c86275-5b59-d76c-13b7-28db6383ce72",
@@ -189,50 +235,6 @@
         "non_political_file_folder": "Ownership Reports",
         "_version_": 1727055337063710700,
         "score": 0.24995685
-      },
-      {
-        "id": "58af373a-115c-c1b8-bd7b-4ee5bd1d8ed8",
-        "file_id": "58af373a-115c-c1b8-bd7b-4ee5bd1d8ed8",
-        "file_name": "Jim Pillen NAB 1.13 D2 Larry 031122",
-        "file_extension": "pdf",
-        "file_size": 128665,
-        "file_status": "com_cpy",
-        "folder_id": "912acca9-fd5c-9cb9-e771-11a2525bda65",
-        "create_ts": "2022-03-12T01:14:29.832Z",
-        "last_update_ts": "2022-03-12T01:14:39.904Z",
-        "active_ind": "Y",
-        "file_manager_id": "f9a814a0-2af7-4abc-97ae-feaf314d865f",
-        "file_folder_path": "Political Files/2022/State/Nebraska/Jim Pillen NE Governor",
-        "full_qualified_file_name": "Political Files/2022/State/Nebraska/Jim Pillen NE Governor/Jim Pillen NAB 1.13 D2 Larry 031122",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727054657739554800,
-        "score": 0.24995685
-      },
-      {
-        "id": "dd985833-03e2-b3df-a94c-245f49370e80",
-        "file_id": "dd985833-03e2-b3df-a94c-245f49370e80",
-        "file_name": "Brett Lindstrom NAB D2 Lehigh 031122",
-        "file_extension": "pdf",
-        "file_size": 1050316,
-        "file_status": "com_cpy",
-        "folder_id": "2423bb1c-2dc8-c992-a9c8-013fa7da333d",
-        "create_ts": "2022-03-12T01:13:29.154Z",
-        "last_update_ts": "2022-03-12T01:13:39.545Z",
-        "active_ind": "Y",
-        "file_manager_id": "4d65af66-e497-4409-9d41-60116aa26fd9",
-        "file_folder_path": "Political Files/2022/State/Nebraska/Brett Lindstrom NE Governor",
-        "full_qualified_file_name": "Political Files/2022/State/Nebraska/Brett Lindstrom NE Governor/Brett Lindstrom NAB D2 Lehigh 031122",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727054594448556000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -411,12 +413,12 @@
         "2019": 13960,
         "2020": 125518,
         "2021": 22606,
-        "2022": 7690,
+        "2022": 7692,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68453,
+        "State": 68455,
         "US Senate": 50006,
         "US House": 41676,
         "Presidential": 38649,
@@ -455,11 +457,11 @@
         "TV": 237645,
         "CABLE": 126696,
         "FM": 112487,
-        "AM": 42163,
+        "AM": 42165,
         "DBS": 5435
       },
       "political_file_type": {
-        "PA": 224260,
+        "PA": 224262,
         "NCIA": 123985
       }
     }
@@ -476,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 212,
-    "processTime": 223,
-    "responseTime": 224
+    "queryTime": 213,
+    "processTime": 222,
+    "responseTime": 222
   }
 }
