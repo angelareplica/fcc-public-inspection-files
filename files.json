@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 524737,
+    "numFound": 524738,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "79180c14-719e-f552-be41-b36f090f7608",
+        "file_id": "79180c14-719e-f552-be41-b36f090f7608",
+        "file_name": "KRNV CLUB FOR GROWTH #1750287 REV 0.1",
+        "file_extension": "pdf",
+        "file_size": 1364787,
+        "file_status": "com_cpy",
+        "folder_id": "bc9d51dc-85f1-4bd9-6979-0b8cbf686c2d",
+        "create_ts": "2022-03-14T23:28:33.59Z",
+        "last_update_ts": "2022-03-14T23:28:23.398Z",
+        "active_ind": "Y",
+        "file_manager_id": "3fd2683c-dc35-4974-a1b4-b4f6cdc8a432",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth/KRNV CLUB FOR GROWTH #1750287 REV 0.1",
+        "entity_id": "60307",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "RENO",
+        "callsign": "KRNV-DT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727319784369946600,
+        "score": 0.24995685
+      },
       {
         "id": "277745b6-339f-3e02-57a3-f4badb81ab28",
         "file_id": "277745b6-339f-3e02-57a3-f4badb81ab28",
@@ -216,31 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1727317800879390700,
         "score": 0.24995685
-      },
-      {
-        "id": "4130665d-25ea-12c2-39ad-ac3c972e770c",
-        "file_id": "4130665d-25ea-12c2-39ad-ac3c972e770c",
-        "file_name": "JB for Governor 03.15.22-03.21.22 #334993",
-        "file_extension": "pdf",
-        "file_size": 187257,
-        "file_status": "com_cpy",
-        "folder_id": "6334f15d-3835-d085-f092-6ba82b66c2e2",
-        "create_ts": "2022-03-14T22:56:05.987Z",
-        "last_update_ts": "2022-03-14T22:55:55.216Z",
-        "active_ind": "Y",
-        "file_manager_id": "7f9eae23-56ed-4fdb-b4ff-811dc51a2fa6",
-        "file_folder_path": "Political Files/2022/State/JB Pritzker for Governor",
-        "full_qualified_file_name": "Political Files/2022/State/JB Pritzker for Governor/JB for Governor 03.15.22-03.21.22 #334993",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727317741553057800,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -348,7 +347,7 @@
       },
       "network_affiliation": {
         "ABC": 57911,
-        "NBC": 56913,
+        "NBC": 56914,
         "CBS": 38870,
         "FOX": 28082,
         "PBS": 14422,
@@ -419,7 +418,7 @@
         "2019": 13960,
         "2020": 125498,
         "2021": 22656,
-        "2022": 7950,
+        "2022": 7951,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -460,7 +459,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237790,
+        "TV": 237791,
         "CABLE": 126698,
         "FM": 112602,
         "AM": 42191,
@@ -468,7 +467,7 @@
       },
       "political_file_type": {
         "PA": 224469,
-        "NCIA": 124066
+        "NCIA": 124067
       }
     }
   },
@@ -484,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 225,
-    "processTime": 233,
-    "responseTime": 233
+    "queryTime": 1824,
+    "processTime": 833,
+    "responseTime": 1834
   }
 }
