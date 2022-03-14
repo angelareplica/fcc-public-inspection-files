@@ -5,6 +5,30 @@
     "maxScore": 0.5001637,
     "docs": [
       {
+        "id": "f3592cfe-d824-8331-2f14-b55d6e9bd14a",
+        "file_id": "f3592cfe-d824-8331-2f14-b55d6e9bd14a",
+        "file_name": "AB PAC Updated NAB 03-14-2022",
+        "file_extension": "pdf",
+        "file_size": 1052077,
+        "file_status": "com_cpy",
+        "folder_id": "832d8286-35f6-b6cf-e807-efe43043a21c",
+        "create_ts": "2022-03-14T22:42:28.888Z",
+        "last_update_ts": "2022-03-14T22:42:31.918Z",
+        "active_ind": "Y",
+        "file_manager_id": "9caeb148-f858-4cf0-9209-85455b9b55a4",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/AP BAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/AP BAC/AB PAC Updated NAB 03-14-2022",
+        "entity_id": "36918",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "TUCSON (SIERRA VISTA)",
+        "callsign": "KGUN-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727316884948254700,
+        "score": 0.24995685
+      },
+      {
         "id": "d3128127-f5eb-1f55-218a-374f2bd0dbfc",
         "file_id": "d3128127-f5eb-1f55-218a-374f2bd0dbfc",
         "file_name": "3-15-22 to 4-01-22 order",
@@ -209,29 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1727314426380419000,
         "score": 0.24995685
-      },
-      {
-        "id": "c357200a-13de-1b76-2260-bcfb6e376ab3",
-        "file_id": "c357200a-13de-1b76-2260-bcfb6e376ab3",
-        "file_name": "2885208-1",
-        "file_extension": "pdf",
-        "file_size": 27280,
-        "file_status": "com_cpy",
-        "folder_id": "7f6751d8-95f3-417e-8a13-d45290b7e6fd",
-        "create_ts": "2022-03-14T22:02:22.803Z",
-        "last_update_ts": "2022-03-14T22:02:41.037Z",
-        "active_ind": "Y",
-        "file_manager_id": "9c96fc3b-d6f8-4e95-907c-96f8e312de73",
-        "file_folder_path": "Political Files/2021/Non-Candidate Issue Ads/Mainers for Local Power/10-26-21 - 11-02-21",
-        "full_qualified_file_name": "Political Files/2021/Non-Candidate Issue Ads/Mainers for Local Power/10-26-21 - 11-02-21/2885208-1",
-        "entity_id": "52605",
-        "source_service_code": "FM",
-        "callsign": "WMME-FM",
-        "political_file_type": "NCIA",
-        "office_type": "Local",
-        "campaign_year": "2021",
-        "_version_": 1727314361704251400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -259,7 +260,7 @@
         "KANSAS CITY": 2749,
         "FT. WAYNE": 2712,
         "FRESNO-VISALIA": 2682,
-        "MILWAUKEE": 2631,
+        "MILWAUKEE": 2630,
         "BEND OR": 2621,
         "CHICAGO": 2564,
         "GREENSBORO-H.POINT-W.SALEM": 2547,
@@ -338,8 +339,8 @@
         "HOUSTON": 542
       },
       "network_affiliation": {
-        "ABC": 57908,
-        "NBC": 56914,
+        "ABC": 57909,
+        "NBC": 56913,
         "CBS": 38866,
         "FOX": 28082,
         "PBS": 14422,
@@ -416,7 +417,7 @@
       },
       "office_type": {
         "State": 68561,
-        "US Senate": 50079,
+        "US Senate": 50078,
         "US House": 41685,
         "Presidential": 38641,
         "Local": 24408
@@ -458,8 +459,8 @@
         "DBS": 5456
       },
       "political_file_type": {
-        "PA": 224462,
-        "NCIA": 124061
+        "PA": 224461,
+        "NCIA": 124062
       }
     }
   },
@@ -475,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1837,
-    "processTime": 845,
-    "responseTime": 1846
+    "queryTime": 1783,
+    "processTime": 790,
+    "responseTime": 1790
   }
 }
