@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 524452,
+    "numFound": 524454,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "a98cec53-1fd0-a2ea-4f0a-38e6e7249fa4",
+        "file_id": "a98cec53-1fd0-a2ea-4f0a-38e6e7249fa4",
+        "file_name": "Nicholson For Mayor EST 2832 0315-032122 WDRB",
+        "file_extension": "pdf",
+        "file_size": 38750,
+        "file_status": "com_cpy",
+        "folder_id": "3ac7e879-2212-6cd6-ddd6-417b2cb6ed2c",
+        "create_ts": "2022-03-14T15:46:22.798Z",
+        "last_update_ts": "2022-03-14T15:46:12.256Z",
+        "active_ind": "Y",
+        "file_manager_id": "0aeaf67f-50c9-4471-9bca-25bd408fd0b1",
+        "file_folder_path": "Political Files/2022/Local/Mayor - Louisville/Nicholson for Mayor",
+        "full_qualified_file_name": "Political Files/2022/Local/Mayor - Louisville/Nicholson for Mayor/Nicholson For Mayor EST 2832 0315-032122 WDRB",
+        "entity_id": "28476",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "LOUISVILLE",
+        "callsign": "WDRB",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1727290706085544000,
+        "score": 0.24995685
+      },
+      {
+        "id": "c538320e-78fd-118e-391a-5213ff9f9904",
+        "file_id": "c538320e-78fd-118e-391a-5213ff9f9904",
+        "file_name": "WYEA-Ben Robbins for State House-22010123-022822",
+        "file_extension": "pdf",
+        "file_size": 6509,
+        "file_status": "com_cpy",
+        "folder_id": "6c8d1ea3-68f7-edd3-4617-d51f72a49584",
+        "create_ts": "2022-03-14T15:28:17.79Z",
+        "last_update_ts": "2022-03-14T15:28:20.46Z",
+        "active_ind": "Y",
+        "file_manager_id": "e4cad0c0-a1d4-4132-9e05-524a9b059d0b",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/WYEA-Ben Robbins for State House-22010123-022822",
+        "entity_id": "70638",
+        "source_service_code": "AM",
+        "callsign": "WYEA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727289568023019500,
+        "score": 0.24995685
+      },
       {
         "id": "3ea2d629-748f-872b-da02-1675bd32e793",
         "file_id": "3ea2d629-748f-872b-da02-1675bd32e793",
@@ -189,52 +237,6 @@
         "non_political_file_folder": "FCC Investigations or Complaints",
         "_version_": 1727288844188909600,
         "score": 0.24995685
-      },
-      {
-        "id": "d6f6cb4f-ccff-491d-78c2-33d8dc595af2",
-        "file_id": "d6f6cb4f-ccff-491d-78c2-33d8dc595af2",
-        "file_name": "Mike Sodrel 031422 Friends of Mike Sodrel NAB",
-        "file_extension": "pdf",
-        "file_size": 1996698,
-        "file_status": "com_cpy",
-        "folder_id": "46df461e-e37b-b71f-323a-d68000da5518",
-        "create_ts": "2022-03-14T14:55:46.695Z",
-        "last_update_ts": "2022-03-14T15:00:23.661Z",
-        "active_ind": "Y",
-        "file_manager_id": "67e38a54-e84a-4caf-b69c-2b9c7a727dd6",
-        "file_folder_path": "Political Files/2022/Federal/US House",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Mike Sodrel 031422 Friends of Mike Sodrel NAB",
-        "entity_id": "50764",
-        "source_service_code": "FM",
-        "callsign": "WAYK",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1727287823972696000,
-        "score": 0.24995685
-      },
-      {
-        "id": "042223c4-69d8-41f8-ca57-ffbbbb0e869e",
-        "file_id": "042223c4-69d8-41f8-ca57-ffbbbb0e869e",
-        "file_name": "Keller Hopkins NAB-PB-19 - Signed 03 10 2022",
-        "file_extension": "pdf",
-        "file_size": 212734,
-        "file_status": "com_cpy",
-        "folder_id": "7f09980b-aeeb-df8f-7cfe-9ee4888bd6f9",
-        "create_ts": "2022-03-14T14:40:50.299Z",
-        "last_update_ts": "2022-03-14T14:40:39.611Z",
-        "active_ind": "Y",
-        "file_manager_id": "5063d52c-9f9c-4bef-853d-33b204c7cb0f",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Keller Hopkins NAB-PB-19 - Signed 03 10 2022",
-        "entity_id": "58763",
-        "source_service_code": "FM",
-        "callsign": "WCHK-FM",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1727286582399991800,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -313,7 +315,7 @@
         "JACKSON MS": 987,
         "WICHITA-HUTCHINSON PLUS": 955,
         "FT. SMITH-FAY-SPRNGDL-RGRS": 920,
-        "LOUISVILLE": 899,
+        "LOUISVILLE": 900,
         "DALLAS-FT. WORTH": 860,
         "PANAMA CITY": 859,
         "INDIANAPOLIS": 829,
@@ -344,7 +346,7 @@
         "ABC": 57878,
         "NBC": 56855,
         "CBS": 38828,
-        "FOX": 28070,
+        "FOX": 28071,
         "PBS": 14422,
         "CW": 12091,
         "IND": 2992,
@@ -413,16 +415,16 @@
         "2019": 13960,
         "2020": 125508,
         "2021": 22606,
-        "2022": 7724,
+        "2022": 7726,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68462,
+        "State": 68463,
         "US Senate": 50009,
         "US House": 41679,
         "Presidential": 38641,
-        "Local": 24393
+        "Local": 24394
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61632,
@@ -454,14 +456,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237638,
+        "TV": 237639,
         "CABLE": 126698,
         "FM": 112505,
-        "AM": 42176,
+        "AM": 42177,
         "DBS": 5435
       },
       "political_file_type": {
-        "PA": 224284,
+        "PA": 224286,
         "NCIA": 123985
       }
     }
@@ -478,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1793,
-    "processTime": 801,
-    "responseTime": 1802
+    "queryTime": 1833,
+    "processTime": 846,
+    "responseTime": 1846
   }
 }
