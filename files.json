@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 524926,
+    "numFound": 524927,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "a9e8ff96-22c5-d7f0-41f5-1cd44e5aeaa5",
+        "file_id": "a9e8ff96-22c5-d7f0-41f5-1cd44e5aeaa5",
+        "file_name": "Irvin for Illinois 1155266-0",
+        "file_extension": "pdf",
+        "file_size": 150745,
+        "file_status": "com_cpy",
+        "folder_id": "fca220f7-b256-2a0f-75c8-1eb7515f222c",
+        "create_ts": "2022-03-15T22:43:03.153Z",
+        "last_update_ts": "2022-03-15T22:43:24.294Z",
+        "active_ind": "Y",
+        "file_manager_id": "b74a6771-a66f-494e-869f-348e4cdac373",
+        "file_folder_path": "Political Files/2022/State/Irvin for Illinois",
+        "full_qualified_file_name": "Political Files/2022/State/Irvin for Illinois/Irvin for Illinois 1155266-0",
+        "entity_id": "22211",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "CHICAGO",
+        "callsign": "WFLD",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727407517612376000,
+        "score": 0.24995688
+      },
       {
         "id": "e7169318-dafe-3663-5385-07329dc8734d",
         "file_id": "e7169318-dafe-3663-5385-07329dc8734d",
@@ -224,31 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1727403684414881800,
         "score": 0.24995688
-      },
-      {
-        "id": "8cd3eafc-7e8d-cb1e-45a1-21c4c70830c1",
-        "file_id": "8cd3eafc-7e8d-cb1e-45a1-21c4c70830c1",
-        "file_name": "AxMedia Jim Pillen for Nebraska Governor KKTQ NAB Contract 52055 03142022 03202022",
-        "file_extension": "pdf",
-        "file_size": 1016042,
-        "file_status": "com_cpy",
-        "folder_id": "495891a6-67f5-3d1f-2645-77f7d6993128",
-        "create_ts": "2022-03-15T21:28:49.55Z",
-        "last_update_ts": "2022-03-15T21:29:10.882Z",
-        "active_ind": "Y",
-        "file_manager_id": "070b59ba-3286-44f4-8f65-7f06e19a968f",
-        "file_folder_path": "Political Files/2022/State/KKTQ/PILLEN NE GOV 03142022 03192022",
-        "full_qualified_file_name": "Political Files/2022/State/KKTQ/PILLEN NE GOV 03142022 03192022/AxMedia Jim Pillen for Nebraska Governor KKTQ NAB Contract 52055 03142022 03202022",
-        "entity_id": "18286",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CASPER-RIVERTON",
-        "callsign": "KTWO-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727402848015089700,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -278,7 +278,7 @@
         "FRESNO-VISALIA": 2682,
         "MILWAUKEE": 2630,
         "BEND OR": 2621,
-        "CHICAGO": 2566,
+        "CHICAGO": 2567,
         "GREENSBORO-H.POINT-W.SALEM": 2550,
         "SAVANNAH": 2461,
         "QUINCY-HANNIBAL-KEOKUK": 2383,
@@ -358,7 +358,7 @@
         "ABC": 57939,
         "NBC": 56928,
         "CBS": 38897,
-        "FOX": 28093,
+        "FOX": 28094,
         "PBS": 14413,
         "CW": 12093,
         "IND": 2991,
@@ -427,12 +427,12 @@
         "2019": 13960,
         "2020": 125498,
         "2021": 22660,
-        "2022": 8137,
+        "2022": 8138,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68614,
+        "State": 68615,
         "US Senate": 50140,
         "US House": 41688,
         "Presidential": 38641,
@@ -468,14 +468,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237873,
+        "TV": 237874,
         "CABLE": 126749,
         "FM": 112627,
         "AM": 42217,
         "DBS": 5460
       },
       "political_file_type": {
-        "PA": 224596,
+        "PA": 224597,
         "NCIA": 124129
       }
     }
@@ -492,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1761,
-    "processTime": 772,
+    "queryTime": 1763,
+    "processTime": 771,
     "responseTime": 1772
   }
 }
