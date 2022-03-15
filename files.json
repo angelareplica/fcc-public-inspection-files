@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 524797,
+    "numFound": 524798,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "5c53fa8c-c840-4974-ab6f-7d7d0ba2c17f",
+        "file_id": "5c53fa8c-c840-4974-ab6f-7d7d0ba2c17f",
+        "file_name": "Dave McCormick NAB 031522",
+        "file_extension": "pdf",
+        "file_size": 179105,
+        "file_status": "com_cpy",
+        "folder_id": "e9df6010-e87d-0de1-2149-f507db57b4ec",
+        "create_ts": "2022-03-15T15:27:56.603Z",
+        "last_update_ts": "2022-03-15T15:28:17.157Z",
+        "active_ind": "Y",
+        "file_manager_id": "c577e182-e974-4643-acd2-9d2d892e6f91",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/MCCORMICK/MAR 14 THRU MAR 16",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/MCCORMICK/MAR 14 THRU MAR 16/Dave McCormick NAB 031522",
+        "entity_id": "72313",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "HARRISBURG-LNCSTR-LEB-YORK",
+        "callsign": "WHP-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1727380143145484300,
+        "score": 0.24995685
+      },
       {
         "id": "8f2d7386-7051-6d5d-1273-5f1c4180cedc",
         "file_id": "8f2d7386-7051-6d5d-1273-5f1c4180cedc",
@@ -215,31 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1727376725757657000,
         "score": 0.24995685
-      },
-      {
-        "id": "9409c0d1-6617-364c-39c0-0d34c770610b",
-        "file_id": "9409c0d1-6617-364c-39c0-0d34c770610b",
-        "file_name": "A31264-REQUEST-626604-031422",
-        "file_extension": "pdf",
-        "file_size": 9291,
-        "file_status": "com_cpy",
-        "folder_id": "71beb820-319e-80d7-25aa-3330978e89d0",
-        "create_ts": "2022-03-15T14:33:37.41Z",
-        "last_update_ts": "2022-03-15T14:33:40.475Z",
-        "active_ind": "Y",
-        "file_manager_id": "f2f9c0cb-458e-40b4-9d1f-bf1b1c611658",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Sarah Godlewski/Sarah for Wisconsin 31264",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Sarah Godlewski/Sarah for Wisconsin 31264/A31264-REQUEST-626604-031422",
-        "entity_id": "81503",
-        "source_service_code": "TV",
-        "network_affiliation": "FAMILYNET",
-        "nielsen_dma_rank": "WAUSAU-RHINELANDER",
-        "callsign": "WMOW",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1727376725660139500,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -348,7 +348,7 @@
       "network_affiliation": {
         "ABC": 57921,
         "NBC": 56916,
-        "CBS": 38875,
+        "CBS": 38876,
         "FOX": 28082,
         "PBS": 14413,
         "CW": 12092,
@@ -418,13 +418,13 @@
         "2019": 13960,
         "2020": 125498,
         "2021": 22656,
-        "2022": 8018,
+        "2022": 8019,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 68570,
-        "US Senate": 50111,
+        "US Senate": 50112,
         "US House": 41685,
         "Presidential": 38641,
         "Local": 24418
@@ -459,14 +459,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237804,
+        "TV": 237805,
         "CABLE": 126728,
         "FM": 112610,
         "AM": 42198,
         "DBS": 5457
       },
       "political_file_type": {
-        "PA": 224513,
+        "PA": 224514,
         "NCIA": 124090
       }
     }
@@ -483,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1826,
-    "processTime": 836,
-    "responseTime": 1836
+    "queryTime": 1796,
+    "processTime": 807,
+    "responseTime": 1808
   }
 }
