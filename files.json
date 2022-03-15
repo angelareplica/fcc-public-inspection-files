@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 524764,
+    "numFound": 524765,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "b328f997-643b-c0cc-a937-78177f862df4",
+        "file_id": "b328f997-643b-c0cc-a937-78177f862df4",
+        "file_name": "DTRH l Secretario Gabriel Maldonado anuncia nueva Feria de Empleo _ 02.20.2022.docx",
+        "file_extension": "pdf",
+        "file_size": 217019,
+        "file_status": "com_cpy",
+        "folder_id": "9837c7d5-bf43-038b-430c-20067ff7142d",
+        "create_ts": "2022-03-15T10:44:06.165Z",
+        "last_update_ts": "2022-03-15T10:43:55.334Z",
+        "active_ind": "Y",
+        "file_manager_id": "7a186920-91b4-4585-9322-ebfdfc8d2ca0",
+        "file_folder_path": "FCC Authorizations/Additional Documents/PSA 2022",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/PSA 2022/DTRH l Secretario Gabriel Maldonado anuncia nueva Feria de Empleo _ 02.20.2022.docx",
+        "entity_id": "54483",
+        "source_service_code": "AM",
+        "callsign": "WOIZ",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1727362285294321700,
+        "score": 0.24995685
+      },
       {
         "id": "3442ed3b-fe5f-989c-4f01-fb3e5eb7cb43",
         "file_id": "3442ed3b-fe5f-989c-4f01-fb3e5eb7cb43",
@@ -228,31 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1727331746073018400,
         "score": 0.24995685
-      },
-      {
-        "id": "0db9bd96-918a-81c2-5b84-a0d1fd475310",
-        "file_id": "0db9bd96-918a-81c2-5b84-a0d1fd475310",
-        "file_name": "LAXALT FOR SENATE - N#3658035 - 022322-030122 - IC",
-        "file_extension": "pdf",
-        "file_size": 94946,
-        "file_status": "com_cpy",
-        "folder_id": "0a084d48-f8cf-901c-9aa6-755db0fe78d1",
-        "create_ts": "2022-03-15T02:38:41.882Z",
-        "last_update_ts": "2022-03-15T02:38:44.588Z",
-        "active_ind": "Y",
-        "file_manager_id": "7bce5741-e82c-4983-a132-4059d0bf637c",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Laxalt for Senate",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Laxalt for Senate/LAXALT FOR SENATE - N#3658035 - 022322-030122 - IC",
-        "entity_id": "007293",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS LAS VEGAS INC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1727331746070921200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -447,7 +443,7 @@
         "Issues and Programs Lists": 44921,
         "Equal Employment Opportunity Records": 37157,
         "Donor Lists - Applicable Only for NCEs": 11712,
-        "FCC Authorizations": 7281,
+        "FCC Authorizations": 7282,
         "Local Public Notice Announcements": 1882,
         "Availability of Signals": 1867,
         "Applications and Related Materials": 1680,
@@ -475,7 +471,7 @@
         "TV": 237784,
         "CABLE": 126728,
         "FM": 112602,
-        "AM": 42194,
+        "AM": 42195,
         "DBS": 5456
       },
       "political_file_type": {
@@ -496,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 64,
-    "processTime": 72,
-    "responseTime": 72
+    "queryTime": 1798,
+    "processTime": 823,
+    "responseTime": 1823
   }
 }
