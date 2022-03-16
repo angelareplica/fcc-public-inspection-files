@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 524968,
+    "numFound": 524970,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "7f2ac9fe-5862-6259-341a-3b4cdbe24fb1",
+        "file_id": "7f2ac9fe-5862-6259-341a-3b4cdbe24fb1",
+        "file_name": "Jessica Herring City Council KUMX-FM 03152022",
+        "file_extension": "pdf",
+        "file_size": 1465926,
+        "file_status": "com_cpy",
+        "folder_id": "e1875440-29e5-fdff-7c2c-4d18af6b485b",
+        "create_ts": "2022-03-16T05:03:27.806Z",
+        "last_update_ts": "2022-03-16T05:03:50.217Z",
+        "active_ind": "Y",
+        "file_manager_id": "19fc2214-a9f8-4b45-91a5-8e819b7992cb",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Jessica Herring City Council KUMX-FM 03152022",
+        "entity_id": "57668",
+        "source_service_code": "FM",
+        "callsign": "KUMX",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1727431451556708400,
+        "score": 0.24995688
+      },
+      {
+        "id": "98cf3978-8928-9fe7-3e8d-3a2cf943fe88",
+        "file_id": "98cf3978-8928-9fe7-3e8d-3a2cf943fe88",
+        "file_name": "Jessica Herring City Council KVVP-FM 03152022",
+        "file_extension": "pdf",
+        "file_size": 1473098,
+        "file_status": "com_cpy",
+        "folder_id": "15f8bd8d-eded-faa3-90b5-fa0633e1515e",
+        "create_ts": "2022-03-16T05:02:09.535Z",
+        "last_update_ts": "2022-03-16T05:01:59.04Z",
+        "active_ind": "Y",
+        "file_manager_id": "9573bda2-fa55-4b9f-bd56-d4d3d4593e7a",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Jessica Herring City Council KVVP-FM 03152022",
+        "entity_id": "62277",
+        "source_service_code": "FM",
+        "callsign": "KVVP",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1727431369545482200,
+        "score": 0.24995688
+      },
       {
         "id": "f97fc014-f2e5-4a4b-fbde-a9676438ef05",
         "file_id": "f97fc014-f2e5-4a4b-fbde-a9676438ef05",
@@ -198,56 +244,6 @@
         "campaign_year": "2022",
         "_version_": 1727424603232403500,
         "score": 0.24995688
-      },
-      {
-        "id": "abd587fd-089c-5053-bbdf-b8b101a6e4c9",
-        "file_id": "abd587fd-089c-5053-bbdf-b8b101a6e4c9",
-        "file_name": "NAB PB-19 Public File Forms_SL4LG_2022-0314 Sylvia Luke KHII",
-        "file_extension": "pdf",
-        "file_size": 119209,
-        "file_status": "com_cpy",
-        "folder_id": "5bf5da1a-4bbc-8925-7485-f1292abcaf39",
-        "create_ts": "2022-03-16T03:08:35.862Z",
-        "last_update_ts": "2022-03-16T03:08:38.618Z",
-        "active_ind": "Y",
-        "file_manager_id": "f4cb14f2-5013-4aaa-8996-ee82ec502b88",
-        "file_folder_path": "Political Files/2022/State/Lieutenant Governor/Sylvia Luke",
-        "full_qualified_file_name": "Political Files/2022/State/Lieutenant Governor/Sylvia Luke/NAB PB-19 Public File Forms_SL4LG_2022-0314 Sylvia Luke KHII",
-        "entity_id": "36914",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "HONOLULU",
-        "callsign": "KGMD-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727424224197345300,
-        "score": 0.24995688
-      },
-      {
-        "id": "939c4a23-83f4-2020-d29b-1aaa34fd98c6",
-        "file_id": "939c4a23-83f4-2020-d29b-1aaa34fd98c6",
-        "file_name": "Vicky Cayetano for Gov 2.3-2.20 KHII 3401483B-0",
-        "file_extension": "pdf",
-        "file_size": 27453,
-        "file_status": "com_cpy",
-        "folder_id": "9b1e1902-a6ff-81cb-40c2-ff12e0a5e6e0",
-        "create_ts": "2022-02-12T02:39:03.765Z",
-        "last_update_ts": "2022-03-16T03:04:54.744Z",
-        "active_ind": "Y",
-        "file_manager_id": "5c02ce2d-3c88-4455-b842-dc3efab8c813",
-        "file_folder_path": "Political Files/2022/State/Governor/Vicky Cayetano",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Vicky Cayetano/Vicky Cayetano for Gov 2.3-2.20 KHII 3401483B-0",
-        "entity_id": "36914",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "HONOLULU",
-        "callsign": "KGMD-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727423969721581600,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -426,7 +422,7 @@
         "2019": 13960,
         "2020": 125498,
         "2021": 22660,
-        "2022": 8180,
+        "2022": 8182,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -435,7 +431,7 @@
         "US Senate": 50140,
         "US House": 41695,
         "Presidential": 38641,
-        "Local": 24426
+        "Local": 24428
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61638,
@@ -469,12 +465,12 @@
       "source_service_code": {
         "TV": 237902,
         "CABLE": 126749,
-        "FM": 112639,
+        "FM": 112641,
         "AM": 42218,
         "DBS": 5460
       },
       "political_file_type": {
-        "PA": 224630,
+        "PA": 224632,
         "NCIA": 124138
       }
     }
@@ -491,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 63,
-    "processTime": 81,
-    "responseTime": 82
+    "queryTime": 1742,
+    "processTime": 752,
+    "responseTime": 1752
   }
 }
