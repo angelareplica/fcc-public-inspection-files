@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 524969,
+    "numFound": 524968,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
@@ -340,7 +340,7 @@
         "COLORADO SPRINGS-PUEBLO": 725,
         "AUSTIN": 722,
         "BUFFALO": 689,
-        "SAN FRANCISCO-OAK-SAN JOSE": 677,
+        "SAN FRANCISCO-OAK-SAN JOSE": 676,
         "BANGOR": 673,
         "SAN DIEGO": 657,
         "HARTFORD & NEW HAVEN": 641,
@@ -356,7 +356,7 @@
       "network_affiliation": {
         "ABC": 57947,
         "NBC": 56928,
-        "CBS": 38910,
+        "CBS": 38909,
         "FOX": 28101,
         "PBS": 14413,
         "CW": 12093,
@@ -426,7 +426,7 @@
         "2019": 13960,
         "2020": 125498,
         "2021": 22660,
-        "2022": 8181,
+        "2022": 8180,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -467,7 +467,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237903,
+        "TV": 237902,
         "CABLE": 126749,
         "FM": 112639,
         "AM": 42218,
@@ -475,7 +475,7 @@
       },
       "political_file_type": {
         "PA": 224630,
-        "NCIA": 124139
+        "NCIA": 124138
       }
     }
   },
@@ -491,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1768,
-    "processTime": 778,
-    "responseTime": 1779
+    "queryTime": 210,
+    "processTime": 219,
+    "responseTime": 219
   }
 }
