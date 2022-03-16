@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 524999,
+    "numFound": 524984,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
@@ -347,7 +347,7 @@
         "NBC": 56932,
         "CBS": 38910,
         "FOX": 28102,
-        "PBS": 14413,
+        "PBS": 14398,
         "CW": 12094,
         "IND": 2991,
         "MYTV": 2230,
@@ -430,7 +430,7 @@
         "Records Concerning Commercial Limits in Childrens Programs": 61638,
         "Issues and Programs Lists": 44922,
         "Equal Employment Opportunity Records": 37157,
-        "Donor Lists - Applicable Only for NCEs": 11708,
+        "Donor Lists - Applicable Only for NCEs": 11693,
         "FCC Authorizations": 7281,
         "Local Public Notice Announcements": 1882,
         "Availability of Signals": 1867,
@@ -456,7 +456,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237917,
+        "TV": 237902,
         "CABLE": 126751,
         "FM": 112649,
         "AM": 42222,
@@ -480,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 195,
-    "processTime": 203,
-    "responseTime": 204
+    "queryTime": 1791,
+    "processTime": 801,
+    "responseTime": 1802
   }
 }
