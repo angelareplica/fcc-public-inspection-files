@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 524975,
+    "numFound": 524977,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "7ef27c2b-1679-559d-d299-0e9b565c8aed",
+        "file_id": "7ef27c2b-1679-559d-d299-0e9b565c8aed",
+        "file_name": "Cuomo 031422 NAB PB-19",
+        "file_extension": "pdf",
+        "file_size": 1839991,
+        "file_status": "com_cpy",
+        "folder_id": "31f9ae32-cf6f-7f84-6d76-7e428639f1d3",
+        "create_ts": "2022-03-16T13:26:48.417Z",
+        "last_update_ts": "2022-03-16T13:26:51.83Z",
+        "active_ind": "Y",
+        "file_manager_id": "3dcf5357-c7d3-4b62-b91f-c8f1b14d0814",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Cuomo Friends of Andrew",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Cuomo Friends of Andrew/Cuomo 031422 NAB PB-19",
+        "entity_id": "68851",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "WATERTOWN",
+        "callsign": "WWNY-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727463119229288400,
+        "score": 0.24995688
+      },
+      {
+        "id": "c56d176c-48b5-e53d-0210-7ccfde26a1a3",
+        "file_id": "c56d176c-48b5-e53d-0210-7ccfde26a1a3",
+        "file_name": "Cuomo 031422 NAB PB-19",
+        "file_extension": "pdf",
+        "file_size": 1839991,
+        "file_status": "com_cpy",
+        "folder_id": "01c12f22-bfa6-ff5e-50e0-0ec2db4d64e6",
+        "create_ts": "2022-03-16T13:25:38.362Z",
+        "last_update_ts": "2022-03-16T13:26:01.588Z",
+        "active_ind": "Y",
+        "file_manager_id": "a01d394c-5eb4-4de7-b9d4-c4a491e6ad18",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Cuomo Friends of Andrew",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Cuomo Friends of Andrew/Cuomo 031422 NAB PB-19",
+        "entity_id": "168478",
+        "source_service_code": "TV",
+        "callsign": "WNYF-CD",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727463045550047200,
+        "score": 0.24995688
+      },
       {
         "id": "e4ae6015-462e-d2cf-f896-75c2257b14b7",
         "file_id": "e4ae6015-462e-d2cf-f896-75c2257b14b7",
@@ -189,56 +235,6 @@
         "campaign_year": "2022",
         "_version_": 1727424837286101000,
         "score": 0.24995688
-      },
-      {
-        "id": "87509027-bd6e-0c03-f12c-ff507431572e",
-        "file_id": "87509027-bd6e-0c03-f12c-ff507431572e",
-        "file_name": "WTVH TOM SUOZZI FOR GOVERNOR EST 9406 03.01.22-03.07.22 - INVOICE #1755827-2",
-        "file_extension": "pdf",
-        "file_size": 22934,
-        "file_status": "com_cpy",
-        "folder_id": "e77ebddf-7f76-2feb-5758-2c9dc24fd9d7",
-        "create_ts": "2022-03-16T03:18:20.557Z",
-        "last_update_ts": "2022-03-16T03:18:23.307Z",
-        "active_ind": "Y",
-        "file_manager_id": "928a7d12-bfaa-4050-8110-530c05cc73e0",
-        "file_folder_path": "Political Files/2022/State/TOM SUOZZI FOR GOVERNOR",
-        "full_qualified_file_name": "Political Files/2022/State/TOM SUOZZI FOR GOVERNOR/WTVH TOM SUOZZI FOR GOVERNOR EST 9406 03.01.22-03.07.22 - INVOICE #1755827-2",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727424837285052400,
-        "score": 0.24995688
-      },
-      {
-        "id": "0d1e16da-b24c-5bc8-cee4-a4351595d21b",
-        "file_id": "0d1e16da-b24c-5bc8-cee4-a4351595d21b",
-        "file_name": "WTVH WILSON FOR NEW YORK GOVERNOR EST 3465 03.07.22-03.13.22 - INVOICE #1756234-1",
-        "file_extension": "pdf",
-        "file_size": 68015,
-        "file_status": "com_cpy",
-        "folder_id": "909a02e9-a44a-b025-db96-b81799a348e0",
-        "create_ts": "2022-03-16T03:17:40.025Z",
-        "last_update_ts": "2022-03-16T03:18:01.627Z",
-        "active_ind": "Y",
-        "file_manager_id": "79deb97d-7a00-40c2-9562-8beb45f9c426",
-        "file_folder_path": "Political Files/2022/State/WILSON FOR NEW YORK GOVERNOR-R",
-        "full_qualified_file_name": "Political Files/2022/State/WILSON FOR NEW YORK GOVERNOR-R/WTVH WILSON FOR NEW YORK GOVERNOR EST 3465 03.07.22-03.13.22 - INVOICE #1756234-1",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727424794790461400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -347,7 +343,7 @@
       "network_affiliation": {
         "ABC": 57947,
         "NBC": 56928,
-        "CBS": 38909,
+        "CBS": 38910,
         "FOX": 28101,
         "PBS": 14413,
         "CW": 12093,
@@ -417,7 +413,7 @@
         "2019": 13960,
         "2020": 125498,
         "2021": 22660,
-        "2022": 8187,
+        "2022": 8189,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -458,7 +454,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237902,
+        "TV": 237904,
         "CABLE": 126749,
         "FM": 112646,
         "AM": 42218,
@@ -466,7 +462,7 @@
       },
       "political_file_type": {
         "PA": 224637,
-        "NCIA": 124138
+        "NCIA": 124140
       }
     }
   },
@@ -482,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1763,
-    "processTime": 774,
-    "responseTime": 1774
+    "queryTime": 1762,
+    "processTime": 769,
+    "responseTime": 1770
   }
 }
