@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 525132,
+    "numFound": 525134,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "974d3269-5f11-0fb1-5f2e-ba7000e4eafa",
+        "file_id": "974d3269-5f11-0fb1-5f2e-ba7000e4eafa",
+        "file_name": "Protect Our Future KOIN 7552 3451141",
+        "file_extension": "pdf",
+        "file_size": 24105,
+        "file_status": "com_cpy",
+        "folder_id": "9618e15c-60fe-aebd-912e-981913817aa2",
+        "create_ts": "2022-03-17T00:07:44.129Z",
+        "last_update_ts": "2022-03-17T00:08:08.145Z",
+        "active_ind": "Y",
+        "file_manager_id": "9830b27b-fe20-47b9-8193-85d6108d09cf",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future OR-06/Contracts",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future OR-06/Contracts/Protect Our Future KOIN 7552 3451141",
+        "entity_id": "35380",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "PORTLAND OR",
+        "callsign": "KOIN",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727503442305351700,
+        "score": 0.24995688
+      },
+      {
+        "id": "3ecb46bb-8834-1777-1f8d-db4c8a32ff84",
+        "file_id": "3ecb46bb-8834-1777-1f8d-db4c8a32ff84",
+        "file_name": "Protect Our Future  KRCW 7552 3450028",
+        "file_extension": "pdf",
+        "file_size": 22827,
+        "file_status": "com_cpy",
+        "folder_id": "a239e16c-ed64-763c-3cec-8f3a93c87009",
+        "create_ts": "2022-03-17T00:04:27.057Z",
+        "last_update_ts": "2022-03-17T00:04:29.823Z",
+        "active_ind": "Y",
+        "file_manager_id": "7c883c2e-5246-4652-b9c8-877684deabd7",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future OR-06/Contracts",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future OR-06/Contracts/Protect Our Future  KRCW 7552 3450028",
+        "entity_id": "10192",
+        "source_service_code": "TV",
+        "network_affiliation": "CW",
+        "nielsen_dma_rank": "PORTLAND OR",
+        "callsign": "KRCW-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727503235650945000,
+        "score": 0.24995688
+      },
       {
         "id": "3de18e7e-b6ff-ecc7-6bae-1f06b922c312",
         "file_id": "3de18e7e-b6ff-ecc7-6bae-1f06b922c312",
@@ -188,54 +236,6 @@
         "campaign_year": "2022",
         "_version_": 1727497886682316800,
         "score": 0.24995688
-      },
-      {
-        "id": "95bf5278-cc06-89a1-46de-c7ab50f59141",
-        "file_id": "95bf5278-cc06-89a1-46de-c7ab50f59141",
-        "file_name": "WTVH FRIENDS OF ANDREW CUOMO EST XXXX 03.15.22 TO 03.27.22 - PAYMENT",
-        "file_extension": "pdf",
-        "file_size": 9389,
-        "file_status": "com_cpy",
-        "folder_id": "27317b0c-1024-1b1f-d1bf-efe72202b523",
-        "create_ts": "2022-03-16T22:39:25.749Z",
-        "last_update_ts": "2022-03-16T22:39:49.69Z",
-        "active_ind": "Y",
-        "file_manager_id": "bfec9db3-9cbd-45b3-b984-dcea96d8522c",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/FRIENDS OF ANDREW CUOMO",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/FRIENDS OF ANDREW CUOMO/WTVH FRIENDS OF ANDREW CUOMO EST XXXX 03.15.22 TO 03.27.22 - PAYMENT",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1727497886656102400,
-        "score": 0.24995688
-      },
-      {
-        "id": "d530aec6-ca44-0552-96b1-b7e920eda863",
-        "file_id": "d530aec6-ca44-0552-96b1-b7e920eda863",
-        "file_name": "WTVH FRIENDS OF ANDREW CUOMO EST XXXX 03.15.22 TO 03.27.22 - ORDER #1761649",
-        "file_extension": "pdf",
-        "file_size": 228156,
-        "file_status": "com_cpy",
-        "folder_id": "27317b0c-1024-1b1f-d1bf-efe72202b523",
-        "create_ts": "2022-03-16T22:39:25.761Z",
-        "last_update_ts": "2022-03-16T22:39:28.663Z",
-        "active_ind": "Y",
-        "file_manager_id": "dd04036d-1983-4f62-acc9-d09438241d94",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/FRIENDS OF ANDREW CUOMO",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/FRIENDS OF ANDREW CUOMO/WTVH FRIENDS OF ANDREW CUOMO EST XXXX 03.15.22 TO 03.27.22 - ORDER #1761649",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1727497886691754000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -257,7 +257,7 @@
         "MISSOULA": 3294,
         "RALEIGH-DURHAM (FAYETVLLE)": 3253,
         "CHAMPAIGN&SPRNGFLD-DECATUR": 3234,
-        "PORTLAND OR": 3180,
+        "PORTLAND OR": 3182,
         "MINNEAPOLIS-ST. PAUL": 3162,
         "SACRAMNTO-STKTON-MODESTO": 2814,
         "KANSAS CITY": 2749,
@@ -344,10 +344,10 @@
       "network_affiliation": {
         "ABC": 57978,
         "NBC": 56938,
-        "CBS": 38932,
+        "CBS": 38933,
         "FOX": 28107,
         "PBS": 14386,
-        "CW": 12103,
+        "CW": 12104,
         "IND": 2992,
         "MYTV": 2233,
         "UNIVISION": 1895,
@@ -414,7 +414,7 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22661,
-        "2022": 8351,
+        "2022": 8353,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -455,7 +455,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237971,
+        "TV": 237973,
         "CABLE": 126775,
         "FM": 112686,
         "AM": 42236,
@@ -463,7 +463,7 @@
       },
       "political_file_type": {
         "PA": 224738,
-        "NCIA": 124200
+        "NCIA": 124202
       }
     }
   },
@@ -479,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 196,
-    "processTime": 208,
-    "responseTime": 208
+    "queryTime": 1787,
+    "processTime": 796,
+    "responseTime": 1797
   }
 }
