@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 525250,
+    "numFound": 525252,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "da320e14-93ee-c6cb-916b-5e542f3a86a7",
+        "file_id": "da320e14-93ee-c6cb-916b-5e542f3a86a7",
+        "file_name": "WBCF MFS #3194404  Est #14188 James For AL Gov 031122-031722 OPIF",
+        "file_extension": "pdf",
+        "file_size": 2002345,
+        "file_status": "com_cpy",
+        "folder_id": "dc9d5024-43ad-8a3d-6f2c-fb125ae1fae1",
+        "create_ts": "2022-03-17T22:06:11.13Z",
+        "last_update_ts": "2022-03-17T22:06:00.477Z",
+        "active_ind": "Y",
+        "file_manager_id": "7e97cfe5-52f7-4505-8234-24cf74b61b65",
+        "file_folder_path": "Political Files/2022/State/Governor",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/WBCF MFS #3194404  Est #14188 James For AL Gov 031122-031722 OPIF",
+        "entity_id": "4769",
+        "source_service_code": "AM",
+        "callsign": "WBCF",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727586392887787500,
+        "score": 0.24995688
+      },
+      {
+        "id": "7859e26f-6487-7d09-cf15-26cd9aedb011",
+        "file_id": "7859e26f-6487-7d09-cf15-26cd9aedb011",
+        "file_name": "WBCF MFS #3194645  Est #14202 James For AL Gov 031822-032422 OPIF",
+        "file_extension": "pdf",
+        "file_size": 1402187,
+        "file_status": "com_cpy",
+        "folder_id": "dc9d5024-43ad-8a3d-6f2c-fb125ae1fae1",
+        "create_ts": "2022-03-17T22:06:09.365Z",
+        "last_update_ts": "2022-03-17T22:05:58.443Z",
+        "active_ind": "Y",
+        "file_manager_id": "3b2bc73b-2837-4b7e-baf7-debf947b0fe1",
+        "file_folder_path": "Political Files/2022/State/Governor",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/WBCF MFS #3194645  Est #14202 James For AL Gov 031822-032422 OPIF",
+        "entity_id": "4769",
+        "source_service_code": "AM",
+        "callsign": "WBCF",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727586390760226800,
+        "score": 0.24995688
+      },
       {
         "id": "5c800390-75fa-4e47-5666-5f45be5299d9",
         "file_id": "5c800390-75fa-4e47-5666-5f45be5299d9",
@@ -203,51 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1727584072966865000,
         "score": 0.24995688
-      },
-      {
-        "id": "d1f2cdad-4971-2d15-0339-206f98b6a639",
-        "file_id": "d1f2cdad-4971-2d15-0339-206f98b6a639",
-        "file_name": "MO Brooks NAB 2022 D2 JAN 6th 031722",
-        "file_extension": "pdf",
-        "file_size": 1060702,
-        "file_status": "com_cpy",
-        "folder_id": "911eb879-b524-0b3a-78a7-06b1b6f1b661",
-        "create_ts": "2022-03-17T21:12:42.939Z",
-        "last_update_ts": "2022-03-17T21:13:09.766Z",
-        "active_ind": "Y",
-        "file_manager_id": "cdbd23c9-3fff-457e-8875-dd8cd098f441",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Alabama/Mo Brooks AL",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Alabama/Mo Brooks AL/MO Brooks NAB 2022 D2 JAN 6th 031722",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1727583028385939500,
-        "score": 0.24995688
-      },
-      {
-        "id": "10bb4287-23e7-92e3-0c49-364cb31661c7",
-        "file_id": "10bb4287-23e7-92e3-0c49-364cb31661c7",
-        "file_name": "Quigley, Mike - The John Williams Show 031722",
-        "file_extension": "pdf",
-        "file_size": 98224,
-        "file_status": "com_cpy",
-        "folder_id": "2835b0d5-0142-d6ec-4108-813cd60d9622",
-        "create_ts": "2022-03-17T21:07:29.055Z",
-        "last_update_ts": "2022-03-17T21:07:31.99Z",
-        "active_ind": "Y",
-        "file_manager_id": "2379324a-1a59-4903-8033-d0c74e52e198",
-        "file_folder_path": "Political Files/2022/Federal/US House/Mike Quigley - Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Mike Quigley - Congress/Quigley, Mike - The John Williams Show 031722",
-        "entity_id": "72114",
-        "source_service_code": "AM",
-        "callsign": "WGN",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1727582698991517700,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -426,12 +427,12 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22661,
-        "2022": 8467,
+        "2022": 8469,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68759,
+        "State": 68761,
         "US Senate": 50190,
         "US House": 41706,
         "Presidential": 38639,
@@ -470,11 +471,11 @@
         "TV": 238034,
         "CABLE": 126816,
         "FM": 112692,
-        "AM": 42242,
+        "AM": 42244,
         "DBS": 5466
       },
       "political_file_type": {
-        "PA": 224837,
+        "PA": 224839,
         "NCIA": 124217
       }
     }
@@ -491,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1728,
-    "processTime": 738,
-    "responseTime": 1738
+    "queryTime": 1736,
+    "processTime": 744,
+    "responseTime": 1745
   }
 }
