@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 525139,
+    "numFound": 525140,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "ce984751-b6be-15bd-8e31-ebb0ebc32baf",
+        "file_id": "ce984751-b6be-15bd-8e31-ebb0ebc32baf",
+        "file_name": "Annual EEO Public File Report 03_2022 final",
+        "file_extension": "pdf",
+        "file_size": 114400,
+        "file_status": "com_cpy",
+        "folder_id": "d04fe6ce-9813-ac2f-9300-d9b91f8bc46d",
+        "create_ts": "2022-03-17T13:08:47.779Z",
+        "last_update_ts": "2022-03-17T13:09:33.941Z",
+        "active_ind": "Y",
+        "file_manager_id": "10fce73b-fafe-440b-844d-294187a53b59",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/Annual EEO Public File Report 03_2022 final",
+        "entity_id": "175387",
+        "source_service_code": "FM",
+        "callsign": "WDDE",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1727552642775777300,
+        "score": 0.24995688
+      },
       {
         "id": "68375867-900c-9948-c68b-c06666fe0a24",
         "file_id": "68375867-900c-9948-c68b-c06666fe0a24",
@@ -221,27 +242,6 @@
         "campaign_year": "2022",
         "_version_": 1727498552686411800,
         "score": 0.24995688
-      },
-      {
-        "id": "c8cc71f3-d66c-5af6-7bbc-8d2dd53491f8",
-        "file_id": "c8cc71f3-d66c-5af6-7bbc-8d2dd53491f8",
-        "file_name": "Conservative Voice of America 2020 NAB - Issue D2 Don't Get It REV 031522",
-        "file_extension": "pdf",
-        "file_size": 129778,
-        "file_status": "com_cpy",
-        "folder_id": "18834e0c-a30d-48ad-3137-43fcb6adc659",
-        "create_ts": "2022-03-16T22:48:28.25Z",
-        "last_update_ts": "2022-03-16T22:48:52.207Z",
-        "active_ind": "Y",
-        "file_manager_id": "731ac4df-e8f0-40ef-a975-c567d57b8fca",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Oklahoma/Conservative Voice of America",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Oklahoma/Conservative Voice of America/Conservative Voice of America 2020 NAB - Issue D2 Don't Get It REV 031522",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1727498455506485200,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -434,7 +434,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61644,
         "Issues and Programs Lists": 44934,
-        "Equal Employment Opportunity Records": 37157,
+        "Equal Employment Opportunity Records": 37158,
         "Donor Lists - Applicable Only for NCEs": 11681,
         "FCC Authorizations": 7282,
         "Local Public Notice Announcements": 1882,
@@ -463,7 +463,7 @@
       "source_service_code": {
         "TV": 237978,
         "CABLE": 126775,
-        "FM": 112686,
+        "FM": 112687,
         "AM": 42236,
         "DBS": 5464
       },
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1764,
-    "processTime": 774,
-    "responseTime": 1775
+    "queryTime": 200,
+    "processTime": 213,
+    "responseTime": 213
   }
 }
