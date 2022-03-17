@@ -1,9 +1,56 @@
 {
   "response": {
-    "numFound": 525209,
+    "numFound": 525211,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "37b2d8ee-e29b-f9bb-0b5f-fb48eb7def7c",
+        "file_id": "37b2d8ee-e29b-f9bb-0b5f-fb48eb7def7c",
+        "file_name": "03-17-2022-Accepted",
+        "file_extension": "pdf",
+        "file_size": 61891,
+        "file_status": "com_cpy",
+        "folder_id": "f6346bce-c6a9-17c0-7abb-c35e6a3ea673",
+        "create_ts": "2022-03-17T19:38:48.174Z",
+        "last_update_ts": "2022-03-17T19:38:51.154Z",
+        "active_ind": "Y",
+        "file_manager_id": "564901cc-3164-4865-9ac3-2615cb2095be",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Conservative Voice of America",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Conservative Voice of America/03-17-2022-Accepted",
+        "entity_id": "59439",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "TULSA",
+        "callsign": "KJRH-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727577119694782500,
+        "score": 0.24995688
+      },
+      {
+        "id": "5ef619a1-0265-7463-149e-4d929198c8e9",
+        "file_id": "5ef619a1-0265-7463-149e-4d929198c8e9",
+        "file_name": "KATIE BRITT WACVFM 03162022",
+        "file_extension": "pdf",
+        "file_size": 250626,
+        "file_status": "com_cpy",
+        "folder_id": "4d2d6e71-1adb-0738-2160-13658340276c",
+        "create_ts": "2022-03-17T19:38:05.054Z",
+        "last_update_ts": "2022-03-17T19:37:53.714Z",
+        "active_ind": "Y",
+        "file_manager_id": "9aaedae8-aba5-48fb-8616-e3384e5a0430",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/KATIE BRITT",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/KATIE BRITT/KATIE BRITT WACVFM 03162022",
+        "entity_id": "189524",
+        "source_service_code": "FM",
+        "callsign": "WACV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1727577074423562200,
+        "score": 0.24995688
+      },
       {
         "id": "aafcb953-49e7-5e3a-a893-6a586637595f",
         "file_id": "aafcb953-49e7-5e3a-a893-6a586637595f",
@@ -203,56 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1727575604948107300,
         "score": 0.24995688
-      },
-      {
-        "id": "70a30a9e-5e01-4b47-ae4b-4814be1885f7",
-        "file_id": "70a30a9e-5e01-4b47-ae4b-4814be1885f7",
-        "file_name": "Sarah Sanders for AK Governor Memphis 0383 4.13-4.19",
-        "file_extension": "pdf",
-        "file_size": 8808,
-        "file_status": "com_cpy",
-        "folder_id": "433325a5-4562-1f69-cc0e-b0ae0b34cb6e",
-        "create_ts": "2022-03-17T19:14:43.807Z",
-        "last_update_ts": "2022-03-17T19:14:32.305Z",
-        "active_ind": "Y",
-        "file_manager_id": "67365e60-081d-4c27-b57a-43c33ba55a38",
-        "file_folder_path": "Political Files/2022/State/Sarah for Governor-Linear Media",
-        "full_qualified_file_name": "Political Files/2022/State/Sarah for Governor-Linear Media/Sarah Sanders for AK Governor Memphis 0383 4.13-4.19",
-        "entity_id": "005380",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727575604927135700,
-        "score": 0.24995688
-      },
-      {
-        "id": "dd0f4b1f-6e52-2747-c69d-c549b55dea33",
-        "file_id": "dd0f4b1f-6e52-2747-c69d-c549b55dea33",
-        "file_name": "Sarah Sanders for AK Governor Memphis 0383 4.6-4.12",
-        "file_extension": "pdf",
-        "file_size": 8796,
-        "file_status": "com_cpy",
-        "folder_id": "433325a5-4562-1f69-cc0e-b0ae0b34cb6e",
-        "create_ts": "2022-03-17T19:14:43.76Z",
-        "last_update_ts": "2022-03-17T19:14:32.26Z",
-        "active_ind": "Y",
-        "file_manager_id": "a30e5d90-3470-462f-9863-329380857286",
-        "file_folder_path": "Political Files/2022/State/Sarah for Governor-Linear Media",
-        "full_qualified_file_name": "Political Files/2022/State/Sarah for Governor-Linear Media/Sarah Sanders for AK Governor Memphis 0383 4.6-4.12",
-        "entity_id": "005380",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727575604879949800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -336,7 +333,7 @@
         "DALLAS-FT. WORTH": 859,
         "INDIANAPOLIS": 829,
         "LANSING": 826,
-        "TULSA": 804,
+        "TULSA": 805,
         "GREENVILLE-N.BERN-WASHNGTN": 802,
         "HELENA": 780,
         "DAYTON": 760,
@@ -360,7 +357,7 @@
       },
       "network_affiliation": {
         "ABC": 57988,
-        "NBC": 56949,
+        "NBC": 56950,
         "CBS": 38938,
         "FOX": 28107,
         "PBS": 14386,
@@ -431,13 +428,13 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22661,
-        "2022": 8426,
+        "2022": 8428,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 68742,
-        "US Senate": 50177,
+        "US Senate": 50178,
         "US House": 41705,
         "Presidential": 38639,
         "Local": 24450
@@ -472,15 +469,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 237999,
+        "TV": 238000,
         "CABLE": 126816,
-        "FM": 112690,
+        "FM": 112691,
         "AM": 42240,
         "DBS": 5464
       },
       "political_file_type": {
-        "PA": 224805,
-        "NCIA": 124208
+        "PA": 224806,
+        "NCIA": 124209
       }
     }
   },
@@ -496,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1766,
-    "processTime": 776,
-    "responseTime": 1776
+    "queryTime": 1768,
+    "processTime": 782,
+    "responseTime": 1782
   }
 }
