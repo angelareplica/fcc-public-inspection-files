@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 525252,
+    "numFound": 525254,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "d0a5efb8-54cd-5ca3-9b3f-497025126079",
+        "file_id": "d0a5efb8-54cd-5ca3-9b3f-497025126079",
+        "file_name": "Karrin for Arizona NAB est 10030 0322 ",
+        "file_extension": "pdf",
+        "file_size": 230714,
+        "file_status": "com_cpy",
+        "folder_id": "3a738698-ca37-cb29-a7e7-1803c6ac4f46",
+        "create_ts": "2022-03-17T22:38:02.638Z",
+        "last_update_ts": "2022-03-17T22:37:51.406Z",
+        "active_ind": "Y",
+        "file_manager_id": "63d33737-77fd-4ac0-a344-d44fd9b28e20",
+        "file_folder_path": "Political Files/2022/State/KARRIN FOR AZ GOVERNOR",
+        "full_qualified_file_name": "Political Files/2022/State/KARRIN FOR AZ GOVERNOR/Karrin for Arizona NAB est 10030 0322 ",
+        "entity_id": "8387",
+        "source_service_code": "AM",
+        "callsign": "KZZZ",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727588396647317500,
+        "score": 0.24995688
+      },
+      {
+        "id": "bbbc78a1-7898-540a-c4c4-fb637341f1d1",
+        "file_id": "bbbc78a1-7898-540a-c4c4-fb637341f1d1",
+        "file_name": "Karrin for Arizona NAB est 10030 0322 ",
+        "file_extension": "pdf",
+        "file_size": 230714,
+        "file_status": "com_cpy",
+        "folder_id": "be389adc-94b8-8576-50c3-aa18c411d244",
+        "create_ts": "2022-03-17T22:36:40.381Z",
+        "last_update_ts": "2022-03-17T22:36:29.212Z",
+        "active_ind": "Y",
+        "file_manager_id": "df55e1cf-ccfd-4030-bbaf-c0fa1696c1ff",
+        "file_folder_path": "Political Files/2022/State/KARRIN FOR AZ GOVERNOR",
+        "full_qualified_file_name": "Political Files/2022/State/KARRIN FOR AZ GOVERNOR/Karrin for Arizona NAB est 10030 0322 ",
+        "entity_id": "55492",
+        "source_service_code": "AM",
+        "callsign": "KAAA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727588310466953200,
+        "score": 0.24995688
+      },
       {
         "id": "da320e14-93ee-c6cb-916b-5e542f3a86a7",
         "file_id": "da320e14-93ee-c6cb-916b-5e542f3a86a7",
@@ -199,56 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1727584154216824800,
         "score": 0.24995688
-      },
-      {
-        "id": "b81b18fc-b90d-7cd7-27cc-adae887fa72b",
-        "file_id": "b81b18fc-b90d-7cd7-27cc-adae887fa72b",
-        "file_name": "WMBD Irvin 27693083 3444581 mkgd 2 031622",
-        "file_extension": "pdf",
-        "file_size": 5639558,
-        "file_status": "com_cpy",
-        "folder_id": "8a96a590-4116-f43f-3ff2-1995262cea72",
-        "create_ts": "2022-03-17T21:29:48.68Z",
-        "last_update_ts": "2022-03-17T21:30:16.908Z",
-        "active_ind": "Y",
-        "file_manager_id": "c291f209-9774-4996-9c3c-3dee1815e89e",
-        "file_folder_path": "Political Files/2022/State/Governor/Richard IrvinGovernorILRep",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Richard IrvinGovernorILRep/WMBD Irvin 27693083 3444581 mkgd 2 031622",
-        "entity_id": "42121",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "PEORIA-BLOOMINGTON",
-        "callsign": "WMBD-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727584105394077700,
-        "score": 0.24995688
-      },
-      {
-        "id": "d17d1f82-2cb6-7836-7157-47a84102bbf6",
-        "file_id": "d17d1f82-2cb6-7836-7157-47a84102bbf6",
-        "file_name": "WMBD Irvin 27693083 3444581 031422 rev 1 mkgd 1",
-        "file_extension": "pdf",
-        "file_size": 9180113,
-        "file_status": "com_cpy",
-        "folder_id": "8a96a590-4116-f43f-3ff2-1995262cea72",
-        "create_ts": "2022-03-17T21:29:16.433Z",
-        "last_update_ts": "2022-03-17T21:29:45.979Z",
-        "active_ind": "Y",
-        "file_manager_id": "72eabd27-f09a-4eb4-9fe6-b7578506cfc0",
-        "file_folder_path": "Political Files/2022/State/Governor/Richard IrvinGovernorILRep",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Richard IrvinGovernorILRep/WMBD Irvin 27693083 3444581 031422 rev 1 mkgd 1",
-        "entity_id": "42121",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "PEORIA-BLOOMINGTON",
-        "callsign": "WMBD-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727584072966865000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -427,12 +423,12 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22661,
-        "2022": 8469,
+        "2022": 8471,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68761,
+        "State": 68763,
         "US Senate": 50190,
         "US House": 41706,
         "Presidential": 38639,
@@ -471,11 +467,11 @@
         "TV": 238034,
         "CABLE": 126816,
         "FM": 112692,
-        "AM": 42244,
+        "AM": 42246,
         "DBS": 5466
       },
       "political_file_type": {
-        "PA": 224839,
+        "PA": 224841,
         "NCIA": 124217
       }
     }
@@ -492,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1736,
-    "processTime": 744,
-    "responseTime": 1745
+    "queryTime": 199,
+    "processTime": 208,
+    "responseTime": 209
   }
 }
