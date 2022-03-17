@@ -480,7 +480,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 64,
-    "processTime": 76,
-    "responseTime": 77
+    "processTime": 73,
+    "responseTime": 73
   }
 }
