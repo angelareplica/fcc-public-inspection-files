@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 525195,
+    "numFound": 525197,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "a104a2b4-1f7f-54c3-91ae-b74cad2d2631",
+        "file_id": "a104a2b4-1f7f-54c3-91ae-b74cad2d2631",
+        "file_name": "John Lee For Governor Order Confirmation 4068-00003",
+        "file_extension": "pdf",
+        "file_size": 100879,
+        "file_status": "com_cpy",
+        "folder_id": "d6a4f3ca-819e-151c-dc61-7df840377afe",
+        "create_ts": "2022-03-17T18:42:35.456Z",
+        "last_update_ts": "2022-03-17T18:42:38.197Z",
+        "active_ind": "Y",
+        "file_manager_id": "bd4828bd-b5e4-4ad4-806e-07ade6cf5235",
+        "file_folder_path": "Political Files/2022/State/st Quarter - John Lee for Governor",
+        "full_qualified_file_name": "Political Files/2022/State/st Quarter - John Lee for Governor/John Lee For Governor Order Confirmation 4068-00003",
+        "entity_id": "122525",
+        "source_service_code": "AM",
+        "callsign": "KMZQ",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727573582891974700,
+        "score": 0.24995688
+      },
+      {
+        "id": "9394aae3-bdcc-b602-d72b-77625b02c206",
+        "file_id": "9394aae3-bdcc-b602-d72b-77625b02c206",
+        "file_name": "John Lee for Governor Order Confirmation 4068-00002",
+        "file_extension": "pdf",
+        "file_size": 100311,
+        "file_status": "com_cpy",
+        "folder_id": "d6a4f3ca-819e-151c-dc61-7df840377afe",
+        "create_ts": "2022-03-17T18:42:28.105Z",
+        "last_update_ts": "2022-03-17T18:42:30.935Z",
+        "active_ind": "Y",
+        "file_manager_id": "528606ea-5652-4dfe-ba8a-27de650292ff",
+        "file_folder_path": "Political Files/2022/State/st Quarter - John Lee for Governor",
+        "full_qualified_file_name": "Political Files/2022/State/st Quarter - John Lee for Governor/John Lee for Governor Order Confirmation 4068-00002",
+        "entity_id": "122525",
+        "source_service_code": "AM",
+        "callsign": "KMZQ",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727573575279313000,
+        "score": 0.24995688
+      },
       {
         "id": "a79d80fc-6ae7-f611-8aa1-1a38b51db8d8",
         "file_id": "a79d80fc-6ae7-f611-8aa1-1a38b51db8d8",
@@ -201,56 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1727571646379720700,
         "score": 0.24995688
-      },
-      {
-        "id": "d5bd9d32-da25-c12b-4687-90f4eff97cf1",
-        "file_id": "d5bd9d32-da25-c12b-4687-90f4eff97cf1",
-        "file_name": "CONTRACT TED BUDD FOR SENATE WRAL EST 2129 042022-042622",
-        "file_extension": "pdf",
-        "file_size": 36600,
-        "file_status": "com_cpy",
-        "folder_id": "90688f36-a0dd-6a80-3d07-406ea3eca0bb",
-        "create_ts": "2022-03-17T18:11:16.582Z",
-        "last_update_ts": "2022-03-17T18:11:19.466Z",
-        "active_ind": "Y",
-        "file_manager_id": "dfef14ad-0bc9-4f21-b2f7-b9166967b1e1",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/TED BUDD FOR SENATE/EST 2129",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/TED BUDD FOR SENATE/EST 2129/CONTRACT TED BUDD FOR SENATE WRAL EST 2129 042022-042622",
-        "entity_id": "8688",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "RALEIGH-DURHAM (FAYETVLLE)",
-        "callsign": "WRAL-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1727571612898689000,
-        "score": 0.24995688
-      },
-      {
-        "id": "ef0b34d2-81e7-b325-67d4-05048fb307e5",
-        "file_id": "ef0b34d2-81e7-b325-67d4-05048fb307e5",
-        "file_name": "INCOMPLETE TED BUDD FOR SENATE WRAL EST 2129 042022-042622",
-        "file_extension": "pdf",
-        "file_size": 83975,
-        "file_status": "com_cpy",
-        "folder_id": "90688f36-a0dd-6a80-3d07-406ea3eca0bb",
-        "create_ts": "2022-03-17T18:11:16.646Z",
-        "last_update_ts": "2022-03-17T18:11:19.378Z",
-        "active_ind": "Y",
-        "file_manager_id": "2f8ae3d1-18e6-48eb-8e81-47e3f16d72bc",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/TED BUDD FOR SENATE/EST 2129",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/TED BUDD FOR SENATE/EST 2129/INCOMPLETE TED BUDD FOR SENATE WRAL EST 2129 042022-042622",
-        "entity_id": "8688",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "RALEIGH-DURHAM (FAYETVLLE)",
-        "callsign": "WRAL-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1727571612807463000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -429,12 +425,12 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22661,
-        "2022": 8412,
+        "2022": 8414,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68728,
+        "State": 68730,
         "US Senate": 50177,
         "US House": 41705,
         "Presidential": 38639,
@@ -473,11 +469,11 @@
         "TV": 237999,
         "CABLE": 126804,
         "FM": 112690,
-        "AM": 42238,
+        "AM": 42240,
         "DBS": 5464
       },
       "political_file_type": {
-        "PA": 224791,
+        "PA": 224793,
         "NCIA": 124208
       }
     }
@@ -494,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1744,
-    "processTime": 751,
-    "responseTime": 1752
+    "queryTime": 197,
+    "processTime": 205,
+    "responseTime": 206
   }
 }
