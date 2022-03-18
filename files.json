@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 525319,
+    "numFound": 525317,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
@@ -350,17 +350,17 @@
         "MACON": 620,
         "WACO-TEMPLE-BRYAN": 566,
         "YOUNGSTOWN": 562,
-        "ATLANTA": 547,
-        "BOSTON (MANCHESTER)": 546
+        "BOSTON (MANCHESTER)": 546,
+        "ATLANTA": 545
       },
       "network_affiliation": {
         "ABC": 58021,
         "NBC": 56964,
-        "CBS": 38969,
+        "CBS": 38968,
         "FOX": 28115,
         "PBS": 14386,
         "CW": 12104,
-        "IND": 2992,
+        "IND": 2991,
         "MYTV": 2233,
         "UNIVISION": 1895,
         "MY NETWORK": 1559,
@@ -426,7 +426,7 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22661,
-        "2022": 8541,
+        "2022": 8539,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -467,7 +467,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 238086,
+        "TV": 238084,
         "CABLE": 126826,
         "FM": 112693,
         "AM": 42247,
@@ -475,7 +475,7 @@
       },
       "political_file_type": {
         "PA": 224883,
-        "NCIA": 124245
+        "NCIA": 124243
       }
     }
   },
@@ -491,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1762,
-    "processTime": 771,
-    "responseTime": 1771
+    "queryTime": 1738,
+    "processTime": 753,
+    "responseTime": 1754
   }
 }
