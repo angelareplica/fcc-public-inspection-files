@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 525263,
+    "numFound": 525265,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "7ff055d9-810b-3224-ee5c-46e0b9af50df",
+        "file_id": "7ff055d9-810b-3224-ee5c-46e0b9af50df",
+        "file_name": "Conservative Voice of America 03.24.22-03.30.22 #138641",
+        "file_extension": "pdf",
+        "file_size": 2253583,
+        "file_status": "com_cpy",
+        "folder_id": "e2ac5a76-af5a-522b-ce02-976065028d93",
+        "create_ts": "2022-03-18T03:31:02.629Z",
+        "last_update_ts": "2022-03-18T03:31:06.342Z",
+        "active_ind": "Y",
+        "file_manager_id": "679bf645-ec9d-4b96-97f3-5e9d551b34bf",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Conservative Voice of America",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Conservative Voice of America/Conservative Voice of America 03.24.22-03.30.22 #138641",
+        "entity_id": "25382",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "OKLAHOMA CITY",
+        "callsign": "KWTV-DT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727606831299166200,
+        "score": 0.24995688
+      },
+      {
+        "id": "7686066f-b3dc-90db-76a6-62af0f7e4f42",
+        "file_id": "7686066f-b3dc-90db-76a6-62af0f7e4f42",
+        "file_name": "Conservative Voice of America 03.18.22-03.23.22 #138639",
+        "file_extension": "pdf",
+        "file_size": 2120771,
+        "file_status": "com_cpy",
+        "folder_id": "e2ac5a76-af5a-522b-ce02-976065028d93",
+        "create_ts": "2022-03-18T03:31:02.626Z",
+        "last_update_ts": "2022-03-18T03:30:52.274Z",
+        "active_ind": "Y",
+        "file_manager_id": "7e1f7e69-ac39-4082-a5b6-e49ac48e53d6",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Conservative Voice of America",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Conservative Voice of America/Conservative Voice of America 03.18.22-03.23.22 #138639",
+        "entity_id": "25382",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "OKLAHOMA CITY",
+        "callsign": "KWTV-DT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727606831578087400,
+        "score": 0.24995688
+      },
       {
         "id": "005b99b2-5cbe-f153-cb79-70e422526589",
         "file_id": "005b99b2-5cbe-f153-cb79-70e422526589",
@@ -201,53 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1727588934740869000,
         "score": 0.24995688
-      },
-      {
-        "id": "8a2f4313-60cd-b050-af50-c91bfe8a1b69",
-        "file_id": "8a2f4313-60cd-b050-af50-c91bfe8a1b69",
-        "file_name": "KRXI BETTER NEVADA PAC #1758967 REV 0.1",
-        "file_extension": "pdf",
-        "file_size": 1653731,
-        "file_status": "com_cpy",
-        "folder_id": "db5e06f0-e90e-a7aa-19bd-4494c8ab6f6a",
-        "create_ts": "2022-03-17T22:46:35.226Z",
-        "last_update_ts": "2022-03-17T22:46:38.864Z",
-        "active_ind": "Y",
-        "file_manager_id": "990186f3-a71b-4570-a312-e7556fde3866",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Better Nevada PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Better Nevada PAC/KRXI BETTER NEVADA PAC #1758967 REV 0.1",
-        "entity_id": "48360",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "RENO",
-        "callsign": "KRXI-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1727588934742966300,
-        "score": 0.24995688
-      },
-      {
-        "id": "d0a5efb8-54cd-5ca3-9b3f-497025126079",
-        "file_id": "d0a5efb8-54cd-5ca3-9b3f-497025126079",
-        "file_name": "Karrin for Arizona NAB est 10030 0322 ",
-        "file_extension": "pdf",
-        "file_size": 230714,
-        "file_status": "com_cpy",
-        "folder_id": "3a738698-ca37-cb29-a7e7-1803c6ac4f46",
-        "create_ts": "2022-03-17T22:38:02.638Z",
-        "last_update_ts": "2022-03-17T22:37:51.406Z",
-        "active_ind": "Y",
-        "file_manager_id": "63d33737-77fd-4ac0-a344-d44fd9b28e20",
-        "file_folder_path": "Political Files/2022/State/KARRIN FOR AZ GOVERNOR",
-        "full_qualified_file_name": "Political Files/2022/State/KARRIN FOR AZ GOVERNOR/Karrin for Arizona NAB est 10030 0322 ",
-        "entity_id": "8387",
-        "source_service_code": "AM",
-        "callsign": "KZZZ",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727588396647317500,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -356,7 +357,7 @@
       "network_affiliation": {
         "ABC": 58006,
         "NBC": 56954,
-        "CBS": 38954,
+        "CBS": 38956,
         "FOX": 28112,
         "PBS": 14386,
         "CW": 12104,
@@ -426,7 +427,7 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22661,
-        "2022": 8480,
+        "2022": 8482,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -467,7 +468,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 238043,
+        "TV": 238045,
         "CABLE": 126816,
         "FM": 112692,
         "AM": 42246,
@@ -475,7 +476,7 @@
       },
       "political_file_type": {
         "PA": 224847,
-        "NCIA": 124220
+        "NCIA": 124222
       }
     }
   },
@@ -491,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 199,
-    "processTime": 208,
-    "responseTime": 208
+    "queryTime": 201,
+    "processTime": 212,
+    "responseTime": 212
   }
 }
