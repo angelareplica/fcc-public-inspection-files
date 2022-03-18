@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 525384,
+    "numFound": 525385,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "3c8e7f39-f17c-54e8-17e5-ee317ef5145e",
+        "file_id": "3c8e7f39-f17c-54e8-17e5-ee317ef5145e",
+        "file_name": "TBA Jenaia Nicole Productions 03.28.22",
+        "file_extension": "pdf",
+        "file_size": 669623,
+        "file_status": "com_cpy",
+        "folder_id": "53a8f68d-41a7-3433-d039-471c75cc1cfa",
+        "create_ts": "2022-03-18T22:33:34.22Z",
+        "last_update_ts": "2022-03-18T22:33:22.867Z",
+        "active_ind": "Y",
+        "file_manager_id": "f4e8570b-2ae2-4aea-8839-44d03537b8eb",
+        "file_folder_path": "Time Brokerage Agreements/2022 Time Brokerage Agreements",
+        "full_qualified_file_name": "Time Brokerage Agreements/2022 Time Brokerage Agreements/TBA Jenaia Nicole Productions 03.28.22",
+        "entity_id": "34975",
+        "source_service_code": "AM",
+        "callsign": "KLUP",
+        "non_political_file_folder": "Time Brokerage Agreements",
+        "_version_": 1727678712270291000,
+        "score": 0.24995688
+      },
       {
         "id": "bfe25739-3868-bc4c-0d26-218106ce086f",
         "file_id": "bfe25739-3868-bc4c-0d26-218106ce086f",
@@ -211,28 +232,6 @@
         "campaign_year": "2022",
         "_version_": 1727674672568336400,
         "score": 0.24995688
-      },
-      {
-        "id": "fdfffba9-7922-1b7c-a165-b28dfe9d0101",
-        "file_id": "fdfffba9-7922-1b7c-a165-b28dfe9d0101",
-        "file_name": "KZZR - PROTECT OUR FUTURE 032122-032722",
-        "file_extension": "pdf",
-        "file_size": 231717,
-        "file_status": "com_cpy",
-        "folder_id": "6fbe5068-7e54-d1ea-c231-8f7036b8ad48",
-        "create_ts": "2022-03-18T21:27:55.014Z",
-        "last_update_ts": "2022-03-18T21:28:24.314Z",
-        "active_ind": "Y",
-        "file_manager_id": "f019c080-8e50-4c26-bcf6-da3dd30f72a6",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/KZZR - PROTECT OUR FUTURE 032122-032722",
-        "entity_id": "82538",
-        "source_service_code": "FM",
-        "callsign": "KZZR",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1727674581460713500,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -438,7 +437,7 @@
         "Class A TV Continuing Eligibility": 645,
         "Political Matters and Controversial Issues Disclosures": 597,
         "State and Local Franchising Related Materials": 484,
-        "Time Brokerage Agreements": 416,
+        "Time Brokerage Agreements": 417,
         "Channels Delivered": 275,
         "Compatibility with Consumer Electronics Equipment": 148,
         "Auction Transition Consumer Certification": 83,
@@ -455,7 +454,7 @@
         "TV": 238127,
         "CABLE": 126828,
         "FM": 112704,
-        "AM": 42258,
+        "AM": 42259,
         "DBS": 5467
       },
       "political_file_type": {
@@ -476,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1726,
-    "processTime": 734,
-    "responseTime": 1735
+    "queryTime": 1771,
+    "processTime": 780,
+    "responseTime": 1781
   }
 }
