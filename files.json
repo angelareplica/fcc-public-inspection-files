@@ -1,9 +1,56 @@
 {
   "response": {
-    "numFound": 525367,
+    "numFound": 525369,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "15e425b9-3b20-28d0-3346-e2332ab100ac",
+        "file_id": "15e425b9-3b20-28d0-3346-e2332ab100ac",
+        "file_name": "Troy Hershberger for Sheriff 03-21-22 to 05-03-22 172481",
+        "file_extension": "pdf",
+        "file_size": 408732,
+        "file_status": "com_cpy",
+        "folder_id": "0359fb63-8e49-0161-97f1-1dce14273935",
+        "create_ts": "2022-03-18T20:38:22.071Z",
+        "last_update_ts": "2022-03-18T20:38:10.503Z",
+        "active_ind": "Y",
+        "file_manager_id": "773449a8-ef18-462e-8e45-01e36fe7aef4",
+        "file_folder_path": "Political Files/2022/Local/Troy Hershberger for Sheriff",
+        "full_qualified_file_name": "Political Files/2022/Local/Troy Hershberger for Sheriff/Troy Hershberger for Sheriff 03-21-22 to 05-03-22 172481",
+        "entity_id": "28205",
+        "source_service_code": "AM",
+        "callsign": "WOWO",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1727671464108228600,
+        "score": 0.24995688
+      },
+      {
+        "id": "4f61253f-51a9-950a-87a2-8bee51f787ba",
+        "file_id": "4f61253f-51a9-950a-87a2-8bee51f787ba",
+        "file_name": "ISS GOP 2 0 Inc WXIA Order 2434164",
+        "file_extension": "pdf",
+        "file_size": 230466,
+        "file_status": "com_cpy",
+        "folder_id": "fbb51439-f8e8-af71-56b5-90b0a49787c2",
+        "create_ts": "2022-03-18T20:37:00.892Z",
+        "last_update_ts": "2022-03-18T20:37:30.341Z",
+        "active_ind": "Y",
+        "file_manager_id": "b915a087-3f3b-4019-b2cc-73984c1c6def",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/GOP 20",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/GOP 20/ISS GOP 2 0 Inc WXIA Order 2434164",
+        "entity_id": "51163",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "ATLANTA",
+        "callsign": "WXIA-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727671379236487200,
+        "score": 0.24995688
+      },
       {
         "id": "abc16b65-f056-d846-70c4-8a2ddb669983",
         "file_id": "abc16b65-f056-d846-70c4-8a2ddb669983",
@@ -185,54 +232,6 @@
         "campaign_year": "2022",
         "_version_": 1727669984099827700,
         "score": 0.24995688
-      },
-      {
-        "id": "c8627f1e-b88d-cfa6-1f7f-1078e9d90562",
-        "file_id": "c8627f1e-b88d-cfa6-1f7f-1078e9d90562",
-        "file_name": "SARAH GODLEWSKI FOR WISCONSN-D 5183516 03-22-22",
-        "file_extension": "pdf",
-        "file_size": 124419,
-        "file_status": "com_cpy",
-        "folder_id": "dcb73a4e-e448-20d1-5295-964003ca5cb3",
-        "create_ts": "2022-03-18T19:53:08.435Z",
-        "last_update_ts": "2022-03-18T19:53:37.5Z",
-        "active_ind": "Y",
-        "file_manager_id": "20108d7a-8536-4832-a6c9-016674ff9620",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/SARAH GODLEWSKI FOR WISCONSIN - D",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/SARAH GODLEWSKI FOR WISCONSIN - D/SARAH GODLEWSKI FOR WISCONSN-D 5183516 03-22-22",
-        "entity_id": "73042",
-        "source_service_code": "TV",
-        "network_affiliation": "CW",
-        "nielsen_dma_rank": "GREEN BAY-APPLETON",
-        "callsign": "WCWF",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1727668618586488800,
-        "score": 0.24995688
-      },
-      {
-        "id": "4661b15f-9930-3e6b-8e43-60c8e3627db1",
-        "file_id": "4661b15f-9930-3e6b-8e43-60c8e3627db1",
-        "file_name": "DOC031822-03182022134738",
-        "file_extension": "pdf",
-        "file_size": 53747,
-        "file_status": "com_cpy",
-        "folder_id": "bfb602f3-0ce5-6915-c5ad-b10634781dbb",
-        "create_ts": "2022-03-18T19:47:48.264Z",
-        "last_update_ts": "2022-03-18T19:48:17.217Z",
-        "active_ind": "Y",
-        "file_manager_id": "24a1cef5-d93f-49c4-9604-b1acf2bc9984",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/DOC031822-03182022134738",
-        "entity_id": "87656",
-        "source_service_code": "FM",
-        "callsign": "KIDG",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1727668282754859000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -335,12 +334,12 @@
         "MACON": 620,
         "WACO-TEMPLE-BRYAN": 566,
         "YOUNGSTOWN": 562,
-        "ATLANTA": 546,
+        "ATLANTA": 547,
         "BOSTON (MANCHESTER)": 546
       },
       "network_affiliation": {
         "ABC": 58028,
-        "NBC": 56972,
+        "NBC": 56973,
         "CBS": 38973,
         "FOX": 28122,
         "PBS": 14386,
@@ -411,7 +410,7 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22662,
-        "2022": 8585,
+        "2022": 8587,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -420,7 +419,7 @@
         "US Senate": 50212,
         "US House": 41717,
         "Presidential": 38639,
-        "Local": 24456
+        "Local": 24457
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61644,
@@ -452,15 +451,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 238117,
+        "TV": 238118,
         "CABLE": 126828,
         "FM": 112700,
-        "AM": 42255,
+        "AM": 42256,
         "DBS": 5467
       },
       "political_file_type": {
-        "PA": 224918,
-        "NCIA": 124255
+        "PA": 224919,
+        "NCIA": 124256
       }
     }
   },
@@ -476,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1726,
-    "processTime": 736,
-    "responseTime": 1736
+    "queryTime": 1772,
+    "processTime": 782,
+    "responseTime": 1782
   }
 }
