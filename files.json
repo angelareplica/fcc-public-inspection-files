@@ -1,9 +1,58 @@
 {
   "response": {
-    "numFound": 525274,
+    "numFound": 525276,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "5c4dee23-e30e-6556-811d-03a9559fc458",
+        "file_id": "5c4dee23-e30e-6556-811d-03a9559fc458",
+        "file_name": "John Boozman for AK US Senate Memphis 0383 3.12-3.25",
+        "file_extension": "pdf",
+        "file_size": 12337,
+        "file_status": "com_cpy",
+        "folder_id": "9c0fd27e-2903-381c-3af6-7c83b7fa291a",
+        "create_ts": "2022-03-18T13:36:43.75Z",
+        "last_update_ts": "2022-03-18T13:36:32.117Z",
+        "active_ind": "Y",
+        "file_manager_id": "3b5bf7c1-31e2-473a-82db-10b0b1abc3b3",
+        "file_folder_path": "Political Files/2022/State/Boozman for Arkansas-Linear Media",
+        "full_qualified_file_name": "Political Files/2022/State/Boozman for Arkansas-Linear Media/John Boozman for AK US Senate Memphis 0383 3.12-3.25",
+        "entity_id": "005380",
+        "source_service_code": "CABLE",
+        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
+        "operator_city_name": "LONG ISLAND CITY",
+        "operator_state_name": "NY",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727644936755478500,
+        "score": 0.24995688
+      },
+      {
+        "id": "7a202e80-4431-a14a-74cb-ac8af1e2a188",
+        "file_id": "7a202e80-4431-a14a-74cb-ac8af1e2a188",
+        "file_name": "03.21.2022-03.25.2022 Pharmaceutical Care Management Association (PCMA)",
+        "file_extension": "pdf",
+        "file_size": 1962388,
+        "file_status": "com_cpy",
+        "folder_id": "45a7b272-0a96-3a88-899a-e16868ac1aa6",
+        "create_ts": "2022-03-18T13:31:53.002Z",
+        "last_update_ts": "2022-03-18T13:31:56.57Z",
+        "active_ind": "Y",
+        "file_manager_id": "354033b7-51b3-4a8a-9b02-968f3cc813ff",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Pharmaceutical Care Management Association PCMA",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Pharmaceutical Care Management Association PCMA/03.21.2022-03.25.2022 Pharmaceutical Care Management Association (PCMA)",
+        "entity_id": "64017",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "LEXINGTON",
+        "callsign": "WDKY-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727644632690458600,
+        "score": 0.24995688
+      },
       {
         "id": "6ac23586-489c-8f5d-4da8-5730597980e2",
         "file_id": "6ac23586-489c-8f5d-4da8-5730597980e2",
@@ -201,56 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1727642903861264400,
         "score": 0.24995688
-      },
-      {
-        "id": "cfb390dd-d4c1-31e8-7c72-757e36251399",
-        "file_id": "cfb390dd-d4c1-31e8-7c72-757e36251399",
-        "file_name": "Davis 3451730 Rev 0",
-        "file_extension": "pdf",
-        "file_size": 95747,
-        "file_status": "com_cpy",
-        "folder_id": "45c9d319-effc-28f8-d9d2-48dba4dd3a7c",
-        "create_ts": "2022-03-18T13:03:27.272Z",
-        "last_update_ts": "2022-03-18T13:03:16.202Z",
-        "active_ind": "Y",
-        "file_manager_id": "9fafc92a-776f-496e-aa56-ec8c1b1dee8b",
-        "file_folder_path": "Political Files/2022/State/Austin Davis",
-        "full_qualified_file_name": "Political Files/2022/State/Austin Davis/Davis 3451730 Rev 0",
-        "entity_id": "17010",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WYOU",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727642843886911500,
-        "score": 0.24995688
-      },
-      {
-        "id": "3a96aa6d-6d04-4502-b7f6-b5e71b581ac2",
-        "file_id": "3a96aa6d-6d04-4502-b7f6-b5e71b581ac2",
-        "file_name": "Davis 3451714 Rev 0",
-        "file_extension": "pdf",
-        "file_size": 96573,
-        "file_status": "com_cpy",
-        "folder_id": "45c9d319-effc-28f8-d9d2-48dba4dd3a7c",
-        "create_ts": "2022-03-18T13:02:10.392Z",
-        "last_update_ts": "2022-03-18T13:02:40.425Z",
-        "active_ind": "Y",
-        "file_manager_id": "ed9c5787-0f69-4b92-bd64-44f7b22d0678",
-        "file_folder_path": "Political Files/2022/State/Austin Davis",
-        "full_qualified_file_name": "Political Files/2022/State/Austin Davis/Davis 3451714 Rev 0",
-        "entity_id": "17010",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WYOU",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727642764565282800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -291,7 +290,7 @@
         "Greenville-Spartanburg-Asheville-Anderson": 2192,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2175,
         "TAMPA-ST. PETE (SARASOTA)": 2155,
-        "LEXINGTON": 2085,
+        "LEXINGTON": 2086,
         "ROCHESTR-MASON CITY-AUSTIN": 1986,
         "WASHINGTON DC (HAGRSTWN)": 1937,
         "GREAT FALLS": 1925,
@@ -360,7 +359,7 @@
         "ABC": 58010,
         "NBC": 56956,
         "CBS": 38960,
-        "FOX": 28112,
+        "FOX": 28113,
         "PBS": 14386,
         "CW": 12104,
         "IND": 2992,
@@ -429,12 +428,12 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22661,
-        "2022": 8492,
+        "2022": 8494,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68777,
+        "State": 68778,
         "US Senate": 50190,
         "US House": 41706,
         "Presidential": 38639,
@@ -470,15 +469,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 238055,
-        "CABLE": 126816,
+        "TV": 238056,
+        "CABLE": 126817,
         "FM": 112691,
         "AM": 42246,
         "DBS": 5466
       },
       "political_file_type": {
-        "PA": 224855,
-        "NCIA": 124224
+        "PA": 224856,
+        "NCIA": 124225
       }
     }
   },
@@ -494,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1766,
-    "processTime": 774,
-    "responseTime": 1775
+    "queryTime": 1760,
+    "processTime": 771,
+    "responseTime": 1771
   }
 }
