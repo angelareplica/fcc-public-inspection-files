@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 525393,
+    "numFound": 525394,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "b154da73-a024-b103-1c2c-65ebeccc6c35",
+        "file_id": "b154da73-a024-b103-1c2c-65ebeccc6c35",
+        "file_name": "04 - APRIL 12-30  2020 Broadcast HIGHLIGHTS",
+        "file_extension": "pdf",
+        "file_size": 83556,
+        "file_status": "com_cpy",
+        "folder_id": "6aa5199f-7121-4957-0638-a985d647807e",
+        "create_ts": "2022-03-19T22:28:25.205Z",
+        "last_update_ts": "2022-03-19T22:28:57.171Z",
+        "active_ind": "Y",
+        "file_manager_id": "3ac7e6de-0a5d-464c-8bf2-bb6c639eb7a2",
+        "file_folder_path": "Childrens TV Programming Reports/Additional Documents",
+        "full_qualified_file_name": "Childrens TV Programming Reports/Additional Documents/04 - APRIL 12-30  2020 Broadcast HIGHLIGHTS",
+        "entity_id": "81445",
+        "source_service_code": "TV",
+        "network_affiliation": "IND",
+        "nielsen_dma_rank": "AMARILLO",
+        "callsign": "KPTF-DT",
+        "non_political_file_folder": "Childrens TV Programming Reports",
+        "_version_": 1727768984843976700,
+        "score": 0.24995688
+      },
       {
         "id": "b4c5c4f4-4849-f338-193c-ebdc5e57d8f7",
         "file_id": "b4c5c4f4-4849-f338-193c-ebdc5e57d8f7",
@@ -202,31 +225,6 @@
         "non_political_file_folder": "Time Brokerage Agreements",
         "_version_": 1727678712270291000,
         "score": 0.24995688
-      },
-      {
-        "id": "bfe25739-3868-bc4c-0d26-218106ce086f",
-        "file_id": "bfe25739-3868-bc4c-0d26-218106ce086f",
-        "file_name": "STACEY ABRAMS 031822",
-        "file_extension": "pdf",
-        "file_size": 1169700,
-        "file_status": "com_cpy",
-        "folder_id": "87814c2b-aa9f-a5f9-90f3-f2c86d9244c8",
-        "create_ts": "2022-03-18T22:24:41.91Z",
-        "last_update_ts": "2022-03-18T22:25:11.467Z",
-        "active_ind": "Y",
-        "file_manager_id": "0352b1a8-4c1f-42bb-806e-e4b05e933a18",
-        "file_folder_path": "Political Files/2022/State/GOVERNOR GEORGIA/STACEY ABRAMS",
-        "full_qualified_file_name": "Political Files/2022/State/GOVERNOR GEORGIA/STACEY ABRAMS/STACEY ABRAMS 031822",
-        "entity_id": "37174",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "SAVANNAH",
-        "callsign": "WJCL",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727678154010525700,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -339,7 +337,7 @@
         "FOX": 28124,
         "PBS": 14386,
         "CW": 12106,
-        "IND": 2993,
+        "IND": 2994,
         "MYTV": 2233,
         "UNIVISION": 1895,
         "MY NETWORK": 1559,
@@ -427,7 +425,7 @@
         "Applications and Related Materials": 1682,
         "FCC Investigations or Complaints": 1515,
         "Must-Carry or Retransmission Consent": 1302,
-        "Childrens TV Programming Reports": 1158,
+        "Childrens TV Programming Reports": 1159,
         "Ownership Reports": 1113,
         "Class A TV Continuing Eligibility": 645,
         "Political Matters and Controversial Issues Disclosures": 597,
@@ -446,7 +444,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 238129,
+        "TV": 238130,
         "CABLE": 126828,
         "FM": 112710,
         "AM": 42259,
@@ -470,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1729,
-    "processTime": 736,
-    "responseTime": 1737
+    "queryTime": 1747,
+    "processTime": 763,
+    "responseTime": 1763
   }
 }
