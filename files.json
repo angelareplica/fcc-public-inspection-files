@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 525401,
+    "numFound": 525402,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "e3d45849-3b56-4ac4-c86e-27da55af5cc8",
+        "file_id": "e3d45849-3b56-4ac4-c86e-27da55af5cc8",
+        "file_name": "FCC KSTO FEB 2022 031022",
+        "file_extension": "rtf",
+        "file_size": 149785,
+        "file_status": "com_prc",
+        "folder_id": "3ed66b0d-8ac1-d9a6-a712-50c15440fff1",
+        "create_ts": "2022-03-20T13:08:10.467Z",
+        "last_update_ts": "2022-03-20T13:09:06.349Z",
+        "active_ind": "Y",
+        "file_manager_id": "021fd0b2-8bcc-444e-9c33-81a16b271622",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/FCC KSTO FEB 2022 031022",
+        "entity_id": "28863",
+        "source_service_code": "FM",
+        "callsign": "KSTO",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1727824357551505400,
+        "score": 0.24995688
+      },
       {
         "id": "66d5b3e7-2f0c-9c22-6e7c-ebb93952ffc5",
         "file_id": "66d5b3e7-2f0c-9c22-6e7c-ebb93952ffc5",
@@ -196,29 +217,6 @@
         "non_political_file_folder": "Childrens TV Programming Reports",
         "_version_": 1727768436445020200,
         "score": 0.24995688
-      },
-      {
-        "id": "8ca1a7f1-1ab5-29c9-49d6-3005e22db7d9",
-        "file_id": "8ca1a7f1-1ab5-29c9-49d6-3005e22db7d9",
-        "file_name": "04 - APRIL 12-30  2020 Broadcast HIGHLIGHTS",
-        "file_extension": "pdf",
-        "file_size": 83556,
-        "file_status": "com_cpy",
-        "folder_id": "03b23e10-5eae-af24-bae9-afa3a88e4f7a",
-        "create_ts": "2022-03-19T21:59:15.118Z",
-        "last_update_ts": "2022-03-19T21:59:17.949Z",
-        "active_ind": "Y",
-        "file_manager_id": "69a6c2da-d197-4c48-b8e8-a7eaaaab293c",
-        "file_folder_path": "Childrens TV Programming Reports/Additional Documents",
-        "full_qualified_file_name": "Childrens TV Programming Reports/Additional Documents/04 - APRIL 12-30  2020 Broadcast HIGHLIGHTS",
-        "entity_id": "53539",
-        "source_service_code": "TV",
-        "network_affiliation": "IND",
-        "nielsen_dma_rank": "ALBUQUERQUE-SANTA FE",
-        "callsign": "KRPV-DT",
-        "non_political_file_folder": "Childrens TV Programming Reports",
-        "_version_": 1727767149770965000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -410,7 +408,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61644,
-        "Issues and Programs Lists": 44941,
+        "Issues and Programs Lists": 44942,
         "Equal Employment Opportunity Records": 37152,
         "Donor Lists - Applicable Only for NCEs": 11681,
         "FCC Authorizations": 7282,
@@ -440,7 +438,7 @@
       "source_service_code": {
         "TV": 238130,
         "CABLE": 126828,
-        "FM": 112710,
+        "FM": 112711,
         "AM": 42266,
         "DBS": 5467
       },
@@ -462,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 200,
-    "processTime": 209,
-    "responseTime": 209
+    "queryTime": 1768,
+    "processTime": 775,
+    "responseTime": 1775
   }
 }
