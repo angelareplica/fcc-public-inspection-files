@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 525400,
+    "numFound": 525401,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "9b9aad3d-ba1a-8c88-4aee-279254da3784",
+        "file_id": "9b9aad3d-ba1a-8c88-4aee-279254da3784",
+        "file_name": "WANI-Tim James-Tim James for Governor EST 14202 Confirmation-031822",
+        "file_extension": "pdf",
+        "file_size": 144135,
+        "file_status": "com_cpy",
+        "folder_id": "091e38fa-1f38-3c74-6926-6a6103da4ce3",
+        "create_ts": "2022-03-20T20:32:59.988Z",
+        "last_update_ts": "2022-03-20T20:32:48.06Z",
+        "active_ind": "Y",
+        "file_manager_id": "147475ab-45f5-460d-96bb-b45a7058077e",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/WANI-Tim James-Tim James for Governor EST 14202 Confirmation-031822",
+        "entity_id": "63796",
+        "source_service_code": "AM",
+        "callsign": "WANI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1727852320386973700,
+        "score": 0.24995688
+      },
       {
         "id": "e3d45849-3b56-4ac4-c86e-27da55af5cc8",
         "file_id": "e3d45849-3b56-4ac4-c86e-27da55af5cc8",
@@ -194,29 +217,6 @@
         "non_political_file_folder": "Childrens TV Programming Reports",
         "_version_": 1727768984843976700,
         "score": 0.24995688
-      },
-      {
-        "id": "b4c5c4f4-4849-f338-193c-ebdc5e57d8f7",
-        "file_id": "b4c5c4f4-4849-f338-193c-ebdc5e57d8f7",
-        "file_name": "04 - APRIL 12-30  2020 Broadcast HIGHLIGHTS",
-        "file_extension": "pdf",
-        "file_size": 83556,
-        "file_status": "com_cpy",
-        "folder_id": "66b6fc6d-9c0f-83e2-2142-5b736abe3b85",
-        "create_ts": "2022-03-19T22:19:42.224Z",
-        "last_update_ts": "2022-03-19T22:19:30.294Z",
-        "active_ind": "Y",
-        "file_manager_id": "8d498c48-9f55-48f5-a720-5e345070640e",
-        "file_folder_path": "Childrens TV Programming Reports/Additional Documents",
-        "full_qualified_file_name": "Childrens TV Programming Reports/Additional Documents/04 - APRIL 12-30  2020 Broadcast HIGHLIGHTS",
-        "entity_id": "53544",
-        "source_service_code": "TV",
-        "network_affiliation": "IND",
-        "nielsen_dma_rank": "LUBBOCK",
-        "callsign": "KPTB-DT",
-        "non_political_file_folder": "Childrens TV Programming Reports",
-        "_version_": 1727768436445020200,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -395,12 +395,12 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22662,
-        "2022": 8611,
+        "2022": 8612,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68803,
+        "State": 68804,
         "US Senate": 50212,
         "US House": 41717,
         "Presidential": 38639,
@@ -439,11 +439,11 @@
         "TV": 238130,
         "CABLE": 126828,
         "FM": 112709,
-        "AM": 42266,
+        "AM": 42267,
         "DBS": 5467
       },
       "political_file_type": {
-        "PA": 224926,
+        "PA": 224927,
         "NCIA": 124271
       }
     }
@@ -460,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 62,
-    "processTime": 70,
-    "responseTime": 71
+    "queryTime": 199,
+    "processTime": 207,
+    "responseTime": 207
   }
 }
