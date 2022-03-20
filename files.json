@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 525402,
+    "numFound": 525400,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
@@ -391,7 +391,7 @@
         "2015": 6076,
         "2016": 68731,
         "2017": 10353,
-        "2018": 67677,
+        "2018": 67675,
         "2019": 13960,
         "2020": 125496,
         "2021": 22662,
@@ -400,7 +400,7 @@
         "Fede": 1
       },
       "office_type": {
-        "State": 68805,
+        "State": 68803,
         "US Senate": 50212,
         "US House": 41717,
         "Presidential": 38639,
@@ -438,12 +438,12 @@
       "source_service_code": {
         "TV": 238130,
         "CABLE": 126828,
-        "FM": 112711,
+        "FM": 112709,
         "AM": 42266,
         "DBS": 5467
       },
       "political_file_type": {
-        "PA": 224928,
+        "PA": 224926,
         "NCIA": 124271
       }
     }
@@ -460,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1758,
-    "processTime": 765,
-    "responseTime": 1765
+    "queryTime": 201,
+    "processTime": 208,
+    "responseTime": 209
   }
 }
