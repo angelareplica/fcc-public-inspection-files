@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 525408,
+    "numFound": 525410,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "909f692d-2600-0b26-c3c6-212d76fcbe7e",
+        "file_id": "909f692d-2600-0b26-c3c6-212d76fcbe7e",
+        "file_name": "CommitteeToElectDougStinson.03182022",
+        "file_extension": "pdf",
+        "file_size": 532973,
+        "file_status": "com_cpy",
+        "folder_id": "7aebebdc-c914-f194-f661-fc888085812d",
+        "create_ts": "2022-03-21T13:31:09.037Z",
+        "last_update_ts": "2022-03-21T13:31:12.343Z",
+        "active_ind": "Y",
+        "file_manager_id": "d0120fef-f32b-48a3-8a42-d18af6c56dae",
+        "file_folder_path": "Political Files/2022/Local/Committee to Elect Doug Stinson",
+        "full_qualified_file_name": "Political Files/2022/Local/Committee to Elect Doug Stinson/CommitteeToElectDougStinson.03182022",
+        "entity_id": "46982",
+        "source_service_code": "FM",
+        "callsign": "KXKS-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1727916377212190700,
+        "score": 0.24995688
+      },
+      {
+        "id": "ce0605ac-ba76-7927-c965-2dba9cd6242e",
+        "file_id": "ce0605ac-ba76-7927-c965-2dba9cd6242e",
+        "file_name": "CommitteeToElectCraigMarcotte.03182022",
+        "file_extension": "pdf",
+        "file_size": 371499,
+        "file_status": "com_cpy",
+        "folder_id": "bed5bee3-6dba-82fb-057b-2e3f7ee9c1db",
+        "create_ts": "2022-03-21T13:30:14.62Z",
+        "last_update_ts": "2022-03-21T13:30:17.561Z",
+        "active_ind": "Y",
+        "file_manager_id": "dbe6ff32-190b-4c61-9b2b-55068fe10980",
+        "file_folder_path": "Political Files/2022/Local/Committee To Elect Craig Marcotte",
+        "full_qualified_file_name": "Political Files/2022/Local/Committee To Elect Craig Marcotte/CommitteeToElectCraigMarcotte.03182022",
+        "entity_id": "46982",
+        "source_service_code": "FM",
+        "callsign": "KXKS-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1727916319759663000,
+        "score": 0.24995688
+      },
       {
         "id": "89f97241-8e7d-014f-1792-ce003169bc76",
         "file_id": "89f97241-8e7d-014f-1792-ce003169bc76",
@@ -191,48 +237,6 @@
         "campaign_year": "2022",
         "_version_": 1727852320386973700,
         "score": 0.24995688
-      },
-      {
-        "id": "e3d45849-3b56-4ac4-c86e-27da55af5cc8",
-        "file_id": "e3d45849-3b56-4ac4-c86e-27da55af5cc8",
-        "file_name": "FCC KSTO FEB 2022 031022",
-        "file_extension": "rtf",
-        "file_size": 149785,
-        "file_status": "com_prc",
-        "folder_id": "3ed66b0d-8ac1-d9a6-a712-50c15440fff1",
-        "create_ts": "2022-03-20T13:08:10.467Z",
-        "last_update_ts": "2022-03-20T13:09:06.349Z",
-        "active_ind": "Y",
-        "file_manager_id": "021fd0b2-8bcc-444e-9c33-81a16b271622",
-        "file_folder_path": "Issues and Programs Lists/2022",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/FCC KSTO FEB 2022 031022",
-        "entity_id": "28863",
-        "source_service_code": "FM",
-        "callsign": "KSTO",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1727824357551505400,
-        "score": 0.24995688
-      },
-      {
-        "id": "66d5b3e7-2f0c-9c22-6e7c-ebb93952ffc5",
-        "file_id": "66d5b3e7-2f0c-9c22-6e7c-ebb93952ffc5",
-        "file_name": "NEWS 3-07-22 PUBLIC FILE",
-        "file_extension": "pdf",
-        "file_size": 53729,
-        "file_status": "com_cpy",
-        "folder_id": "fef5abea-9fe0-0a4f-80cf-a1c3bae444a1",
-        "create_ts": "2022-03-19T23:52:36.553Z",
-        "last_update_ts": "2022-03-19T23:52:39.297Z",
-        "active_ind": "Y",
-        "file_manager_id": "108ae79b-10e8-4507-963c-c7e844058af9",
-        "file_folder_path": "Issues and Programs Lists/Issues 2022",
-        "full_qualified_file_name": "Issues and Programs Lists/Issues 2022/NEWS 3-07-22 PUBLIC FILE",
-        "entity_id": "24952",
-        "source_service_code": "AM",
-        "callsign": "KUHL",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1727774281505439700,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -411,7 +415,7 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22662,
-        "2022": 8619,
+        "2022": 8621,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -420,7 +424,7 @@
         "US Senate": 50214,
         "US House": 41717,
         "Presidential": 38639,
-        "Local": 24464
+        "Local": 24466
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61644,
@@ -454,12 +458,12 @@
       "source_service_code": {
         "TV": 238132,
         "CABLE": 126828,
-        "FM": 112713,
+        "FM": 112715,
         "AM": 42268,
         "DBS": 5467
       },
       "political_file_type": {
-        "PA": 224934,
+        "PA": 224936,
         "NCIA": 124271
       }
     }
@@ -476,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1737,
-    "processTime": 746,
-    "responseTime": 1746
+    "queryTime": 198,
+    "processTime": 208,
+    "responseTime": 209
   }
 }
