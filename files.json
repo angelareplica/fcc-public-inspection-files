@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 525612,
+    "numFound": 525613,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "986b3e97-129d-1042-9d34-63a1a7e28289",
+        "file_id": "986b3e97-129d-1042-9d34-63a1a7e28289",
+        "file_name": "CALIFORNIANS FOR TRIBAL SOVEREIGNTY & SAFE GAMING 031622-032722 2246882 CONTRACT NAB",
+        "file_extension": "pdf",
+        "file_size": 612066,
+        "file_status": "com_cpy",
+        "folder_id": "d810deb1-1d63-481e-ed08-453b65dfd72c",
+        "create_ts": "2022-03-21T22:41:12.027Z",
+        "last_update_ts": "2022-03-21T22:41:49.667Z",
+        "active_ind": "Y",
+        "file_manager_id": "208972b3-bb14-49bf-b7ff-42054fbb09af",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/CALIFORNIANS FOR TRIBAL SOVEREIGNTY  SAFE GAMING",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/CALIFORNIANS FOR TRIBAL SOVEREIGNTY  SAFE GAMING/CALIFORNIANS FOR TRIBAL SOVEREIGNTY & SAFE GAMING 031622-032722 2246882 CONTRACT NAB",
+        "entity_id": "10242",
+        "source_service_code": "TV",
+        "network_affiliation": "MNT",
+        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
+        "callsign": "KQCA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727950983009403000,
+        "score": 0.24995688
+      },
       {
         "id": "074565f1-0994-66b3-bc8e-6904fb20ff8c",
         "file_id": "074565f1-0994-66b3-bc8e-6904fb20ff8c",
@@ -208,31 +232,6 @@
         "campaign_year": "2022",
         "_version_": 1727946986192109600,
         "score": 0.24995688
-      },
-      {
-        "id": "482d4e2e-b03c-2860-96e8-988dbb9d9dc7",
-        "file_id": "482d4e2e-b03c-2860-96e8-988dbb9d9dc7",
-        "file_name": "Dean Odle Governor_2022-03-21",
-        "file_extension": "pdf",
-        "file_size": 475285,
-        "file_status": "com_cpy",
-        "folder_id": "1ddccb7b-ae18-4f1a-4cfb-55e2583c9e30",
-        "create_ts": "2022-03-21T21:34:06.815Z",
-        "last_update_ts": "2022-03-21T21:34:44.259Z",
-        "active_ind": "Y",
-        "file_manager_id": "dff67047-bdbc-4c07-bae8-23b15bde1b34",
-        "file_folder_path": "Political Files/2022/State/Governor - Dean Odle",
-        "full_qualified_file_name": "Political Files/2022/State/Governor - Dean Odle/Dean Odle Governor_2022-03-21",
-        "entity_id": "77496",
-        "source_service_code": "TV",
-        "network_affiliation": "NONE",
-        "nielsen_dma_rank": "BIRMINGHAM (ANN TUSC)",
-        "callsign": "WVUA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1727946762213130200,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -256,7 +255,7 @@
         "CHAMPAIGN&SPRNGFLD-DECATUR": 3234,
         "PORTLAND OR": 3182,
         "MINNEAPOLIS-ST. PAUL": 3162,
-        "SACRAMNTO-STKTON-MODESTO": 2821,
+        "SACRAMNTO-STKTON-MODESTO": 2822,
         "KANSAS CITY": 2749,
         "FT. WAYNE": 2712,
         "FRESNO-VISALIA": 2682,
@@ -351,7 +350,7 @@
         "MY NETWORK": 1559,
         "CBS/NBC": 1081,
         "TELEMUNDO": 868,
-        "MNT": 857,
+        "MNT": 858,
         "ION": 714,
         "FAMILYNET": 707,
         "N/A": 654,
@@ -411,7 +410,7 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22665,
-        "2022": 8813,
+        "2022": 8814,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -452,7 +451,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 238270,
+        "TV": 238271,
         "CABLE": 126834,
         "FM": 112753,
         "AM": 42284,
@@ -460,7 +459,7 @@
       },
       "political_file_type": {
         "PA": 225041,
-        "NCIA": 124361
+        "NCIA": 124362
       }
     }
   },
@@ -476,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 212,
-    "processTime": 219,
-    "responseTime": 220
+    "queryTime": 1742,
+    "processTime": 750,
+    "responseTime": 1751
   }
 }
