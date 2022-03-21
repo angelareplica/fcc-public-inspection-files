@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 525620,
+    "numFound": 525621,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "7e93be61-5a7b-b56a-fed0-6a45bc925890",
+        "file_id": "7e93be61-5a7b-b56a-fed0-6a45bc925890",
+        "file_name": "CALIFORNIANS FOR TRIBAL SOVEREIGNTY & SAFE GAMING 031422-032722 2246883 CONTRACT NAB",
+        "file_extension": "pdf",
+        "file_size": 330138,
+        "file_status": "com_cpy",
+        "folder_id": "adc8a411-abaf-87e8-91e9-1dbf322b0616",
+        "create_ts": "2022-03-21T23:35:27.956Z",
+        "last_update_ts": "2022-03-21T23:35:31.001Z",
+        "active_ind": "Y",
+        "file_manager_id": "88df1317-6368-4b93-992e-d8f89d3d1fb1",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/CALIFORNIANS FOR TRIBAL SOVEREIGNTY  SAFE GAMING",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/CALIFORNIANS FOR TRIBAL SOVEREIGNTY  SAFE GAMING/CALIFORNIANS FOR TRIBAL SOVEREIGNTY & SAFE GAMING 031422-032722 2246883 CONTRACT NAB",
+        "entity_id": "33875",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
+        "callsign": "KCRA-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1727954397162373000,
+        "score": 0.24995688
+      },
       {
         "id": "a3c89b50-0b98-1300-57bf-b799bead85bd",
         "file_id": "a3c89b50-0b98-1300-57bf-b799bead85bd",
@@ -206,27 +230,6 @@
         "campaign_year": "2022",
         "_version_": 1727948792960909300,
         "score": 0.24995688
-      },
-      {
-        "id": "cbdaa52b-3f81-971f-34f7-f7d5fa82fda4",
-        "file_id": "cbdaa52b-3f81-971f-34f7-f7d5fa82fda4",
-        "file_name": "Pennsylvania Conservative Fund NAB D2 Secret Hollywood Liberal 032122",
-        "file_extension": "pdf",
-        "file_size": 1051238,
-        "file_status": "com_cpy",
-        "folder_id": "eb3b78a4-94cb-7832-2cb9-e7acf982814c",
-        "create_ts": "2022-03-21T22:04:58.179Z",
-        "last_update_ts": "2022-03-21T22:05:01.223Z",
-        "active_ind": "Y",
-        "file_manager_id": "cc198916-d011-4fcd-ac8e-5ab2d9f54d71",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Pennsylvania/Pennsylvania Conservative Fund",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Pennsylvania/Pennsylvania Conservative Fund/Pennsylvania Conservative Fund NAB D2 Secret Hollywood Liberal 032122",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1727948703627477000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -250,7 +253,7 @@
         "CHAMPAIGN&SPRNGFLD-DECATUR": 3234,
         "PORTLAND OR": 3182,
         "MINNEAPOLIS-ST. PAUL": 3162,
-        "SACRAMNTO-STKTON-MODESTO": 2822,
+        "SACRAMNTO-STKTON-MODESTO": 2823,
         "KANSAS CITY": 2749,
         "FT. WAYNE": 2712,
         "FRESNO-VISALIA": 2682,
@@ -334,7 +337,7 @@
       },
       "network_affiliation": {
         "ABC": 58073,
-        "NBC": 56999,
+        "NBC": 57000,
         "CBS": 39011,
         "FOX": 28140,
         "PBS": 14386,
@@ -405,7 +408,7 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22665,
-        "2022": 8821,
+        "2022": 8822,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -446,7 +449,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 238271,
+        "TV": 238272,
         "CABLE": 126834,
         "FM": 112760,
         "AM": 42284,
@@ -454,7 +457,7 @@
       },
       "political_file_type": {
         "PA": 225045,
-        "NCIA": 124365
+        "NCIA": 124366
       }
     }
   },
@@ -470,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 210,
-    "processTime": 219,
-    "responseTime": 220
+    "queryTime": 1758,
+    "processTime": 765,
+    "responseTime": 1765
   }
 }
