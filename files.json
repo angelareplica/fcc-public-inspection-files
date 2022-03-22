@@ -5,6 +5,31 @@
     "maxScore": 0.50016373,
     "docs": [
       {
+        "id": "99eab1f2-c31b-79c2-5196-b2cc5ff8b934",
+        "file_id": "99eab1f2-c31b-79c2-5196-b2cc5ff8b934",
+        "file_name": "Pol M OZ R SSN PA_REV3_909782",
+        "file_extension": "pdf",
+        "file_size": 251607,
+        "file_status": "com_cpy",
+        "folder_id": "9e9c3e66-cfb6-6b2c-347d-7c5ea64bad76",
+        "create_ts": "2022-03-22T02:29:26.179Z",
+        "last_update_ts": "2022-03-22T02:29:13.876Z",
+        "active_ind": "Y",
+        "file_manager_id": "6d4f55df-4768-4162-b854-4728c3554ca6",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/909782-320-0405",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/909782-320-0405/Pol M OZ R SSN PA_REV3_909782",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1727965342289887200,
+        "score": 0.24995688
+      },
+      {
         "id": "d6756a20-4d66-cce5-994f-d625b0abc489",
         "file_id": "d6756a20-4d66-cce5-994f-d625b0abc489",
         "file_name": "KZZR - PROTECT OUR FUTURE 050222 - 050822",
@@ -205,28 +230,6 @@
         "campaign_year": "2022",
         "_version_": 1727962276206477300,
         "score": 0.24995688
-      },
-      {
-        "id": "c3ba872f-ac28-aa0a-a595-ac93e5e1f26c",
-        "file_id": "c3ba872f-ac28-aa0a-a595-ac93e5e1f26c",
-        "file_name": "KSND - PROTECT OUR FUTURE PAC - 040422 - 041022",
-        "file_extension": "pdf",
-        "file_size": 249657,
-        "file_status": "com_cpy",
-        "folder_id": "4412f26b-8396-fc75-96e6-a5d4d454bc4a",
-        "create_ts": "2022-03-22T01:40:41.856Z",
-        "last_update_ts": "2022-03-22T01:40:29.785Z",
-        "active_ind": "Y",
-        "file_manager_id": "7521cddb-4e85-4f4e-8f5d-894f55a3e617",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/KSND - PROTECT OUR FUTURE PAC - 040422 - 041022",
-        "entity_id": "19242",
-        "source_service_code": "FM",
-        "callsign": "KSND",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1727962276143562800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -236,7 +239,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7041,
         "LAS VEGAS": 6101,
         "WEST PALM BEACH-FT. PIERCE": 5814,
-        "PITTSBURGH": 5727,
+        "PITTSBURGH": 5728,
         "HONOLULU": 5221,
         "DULUTH-SUPERIOR": 4655,
         "CHARLESTON-HUNTINGTON": 4334,
@@ -334,8 +337,8 @@
       },
       "network_affiliation": {
         "ABC": 58074,
-        "NBC": 57000,
-        "CBS": 39015,
+        "NBC": 57001,
+        "CBS": 39014,
         "FOX": 28140,
         "PBS": 14386,
         "CW": 12106,
@@ -411,7 +414,7 @@
       },
       "office_type": {
         "State": 68849,
-        "US Senate": 50254,
+        "US Senate": 50255,
         "US House": 41722,
         "Presidential": 38639,
         "Local": 24486
@@ -453,8 +456,8 @@
         "DBS": 5471
       },
       "political_file_type": {
-        "PA": 225046,
-        "NCIA": 124394
+        "PA": 225047,
+        "NCIA": 124393
       }
     }
   },
@@ -470,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1757,
-    "processTime": 765,
-    "responseTime": 1766
+    "queryTime": 200,
+    "processTime": 207,
+    "responseTime": 207
   }
 }
