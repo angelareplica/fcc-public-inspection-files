@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 525908,
+    "numFound": 525907,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "6b6f8835-5579-42b8-7621-7e5a0e6d15d7",
+        "file_id": "6b6f8835-5579-42b8-7621-7e5a0e6d15d7",
+        "file_name": "Conservative Outsiders PAC 1569 0323_0405 2436195-1",
+        "file_extension": "pdf",
+        "file_size": 203486,
+        "file_status": "com_cpy",
+        "folder_id": "ceaea4ef-a67d-4a2f-d2b7-bca5efbc35b3",
+        "create_ts": "2022-03-22T23:22:04.165Z",
+        "last_update_ts": "2022-03-22T23:40:05.368Z",
+        "active_ind": "Y",
+        "file_manager_id": "ddd7c467-7306-4201-aa5d-be14751d29d6",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Conservative Outsiders PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Conservative Outsiders PAC/Conservative Outsiders PAC 1569 0323_0405 2436195-1",
+        "entity_id": "72064",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "GREENSBORO-H.POINT-W.SALEM",
+        "callsign": "WFMY-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1728045242470367200,
+        "score": 0.24995688
+      },
+      {
+        "id": "065d0018-f270-0caf-9d4e-1e0ce67051b9",
+        "file_id": "065d0018-f270-0caf-9d4e-1e0ce67051b9",
+        "file_name": "0Political File Supplement - Issue Ads_ Conservative Outsiders PAC",
+        "file_extension": "pdf",
+        "file_size": 80006,
+        "file_status": "com_cpy",
+        "folder_id": "ceaea4ef-a67d-4a2f-d2b7-bca5efbc35b3",
+        "create_ts": "2022-03-22T23:23:37.142Z",
+        "last_update_ts": "2022-03-22T23:40:05.156Z",
+        "active_ind": "Y",
+        "file_manager_id": "d369f650-e4f3-49bb-a951-fc19f45a4c0a",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Conservative Outsiders PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Conservative Outsiders PAC/0Political File Supplement - Issue Ads_ Conservative Outsiders PAC",
+        "entity_id": "72064",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "GREENSBORO-H.POINT-W.SALEM",
+        "callsign": "WFMY-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1728045242279526400,
+        "score": 0.24995688
+      },
       {
         "id": "20a29efd-45a9-2eb8-5c07-f21f3f9e6b29",
         "file_id": "20a29efd-45a9-2eb8-5c07-f21f3f9e6b29",
@@ -26,54 +74,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2022",
         "_version_": 1728044304569467000,
-        "score": 0.24995688
-      },
-      {
-        "id": "065d0018-f270-0caf-9d4e-1e0ce67051b9",
-        "file_id": "065d0018-f270-0caf-9d4e-1e0ce67051b9",
-        "file_name": "0Political File Supplement - Issue Ads_ Conservative Outsiders PAC",
-        "file_extension": "pdf",
-        "file_size": 80006,
-        "file_status": "com_cpy",
-        "folder_id": "ceaea4ef-a67d-4a2f-d2b7-bca5efbc35b3",
-        "create_ts": "2022-03-22T23:23:37.142Z",
-        "last_update_ts": "2022-03-22T23:24:17.504Z",
-        "active_ind": "Y",
-        "file_manager_id": "d369f650-e4f3-49bb-a951-fc19f45a4c0a",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Conservative Outsiders PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Conservative Outsiders PAC/0Political File Supplement - Issue Ads_ Conservative Outsiders PAC",
-        "entity_id": "72064",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "GREENSBORO-H.POINT-W.SALEM",
-        "callsign": "WFMY-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728044248589140000,
-        "score": 0.24995688
-      },
-      {
-        "id": "6b6f8835-5579-42b8-7621-7e5a0e6d15d7",
-        "file_id": "6b6f8835-5579-42b8-7621-7e5a0e6d15d7",
-        "file_name": "Conservative Outsiders PAC 1569 0323_0405 2436195-1",
-        "file_extension": "pdf",
-        "file_size": 203486,
-        "file_status": "com_cpy",
-        "folder_id": "ceaea4ef-a67d-4a2f-d2b7-bca5efbc35b3",
-        "create_ts": "2022-03-22T23:22:04.165Z",
-        "last_update_ts": "2022-03-22T23:21:51.659Z",
-        "active_ind": "Y",
-        "file_manager_id": "ddd7c467-7306-4201-aa5d-be14751d29d6",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Conservative Outsiders PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Conservative Outsiders PAC/Conservative Outsiders PAC 1569 0323_0405 2436195-1",
-        "entity_id": "72064",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "GREENSBORO-H.POINT-W.SALEM",
-        "callsign": "WFMY-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728044151118758000,
         "score": 0.24995688
       },
       {
@@ -271,7 +271,7 @@
         "BEND OR": 2635,
         "MILWAUKEE": 2630,
         "CHICAGO": 2575,
-        "GREENSBORO-H.POINT-W.SALEM": 2563,
+        "GREENSBORO-H.POINT-W.SALEM": 2562,
         "SAVANNAH": 2473,
         "BIRMINGHAM (ANN TUSC)": 2401,
         "WAUSAU-RHINELANDER": 2395,
@@ -349,7 +349,7 @@
       "network_affiliation": {
         "ABC": 58093,
         "NBC": 57026,
-        "CBS": 39055,
+        "CBS": 39054,
         "FOX": 28145,
         "PBS": 14386,
         "CW": 12108,
@@ -419,7 +419,7 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22665,
-        "2022": 9101,
+        "2022": 9100,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -460,7 +460,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 238377,
+        "TV": 238376,
         "CABLE": 126847,
         "FM": 112863,
         "AM": 42344,
@@ -468,7 +468,7 @@
       },
       "political_file_type": {
         "PA": 225169,
-        "NCIA": 124511
+        "NCIA": 124510
       }
     }
   },
@@ -484,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1742,
-    "processTime": 752,
-    "responseTime": 1752
+    "queryTime": 1730,
+    "processTime": 737,
+    "responseTime": 1738
   }
 }
