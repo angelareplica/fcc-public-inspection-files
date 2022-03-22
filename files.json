@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 525650,
+    "numFound": 525652,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "2a1be0c5-ecc4-65d1-ae35-21207b604129",
+        "file_id": "2a1be0c5-ecc4-65d1-ae35-21207b604129",
+        "file_name": "Jimmy Dunn political - 03 18 22",
+        "file_extension": "pdf",
+        "file_size": 2281222,
+        "file_status": "com_cpy",
+        "folder_id": "11728f3d-f12f-8e0b-70a9-dca54198df57",
+        "create_ts": "2022-03-22T09:54:31.731Z",
+        "last_update_ts": "2022-03-22T09:54:35.161Z",
+        "active_ind": "Y",
+        "file_manager_id": "136f255a-004b-4496-ab7c-e570eb26d76f",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Jimmy Dunn political - 03 18 22",
+        "entity_id": "170936",
+        "source_service_code": "FM",
+        "callsign": "WPFT",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1727993345638137900,
+        "score": 0.24995688
+      },
+      {
+        "id": "2c1ea668-341a-45c8-bc47-7e097a9fcb0b",
+        "file_id": "2c1ea668-341a-45c8-bc47-7e097a9fcb0b",
+        "file_name": "Jimmy Dunn political - 03 18 22",
+        "file_extension": "pdf",
+        "file_size": 2281222,
+        "file_status": "com_cpy",
+        "folder_id": "2887e7ff-ef19-5fe5-c642-d311750dbdab",
+        "create_ts": "2022-03-22T09:53:08.704Z",
+        "last_update_ts": "2022-03-22T09:53:47.948Z",
+        "active_ind": "Y",
+        "file_manager_id": "1bd7e05c-8214-4245-8fe6-9dec77569d99",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Jimmy Dunn political - 03 18 22",
+        "entity_id": "17059",
+        "source_service_code": "FM",
+        "callsign": "WSEV-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1727993258434363400,
+        "score": 0.24995688
+      },
       {
         "id": "99eab1f2-c31b-79c2-5196-b2cc5ff8b934",
         "file_id": "99eab1f2-c31b-79c2-5196-b2cc5ff8b934",
@@ -186,50 +232,6 @@
         "campaign_year": "2022",
         "_version_": 1727962276101619700,
         "score": 0.24995688
-      },
-      {
-        "id": "71326935-4a66-f933-4469-58ea9aac27cb",
-        "file_id": "71326935-4a66-f933-4469-58ea9aac27cb",
-        "file_name": "KSND - PROTECT OUR FUTURE PAC 051622 - 052222",
-        "file_extension": "pdf",
-        "file_size": 235118,
-        "file_status": "com_cpy",
-        "folder_id": "4412f26b-8396-fc75-96e6-a5d4d454bc4a",
-        "create_ts": "2022-03-22T01:40:41.705Z",
-        "last_update_ts": "2022-03-22T01:40:44.637Z",
-        "active_ind": "Y",
-        "file_manager_id": "6a2e3a3d-a983-4a16-b43a-35216039e7e3",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/KSND - PROTECT OUR FUTURE PAC 051622 - 052222",
-        "entity_id": "19242",
-        "source_service_code": "FM",
-        "callsign": "KSND",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1727962275801727000,
-        "score": 0.24995688
-      },
-      {
-        "id": "6028c177-c6c2-ebf7-15e2-96ed816caffb",
-        "file_id": "6028c177-c6c2-ebf7-15e2-96ed816caffb",
-        "file_name": "KSND - PROTECT OUR FUTURE 50222 - 050822",
-        "file_extension": "pdf",
-        "file_size": 238348,
-        "file_status": "com_cpy",
-        "folder_id": "4412f26b-8396-fc75-96e6-a5d4d454bc4a",
-        "create_ts": "2022-03-22T01:40:41.859Z",
-        "last_update_ts": "2022-03-22T01:40:29.841Z",
-        "active_ind": "Y",
-        "file_manager_id": "ea021d04-0f5a-4037-b899-362af959fe66",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/KSND - PROTECT OUR FUTURE 50222 - 050822",
-        "entity_id": "19242",
-        "source_service_code": "FM",
-        "callsign": "KSND",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1727962276206477300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -408,7 +410,7 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22665,
-        "2022": 8851,
+        "2022": 8853,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -417,7 +419,7 @@
         "US Senate": 50255,
         "US House": 41722,
         "Presidential": 38639,
-        "Local": 24486
+        "Local": 24488
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61644,
@@ -451,12 +453,12 @@
       "source_service_code": {
         "TV": 238277,
         "CABLE": 126834,
-        "FM": 112776,
+        "FM": 112778,
         "AM": 42292,
         "DBS": 5471
       },
       "political_file_type": {
-        "PA": 225047,
+        "PA": 225049,
         "NCIA": 124393
       }
     }
@@ -473,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 63,
-    "processTime": 71,
-    "responseTime": 71
+    "queryTime": 197,
+    "processTime": 208,
+    "responseTime": 208
   }
 }
