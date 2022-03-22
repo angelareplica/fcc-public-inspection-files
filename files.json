@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 525734,
+    "numFound": 525735,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "4608525a-2192-2c93-f701-d68a8bcd6532",
+        "file_id": "4608525a-2192-2c93-f701-d68a8bcd6532",
+        "file_name": "BlueGreen Alliance Parkersburg 0605 3.22-4.22",
+        "file_extension": "pdf",
+        "file_size": 49287,
+        "file_status": "com_cpy",
+        "folder_id": "aeea7477-db67-f5cc-aaf8-fbea4a3c57cb",
+        "create_ts": "2022-03-22T17:42:39.427Z",
+        "last_update_ts": "2022-03-22T17:42:26.873Z",
+        "active_ind": "Y",
+        "file_manager_id": "764d4c37-e607-4b12-bd76-196ce4fc05cd",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Bluegreen Alliance-Linear Media",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Bluegreen Alliance-Linear Media/BlueGreen Alliance Parkersburg 0605 3.22-4.22",
+        "entity_id": "000453",
+        "source_service_code": "CABLE",
+        "legal_name": "CEBRIDGE ACQUISITION, LLC",
+        "operator_city_name": "LONG ISLAND CITY",
+        "operator_state_name": "NY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1728022797033144300,
+        "score": 0.24995688
+      },
       {
         "id": "67844c27-735e-84df-c9bc-6b2f3c96c168",
         "file_id": "67844c27-735e-84df-c9bc-6b2f3c96c168",
@@ -209,28 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1728020229195300900,
         "score": 0.24995688
-      },
-      {
-        "id": "c2c33100-7d1a-2420-599d-644fa03b97ee",
-        "file_id": "c2c33100-7d1a-2420-599d-644fa03b97ee",
-        "file_name": "NAB WJKG 03.2022",
-        "file_extension": "pdf",
-        "file_size": 2546524,
-        "file_status": "com_cpy",
-        "folder_id": "5f00faf9-1758-350e-13af-c9e5804784f4",
-        "create_ts": "2022-03-22T17:00:09.828Z",
-        "last_update_ts": "2022-03-22T17:00:13.413Z",
-        "active_ind": "Y",
-        "file_manager_id": "3b723302-8886-4557-82c6-b3cc3fc11663",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Natl Assn of Broadcasters",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Natl Assn of Broadcasters/NAB WJKG 03.2022",
-        "entity_id": "191579",
-        "source_service_code": "FM",
-        "callsign": "WJKG",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728020124433121300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -409,7 +411,7 @@
         "2019": 13960,
         "2020": 125496,
         "2021": 22665,
-        "2022": 8933,
+        "2022": 8934,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -451,14 +453,14 @@
       },
       "source_service_code": {
         "TV": 238307,
-        "CABLE": 126834,
+        "CABLE": 126835,
         "FM": 112814,
         "AM": 42303,
         "DBS": 5476
       },
       "political_file_type": {
         "PA": 225073,
-        "NCIA": 124439
+        "NCIA": 124440
       }
     }
   },
@@ -474,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1730,
-    "processTime": 738,
-    "responseTime": 1739
+    "queryTime": 197,
+    "processTime": 204,
+    "responseTime": 205
   }
 }
