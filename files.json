@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 526195,
+    "numFound": 526196,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "5bdc5944-287d-7d55-f3ef-64478f45056f",
+        "file_id": "5bdc5944-287d-7d55-f3ef-64478f45056f",
+        "file_name": "KELA JOE KENT US HOUSE-03232022082110",
+        "file_extension": "pdf",
+        "file_size": 839084,
+        "file_status": "com_cpy",
+        "folder_id": "81658f1d-adf3-3701-0d46-705afd267963",
+        "create_ts": "2022-03-23T23:40:53.081Z",
+        "last_update_ts": "2022-03-23T23:40:56.214Z",
+        "active_ind": "Y",
+        "file_manager_id": "d3d3cdfa-1b5a-437e-ad5f-44507d1efc6b",
+        "file_folder_path": "Political Files/2022/Federal/US House/Joe Kent for US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Joe Kent for US House/KELA JOE KENT US HOUSE-03232022082110",
+        "entity_id": "32996",
+        "source_service_code": "AM",
+        "callsign": "KELA",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1728135932083699700,
+        "score": 0.24995688
+      },
       {
         "id": "e49bbc04-22b2-4872-50fd-5cdcb609b7f2",
         "file_id": "e49bbc04-22b2-4872-50fd-5cdcb609b7f2",
@@ -207,28 +230,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1728131267640164400,
         "score": 0.24995688
-      },
-      {
-        "id": "6d09b96a-0144-fd16-e0a9-79edea6b1fb2",
-        "file_id": "6d09b96a-0144-fd16-e0a9-79edea6b1fb2",
-        "file_name": "BOOZMAN FOR ARKANSAS - PRIMARY NAB D2 Tom 032322",
-        "file_extension": "pdf",
-        "file_size": 1105405,
-        "file_status": "com_cpy",
-        "folder_id": "0d5cf74c-b19b-1e74-533f-deeb6b45a5b5",
-        "create_ts": "2022-03-23T22:26:13.548Z",
-        "last_update_ts": "2022-03-23T22:26:01.204Z",
-        "active_ind": "Y",
-        "file_manager_id": "09a7cfdb-be68-4da2-98de-54605586e8e6",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Arkansas/John Boozman AR",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Arkansas/John Boozman AR/BOOZMAN FOR ARKANSAS - PRIMARY NAB D2 Tom 032322",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1728131235078733800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -407,14 +408,14 @@
         "2019": 13959,
         "2020": 125501,
         "2021": 22667,
-        "2022": 9326,
+        "2022": 9327,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 68958,
         "US Senate": 50319,
-        "US House": 41727,
+        "US House": 41728,
         "Presidential": 38637,
         "Local": 24524
       },
@@ -451,11 +452,11 @@
         "TV": 238482,
         "CABLE": 126862,
         "FM": 112980,
-        "AM": 42391,
+        "AM": 42392,
         "DBS": 5480
       },
       "political_file_type": {
-        "PA": 225266,
+        "PA": 225267,
         "NCIA": 124645
       }
     }
@@ -472,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1730,
-    "processTime": 743,
-    "responseTime": 1743
+    "queryTime": 211,
+    "processTime": 221,
+    "responseTime": 221
   }
 }
