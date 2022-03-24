@@ -1,9 +1,80 @@
 {
   "response": {
-    "numFound": 526560,
+    "numFound": 526563,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "211607e9-4c5e-95bf-dae4-65862f96777c",
+        "file_id": "211607e9-4c5e-95bf-dae4-65862f96777c",
+        "file_name": "CANDIDATE Ads-NAB-PB-19 - Wilson Hale for Sherriff Jeff Co 03242022",
+        "file_extension": "pdf",
+        "file_size": 246887,
+        "file_status": "com_cpy",
+        "folder_id": "6c58e29b-e236-f74c-587d-a3e16d07b8e5",
+        "create_ts": "2022-03-24T22:32:50.259Z",
+        "last_update_ts": "2022-03-24T22:32:37.454Z",
+        "active_ind": "Y",
+        "file_manager_id": "41bdc39f-7489-4c7b-99de-e81cd9e7d960",
+        "file_folder_path": "Political Files/2022/Local/Wilson Hale Sherriff Jefferson County",
+        "full_qualified_file_name": "Political Files/2022/Local/Wilson Hale Sherriff Jefferson County/CANDIDATE Ads-NAB-PB-19 - Wilson Hale for Sherriff Jeff Co 03242022",
+        "entity_id": "65227",
+        "source_service_code": "FM",
+        "callsign": "WBHK",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1728222247768817700,
+        "score": 0.24995688
+      },
+      {
+        "id": "6951ca3b-8f17-a612-2b3e-8dd8e1b4ec56",
+        "file_id": "6951ca3b-8f17-a612-2b3e-8dd8e1b4ec56",
+        "file_name": "CANDIDATE Ads-NAB-PB-19 - Wilson Hale for Sherriff Jeff Co 03242022",
+        "file_extension": "pdf",
+        "file_size": 246887,
+        "file_status": "com_cpy",
+        "folder_id": "2dc55e9b-e7ba-b0d6-c2a5-eecd76e1a69f",
+        "create_ts": "2022-03-24T22:29:42.702Z",
+        "last_update_ts": "2022-03-24T22:29:45.569Z",
+        "active_ind": "Y",
+        "file_manager_id": "f90f5549-4b5f-4138-870b-a51d5574f32a",
+        "file_folder_path": "Political Files/2022/Local/Wilson Hale Sherriff Jefferson County",
+        "full_qualified_file_name": "Political Files/2022/Local/Wilson Hale Sherriff Jefferson County/CANDIDATE Ads-NAB-PB-19 - Wilson Hale for Sherriff Jeff Co 03242022",
+        "entity_id": "48717",
+        "source_service_code": "AM",
+        "callsign": "WAGG",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1728222050942713900,
+        "score": 0.24995688
+      },
+      {
+        "id": "9679582f-634e-3fa7-1e95-8c59ddd442a9",
+        "file_id": "9679582f-634e-3fa7-1e95-8c59ddd442a9",
+        "file_name": "Sooner State Leadership - 1341 - 02.28.22 - 04.17.22 - REVISED 3.24",
+        "file_extension": "pdf",
+        "file_size": 452259,
+        "file_status": "com_cpy",
+        "folder_id": "b51660a2-8427-dd22-199b-87533045f4bb",
+        "create_ts": "2022-03-24T22:29:00.692Z",
+        "last_update_ts": "2022-03-24T22:28:47.861Z",
+        "active_ind": "Y",
+        "file_manager_id": "209fb9c5-bd10-42a9-9fac-f43f30390d07",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Sooner State Leadership",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Sooner State Leadership/Sooner State Leadership - 1341 - 02.28.22 - 04.17.22 - REVISED 3.24",
+        "entity_id": "12508",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "OKLAHOMA CITY",
+        "callsign": "KOCO-TV",
+        "political_file_type": "NCIA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1728222007024156700,
+        "score": 0.24995688
+      },
       {
         "id": "748adea8-44fa-f810-c8cf-8cd96bb2be4f",
         "file_id": "748adea8-44fa-f810-c8cf-8cd96bb2be4f",
@@ -164,74 +235,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1728220128570507300,
         "score": 0.24995688
-      },
-      {
-        "id": "986728f7-adb3-c8b9-8277-06899d800d33",
-        "file_id": "986728f7-adb3-c8b9-8277-06899d800d33",
-        "file_name": "03-24-2022-Accepted",
-        "file_extension": "pdf",
-        "file_size": 61171,
-        "file_status": "com_cpy",
-        "folder_id": "baa551e7-0676-9655-1a78-6c7fbf28fa32",
-        "create_ts": "2022-03-24T21:58:44.449Z",
-        "last_update_ts": "2022-03-24T21:58:47.276Z",
-        "active_ind": "Y",
-        "file_manager_id": "577b5870-5ea9-4681-99fe-0b452d5292d1",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/AARP",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/AARP/03-24-2022-Accepted",
-        "entity_id": "59439",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "TULSA",
-        "callsign": "KJRH-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728220102390710300,
-        "score": 0.24995688
-      },
-      {
-        "id": "d08e5965-c24c-9577-ed08-bd33164fff0b",
-        "file_id": "d08e5965-c24c-9577-ed08-bd33164fff0b",
-        "file_name": "national-association-of-broadcasters-nab-35782466-032822-042422",
-        "file_extension": "pdf",
-        "file_size": 220868,
-        "file_status": "com_cpy",
-        "folder_id": "9f30c5bc-b283-bcf8-a643-217093cd915c",
-        "create_ts": "2022-03-24T21:55:46.586Z",
-        "last_update_ts": "2022-03-24T21:56:32.255Z",
-        "active_ind": "Y",
-        "file_manager_id": "1832ecf6-899d-450a-92f8-53e3213abb4f",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/national-association-of-broadcasters-nab-35782466-032822-042422",
-        "entity_id": "71525",
-        "source_service_code": "FM",
-        "callsign": "KSNE-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728219915897274400,
-        "score": 0.24995688
-      },
-      {
-        "id": "bb292c02-fa5b-11c5-5a0f-7b03b927f1c2",
-        "file_id": "bb292c02-fa5b-11c5-5a0f-7b03b927f1c2",
-        "file_name": "national-association-of-broadcasters-nab-35782468-032822-042422",
-        "file_extension": "pdf",
-        "file_size": 257868,
-        "file_status": "com_cpy",
-        "folder_id": "a9e4fce1-0551-999a-b162-57eb31348372",
-        "create_ts": "2022-03-24T21:55:40.218Z",
-        "last_update_ts": "2022-03-24T21:55:43.15Z",
-        "active_ind": "Y",
-        "file_manager_id": "95a06cef-8454-42a5-aa7a-889bbdc67b35",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/national-association-of-broadcasters-nab-35782468-032822-042422",
-        "entity_id": "6893",
-        "source_service_code": "FM",
-        "callsign": "KYMT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728219909309071400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -338,7 +341,7 @@
         "ATLANTA": 550
       },
       "network_affiliation": {
-        "ABC": 58160,
+        "ABC": 58161,
         "NBC": 57056,
         "CBS": 39077,
         "FOX": 28172,
@@ -410,16 +413,16 @@
         "2019": 13959,
         "2020": 125571,
         "2021": 22669,
-        "2022": 9599,
+        "2022": 9602,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68978,
+        "State": 68979,
         "US Senate": 50435,
         "US House": 41729,
         "Presidential": 38645,
-        "Local": 24553
+        "Local": 24555
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61650,
@@ -451,15 +454,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 238570,
+        "TV": 238571,
         "CABLE": 126962,
-        "FM": 113112,
-        "AM": 42432,
+        "FM": 113113,
+        "AM": 42433,
         "DBS": 5484
       },
       "political_file_type": {
-        "PA": 225444,
-        "NCIA": 124812
+        "PA": 225446,
+        "NCIA": 124813
       }
     }
   },
@@ -475,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1743,
-    "processTime": 754,
-    "responseTime": 1755
+    "queryTime": 1766,
+    "processTime": 777,
+    "responseTime": 1778
   }
 }
