@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 526403,
+    "numFound": 526405,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "314012ed-e40f-e23f-1f18-de5a5993cf89",
+        "file_id": "314012ed-e40f-e23f-1f18-de5a5993cf89",
+        "file_name": "Sooner State Leadership-4.16-6.28 7900 2191 2192 9975 9836 2120 7929 0335 9993 2416 2445 ",
+        "file_extension": "xls",
+        "file_size": 124928,
+        "file_status": "com_prc",
+        "folder_id": "ce0d5c23-abd5-72cb-df6f-f06762a19241",
+        "create_ts": "2022-03-24T18:47:56.733Z",
+        "last_update_ts": "2022-03-24T18:48:58.233Z",
+        "active_ind": "Y",
+        "file_manager_id": "31b47948-839e-42aa-906e-8e31192499ed",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Oklahoma/SOONER STATE LEADERSHIP",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Oklahoma/SOONER STATE LEADERSHIP/Sooner State Leadership-4.16-6.28 7900 2191 2192 9975 9836 2120 7929 0335 9993 2416 2445 ",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1728208115574243300,
+        "score": 0.24995688
+      },
+      {
+        "id": "fe7d61d7-4d1c-ddab-b5a9-b8af24ff38b9",
+        "file_id": "fe7d61d7-4d1c-ddab-b5a9-b8af24ff38b9",
+        "file_name": "Sooner State Leadership-4.16-6.28 7900 2191 2192 9975 9836 2120 7929 0335 9993 2416 2445 ",
+        "file_extension": "pdf",
+        "file_size": 69704,
+        "file_status": "com_cpy",
+        "folder_id": "ce0d5c23-abd5-72cb-df6f-f06762a19241",
+        "create_ts": "2022-03-24T18:47:56.242Z",
+        "last_update_ts": "2022-03-24T18:47:43.24Z",
+        "active_ind": "Y",
+        "file_manager_id": "5f5eedcb-b5b7-4f56-81bd-9d48addc9597",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Oklahoma/SOONER STATE LEADERSHIP",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Oklahoma/SOONER STATE LEADERSHIP/Sooner State Leadership-4.16-6.28 7900 2191 2192 9975 9836 2120 7929 0335 9993 2416 2445 ",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1728208098018984000,
+        "score": 0.24995688
+      },
       {
         "id": "27049fed-da83-abc0-61c9-71c1060117b9",
         "file_id": "27049fed-da83-abc0-61c9-71c1060117b9",
@@ -183,50 +225,6 @@
         "campaign_year": "2022",
         "_version_": 1728204166628638700,
         "score": 0.24995688
-      },
-      {
-        "id": "57fdaa41-b10b-63dd-5bb3-2a1f0598c84f",
-        "file_id": "57fdaa41-b10b-63dd-5bb3-2a1f0598c84f",
-        "file_name": "NAB - Political Spot Approval 3.25 - 6.05 Est AL001",
-        "file_extension": "pdf",
-        "file_size": 1227293,
-        "file_status": "com_cpy",
-        "folder_id": "82c94992-0e52-750e-20b8-6cdea53608a7",
-        "create_ts": "2022-03-24T17:40:47.577Z",
-        "last_update_ts": "2022-03-24T17:41:33.385Z",
-        "active_ind": "Y",
-        "file_manager_id": "2fa87194-a3e8-46f2-9fe5-1e9196c5cd57",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/NAB - Political/3-25-22 - 6-05-22",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/NAB - Political/3-25-22 - 6-05-22/NAB - Political Spot Approval 3.25 - 6.05 Est AL001",
-        "entity_id": "4380",
-        "source_service_code": "FM",
-        "callsign": "WSHK",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728203874428256300,
-        "score": 0.24995688
-      },
-      {
-        "id": "59ccd934-45fb-09f4-b565-e9eabe4ee8f7",
-        "file_id": "59ccd934-45fb-09f4-b565-e9eabe4ee8f7",
-        "file_name": "WSHK - NAB - Political 3.25-6.05 WO #3239204 Est AL001",
-        "file_extension": "pdf",
-        "file_size": 218850,
-        "file_status": "com_cpy",
-        "folder_id": "82c94992-0e52-750e-20b8-6cdea53608a7",
-        "create_ts": "2022-03-24T17:40:47.879Z",
-        "last_update_ts": "2022-03-24T17:40:51.047Z",
-        "active_ind": "Y",
-        "file_manager_id": "a9cf63fe-4b1b-4a6f-a32d-aebf28bc53d9",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/NAB - Political/3-25-22 - 6-05-22",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/NAB - Political/3-25-22 - 6-05-22/WSHK - NAB - Political 3.25-6.05 WO #3239204 Est AL001",
-        "entity_id": "4380",
-        "source_service_code": "FM",
-        "callsign": "WSHK",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728203874429304800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -405,7 +403,7 @@
         "2019": 13959,
         "2020": 125571,
         "2021": 22669,
-        "2022": 9455,
+        "2022": 9457,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -450,11 +448,11 @@
         "CABLE": 126935,
         "FM": 113052,
         "AM": 42414,
-        "DBS": 5480
+        "DBS": 5482
       },
       "political_file_type": {
         "PA": 225384,
-        "NCIA": 124728
+        "NCIA": 124730
       }
     }
   },
@@ -470,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1730,
-    "processTime": 736,
-    "responseTime": 1737
+    "queryTime": 198,
+    "processTime": 206,
+    "responseTime": 206
   }
 }
