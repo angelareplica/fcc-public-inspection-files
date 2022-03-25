@@ -1,9 +1,58 @@
 {
   "response": {
-    "numFound": 526948,
+    "numFound": 526950,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "ce92f67c-0338-77a6-c1d0-7a1c96b21565",
+        "file_id": "ce92f67c-0338-77a6-c1d0-7a1c96b21565",
+        "file_name": "Steven Cody Reynolds  KOIN  032922 3480026",
+        "file_extension": "pdf",
+        "file_size": 59801,
+        "file_status": "com_cpy",
+        "folder_id": "9b9aed25-d978-3b03-a2a9-4ba4427ea2a1",
+        "create_ts": "2022-03-25T23:37:03.953Z",
+        "last_update_ts": "2022-03-25T23:36:50.769Z",
+        "active_ind": "Y",
+        "file_manager_id": "2f470a0e-01fb-41dc-b6a2-ea1d9f26bc3c",
+        "file_folder_path": "Political Files/2022/Federal/US House/Steven Cody Reynolds US House/Contracts",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Steven Cody Reynolds US House/Contracts/Steven Cody Reynolds  KOIN  032922 3480026",
+        "entity_id": "35380",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "PORTLAND OR",
+        "callsign": "KOIN",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1728316885467922400,
+        "score": 0.24995688
+      },
+      {
+        "id": "985891c3-c81a-cd5b-9f86-e895618bfe0b",
+        "file_id": "985891c3-c81a-cd5b-9f86-e895618bfe0b",
+        "file_name": "CCIA 0328-0410 - 3480811 NAB",
+        "file_extension": "pdf",
+        "file_size": 4350528,
+        "file_status": "com_cpy",
+        "folder_id": "76ce5fe6-cb45-07c4-fa58-b7785fd88ac8",
+        "create_ts": "2022-03-25T23:36:00.72Z",
+        "last_update_ts": "2022-03-25T23:36:50.269Z",
+        "active_ind": "Y",
+        "file_manager_id": "1623f3d7-95b9-4f6f-98bb-7537ae024a90",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/CCIA Computer  Communications Ind Assoc/NAB Forms",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/CCIA Computer  Communications Ind Assoc/NAB Forms/CCIA 0328-0410 - 3480811 NAB",
+        "entity_id": "35042",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KLAS-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1728316820131152000,
+        "score": 0.24995688
+      },
       {
         "id": "638b702a-4dee-e938-28bd-b8b8080e27af",
         "file_id": "638b702a-4dee-e938-28bd-b8b8080e27af",
@@ -202,56 +251,6 @@
         "campaign_year": "2022",
         "_version_": 1728313726836146200,
         "score": 0.24995688
-      },
-      {
-        "id": "48b15ce9-ab49-3a1d-153e-ee44c3967f5c",
-        "file_id": "48b15ce9-ab49-3a1d-153e-ee44c3967f5c",
-        "file_name": "CCMA 0913-0919 - 3480407 ORD",
-        "file_extension": "pdf",
-        "file_size": 93055,
-        "file_status": "com_cpy",
-        "folder_id": "02b38fc9-ca7a-4ded-75b5-c05c1996ba73",
-        "create_ts": "2022-03-25T22:46:51.635Z",
-        "last_update_ts": "2022-03-25T22:46:38.433Z",
-        "active_ind": "Y",
-        "file_manager_id": "bd253384-44bf-4da9-9d22-3f540a738528",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Catherine Cortez Masto/Orders  Revisions",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Catherine Cortez Masto/Orders  Revisions/CCMA 0913-0919 - 3480407 ORD",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1728313726795251700,
-        "score": 0.24995688
-      },
-      {
-        "id": "835293e0-9813-adcb-5de8-45a028f0276f",
-        "file_id": "835293e0-9813-adcb-5de8-45a028f0276f",
-        "file_name": "A604388-REQUEST-2493663-032522",
-        "file_extension": "pdf",
-        "file_size": 116670,
-        "file_status": "com_cpy",
-        "folder_id": "2b2b9318-1855-7550-f7c0-aa896ab6f6e0",
-        "create_ts": "2022-03-25T22:45:44.65Z",
-        "last_update_ts": "2022-03-25T22:46:33.258Z",
-        "active_ind": "Y",
-        "file_manager_id": "6c1f0714-f8e9-476e-b1d6-1a298758d814",
-        "file_folder_path": "Political Files/2022/State/Bailey for Illinois",
-        "full_qualified_file_name": "Political Files/2022/State/Bailey for Illinois/A604388-REQUEST-2493663-032522",
-        "entity_id": "54275",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "QUINCY-HANNIBAL-KEOKUK",
-        "callsign": "WGEM-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1728313656664391700,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -259,7 +258,7 @@
         "DES MOINES-AMES": 8386,
         "WILKES BARRE-SCRANTON": 7324,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7043,
-        "LAS VEGAS": 6127,
+        "LAS VEGAS": 6128,
         "WEST PALM BEACH-FT. PIERCE": 5816,
         "PITTSBURGH": 5766,
         "HONOLULU": 5221,
@@ -273,7 +272,7 @@
         "RALEIGH-DURHAM (FAYETVLLE)": 3306,
         "MISSOULA": 3295,
         "CHAMPAIGN&SPRNGFLD-DECATUR": 3234,
-        "PORTLAND OR": 3182,
+        "PORTLAND OR": 3183,
         "MINNEAPOLIS-ST. PAUL": 3162,
         "SACRAMNTO-STKTON-MODESTO": 2830,
         "KANSAS CITY": 2749,
@@ -360,7 +359,7 @@
       "network_affiliation": {
         "ABC": 58244,
         "NBC": 57084,
-        "CBS": 39106,
+        "CBS": 39108,
         "FOX": 28182,
         "PBS": 14426,
         "CW": 12108,
@@ -430,14 +429,14 @@
         "2019": 13959,
         "2020": 125561,
         "2021": 22674,
-        "2022": 9960,
+        "2022": 9962,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 69047,
         "US Senate": 50500,
-        "US House": 41757,
+        "US House": 41758,
         "Presidential": 38636,
         "Local": 24567
       },
@@ -471,15 +470,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 238741,
+        "TV": 238743,
         "CABLE": 127069,
         "FM": 113171,
         "AM": 42452,
         "DBS": 5515
       },
       "political_file_type": {
-        "PA": 225609,
-        "NCIA": 125003
+        "PA": 225610,
+        "NCIA": 125004
       }
     }
   },
@@ -495,8 +494,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 198,
-    "processTime": 211,
-    "responseTime": 211
+    "queryTime": 1746,
+    "processTime": 757,
+    "responseTime": 1758
   }
 }
