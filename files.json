@@ -5,6 +5,29 @@
     "maxScore": 0.50016373,
     "docs": [
       {
+        "id": "d9a7e345-8d8d-2b73-7928-df16896013aa",
+        "file_id": "d9a7e345-8d8d-2b73-7928-df16896013aa",
+        "file_name": "Jim Pillen for Governor Sales Order (Mar 28 2022-Apr 01 2022)",
+        "file_extension": "pdf",
+        "file_size": 32216,
+        "file_status": "com_cpy",
+        "folder_id": "eb0af89d-ebfc-5d55-8479-b664007a87fe",
+        "create_ts": "2022-03-25T15:36:17.333Z",
+        "last_update_ts": "2022-03-25T15:36:20.095Z",
+        "active_ind": "Y",
+        "file_manager_id": "897ae676-233e-4437-b6fb-fde4d582e5bb",
+        "file_folder_path": "Political Files/2022/State/Nebraska Governor/Jim Pillen for Governor",
+        "full_qualified_file_name": "Political Files/2022/State/Nebraska Governor/Jim Pillen for Governor/Jim Pillen for Governor Sales Order (Mar 28 2022-Apr 01 2022)",
+        "entity_id": "51463",
+        "source_service_code": "AM",
+        "callsign": "KNEB",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1728286637480214500,
+        "score": 0.24995688
+      },
+      {
         "id": "aae73042-4eae-4ce1-2ae5-18e835495817",
         "file_id": "aae73042-4eae-4ce1-2ae5-18e835495817",
         "file_name": "Boozman US Senate ORDER 2442804   03.26.22-04.08.22",
@@ -223,28 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1728282199005855700,
         "score": 0.24995688
-      },
-      {
-        "id": "25ca9298-a532-0baf-7db9-69df102d60f5",
-        "file_id": "25ca9298-a532-0baf-7db9-69df102d60f5",
-        "file_name": "NAB - 03-28-22 to 04-30-22 - Order - 533229C",
-        "file_extension": "pdf",
-        "file_size": 16213,
-        "file_status": "com_cpy",
-        "folder_id": "830f65ae-de44-bc99-bfa8-913aab5991ea",
-        "create_ts": "2022-03-25T14:25:43.939Z",
-        "last_update_ts": "2022-03-25T14:26:31.445Z",
-        "active_ind": "Y",
-        "file_manager_id": "121c1d0a-ecb0-4240-88bb-e435fd17956a",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/National Association of Broadcaster",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/National Association of Broadcaster/NAB - 03-28-22 to 04-30-22 - Order - 533229C",
-        "entity_id": "72121",
-        "source_service_code": "FM",
-        "callsign": "WQTX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728282198480519200,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -325,7 +326,7 @@
         "FT. SMITH-FAY-SPRNGDL-RGRS": 920,
         "LOUISVILLE": 906,
         "PANAMA CITY": 865,
-        "DALLAS-FT. WORTH": 859,
+        "DALLAS-FT. WORTH": 858,
         "INDIANAPOLIS": 829,
         "LANSING": 826,
         "TULSA": 804,
@@ -356,7 +357,7 @@
         "CBS": 39090,
         "FOX": 28177,
         "PBS": 14417,
-        "CW": 12109,
+        "CW": 12108,
         "IND": 2997,
         "MYTV": 2233,
         "UNIVISION": 1895,
@@ -423,12 +424,12 @@
         "2019": 13959,
         "2020": 125571,
         "2021": 22669,
-        "2022": 9732,
+        "2022": 9733,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 68995,
+        "State": 68996,
         "US Senate": 50468,
         "US House": 41733,
         "Presidential": 38645,
@@ -437,7 +438,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61650,
         "Issues and Programs Lists": 44995,
-        "Equal Employment Opportunity Records": 37161,
+        "Equal Employment Opportunity Records": 37160,
         "Donor Lists - Applicable Only for NCEs": 11681,
         "FCC Authorizations": 7290,
         "Local Public Notice Announcements": 1882,
@@ -464,14 +465,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 238610,
+        "TV": 238609,
         "CABLE": 127003,
         "FM": 113135,
-        "AM": 42438,
+        "AM": 42439,
         "DBS": 5508
       },
       "political_file_type": {
-        "PA": 225509,
+        "PA": 225510,
         "NCIA": 124880
       }
     }
@@ -489,7 +490,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 1743,
-    "processTime": 752,
-    "responseTime": 1752
+    "processTime": 750,
+    "responseTime": 1751
   }
 }
