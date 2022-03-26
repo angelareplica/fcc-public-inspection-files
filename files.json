@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 526994,
+    "numFound": 526995,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "56c2c6ee-25e1-9bdc-7d04-dd60d0a410ff",
+        "file_id": "56c2c6ee-25e1-9bdc-7d04-dd60d0a410ff",
+        "file_name": "wgrp-wloa-3rd-qtr-2018-20181011-033447056-pdf",
+        "file_extension": "pdf",
+        "file_size": 23088,
+        "file_status": "com_cpy",
+        "folder_id": "175a2f68-d76f-ec42-e945-7e53fe798eb7",
+        "create_ts": "2022-03-26T20:54:48.459Z",
+        "last_update_ts": "2022-03-26T20:55:39.53Z",
+        "active_ind": "Y",
+        "file_manager_id": "fa1a3b61-ca8f-4fc9-b76a-7791f2a07935",
+        "file_folder_path": "Issues and Programs Lists/2018",
+        "full_qualified_file_name": "Issues and Programs Lists/2018/wgrp-wloa-3rd-qtr-2018-20181011-033447056-pdf",
+        "entity_id": "25227",
+        "source_service_code": "AM",
+        "callsign": "WGRP",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1728397273999605800,
+        "score": 0.24995688
+      },
       {
         "id": "da472ad1-4ba4-a61f-4ff3-a39031e612df",
         "file_id": "da472ad1-4ba4-a61f-4ff3-a39031e612df",
@@ -196,29 +217,6 @@
         "campaign_year": "2022",
         "_version_": 1728383698501369900,
         "score": 0.24995688
-      },
-      {
-        "id": "dae39377-a34b-6b7d-c9b3-d5c0d362f49b",
-        "file_id": "dae39377-a34b-6b7d-c9b3-d5c0d362f49b",
-        "file_name": "BRADFORD FOR PROS ATTNY 0854-007 CUT 422-03",
-        "file_extension": "pdf",
-        "file_size": 332055,
-        "file_status": "com_cpy",
-        "folder_id": "519131e9-8516-39c2-cbf7-91ccd6706737",
-        "create_ts": "2022-03-26T17:19:01.639Z",
-        "last_update_ts": "2022-03-26T17:19:04.593Z",
-        "active_ind": "Y",
-        "file_manager_id": "85febbc8-7a2b-4e4d-a29b-da1d1dbe69a3",
-        "file_folder_path": "Political Files/2022/Local/9W Prosecuting Attorney",
-        "full_qualified_file_name": "Political Files/2022/Local/9W Prosecuting Attorney/BRADFORD FOR PROS ATTNY 0854-007 CUT 422-03",
-        "entity_id": "30599",
-        "source_service_code": "FM",
-        "callsign": "KDQN-FM",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1728383698387075000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -410,7 +408,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61656,
-        "Issues and Programs Lists": 45024,
+        "Issues and Programs Lists": 45025,
         "Equal Employment Opportunity Records": 37176,
         "Donor Lists - Applicable Only for NCEs": 11690,
         "FCC Authorizations": 7292,
@@ -441,7 +439,7 @@
         "TV": 238748,
         "CABLE": 127069,
         "FM": 113205,
-        "AM": 42457,
+        "AM": 42458,
         "DBS": 5515
       },
       "political_file_type": {
@@ -462,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1758,
-    "processTime": 770,
-    "responseTime": 1770
+    "queryTime": 198,
+    "processTime": 208,
+    "responseTime": 208
   }
 }
