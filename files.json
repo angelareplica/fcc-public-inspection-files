@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 526956,
+    "numFound": 526958,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "c606e22a-84c9-0291-2830-1aabe19c6965",
+        "file_id": "c606e22a-84c9-0291-2830-1aabe19c6965",
+        "file_name": "NAB-PB-19_NonCandidateAds REVISED_Lamborn 2022-03-25 (1)",
+        "file_extension": "pdf",
+        "file_size": 1122988,
+        "file_status": "com_cpy",
+        "folder_id": "f4ea2577-02a7-90ca-e113-a4562d05c46d",
+        "create_ts": "2022-03-26T01:58:58.066Z",
+        "last_update_ts": "2022-03-26T01:58:45.13Z",
+        "active_ind": "Y",
+        "file_manager_id": "1a590eb0-167e-40d9-a31b-73e76583800f",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/LambornKeystone XL Pipeline",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/LambornKeystone XL Pipeline/NAB-PB-19_NonCandidateAds REVISED_Lamborn 2022-03-25 (1)",
+        "entity_id": "20579",
+        "source_service_code": "FM",
+        "callsign": "KGFT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1728325813446639600,
+        "score": 0.24995688
+      },
+      {
+        "id": "f7d45d0c-d6fe-ae46-c59e-cfb9c1fffb83",
+        "file_id": "f7d45d0c-d6fe-ae46-c59e-cfb9c1fffb83",
+        "file_name": "NAB-PB-19_NonCandidateAds REVISED_Lamborn 2022-03-25 (1)",
+        "file_extension": "pdf",
+        "file_size": 1122988,
+        "file_status": "com_cpy",
+        "folder_id": "3e3dbe09-3777-7d90-0fbc-49cf8589c2f2",
+        "create_ts": "2022-03-26T01:56:42.065Z",
+        "last_update_ts": "2022-03-26T01:57:31.208Z",
+        "active_ind": "Y",
+        "file_manager_id": "35bb4d8c-e133-4029-a3ba-368b1ab02037",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Doug LambornKeystone XL Pipleline",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Doug LambornKeystone XL Pipleline/NAB-PB-19_NonCandidateAds REVISED_Lamborn 2022-03-25 (1)",
+        "entity_id": "73073",
+        "source_service_code": "FM",
+        "callsign": "KBIQ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1728325670814089200,
+        "score": 0.24995688
+      },
       {
         "id": "06ac9a55-7d80-1bda-3945-2a2b5f5dccaf",
         "file_id": "06ac9a55-7d80-1bda-3945-2a2b5f5dccaf",
@@ -201,55 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1728318094304084000,
         "score": 0.24995688
-      },
-      {
-        "id": "ce92f67c-0338-77a6-c1d0-7a1c96b21565",
-        "file_id": "ce92f67c-0338-77a6-c1d0-7a1c96b21565",
-        "file_name": "Steven Cody Reynolds  KOIN  032922 3480026",
-        "file_extension": "pdf",
-        "file_size": 59801,
-        "file_status": "com_cpy",
-        "folder_id": "9b9aed25-d978-3b03-a2a9-4ba4427ea2a1",
-        "create_ts": "2022-03-25T23:37:03.953Z",
-        "last_update_ts": "2022-03-25T23:36:50.769Z",
-        "active_ind": "Y",
-        "file_manager_id": "2f470a0e-01fb-41dc-b6a2-ea1d9f26bc3c",
-        "file_folder_path": "Political Files/2022/Federal/US House/Steven Cody Reynolds US House/Contracts",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Steven Cody Reynolds US House/Contracts/Steven Cody Reynolds  KOIN  032922 3480026",
-        "entity_id": "35380",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "PORTLAND OR",
-        "callsign": "KOIN",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1728316885467922400,
-        "score": 0.24995688
-      },
-      {
-        "id": "985891c3-c81a-cd5b-9f86-e895618bfe0b",
-        "file_id": "985891c3-c81a-cd5b-9f86-e895618bfe0b",
-        "file_name": "CCIA 0328-0410 - 3480811 NAB",
-        "file_extension": "pdf",
-        "file_size": 4350528,
-        "file_status": "com_cpy",
-        "folder_id": "76ce5fe6-cb45-07c4-fa58-b7785fd88ac8",
-        "create_ts": "2022-03-25T23:36:00.72Z",
-        "last_update_ts": "2022-03-25T23:36:50.269Z",
-        "active_ind": "Y",
-        "file_manager_id": "1623f3d7-95b9-4f6f-98bb-7537ae024a90",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/CCIA Computer  Communications Ind Assoc/NAB Forms",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/CCIA Computer  Communications Ind Assoc/NAB Forms/CCIA 0328-0410 - 3480811 NAB",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728316820131152000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -428,7 +423,7 @@
         "2019": 13959,
         "2020": 125561,
         "2021": 22674,
-        "2022": 9970,
+        "2022": 9972,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -471,13 +466,13 @@
       "source_service_code": {
         "TV": 238748,
         "CABLE": 127069,
-        "FM": 113172,
+        "FM": 113174,
         "AM": 42452,
         "DBS": 5515
       },
       "political_file_type": {
         "PA": 225616,
-        "NCIA": 125004
+        "NCIA": 125006
       }
     }
   },
@@ -493,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 197,
-    "processTime": 205,
-    "responseTime": 205
+    "queryTime": 200,
+    "processTime": 210,
+    "responseTime": 210
   }
 }
