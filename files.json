@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 527011,
+    "numFound": 527012,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "57a56441-c018-01eb-2c87-550cc0b555c9",
+        "file_id": "57a56441-c018-01eb-2c87-550cc0b555c9",
+        "file_name": "Pol M Oz R SSN PA_REV2_907946",
+        "file_extension": "pdf",
+        "file_size": 236838,
+        "file_status": "com_cpy",
+        "folder_id": "d3766414-959d-9615-f94f-ee4bbda857a7",
+        "create_ts": "2022-03-27T22:27:36.805Z",
+        "last_update_ts": "2022-03-27T22:28:30.984Z",
+        "active_ind": "Y",
+        "file_manager_id": "e7e8b236-b870-4cdc-aa3f-2079acc77c48",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/907946-0406-0412",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Pol M Oz R SSN PA/907946-0406-0412/Pol M Oz R SSN PA_REV2_907946",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1728493709895401500,
+        "score": 0.24995688
+      },
       {
         "id": "8ff0a3a5-4386-a3f0-8e55-720e31d5368b",
         "file_id": "8ff0a3a5-4386-a3f0-8e55-720e31d5368b",
@@ -223,31 +248,6 @@
         "campaign_year": "2022",
         "_version_": 1728471549572284400,
         "score": 0.24995688
-      },
-      {
-        "id": "63cbc0f8-d650-e850-17ad-7471e42fd531",
-        "file_id": "63cbc0f8-d650-e850-17ad-7471e42fd531",
-        "file_name": "WTVH WILSON FOR NEW YORK GOVERNOR EST 3472 04.25.22-05.01.22 - NAB",
-        "file_extension": "pdf",
-        "file_size": 64103,
-        "file_status": "com_cpy",
-        "folder_id": "909a02e9-a44a-b025-db96-b81799a348e0",
-        "create_ts": "2022-03-27T16:35:22.959Z",
-        "last_update_ts": "2022-03-27T16:35:25.977Z",
-        "active_ind": "Y",
-        "file_manager_id": "703a52d5-9ea5-4f1b-a740-cafd8c265229",
-        "file_folder_path": "Political Files/2022/State/WILSON FOR NEW YORK GOVERNOR-R",
-        "full_qualified_file_name": "Political Files/2022/State/WILSON FOR NEW YORK GOVERNOR-R/WTVH WILSON FOR NEW YORK GOVERNOR EST 3472 04.25.22-05.01.22 - NAB",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1728471549496787000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -257,7 +257,7 @@
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7043,
         "LAS VEGAS": 6128,
         "WEST PALM BEACH-FT. PIERCE": 5816,
-        "PITTSBURGH": 5766,
+        "PITTSBURGH": 5767,
         "HONOLULU": 5221,
         "DULUTH-SUPERIOR": 4655,
         "CHARLESTON-HUNTINGTON": 4334,
@@ -355,7 +355,7 @@
       },
       "network_affiliation": {
         "ABC": 58245,
-        "NBC": 57084,
+        "NBC": 57085,
         "CBS": 39120,
         "FOX": 28186,
         "PBS": 14426,
@@ -426,13 +426,13 @@
         "2019": 13958,
         "2020": 125561,
         "2021": 22674,
-        "2022": 9989,
+        "2022": 9990,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 69061,
-        "US Senate": 50500,
+        "US Senate": 50501,
         "US House": 41759,
         "Presidential": 38636,
         "Local": 24574
@@ -467,14 +467,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 238760,
+        "TV": 238761,
         "CABLE": 127069,
         "FM": 113209,
         "AM": 42458,
         "DBS": 5515
       },
       "political_file_type": {
-        "PA": 225629,
+        "PA": 225630,
         "NCIA": 125007
       }
     }
@@ -491,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 200,
-    "processTime": 211,
-    "responseTime": 212
+    "queryTime": 1732,
+    "processTime": 742,
+    "responseTime": 1743
   }
 }
