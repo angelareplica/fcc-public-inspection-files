@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 527010,
+    "numFound": 527011,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "8ff0a3a5-4386-a3f0-8e55-720e31d5368b",
+        "file_id": "8ff0a3a5-4386-a3f0-8e55-720e31d5368b",
+        "file_name": "NAB - KATP3240901-0",
+        "file_extension": "pdf",
+        "file_size": 20796,
+        "file_status": "com_cpy",
+        "folder_id": "c6d1458b-3114-c36e-0a5f-d208e7b070f4",
+        "create_ts": "2022-03-27T21:50:38.371Z",
+        "last_update_ts": "2022-03-27T21:51:32.352Z",
+        "active_ind": "Y",
+        "file_manager_id": "bd9fce5c-3882-47dc-a841-904eb56284d3",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/NAB - KATP3240901-0",
+        "entity_id": "41433",
+        "source_service_code": "FM",
+        "callsign": "KATP",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1728491383567679500,
+        "score": 0.24995688
+      },
       {
         "id": "3fa74daf-2bb4-ba4c-b466-9d01c1efcdfa",
         "file_id": "3fa74daf-2bb4-ba4c-b466-9d01c1efcdfa",
@@ -226,31 +248,6 @@
         "campaign_year": "2022",
         "_version_": 1728471549496787000,
         "score": 0.24995688
-      },
-      {
-        "id": "93222e63-09a8-9a14-1543-cdb98f3e591e",
-        "file_id": "93222e63-09a8-9a14-1543-cdb98f3e591e",
-        "file_name": "WTVH WILSON FOR NEW YORK GOVERNOR EST 3470 04.11.22-04.17.22 - NAB",
-        "file_extension": "pdf",
-        "file_size": 62440,
-        "file_status": "com_cpy",
-        "folder_id": "909a02e9-a44a-b025-db96-b81799a348e0",
-        "create_ts": "2022-03-27T16:35:22.96Z",
-        "last_update_ts": "2022-03-27T16:35:25.933Z",
-        "active_ind": "Y",
-        "file_manager_id": "58f0349b-e409-442e-93fe-816c351d2e47",
-        "file_folder_path": "Political Files/2022/State/WILSON FOR NEW YORK GOVERNOR-R",
-        "full_qualified_file_name": "Political Files/2022/State/WILSON FOR NEW YORK GOVERNOR-R/WTVH WILSON FOR NEW YORK GOVERNOR EST 3470 04.11.22-04.17.22 - NAB",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1728471549450649600,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -429,7 +426,7 @@
         "2019": 13958,
         "2020": 125561,
         "2021": 22674,
-        "2022": 9988,
+        "2022": 9989,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -472,13 +469,13 @@
       "source_service_code": {
         "TV": 238760,
         "CABLE": 127069,
-        "FM": 113208,
+        "FM": 113209,
         "AM": 42458,
         "DBS": 5515
       },
       "political_file_type": {
         "PA": 225629,
-        "NCIA": 125006
+        "NCIA": 125007
       }
     }
   },
@@ -494,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 62,
-    "processTime": 73,
-    "responseTime": 74
+    "queryTime": 200,
+    "processTime": 211,
+    "responseTime": 212
   }
 }
