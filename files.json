@@ -492,7 +492,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 62,
-    "processTime": 73,
-    "responseTime": 73
+    "processTime": 70,
+    "responseTime": 71
   }
 }
