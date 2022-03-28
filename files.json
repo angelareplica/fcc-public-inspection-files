@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 527045,
+    "numFound": 527047,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "f6b6ecc7-4a3d-2a5a-d756-4beb4f9efc88",
+        "file_id": "f6b6ecc7-4a3d-2a5a-d756-4beb4f9efc88",
+        "file_name": "03282022_WMVO_IssuesandProgramming_FirstQuarter",
+        "file_extension": "pdf",
+        "file_size": 433551,
+        "file_status": "com_cpy",
+        "folder_id": "f6cb2aba-cab9-d4db-dbf8-a0d88595647f",
+        "create_ts": "2022-03-28T13:16:26.464Z",
+        "last_update_ts": "2022-03-28T13:30:05.237Z",
+        "active_ind": "Y",
+        "file_manager_id": "0e7e894f-51bb-43cc-8f9f-feaf7ca57cf1",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/03282022_WMVO_IssuesandProgramming_FirstQuarter",
+        "entity_id": "74474",
+        "source_service_code": "AM",
+        "callsign": "WMVO",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1728550429975904300,
+        "score": 0.24995688
+      },
+      {
+        "id": "b210521f-c89b-70cf-1d17-d10ac647a276",
+        "file_id": "b210521f-c89b-70cf-1d17-d10ac647a276",
+        "file_name": "03282022_WQIO_IssuesandProgramming_FirstQuarter",
+        "file_extension": "pdf",
+        "file_size": 430340,
+        "file_status": "com_cpy",
+        "folder_id": "5a8b4471-7639-62a5-0cf4-a8f02b3c1556",
+        "create_ts": "2022-03-28T13:11:09.753Z",
+        "last_update_ts": "2022-03-28T13:11:12.886Z",
+        "active_ind": "Y",
+        "file_manager_id": "d5ccb49b-cf6c-4d69-a121-ab4c2090f470",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/03282022_WQIO_IssuesandProgramming_FirstQuarter",
+        "entity_id": "74475",
+        "source_service_code": "FM",
+        "callsign": "WQIO",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1728549298147164200,
+        "score": 0.24995688
+      },
       {
         "id": "642918a8-c96c-101f-30fb-b20b49d1d9db",
         "file_id": "642918a8-c96c-101f-30fb-b20b49d1d9db",
@@ -170,48 +212,6 @@
         "callsign": "WDRE",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1728521405368107000,
-        "score": 0.24995688
-      },
-      {
-        "id": "945f46c5-e90b-53df-87b4-98046ef288d1",
-        "file_id": "945f46c5-e90b-53df-87b4-98046ef288d1",
-        "file_name": "2014 Issues Programs fourth quarterly report WDRE, 2014-04",
-        "file_extension": "pdf",
-        "file_size": 148824,
-        "file_status": "com_cpy",
-        "folder_id": "6718131e-441f-ecf8-01d6-8016f10e8f0f",
-        "create_ts": "2022-03-28T05:47:49.18Z",
-        "last_update_ts": "2022-03-28T05:47:35.681Z",
-        "active_ind": "Y",
-        "file_manager_id": "c470d6be-3e2c-49e4-b091-dba9a6e90715",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/2014 Issues Programs fourth quarterly report WDRE, 2014-04",
-        "entity_id": "19668",
-        "source_service_code": "FM",
-        "callsign": "WDRE",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1728521405342941200,
-        "score": 0.24995688
-      },
-      {
-        "id": "f0437278-48dd-3604-e274-4f16e9f6a8dc",
-        "file_id": "f0437278-48dd-3604-e274-4f16e9f6a8dc",
-        "file_name": "2015 Issues Programs first quarterly report WNKZ, 2015-01",
-        "file_extension": "pdf",
-        "file_size": 148107,
-        "file_status": "com_cpy",
-        "folder_id": "33ef50f8-5aa4-36c1-2b2c-eb6d34f777d4",
-        "create_ts": "2022-03-28T05:41:23.935Z",
-        "last_update_ts": "2022-03-28T05:41:26.994Z",
-        "active_ind": "Y",
-        "file_manager_id": "17da83cc-570f-4ab7-b0b6-ab79a8c4c026",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/2015 Issues Programs first quarterly report WNKZ, 2015-01",
-        "entity_id": "66715",
-        "source_service_code": "FM",
-        "callsign": "WGMF-FM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1728521001401057300,
         "score": 0.24995688
       }
     ],
@@ -404,7 +404,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61656,
-        "Issues and Programs Lists": 45057,
+        "Issues and Programs Lists": 45059,
         "Equal Employment Opportunity Records": 37176,
         "Donor Lists - Applicable Only for NCEs": 11690,
         "FCC Authorizations": 7295,
@@ -434,8 +434,8 @@
       "source_service_code": {
         "TV": 238761,
         "CABLE": 127069,
-        "FM": 113226,
-        "AM": 42474,
+        "FM": 113227,
+        "AM": 42475,
         "DBS": 5515
       },
       "political_file_type": {
@@ -456,8 +456,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 220,
-    "responseTime": 220
+    "queryTime": 1777,
+    "processTime": 786,
+    "responseTime": 1787
   }
 }
