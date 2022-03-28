@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 527044,
+    "numFound": 527045,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "642918a8-c96c-101f-30fb-b20b49d1d9db",
+        "file_id": "642918a8-c96c-101f-30fb-b20b49d1d9db",
+        "file_name": "2022-03-25 - 0000185523 - KBEZ Oneta Aux CP Authorization",
+        "file_extension": "pdf",
+        "file_size": 345196,
+        "file_status": "com_cpy",
+        "folder_id": "c6b0d85a-8482-26c7-e10e-5888dfbaeb95",
+        "create_ts": "2022-03-28T12:20:52.434Z",
+        "last_update_ts": "2022-03-28T12:20:38.889Z",
+        "active_ind": "Y",
+        "file_manager_id": "37f0a12e-fcf0-40ff-ab04-011d292fdcb9",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/2022-03-25 - 0000185523 - KBEZ Oneta Aux CP Authorization",
+        "entity_id": "55707",
+        "source_service_code": "FM",
+        "callsign": "KBEZ",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1728546134185476000,
+        "score": 0.24995688
+      },
       {
         "id": "d2d988db-462c-33ac-da4d-3123e2c9a860",
         "file_id": "d2d988db-462c-33ac-da4d-3123e2c9a860",
@@ -191,27 +212,6 @@
         "callsign": "WGMF-FM",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1728521001401057300,
-        "score": 0.24995688
-      },
-      {
-        "id": "c5544838-a21d-c0e4-16bb-fb0e9ddef2a5",
-        "file_id": "c5544838-a21d-c0e4-16bb-fb0e9ddef2a5",
-        "file_name": "2015 Issues Programs second quarterly report WNKZ, 2015-02",
-        "file_extension": "pdf",
-        "file_size": 149845,
-        "file_status": "com_cpy",
-        "folder_id": "33ef50f8-5aa4-36c1-2b2c-eb6d34f777d4",
-        "create_ts": "2022-03-28T05:41:24.054Z",
-        "last_update_ts": "2022-03-28T05:41:10.512Z",
-        "active_ind": "Y",
-        "file_manager_id": "8445fa17-2ad5-4a85-967d-ed4c224e3ff8",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/2015 Issues Programs second quarterly report WNKZ, 2015-02",
-        "entity_id": "66715",
-        "source_service_code": "FM",
-        "callsign": "WGMF-FM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1728521001454534700,
         "score": 0.24995688
       }
     ],
@@ -407,7 +407,7 @@
         "Issues and Programs Lists": 45057,
         "Equal Employment Opportunity Records": 37176,
         "Donor Lists - Applicable Only for NCEs": 11690,
-        "FCC Authorizations": 7294,
+        "FCC Authorizations": 7295,
         "Local Public Notice Announcements": 1882,
         "Availability of Signals": 1867,
         "Applications and Related Materials": 1685,
@@ -434,7 +434,7 @@
       "source_service_code": {
         "TV": 238761,
         "CABLE": 127069,
-        "FM": 113225,
+        "FM": 113226,
         "AM": 42474,
         "DBS": 5515
       },
@@ -456,8 +456,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 201,
-    "processTime": 213,
-    "responseTime": 213
+    "queryTime": 211,
+    "processTime": 220,
+    "responseTime": 220
   }
 }
