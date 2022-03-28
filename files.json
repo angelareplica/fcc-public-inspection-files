@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 527050,
+    "numFound": 527051,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "d48dd53b-bb37-eca9-e15c-bcd80b1c92bf",
+        "file_id": "d48dd53b-bb37-eca9-e15c-bcd80b1c92bf",
+        "file_name": "03-28-2022-Accepted",
+        "file_extension": "pdf",
+        "file_size": 52263,
+        "file_status": "com_cpy",
+        "folder_id": "c2c9cf01-2d71-ebc1-2c5b-26a18bfc716d",
+        "create_ts": "2022-03-28T14:13:54.879Z",
+        "last_update_ts": "2022-03-28T14:13:57.709Z",
+        "active_ind": "Y",
+        "file_manager_id": "b58e7822-7963-4a8f-95be-f9681305ad37",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Senate Majority PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Senate Majority PAC/03-28-2022-Accepted",
+        "entity_id": "59440",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
+        "callsign": "KNXV-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1728553245839720400,
+        "score": 0.24995688
+      },
       {
         "id": "a5f393b7-193c-fc97-61d3-16afc54d3252",
         "file_id": "a5f393b7-193c-fc97-61d3-16afc54d3252",
@@ -203,27 +227,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1728521605766709200,
         "score": 0.24995688
-      },
-      {
-        "id": "d34df3c5-a4ed-a547-6441-4a4b66f4cbf5",
-        "file_id": "d34df3c5-a4ed-a547-6441-4a4b66f4cbf5",
-        "file_name": "2015 Issues Programs first quarterly report WDRE, 2015-01",
-        "file_extension": "pdf",
-        "file_size": 147559,
-        "file_status": "com_cpy",
-        "folder_id": "6718131e-441f-ecf8-01d6-8016f10e8f0f",
-        "create_ts": "2022-03-28T05:52:07.999Z",
-        "last_update_ts": "2022-03-28T05:51:54.462Z",
-        "active_ind": "Y",
-        "file_manager_id": "3e46cf39-824c-428c-bef2-5297ce5ca4f7",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/2015 Issues Programs first quarterly report WDRE, 2015-01",
-        "entity_id": "19668",
-        "source_service_code": "FM",
-        "callsign": "WDRE",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1728521676686098400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -276,8 +279,8 @@
         "LINCOLN & HASTINGS-KRNY": 1642,
         "MADISON": 1606,
         "GREENVLL-SPART-ASHEVLL-AND": 1561,
+        "PHOENIX (PRESCOTT)": 1519,
         "BINGHAMTON": 1518,
-        "PHOENIX (PRESCOTT)": 1518,
         "MINOT-BISMARCK-DICKINSON": 1457,
         "FARGO-VALLEY CITY": 1430,
         "BURLINGTON-PLATTSBURGH": 1412,
@@ -330,7 +333,7 @@
         "ATLANTA": 556
       },
       "network_affiliation": {
-        "ABC": 58247,
+        "ABC": 58248,
         "NBC": 57085,
         "CBS": 39120,
         "FOX": 28187,
@@ -402,7 +405,7 @@
         "2019": 13958,
         "2020": 125561,
         "2021": 22674,
-        "2022": 9993,
+        "2022": 9994,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -443,7 +446,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 238764,
+        "TV": 238765,
         "CABLE": 127069,
         "FM": 113227,
         "AM": 42475,
@@ -451,7 +454,7 @@
       },
       "political_file_type": {
         "PA": 225632,
-        "NCIA": 125008
+        "NCIA": 125009
       }
     }
   },
@@ -467,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1796,
-    "processTime": 805,
-    "responseTime": 1805
+    "queryTime": 1730,
+    "processTime": 737,
+    "responseTime": 1737
   }
 }
