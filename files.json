@@ -1,9 +1,58 @@
 {
   "response": {
-    "numFound": 527714,
+    "numFound": 527716,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "3dfd4a4c-1e51-ebeb-aa79-9b6faaadc2ec",
+        "file_id": "3dfd4a4c-1e51-ebeb-aa79-9b6faaadc2ec",
+        "file_name": "Rick Caruso for Mayor_NAB_KMEX 182417 rev 032922",
+        "file_extension": "pdf",
+        "file_size": 1274203,
+        "file_status": "com_cpy",
+        "folder_id": "8b584ac3-01c7-a05e-d125-c3c335225c83",
+        "create_ts": "2022-03-29T22:50:36.744Z",
+        "last_update_ts": "2022-03-29T22:50:23.07Z",
+        "active_ind": "Y",
+        "file_manager_id": "97c2cf35-9d30-4d5e-952e-6026e19c5e5d",
+        "file_folder_path": "Political Files/2022/Local/Rick Caruso for Mayor",
+        "full_qualified_file_name": "Political Files/2022/Local/Rick Caruso for Mayor/Rick Caruso for Mayor_NAB_KMEX 182417 rev 032922",
+        "entity_id": "35123",
+        "source_service_code": "TV",
+        "network_affiliation": "UNIVISION",
+        "nielsen_dma_rank": "LOS ANGELES",
+        "callsign": "KMEX-DT",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1728676351008833500,
+        "score": 0.24995688
+      },
+      {
+        "id": "9cec9ce3-8d64-4663-683a-6a10d33fa262",
+        "file_id": "9cec9ce3-8d64-4663-683a-6a10d33fa262",
+        "file_name": "COALITION FOR SAFE, RESPONSIBLE GAMING 022822-032722 2248121-1",
+        "file_extension": "pdf",
+        "file_size": 64231,
+        "file_status": "com_cpy",
+        "folder_id": "61216577-7aed-a6a1-c5fd-ccd04679c668",
+        "create_ts": "2022-03-29T22:43:36.847Z",
+        "last_update_ts": "2022-03-29T22:43:39.828Z",
+        "active_ind": "Y",
+        "file_manager_id": "39b62a15-f94a-4f47-a094-e23478cb4d6c",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/COALITION FOR SAFE AND RESPONSIBLE GAMING",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/COALITION FOR SAFE AND RESPONSIBLE GAMING/COALITION FOR SAFE, RESPONSIBLE GAMING 022822-032722 2248121-1",
+        "entity_id": "33875",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
+        "callsign": "KCRA-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1728675910438092800,
+        "score": 0.24995688
+      },
       {
         "id": "ed3ca390-1db7-88f1-942f-6e9c968daadb",
         "file_id": "ed3ca390-1db7-88f1-942f-6e9c968daadb",
@@ -199,54 +248,6 @@
         "campaign_year": "2022",
         "_version_": 1728674068876492800,
         "score": 0.24995688
-      },
-      {
-        "id": "5f45831e-9d7f-16a9-dfa5-16c56ab84991",
-        "file_id": "5f45831e-9d7f-16a9-dfa5-16c56ab84991",
-        "file_name": "ARKANSAS PATRIOTS FUND 5145981 03.21.22-03.27.22 INVOICE",
-        "file_extension": "pdf",
-        "file_size": 271970,
-        "file_status": "com_cpy",
-        "folder_id": "21aaca2a-efb0-a32d-27e4-8f80e7702509",
-        "create_ts": "2022-03-29T22:15:22.974Z",
-        "last_update_ts": "2022-03-29T22:15:09.196Z",
-        "active_ind": "Y",
-        "file_manager_id": "b3752778-526a-4619-9661-fb7c0039a3ed",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Arkansas Patriots Fund",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Arkansas Patriots Fund/ARKANSAS PATRIOTS FUND 5145981 03.21.22-03.27.22 INVOICE",
-        "entity_id": "33543",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LITTLE ROCK-PINE BLUFF",
-        "callsign": "KATV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728674134448144400,
-        "score": 0.24995688
-      },
-      {
-        "id": "6385d6bd-8184-26ea-890f-39ff44ee9934",
-        "file_id": "6385d6bd-8184-26ea-890f-39ff44ee9934",
-        "file_name": "HEARTLAND RESURGENCE 5179657 03.21.22-03.27.22 INVOICE",
-        "file_extension": "pdf",
-        "file_size": 284902,
-        "file_status": "com_cpy",
-        "folder_id": "40b11632-4a75-b2f3-bc24-2c6bcd1e63c3",
-        "create_ts": "2022-03-29T22:14:57.91Z",
-        "last_update_ts": "2022-03-29T22:15:01.201Z",
-        "active_ind": "Y",
-        "file_manager_id": "10e2af61-0375-47b9-a92f-9bf08f4b6024",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Heartland Resurgence",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Heartland Resurgence/HEARTLAND RESURGENCE 5179657 03.21.22-03.27.22 INVOICE",
-        "entity_id": "33543",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LITTLE ROCK-PINE BLUFF",
-        "callsign": "KATV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728674108330213400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -270,7 +271,7 @@
         "CHAMPAIGN&SPRNGFLD-DECATUR": 3234,
         "PORTLAND OR": 3189,
         "MINNEAPOLIS-ST. PAUL": 3162,
-        "SACRAMNTO-STKTON-MODESTO": 2839,
+        "SACRAMNTO-STKTON-MODESTO": 2840,
         "KANSAS CITY": 2749,
         "FT. WAYNE": 2713,
         "BEND OR": 2684,
@@ -311,7 +312,7 @@
         "JOHNSTOWN-ALTOONA-ST COLGE": 1238,
         "PROVIDENCE-NEW BEDFORD": 1200,
         "ANCHORAGE": 1197,
-        "LOS ANGELES": 1152,
+        "LOS ANGELES": 1153,
         "GREEN BAY-APPLETON": 1119,
         "CHARLOTTE": 1111,
         "SALT LAKE CITY": 1090,
@@ -354,14 +355,14 @@
       },
       "network_affiliation": {
         "ABC": 58351,
-        "NBC": 57164,
+        "NBC": 57165,
         "CBS": 39217,
         "FOX": 28226,
         "PBS": 14426,
         "CW": 12114,
         "IND": 2997,
         "MYTV": 2233,
-        "UNIVISION": 1895,
+        "UNIVISION": 1896,
         "MY NETWORK": 1562,
         "CBS/NBC": 1081,
         "MNT": 868,
@@ -425,7 +426,7 @@
         "2019": 13958,
         "2020": 125579,
         "2021": 22677,
-        "2022": 10618,
+        "2022": 10620,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -434,7 +435,7 @@
         "US Senate": 50613,
         "US House": 41790,
         "Presidential": 38648,
-        "Local": 24616
+        "Local": 24617
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61662,
@@ -466,15 +467,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 239135,
+        "TV": 239137,
         "CABLE": 127144,
         "FM": 113363,
         "AM": 42550,
         "DBS": 5522
       },
       "political_file_type": {
-        "PA": 226043,
-        "NCIA": 125243
+        "PA": 226044,
+        "NCIA": 125244
       }
     }
   },
@@ -490,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1747,
-    "processTime": 756,
-    "responseTime": 1757
+    "queryTime": 1864,
+    "processTime": 876,
+    "responseTime": 1876
   }
 }
