@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 527716,
+    "numFound": 527717,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "0b5b2350-cf83-5214-3664-4cf409296fe1",
+        "file_id": "0b5b2350-cf83-5214-3664-4cf409296fe1",
+        "file_name": "NAB Order 032922",
+        "file_extension": "PDF",
+        "file_size": 429957,
+        "file_status": "com_cpy",
+        "folder_id": "3fac7148-ec4f-39e9-601e-5e04a1d54c32",
+        "create_ts": "2022-03-29T23:40:53.988Z",
+        "last_update_ts": "2022-03-29T23:41:54.188Z",
+        "active_ind": "Y",
+        "file_manager_id": "dc7ff3ee-654a-4007-9ac9-928b2e189c59",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/NAB Order March 2022",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/NAB Order March 2022/NAB Order 032922",
+        "entity_id": "191528",
+        "source_service_code": "FM",
+        "callsign": "WBZX",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1728679514778632200,
+        "score": 0.24995688
+      },
       {
         "id": "3dfd4a4c-1e51-ebeb-aa79-9b6faaadc2ec",
         "file_id": "3dfd4a4c-1e51-ebeb-aa79-9b6faaadc2ec",
@@ -223,31 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1728674068885930000,
         "score": 0.24995688
-      },
-      {
-        "id": "aedab84a-d47e-d9c1-aee0-d5067d2961cf",
-        "file_id": "aedab84a-d47e-d9c1-aee0-d5067d2961cf",
-        "file_name": "JOHN BOOZMAN 5171776 03.21.22-03.27.22 INVOICE",
-        "file_extension": "pdf",
-        "file_size": 283192,
-        "file_status": "com_cpy",
-        "folder_id": "36797d79-c3be-7e74-b553-f33fdc253538",
-        "create_ts": "2022-03-29T22:14:20.432Z",
-        "last_update_ts": "2022-03-29T22:15:20.408Z",
-        "active_ind": "Y",
-        "file_manager_id": "24fbfc6e-23db-49af-94ba-ffad35a0c16a",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/John Boozman",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/John Boozman/JOHN BOOZMAN 5171776 03.21.22-03.27.22 INVOICE",
-        "entity_id": "33543",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LITTLE ROCK-PINE BLUFF",
-        "callsign": "KATV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1728674068876492800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -426,7 +423,7 @@
         "2019": 13958,
         "2020": 125579,
         "2021": 22677,
-        "2022": 10620,
+        "2022": 10621,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -469,13 +466,13 @@
       "source_service_code": {
         "TV": 239137,
         "CABLE": 127144,
-        "FM": 113363,
+        "FM": 113364,
         "AM": 42550,
         "DBS": 5522
       },
       "political_file_type": {
         "PA": 226044,
-        "NCIA": 125244
+        "NCIA": 125245
       }
     }
   },
@@ -491,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1864,
-    "processTime": 876,
-    "responseTime": 1876
+    "queryTime": 1768,
+    "processTime": 778,
+    "responseTime": 1778
   }
 }
