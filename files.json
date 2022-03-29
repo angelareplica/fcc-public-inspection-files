@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 527444,
+    "numFound": 527445,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "8be7c381-e676-6033-14f1-d1a70095a6e7",
+        "file_id": "8be7c381-e676-6033-14f1-d1a70095a6e7",
+        "file_name": "KGO-AM PB-19_Performance_Tax 03.2022",
+        "file_extension": "pdf",
+        "file_size": 1113254,
+        "file_status": "com_cpy",
+        "folder_id": "512c0f3d-0edb-702b-0481-d0d8e2222aa7",
+        "create_ts": "2022-03-29T01:55:33.929Z",
+        "last_update_ts": "2022-03-29T01:55:37.249Z",
+        "active_ind": "Y",
+        "file_manager_id": "835343c8-59ee-4068-b42d-a9ff620f7d8d",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/KGO-AM PB-19_Performance_Tax 03.2022",
+        "entity_id": "34471",
+        "source_service_code": "AM",
+        "callsign": "KGO",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1728597390391246800,
+        "score": 0.24995688
+      },
       {
         "id": "536d9609-4ad6-8e7f-b75e-bcf28a00513b",
         "file_id": "536d9609-4ad6-8e7f-b75e-bcf28a00513b",
@@ -211,31 +234,6 @@
         "campaign_year": "2022",
         "_version_": 1728591953122033700,
         "score": 0.24995688
-      },
-      {
-        "id": "1b4cea6b-1436-1666-702f-57abe96c92ba",
-        "file_id": "1b4cea6b-1436-1666-702f-57abe96c92ba",
-        "file_name": "Friends of Christine Drazan KOHD 27755055 26810 Order  032822",
-        "file_extension": "pdf",
-        "file_size": 19344,
-        "file_status": "com_cpy",
-        "folder_id": "d937fb66-4c10-c6d5-96d1-b8a132624fd8",
-        "create_ts": "2022-03-29T00:16:56.41Z",
-        "last_update_ts": "2022-03-29T00:30:05.883Z",
-        "active_ind": "Y",
-        "file_manager_id": "76d5bfab-77a9-4b2f-a464-4995f230893e",
-        "file_folder_path": "Political Files/2022/State/Governor/Friends of Christine Drazan",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Friends of Christine Drazan/Friends of Christine Drazan KOHD 27755055 26810 Order  032822",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1728591952889249800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -414,7 +412,7 @@
         "2019": 13958,
         "2020": 125579,
         "2021": 22677,
-        "2022": 10349,
+        "2022": 10350,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -423,7 +421,7 @@
         "US Senate": 50572,
         "US House": 41770,
         "Presidential": 38648,
-        "Local": 24595
+        "Local": 24596
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61662,
@@ -458,11 +456,11 @@
         "TV": 239010,
         "CABLE": 127109,
         "FM": 113297,
-        "AM": 42510,
+        "AM": 42511,
         "DBS": 5518
       },
       "political_file_type": {
-        "PA": 225881,
+        "PA": 225882,
         "NCIA": 125136
       }
     }
@@ -479,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1732,
-    "processTime": 740,
-    "responseTime": 1740
+    "queryTime": 1793,
+    "processTime": 800,
+    "responseTime": 1801
   }
 }
