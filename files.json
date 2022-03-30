@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 527736,
+    "numFound": 527737,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "32809df7-035a-4861-4c30-d52632107ac3",
+        "file_id": "32809df7-035a-4861-4c30-d52632107ac3",
+        "file_name": "EEO Public File Report WHMB 04 01 21 - 03 31 22",
+        "file_extension": "pdf",
+        "file_size": 120734,
+        "file_status": "com_cpy",
+        "folder_id": "b5b887c2-d926-9df4-0cab-8261892a0052",
+        "create_ts": "2022-03-30T05:31:52.759Z",
+        "last_update_ts": "2022-03-30T05:32:53.318Z",
+        "active_ind": "Y",
+        "file_manager_id": "dae3ba07-3ea8-48a3-afa8-cfdd8820e323",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/EEO Public File Report WHMB 04 01 21 - 03 31 22",
+        "entity_id": "37102",
+        "source_service_code": "TV",
+        "network_affiliation": "IND",
+        "nielsen_dma_rank": "INDIANAPOLIS",
+        "callsign": "WHMB-TV",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1728701596147122200,
+        "score": 0.24995688
+      },
       {
         "id": "8a75b3ce-25ea-793a-cdb3-7325e1a05afb",
         "file_id": "8a75b3ce-25ea-793a-cdb3-7325e1a05afb",
@@ -202,29 +225,6 @@
         "campaign_year": "2022",
         "_version_": 1728689415971143700,
         "score": 0.24995688
-      },
-      {
-        "id": "ce6d0607-c32b-cf09-8069-8670caf4ce68",
-        "file_id": "ce6d0607-c32b-cf09-8069-8670caf4ce68",
-        "file_name": "Becker 032922-001",
-        "file_extension": "pdf",
-        "file_size": 1479201,
-        "file_status": "com_cpy",
-        "folder_id": "63cb12b3-175a-e97a-8462-76499b3f4c77",
-        "create_ts": "2022-03-30T02:16:46.103Z",
-        "last_update_ts": "2022-03-30T02:16:49.706Z",
-        "active_ind": "Y",
-        "file_manager_id": "19eda25d-f45d-4898-90e9-a1100c509d87",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Becker 032922-001",
-        "entity_id": "38387",
-        "source_service_code": "AM",
-        "callsign": "KKTY",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1728689321589866500,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -306,7 +306,7 @@
         "LOUISVILLE": 912,
         "PANAMA CITY": 865,
         "DALLAS-FT. WORTH": 860,
-        "INDIANAPOLIS": 829,
+        "INDIANAPOLIS": 830,
         "LANSING": 826,
         "TULSA": 804,
         "GREENVILLE-N.BERN-WASHNGTN": 802,
@@ -337,7 +337,7 @@
         "FOX": 28226,
         "PBS": 14426,
         "CW": 12114,
-        "IND": 2999,
+        "IND": 3000,
         "MYTV": 2233,
         "UNIVISION": 1896,
         "MY NETWORK": 1562,
@@ -417,7 +417,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61662,
         "Issues and Programs Lists": 45069,
-        "Equal Employment Opportunity Records": 37173,
+        "Equal Employment Opportunity Records": 37174,
         "Donor Lists - Applicable Only for NCEs": 11691,
         "FCC Authorizations": 7299,
         "Local Public Notice Announcements": 1882,
@@ -444,7 +444,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 239139,
+        "TV": 239140,
         "CABLE": 127148,
         "FM": 113376,
         "AM": 42551,
@@ -468,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 199,
-    "processTime": 208,
-    "responseTime": 208
+    "queryTime": 197,
+    "processTime": 205,
+    "responseTime": 205
   }
 }
