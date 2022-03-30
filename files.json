@@ -5,6 +5,30 @@
     "maxScore": 0.50016373,
     "docs": [
       {
+        "id": "3d88969a-df68-f481-e59a-5880b0eb6342",
+        "file_id": "3d88969a-df68-f481-e59a-5880b0eb6342",
+        "file_name": "INVOICE CONSERVATIVE OUTSIDER PAC WRAZ 032322-040522 301577-1",
+        "file_extension": "pdf",
+        "file_size": 40028,
+        "file_status": "com_cpy",
+        "folder_id": "781e7e2d-7a23-f8b2-83fb-dd5a0e7e993d",
+        "create_ts": "2022-03-30T15:16:11.232Z",
+        "last_update_ts": "2022-03-30T15:30:05.381Z",
+        "active_ind": "Y",
+        "file_manager_id": "d2acfc42-269b-4cef-ab3e-3a94266d0e09",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/CONSERVATIVE OUTSIDER PAC/032322-040522",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/CONSERVATIVE OUTSIDER PAC/032322-040522/INVOICE CONSERVATIVE OUTSIDER PAC WRAZ 032322-040522 301577-1",
+        "entity_id": "64611",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "RALEIGH-DURHAM (FAYETVLLE)",
+        "callsign": "WRAZ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1728739167657001000,
+        "score": 0.24995688
+      },
+      {
         "id": "a24de2c4-264a-287a-a91d-e52cf06f8feb",
         "file_id": "a24de2c4-264a-287a-a91d-e52cf06f8feb",
         "file_name": "INVOICE HOUSE FREEDOM ACTION WRAZ EST 1581 032322-032922 301451-1",
@@ -26,30 +50,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2022",
         "_version_": 1728738321976262700,
-        "score": 0.24995688
-      },
-      {
-        "id": "3d88969a-df68-f481-e59a-5880b0eb6342",
-        "file_id": "3d88969a-df68-f481-e59a-5880b0eb6342",
-        "file_name": "INVOICE CONSERVATIVE OUTSIDER PAC WRAZ 032322-040522 301577-1",
-        "file_extension": "pdf",
-        "file_size": 40028,
-        "file_status": "com_cpy",
-        "folder_id": "781e7e2d-7a23-f8b2-83fb-dd5a0e7e993d",
-        "create_ts": "2022-03-30T15:16:11.232Z",
-        "last_update_ts": "2022-03-30T15:15:57.168Z",
-        "active_ind": "Y",
-        "file_manager_id": "d2acfc42-269b-4cef-ab3e-3a94266d0e09",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/CONSERVATIVE OUTSIDER PAC/032322-040522",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/CONSERVATIVE OUTSIDER PAC/032322-040522/INVOICE CONSERVATIVE OUTSIDER PAC WRAZ 032322-040522 301577-1",
-        "entity_id": "64611",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "RALEIGH-DURHAM (FAYETVLLE)",
-        "callsign": "WRAZ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728738357747384300,
         "score": 0.24995688
       },
       {
@@ -487,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1756,
-    "processTime": 765,
-    "responseTime": 1766
+    "queryTime": 1775,
+    "processTime": 787,
+    "responseTime": 1787
   }
 }
