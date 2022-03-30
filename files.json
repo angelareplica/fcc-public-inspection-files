@@ -5,6 +5,52 @@
     "maxScore": 0.50016373,
     "docs": [
       {
+        "id": "a0586798-9f52-4c91-5925-d14751eb8679",
+        "file_id": "a0586798-9f52-4c91-5925-d14751eb8679",
+        "file_name": "Lindstrom Gov Est 1473 AM-04 (20202490)",
+        "file_extension": "pdf",
+        "file_size": 45262,
+        "file_status": "com_cpy",
+        "folder_id": "e120031a-235b-b5e2-7c0e-daa6f4bc124d",
+        "create_ts": "2022-03-30T13:46:36.274Z",
+        "last_update_ts": "2022-03-30T13:46:39.199Z",
+        "active_ind": "Y",
+        "file_manager_id": "bea0befc-271a-4db4-8549-e3f92f8a6389",
+        "file_folder_path": "Political Files/2022/State/BRETT LINDSTROM FOR GOV",
+        "full_qualified_file_name": "Political Files/2022/State/BRETT LINDSTROM FOR GOV/Lindstrom Gov Est 1473 AM-04 (20202490)",
+        "entity_id": "33880",
+        "source_service_code": "AM",
+        "callsign": "KTIC",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1728732721608392700,
+        "score": 0.24995688
+      },
+      {
+        "id": "9a9ce11c-abd1-2cab-a433-304e6dcba37a",
+        "file_id": "9a9ce11c-abd1-2cab-a433-304e6dcba37a",
+        "file_name": "Lindstrom Gov Est 1473 FM-04 (20202491)",
+        "file_extension": "pdf",
+        "file_size": 45345,
+        "file_status": "com_cpy",
+        "folder_id": "806e0a0e-7439-9828-125c-c5f0f9741d47",
+        "create_ts": "2022-03-30T13:45:47.306Z",
+        "last_update_ts": "2022-03-30T13:45:33.221Z",
+        "active_ind": "Y",
+        "file_manager_id": "5bfa9372-b32a-4405-838b-a9607ae738b7",
+        "file_folder_path": "Political Files/2022/State/BRETT LINDSTROM FOR GOV",
+        "full_qualified_file_name": "Political Files/2022/State/BRETT LINDSTROM FOR GOV/Lindstrom Gov Est 1473 FM-04 (20202491)",
+        "entity_id": "33881",
+        "source_service_code": "FM",
+        "callsign": "KTIC-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1728732670320443400,
+        "score": 0.24995688
+      },
+      {
         "id": "83e8c5d6-aba7-5812-12b7-f136d43558c5",
         "file_id": "83e8c5d6-aba7-5812-12b7-f136d43558c5",
         "file_name": "040121-033122-Allentown-EU-EEO",
@@ -174,50 +220,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1728731352656773000,
         "score": 0.24995688
-      },
-      {
-        "id": "fdbe1301-aace-5b36-fdf3-54937e80bd38",
-        "file_id": "fdbe1301-aace-5b36-fdf3-54937e80bd38",
-        "file_name": "Tobacco Free Kids Action Fund__Flight 001__Mar 2022__Order__BIG",
-        "file_extension": "pdf",
-        "file_size": 256440,
-        "file_status": "com_cpy",
-        "folder_id": "6d7b02e6-d122-76dd-148f-c851d23ed44a",
-        "create_ts": "2022-03-30T13:20:30.74Z",
-        "last_update_ts": "2022-03-30T13:21:32.496Z",
-        "active_ind": "Y",
-        "file_manager_id": "02e93a05-47e6-49c2-8cc6-43aff46b077e",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Tobacco Free Kids Action Fund-2022",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Tobacco Free Kids Action Fund-2022/Tobacco Free Kids Action Fund__Flight 001__Mar 2022__Order__BIG",
-        "entity_id": "40925",
-        "source_service_code": "FM",
-        "callsign": "WBKA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728731080262942700,
-        "score": 0.24995688
-      },
-      {
-        "id": "f4a68f50-a1eb-5cdf-0f61-90e154709e80",
-        "file_id": "f4a68f50-a1eb-5cdf-0f61-90e154709e80",
-        "file_name": "Tobacco Free Kids Action Fund__Flight 001__Mar 2022__Order__BIG",
-        "file_extension": "pdf",
-        "file_size": 256440,
-        "file_status": "com_cpy",
-        "folder_id": "aaa39cb9-a933-c659-24f8-6e91a88e3300",
-        "create_ts": "2022-03-30T13:19:19.822Z",
-        "last_update_ts": "2022-03-30T13:19:05.805Z",
-        "active_ind": "Y",
-        "file_manager_id": "75267d47-6a30-4fd2-b7e0-c789469cd53b",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Tobacco Free Kids Action Fund-2022",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Tobacco Free Kids Action Fund-2022/Tobacco Free Kids Action Fund__Flight 001__Mar 2022__Order__BIG",
-        "entity_id": "25411",
-        "source_service_code": "FM",
-        "callsign": "WBAK",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728731005780492300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -330,7 +332,7 @@
         "FOX": 28226,
         "PBS": 14426,
         "CW": 12114,
-        "IND": 3000,
+        "IND": 2998,
         "MYTV": 2233,
         "UNIVISION": 1896,
         "MY NETWORK": 1562,
@@ -396,12 +398,12 @@
         "2019": 13958,
         "2020": 125579,
         "2021": 22677,
-        "2022": 10650,
+        "2022": 10652,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 69280,
+        "State": 69282,
         "US Senate": 50613,
         "US House": 41792,
         "Presidential": 38648,
@@ -410,7 +412,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61662,
         "Issues and Programs Lists": 45069,
-        "Equal Employment Opportunity Records": 37179,
+        "Equal Employment Opportunity Records": 37177,
         "Donor Lists - Applicable Only for NCEs": 11691,
         "FCC Authorizations": 7299,
         "Local Public Notice Announcements": 1882,
@@ -437,14 +439,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 239142,
+        "TV": 239140,
         "CABLE": 127148,
-        "FM": 113388,
-        "AM": 42554,
+        "FM": 113389,
+        "AM": 42555,
         "DBS": 5522
       },
       "political_file_type": {
-        "PA": 226057,
+        "PA": 226059,
         "NCIA": 125261
       }
     }
@@ -461,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1735,
-    "processTime": 743,
-    "responseTime": 1743
+    "queryTime": 215,
+    "processTime": 227,
+    "responseTime": 227
   }
 }
