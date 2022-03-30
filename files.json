@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 528004,
+    "numFound": 527994,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
@@ -333,8 +333,8 @@
         "BUFFALO": 689,
         "SAN FRANCISCO-OAK-SAN JOSE": 676,
         "BANGOR": 673,
-        "SAN DIEGO": 649,
         "HARTFORD & NEW HAVEN": 644,
+        "SAN DIEGO": 639,
         "EL PASO (LAS CRUCES)": 638,
         "TERRE HAUTE": 637,
         "MACON": 636,
@@ -348,7 +348,7 @@
         "ABC": 58363,
         "NBC": 57204,
         "CBS": 39259,
-        "FOX": 28242,
+        "FOX": 28232,
         "PBS": 14430,
         "CW": 12114,
         "IND": 2998,
@@ -429,7 +429,7 @@
         "Local": 24653
       },
       "non_political_file_folder": {
-        "Records Concerning Commercial Limits in Childrens Programs": 61653,
+        "Records Concerning Commercial Limits in Childrens Programs": 61643,
         "Issues and Programs Lists": 45074,
         "Equal Employment Opportunity Records": 37188,
         "Donor Lists - Applicable Only for NCEs": 11693,
@@ -458,7 +458,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 239255,
+        "TV": 239245,
         "CABLE": 127188,
         "FM": 113459,
         "AM": 42579,
@@ -482,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1750,
-    "processTime": 760,
-    "responseTime": 1761
+    "queryTime": 1755,
+    "processTime": 764,
+    "responseTime": 1765
   }
 }
