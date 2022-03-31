@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 528012,
+    "numFound": 528013,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "9e1fe244-3f98-bf01-aa75-e2dc2165fddb",
+        "file_id": "9e1fe244-3f98-bf01-aa75-e2dc2165fddb",
+        "file_name": "03_28 Brian Decker ",
+        "file_extension": "pdf",
+        "file_size": 25577,
+        "file_status": "com_cpy",
+        "folder_id": "f77462c5-b618-34f0-c833-e88715da61bb",
+        "create_ts": "2022-03-31T03:14:04.844Z",
+        "last_update_ts": "2022-03-31T03:13:50.681Z",
+        "active_ind": "Y",
+        "file_manager_id": "8506707f-cddd-4151-8f51-d717bae6c5ac",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/03_28 Brian Decker ",
+        "entity_id": "65755",
+        "source_service_code": "FM",
+        "callsign": "KBOO",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1728783523714695200,
+        "score": 0.24995688
+      },
       {
         "id": "dafc0763-9199-5101-a719-7e348b0280d8",
         "file_id": "dafc0763-9199-5101-a719-7e348b0280d8",
@@ -222,28 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1728770285166919700,
         "score": 0.24995688
-      },
-      {
-        "id": "430c81a0-7519-b6b6-b908-875473f0dd14",
-        "file_id": "430c81a0-7519-b6b6-b908-875473f0dd14",
-        "file_name": "Invoice 633136-1rv1 - 03.30.22",
-        "file_extension": "pdf",
-        "file_size": 77346,
-        "file_status": "com_cpy",
-        "folder_id": "b356609b-c42b-c1c2-593d-783bd31f4d74",
-        "create_ts": "2022-03-30T23:40:00.367Z",
-        "last_update_ts": "2022-03-30T23:39:46.104Z",
-        "active_ind": "Y",
-        "file_manager_id": "e2a30e23-ef3b-4ebc-9d78-fd2253464614",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Majority Forward/633136",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Majority Forward/633136/Invoice 633136-1rv1 - 03.30.22",
-        "entity_id": "2750",
-        "source_service_code": "FM",
-        "callsign": "KDVA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1728770055156531200,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -422,12 +423,12 @@
         "2019": 13958,
         "2020": 125570,
         "2021": 22681,
-        "2022": 10924,
+        "2022": 10925,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 69350,
+        "State": 69351,
         "US Senate": 50654,
         "US House": 41815,
         "Presidential": 38648,
@@ -465,12 +466,12 @@
       "source_service_code": {
         "TV": 239248,
         "CABLE": 127190,
-        "FM": 113471,
+        "FM": 113472,
         "AM": 42579,
         "DBS": 5524
       },
       "political_file_type": {
-        "PA": 226219,
+        "PA": 226220,
         "NCIA": 125368
       }
     }
@@ -487,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1776,
-    "processTime": 785,
-    "responseTime": 1786
+    "queryTime": 1767,
+    "processTime": 778,
+    "responseTime": 1779
   }
 }
