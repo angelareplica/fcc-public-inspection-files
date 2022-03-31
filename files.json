@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 528227,
+    "numFound": 528229,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "fee3dc35-e271-d916-e258-1ed942a4f415",
+        "file_id": "fee3dc35-e271-d916-e258-1ed942a4f415",
+        "file_name": "sarahG_#5198917_032922-040422",
+        "file_extension": "pdf",
+        "file_size": 102364,
+        "file_status": "com_cpy",
+        "folder_id": "c4871243-8bfc-5268-3991-b0c4915d2f1b",
+        "create_ts": "2022-03-31T20:42:25.088Z",
+        "last_update_ts": "2022-03-31T20:42:10.664Z",
+        "active_ind": "Y",
+        "file_manager_id": "9600d3cb-1ce3-4c69-90c6-91e8b32934de",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Sarah Godlewski for Wisconsin",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Sarah Godlewski for Wisconsin/sarahG_#5198917_032922-040422",
+        "entity_id": "10221",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "MADISON",
+        "callsign": "WMSN-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1728849479306576000,
+        "score": 0.24995688
+      },
+      {
+        "id": "67db869b-bd64-907c-7b83-615b9bc0250a",
+        "file_id": "67db869b-bd64-907c-7b83-615b9bc0250a",
+        "file_name": "2022-02-24 Letter to Bryan Broadcasting-c3",
+        "file_extension": "pdf",
+        "file_size": 163862,
+        "file_status": "com_cpy",
+        "folder_id": "ff1ea543-834d-35c1-493a-5cf866f3cd66",
+        "create_ts": "2022-03-31T20:37:26.531Z",
+        "last_update_ts": "2022-03-31T20:37:12.211Z",
+        "active_ind": "Y",
+        "file_manager_id": "d672369a-8d0c-4804-a30a-a3c7919b8789",
+        "file_folder_path": "Applications and Related Materials/Additional Documents/STA Related Documents",
+        "full_qualified_file_name": "Applications and Related Materials/Additional Documents/STA Related Documents/2022-02-24 Letter to Bryan Broadcasting-c3",
+        "entity_id": "87145",
+        "source_service_code": "AM",
+        "callsign": "WTAW",
+        "non_political_file_folder": "Applications and Related Materials",
+        "_version_": 1728849166353825800,
+        "score": 0.24995688
+      },
       {
         "id": "1290e3b4-0d98-65bf-1658-5b38718e1252",
         "file_id": "1290e3b4-0d98-65bf-1658-5b38718e1252",
@@ -192,56 +238,6 @@
         "campaign_year": "2022",
         "_version_": 1728847654148898800,
         "score": 0.24995688
-      },
-      {
-        "id": "0b42a658-83dc-bd0b-9624-a9f32e730a10",
-        "file_id": "0b42a658-83dc-bd0b-9624-a9f32e730a10",
-        "file_name": "Kerry McQuisten for Oregon KOHD 27758711 Order  033122",
-        "file_extension": "pdf",
-        "file_size": 18594,
-        "file_status": "com_cpy",
-        "folder_id": "87611f2e-cb3d-5b9f-9f29-1e3a7f20acd7",
-        "create_ts": "2022-03-31T20:13:24.475Z",
-        "last_update_ts": "2022-03-31T20:13:10.027Z",
-        "active_ind": "Y",
-        "file_manager_id": "c468900d-9189-4e7f-aef7-623d644d0e47",
-        "file_folder_path": "Political Files/2022/State/Governor/Kerry McQuisten for Oregon",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Kerry McQuisten for Oregon/Kerry McQuisten for Oregon KOHD 27758711 Order  033122",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1728847654113247200,
-        "score": 0.24995688
-      },
-      {
-        "id": "78e68376-58d4-40bb-25e1-72434e3f73c1",
-        "file_id": "78e68376-58d4-40bb-25e1-72434e3f73c1",
-        "file_name": "White_NAB - Candidate Advertisement Agreement Form _2022 04 02",
-        "file_extension": "pdf",
-        "file_size": 1122579,
-        "file_status": "com_cpy",
-        "folder_id": "4bc69667-95ad-977a-ab74-f7ea79b2ec8d",
-        "create_ts": "2022-03-31T20:07:52.733Z",
-        "last_update_ts": "2022-03-31T20:07:56.053Z",
-        "active_ind": "Y",
-        "file_manager_id": "7c8bd51d-644d-4a78-9498-717790777fdc",
-        "file_folder_path": "Political Files/2022/State/DAVE WHITE FOR GOVERNOR/NAB and Disclosures",
-        "full_qualified_file_name": "Political Files/2022/State/DAVE WHITE FOR GOVERNOR/NAB and Disclosures/White_NAB - Candidate Advertisement Agreement Form _2022 04 02",
-        "entity_id": "51568",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "PHILADELPHIA",
-        "callsign": "WTXF-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1728847306675978200,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -292,7 +288,7 @@
         "BLUEFIELD-BECKLEY-OAK HILL": 1757,
         "ALBUQUERQUE-SANTA FE": 1743,
         "LINCOLN & HASTINGS-KRNY": 1642,
-        "MADISON": 1614,
+        "MADISON": 1615,
         "GREENVLL-SPART-ASHEVLL-AND": 1561,
         "PHOENIX (PRESCOTT)": 1522,
         "BINGHAMTON": 1518,
@@ -351,7 +347,7 @@
         "ABC": 58388,
         "NBC": 57219,
         "CBS": 39247,
-        "FOX": 28227,
+        "FOX": 28228,
         "PBS": 14431,
         "CW": 12117,
         "IND": 2998,
@@ -420,13 +416,13 @@
         "2019": 13958,
         "2020": 125540,
         "2021": 22683,
-        "2022": 11117,
+        "2022": 11118,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 69462,
-        "US Senate": 50661,
+        "US Senate": 50662,
         "US House": 41807,
         "Presidential": 38634,
         "Local": 24672
@@ -439,7 +435,7 @@
         "FCC Authorizations": 7301,
         "Local Public Notice Announcements": 1884,
         "Availability of Signals": 1867,
-        "Applications and Related Materials": 1686,
+        "Applications and Related Materials": 1687,
         "FCC Investigations or Complaints": 1517,
         "Must-Carry or Retransmission Consent": 1302,
         "Childrens TV Programming Reports": 1160,
@@ -461,14 +457,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 239265,
+        "TV": 239266,
         "CABLE": 127283,
         "FM": 113543,
-        "AM": 42611,
+        "AM": 42612,
         "DBS": 5525
       },
       "political_file_type": {
-        "PA": 226343,
+        "PA": 226344,
         "NCIA": 125409
       }
     }
@@ -485,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1770,
-    "processTime": 779,
-    "responseTime": 1780
+    "queryTime": 215,
+    "processTime": 223,
+    "responseTime": 224
   }
 }
