@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 528425,
+    "numFound": 528426,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "b2532516-31a0-1e6b-0b21-92da8a3b6706",
+        "file_id": "b2532516-31a0-1e6b-0b21-92da8a3b6706",
+        "file_name": "OMAHA KGBI-FM  Issues Report 1st Quarter 2022 (002)",
+        "file_extension": "pdf",
+        "file_size": 634100,
+        "file_status": "com_cpy",
+        "folder_id": "18a7b458-0fde-9aa3-0021-ae65363da0b8",
+        "create_ts": "2022-04-01T03:58:49.568Z",
+        "last_update_ts": "2022-04-01T03:58:35.389Z",
+        "active_ind": "Y",
+        "file_manager_id": "1216b2ac-fccb-4e2a-a3fd-96f6e184b1bd",
+        "file_folder_path": "Issues and Programs Lists/2022 Issues Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/2022 Issues Programs Lists/OMAHA KGBI-FM  Issues Report 1st Quarter 2022 (002)",
+        "entity_id": "24713",
+        "source_service_code": "FM",
+        "callsign": "KGBI-FM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1728876936067809300,
+        "score": 0.24995688
+      },
       {
         "id": "49e71b18-792b-9373-038f-2ec7fcdc37fa",
         "file_id": "49e71b18-792b-9373-038f-2ec7fcdc37fa",
@@ -191,29 +212,6 @@
         "callsign": "KBRJ",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1728864570565460000,
-        "score": 0.24995688
-      },
-      {
-        "id": "5b4ac000-054d-a4e0-f781-66c8772ac832",
-        "file_id": "5b4ac000-054d-a4e0-f781-66c8772ac832",
-        "file_name": "DOC033022-03302022121706",
-        "file_extension": "pdf",
-        "file_size": 16094,
-        "file_status": "com_cpy",
-        "folder_id": "4f5f35c5-d59d-d939-adfa-c54abbb3bb2c",
-        "create_ts": "2022-04-01T00:21:06.27Z",
-        "last_update_ts": "2022-04-01T00:40:05.857Z",
-        "active_ind": "Y",
-        "file_manager_id": "d92d3269-d6ac-4be9-aba8-ab49cfb30051",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/DOC033022-03302022121706",
-        "entity_id": "22195",
-        "source_service_code": "FM",
-        "callsign": "KWFI-FM",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1728864364092457000,
         "score": 0.24995688
       }
     ],
@@ -406,7 +404,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61638,
-        "Issues and Programs Lists": 45129,
+        "Issues and Programs Lists": 45130,
         "Equal Employment Opportunity Records": 37258,
         "Donor Lists - Applicable Only for NCEs": 11693,
         "FCC Authorizations": 7302,
@@ -436,7 +434,7 @@
       "source_service_code": {
         "TV": 239326,
         "CABLE": 127284,
-        "FM": 113630,
+        "FM": 113631,
         "AM": 42660,
         "DBS": 5525
       },
@@ -458,8 +456,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 201,
-    "processTime": 207,
-    "responseTime": 207
+    "queryTime": 1741,
+    "processTime": 751,
+    "responseTime": 1751
   }
 }
