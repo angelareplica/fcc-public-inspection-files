@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 528426,
+    "numFound": 528428,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "ad82cfa7-4613-66b7-71e6-699df4d424d9",
+        "file_id": "ad82cfa7-4613-66b7-71e6-699df4d424d9",
+        "file_name": "Kevin Stocker 4-11-22-05-10-22 Order Incomplete",
+        "file_extension": "pdf",
+        "file_size": 811132,
+        "file_status": "com_cpy",
+        "folder_id": "d5fb64b6-513f-8150-cba1-afe6c1e698e4",
+        "create_ts": "2022-04-01T06:24:38.882Z",
+        "last_update_ts": "2022-04-01T06:25:45.507Z",
+        "active_ind": "Y",
+        "file_manager_id": "0209c59b-80bb-4dba-95d3-1be143b27893",
+        "file_folder_path": "Political Files/2022/State/Nebraska Public Service Commission/Kevin Stocker",
+        "full_qualified_file_name": "Political Files/2022/State/Nebraska Public Service Commission/Kevin Stocker/Kevin Stocker 4-11-22-05-10-22 Order Incomplete",
+        "entity_id": "191571",
+        "source_service_code": "FM",
+        "callsign": "KDJL",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1728886110520606700,
+        "score": 0.24995688
+      },
+      {
+        "id": "69288f26-1013-06cb-252b-e72bd7739061",
+        "file_id": "69288f26-1013-06cb-252b-e72bd7739061",
+        "file_name": "Kevin Stocker 4-11-22-05-10-22 Order Incomplete",
+        "file_extension": "pdf",
+        "file_size": 811132,
+        "file_status": "com_cpy",
+        "folder_id": "acea920b-5078-cf32-33df-f04447f728ee",
+        "create_ts": "2022-04-01T06:14:08.934Z",
+        "last_update_ts": "2022-04-01T06:15:15.565Z",
+        "active_ind": "Y",
+        "file_manager_id": "bf48cecd-cbeb-4e40-b1a2-00b7f3ca607b",
+        "file_folder_path": "Political Files/2022/State/Nebraska Public Service Commission/Kevin Stocker",
+        "full_qualified_file_name": "Political Files/2022/State/Nebraska Public Service Commission/Kevin Stocker/Kevin Stocker 4-11-22-05-10-22 Order Incomplete",
+        "entity_id": "17028",
+        "source_service_code": "FM",
+        "callsign": "KSDZ",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1728885449994272800,
+        "score": 0.24995688
+      },
       {
         "id": "b2532516-31a0-1e6b-0b21-92da8a3b6706",
         "file_id": "b2532516-31a0-1e6b-0b21-92da8a3b6706",
@@ -170,48 +216,6 @@
         "callsign": "KFQD",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1728864787089064000,
-        "score": 0.24995688
-      },
-      {
-        "id": "536640c4-7935-85e8-936f-7390a617b027",
-        "file_id": "536640c4-7935-85e8-936f-7390a617b027",
-        "file_name": "2022 01 KEAG-FM",
-        "file_extension": "pdf",
-        "file_size": 815756,
-        "file_status": "com_cpy",
-        "folder_id": "44843a4e-3599-f6d1-497a-1cadaeea6a79",
-        "create_ts": "2022-04-01T00:44:23.777Z",
-        "last_update_ts": "2022-04-01T00:44:09.48Z",
-        "active_ind": "Y",
-        "file_manager_id": "5c49ffa3-8045-4aff-beba-cae63c100652",
-        "file_folder_path": "Issues and Programs Lists/2022",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/2022 01 KEAG-FM",
-        "entity_id": "28648",
-        "source_service_code": "FM",
-        "callsign": "KEAG",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1728864703463030800,
-        "score": 0.24995688
-      },
-      {
-        "id": "611017f4-ece3-bcc9-d26e-db3b4f1e71ea",
-        "file_id": "611017f4-ece3-bcc9-d26e-db3b4f1e71ea",
-        "file_name": "2022 01 KBRJ-FM",
-        "file_extension": "pdf",
-        "file_size": 732996,
-        "file_status": "com_cpy",
-        "folder_id": "67cc337b-b47d-ebda-049f-4ab429b1ccfb",
-        "create_ts": "2022-04-01T00:42:16.425Z",
-        "last_update_ts": "2022-04-01T00:42:20.174Z",
-        "active_ind": "Y",
-        "file_manager_id": "46b2b2ef-6e73-4f68-8dd8-14e3858a8a80",
-        "file_folder_path": "Issues and Programs Lists/2022",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/2022 01 KBRJ-FM",
-        "entity_id": "60915",
-        "source_service_code": "FM",
-        "callsign": "KBRJ",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1728864570565460000,
         "score": 0.24995688
       }
     ],
@@ -391,12 +395,12 @@
         "2019": 13958,
         "2020": 125540,
         "2021": 22686,
-        "2022": 11227,
+        "2022": 11229,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 69496,
+        "State": 69498,
         "US Senate": 50676,
         "US House": 41808,
         "Presidential": 38634,
@@ -434,12 +438,12 @@
       "source_service_code": {
         "TV": 239326,
         "CABLE": 127284,
-        "FM": 113631,
+        "FM": 113633,
         "AM": 42660,
         "DBS": 5525
       },
       "political_file_type": {
-        "PA": 226421,
+        "PA": 226423,
         "NCIA": 125444
       }
     }
@@ -456,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1781,
-    "processTime": 794,
-    "responseTime": 1794
+    "queryTime": 1803,
+    "processTime": 813,
+    "responseTime": 1813
   }
 }
