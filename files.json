@@ -5,6 +5,48 @@
     "maxScore": 0.50016373,
     "docs": [
       {
+        "id": "5250f508-78d6-99c5-e83b-882cb57e38a5",
+        "file_id": "5250f508-78d6-99c5-e83b-882cb57e38a5",
+        "file_name": "WADV.Issues-ProgramsReport.1Q2021 (01599602xB3D1E)",
+        "file_extension": "pdf",
+        "file_size": 110249,
+        "file_status": "com_cpy",
+        "folder_id": "efdaf8a5-5e17-e39e-8e91-1ec27825fd5e",
+        "create_ts": "2022-04-01T17:15:41.282Z",
+        "last_update_ts": "2022-04-01T17:30:07.296Z",
+        "active_ind": "Y",
+        "file_manager_id": "463aeab2-ddc3-48d2-ab2a-b9393776e879",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/WADV.Issues-ProgramsReport.1Q2021 (01599602xB3D1E)",
+        "entity_id": "20401",
+        "source_service_code": "AM",
+        "callsign": "WADV",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1728927907293692000,
+        "score": 0.24995688
+      },
+      {
+        "id": "18a47c22-02b7-97f8-fa11-28057bd52782",
+        "file_id": "18a47c22-02b7-97f8-fa11-28057bd52782",
+        "file_name": "WADV.Issues-ProgramsReport.1Q2022 (01599613xB3D1E)",
+        "file_extension": "pdf",
+        "file_size": 126394,
+        "file_status": "com_cpy",
+        "folder_id": "efdaf8a5-5e17-e39e-8e91-1ec27825fd5e",
+        "create_ts": "2022-04-01T17:15:41.284Z",
+        "last_update_ts": "2022-04-01T17:30:06.604Z",
+        "active_ind": "Y",
+        "file_manager_id": "1cef8a5d-ff19-40a8-853a-106ac45eda43",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/WADV.Issues-ProgramsReport.1Q2022 (01599613xB3D1E)",
+        "entity_id": "20401",
+        "source_service_code": "AM",
+        "callsign": "WADV",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1728927906569126000,
+        "score": 0.24995688
+      },
+      {
         "id": "4a6bdfea-026e-2723-5f1d-f5998e1d7e50",
         "file_id": "4a6bdfea-026e-2723-5f1d-f5998e1d7e50",
         "file_name": "COALITION FOR SAFE RELIABLE BETTING 040422-041022 2248748 CONTRACT NAB REV 1",
@@ -161,27 +203,6 @@
         "score": 0.24995688
       },
       {
-        "id": "18a47c22-02b7-97f8-fa11-28057bd52782",
-        "file_id": "18a47c22-02b7-97f8-fa11-28057bd52782",
-        "file_name": "WADV.Issues-ProgramsReport.1Q2022 (01599613xB3D1E)",
-        "file_extension": "pdf",
-        "file_size": 126394,
-        "file_status": "com_cpy",
-        "folder_id": "efdaf8a5-5e17-e39e-8e91-1ec27825fd5e",
-        "create_ts": "2022-04-01T17:15:41.284Z",
-        "last_update_ts": "2022-04-01T17:15:27.089Z",
-        "active_ind": "Y",
-        "file_manager_id": "1cef8a5d-ff19-40a8-853a-106ac45eda43",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/WADV.Issues-ProgramsReport.1Q2022 (01599613xB3D1E)",
-        "entity_id": "20401",
-        "source_service_code": "AM",
-        "callsign": "WADV",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1728927070383243300,
-        "score": 0.24995688
-      },
-      {
         "id": "1967e909-9df1-1f45-a0d4-263f56da44ba",
         "file_id": "1967e909-9df1-1f45-a0d4-263f56da44ba",
         "file_name": "WADV.Issues-ProgramsReport.3Q2018 (01599414xB3D1E)",
@@ -200,27 +221,6 @@
         "callsign": "WADV",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1728927070366466000,
-        "score": 0.24995688
-      },
-      {
-        "id": "5250f508-78d6-99c5-e83b-882cb57e38a5",
-        "file_id": "5250f508-78d6-99c5-e83b-882cb57e38a5",
-        "file_name": "WADV.Issues-ProgramsReport.1Q2021 (01599602xB3D1E)",
-        "file_extension": "pdf",
-        "file_size": 110249,
-        "file_status": "com_cpy",
-        "folder_id": "efdaf8a5-5e17-e39e-8e91-1ec27825fd5e",
-        "create_ts": "2022-04-01T17:15:41.282Z",
-        "last_update_ts": "2022-04-01T17:15:27.064Z",
-        "active_ind": "Y",
-        "file_manager_id": "463aeab2-ddc3-48d2-ab2a-b9393776e879",
-        "file_folder_path": "Issues and Programs Lists",
-        "full_qualified_file_name": "Issues and Programs Lists/WADV.Issues-ProgramsReport.1Q2021 (01599602xB3D1E)",
-        "entity_id": "20401",
-        "source_service_code": "AM",
-        "callsign": "WADV",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1728927070354931700,
         "score": 0.24995688
       }
     ],
@@ -465,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1752,
-    "processTime": 759,
-    "responseTime": 1760
+    "queryTime": 1845,
+    "processTime": 858,
+    "responseTime": 1858
   }
 }
