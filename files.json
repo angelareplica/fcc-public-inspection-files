@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 529072,
+    "numFound": 529073,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "6623b824-ba57-6f16-5f3c-d7fa6f4b7e3a",
+        "file_id": "6623b824-ba57-6f16-5f3c-d7fa6f4b7e3a",
+        "file_name": "Friends of Mitch McKinney 0-04-22 to 05-02-22 1488",
+        "file_extension": "pdf",
+        "file_size": 645374,
+        "file_status": "com_cpy",
+        "folder_id": "27b0a480-8066-c06f-a2c1-9d5b294a9b40",
+        "create_ts": "2022-04-02T15:41:49.992Z",
+        "last_update_ts": "2022-04-02T15:41:53.359Z",
+        "active_ind": "Y",
+        "file_manager_id": "c2f393a0-f012-4a01-847f-1c158eff9bf3",
+        "file_folder_path": "Political Files/2022/Local/Friends of Mitch McKinney",
+        "full_qualified_file_name": "Political Files/2022/Local/Friends of Mitch McKinney/Friends of Mitch McKinney 0-04-22 to 05-02-22 1488",
+        "entity_id": "28205",
+        "source_service_code": "AM",
+        "callsign": "WOWO",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1729011762497323000,
+        "score": 0.24995688
+      },
       {
         "id": "2437d9ac-c4b2-d1d0-573e-3c27820b9310",
         "file_id": "2437d9ac-c4b2-d1d0-573e-3c27820b9310",
@@ -206,29 +229,6 @@
         "campaign_year": "2022",
         "_version_": 1728955597634666500,
         "score": 0.24995688
-      },
-      {
-        "id": "c797ae00-e920-1e11-b289-d6debd97c2ec",
-        "file_id": "c797ae00-e920-1e11-b289-d6debd97c2ec",
-        "file_name": "SARAH FOR GOV ORD KILX FM 0916-011",
-        "file_extension": "pdf",
-        "file_size": 294687,
-        "file_status": "com_cpy",
-        "folder_id": "67e425b7-d9ca-0093-53aa-6914619efc88",
-        "create_ts": "2022-04-02T00:49:07.139Z",
-        "last_update_ts": "2022-04-02T00:49:10.366Z",
-        "active_ind": "Y",
-        "file_manager_id": "1d80e447-684d-46a8-82bf-76c08621d60f",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/SARAH FOR GOV ORD KILX FM 0916-011",
-        "entity_id": "50772",
-        "source_service_code": "FM",
-        "callsign": "KILX",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1728955597630472200,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -407,7 +407,7 @@
         "2019": 13958,
         "2020": 125516,
         "2021": 22689,
-        "2022": 11732,
+        "2022": 11733,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -416,7 +416,7 @@
         "US Senate": 50767,
         "US House": 41845,
         "Presidential": 38631,
-        "Local": 24721
+        "Local": 24722
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61644,
@@ -452,11 +452,11 @@
         "TV": 239613,
         "CABLE": 127361,
         "FM": 113807,
-        "AM": 42735,
+        "AM": 42736,
         "DBS": 5556
       },
       "political_file_type": {
-        "PA": 226775,
+        "PA": 226776,
         "NCIA": 125574
       }
     }
@@ -473,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1745,
-    "processTime": 751,
-    "responseTime": 1751
+    "queryTime": 1754,
+    "processTime": 765,
+    "responseTime": 1765
   }
 }
