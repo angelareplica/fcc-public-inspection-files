@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 529073,
+    "numFound": 529075,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "a547937f-9f47-b51f-e551-c398ab598690",
+        "file_id": "a547937f-9f47-b51f-e551-c398ab598690",
+        "file_name": "As Run for Final Contract #38689 03.22.22 to 03.28.22",
+        "file_extension": "pdf",
+        "file_size": 77696,
+        "file_status": "com_cpy",
+        "folder_id": "c15eeedf-f8ff-836f-981c-4937fe661c6e",
+        "create_ts": "2022-04-02T17:37:19.164Z",
+        "last_update_ts": "2022-04-02T17:37:22.958Z",
+        "active_ind": "Y",
+        "file_manager_id": "79463d36-9122-455e-bc08-15255b374eeb",
+        "file_folder_path": "Political Files/2022/State/Stacey Abrams for Governor",
+        "full_qualified_file_name": "Political Files/2022/State/Stacey Abrams for Governor/As Run for Final Contract #38689 03.22.22 to 03.28.22",
+        "entity_id": "28155",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "ALBANY GA",
+        "callsign": "WSWG",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1729019028701184000,
+        "score": 0.24995688
+      },
+      {
+        "id": "29bfe2b0-1803-e537-678f-b2518ec60639",
+        "file_id": "29bfe2b0-1803-e537-678f-b2518ec60639",
+        "file_name": "As Run for Final Contract #38688 03.22.22 to 03.28.22",
+        "file_extension": "pdf",
+        "file_size": 82176,
+        "file_status": "com_cpy",
+        "folder_id": "c15eeedf-f8ff-836f-981c-4937fe661c6e",
+        "create_ts": "2022-04-02T17:37:19.165Z",
+        "last_update_ts": "2022-04-02T17:37:22.957Z",
+        "active_ind": "Y",
+        "file_manager_id": "957492a8-4eda-48a5-ac27-deb542039bfc",
+        "file_folder_path": "Political Files/2022/State/Stacey Abrams for Governor",
+        "full_qualified_file_name": "Political Files/2022/State/Stacey Abrams for Governor/As Run for Final Contract #38688 03.22.22 to 03.28.22",
+        "entity_id": "28155",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "ALBANY GA",
+        "callsign": "WSWG",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1729019028704329700,
+        "score": 0.24995688
+      },
       {
         "id": "6623b824-ba57-6f16-5f3c-d7fa6f4b7e3a",
         "file_id": "6623b824-ba57-6f16-5f3c-d7fa6f4b7e3a",
@@ -183,52 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1728955597628375000,
         "score": 0.24995688
-      },
-      {
-        "id": "ab300503-69a7-c09e-480c-bf7a4bbd1e73",
-        "file_id": "ab300503-69a7-c09e-480c-bf7a4bbd1e73",
-        "file_name": "SARAH FOR GOV ORD KILX FM 0916-009",
-        "file_extension": "pdf",
-        "file_size": 295125,
-        "file_status": "com_cpy",
-        "folder_id": "67e425b7-d9ca-0093-53aa-6914619efc88",
-        "create_ts": "2022-04-02T00:49:07.133Z",
-        "last_update_ts": "2022-04-02T00:50:15.713Z",
-        "active_ind": "Y",
-        "file_manager_id": "395b8e1e-1d90-4c1e-851c-99f00fa698e4",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/SARAH FOR GOV ORD KILX FM 0916-009",
-        "entity_id": "50772",
-        "source_service_code": "FM",
-        "callsign": "KILX",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1728955597631520800,
-        "score": 0.24995688
-      },
-      {
-        "id": "a7c59b9f-adfa-6a59-26d2-7d744ca22d99",
-        "file_id": "a7c59b9f-adfa-6a59-26d2-7d744ca22d99",
-        "file_name": "SARAH FOR GOV ORD KILX FM 0916-007",
-        "file_extension": "pdf",
-        "file_size": 298004,
-        "file_status": "com_cpy",
-        "folder_id": "67e425b7-d9ca-0093-53aa-6914619efc88",
-        "create_ts": "2022-04-02T00:49:06.94Z",
-        "last_update_ts": "2022-04-02T00:49:10.368Z",
-        "active_ind": "Y",
-        "file_manager_id": "9df7938b-458a-4e62-82a5-9092bb00c301",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/SARAH FOR GOV ORD KILX FM 0916-007",
-        "entity_id": "50772",
-        "source_service_code": "FM",
-        "callsign": "KILX",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1728955597634666500,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -337,7 +341,7 @@
       "network_affiliation": {
         "ABC": 58512,
         "NBC": 57281,
-        "CBS": 39326,
+        "CBS": 39328,
         "FOX": 28261,
         "PBS": 14436,
         "CW": 12123,
@@ -407,12 +411,12 @@
         "2019": 13958,
         "2020": 125516,
         "2021": 22689,
-        "2022": 11733,
+        "2022": 11735,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 69707,
+        "State": 69709,
         "US Senate": 50767,
         "US House": 41845,
         "Presidential": 38631,
@@ -449,14 +453,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 239613,
+        "TV": 239615,
         "CABLE": 127361,
         "FM": 113807,
         "AM": 42736,
         "DBS": 5556
       },
       "political_file_type": {
-        "PA": 226776,
+        "PA": 226778,
         "NCIA": 125574
       }
     }
@@ -473,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1779,
-    "processTime": 787,
-    "responseTime": 1787
+    "queryTime": 202,
+    "processTime": 210,
+    "responseTime": 210
   }
 }
