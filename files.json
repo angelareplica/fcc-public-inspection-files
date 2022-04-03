@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 529076,
+    "numFound": 529077,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "a458ad46-315d-65f0-27f3-92c87436618d",
+        "file_id": "a458ad46-315d-65f0-27f3-92c87436618d",
+        "file_name": "Iss PA Conservatives Fund_930767",
+        "file_extension": "pdf",
+        "file_size": 270196,
+        "file_status": "com_cpy",
+        "folder_id": "50c60d8c-6fc3-cfca-e8ad-9378259d112a",
+        "create_ts": "2022-04-02T23:47:57.165Z",
+        "last_update_ts": "2022-04-02T23:49:08.284Z",
+        "active_ind": "Y",
+        "file_manager_id": "ef334616-634e-4650-87b2-20f5f542d4fb",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Iss Pennsylvania Conservative Fund/930767-0405-0411",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Iss Pennsylvania Conservative Fund/930767-0405-0411/Iss PA Conservatives Fund_930767",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1729042346202366000,
+        "score": 0.24995688
+      },
       {
         "id": "eff4fb5b-fe95-98fd-2e20-62dfcac9784c",
         "file_id": "eff4fb5b-fe95-98fd-2e20-62dfcac9784c",
@@ -212,29 +236,6 @@
         "campaign_year": "2022",
         "_version_": 1728955679662669800,
         "score": 0.24995688
-      },
-      {
-        "id": "a04de038-d225-7bc7-a9a1-d68961cb2757",
-        "file_id": "a04de038-d225-7bc7-a9a1-d68961cb2757",
-        "file_name": "SARAH FOR GOV ORD KILX FM 0916-006",
-        "file_extension": "pdf",
-        "file_size": 295009,
-        "file_status": "com_cpy",
-        "folder_id": "67e425b7-d9ca-0093-53aa-6914619efc88",
-        "create_ts": "2022-04-02T00:49:06.886Z",
-        "last_update_ts": "2022-04-02T00:50:15.751Z",
-        "active_ind": "Y",
-        "file_manager_id": "2983c546-2272-48d0-ac2a-d636e91603dc",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/SARAH FOR GOV ORD KILX FM 0916-006",
-        "entity_id": "50772",
-        "source_service_code": "FM",
-        "callsign": "KILX",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1728955597668221000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -243,7 +244,7 @@
         "WILKES BARRE-SCRANTON": 7353,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7043,
         "LAS VEGAS": 6172,
-        "PITTSBURGH": 5871,
+        "PITTSBURGH": 5872,
         "WEST PALM BEACH-FT. PIERCE": 5817,
         "HONOLULU": 5221,
         "DULUTH-SUPERIOR": 4655,
@@ -342,7 +343,7 @@
       },
       "network_affiliation": {
         "ABC": 58512,
-        "NBC": 57282,
+        "NBC": 57283,
         "CBS": 39328,
         "FOX": 28261,
         "PBS": 14436,
@@ -413,7 +414,7 @@
         "2019": 13958,
         "2020": 125516,
         "2021": 22689,
-        "2022": 11736,
+        "2022": 11737,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -455,7 +456,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 239616,
+        "TV": 239617,
         "CABLE": 127361,
         "FM": 113807,
         "AM": 42736,
@@ -463,7 +464,7 @@
       },
       "political_file_type": {
         "PA": 226779,
-        "NCIA": 125574
+        "NCIA": 125575
       }
     }
   },
@@ -479,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1755,
-    "processTime": 769,
-    "responseTime": 1769
+    "queryTime": 214,
+    "processTime": 222,
+    "responseTime": 222
   }
 }
