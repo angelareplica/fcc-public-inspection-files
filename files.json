@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 529077,
+    "numFound": 529079,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "5a41b013-6862-3969-4064-45f4a76f8a1a",
+        "file_id": "5a41b013-6862-3969-4064-45f4a76f8a1a",
+        "file_name": "MARCH 05, 2022 TODEC",
+        "file_extension": "docx",
+        "file_size": 2698,
+        "file_status": "com_prc",
+        "folder_id": "90a95ac1-451c-02a4-ed44-a507ad8a9df1",
+        "create_ts": "2022-04-03T16:18:37.749Z",
+        "last_update_ts": "2022-04-03T16:18:24.441Z",
+        "active_ind": "Y",
+        "file_manager_id": "19827a1f-f3e6-41a8-95c2-2769fbb8c3bf",
+        "file_folder_path": "Issues and Programs Lists/2022 ISSUES FIRST QTR",
+        "full_qualified_file_name": "Issues and Programs Lists/2022 ISSUES FIRST QTR/MARCH 05, 2022 TODEC",
+        "entity_id": "171299",
+        "source_service_code": "FM",
+        "callsign": "KDDF",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729104675854090200,
+        "score": 0.24995688
+      },
+      {
+        "id": "1a647b71-01a6-242e-2c8f-b03b445a7037",
+        "file_id": "1a647b71-01a6-242e-2c8f-b03b445a7037",
+        "file_name": "MARCH 05, 2022 TODEC",
+        "file_extension": "docx",
+        "file_size": 2698,
+        "file_status": "com_prc",
+        "folder_id": "58340de5-210d-0405-a314-530317f566d7",
+        "create_ts": "2022-04-03T16:03:17.909Z",
+        "last_update_ts": "2022-04-03T16:03:19.809Z",
+        "active_ind": "Y",
+        "file_manager_id": "136d7b61-0984-4015-9e1b-33f670e4f07a",
+        "file_folder_path": "Issues and Programs Lists/2022 ISSUES 1ST QTR",
+        "full_qualified_file_name": "Issues and Programs Lists/2022 ISSUES 1ST QTR/MARCH 05, 2022 TODEC",
+        "entity_id": "160781",
+        "source_service_code": "AM",
+        "callsign": "KENT",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729103727255617500,
+        "score": 0.24995688
+      },
       {
         "id": "a458ad46-315d-65f0-27f3-92c87436618d",
         "file_id": "a458ad46-315d-65f0-27f3-92c87436618d",
@@ -187,54 +229,6 @@
         "callsign": "KKMC",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1728958390171861000,
-        "score": 0.24995688
-      },
-      {
-        "id": "32427a46-c278-44a0-ad80-c7e02e0bc85f",
-        "file_id": "32427a46-c278-44a0-ad80-c7e02e0bc85f",
-        "file_name": "WTVH WILSON FOR NEW YORK GOVERNOR EST 3469 04.04.22-04.10.22 - PAYMENT",
-        "file_extension": "pdf",
-        "file_size": 78420,
-        "file_status": "com_cpy",
-        "folder_id": "909a02e9-a44a-b025-db96-b81799a348e0",
-        "create_ts": "2022-04-02T01:20:35.245Z",
-        "last_update_ts": "2022-04-02T01:20:20.676Z",
-        "active_ind": "Y",
-        "file_manager_id": "922b200b-286a-44d8-b3ee-1076f5891e2e",
-        "file_folder_path": "Political Files/2022/State/WILSON FOR NEW YORK GOVERNOR-R",
-        "full_qualified_file_name": "Political Files/2022/State/WILSON FOR NEW YORK GOVERNOR-R/WTVH WILSON FOR NEW YORK GOVERNOR EST 3469 04.04.22-04.10.22 - PAYMENT",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1728957577301065700,
-        "score": 0.24995688
-      },
-      {
-        "id": "5c1304e0-e374-d3aa-4bfe-23b25cccf21e",
-        "file_id": "5c1304e0-e374-d3aa-4bfe-23b25cccf21e",
-        "file_name": "Eddie Joe Williams for Sec of State  ord 0920-001 KDQN FM",
-        "file_extension": "pdf",
-        "file_size": 288595,
-        "file_status": "com_cpy",
-        "folder_id": "0e51e4df-15cd-30df-8885-fe0af18a8488",
-        "create_ts": "2022-04-02T00:50:25.447Z",
-        "last_update_ts": "2022-04-02T00:51:33.941Z",
-        "active_ind": "Y",
-        "file_manager_id": "11f17cdb-39cb-423e-8998-2a9d94df9f81",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/Eddie Joe Williams for Sec of State  ord 0920-001 KDQN FM",
-        "entity_id": "30599",
-        "source_service_code": "FM",
-        "callsign": "KDQN-FM",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1728955679662669800,
         "score": 0.24995688
       }
     ],
@@ -427,7 +421,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61644,
-        "Issues and Programs Lists": 45216,
+        "Issues and Programs Lists": 45218,
         "Equal Employment Opportunity Records": 37293,
         "Donor Lists - Applicable Only for NCEs": 11701,
         "FCC Authorizations": 7317,
@@ -458,8 +452,8 @@
       "source_service_code": {
         "TV": 239617,
         "CABLE": 127361,
-        "FM": 113807,
-        "AM": 42736,
+        "FM": 113808,
+        "AM": 42737,
         "DBS": 5556
       },
       "political_file_type": {
@@ -480,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 203,
-    "processTime": 211,
-    "responseTime": 211
+    "queryTime": 1775,
+    "processTime": 784,
+    "responseTime": 1784
   }
 }
