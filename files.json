@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 529529,
+    "numFound": 529530,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "91c7ea74-2f89-24ca-b773-bdfbed24c39b",
+        "file_id": "91c7ea74-2f89-24ca-b773-bdfbed24c39b",
+        "file_name": "Allen Co Sheriff Dept - Hershberger 04-04-22 to 05-01-22 1433",
+        "file_extension": "pdf",
+        "file_size": 126310,
+        "file_status": "com_cpy",
+        "folder_id": "ade590cc-ae6b-431d-8d52-ac5cf0468f64",
+        "create_ts": "2022-04-04T23:07:45.838Z",
+        "last_update_ts": "2022-04-04T23:07:48.854Z",
+        "active_ind": "Y",
+        "file_manager_id": "20e53a69-6c5b-4339-a67b-8c4b8743e461",
+        "file_folder_path": "Political Files/2022/Local/Allen County Sheriffs Dept-Hershberger",
+        "full_qualified_file_name": "Political Files/2022/Local/Allen County Sheriffs Dept-Hershberger/Allen Co Sheriff Dept - Hershberger 04-04-22 to 05-01-22 1433",
+        "entity_id": "29859",
+        "source_service_code": "FM",
+        "callsign": "WQHK-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1729221011544473600,
+        "score": 0.24995688
+      },
+      {
+        "id": "5bbb4938-8ffa-cc4c-f6b6-50ae6284d9a0",
+        "file_id": "5bbb4938-8ffa-cc4c-f6b6-50ae6284d9a0",
+        "file_name": "SAMBROWNFORNV 0405-042922 KDWN 99973",
+        "file_extension": "pdf",
+        "file_size": 366195,
+        "file_status": "com_cpy",
+        "folder_id": "48473bb9-92ff-57ae-030e-802d6b0dabde",
+        "create_ts": "2022-04-04T23:06:20.836Z",
+        "last_update_ts": "2022-04-04T23:07:37.708Z",
+        "active_ind": "Y",
+        "file_manager_id": "7f4b9b2f-9f93-4171-9fdd-e9f3386b5cd9",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/SAMBROWNFORNV 0405-042922 KDWN 99973",
+        "entity_id": "54686",
+        "source_service_code": "AM",
+        "callsign": "KDWN",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1729220922773078000,
+        "score": 0.24995688
+      },
       {
         "id": "8c6adab7-2ac1-ff67-2d1d-1886e6a5f3b9",
         "file_id": "8c6adab7-2ac1-ff67-2d1d-1886e6a5f3b9",
@@ -187,51 +233,6 @@
         "non_political_file_folder": "Class A TV Continuing Eligibility",
         "_version_": 1729218140181627000,
         "score": 0.24995688
-      },
-      {
-        "id": "f46b8b24-10e7-2aff-6dbd-a590e27d1618",
-        "file_id": "f46b8b24-10e7-2aff-6dbd-a590e27d1618",
-        "file_name": "Q1 K23EX 2022, 04 04 Continuing Eligibility",
-        "file_extension": "pdf",
-        "file_size": 247938,
-        "file_status": "com_cpy",
-        "folder_id": "da9c8cdb-c74d-ce5b-055a-91860956086c",
-        "create_ts": "2022-04-04T22:19:16.519Z",
-        "last_update_ts": "2022-04-04T22:19:19.693Z",
-        "active_ind": "Y",
-        "file_manager_id": "4cdae944-2b37-4f2c-95bf-1c6520bc0082",
-        "file_folder_path": "Class A TV Continuing Eligibility/2022",
-        "full_qualified_file_name": "Class A TV Continuing Eligibility/2022/Q1 K23EX 2022, 04 04 Continuing Eligibility",
-        "entity_id": "5010",
-        "source_service_code": "TV",
-        "callsign": "K23EX-D",
-        "non_political_file_folder": "Class A TV Continuing Eligibility",
-        "_version_": 1729217961073311700,
-        "score": 0.24995688
-      },
-      {
-        "id": "4f6aad77-43e4-0993-1bd2-c32a70992af3",
-        "file_id": "4f6aad77-43e4-0993-1bd2-c32a70992af3",
-        "file_name": "Iss PA Conservatives Fund_NAB_930767",
-        "file_extension": "pdf",
-        "file_size": 950534,
-        "file_status": "com_cpy",
-        "folder_id": "50c60d8c-6fc3-cfca-e8ad-9378259d112a",
-        "create_ts": "2022-04-04T22:17:19.664Z",
-        "last_update_ts": "2022-04-04T22:17:04.641Z",
-        "active_ind": "Y",
-        "file_manager_id": "665395cb-0032-4f2f-b673-08f408dc76fb",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Iss Pennsylvania Conservative Fund/930767-0405-0411",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Iss Pennsylvania Conservative Fund/930767-0405-0411/Iss PA Conservatives Fund_NAB_930767",
-        "entity_id": "73910",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "PITTSBURGH",
-        "callsign": "WPXI",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1729217838634238000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -410,21 +411,21 @@
         "2019": 13929,
         "2020": 125515,
         "2021": 22690,
-        "2022": 12092,
+        "2022": 12094,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 69881,
-        "US Senate": 50817,
+        "US Senate": 50818,
         "US House": 41864,
         "Presidential": 38631,
-        "Local": 24718
+        "Local": 24719
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61644,
         "Issues and Programs Lists": 45309,
-        "Equal Employment Opportunity Records": 37311,
+        "Equal Employment Opportunity Records": 37310,
         "Donor Lists - Applicable Only for NCEs": 11703,
         "FCC Authorizations": 7317,
         "Local Public Notice Announcements": 1886,
@@ -455,11 +456,11 @@
         "TV": 239776,
         "CABLE": 127410,
         "FM": 113947,
-        "AM": 42837,
+        "AM": 42838,
         "DBS": 5559
       },
       "political_file_type": {
-        "PA": 227014,
+        "PA": 227016,
         "NCIA": 125666
       }
     }
@@ -476,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1762,
-    "processTime": 769,
-    "responseTime": 1770
+    "queryTime": 1773,
+    "processTime": 787,
+    "responseTime": 1788
   }
 }
