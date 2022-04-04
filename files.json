@@ -5,6 +5,27 @@
     "maxScore": 0.50016373,
     "docs": [
       {
+        "id": "d8fa9129-d6c9-d6ee-ebf8-c6d7ee70199e",
+        "file_id": "d8fa9129-d6c9-d6ee-ebf8-c6d7ee70199e",
+        "file_name": "WACE Issues 1 Q 2022 Page 1",
+        "file_extension": "pdf",
+        "file_size": 34196,
+        "file_status": "com_cpy",
+        "folder_id": "08478505-5456-e981-6a04-17db972d8333",
+        "create_ts": "2022-04-04T13:25:02.273Z",
+        "last_update_ts": "2022-04-04T13:40:07.347Z",
+        "active_ind": "Y",
+        "file_manager_id": "7f265d42-7cd2-4e11-92c6-74bfdd2e54d6",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/WACE Issues 1 Q 2022 Page 1",
+        "entity_id": "9194",
+        "source_service_code": "AM",
+        "callsign": "WACE",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729185219673587700,
+        "score": 0.00012497844
+      },
+      {
         "id": "feedbc26-8de1-6abe-aa41-69fedc28fec7",
         "file_id": "feedbc26-8de1-6abe-aa41-69fedc28fec7",
         "file_name": "2022-04-01 Candidate Disclosure Form - Lucy McBath",
@@ -28,27 +49,6 @@
         "campaign_year": "2022",
         "_version_": 1729184751110062000,
         "score": 0.24995688
-      },
-      {
-        "id": "d8fa9129-d6c9-d6ee-ebf8-c6d7ee70199e",
-        "file_id": "d8fa9129-d6c9-d6ee-ebf8-c6d7ee70199e",
-        "file_name": "WACE Issues 1 Q 2022 Page 1",
-        "file_extension": "pdf",
-        "file_size": 34196,
-        "file_status": "com_cpy",
-        "folder_id": "08478505-5456-e981-6a04-17db972d8333",
-        "create_ts": "2022-04-04T13:25:02.273Z",
-        "last_update_ts": "2022-04-04T13:25:05.404Z",
-        "active_ind": "Y",
-        "file_manager_id": "7f265d42-7cd2-4e11-92c6-74bfdd2e54d6",
-        "file_folder_path": "Issues and Programs Lists/2022",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/WACE Issues 1 Q 2022 Page 1",
-        "entity_id": "9194",
-        "source_service_code": "AM",
-        "callsign": "WACE",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729184349720412200,
-        "score": 0.00012497844
       },
       {
         "id": "f7eea9fa-ce60-4d53-7b64-9afeb76b8fd7",
@@ -478,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1788,
-    "processTime": 799,
-    "responseTime": 1799
+    "queryTime": 201,
+    "processTime": 208,
+    "responseTime": 209
   }
 }
