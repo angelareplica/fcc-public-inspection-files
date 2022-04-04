@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 529090,
+    "numFound": 529091,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "dccf605b-8e88-9479-dcad-f57188b8fe52",
+        "file_id": "dccf605b-8e88-9479-dcad-f57188b8fe52",
+        "file_name": "KGNS EEO Public File Report 2022 (002)",
+        "file_extension": "doc",
+        "file_size": 83456,
+        "file_status": "com_prc",
+        "folder_id": "cc8f13d3-fd3e-8218-8e44-1024f915f0cb",
+        "create_ts": "2022-04-04T03:53:32.903Z",
+        "last_update_ts": "2022-04-04T03:53:53.549Z",
+        "active_ind": "Y",
+        "file_manager_id": "87a10fb7-121f-448f-b4e9-a9775a78f477",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/KGNS EEO Public File Report 2022 (002)",
+        "entity_id": "10061",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "LAREDO",
+        "callsign": "KGNS-TV",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1729148413094658000,
+        "score": 0.24995688
+      },
       {
         "id": "b6deb503-80a1-b9a1-db46-834df7eb12ac",
         "file_id": "b6deb503-80a1-b9a1-db46-834df7eb12ac",
@@ -216,27 +239,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1729107702231072800,
         "score": 0.24995688
-      },
-      {
-        "id": "34a8ae38-a162-b0be-f3ec-83cc670e0294",
-        "file_id": "34a8ae38-a162-b0be-f3ec-83cc670e0294",
-        "file_name": "MARCH 05, 2022 TODEC",
-        "file_extension": "docx",
-        "file_size": 2698,
-        "file_status": "com_prc",
-        "folder_id": "47ce2537-7be7-11b5-379d-2ad9fad373bc",
-        "create_ts": "2022-04-03T16:52:43.098Z",
-        "last_update_ts": "2022-04-03T16:52:28.738Z",
-        "active_ind": "Y",
-        "file_manager_id": "3a062132-58b2-4634-a5e2-5136f373af1b",
-        "file_folder_path": "Issues and Programs Lists/2022 ISSUES 1ST QTR",
-        "full_qualified_file_name": "Issues and Programs Lists/2022 ISSUES 1ST QTR/MARCH 05, 2022 TODEC",
-        "entity_id": "67519",
-        "source_service_code": "AM",
-        "callsign": "KTYM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729106819440181200,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -344,7 +346,7 @@
       },
       "network_affiliation": {
         "ABC": 58520,
-        "NBC": 57283,
+        "NBC": 57284,
         "CBS": 39328,
         "FOX": 28261,
         "PBS": 14436,
@@ -429,7 +431,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61644,
         "Issues and Programs Lists": 45221,
-        "Equal Employment Opportunity Records": 37293,
+        "Equal Employment Opportunity Records": 37294,
         "Donor Lists - Applicable Only for NCEs": 11701,
         "FCC Authorizations": 7317,
         "Local Public Notice Announcements": 1886,
@@ -457,7 +459,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 239625,
+        "TV": 239626,
         "CABLE": 127361,
         "FM": 113808,
         "AM": 42740,
@@ -481,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 211,
-    "responseTime": 212
+    "queryTime": 213,
+    "processTime": 221,
+    "responseTime": 222
   }
 }
