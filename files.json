@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 529563,
+    "numFound": 529565,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "7194624c-08e6-cae3-1c4b-50eb7247a449",
+        "file_id": "7194624c-08e6-cae3-1c4b-50eb7247a449",
+        "file_name": "Jane Fraser for County Commission-WSSI-04.01-04.30",
+        "file_extension": "pdf",
+        "file_size": 618655,
+        "file_status": "com_cpy",
+        "folder_id": "f995a372-811b-0b66-592f-83059e89985f",
+        "create_ts": "2022-04-05T11:35:31.418Z",
+        "last_update_ts": "2022-04-05T11:36:49.644Z",
+        "active_ind": "Y",
+        "file_manager_id": "08c908e0-fa65-4c86-97b9-cf20e662eddc",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Jane Fraser for County Commission-WSSI-04.01-04.30",
+        "entity_id": "36929",
+        "source_service_code": "FM",
+        "callsign": "WSSI",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1729268056760254500,
+        "score": 0.24995688
+      },
+      {
+        "id": "d62c8aaa-51b6-7139-0367-b438e0a12d9f",
+        "file_id": "d62c8aaa-51b6-7139-0367-b438e0a12d9f",
+        "file_name": "Jane Fraser for County Commission-WRJY-04.01-04.30",
+        "file_extension": "pdf",
+        "file_size": 621630,
+        "file_status": "com_cpy",
+        "folder_id": "19e37ae2-79d7-6d1a-c806-ca3b9a3bde2b",
+        "create_ts": "2022-04-05T11:33:11.114Z",
+        "last_update_ts": "2022-04-05T11:33:14.494Z",
+        "active_ind": "Y",
+        "file_manager_id": "c6d0f810-9462-4795-935c-f5ed341b1d04",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Jane Fraser for County Commission-WRJY-04.01-04.30",
+        "entity_id": "472",
+        "source_service_code": "FM",
+        "callsign": "WRJY",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1729267909770870800,
+        "score": 0.24995688
+      },
       {
         "id": "57ef4bcc-4d7a-a029-82c4-31e33548f004",
         "file_id": "57ef4bcc-4d7a-a029-82c4-31e33548f004",
@@ -178,50 +224,6 @@
         "office_type": "US House",
         "campaign_year": "2022",
         "_version_": 1729238107627192300,
-        "score": 0.24995688
-      },
-      {
-        "id": "23bf8816-fa92-9e80-b84a-ff3fbd79ef70",
-        "file_id": "23bf8816-fa92-9e80-b84a-ff3fbd79ef70",
-        "file_name": "Schedule & Update-01",
-        "file_extension": "pdf",
-        "file_size": 153157,
-        "file_status": "com_cpy",
-        "folder_id": "a3da46c1-1bc5-cac1-90d2-108e5f6f8859",
-        "create_ts": "2022-04-05T02:35:03.023Z",
-        "last_update_ts": "2022-04-05T02:36:20.119Z",
-        "active_ind": "Y",
-        "file_manager_id": "432adf5d-be28-4b8f-a817-e091b6dcd9b6",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Media Research Center",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Media Research Center/Schedule & Update-01",
-        "entity_id": "54655",
-        "source_service_code": "FM",
-        "callsign": "WMXI",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1729234053043847200,
-        "score": 0.24995688
-      },
-      {
-        "id": "127c5dfc-ef02-e624-1039-3b59808d7b61",
-        "file_id": "127c5dfc-ef02-e624-1039-3b59808d7b61",
-        "file_name": "040422 NAB - KHNR-AM invoice 575580-1",
-        "file_extension": "pdf",
-        "file_size": 114115,
-        "file_status": "com_cpy",
-        "folder_id": "8948c44a-72b4-c298-7142-dc355ef4002e",
-        "create_ts": "2022-04-05T02:33:07.2Z",
-        "last_update_ts": "2022-04-05T02:34:24.191Z",
-        "active_ind": "Y",
-        "file_manager_id": "95726821-b50c-439d-a652-8e4b4e4e470e",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/NAB",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/NAB/040422 NAB - KHNR-AM invoice 575580-1",
-        "entity_id": "16742",
-        "source_service_code": "AM",
-        "callsign": "KHNR",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1729233931499208700,
         "score": 0.24995688
       }
     ],
@@ -401,7 +403,7 @@
         "2019": 13929,
         "2020": 125515,
         "2021": 22690,
-        "2022": 12123,
+        "2022": 12125,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -410,7 +412,7 @@
         "US Senate": 50823,
         "US House": 41868,
         "Presidential": 38631,
-        "Local": 24723
+        "Local": 24725
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61644,
@@ -445,12 +447,12 @@
       "source_service_code": {
         "TV": 239786,
         "CABLE": 127410,
-        "FM": 113968,
+        "FM": 113970,
         "AM": 42840,
         "DBS": 5559
       },
       "political_file_type": {
-        "PA": 227032,
+        "PA": 227034,
         "NCIA": 125679
       }
     }
@@ -467,8 +469,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1745,
-    "processTime": 755,
-    "responseTime": 1756
+    "queryTime": 1746,
+    "processTime": 753,
+    "responseTime": 1754
   }
 }
