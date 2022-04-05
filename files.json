@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 529573,
+    "numFound": 529572,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "50eaa115-4cf8-fe8e-537e-a76c9de78546",
+        "file_id": "50eaa115-4cf8-fe8e-537e-a76c9de78546",
+        "file_name": "DECADES 2022 Q1 Commercial Limits Certification (as of 04-01-22)",
+        "file_extension": "doc",
+        "file_size": 42496,
+        "file_status": "com_prc",
+        "folder_id": "0c1e262d-20aa-f434-1844-e070939a632e",
+        "create_ts": "2022-04-05T13:42:10.159Z",
+        "last_update_ts": "2022-04-05T13:42:11.084Z",
+        "active_ind": "Y",
+        "file_manager_id": "33cd3b09-b3da-42b0-b925-f87fd7169c5e",
+        "file_folder_path": "Records Concerning Commercial Limits in Childrens Programs/2022",
+        "full_qualified_file_name": "Records Concerning Commercial Limits in Childrens Programs/2022/DECADES 2022 Q1 Commercial Limits Certification (as of 04-01-22)",
+        "entity_id": "21536",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "CHARLESTON SC",
+        "callsign": "WGWG",
+        "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
+        "_version_": 1729276041496625200,
+        "score": 0.24995688
+      },
       {
         "id": "f49a04c1-ae48-baa8-8d58-3afd2d68f928",
         "file_id": "f49a04c1-ae48-baa8-8d58-3afd2d68f928",
@@ -205,29 +228,6 @@
         "campaign_year": "2022",
         "_version_": 1729268056760254500,
         "score": 0.24995688
-      },
-      {
-        "id": "d62c8aaa-51b6-7139-0367-b438e0a12d9f",
-        "file_id": "d62c8aaa-51b6-7139-0367-b438e0a12d9f",
-        "file_name": "Jane Fraser for County Commission-WRJY-04.01-04.30",
-        "file_extension": "pdf",
-        "file_size": 621630,
-        "file_status": "com_cpy",
-        "folder_id": "19e37ae2-79d7-6d1a-c806-ca3b9a3bde2b",
-        "create_ts": "2022-04-05T11:33:11.114Z",
-        "last_update_ts": "2022-04-05T11:33:14.494Z",
-        "active_ind": "Y",
-        "file_manager_id": "c6d0f810-9462-4795-935c-f5ed341b1d04",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Jane Fraser for County Commission-WRJY-04.01-04.30",
-        "entity_id": "472",
-        "source_service_code": "FM",
-        "callsign": "WRJY",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1729267909770870800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -289,7 +289,7 @@
         "PADUCAH-CAPE GIRARD-HARSBG": 1314,
         "MIAMI-FT. LAUDERDALE": 1300,
         "GAINESVILLE": 1265,
-        "JOHNSTOWN-ALTOONA-ST COLGE": 1242,
+        "JOHNSTOWN-ALTOONA-ST COLGE": 1240,
         "PROVIDENCE-NEW BEDFORD": 1200,
         "ANCHORAGE": 1197,
         "LOS ANGELES": 1159,
@@ -334,9 +334,9 @@
         "WACO-TEMPLE-BRYAN": 566
       },
       "network_affiliation": {
-        "ABC": 58552,
+        "ABC": 58553,
         "NBC": 57331,
-        "CBS": 39363,
+        "CBS": 39361,
         "FOX": 28280,
         "PBS": 14443,
         "CW": 12125,
@@ -404,7 +404,7 @@
         "2017": 10351,
         "2018": 67672,
         "2019": 13929,
-        "2020": 125515,
+        "2020": 125513,
         "2021": 22690,
         "2022": 12132,
         "KYAZ": 5,
@@ -414,11 +414,11 @@
         "State": 69887,
         "US Senate": 50823,
         "US House": 41868,
-        "Presidential": 38631,
+        "Presidential": 38629,
         "Local": 24725
       },
       "non_political_file_folder": {
-        "Records Concerning Commercial Limits in Childrens Programs": 61644,
+        "Records Concerning Commercial Limits in Childrens Programs": 61645,
         "Issues and Programs Lists": 45314,
         "Equal Employment Opportunity Records": 37310,
         "Donor Lists - Applicable Only for NCEs": 11703,
@@ -448,14 +448,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 239787,
+        "TV": 239786,
         "CABLE": 127410,
         "FM": 113972,
         "AM": 42845,
         "DBS": 5559
       },
       "political_file_type": {
-        "PA": 227036,
+        "PA": 227034,
         "NCIA": 125684
       }
     }
@@ -472,8 +472,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1777,
-    "processTime": 788,
-    "responseTime": 1788
+    "queryTime": 1829,
+    "processTime": 838,
+    "responseTime": 1838
   }
 }
