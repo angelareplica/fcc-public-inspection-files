@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 530136,
+    "numFound": 530137,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "6a10bdad-a419-a264-24ae-b4659c12de29",
+        "file_id": "6a10bdad-a419-a264-24ae-b4659c12de29",
+        "file_name": "1168057-0",
+        "file_extension": "pdf",
+        "file_size": 129082,
+        "file_status": "com_cpy",
+        "folder_id": "c0ae4d5f-913f-1e9e-ac91-88c34063451f",
+        "create_ts": "2022-04-06T05:17:32.103Z",
+        "last_update_ts": "2022-04-06T05:17:16.674Z",
+        "active_ind": "Y",
+        "file_manager_id": "b50380e9-6c17-4940-a206-cdc48f1988bf",
+        "file_folder_path": "Political Files/2022/State/Gubernatorial/Tom Suozzi",
+        "full_qualified_file_name": "Political Files/2022/State/Gubernatorial/Tom Suozzi/1168057-0",
+        "entity_id": "22206",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "NEW YORK",
+        "callsign": "WNYW",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1729334872622760000,
+        "score": 0.24995688
+      },
       {
         "id": "752d23d4-d5ef-9715-7e3e-6e6c3ef8c0ec",
         "file_id": "752d23d4-d5ef-9715-7e3e-6e6c3ef8c0ec",
@@ -222,31 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1729320868480286700,
         "score": 0.24995688
-      },
-      {
-        "id": "38c65a19-f796-4550-ac60-1eb1fc7d662e",
-        "file_id": "38c65a19-f796-4550-ac60-1eb1fc7d662e",
-        "file_name": "Bob Tieman for Oregon KOHD 27761808 Est 2309 26876 Order 040522",
-        "file_extension": "pdf",
-        "file_size": 20568,
-        "file_status": "com_cpy",
-        "folder_id": "71450628-5844-ca28-ce00-ba4ac9b083d0",
-        "create_ts": "2022-04-06T01:27:34.85Z",
-        "last_update_ts": "2022-04-06T01:27:38.743Z",
-        "active_ind": "Y",
-        "file_manager_id": "469928f9-b0e2-4f02-b982-ff3c7c49b8ff",
-        "file_folder_path": "Political Files/2022/State/Governor/Bob Tieman for Oregon",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Bob Tieman for Oregon/Bob Tieman for Oregon KOHD 27761808 Est 2309 26876 Order 040522",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1729320405930344400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -316,7 +316,7 @@
         "CHARLOTTE": 1111,
         "SALT LAKE CITY": 1094,
         "GLENDIVE": 1081,
-        "NEW YORK": 1079,
+        "NEW YORK": 1080,
         "LITTLE ROCK-PINE BLUFF": 1072,
         "DENVER": 1061,
         "ST. LOUIS": 1041,
@@ -356,7 +356,7 @@
         "ABC": 58617,
         "NBC": 57365,
         "CBS": 39412,
-        "FOX": 28308,
+        "FOX": 28309,
         "PBS": 14454,
         "CW": 12126,
         "IND": 2998,
@@ -425,12 +425,12 @@
         "2019": 13929,
         "2020": 125512,
         "2021": 22694,
-        "2022": 12520,
+        "2022": 12521,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 70037,
+        "State": 70038,
         "US Senate": 50889,
         "US House": 41886,
         "Presidential": 38634,
@@ -467,14 +467,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 239991,
+        "TV": 239992,
         "CABLE": 127456,
         "FM": 114189,
         "AM": 42932,
         "DBS": 5568
       },
       "political_file_type": {
-        "PA": 227321,
+        "PA": 227322,
         "NCIA": 125786
       }
     }
@@ -491,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 67,
-    "processTime": 84,
-    "responseTime": 85
+    "queryTime": 219,
+    "processTime": 227,
+    "responseTime": 228
   }
 }
