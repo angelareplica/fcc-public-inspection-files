@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 530134,
+    "numFound": 530136,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "752d23d4-d5ef-9715-7e3e-6e6c3ef8c0ec",
+        "file_id": "752d23d4-d5ef-9715-7e3e-6e6c3ef8c0ec",
+        "file_name": "WANI-WGZZ-Tom Whatley for State Senate Apr 2022 Order Confirmation-040522",
+        "file_extension": "pdf",
+        "file_size": 97813,
+        "file_status": "com_cpy",
+        "folder_id": "85f1e3e7-4162-c497-c573-a8a081d35c0f",
+        "create_ts": "2022-04-06T04:07:07.546Z",
+        "last_update_ts": "2022-04-06T04:08:27.509Z",
+        "active_ind": "Y",
+        "file_manager_id": "8083e76c-07cc-4b10-9ba3-ce0a21e98681",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/WANI-WGZZ-Tom Whatley for State Senate Apr 2022 Order Confirmation-040522",
+        "entity_id": "15283",
+        "source_service_code": "FM",
+        "callsign": "WGZZ",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1729330442804396000,
+        "score": 0.24995688
+      },
+      {
+        "id": "61e00adf-b2d3-b640-7e03-ec186cf824b0",
+        "file_id": "61e00adf-b2d3-b640-7e03-ec186cf824b0",
+        "file_name": "WANI-WGZZ-Tom Whatley for State Senate Apr 2022 Order Confirmation-040522",
+        "file_extension": "pdf",
+        "file_size": 97813,
+        "file_status": "com_cpy",
+        "folder_id": "091e38fa-1f38-3c74-6926-6a6103da4ce3",
+        "create_ts": "2022-04-06T04:06:06.293Z",
+        "last_update_ts": "2022-04-06T04:07:26.194Z",
+        "active_ind": "Y",
+        "file_manager_id": "2b05608b-8843-4aac-85ea-570b08ad4ebf",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/WANI-WGZZ-Tom Whatley for State Senate Apr 2022 Order Confirmation-040522",
+        "entity_id": "63796",
+        "source_service_code": "AM",
+        "callsign": "WANI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1729330378513055700,
+        "score": 0.24995688
+      },
       {
         "id": "c622b012-742b-2ab9-c402-736a929052d9",
         "file_id": "c622b012-742b-2ab9-c402-736a929052d9",
@@ -201,56 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1729320405930344400,
         "score": 0.24995688
-      },
-      {
-        "id": "a7ece8ca-6f4e-3188-e662-649c3811fab5",
-        "file_id": "a7ece8ca-6f4e-3188-e662-649c3811fab5",
-        "file_name": "Bob Tieman for Oregon KOHD 27761808 Est 2309 26876 NAB  040522",
-        "file_extension": "pdf",
-        "file_size": 132236,
-        "file_status": "com_cpy",
-        "folder_id": "71450628-5844-ca28-ce00-ba4ac9b083d0",
-        "create_ts": "2022-04-06T01:27:34.974Z",
-        "last_update_ts": "2022-04-06T01:27:38.211Z",
-        "active_ind": "Y",
-        "file_manager_id": "d925b1f8-1396-4b5d-97cd-be5de9469e23",
-        "file_folder_path": "Political Files/2022/State/Governor/Bob Tieman for Oregon",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Bob Tieman for Oregon/Bob Tieman for Oregon KOHD 27761808 Est 2309 26876 NAB  040522",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1729320405372502000,
-        "score": 0.24995688
-      },
-      {
-        "id": "166a8c81-cdc6-b8bb-1c45-0e7fa70f1432",
-        "file_id": "166a8c81-cdc6-b8bb-1c45-0e7fa70f1432",
-        "file_name": "Bob Tieman for Oregon ROR 033122",
-        "file_extension": "pdf",
-        "file_size": 174654,
-        "file_status": "com_cpy",
-        "folder_id": "71450628-5844-ca28-ce00-ba4ac9b083d0",
-        "create_ts": "2022-04-06T01:27:34.946Z",
-        "last_update_ts": "2022-04-06T01:27:38.07Z",
-        "active_ind": "Y",
-        "file_manager_id": "36706d5e-912c-45f4-a7d5-e6a4f995a055",
-        "file_folder_path": "Political Files/2022/State/Governor/Bob Tieman for Oregon",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Bob Tieman for Oregon/Bob Tieman for Oregon ROR 033122",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1729320405252964400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -429,12 +425,12 @@
         "2019": 13929,
         "2020": 125512,
         "2021": 22694,
-        "2022": 12518,
+        "2022": 12520,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 70035,
+        "State": 70037,
         "US Senate": 50889,
         "US House": 41886,
         "Presidential": 38634,
@@ -473,12 +469,12 @@
       "source_service_code": {
         "TV": 239991,
         "CABLE": 127456,
-        "FM": 114188,
-        "AM": 42931,
+        "FM": 114189,
+        "AM": 42932,
         "DBS": 5568
       },
       "political_file_type": {
-        "PA": 227319,
+        "PA": 227321,
         "NCIA": 125786
       }
     }
@@ -495,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 210,
-    "responseTime": 211
+    "queryTime": 1751,
+    "processTime": 762,
+    "responseTime": 1763
   }
 }
