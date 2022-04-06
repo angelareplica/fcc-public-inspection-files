@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 530617,
+    "numFound": 530618,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "ffe850fb-7b14-af71-4b9c-707bc3deb14a",
+        "file_id": "ffe850fb-7b14-af71-4b9c-707bc3deb14a",
+        "file_name": "DOC040622-001",
+        "file_extension": "pdf",
+        "file_size": 18809,
+        "file_status": "com_cpy",
+        "folder_id": "72289618-1dea-170c-f61b-28b33fceac9c",
+        "create_ts": "2022-04-06T23:38:32.239Z",
+        "last_update_ts": "2022-04-06T23:38:35.299Z",
+        "active_ind": "Y",
+        "file_manager_id": "bc65bfaa-e724-4021-a809-31c230b90296",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/DOC040622-001",
+        "entity_id": "18038",
+        "source_service_code": "AM",
+        "callsign": "KSHO",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1729404141594214400,
+        "score": 0.24995688
+      },
       {
         "id": "bac2a297-355b-c2ea-bccf-1106174ffc92",
         "file_id": "bac2a297-355b-c2ea-bccf-1106174ffc92",
@@ -192,27 +214,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1729399426443640800,
         "score": 0.00012497844
-      },
-      {
-        "id": "0ad58a7e-314e-7ae6-b5bf-209915c32af9",
-        "file_id": "0ad58a7e-314e-7ae6-b5bf-209915c32af9",
-        "file_name": "Page 4 February PSA Affidavits",
-        "file_extension": "pdf",
-        "file_size": 15883,
-        "file_status": "com_cpy",
-        "folder_id": "8dfb1546-a017-aa70-1393-af44134e8145",
-        "create_ts": "2022-04-06T22:23:35.418Z",
-        "last_update_ts": "2022-04-06T22:23:38.502Z",
-        "active_ind": "Y",
-        "file_manager_id": "33b295e9-3cfa-461f-a061-e6c7024c053b",
-        "file_folder_path": "Issues and Programs Lists/2022/Qtr 1",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/Qtr 1/Page 4 February PSA Affidavits",
-        "entity_id": "54681",
-        "source_service_code": "AM",
-        "callsign": "KVOP",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729399426360803300,
-        "score": 0.00012497844
       }
     ],
     "facets": {
@@ -391,7 +392,7 @@
         "2019": 13929,
         "2020": 125497,
         "2021": 22697,
-        "2022": 12792,
+        "2022": 12793,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -436,12 +437,12 @@
         "TV": 240145,
         "CABLE": 127516,
         "FM": 114370,
-        "AM": 43016,
+        "AM": 43017,
         "DBS": 5570
       },
       "political_file_type": {
         "PA": 227549,
-        "NCIA": 125817
+        "NCIA": 125818
       }
     }
   },
@@ -457,8 +458,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1774,
-    "processTime": 781,
-    "responseTime": 1782
+    "queryTime": 1754,
+    "processTime": 760,
+    "responseTime": 1761
   }
 }
