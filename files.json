@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 530636,
+    "numFound": 530637,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "193d895d-d9f3-f403-23df-ab78559c37c8",
+        "file_id": "193d895d-d9f3-f403-23df-ab78559c37c8",
+        "file_name": "WMXO quarterly issues 010122 to 033122",
+        "file_extension": "pdf",
+        "file_size": 36161,
+        "file_status": "com_cpy",
+        "folder_id": "3664473e-8c2b-e1e9-f6c7-f5d569d2fea4",
+        "create_ts": "2022-04-07T13:47:22.65Z",
+        "last_update_ts": "2022-04-07T13:47:06.836Z",
+        "active_ind": "Y",
+        "file_manager_id": "cc3e8452-2457-4083-87c3-451e645ccfc9",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/WMXO quarterly issues 010122 to 033122",
+        "entity_id": "19710",
+        "source_service_code": "FM",
+        "callsign": "WMXO",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729457546004004900,
+        "score": 0.24995688
+      },
       {
         "id": "add4c561-6057-9b31-4d9a-c472daecee5f",
         "file_id": "add4c561-6057-9b31-4d9a-c472daecee5f",
@@ -201,30 +222,6 @@
         "campaign_year": "2022",
         "_version_": 1729454638760984600,
         "score": 0.24995688
-      },
-      {
-        "id": "74420729-de88-128a-f354-01d93412bcbd",
-        "file_id": "74420729-de88-128a-f354-01d93412bcbd",
-        "file_name": "Penn Progress PAC 3501004 Rev 0",
-        "file_extension": "pdf",
-        "file_size": 177532,
-        "file_status": "com_cpy",
-        "folder_id": "0858fbb5-59e0-d6c1-f267-c7351cdfd85b",
-        "create_ts": "2022-04-07T13:00:37.793Z",
-        "last_update_ts": "2022-04-07T13:00:40.879Z",
-        "active_ind": "Y",
-        "file_manager_id": "01fe8382-114d-4a4f-bd4e-bc05847633f3",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Penn Progress PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Penn Progress PAC/Penn Progress PAC 3501004 Rev 0",
-        "entity_id": "17010",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
-        "callsign": "WYOU",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1729454604920291300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -416,7 +413,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61652,
-        "Issues and Programs Lists": 45648,
+        "Issues and Programs Lists": 45649,
         "Equal Employment Opportunity Records": 37346,
         "Donor Lists - Applicable Only for NCEs": 11717,
         "FCC Authorizations": 7325,
@@ -447,7 +444,7 @@
       "source_service_code": {
         "TV": 240154,
         "CABLE": 127516,
-        "FM": 114379,
+        "FM": 114380,
         "AM": 43017,
         "DBS": 5570
       },
@@ -469,8 +466,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1744,
-    "processTime": 752,
-    "responseTime": 1752
+    "queryTime": 1776,
+    "processTime": 784,
+    "responseTime": 1784
   }
 }
