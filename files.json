@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 531164,
+    "numFound": 531165,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "d2dd27a8-be36-216c-040f-25936e79b15d",
+        "file_id": "d2dd27a8-be36-216c-040f-25936e79b15d",
+        "file_name": "KBCW Issues and Programs 1st Qtr 2022 040322",
+        "file_extension": "docx",
+        "file_size": 47776,
+        "file_status": "com_prc",
+        "folder_id": "ca919a50-467c-94e8-fa4c-fa8add68c634",
+        "create_ts": "2022-04-07T22:33:02.677Z",
+        "last_update_ts": "2022-04-07T22:32:47.609Z",
+        "active_ind": "Y",
+        "file_manager_id": "de4aace7-a070-45ad-932c-d08b569ad26c",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/KBCW Issues and Programs 1st Qtr 2022 040322",
+        "entity_id": "69619",
+        "source_service_code": "TV",
+        "network_affiliation": "THE CW NETWORK",
+        "nielsen_dma_rank": "SAN FRANCISCO-OAK-SAN JOSE",
+        "callsign": "KBCW",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729490618990723000,
+        "score": 0.24995688
+      },
       {
         "id": "f1fd4f75-af13-77f2-c527-075de7033dcd",
         "file_id": "f1fd4f75-af13-77f2-c527-075de7033dcd",
@@ -219,30 +242,6 @@
         "campaign_year": "2022",
         "_version_": 1729488871557693400,
         "score": 0.24995688
-      },
-      {
-        "id": "bd20ac8a-809d-34f2-cc8b-27a05a7528ec",
-        "file_id": "bd20ac8a-809d-34f2-cc8b-27a05a7528ec",
-        "file_name": "WKBN-USA FREEDOM FUND-NAB-041122-041722",
-        "file_extension": "pdf",
-        "file_size": 80712,
-        "file_status": "com_cpy",
-        "folder_id": "5061e6bd-1676-fbe3-edff-ce39ccf27208",
-        "create_ts": "2022-04-07T22:05:17.005Z",
-        "last_update_ts": "2022-04-07T22:05:01.258Z",
-        "active_ind": "Y",
-        "file_manager_id": "155aeb8e-6737-497b-b32c-bf2acdc52d0b",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/WKBN-USA FREEDOM FUND",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/WKBN-USA FREEDOM FUND/WKBN-USA FREEDOM FUND-NAB-041122-041722",
-        "entity_id": "73153",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "YOUNGSTOWN",
-        "callsign": "WKBN-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1729488871687716900,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -336,7 +335,7 @@
         "AUSTIN": 722,
         "BUFFALO": 690,
         "YOUNGSTOWN": 683,
-        "SAN FRANCISCO-OAK-SAN JOSE": 679,
+        "SAN FRANCISCO-OAK-SAN JOSE": 680,
         "BANGOR": 676,
         "MACON": 647,
         "HARTFORD & NEW HAVEN": 644,
@@ -372,7 +371,7 @@
         "MYNETWORKTV": 251,
         "ABC, NBC": 233,
         "NONE": 222,
-        "THE CW NETWORK": 218,
+        "THE CW NETWORK": 219,
         "ETV": 210,
         "NBC & CW (DIGITAL ONLY)": 162,
         "TRINITY BROADCASTING NETWORK": 160,
@@ -434,7 +433,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61652,
-        "Issues and Programs Lists": 45793,
+        "Issues and Programs Lists": 45794,
         "Equal Employment Opportunity Records": 37346,
         "Donor Lists - Applicable Only for NCEs": 11738,
         "FCC Authorizations": 7330,
@@ -463,7 +462,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 240290,
+        "TV": 240291,
         "CABLE": 127649,
         "FM": 114556,
         "AM": 43095,
@@ -487,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 211,
-    "responseTime": 212
+    "queryTime": 1792,
+    "processTime": 799,
+    "responseTime": 1800
   }
 }
