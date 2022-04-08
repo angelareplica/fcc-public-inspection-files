@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 531958,
+    "numFound": 531959,
     "start": 0,
     "maxScore": 0.5001638,
     "docs": [
+      {
+        "id": "2f99b059-b744-339b-0e53-6a71b8377ab1",
+        "file_id": "2f99b059-b744-339b-0e53-6a71b8377ab1",
+        "file_name": "Bob McMillan 032122",
+        "file_extension": "pdf",
+        "file_size": 1854010,
+        "file_status": "com_cpy",
+        "folder_id": "bdb579f1-3d76-85d5-9525-b4d97b0fa661",
+        "create_ts": "2022-04-08T23:31:57.881Z",
+        "last_update_ts": "2022-04-08T23:33:26.285Z",
+        "active_ind": "Y",
+        "file_manager_id": "07db09ed-357b-460a-8d13-d7f948fac550",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Bob McMillan 032122",
+        "entity_id": "43534",
+        "source_service_code": "FM",
+        "callsign": "WMFC",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1729584922876706800,
+        "score": 0.2499569
+      },
+      {
+        "id": "d01aafa1-55ee-9d4e-ca81-38aae80bfeec",
+        "file_id": "d01aafa1-55ee-9d4e-ca81-38aae80bfeec",
+        "file_name": "Dee Haigler Signed NAB WPZE 04-08-2022",
+        "file_extension": "pdf",
+        "file_size": 162521,
+        "file_status": "com_cpy",
+        "folder_id": "129efa2e-03b5-0c0b-424d-451fe023f1d1",
+        "create_ts": "2022-04-08T23:11:49.699Z",
+        "last_update_ts": "2022-04-08T23:30:06.638Z",
+        "active_ind": "Y",
+        "file_manager_id": "ee5f50a2-61a7-4128-a6a4-7a98a6f7229c",
+        "file_folder_path": "Political Files/2022/State/Dee Dawkins-Haigler for Georgia LLC",
+        "full_qualified_file_name": "Political Files/2022/State/Dee Dawkins-Haigler for Georgia LLC/Dee Haigler Signed NAB WPZE 04-08-2022",
+        "entity_id": "24562",
+        "source_service_code": "FM",
+        "callsign": "WPZE",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1729584713550528500,
+        "score": 0.2499569
+      },
       {
         "id": "3f4dd35d-7dcd-2afa-58e2-9768f67892a2",
         "file_id": "3f4dd35d-7dcd-2afa-58e2-9768f67892a2",
@@ -25,29 +71,6 @@
         "callsign": "WTCI",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1729583893209677800,
-        "score": 0.2499569
-      },
-      {
-        "id": "d01aafa1-55ee-9d4e-ca81-38aae80bfeec",
-        "file_id": "d01aafa1-55ee-9d4e-ca81-38aae80bfeec",
-        "file_name": "Dee Haigler Signed NAB WPZE 04-08-2022",
-        "file_extension": "pdf",
-        "file_size": 162521,
-        "file_status": "com_cpy",
-        "folder_id": "129efa2e-03b5-0c0b-424d-451fe023f1d1",
-        "create_ts": "2022-04-08T23:11:49.699Z",
-        "last_update_ts": "2022-04-08T23:11:52.979Z",
-        "active_ind": "Y",
-        "file_manager_id": "ee5f50a2-61a7-4128-a6a4-7a98a6f7229c",
-        "file_folder_path": "Political Files/2022/State/Dee Dawkins-Haigler for Georgia LLC",
-        "full_qualified_file_name": "Political Files/2022/State/Dee Dawkins-Haigler for Georgia LLC/Dee Haigler Signed NAB WPZE 04-08-2022",
-        "entity_id": "24562",
-        "source_service_code": "FM",
-        "callsign": "WPZE",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1729583655358038000,
         "score": 0.2499569
       },
       {
@@ -212,31 +235,6 @@
         "office_type": "US Senate",
         "campaign_year": "2022",
         "_version_": 1729582820191371300,
-        "score": 0.2499569
-      },
-      {
-        "id": "0e350eb1-8654-0290-128e-74b3cb462c39",
-        "file_id": "0e350eb1-8654-0290-128e-74b3cb462c39",
-        "file_name": "NAB-LINDSTROM-EST1469-KETV-040822",
-        "file_extension": "pdf",
-        "file_size": 147414,
-        "file_status": "com_cpy",
-        "folder_id": "b57505df-602c-91d8-7482-698dcd58ce4b",
-        "create_ts": "2022-04-08T23:00:07.748Z",
-        "last_update_ts": "2022-04-08T22:59:51.726Z",
-        "active_ind": "Y",
-        "file_manager_id": "401a80dc-8114-4b22-8183-3b249eae8998",
-        "file_folder_path": "Political Files/2022/State/BRETT LINDSTROM FOR GOVERNOR/MARCH 2022/2231381-MAR28-MAY15-EST1469-KETV",
-        "full_qualified_file_name": "Political Files/2022/State/BRETT LINDSTROM FOR GOVERNOR/MARCH 2022/2231381-MAR28-MAY15-EST1469-KETV/NAB-LINDSTROM-EST1469-KETV-040822",
-        "entity_id": "53903",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "OMAHA",
-        "callsign": "KETV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1729582919201063000,
         "score": 0.2499569
       }
     ],
@@ -416,7 +414,7 @@
         "2019": 13928,
         "2020": 125434,
         "2021": 22700,
-        "2022": 13531,
+        "2022": 13532,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -425,7 +423,7 @@
         "US Senate": 51006,
         "US House": 41934,
         "Presidential": 38595,
-        "Local": 24909
+        "Local": 24910
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61653,
@@ -460,12 +458,12 @@
       "source_service_code": {
         "TV": 240689,
         "CABLE": 127695,
-        "FM": 114805,
+        "FM": 114806,
         "AM": 43192,
         "DBS": 5577
       },
       "political_file_type": {
-        "PA": 227943,
+        "PA": 227944,
         "NCIA": 126101
       }
     }
@@ -482,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1780,
-    "processTime": 791,
-    "responseTime": 1792
+    "queryTime": 1785,
+    "processTime": 796,
+    "responseTime": 1796
   }
 }
