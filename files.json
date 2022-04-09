@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 531977,
+    "numFound": 531978,
     "start": 0,
     "maxScore": 0.5001638,
     "docs": [
+      {
+        "id": "94555268-a658-d201-5f04-02c5d52e33c6",
+        "file_id": "94555268-a658-d201-5f04-02c5d52e33c6",
+        "file_name": "CANDIDATE Ads-NAB-PB-19 - Wilson Hale for Sherriff Jeff Co 04082022",
+        "file_extension": "pdf",
+        "file_size": 247721,
+        "file_status": "com_cpy",
+        "folder_id": "2dc55e9b-e7ba-b0d6-c2a5-eecd76e1a69f",
+        "create_ts": "2022-04-09T17:40:36.779Z",
+        "last_update_ts": "2022-04-09T17:40:40.068Z",
+        "active_ind": "Y",
+        "file_manager_id": "bffa787a-40cb-4569-aeaa-bf288ff7b814",
+        "file_folder_path": "Political Files/2022/Local/Wilson Hale Sherriff Jefferson County",
+        "full_qualified_file_name": "Political Files/2022/Local/Wilson Hale Sherriff Jefferson County/CANDIDATE Ads-NAB-PB-19 - Wilson Hale for Sherriff Jeff Co 04082022",
+        "entity_id": "48717",
+        "source_service_code": "AM",
+        "callsign": "WAGG",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1729653414057476000,
+        "score": 0.2499569
+      },
       {
         "id": "9ad36c06-2d19-7b74-ed77-5789aadae32f",
         "file_id": "9ad36c06-2d19-7b74-ed77-5789aadae32f",
@@ -210,31 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1729604704268189700,
         "score": 0.2499569
-      },
-      {
-        "id": "49c9a189-2787-50b5-d88b-8bacd276cb4a",
-        "file_id": "49c9a189-2787-50b5-d88b-8bacd276cb4a",
-        "file_name": "Friends of Mike Sipe KOHD Est 4262 26901 Order  040722",
-        "file_extension": "pdf",
-        "file_size": 20342,
-        "file_status": "com_cpy",
-        "folder_id": "0ebc2069-f63e-ed82-78eb-fb5ddbc2fe54",
-        "create_ts": "2022-04-09T04:46:22.166Z",
-        "last_update_ts": "2022-04-09T04:46:05.965Z",
-        "active_ind": "Y",
-        "file_manager_id": "e8465e53-c2a7-4d97-9429-2506eb6e33d4",
-        "file_folder_path": "Political Files/2022/State/House of Rep/Friends of Mike Sipe",
-        "full_qualified_file_name": "Political Files/2022/State/House of Rep/Friends of Mike Sipe/Friends of Mike Sipe KOHD Est 4262 26901 Order  040722",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1729604702625071000,
-        "score": 0.2499569
       }
     ],
     "facets": {
@@ -413,7 +411,7 @@
         "2019": 13928,
         "2020": 125434,
         "2021": 22700,
-        "2022": 13541,
+        "2022": 13542,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -422,7 +420,7 @@
         "US Senate": 51010,
         "US House": 41934,
         "Presidential": 38595,
-        "Local": 24911
+        "Local": 24912
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61653,
@@ -458,11 +456,11 @@
         "TV": 240693,
         "CABLE": 127695,
         "FM": 114813,
-        "AM": 43199,
+        "AM": 43200,
         "DBS": 5577
       },
       "political_file_type": {
-        "PA": 227953,
+        "PA": 227954,
         "NCIA": 126101
       }
     }
@@ -479,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 210,
-    "responseTime": 211
+    "queryTime": 1793,
+    "processTime": 812,
+    "responseTime": 1813
   }
 }
