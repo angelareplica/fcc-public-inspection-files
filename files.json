@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 531975,
+    "numFound": 531977,
     "start": 0,
     "maxScore": 0.5001638,
     "docs": [
+      {
+        "id": "7f41704a-0f7d-c965-e723-c7508c3d6573",
+        "file_id": "7f41704a-0f7d-c965-e723-c7508c3d6573",
+        "file_name": "Amanda Hicks - Bluegrass Sat Night Adj. 03-31-22 Inv_22030101",
+        "file_extension": "pdf",
+        "file_size": 3667,
+        "file_status": "com_cpy",
+        "folder_id": "19d81d15-f033-2142-5f79-db86771be251",
+        "create_ts": "2022-04-09T16:08:31.9Z",
+        "last_update_ts": "2022-04-09T16:10:01.353Z",
+        "active_ind": "Y",
+        "file_manager_id": "65b7092b-3e6b-481b-bd83-0574424a9221",
+        "file_folder_path": "Political Files/2022/Local/Fentress County Clerk Race",
+        "full_qualified_file_name": "Political Files/2022/Local/Fentress County Clerk Race/Amanda Hicks - Bluegrass Sat Night Adj. 03-31-22 Inv_22030101",
+        "entity_id": "4135",
+        "source_service_code": "FM",
+        "callsign": "WDEB-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1729647620526178300,
+        "score": 0.2499569
+      },
+      {
+        "id": "efc6841d-689e-6348-f8a6-4c77d445ca85",
+        "file_id": "efc6841d-689e-6348-f8a6-4c77d445ca85",
+        "file_name": "WKCW Issues Report 033122",
+        "file_extension": "pdf",
+        "file_size": 734441,
+        "file_status": "com_cpy",
+        "folder_id": "c2104fe3-2667-8208-9ccc-b64f807ed3a3",
+        "create_ts": "2022-04-09T15:47:54.523Z",
+        "last_update_ts": "2022-04-09T15:49:24.33Z",
+        "active_ind": "Y",
+        "file_manager_id": "8793e779-9ee0-4aad-8cbd-85895e0250c7",
+        "file_folder_path": "FCC Authorizations/Additional Documents/Quarterly Reports",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/Quarterly Reports/WKCW Issues Report 033122",
+        "entity_id": "73190",
+        "source_service_code": "AM",
+        "callsign": "WKCW",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1729646323461783600,
+        "score": 0.2499569
+      },
       {
         "id": "2ea0974d-1551-b431-595d-709074f185c0",
         "file_id": "2ea0974d-1551-b431-595d-709074f185c0",
@@ -195,48 +239,6 @@
         "campaign_year": "2022",
         "_version_": 1729590670706868200,
         "score": 0.2499569
-      },
-      {
-        "id": "ec78fb66-a6dd-037e-e3fd-a498084246f6",
-        "file_id": "ec78fb66-a6dd-037e-e3fd-a498084246f6",
-        "file_name": "Page 4 Viewpoints",
-        "file_extension": "pdf",
-        "file_size": 525981,
-        "file_status": "com_cpy",
-        "folder_id": "652cee6b-9476-e427-9918-9a4fc0031126",
-        "create_ts": "2022-04-09T00:45:13.851Z",
-        "last_update_ts": "2022-04-09T00:46:43.154Z",
-        "active_ind": "Y",
-        "file_manager_id": "43f86cdd-0106-40a9-912a-b70b4babf674",
-        "file_folder_path": "Issues and Programs Lists/2022/Qtr 1",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/Qtr 1/Page 4 Viewpoints",
-        "entity_id": "72838",
-        "source_service_code": "FM",
-        "callsign": "KYYK",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729589533183312000,
-        "score": 0.00012497845
-      },
-      {
-        "id": "7a20420f-12cf-f14f-5e49-46e24276a243",
-        "file_id": "7a20420f-12cf-f14f-5e49-46e24276a243",
-        "file_name": "Page 3 PSA Affidavits",
-        "file_extension": "pdf",
-        "file_size": 4094,
-        "file_status": "com_cpy",
-        "folder_id": "652cee6b-9476-e427-9918-9a4fc0031126",
-        "create_ts": "2022-04-09T00:45:13.504Z",
-        "last_update_ts": "2022-04-09T00:45:16.483Z",
-        "active_ind": "Y",
-        "file_manager_id": "353293ed-20ab-4297-b7de-0897099e3bc5",
-        "file_folder_path": "Issues and Programs Lists/2022/Qtr 1",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/Qtr 1/Page 3 PSA Affidavits",
-        "entity_id": "72838",
-        "source_service_code": "FM",
-        "callsign": "KYYK",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729589531057848300,
-        "score": 0.00012497845
       }
     ],
     "facets": {
@@ -415,7 +417,7 @@
         "2019": 13928,
         "2020": 125434,
         "2021": 22700,
-        "2022": 13540,
+        "2022": 13541,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -424,14 +426,14 @@
         "US Senate": 51010,
         "US House": 41934,
         "Presidential": 38595,
-        "Local": 24910
+        "Local": 24911
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61653,
         "Issues and Programs Lists": 46109,
         "Equal Employment Opportunity Records": 37356,
         "Donor Lists - Applicable Only for NCEs": 11876,
-        "FCC Authorizations": 7333,
+        "FCC Authorizations": 7334,
         "Local Public Notice Announcements": 1886,
         "Availability of Signals": 1867,
         "Applications and Related Materials": 1688,
@@ -459,12 +461,12 @@
       "source_service_code": {
         "TV": 240693,
         "CABLE": 127695,
-        "FM": 114812,
-        "AM": 43198,
+        "FM": 114813,
+        "AM": 43199,
         "DBS": 5577
       },
       "political_file_type": {
-        "PA": 227952,
+        "PA": 227953,
         "NCIA": 126101
       }
     }
@@ -481,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 200,
-    "processTime": 209,
-    "responseTime": 209
+    "queryTime": 1772,
+    "processTime": 782,
+    "responseTime": 1783
   }
 }
