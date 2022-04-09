@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 531973,
+    "numFound": 531975,
     "start": 0,
     "maxScore": 0.5001638,
     "docs": [
+      {
+        "id": "2ea0974d-1551-b431-595d-709074f185c0",
+        "file_id": "2ea0974d-1551-b431-595d-709074f185c0",
+        "file_name": "WAMO NAB Fetterman for PA Ad Form 040822",
+        "file_extension": "pdf",
+        "file_size": 1778574,
+        "file_status": "com_cpy",
+        "folder_id": "3f7a6edb-185c-5fb3-66c3-cc7e687f59b8",
+        "create_ts": "2022-04-09T13:16:07.55Z",
+        "last_update_ts": "2022-04-09T13:17:37.323Z",
+        "active_ind": "Y",
+        "file_manager_id": "364d463b-c0ff-4d5a-a4b5-d20714f30cf2",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/WAMO NAB Fetterman for PA Ad Form 040822",
+        "entity_id": "25732",
+        "source_service_code": "AM",
+        "callsign": "WAMO",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1729636774382141400,
+        "score": 0.2499569
+      },
+      {
+        "id": "d2fde555-8bd8-8d8d-5056-c1fe2d35e775",
+        "file_id": "d2fde555-8bd8-8d8d-5056-c1fe2d35e775",
+        "file_name": "WAMO Fetterman for PA Order 040822",
+        "file_extension": "pdf",
+        "file_size": 15516,
+        "file_status": "com_cpy",
+        "folder_id": "3f7a6edb-185c-5fb3-66c3-cc7e687f59b8",
+        "create_ts": "2022-04-09T13:16:06.667Z",
+        "last_update_ts": "2022-04-09T13:15:50.418Z",
+        "active_ind": "Y",
+        "file_manager_id": "dc472b02-dbb6-44d0-84b9-56dfc69fa75d",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/WAMO Fetterman for PA Order 040822",
+        "entity_id": "25732",
+        "source_service_code": "AM",
+        "callsign": "WAMO",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1729636772827103200,
+        "score": 0.2499569
+      },
       {
         "id": "7ce80101-1513-0386-673c-2ad797e560a0",
         "file_id": "7ce80101-1513-0386-673c-2ad797e560a0",
@@ -191,48 +237,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1729589531057848300,
         "score": 0.00012497845
-      },
-      {
-        "id": "cf73dc18-4189-0e85-70de-27e91dcf9eb8",
-        "file_id": "cf73dc18-4189-0e85-70de-27e91dcf9eb8",
-        "file_name": "Page 1 Cover Sheet",
-        "file_extension": "pdf",
-        "file_size": 1055073,
-        "file_status": "com_cpy",
-        "folder_id": "652cee6b-9476-e427-9918-9a4fc0031126",
-        "create_ts": "2022-04-09T00:45:14.249Z",
-        "last_update_ts": "2022-04-09T00:44:58.533Z",
-        "active_ind": "Y",
-        "file_manager_id": "902969e2-b19c-404b-b554-2c3c299878ff",
-        "file_folder_path": "Issues and Programs Lists/2022/Qtr 1",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/Qtr 1/Page 1 Cover Sheet",
-        "entity_id": "72838",
-        "source_service_code": "FM",
-        "callsign": "KYYK",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729589532382199800,
-        "score": 0.00012497845
-      },
-      {
-        "id": "f794ee83-1ae4-ea0f-01ad-e56e32da70f5",
-        "file_id": "f794ee83-1ae4-ea0f-01ad-e56e32da70f5",
-        "file_name": "Page 2 Local and National PSAs",
-        "file_extension": "pdf",
-        "file_size": 56648,
-        "file_status": "com_cpy",
-        "folder_id": "652cee6b-9476-e427-9918-9a4fc0031126",
-        "create_ts": "2022-04-09T00:45:13.556Z",
-        "last_update_ts": "2022-04-09T00:44:57.439Z",
-        "active_ind": "Y",
-        "file_manager_id": "a278fadb-3d21-4487-bf68-2c0bbc184aad",
-        "file_folder_path": "Issues and Programs Lists/2022/Qtr 1",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/Qtr 1/Page 2 Local and National PSAs",
-        "entity_id": "72838",
-        "source_service_code": "FM",
-        "callsign": "KYYK",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729589531310555100,
-        "score": 0.00012497845
       }
     ],
     "facets": {
@@ -411,13 +415,13 @@
         "2019": 13928,
         "2020": 125434,
         "2021": 22700,
-        "2022": 13538,
+        "2022": 13540,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 70442,
-        "US Senate": 51008,
+        "US Senate": 51010,
         "US House": 41934,
         "Presidential": 38595,
         "Local": 24910
@@ -456,11 +460,11 @@
         "TV": 240693,
         "CABLE": 127695,
         "FM": 114812,
-        "AM": 43196,
+        "AM": 43198,
         "DBS": 5577
       },
       "political_file_type": {
-        "PA": 227950,
+        "PA": 227952,
         "NCIA": 126101
       }
     }
@@ -477,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1746,
-    "processTime": 757,
-    "responseTime": 1757
+    "queryTime": 1756,
+    "processTime": 764,
+    "responseTime": 1764
   }
 }
