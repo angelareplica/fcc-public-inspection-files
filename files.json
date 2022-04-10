@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 532059,
+    "numFound": 532061,
     "start": 0,
     "maxScore": 0.5001638,
     "docs": [
+      {
+        "id": "1bbe65c2-bba9-1242-ea3f-fa36b951a984",
+        "file_id": "1bbe65c2-bba9-1242-ea3f-fa36b951a984",
+        "file_name": "Quarterly Report WXHL-WXHM- WVBH - KXRL - WSRY 0422",
+        "file_extension": "docx",
+        "file_size": 22635,
+        "file_status": "com_prc",
+        "folder_id": "da300a72-04fd-68b0-93cd-1cfb6fd2ccc7",
+        "create_ts": "2022-04-10T23:23:26.118Z",
+        "last_update_ts": "2022-04-10T23:23:45.888Z",
+        "active_ind": "Y",
+        "file_manager_id": "79679276-0730-48f6-8241-98e0095dd24f",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/Quarterly Report WXHL-WXHM- WVBH - KXRL - WSRY 0422",
+        "entity_id": "21621",
+        "source_service_code": "AM",
+        "callsign": "WSRY",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729765596801794000,
+        "score": 0.2499569
+      },
+      {
+        "id": "76dbc079-ad20-0521-5c5c-5707d3a03964",
+        "file_id": "76dbc079-ad20-0521-5c5c-5707d3a03964",
+        "file_name": "WTBH Issues-Programs List (1st Quarter Jan 1 thru Mar 31, 2022)-040922",
+        "file_extension": "docx",
+        "file_size": 22912,
+        "file_status": "com_prc",
+        "folder_id": "9e460555-0c00-355a-2eef-f50f86fc7ca2",
+        "create_ts": "2022-04-10T23:08:12.216Z",
+        "last_update_ts": "2022-04-10T23:09:46.303Z",
+        "active_ind": "Y",
+        "file_manager_id": "7a06321b-9396-4a89-8f44-1aa303518efa",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/WTBH Issues-Programs List (1st Quarter Jan 1 thru Mar 31, 2022)-040922",
+        "entity_id": "38349",
+        "source_service_code": "FM",
+        "callsign": "WTBH",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729764622059176000,
+        "score": 0.2499569
+      },
       {
         "id": "d925ca1e-0bc0-0e73-ad5b-fec228135a4b",
         "file_id": "d925ca1e-0bc0-0e73-ad5b-fec228135a4b",
@@ -170,48 +212,6 @@
         "callsign": "KFLN",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1729762057978380300,
-        "score": 0.2499569
-      },
-      {
-        "id": "4bab3c7c-636c-1430-5b70-bfec5df483a6",
-        "file_id": "4bab3c7c-636c-1430-5b70-bfec5df483a6",
-        "file_name": "Talk around town 021422",
-        "file_extension": "pdf",
-        "file_size": 67311,
-        "file_status": "com_cpy",
-        "folder_id": "0492e114-2eb9-9306-4ab3-14cd0955ac7a",
-        "create_ts": "2022-04-10T22:27:27.704Z",
-        "last_update_ts": "2022-04-10T22:27:11.148Z",
-        "active_ind": "Y",
-        "file_manager_id": "8b8b42be-ec68-4660-ba5f-b21b02fb3a1b",
-        "file_folder_path": "Issues and Programs Lists/Q1 2022",
-        "full_qualified_file_name": "Issues and Programs Lists/Q1 2022/Talk around town 021422",
-        "entity_id": "48734",
-        "source_service_code": "AM",
-        "callsign": "KFLN",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729762057744547800,
-        "score": 0.2499569
-      },
-      {
-        "id": "60ea93a3-c235-9493-86dc-f3309ff7a5e8",
-        "file_id": "60ea93a3-c235-9493-86dc-f3309ff7a5e8",
-        "file_name": "Talk around town 013122",
-        "file_extension": "pdf",
-        "file_size": 65426,
-        "file_status": "com_cpy",
-        "folder_id": "3ee5d6f3-6269-2c78-8f0d-0a3959389cdc",
-        "create_ts": "2022-04-10T22:24:32.217Z",
-        "last_update_ts": "2022-04-10T22:26:05.256Z",
-        "active_ind": "Y",
-        "file_manager_id": "6130e31a-11ab-43de-8d03-5de57b97c4b4",
-        "file_folder_path": "Issues and Programs Lists/Q1 2022",
-        "full_qualified_file_name": "Issues and Programs Lists/Q1 2022/Talk around town 013122",
-        "entity_id": "88802",
-        "source_service_code": "FM",
-        "callsign": "KJJM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729761873772937200,
         "score": 0.2499569
       }
     ],
@@ -404,7 +404,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61653,
-        "Issues and Programs Lists": 46179,
+        "Issues and Programs Lists": 46181,
         "Equal Employment Opportunity Records": 37356,
         "Donor Lists - Applicable Only for NCEs": 11877,
         "FCC Authorizations": 7334,
@@ -435,8 +435,8 @@
       "source_service_code": {
         "TV": 240693,
         "CABLE": 127695,
-        "FM": 114861,
-        "AM": 43233,
+        "FM": 114862,
+        "AM": 43234,
         "DBS": 5577
       },
       "political_file_type": {
@@ -457,8 +457,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1766,
-    "processTime": 773,
-    "responseTime": 1774
+    "queryTime": 1779,
+    "processTime": 786,
+    "responseTime": 1787
   }
 }
