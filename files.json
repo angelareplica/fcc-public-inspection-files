@@ -463,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1788,
-    "processTime": 795,
-    "responseTime": 1795
+    "queryTime": 1757,
+    "processTime": 766,
+    "responseTime": 1766
   }
 }
