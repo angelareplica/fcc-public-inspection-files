@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 532034,
+    "numFound": 532035,
     "start": 0,
     "maxScore": 0.5001638,
     "docs": [
+      {
+        "id": "c0af112d-9793-7596-d3fa-0fd6e6f88c78",
+        "file_id": "c0af112d-9793-7596-d3fa-0fd6e6f88c78",
+        "file_name": "donor-lists-clarification-20211010-015900062",
+        "file_extension": "pdf",
+        "file_size": 74352,
+        "file_status": "com_cpy",
+        "folder_id": "3ca65d3e-b6dd-e679-f757-c9ae3b506153",
+        "create_ts": "2022-04-10T18:53:45.63Z",
+        "last_update_ts": "2022-04-10T18:53:29.04Z",
+        "active_ind": "Y",
+        "file_manager_id": "a9cfb0a5-e151-461e-8d6f-20d3f2f69cb2",
+        "file_folder_path": "Donor Lists - Applicable Only for NCEs",
+        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/donor-lists-clarification-20211010-015900062",
+        "entity_id": "18298",
+        "source_service_code": "FM",
+        "callsign": "WECS",
+        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
+        "_version_": 1729748612746838000,
+        "score": 0.2499569
+      },
       {
         "id": "b6d30511-b703-e545-5580-1166b86880c3",
         "file_id": "b6d30511-b703-e545-5580-1166b86880c3",
@@ -195,29 +216,6 @@
         "office_type": "State",
         "campaign_year": "2022",
         "_version_": 1729734667292115000,
-        "score": 0.2499569
-      },
-      {
-        "id": "0e4d2222-ea5f-367a-be75-4d121079bc31",
-        "file_id": "0e4d2222-ea5f-367a-be75-4d121079bc31",
-        "file_name": "WFXO-HD2-Ben Robbins-Ben Robbins for State House-Inv_22030127-033122",
-        "file_extension": "pdf",
-        "file_size": 10506,
-        "file_status": "com_cpy",
-        "folder_id": "6e8ddeaf-a4bc-60cf-5031-8cc71d64e055",
-        "create_ts": "2022-04-10T15:12:06.112Z",
-        "last_update_ts": "2022-04-10T15:11:49.588Z",
-        "active_ind": "Y",
-        "file_manager_id": "606b6ff7-7946-45b0-9a16-73a3df4c5e23",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/WFXO-HD2-Ben Robbins-Ben Robbins for State House-Inv_22030127-033122",
-        "entity_id": "704",
-        "source_service_code": "FM",
-        "callsign": "WFXO",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1729734667238637600,
         "score": 0.2499569
       }
     ],
@@ -412,7 +410,7 @@
         "Records Concerning Commercial Limits in Childrens Programs": 61653,
         "Issues and Programs Lists": 46161,
         "Equal Employment Opportunity Records": 37356,
-        "Donor Lists - Applicable Only for NCEs": 11876,
+        "Donor Lists - Applicable Only for NCEs": 11877,
         "FCC Authorizations": 7334,
         "Local Public Notice Announcements": 1886,
         "Availability of Signals": 1867,
@@ -441,7 +439,7 @@
       "source_service_code": {
         "TV": 240693,
         "CABLE": 127695,
-        "FM": 114847,
+        "FM": 114848,
         "AM": 43222,
         "DBS": 5577
       },
@@ -463,8 +461,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1757,
-    "processTime": 766,
-    "responseTime": 1766
+    "queryTime": 1825,
+    "processTime": 836,
+    "responseTime": 1836
   }
 }
