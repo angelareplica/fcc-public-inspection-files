@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 532032,
+    "numFound": 532034,
     "start": 0,
     "maxScore": 0.5001638,
     "docs": [
+      {
+        "id": "b6d30511-b703-e545-5580-1166b86880c3",
+        "file_id": "b6d30511-b703-e545-5580-1166b86880c3",
+        "file_name": "Qtrly Pgm Rpt [01-01-22--03-31-22]_WJVM-FM",
+        "file_extension": "pdf",
+        "file_size": 143884,
+        "file_status": "com_cpy",
+        "folder_id": "10f68053-52e7-4209-ae0f-6c26d9c674ad",
+        "create_ts": "2022-04-10T18:18:13.998Z",
+        "last_update_ts": "2022-04-10T18:17:57.563Z",
+        "active_ind": "Y",
+        "file_manager_id": "defa7f66-6ceb-46f4-9bbd-e86956f15e7f",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/Qtrly Pgm Rpt [01-01-22--03-31-22]_WJVM-FM",
+        "entity_id": "172335",
+        "source_service_code": "FM",
+        "callsign": "WJVM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729746377738551300,
+        "score": 0.2499569
+      },
+      {
+        "id": "3a6214c1-dc71-57c9-a483-01fbaec6b342",
+        "file_id": "3a6214c1-dc71-57c9-a483-01fbaec6b342",
+        "file_name": "2022 01-03",
+        "file_extension": "pdf",
+        "file_size": 68535,
+        "file_status": "com_cpy",
+        "folder_id": "75f91c56-c0a2-081a-8076-01c3cfda30f2",
+        "create_ts": "2022-04-10T17:53:03.529Z",
+        "last_update_ts": "2022-04-10T17:52:47.039Z",
+        "active_ind": "Y",
+        "file_manager_id": "b41010b1-9ee0-4934-8a24-5082485d5409",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/2022 01-03",
+        "entity_id": "8368",
+        "source_service_code": "FM",
+        "callsign": "KCSS",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729744793824657400,
+        "score": 0.2499569
+      },
       {
         "id": "bb498759-7487-905c-69d6-34bff677ac80",
         "file_id": "bb498759-7487-905c-69d6-34bff677ac80",
@@ -176,50 +218,6 @@
         "office_type": "State",
         "campaign_year": "2022",
         "_version_": 1729734667238637600,
-        "score": 0.2499569
-      },
-      {
-        "id": "5490e1a3-d871-e938-4ae6-07075853a924",
-        "file_id": "5490e1a3-d871-e938-4ae6-07075853a924",
-        "file_name": "WSGN-Tom Whatley-Friends of Tom Whatley-Inv_22030249-032722",
-        "file_extension": "pdf",
-        "file_size": 8743,
-        "file_status": "com_cpy",
-        "folder_id": "b3cf9b21-6a03-a46b-3f2e-7196ba831686",
-        "create_ts": "2022-04-10T15:10:52.929Z",
-        "last_update_ts": "2022-04-10T15:10:36.44Z",
-        "active_ind": "Y",
-        "file_manager_id": "85c9f679-9251-41f3-bd6e-dfac47944cfa",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/WSGN-Tom Whatley-Friends of Tom Whatley-Inv_22030249-032722",
-        "entity_id": "60762",
-        "source_service_code": "AM",
-        "callsign": "WSGN",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1729734590535303200,
-        "score": 0.2499569
-      },
-      {
-        "id": "810eff7e-8a5c-546c-cf98-ab027ab3b9a3",
-        "file_id": "810eff7e-8a5c-546c-cf98-ab027ab3b9a3",
-        "file_name": "05 WJZR NC_220101_220331_PgmContents",
-        "file_extension": "pdf",
-        "file_size": 65829,
-        "file_status": "com_cpy",
-        "folder_id": "5ed8a9d0-ce9f-84e4-206d-ffc6ae446476",
-        "create_ts": "2022-04-10T06:12:27.681Z",
-        "last_update_ts": "2022-04-10T06:13:58.765Z",
-        "active_ind": "Y",
-        "file_manager_id": "a5d5d081-1024-4935-ba49-6e503dcc7d85",
-        "file_folder_path": "Issues and Programs Lists/WJZR Issues and Programs 2022/Q1 2022",
-        "full_qualified_file_name": "Issues and Programs Lists/WJZR Issues and Programs 2022/Q1 2022/05 WJZR NC_220101_220331_PgmContents",
-        "entity_id": "49193",
-        "source_service_code": "FM",
-        "callsign": "WJZR",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729700715991924700,
         "score": 0.2499569
       }
     ],
@@ -412,7 +410,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61653,
-        "Issues and Programs Lists": 46159,
+        "Issues and Programs Lists": 46161,
         "Equal Employment Opportunity Records": 37356,
         "Donor Lists - Applicable Only for NCEs": 11876,
         "FCC Authorizations": 7334,
@@ -443,7 +441,7 @@
       "source_service_code": {
         "TV": 240693,
         "CABLE": 127695,
-        "FM": 114845,
+        "FM": 114847,
         "AM": 43222,
         "DBS": 5577
       },
@@ -465,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1755,
-    "processTime": 761,
-    "responseTime": 1762
+    "queryTime": 1788,
+    "processTime": 795,
+    "responseTime": 1795
   }
 }
