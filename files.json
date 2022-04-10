@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 532030,
+    "numFound": 532032,
     "start": 0,
     "maxScore": 0.5001638,
     "docs": [
+      {
+        "id": "bb498759-7487-905c-69d6-34bff677ac80",
+        "file_id": "bb498759-7487-905c-69d6-34bff677ac80",
+        "file_name": "WELE-InfoTrak quarterly report, 2022-01_29.5 min",
+        "file_extension": "pdf",
+        "file_size": 278162,
+        "file_status": "com_cpy",
+        "folder_id": "e2f8470c-00e5-a079-304c-93d56a8abb59",
+        "create_ts": "2022-04-10T17:40:07.636Z",
+        "last_update_ts": "2022-04-10T17:41:40.401Z",
+        "active_ind": "Y",
+        "file_manager_id": "b024d1e8-f7ce-4418-9de9-ced69d3902b4",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/WELE-InfoTrak quarterly report, 2022-01_29.5 min",
+        "entity_id": "72937",
+        "source_service_code": "AM",
+        "callsign": "WELE",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729743982592786400,
+        "score": 0.2499569
+      },
+      {
+        "id": "5a88053b-c2f8-aa1d-4337-3822e30aa68d",
+        "file_id": "5a88053b-c2f8-aa1d-4337-3822e30aa68d",
+        "file_name": "WELE-Medicare Moment quarterly report, 2022-01",
+        "file_extension": "pdf",
+        "file_size": 280230,
+        "file_status": "com_cpy",
+        "folder_id": "e2f8470c-00e5-a079-304c-93d56a8abb59",
+        "create_ts": "2022-04-10T17:39:58.947Z",
+        "last_update_ts": "2022-04-10T17:39:42.563Z",
+        "active_ind": "Y",
+        "file_manager_id": "4a39f7ff-4748-49fe-925c-221809ee63f9",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/WELE-Medicare Moment quarterly report, 2022-01",
+        "entity_id": "72937",
+        "source_service_code": "AM",
+        "callsign": "WELE",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729743971258728400,
+        "score": 0.2499569
+      },
       {
         "id": "1ccb508b-c4e8-d895-3b43-88435059a07f",
         "file_id": "1ccb508b-c4e8-d895-3b43-88435059a07f",
@@ -178,48 +220,6 @@
         "callsign": "WJZR",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1729700715991924700,
-        "score": 0.2499569
-      },
-      {
-        "id": "304f164d-9d70-16d1-1ad9-313ca077a483",
-        "file_id": "304f164d-9d70-16d1-1ad9-313ca077a483",
-        "file_name": "04 WJZR NB_220101_220331_PgmContents",
-        "file_extension": "pdf",
-        "file_size": 54472,
-        "file_status": "com_cpy",
-        "folder_id": "5ed8a9d0-ce9f-84e4-206d-ffc6ae446476",
-        "create_ts": "2022-04-10T06:12:27.156Z",
-        "last_update_ts": "2022-04-10T06:13:58.319Z",
-        "active_ind": "Y",
-        "file_manager_id": "eb9e80e5-dde1-4ada-949e-57479a7fc2c2",
-        "file_folder_path": "Issues and Programs Lists/WJZR Issues and Programs 2022/Q1 2022",
-        "full_qualified_file_name": "Issues and Programs Lists/WJZR Issues and Programs 2022/Q1 2022/04 WJZR NB_220101_220331_PgmContents",
-        "entity_id": "49193",
-        "source_service_code": "FM",
-        "callsign": "WJZR",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729700715527405600,
-        "score": 0.2499569
-      },
-      {
-        "id": "9545dbcd-d0a5-e953-cb26-30857734211f",
-        "file_id": "9545dbcd-d0a5-e953-cb26-30857734211f",
-        "file_name": "02 WJZR Q1_220101_220331_PgmSchedule",
-        "file_extension": "pdf",
-        "file_size": 73528,
-        "file_status": "com_cpy",
-        "folder_id": "5ed8a9d0-ce9f-84e4-206d-ffc6ae446476",
-        "create_ts": "2022-04-10T06:12:27.201Z",
-        "last_update_ts": "2022-04-10T06:13:58.319Z",
-        "active_ind": "Y",
-        "file_manager_id": "3afb1858-e0f0-4068-a69f-02c9496247f2",
-        "file_folder_path": "Issues and Programs Lists/WJZR Issues and Programs 2022/Q1 2022",
-        "full_qualified_file_name": "Issues and Programs Lists/WJZR Issues and Programs 2022/Q1 2022/02 WJZR Q1_220101_220331_PgmSchedule",
-        "entity_id": "49193",
-        "source_service_code": "FM",
-        "callsign": "WJZR",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729700715526357000,
         "score": 0.2499569
       }
     ],
@@ -412,7 +412,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61653,
-        "Issues and Programs Lists": 46157,
+        "Issues and Programs Lists": 46159,
         "Equal Employment Opportunity Records": 37356,
         "Donor Lists - Applicable Only for NCEs": 11876,
         "FCC Authorizations": 7334,
@@ -444,7 +444,7 @@
         "TV": 240693,
         "CABLE": 127695,
         "FM": 114845,
-        "AM": 43220,
+        "AM": 43222,
         "DBS": 5577
       },
       "political_file_type": {
@@ -465,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1810,
-    "processTime": 818,
-    "responseTime": 1818
+    "queryTime": 1755,
+    "processTime": 761,
+    "responseTime": 1762
   }
 }
