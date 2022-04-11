@@ -5,6 +5,27 @@
     "maxScore": 0.5001638,
     "docs": [
       {
+        "id": "62529a41-6c2b-87e8-5b5e-4288e32e31b2",
+        "file_id": "62529a41-6c2b-87e8-5b5e-4288e32e31b2",
+        "file_name": "2022-03-30_COZI_Aired_E_I_Shows_1Q22",
+        "file_extension": "pdf",
+        "file_size": 154293,
+        "file_status": "com_cpy",
+        "folder_id": "e7f1d141-bae5-4ed7-27ea-7525c1ca3f17",
+        "create_ts": "2022-04-07T19:19:28.487Z",
+        "last_update_ts": "2022-04-11T02:33:42.258Z",
+        "active_ind": "Y",
+        "file_manager_id": "4bc61f46-11ca-4226-81f9-c6b6648675ca",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/2022-03-30_COZI_Aired_E_I_Shows_1Q22",
+        "entity_id": "190120",
+        "source_service_code": "TV",
+        "callsign": "KAGW-CD",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729777546758717400,
+        "score": 0.2499569
+      },
+      {
         "id": "5530aac5-e5bd-0c81-5f26-3e1ba0190641",
         "file_id": "5530aac5-e5bd-0c81-5f26-3e1ba0190641",
         "file_name": "KPGX Issues & Programs Q1 2022",
@@ -191,27 +212,6 @@
         "callsign": "WXHM",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1729765865078915000,
-        "score": 0.2499569
-      },
-      {
-        "id": "76b06d2f-9420-c46c-d046-fbb7ffa43036",
-        "file_id": "76b06d2f-9420-c46c-d046-fbb7ffa43036",
-        "file_name": "Quarterly Report WXHL-WXHM- WVBH - KXRL - WSRY 0422",
-        "file_extension": "docx",
-        "file_size": 22635,
-        "file_status": "com_prc",
-        "folder_id": "c3c3ac53-eaf5-21ab-f97c-203eb7092034",
-        "create_ts": "2022-04-10T23:26:29.476Z",
-        "last_update_ts": "2022-04-10T23:26:34.842Z",
-        "active_ind": "Y",
-        "file_manager_id": "591cf4ec-7c6f-4e46-88fb-c1fb08a07771",
-        "file_folder_path": "Issues and Programs Lists/2022",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/Quarterly Report WXHL-WXHM- WVBH - KXRL - WSRY 0422",
-        "entity_id": "172314",
-        "source_service_code": "FM",
-        "callsign": "WXHM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729765773961855000,
         "score": 0.2499569
       }
     ],
@@ -457,8 +457,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1752,
-    "processTime": 761,
-    "responseTime": 1762
+    "queryTime": 1783,
+    "processTime": 791,
+    "responseTime": 1791
   }
 }
