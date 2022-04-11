@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 532073,
+    "numFound": 532075,
     "start": 0,
     "maxScore": 0.5001638,
     "docs": [
+      {
+        "id": "24c77827-7405-47e5-f3e8-84516d35e9aa",
+        "file_id": "24c77827-7405-47e5-f3e8-84516d35e9aa",
+        "file_name": "Matthew Burril political - 04 07 22",
+        "file_extension": "pdf",
+        "file_size": 746827,
+        "file_status": "com_cpy",
+        "folder_id": "3c04aeb1-513c-8181-fcd2-5fc8477f6060",
+        "create_ts": "2022-04-11T09:42:43.302Z",
+        "last_update_ts": "2022-04-11T09:44:18.007Z",
+        "active_ind": "Y",
+        "file_manager_id": "52e29ae1-a178-4f09-ac8e-8f1fbb363194",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Matthew Burril political - 04 07 22",
+        "entity_id": "170936",
+        "source_service_code": "FM",
+        "callsign": "WPFT",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1729804541830889500,
+        "score": 0.2499569
+      },
+      {
+        "id": "be15a5df-9816-4b50-57ab-305c5faea042",
+        "file_id": "be15a5df-9816-4b50-57ab-305c5faea042",
+        "file_name": "Matthew Burril political - 04 07 22",
+        "file_extension": "pdf",
+        "file_size": 746827,
+        "file_status": "com_cpy",
+        "folder_id": "8d119913-56ff-a9bb-6e5b-5540776c76ba",
+        "create_ts": "2022-04-11T09:41:03.735Z",
+        "last_update_ts": "2022-04-11T09:41:07.142Z",
+        "active_ind": "Y",
+        "file_manager_id": "c4e127b7-a136-4220-b20e-011eab924243",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Matthew Burril political - 04 07 22",
+        "entity_id": "17059",
+        "source_service_code": "FM",
+        "callsign": "WSEV-FM",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1729804437356019700,
+        "score": 0.2499569
+      },
       {
         "id": "c9d2ed6f-8857-6fbf-1141-42c3844f02ba",
         "file_id": "c9d2ed6f-8857-6fbf-1141-42c3844f02ba",
@@ -171,48 +217,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1729768151637295000,
         "score": 0.00012497845
-      },
-      {
-        "id": "ea822607-c867-6e2a-c3db-cf9c9e3089a9",
-        "file_id": "ea822607-c867-6e2a-c3db-cf9c9e3089a9",
-        "file_name": "Quarterly Report WXHL-WXHM- WVBH - KXRL - WSRY 0422",
-        "file_extension": "docx",
-        "file_size": 22635,
-        "file_status": "com_prc",
-        "folder_id": "1b417348-4bb1-d5ba-2470-838b0c5de485",
-        "create_ts": "2022-04-10T23:33:34.624Z",
-        "last_update_ts": "2022-04-10T23:35:08.66Z",
-        "active_ind": "Y",
-        "file_manager_id": "7aea5170-8ac2-402d-b435-bd79e470e519",
-        "file_folder_path": "Issues and Programs Lists/2022",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/Quarterly Report WXHL-WXHM- WVBH - KXRL - WSRY 0422",
-        "entity_id": "91227",
-        "source_service_code": "FM",
-        "callsign": "KXRL",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729766218310615000,
-        "score": 0.2499569
-      },
-      {
-        "id": "6f20e3a7-6ce1-c530-a12b-930bd8ab31a8",
-        "file_id": "6f20e3a7-6ce1-c530-a12b-930bd8ab31a8",
-        "file_name": "Quarterly Report WXHL-WXHM- WVBH - KXRL - WSRY 0422",
-        "file_extension": "docx",
-        "file_size": 22635,
-        "file_status": "com_prc",
-        "folder_id": "d5c9dcca-b087-c97e-3b56-8c9b27336114",
-        "create_ts": "2022-04-10T23:31:43.674Z",
-        "last_update_ts": "2022-04-10T23:33:18.521Z",
-        "active_ind": "Y",
-        "file_manager_id": "2c5a9009-3bc4-4143-a9da-88bdc0ff019c",
-        "file_folder_path": "Issues and Programs Lists/2022",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/Quarterly Report WXHL-WXHM- WVBH - KXRL - WSRY 0422",
-        "entity_id": "89740",
-        "source_service_code": "FM",
-        "callsign": "WVBH",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729766102822551600,
-        "score": 0.2499569
       }
     ],
     "facets": {
@@ -391,14 +395,14 @@
         "2019": 13928,
         "2020": 125434,
         "2021": 22700,
-        "2022": 13552,
+        "2022": 13554,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 70451,
         "US Senate": 51011,
-        "US House": 41934,
+        "US House": 41936,
         "Presidential": 38595,
         "Local": 24912
       },
@@ -435,12 +439,12 @@
       "source_service_code": {
         "TV": 240693,
         "CABLE": 127695,
-        "FM": 114873,
+        "FM": 114875,
         "AM": 43235,
         "DBS": 5577
       },
       "political_file_type": {
-        "PA": 227964,
+        "PA": 227966,
         "NCIA": 126101
       }
     }
@@ -457,8 +461,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 215,
-    "responseTime": 216
+    "queryTime": 1793,
+    "processTime": 799,
+    "responseTime": 1800
   }
 }
