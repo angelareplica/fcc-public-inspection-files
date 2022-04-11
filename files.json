@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 532089,
+    "numFound": 532090,
     "start": 0,
     "maxScore": 0.5001638,
     "docs": [
+      {
+        "id": "9e71c1ae-874c-4bb0-4a92-adabb33b03b4",
+        "file_id": "9e71c1ae-874c-4bb0-4a92-adabb33b03b4",
+        "file_name": "DOC041122wpon.1.2022-04112022092147",
+        "file_extension": "pdf",
+        "file_size": 19805,
+        "file_status": "com_cpy",
+        "folder_id": "29ca06c7-31ca-a433-fef6-7487ad5dbabc",
+        "create_ts": "2022-04-11T13:37:54.214Z",
+        "last_update_ts": "2022-04-11T13:38:21.774Z",
+        "active_ind": "Y",
+        "file_manager_id": "1fb4c211-e5c4-4dd6-80c3-086743bfcd7a",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/DOC041122wpon.1.2022-04112022092147",
+        "entity_id": "22045",
+        "source_service_code": "AM",
+        "callsign": "WPON",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729819363456843800,
+        "score": 0.2499569
+      },
       {
         "id": "f4db1f6c-1ddd-396d-8d4b-4553b7721d13",
         "file_id": "f4db1f6c-1ddd-396d-8d4b-4553b7721d13",
@@ -203,27 +224,6 @@
         "campaign_year": "2022",
         "_version_": 1729816926595580000,
         "score": 0.2499569
-      },
-      {
-        "id": "9a5f4291-38c8-756e-ca87-1ac478700570",
-        "file_id": "9a5f4291-38c8-756e-ca87-1ac478700570",
-        "file_name": "0403-0409",
-        "file_extension": "docx",
-        "file_size": 62812,
-        "file_status": "com_prc",
-        "folder_id": "0fee1370-ce01-59a6-a3fb-6c0076b88ade",
-        "create_ts": "2022-04-11T12:56:01.254Z",
-        "last_update_ts": "2022-04-11T12:57:52.577Z",
-        "active_ind": "Y",
-        "file_manager_id": "64083468-6e03-4761-a41a-d04296139ff0",
-        "file_folder_path": "Issues and Programs Lists/2022/2022 Q2",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/2022 Q2/0403-0409",
-        "entity_id": "15349",
-        "source_service_code": "FM",
-        "callsign": "KHLL",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729816720190734300,
-        "score": 0.2499569
       }
     ],
     "facets": {
@@ -415,7 +415,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61653,
-        "Issues and Programs Lists": 46199,
+        "Issues and Programs Lists": 46200,
         "Equal Employment Opportunity Records": 37357,
         "Donor Lists - Applicable Only for NCEs": 11877,
         "FCC Authorizations": 7336,
@@ -447,7 +447,7 @@
         "TV": 240697,
         "CABLE": 127695,
         "FM": 114881,
-        "AM": 43239,
+        "AM": 43240,
         "DBS": 5577
       },
       "political_file_type": {
@@ -468,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 205,
-    "processTime": 212,
-    "responseTime": 212
+    "queryTime": 216,
+    "processTime": 223,
+    "responseTime": 223
   }
 }
