@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 532071,
+    "numFound": 532073,
     "start": 0,
     "maxScore": 0.5001638,
     "docs": [
+      {
+        "id": "c9d2ed6f-8857-6fbf-1141-42c3844f02ba",
+        "file_id": "c9d2ed6f-8857-6fbf-1141-42c3844f02ba",
+        "file_name": "FCC QUARTERLY REPORT JANUARY 01 2022 TO MARCH 31, 2022",
+        "file_extension": "docx",
+        "file_size": 25507,
+        "file_status": "com_prc",
+        "folder_id": "173c6eb8-97ac-9d65-73e7-1f5aafed3a43",
+        "create_ts": "2022-04-11T04:52:48.042Z",
+        "last_update_ts": "2022-04-11T04:52:48.099Z",
+        "active_ind": "Y",
+        "file_manager_id": "f12070ec-f4df-454f-a153-031ca8d53c7b",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/FCC QUARTERLY REPORT JANUARY 01 2022 TO MARCH 31, 2022",
+        "entity_id": "36185",
+        "source_service_code": "AM",
+        "callsign": "KZUE",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729786318648508400,
+        "score": 0.2499569
+      },
+      {
+        "id": "b04b1f86-d216-24db-39f3-926bdb8a9c82",
+        "file_id": "b04b1f86-d216-24db-39f3-926bdb8a9c82",
+        "file_name": "202201-03_Community_Issue",
+        "file_extension": "pdf",
+        "file_size": 763438,
+        "file_status": "com_cpy",
+        "folder_id": "c1706bf7-75c9-f418-5513-dea9941b077f",
+        "create_ts": "2022-04-11T04:50:42.677Z",
+        "last_update_ts": "2022-04-11T04:50:46.107Z",
+        "active_ind": "Y",
+        "file_manager_id": "54e839c1-f689-474a-b95a-e748e8cd9a8c",
+        "file_folder_path": "Issues and Programs Lists/2022 IP",
+        "full_qualified_file_name": "Issues and Programs Lists/2022 IP/202201-03_Community_Issue",
+        "entity_id": "176877",
+        "source_service_code": "FM",
+        "callsign": "KSDQ",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729786170086260700,
+        "score": 0.2499569
+      },
       {
         "id": "62529a41-6c2b-87e8-5b5e-4288e32e31b2",
         "file_id": "62529a41-6c2b-87e8-5b5e-4288e32e31b2",
@@ -170,48 +212,6 @@
         "callsign": "WVBH",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1729766102822551600,
-        "score": 0.2499569
-      },
-      {
-        "id": "e85d7c32-c829-706c-73b9-5e6f2a90e92d",
-        "file_id": "e85d7c32-c829-706c-73b9-5e6f2a90e92d",
-        "file_name": "Quarterly Report WXHL-WXHM- WVBH - KXRL - WSRY 0422",
-        "file_extension": "docx",
-        "file_size": 22635,
-        "file_status": "com_prc",
-        "folder_id": "ef3d9a97-7fd8-49dd-61be-91a3da86fd99",
-        "create_ts": "2022-04-10T23:29:56.032Z",
-        "last_update_ts": "2022-04-10T23:30:01.405Z",
-        "active_ind": "Y",
-        "file_manager_id": "bd8d69d6-371f-4d42-9049-2fc1aee082e1",
-        "file_folder_path": "Issues and Programs Lists/2022",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/Quarterly Report WXHL-WXHM- WVBH - KXRL - WSRY 0422",
-        "entity_id": "73763",
-        "source_service_code": "FM",
-        "callsign": "WXHL-FM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729765990557810700,
-        "score": 0.2499569
-      },
-      {
-        "id": "7054bb1d-d965-b5ff-1176-85b890b56b59",
-        "file_id": "7054bb1d-d965-b5ff-1176-85b890b56b59",
-        "file_name": "Quarterly Report WXHL-WXHM- WVBH - KXRL - WSRY 0422",
-        "file_extension": "docx",
-        "file_size": 22635,
-        "file_status": "com_prc",
-        "folder_id": "20768f72-c815-e886-d590-56ab94b993e4",
-        "create_ts": "2022-04-10T23:27:55.985Z",
-        "last_update_ts": "2022-04-10T23:27:42.096Z",
-        "active_ind": "Y",
-        "file_manager_id": "c8f37040-c3b0-449b-acfa-1ea71e7660e7",
-        "file_folder_path": "Issues and Programs Lists/2022",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/Quarterly Report WXHL-WXHM- WVBH - KXRL - WSRY 0422",
-        "entity_id": "172314",
-        "source_service_code": "FM",
-        "callsign": "WXHM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729765865078915000,
         "score": 0.2499569
       }
     ],
@@ -404,7 +404,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61653,
-        "Issues and Programs Lists": 46189,
+        "Issues and Programs Lists": 46191,
         "Equal Employment Opportunity Records": 37356,
         "Donor Lists - Applicable Only for NCEs": 11877,
         "FCC Authorizations": 7336,
@@ -435,8 +435,8 @@
       "source_service_code": {
         "TV": 240693,
         "CABLE": 127695,
-        "FM": 114872,
-        "AM": 43234,
+        "FM": 114873,
+        "AM": 43235,
         "DBS": 5577
       },
       "political_file_type": {
@@ -457,8 +457,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1774,
-    "processTime": 781,
-    "responseTime": 1781
+    "queryTime": 1759,
+    "processTime": 772,
+    "responseTime": 1772
   }
 }
