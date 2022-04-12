@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 532528,
+    "numFound": 532529,
     "start": 0,
     "maxScore": 0.5001638,
     "docs": [
+      {
+        "id": "542a53b4-2bcf-08a1-897c-7e716c8238de",
+        "file_id": "542a53b4-2bcf-08a1-897c-7e716c8238de",
+        "file_name": "Pol Friends of Dave White R Gov PA_INVOICE_915741",
+        "file_extension": "pdf",
+        "file_size": 373737,
+        "file_status": "com_cpy",
+        "folder_id": "696b8dbf-f593-23f9-9272-d86d74a1a856",
+        "create_ts": "2022-04-12T10:45:06.984Z",
+        "last_update_ts": "2022-04-12T10:46:44.449Z",
+        "active_ind": "Y",
+        "file_manager_id": "73e0de8c-b4c7-4689-bc59-9f9435d54fb7",
+        "file_folder_path": "Political Files/2022/State/Governor/Pol Friends of David White R GOV PA/915741-0228-0306",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Pol Friends of David White R GOV PA/915741-0228-0306/Pol Friends of Dave White R Gov PA_INVOICE_915741",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1729899064223334400,
+        "score": 0.2499569
+      },
       {
         "id": "d7faaded-a8a7-90d0-e129-378016e8a220",
         "file_id": "d7faaded-a8a7-90d0-e129-378016e8a220",
@@ -224,30 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1729879907437117400,
         "score": 0.2499569
-      },
-      {
-        "id": "0acad7c4-57a2-07c8-f0d7-4c83ab08a301",
-        "file_id": "0acad7c4-57a2-07c8-f0d7-4c83ab08a301",
-        "file_name": "Better Jobs Together KBNZ 27761663 Est 10786 26863 MG 1 040722",
-        "file_extension": "pdf",
-        "file_size": 10249,
-        "file_status": "com_cpy",
-        "folder_id": "77d6e262-040f-571a-710c-b3ec8ddf2ca3",
-        "create_ts": "2022-04-12T05:40:37.899Z",
-        "last_update_ts": "2022-04-12T05:40:41.029Z",
-        "active_ind": "Y",
-        "file_manager_id": "88f3fbb9-f6a2-4269-b396-b1150e411421",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Better Jobs Together",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Better Jobs Together/Better Jobs Together KBNZ 27761663 Est 10786 26863 MG 1 040722",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1729879907439214600,
-        "score": 0.2499569
       }
     ],
     "facets": {
@@ -256,7 +257,7 @@
         "WILKES BARRE-SCRANTON": 7403,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7043,
         "LAS VEGAS": 6255,
-        "PITTSBURGH": 5930,
+        "PITTSBURGH": 5931,
         "WEST PALM BEACH-FT. PIERCE": 5788,
         "HONOLULU": 5221,
         "DULUTH-SUPERIOR": 4656,
@@ -355,7 +356,7 @@
       },
       "network_affiliation": {
         "ABC": 58866,
-        "NBC": 57483,
+        "NBC": 57484,
         "CBS": 39542,
         "FOX": 28402,
         "PBS": 14689,
@@ -426,12 +427,12 @@
         "2019": 13928,
         "2020": 125413,
         "2021": 22700,
-        "2022": 13921,
+        "2022": 13922,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 70578,
+        "State": 70579,
         "US Senate": 51051,
         "US House": 41987,
         "Presidential": 38585,
@@ -468,14 +469,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 240945,
+        "TV": 240946,
         "CABLE": 127731,
         "FM": 114980,
         "AM": 43288,
         "DBS": 5584
       },
       "political_file_type": {
-        "PA": 228220,
+        "PA": 228221,
         "NCIA": 126184
       }
     }
@@ -492,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 215,
-    "responseTime": 216
+    "queryTime": 1795,
+    "processTime": 804,
+    "responseTime": 1804
   }
 }
