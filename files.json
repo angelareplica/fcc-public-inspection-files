@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 532944,
+    "numFound": 532946,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "f261e408-f1a2-58a4-b852-89acf778ea2a",
+        "file_id": "f261e408-f1a2-58a4-b852-89acf778ea2a",
+        "file_name": "dlc-media-wo-streaming-service-agreement_2017-05-22_fe-20200403-193011585-pdf",
+        "file_extension": "pdf",
+        "file_size": 779179,
+        "file_status": "com_cpy",
+        "folder_id": "c6f720f4-d418-0f85-c48d-41a42cce9a33",
+        "create_ts": "2022-04-13T05:14:52.803Z",
+        "last_update_ts": "2022-04-13T05:14:36.32Z",
+        "active_ind": "Y",
+        "file_manager_id": "918c11e0-b60c-4980-bedf-05987b20dfff",
+        "file_folder_path": "Ownership Reports/Additional Documents/Contracts and Agreements",
+        "full_qualified_file_name": "Ownership Reports/Additional Documents/Contracts and Agreements/dlc-media-wo-streaming-service-agreement_2017-05-22_fe-20200403-193011585-pdf",
+        "entity_id": "68824",
+        "source_service_code": "FM",
+        "callsign": "WVIG",
+        "non_political_file_folder": "Ownership Reports",
+        "_version_": 1729968884825456600,
+        "score": 0.24995688
+      },
+      {
+        "id": "613ac1e3-22f3-9430-c065-251809c2c087",
+        "file_id": "613ac1e3-22f3-9430-c065-251809c2c087",
+        "file_name": "dlc-media-wo-streaming-service-agreement_2017-05-22_fe-20200403-193011585-pdf",
+        "file_extension": "pdf",
+        "file_size": 779179,
+        "file_status": "com_cpy",
+        "folder_id": "de805d6f-cdf4-b11c-e71d-7782d67e5316",
+        "create_ts": "2022-04-13T04:57:07.834Z",
+        "last_update_ts": "2022-04-13T04:57:11.215Z",
+        "active_ind": "Y",
+        "file_manager_id": "efc22fd0-efa9-4ab1-8586-cc93c6ccaf16",
+        "file_folder_path": "Ownership Reports/Additional Documents/Contracts and Agreements",
+        "full_qualified_file_name": "Ownership Reports/Additional Documents/Contracts and Agreements/dlc-media-wo-streaming-service-agreement_2017-05-22_fe-20200403-193011585-pdf",
+        "entity_id": "36787",
+        "source_service_code": "FM",
+        "callsign": "WAKO-FM",
+        "non_political_file_folder": "Ownership Reports",
+        "_version_": 1729967767823581200,
+        "score": 0.24995688
+      },
       {
         "id": "f137abab-b5ce-93fe-bef4-3f860c4b6cce",
         "file_id": "f137abab-b5ce-93fe-bef4-3f860c4b6cce",
@@ -170,50 +212,6 @@
         "callsign": "KJIW-FM",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1729966437250891800,
-        "score": 0.24995688
-      },
-      {
-        "id": "47ead622-557d-2b1e-27a0-a5a2a0fe4e62",
-        "file_id": "47ead622-557d-2b1e-27a0-a5a2a0fe4e62",
-        "file_name": "InfoTrak 1ST quarterly report  2022-01_29.5 min",
-        "file_extension": "pdf",
-        "file_size": 248324,
-        "file_status": "com_cpy",
-        "folder_id": "b2f032e9-b8ae-0d95-10d2-4f733d0bad97",
-        "create_ts": "2022-04-13T03:07:56.679Z",
-        "last_update_ts": "2022-04-13T03:09:36.514Z",
-        "active_ind": "Y",
-        "file_manager_id": "866c5e38-5de5-4afc-a4e2-6dfc67cbe47d",
-        "file_folder_path": "Issues and Programs Lists/2022/1ST QTR 2022",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/1ST QTR 2022/InfoTrak 1ST quarterly report  2022-01_29.5 min",
-        "entity_id": "27434",
-        "source_service_code": "AM",
-        "callsign": "WHOG",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1729960899050995700,
-        "score": 0.24995688
-      },
-      {
-        "id": "a04e440d-7653-ad9e-8f56-a4bf38c59de1",
-        "file_id": "a04e440d-7653-ad9e-8f56-a4bf38c59de1",
-        "file_name": "2022-04-12_R1DC NAB WMG",
-        "file_extension": "pdf",
-        "file_size": 2390162,
-        "file_status": "com_cpy",
-        "folder_id": "63dda39c-8bbf-4d59-0b1b-e75a14eb7e65",
-        "create_ts": "2022-04-13T01:45:04.711Z",
-        "last_update_ts": "2022-04-13T01:45:08.601Z",
-        "active_ind": "Y",
-        "file_manager_id": "15ec6049-b711-4c96-8f44-d2e8f7e9d2bc",
-        "file_folder_path": "Political Files/2022/State/Wes Moore for Governor/Wes Moore for Governor - 2",
-        "full_qualified_file_name": "Political Files/2022/State/Wes Moore for Governor/Wes Moore for Governor - 2/2022-04-12_R1DC NAB WMG",
-        "entity_id": "74212",
-        "source_service_code": "FM",
-        "callsign": "WPRS-FM",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1729955685487083500,
         "score": 0.24995688
       }
     ],
@@ -416,7 +414,7 @@
         "FCC Investigations or Complaints": 1519,
         "Must-Carry or Retransmission Consent": 1304,
         "Childrens TV Programming Reports": 1160,
-        "Ownership Reports": 1114,
+        "Ownership Reports": 1116,
         "Class A TV Continuing Eligibility": 655,
         "Political Matters and Controversial Issues Disclosures": 628,
         "State and Local Franchising Related Materials": 497,
@@ -437,7 +435,7 @@
       "source_service_code": {
         "TV": 241127,
         "CABLE": 127819,
-        "FM": 115059,
+        "FM": 115061,
         "AM": 43355,
         "DBS": 5584
       },
@@ -459,8 +457,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1759,
-    "processTime": 767,
-    "responseTime": 1767
+    "queryTime": 1762,
+    "processTime": 773,
+    "responseTime": 1774
   }
 }
