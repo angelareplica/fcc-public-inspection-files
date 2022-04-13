@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 533521,
+    "numFound": 533523,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "d77ca7c3-f861-ccac-2b48-ac99a2c777a7",
+        "file_id": "d77ca7c3-f861-ccac-2b48-ac99a2c777a7",
+        "file_name": "Glenneda Zuiderveld for State Senate Distrcit 24 order 3275349 041822-051722",
+        "file_extension": "pdf",
+        "file_size": 2108900,
+        "file_status": "com_cpy",
+        "folder_id": "e7b927c7-6aab-0e2f-f977-cf3fcef71c35",
+        "create_ts": "2022-04-13T22:51:26.227Z",
+        "last_update_ts": "2022-04-13T22:51:30.094Z",
+        "active_ind": "Y",
+        "file_manager_id": "1f131e8c-c68b-4794-821d-d1cda18e99cc",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/Glenneda Zuiderveld for State Senate Distrcit 24 order 3275349 041822-051722",
+        "entity_id": "3403",
+        "source_service_code": "FM",
+        "callsign": "KEZJ-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1730035357885399000,
+        "score": 0.24995688
+      },
+      {
+        "id": "39f5f74a-1cb5-e069-0308-b470f9fab755",
+        "file_id": "39f5f74a-1cb5-e069-0308-b470f9fab755",
+        "file_name": "Glenneda Zuiderveld for State Senate Distrcit 24 order 3275349 041822-051722",
+        "file_extension": "pdf",
+        "file_size": 2108900,
+        "file_status": "com_cpy",
+        "folder_id": "de0b0f9c-3b19-b803-58eb-dd1adbf6cd57",
+        "create_ts": "2022-04-13T22:49:59.737Z",
+        "last_update_ts": "2022-04-13T22:50:03.793Z",
+        "active_ind": "Y",
+        "file_manager_id": "e79d3d70-103f-41fb-bdba-c63cd0aee8a9",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/Glenneda Zuiderveld for State Senate Distrcit 24 order 3275349 041822-051722",
+        "entity_id": "3404",
+        "source_service_code": "AM",
+        "callsign": "KLIX",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1730035267388047400,
+        "score": 0.24995688
+      },
       {
         "id": "d7b90320-957d-e52f-9639-dcc0bc07c52e",
         "file_id": "d7b90320-957d-e52f-9639-dcc0bc07c52e",
@@ -188,53 +234,6 @@
         "campaign_year": "2022",
         "_version_": 1730032978373902300,
         "score": 0.24995688
-      },
-      {
-        "id": "9075a4f2-fe0e-1984-5ba1-9f582a919af5",
-        "file_id": "9075a4f2-fe0e-1984-5ba1-9f582a919af5",
-        "file_name": "T.W. Shannon for US Senate 04.18.22-04.24.22 #140826",
-        "file_extension": "pdf",
-        "file_size": 3360572,
-        "file_status": "com_cpy",
-        "folder_id": "32931e2b-7aa5-53bd-d03d-4ee49bdfb3a4",
-        "create_ts": "2022-04-13T22:14:28.153Z",
-        "last_update_ts": "2022-04-13T22:14:12.038Z",
-        "active_ind": "Y",
-        "file_manager_id": "753ccad1-e952-442f-85e2-0b06505773aa",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/TW Shannon for US Senate",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/TW Shannon for US Senate/T.W. Shannon for US Senate 04.18.22-04.24.22 #140826",
-        "entity_id": "25382",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "OKLAHOMA CITY",
-        "callsign": "KWTV-DT",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1730033032381857800,
-        "score": 0.24995688
-      },
-      {
-        "id": "132e474a-1cee-54b9-6b5c-eca88590aef8",
-        "file_id": "132e474a-1cee-54b9-6b5c-eca88590aef8",
-        "file_name": "End Citizens United - Let America Vote Action Fund 1640-001 WXCC",
-        "file_extension": "pdf",
-        "file_size": 4152510,
-        "file_status": "com_cpy",
-        "folder_id": "f3f2ab00-930c-d222-a3c2-8d1c9205902c",
-        "create_ts": "2022-04-13T22:13:29.233Z",
-        "last_update_ts": "2022-04-13T22:13:34.079Z",
-        "active_ind": "Y",
-        "file_manager_id": "9dbb8d8a-20c2-43c8-b893-844af34c407c",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/End Citizens United - Let America Vote Action Fund 1640-001 WXCC",
-        "entity_id": "26393",
-        "source_service_code": "FM",
-        "callsign": "WXCC",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1730032971302305800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -413,12 +412,12 @@
         "2019": 13924,
         "2020": 125377,
         "2021": 22700,
-        "2022": 14923,
+        "2022": 14925,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 70797,
+        "State": 70799,
         "US Senate": 51120,
         "US House": 42041,
         "Presidential": 38568,
@@ -457,12 +456,12 @@
       "source_service_code": {
         "TV": 241251,
         "CABLE": 128154,
-        "FM": 115114,
-        "AM": 43411,
+        "FM": 115115,
+        "AM": 43412,
         "DBS": 5591
       },
       "political_file_type": {
-        "PA": 228997,
+        "PA": 228999,
         "NCIA": 126369
       }
     }
@@ -479,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 217,
-    "processTime": 225,
-    "responseTime": 226
+    "queryTime": 1776,
+    "processTime": 784,
+    "responseTime": 1785
   }
 }
