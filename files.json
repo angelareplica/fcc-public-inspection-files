@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 532935,
+    "numFound": 532936,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "47ead622-557d-2b1e-27a0-a5a2a0fe4e62",
+        "file_id": "47ead622-557d-2b1e-27a0-a5a2a0fe4e62",
+        "file_name": "InfoTrak 1ST quarterly report  2022-01_29.5 min",
+        "file_extension": "pdf",
+        "file_size": 248324,
+        "file_status": "com_cpy",
+        "folder_id": "b2f032e9-b8ae-0d95-10d2-4f733d0bad97",
+        "create_ts": "2022-04-13T03:07:56.679Z",
+        "last_update_ts": "2022-04-13T03:09:36.514Z",
+        "active_ind": "Y",
+        "file_manager_id": "866c5e38-5de5-4afc-a4e2-6dfc67cbe47d",
+        "file_folder_path": "Issues and Programs Lists/2022/1ST QTR 2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/1ST QTR 2022/InfoTrak 1ST quarterly report  2022-01_29.5 min",
+        "entity_id": "27434",
+        "source_service_code": "AM",
+        "callsign": "WHOG",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1729960899050995700,
+        "score": 0.24995688
+      },
       {
         "id": "a04e440d-7653-ad9e-8f56-a4bf38c59de1",
         "file_id": "a04e440d-7653-ad9e-8f56-a4bf38c59de1",
@@ -206,29 +227,6 @@
         "campaign_year": "2022",
         "_version_": 1729953813686648800,
         "score": 0.24995688
-      },
-      {
-        "id": "6c71ff3b-4ebf-a362-aac9-28089be94b04",
-        "file_id": "6c71ff3b-4ebf-a362-aac9-28089be94b04",
-        "file_name": "FCC Steve Towns for Commissioner Form 04.12.22",
-        "file_extension": "pdf",
-        "file_size": 314074,
-        "file_status": "com_cpy",
-        "folder_id": "848b53b6-e851-89c9-3d90-f3baa790fe65",
-        "create_ts": "2022-04-13T01:16:14.018Z",
-        "last_update_ts": "2022-04-13T01:15:57.213Z",
-        "active_ind": "Y",
-        "file_manager_id": "bce45808-1b0e-4123-b8b8-c413a0632239",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/FCC Steve Towns for Commissioner Form 04.12.22",
-        "entity_id": "72784",
-        "source_service_code": "AM",
-        "callsign": "WQCT",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1729953870116814800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -420,7 +418,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
-        "Issues and Programs Lists": 46259,
+        "Issues and Programs Lists": 46260,
         "Equal Employment Opportunity Records": 37378,
         "Donor Lists - Applicable Only for NCEs": 11882,
         "FCC Authorizations": 7337,
@@ -452,7 +450,7 @@
         "TV": 241127,
         "CABLE": 127819,
         "FM": 115051,
-        "AM": 43354,
+        "AM": 43355,
         "DBS": 5584
       },
       "political_file_type": {
@@ -473,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1789,
-    "processTime": 797,
-    "responseTime": 1798
+    "queryTime": 1794,
+    "processTime": 806,
+    "responseTime": 1807
   }
 }
