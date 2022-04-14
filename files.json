@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 533692,
+    "numFound": 533693,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "815265b5-0017-0474-0763-555aa0e6d048",
+        "file_id": "815265b5-0017-0474-0763-555aa0e6d048",
+        "file_name": "Kevin Kiley for Congress (CD 03)",
+        "file_extension": "pdf",
+        "file_size": 1003086,
+        "file_status": "com_cpy",
+        "folder_id": "4ae2bdff-ef12-af0b-a7bf-6ef7966ce5e3",
+        "create_ts": "2022-04-14T03:49:33.669Z",
+        "last_update_ts": "2022-04-14T03:49:16.802Z",
+        "active_ind": "Y",
+        "file_manager_id": "5a6615c8-3b18-417b-bdf3-408ca67b4acd",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Kevin Kiley for Congress",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Kevin Kiley for Congress/Kevin Kiley for Congress (CD 03)",
+        "entity_id": "48341",
+        "source_service_code": "AM",
+        "callsign": "KAHI",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1730054113819885600,
+        "score": 0.24995688
+      },
       {
         "id": "430228f8-21d6-f50e-8496-e52b449e759e",
         "file_id": "430228f8-21d6-f50e-8496-e52b449e759e",
@@ -226,31 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1730047025714561000,
         "score": 0.00012497844
-      },
-      {
-        "id": "502f6a02-a91a-3c1d-dc1d-57009639cf3e",
-        "file_id": "502f6a02-a91a-3c1d-dc1d-57009639cf3e",
-        "file_name": "698837_Order_Contract_20220413122155",
-        "file_extension": "pdf",
-        "file_size": 446715,
-        "file_status": "com_cpy",
-        "folder_id": "8c60f30d-5aab-f745-5e51-79f26191bb47",
-        "create_ts": "2022-04-14T01:56:50.734Z",
-        "last_update_ts": "2022-04-14T01:56:53.897Z",
-        "active_ind": "Y",
-        "file_manager_id": "266c40b1-af8f-46bb-8072-389f8f9a7300",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698837_Order_Contract_20220413122155",
-        "entity_id": "009940",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF FLORIDA /ILLINOIS/MICHIGAN INC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1730047022037205000,
-        "score": 0.00012497844
       }
     ],
     "facets": {
@@ -429,13 +427,13 @@
         "2019": 13924,
         "2020": 125377,
         "2021": 22700,
-        "2022": 15089,
+        "2022": 15090,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 70799,
-        "US Senate": 51120,
+        "US Senate": 51121,
         "US House": 42041,
         "Presidential": 38568,
         "Local": 25532
@@ -474,11 +472,11 @@
         "TV": 241256,
         "CABLE": 128314,
         "FM": 115117,
-        "AM": 43414,
+        "AM": 43415,
         "DBS": 5591
       },
       "political_file_type": {
-        "PA": 229160,
+        "PA": 229161,
         "NCIA": 126372
       }
     }
@@ -495,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1792,
-    "processTime": 803,
-    "responseTime": 1803
+    "queryTime": 1773,
+    "processTime": 783,
+    "responseTime": 1783
   }
 }
