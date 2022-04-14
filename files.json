@@ -5,6 +5,29 @@
     "maxScore": 0.50016373,
     "docs": [
       {
+        "id": "0d5264ec-019a-60d9-507c-0910d3aaa5bb",
+        "file_id": "0d5264ec-019a-60d9-507c-0910d3aaa5bb",
+        "file_name": "Kevin Auton for Pike Co PVA 1688-004",
+        "file_extension": "pdf",
+        "file_size": 1781255,
+        "file_status": "com_cpy",
+        "folder_id": "6bdbae7c-e6db-e021-3aa9-79ff677363e7",
+        "create_ts": "2022-04-14T17:12:28.187Z",
+        "last_update_ts": "2022-04-14T17:30:04.967Z",
+        "active_ind": "Y",
+        "file_manager_id": "175a49ed-0f2e-4a38-baf0-03c5f246d3cf",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Kevin Auton for Pike Co PVA 1688-004",
+        "entity_id": "34002",
+        "source_service_code": "FM",
+        "callsign": "WZLK",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1730105735342194700,
+        "score": 0.24995688
+      },
+      {
         "id": "bbd437ee-4f3d-034f-9d58-5fb8ef955cd9",
         "file_id": "bbd437ee-4f3d-034f-9d58-5fb8ef955cd9",
         "file_name": "WXCY-FM Havre de Grace EEO Audit Exhibit A 2019-2020  040822",
@@ -205,29 +228,6 @@
         "office_type": "Local",
         "campaign_year": "2022",
         "_version_": 1730105089191837700,
-        "score": 0.24995688
-      },
-      {
-        "id": "03db2341-cae8-0f7f-04e9-56aa1cd5ddc9",
-        "file_id": "03db2341-cae8-0f7f-04e9-56aa1cd5ddc9",
-        "file_name": "Equal Opportunities for Air time 03-10-22",
-        "file_extension": "pdf",
-        "file_size": 92795,
-        "file_status": "com_cpy",
-        "folder_id": "3017f8d4-8b7a-6e24-95b1-acb8355d7880",
-        "create_ts": "2022-04-14T17:19:47.934Z",
-        "last_update_ts": "2022-04-14T17:19:30.545Z",
-        "active_ind": "Y",
-        "file_manager_id": "31062664-1112-4903-ae47-d6614ccf18a4",
-        "file_folder_path": "Political Files/2022/Local/Equal Opportunities - Equal Time",
-        "full_qualified_file_name": "Political Files/2022/Local/Equal Opportunities - Equal Time/Equal Opportunities for Air time 03-10-22",
-        "entity_id": "53956",
-        "source_service_code": "FM",
-        "callsign": "WGOW-FM",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1730105089180303400,
         "score": 0.24995688
       }
     ],
@@ -473,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1810,
-    "processTime": 819,
-    "responseTime": 1819
+    "queryTime": 1772,
+    "processTime": 781,
+    "responseTime": 1782
   }
 }
