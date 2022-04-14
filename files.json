@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 533691,
+    "numFound": 533692,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "430228f8-21d6-f50e-8496-e52b449e759e",
+        "file_id": "430228f8-21d6-f50e-8496-e52b449e759e",
+        "file_name": "698841_NAB_Form_20220413122538",
+        "file_extension": "pdf",
+        "file_size": 1029532,
+        "file_status": "com_cpy",
+        "folder_id": "8c60f30d-5aab-f745-5e51-79f26191bb47",
+        "create_ts": "2022-04-14T01:56:42.86Z",
+        "last_update_ts": "2022-04-14T02:10:12.841Z",
+        "active_ind": "Y",
+        "file_manager_id": "20e0f55c-6c94-43fe-a6df-00f2900533a3",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698841_NAB_Form_20220413122538",
+        "entity_id": "009940",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF FLORIDA /ILLINOIS/MICHIGAN INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1730047756682133500,
+        "score": 0.00012497844
+      },
+      {
+        "id": "bd36511a-0b27-b590-759b-69a13b1b351a",
+        "file_id": "bd36511a-0b27-b590-759b-69a13b1b351a",
+        "file_name": "041222WesGreene",
+        "file_extension": "pdf",
+        "file_size": 2508269,
+        "file_status": "com_cpy",
+        "folder_id": "2b0e1789-29e9-b0a6-459e-aa1d9d15cc1c",
+        "create_ts": "2022-04-14T02:04:41.403Z",
+        "last_update_ts": "2022-04-14T02:04:24.767Z",
+        "active_ind": "Y",
+        "file_manager_id": "54649654-155f-4b0f-b1da-25c95b92b9f5",
+        "file_folder_path": "Political Files/2022/Local/County Commissioner",
+        "full_qualified_file_name": "Political Files/2022/Local/County Commissioner/041222WesGreene",
+        "entity_id": "8146",
+        "source_service_code": "AM",
+        "callsign": "WKSK",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1730047516117827600,
+        "score": 0.24995688
+      },
       {
         "id": "98001af6-63a9-6e24-45e2-471febc43a75",
         "file_id": "98001af6-63a9-6e24-45e2-471febc43a75",
@@ -203,56 +251,6 @@
         "campaign_year": "2022",
         "_version_": 1730047022037205000,
         "score": 0.00012497844
-      },
-      {
-        "id": "890a3387-a68d-a2e0-fed9-2279344d03c4",
-        "file_id": "890a3387-a68d-a2e0-fed9-2279344d03c4",
-        "file_name": "698837_NAB_Form_20220413122201",
-        "file_extension": "pdf",
-        "file_size": 1029532,
-        "file_status": "com_cpy",
-        "folder_id": "8c60f30d-5aab-f745-5e51-79f26191bb47",
-        "create_ts": "2022-04-14T01:56:48.281Z",
-        "last_update_ts": "2022-04-14T01:56:51.572Z",
-        "active_ind": "Y",
-        "file_manager_id": "461b29f1-1969-47b9-a1f4-6e5c630a8659",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698837_NAB_Form_20220413122201",
-        "entity_id": "009940",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF FLORIDA /ILLINOIS/MICHIGAN INC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1730047019599265800,
-        "score": 0.00012497844
-      },
-      {
-        "id": "dbfdfb6d-7c65-9b27-e4ae-ae6d0065180f",
-        "file_id": "dbfdfb6d-7c65-9b27-e4ae-ae6d0065180f",
-        "file_name": "698841_Order_Contract_20220413122531",
-        "file_extension": "pdf",
-        "file_size": 446608,
-        "file_status": "com_cpy",
-        "folder_id": "8c60f30d-5aab-f745-5e51-79f26191bb47",
-        "create_ts": "2022-04-14T01:56:45.444Z",
-        "last_update_ts": "2022-04-14T01:56:48.614Z",
-        "active_ind": "Y",
-        "file_manager_id": "36a5c695-3319-4df2-995b-925fc0229da4",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698841_Order_Contract_20220413122531",
-        "entity_id": "009940",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF FLORIDA /ILLINOIS/MICHIGAN INC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1730047016498626600,
-        "score": 0.00012497844
       }
     ],
     "facets": {
@@ -431,7 +429,7 @@
         "2019": 13924,
         "2020": 125377,
         "2021": 22700,
-        "2022": 15088,
+        "2022": 15089,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -440,7 +438,7 @@
         "US Senate": 51120,
         "US House": 42041,
         "Presidential": 38568,
-        "Local": 25531
+        "Local": 25532
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
@@ -476,11 +474,11 @@
         "TV": 241256,
         "CABLE": 128314,
         "FM": 115117,
-        "AM": 43413,
+        "AM": 43414,
         "DBS": 5591
       },
       "political_file_type": {
-        "PA": 229159,
+        "PA": 229160,
         "NCIA": 126372
       }
     }
@@ -497,8 +495,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1759,
-    "processTime": 768,
-    "responseTime": 1768
+    "queryTime": 1792,
+    "processTime": 803,
+    "responseTime": 1803
   }
 }
