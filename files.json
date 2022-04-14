@@ -1,23 +1,71 @@
 {
   "response": {
-    "numFound": 534018,
+    "numFound": 534020,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
       {
+        "id": "7d2a4af5-2513-9c6b-a9de-fd3764ab7b05",
+        "file_id": "7d2a4af5-2513-9c6b-a9de-fd3764ab7b05",
+        "file_name": "Debbie Critchfield for State Superintendent of Public Schools-The Agency SUPPLIMENT TO order 3275416 050922-051622 NAB",
+        "file_extension": "pdf",
+        "file_size": 1851934,
+        "file_status": "com_cpy",
+        "folder_id": "de0b0f9c-3b19-b803-58eb-dd1adbf6cd57",
+        "create_ts": "2022-04-14T22:33:08.933Z",
+        "last_update_ts": "2022-04-14T22:33:11.071Z",
+        "active_ind": "Y",
+        "file_manager_id": "dc477fef-ef43-46da-8e40-05878e5b09a7",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/Debbie Critchfield for State Superintendent of Public Schools-The Agency SUPPLIMENT TO order 3275416 050922-051622 NAB",
+        "entity_id": "3404",
+        "source_service_code": "AM",
+        "callsign": "KLIX",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1730124804245160000,
+        "score": 0.24995688
+      },
+      {
+        "id": "1f9005c4-5980-948c-38a2-23719308f332",
+        "file_id": "1f9005c4-5980-948c-38a2-23719308f332",
+        "file_name": "Original-NAB-2261646-041422",
+        "file_extension": "pdf",
+        "file_size": 2445143,
+        "file_status": "com_cpy",
+        "folder_id": "dcc89427-c893-1e56-36da-ccd27ec5e535",
+        "create_ts": "2022-04-14T22:31:58.3Z",
+        "last_update_ts": "2022-04-14T22:31:41.902Z",
+        "active_ind": "Y",
+        "file_manager_id": "6ed60f1a-9fa2-421d-a5e4-a56ebb2aa3bb",
+        "file_folder_path": "Political Files/2022/State/R Dow",
+        "full_qualified_file_name": "Political Files/2022/State/R Dow/Original-NAB-2261646-041422",
+        "entity_id": "53928",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "ALBUQUERQUE-SANTA FE",
+        "callsign": "KOAT-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1730124730490421200,
+        "score": 0.24995688
+      },
+      {
         "id": "0b763501-bc53-c165-8fe9-a1de2429527e",
         "file_id": "0b763501-bc53-c165-8fe9-a1de2429527e",
-        "file_name": "Dan-O-Dowd-04-14-2022",
+        "file_name": "Dan-O-Dowd-04-14-2022 - PFD",
         "file_extension": "pdf",
         "file_size": 51444,
         "file_status": "com_cpy",
         "folder_id": "94d4f450-6b96-e249-6378-3819f3a7b276",
         "create_ts": "2022-04-14T22:24:47.617Z",
-        "last_update_ts": "2022-04-14T22:24:50.914Z",
+        "last_update_ts": "2022-04-14T22:27:34.002Z",
         "active_ind": "Y",
         "file_manager_id": "aecf4f8d-a584-41ab-9504-9bd047e4e4c4",
         "file_folder_path": "Political Files/2022/Federal/US Senate/Dan ODowd",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Dan ODowd/Dan-O-Dowd-04-14-2022",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Dan ODowd/Dan-O-Dowd-04-14-2022 - PFD",
         "entity_id": "40876",
         "source_service_code": "TV",
         "network_affiliation": "ABC",
@@ -26,7 +74,7 @@
         "political_file_type": "PA",
         "office_type": "US Senate",
         "campaign_year": "2022",
-        "_version_": 1730124278022537200,
+        "_version_": 1730124470541090800,
         "score": 0.24995688
       },
       {
@@ -183,52 +231,6 @@
         "campaign_year": "2022",
         "_version_": 1730122633001828400,
         "score": 0.24995688
-      },
-      {
-        "id": "5ec781b2-9be2-3845-0d19-9adbfd23c124",
-        "file_id": "5ec781b2-9be2-3845-0d19-9adbfd23c124",
-        "file_name": "04132022 PEOPLE WHO PLAY BY THE RULES PAC 1562-4-3",
-        "file_extension": "pdf",
-        "file_size": 1165471,
-        "file_status": "com_cpy",
-        "folder_id": "493cc83a-8487-edf2-bc30-07eb01345296",
-        "create_ts": "2022-04-14T21:58:38.249Z",
-        "last_update_ts": "2022-04-14T21:58:21.229Z",
-        "active_ind": "Y",
-        "file_manager_id": "d646c685-df09-4842-aa41-88595626aedd",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/04132022 PEOPLE WHO PLAY BY THE RULES PAC 1562-4-3",
-        "entity_id": "56229",
-        "source_service_code": "FM",
-        "callsign": "WQLZ",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1730122632621195300,
-        "score": 0.24995688
-      },
-      {
-        "id": "f2c67a8c-f6e4-dc6b-17f6-2b2c959b1c06",
-        "file_id": "f2c67a8c-f6e4-dc6b-17f6-2b2c959b1c06",
-        "file_name": "04132022 PEOPLE WHO PLAY BY THE RULES PAC 1562-3-1",
-        "file_extension": "pdf",
-        "file_size": 1178547,
-        "file_status": "com_cpy",
-        "folder_id": "a1afa0a8-9bd5-8fdd-5637-b0d799c62dd4",
-        "create_ts": "2022-04-14T21:56:19.756Z",
-        "last_update_ts": "2022-04-14T21:56:23.156Z",
-        "active_ind": "Y",
-        "file_manager_id": "19224ed9-1764-49fc-b5ae-2abd8671771d",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/04132022 PEOPLE WHO PLAY BY THE RULES PAC 1562-3-1",
-        "entity_id": "38347",
-        "source_service_code": "FM",
-        "callsign": "WNNS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1730122487306387500,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -276,7 +278,7 @@
         "LA CROSSE-EAU CLAIRE": 1878,
         "SIOUX CITY": 1858,
         "ROCKFORD": 1807,
-        "ALBUQUERQUE-SANTA FE": 1777,
+        "ALBUQUERQUE-SANTA FE": 1778,
         "BLUEFIELD-BECKLEY-OAK HILL": 1757,
         "MADISON": 1650,
         "LINCOLN & HASTINGS-KRNY": 1642,
@@ -335,7 +337,7 @@
         "OKLAHOMA CITY": 570
       },
       "network_affiliation": {
-        "ABC": 59021,
+        "ABC": 59022,
         "NBC": 57563,
         "CBS": 39654,
         "FOX": 28471,
@@ -407,12 +409,12 @@
         "2019": 13924,
         "2020": 125377,
         "2021": 22700,
-        "2022": 15410,
+        "2022": 15412,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 70912,
+        "State": 70914,
         "US Senate": 51146,
         "US House": 42061,
         "Presidential": 38568,
@@ -449,14 +451,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 241398,
+        "TV": 241399,
         "CABLE": 128356,
         "FM": 115221,
-        "AM": 43446,
+        "AM": 43447,
         "DBS": 5597
       },
       "political_file_type": {
-        "PA": 229384,
+        "PA": 229386,
         "NCIA": 126469
       }
     }
@@ -473,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1760,
-    "processTime": 769,
-    "responseTime": 1769
+    "queryTime": 1768,
+    "processTime": 777,
+    "responseTime": 1778
   }
 }
