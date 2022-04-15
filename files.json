@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 534061,
+    "numFound": 534059,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "b2e0ddc3-d73b-6ae8-35bf-5fcd12ca0206",
+        "file_id": "b2e0ddc3-d73b-6ae8-35bf-5fcd12ca0206",
+        "file_name": "Renacci for Ohio-NAB PB-19-2022-04-15 Est 1368",
+        "file_extension": "pdf",
+        "file_size": 100154,
+        "file_status": "com_cpy",
+        "folder_id": "a59eb6aa-4fcf-5698-0f98-8199e885005f",
+        "create_ts": "2022-04-15T14:07:52.327Z",
+        "last_update_ts": "2022-04-15T14:07:34.898Z",
+        "active_ind": "Y",
+        "file_manager_id": "2ead9698-fe8c-4f0e-8875-8726fab50f02",
+        "file_folder_path": "Political Files/2022/State/Renacci",
+        "full_qualified_file_name": "Political Files/2022/State/Renacci/Renacci for Ohio-NAB PB-19-2022-04-15 Est 1368",
+        "entity_id": "56549",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "COLUMBUS OH",
+        "callsign": "WSYX",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1730183611300184000,
+        "score": 0.24995688
+      },
+      {
+        "id": "23b63869-8f2b-ed0c-4b47-6d4a350fbb7a",
+        "file_id": "23b63869-8f2b-ed0c-4b47-6d4a350fbb7a",
+        "file_name": "Citizens for Josh Mandel-NAB PB-19-2022-04-15 est 3192",
+        "file_extension": "pdf",
+        "file_size": 161161,
+        "file_status": "com_cpy",
+        "folder_id": "338e6667-eba1-1e7d-f782-e71bc74f845e",
+        "create_ts": "2022-04-15T14:06:27.465Z",
+        "last_update_ts": "2022-04-15T14:06:30.794Z",
+        "active_ind": "Y",
+        "file_manager_id": "da877338-6956-4650-809e-6dda7fe353da",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Josh Mandel - R",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Josh Mandel - R/Citizens for Josh Mandel-NAB PB-19-2022-04-15 est 3192",
+        "entity_id": "56549",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "COLUMBUS OH",
+        "callsign": "WSYX",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1730183522305441800,
+        "score": 0.24995688
+      },
       {
         "id": "827fd953-6ffe-fa9c-d215-c82be1af00bb",
         "file_id": "827fd953-6ffe-fa9c-d215-c82be1af00bb",
@@ -199,56 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1730181101772603400,
         "score": 0.24995688
-      },
-      {
-        "id": "766ed0b8-5686-8302-ea0f-60e11cbcf979",
-        "file_id": "766ed0b8-5686-8302-ea0f-60e11cbcf979",
-        "file_name": "CONTRACT WILEY NICKEL FOR CONGRESS WRAL EST 11529 041922-042522",
-        "file_extension": "pdf",
-        "file_size": 78127,
-        "file_status": "com_cpy",
-        "folder_id": "b3908313-a76f-274e-a8cf-ddb58d6e2aa9",
-        "create_ts": "2022-04-15T13:27:59.077Z",
-        "last_update_ts": "2022-04-15T13:27:41.49Z",
-        "active_ind": "Y",
-        "file_manager_id": "98030064-d777-4b1a-aa7a-36a1dffb46c7",
-        "file_folder_path": "Political Files/2022/Federal/US House/WILEY NICKEL FOR CONGRESS/EST 11529",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/WILEY NICKEL FOR CONGRESS/EST 11529/CONTRACT WILEY NICKEL FOR CONGRESS WRAL EST 11529 041922-042522",
-        "entity_id": "8688",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "RALEIGH-DURHAM (FAYETVLLE)",
-        "callsign": "WRAL-TV",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1730181101627900000,
-        "score": 0.24995688
-      },
-      {
-        "id": "4f50c69d-1d7a-e28f-68b4-430f3e5ffa56",
-        "file_id": "4f50c69d-1d7a-e28f-68b4-430f3e5ffa56",
-        "file_name": "Morgan McGarvey for Congress EST 9474 0412-041822 WDRB Revision 2",
-        "file_extension": "pdf",
-        "file_size": 52175,
-        "file_status": "com_cpy",
-        "folder_id": "72303da8-6409-7733-c662-59803a8e644f",
-        "create_ts": "2022-04-15T13:04:39.515Z",
-        "last_update_ts": "2022-04-15T13:20:06.143Z",
-        "active_ind": "Y",
-        "file_manager_id": "25d779b0-61bc-4ba6-a78f-4f5ee95dfb08",
-        "file_folder_path": "Political Files/2022/Federal/US House/Morgan McGarvey for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Morgan McGarvey for Congress/Morgan McGarvey for Congress EST 9474 0412-041822 WDRB Revision 2",
-        "entity_id": "28476",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LOUISVILLE",
-        "callsign": "WDRB",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1730180602977583000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -310,7 +310,7 @@
         "PADUCAH-CAPE GIRARD-HARSBG": 1343,
         "MIAMI-FT. LAUDERDALE": 1300,
         "GAINESVILLE": 1265,
-        "JOHNSTOWN-ALTOONA-ST COLGE": 1245,
+        "JOHNSTOWN-ALTOONA-ST COLGE": 1241,
         "PROVIDENCE-NEW BEDFORD": 1202,
         "ANCHORAGE": 1197,
         "GREEN BAY-APPLETON": 1175,
@@ -321,7 +321,7 @@
         "GLENDIVE": 1081,
         "NEW YORK": 1080,
         "DENVER": 1063,
-        "COLUMBUS OH": 1056,
+        "COLUMBUS OH": 1058,
         "ST. LOUIS": 1047,
         "ORLANDO-DAYTONA BCH-MELBRN": 1039,
         "JACKSON MS": 988,
@@ -355,9 +355,9 @@
         "OKLAHOMA CITY": 570
       },
       "network_affiliation": {
-        "ABC": 59024,
+        "ABC": 59026,
         "NBC": 57568,
-        "CBS": 39652,
+        "CBS": 39648,
         "FOX": 28478,
         "PBS": 14689,
         "CW": 12165,
@@ -425,15 +425,15 @@
         "2017": 10351,
         "2018": 67662,
         "2019": 13924,
-        "2020": 125377,
+        "2020": 125373,
         "2021": 22700,
-        "2022": 15453,
+        "2022": 15455,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 70919,
-        "US Senate": 51146,
+        "State": 70920,
+        "US Senate": 51147,
         "US House": 42066,
         "Presidential": 38568,
         "Local": 25628
@@ -469,15 +469,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 241411,
+        "TV": 241409,
         "CABLE": 128356,
         "FM": 115236,
         "AM": 43461,
         "DBS": 5597
       },
       "political_file_type": {
-        "PA": 229426,
-        "NCIA": 126470
+        "PA": 229428,
+        "NCIA": 126466
       }
     }
   },
@@ -493,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 217,
-    "processTime": 227,
-    "responseTime": 228
+    "queryTime": 204,
+    "processTime": 212,
+    "responseTime": 213
   }
 }
