@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 534147,
+    "numFound": 534148,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "336fa931-1a98-55ac-24e1-5fca9417080f",
+        "file_id": "336fa931-1a98-55ac-24e1-5fca9417080f",
+        "file_name": "HFA- NAB D2 AMP IN-CD09 SODREL 041322",
+        "file_extension": "pdf",
+        "file_size": 127296,
+        "file_status": "com_cpy",
+        "folder_id": "5113614a-2165-b813-3a7e-3b129a61a82f",
+        "create_ts": "2022-04-15T22:52:07.332Z",
+        "last_update_ts": "2022-04-15T22:51:49.721Z",
+        "active_ind": "Y",
+        "file_manager_id": "c1f765d6-ee6a-4c7e-99f4-3ab7b86b3ebd",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Indiana/House Freedom Action",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Indiana/House Freedom Action/HFA- NAB D2 AMP IN-CD09 SODREL 041322",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1730216594164940800,
+        "score": 0.24995688
+      },
       {
         "id": "f3b75a01-6f55-98e5-b49c-fda3012e8b24",
         "file_id": "f3b75a01-6f55-98e5-b49c-fda3012e8b24",
@@ -210,31 +231,6 @@
         "campaign_year": "2022",
         "_version_": 1730214532514578400,
         "score": 0.24995688
-      },
-      {
-        "id": "bff09e33-b632-e744-1032-04cf5df754ef",
-        "file_id": "bff09e33-b632-e744-1032-04cf5df754ef",
-        "file_name": "Abrams 482917 041922",
-        "file_extension": "pdf",
-        "file_size": 271308,
-        "file_status": "com_cpy",
-        "folder_id": "d4fbe1fc-197b-22a6-2a8a-bbaf4dc51c26",
-        "create_ts": "2022-04-15T22:15:35.732Z",
-        "last_update_ts": "2022-04-15T22:16:37.58Z",
-        "active_ind": "Y",
-        "file_manager_id": "ba46f6f2-c5d0-4165-a464-3002fafbfc50",
-        "file_folder_path": "Political Files/2022/State/Abrams",
-        "full_qualified_file_name": "Political Files/2022/State/Abrams/Abrams 482917 041922",
-        "entity_id": "6900",
-        "source_service_code": "TV",
-        "network_affiliation": "THE CW NETWORK",
-        "nielsen_dma_rank": "ATLANTA",
-        "callsign": "WUPA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1730214356613857300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -413,7 +409,7 @@
         "2019": 13924,
         "2020": 125240,
         "2021": 22700,
-        "2022": 15673,
+        "2022": 15674,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -459,11 +455,11 @@
         "CABLE": 128365,
         "FM": 115261,
         "AM": 43478,
-        "DBS": 5598
+        "DBS": 5599
       },
       "political_file_type": {
         "PA": 229427,
-        "NCIA": 126552
+        "NCIA": 126553
       }
     }
   },
@@ -479,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1805,
-    "processTime": 816,
-    "responseTime": 1816
+    "queryTime": 1775,
+    "processTime": 785,
+    "responseTime": 1785
   }
 }
