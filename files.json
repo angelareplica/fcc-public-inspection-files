@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 534048,
+    "numFound": 534049,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "bc63ff4e-e919-9a84-e9fe-896f3a3515ff",
+        "file_id": "bc63ff4e-e919-9a84-e9fe-896f3a3515ff",
+        "file_name": "Protect Starts 041922",
+        "file_extension": "pdf",
+        "file_size": 376047,
+        "file_status": "com_cpy",
+        "folder_id": "bc669d47-ef9c-831f-3ed8-d5597277ac94",
+        "create_ts": "2022-04-15T11:51:31.45Z",
+        "last_update_ts": "2022-04-15T11:51:34.727Z",
+        "active_ind": "Y",
+        "file_manager_id": "acf0cb3f-cf1e-4b3b-8d49-dab216d43e1f",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Care",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Care/Protect Starts 041922",
+        "entity_id": "66221",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "DES MOINES-AMES",
+        "callsign": "WHO-DT",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1730175033094963200,
+        "score": 0.24995688
+      },
       {
         "id": "166365f1-e84b-e8b5-45d2-00c59c0880a0",
         "file_id": "166365f1-e84b-e8b5-45d2-00c59c0880a0",
@@ -210,34 +234,11 @@
         "campaign_year": "2022",
         "_version_": 1730145352278868000,
         "score": 0.24995688
-      },
-      {
-        "id": "0a5ce890-deac-07d8-6fa1-322f539b6dfd",
-        "file_id": "0a5ce890-deac-07d8-6fa1-322f539b6dfd",
-        "file_name": "Kevin Music WPBX (041322)",
-        "file_extension": "pdf",
-        "file_size": 925144,
-        "file_status": "com_cpy",
-        "folder_id": "8527b643-8d3a-e6fe-4407-6d346d2feeeb",
-        "create_ts": "2022-04-15T03:59:44.923Z",
-        "last_update_ts": "2022-04-15T03:59:48.387Z",
-        "active_ind": "Y",
-        "file_manager_id": "a5f13a2b-bcc8-4211-a327-3e3dec4004e6",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Kevin Music WPBX (041322)",
-        "entity_id": "14618",
-        "source_service_code": "FM",
-        "callsign": "WPBX",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1730145351756677000,
-        "score": 0.24995688
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
-        "DES MOINES-AMES": 8374,
+        "DES MOINES-AMES": 8375,
         "WILKES BARRE-SCRANTON": 7418,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7043,
         "LAS VEGAS": 6291,
@@ -340,7 +341,7 @@
       },
       "network_affiliation": {
         "ABC": 59024,
-        "NBC": 57563,
+        "NBC": 57564,
         "CBS": 39651,
         "FOX": 28471,
         "PBS": 14689,
@@ -411,7 +412,7 @@
         "2019": 13924,
         "2020": 125377,
         "2021": 22700,
-        "2022": 15440,
+        "2022": 15441,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -453,7 +454,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 241398,
+        "TV": 241399,
         "CABLE": 128356,
         "FM": 115236,
         "AM": 43461,
@@ -461,7 +462,7 @@
       },
       "political_file_type": {
         "PA": 229420,
-        "NCIA": 126463
+        "NCIA": 126464
       }
     }
   },
@@ -477,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1785,
-    "processTime": 794,
-    "responseTime": 1794
+    "queryTime": 205,
+    "processTime": 213,
+    "responseTime": 214
   }
 }
