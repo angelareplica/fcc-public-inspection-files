@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 534158,
+    "numFound": 534159,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "db156195-24fb-6fd8-06e2-b9a4076953b4",
+        "file_id": "db156195-24fb-6fd8-06e2-b9a4076953b4",
+        "file_name": "Abrams 04152022",
+        "file_extension": "pdf",
+        "file_size": 42370,
+        "file_status": "com_cpy",
+        "folder_id": "126a03b0-4999-1c79-0f6e-b88d6abadc9b",
+        "create_ts": "2022-04-17T15:41:57.571Z",
+        "last_update_ts": "2022-04-17T15:42:00.671Z",
+        "active_ind": "Y",
+        "file_manager_id": "8f5b5c59-2fa2-45c7-bf2c-46dc06419e27",
+        "file_folder_path": "Political Files/2022/State/Abrams for Governor 04152022",
+        "full_qualified_file_name": "Political Files/2022/State/Abrams for Governor 04152022/Abrams 04152022",
+        "entity_id": "36659",
+        "source_service_code": "FM",
+        "callsign": "WHLJ-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1730370724600742000,
+        "score": 0.24995688
+      },
       {
         "id": "31155c7c-545e-5542-e981-351743945136",
         "file_id": "31155c7c-545e-5542-e981-351743945136",
@@ -226,28 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1730223870559912000,
         "score": 0.24995688
-      },
-      {
-        "id": "75e7fc2c-8311-6168-4a95-aeb8aa4f416e",
-        "file_id": "75e7fc2c-8311-6168-4a95-aeb8aa4f416e",
-        "file_name": "Senate Majority PAC Sales Order #660064 KLCA-HD4 - 4-16-22 thru 5-06-22-",
-        "file_extension": "pdf",
-        "file_size": 88793,
-        "file_status": "com_cpy",
-        "folder_id": "d1e8c8a4-4c51-d966-7d46-9dbd40273a87",
-        "create_ts": "2022-04-15T23:47:57.373Z",
-        "last_update_ts": "2022-04-15T23:48:00.504Z",
-        "active_ind": "Y",
-        "file_manager_id": "c81edbeb-6503-49cb-a928-9bfe0d1e8a0a",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/KLCA-HD4 Juan/SENATE MAJORITY PAC/SALES ORDER",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/KLCA-HD4 Juan/SENATE MAJORITY PAC/SALES ORDER/Senate Majority PAC Sales Order #660064 KLCA-HD4 - 4-16-22 thru 5-06-22-",
-        "entity_id": "41884",
-        "source_service_code": "FM",
-        "callsign": "KLCA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1730220106954309600,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -426,12 +427,12 @@
         "2019": 13924,
         "2020": 125240,
         "2021": 22700,
-        "2022": 15684,
+        "2022": 15685,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 70991,
+        "State": 70992,
         "US Senate": 51173,
         "US House": 42090,
         "Presidential": 38449,
@@ -470,12 +471,12 @@
       "source_service_code": {
         "TV": 241453,
         "CABLE": 128365,
-        "FM": 115262,
+        "FM": 115263,
         "AM": 43479,
         "DBS": 5599
       },
       "political_file_type": {
-        "PA": 229436,
+        "PA": 229437,
         "NCIA": 126554
       }
     }
@@ -492,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 197,
-    "processTime": 206,
-    "responseTime": 206
+    "queryTime": 200,
+    "processTime": 208,
+    "responseTime": 209
   }
 }
