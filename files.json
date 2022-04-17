@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 534157,
+    "numFound": 534158,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "31155c7c-545e-5542-e981-351743945136",
+        "file_id": "31155c7c-545e-5542-e981-351743945136",
+        "file_name": "Kevin Kiley for Congress (CD 03) Request & Disposition - Revised",
+        "file_extension": "pdf",
+        "file_size": 1000350,
+        "file_status": "com_cpy",
+        "folder_id": "4ae2bdff-ef12-af0b-a7bf-6ef7966ce5e3",
+        "create_ts": "2022-04-17T02:49:46.595Z",
+        "last_update_ts": "2022-04-17T02:49:50.002Z",
+        "active_ind": "Y",
+        "file_manager_id": "84da4b90-4f5a-4a77-8a89-02e3a80bc002",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Kevin Kiley for Congress",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Kevin Kiley for Congress/Kevin Kiley for Congress (CD 03) Request & Disposition - Revised",
+        "entity_id": "48341",
+        "source_service_code": "AM",
+        "callsign": "KAHI",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1730322143376310300,
+        "score": 0.24995688
+      },
       {
         "id": "f2ac5cae-d319-951b-6a42-df5f5e06b2dd",
         "file_id": "f2ac5cae-d319-951b-6a42-df5f5e06b2dd",
@@ -225,27 +248,6 @@
         "campaign_year": "2022",
         "_version_": 1730220106954309600,
         "score": 0.24995688
-      },
-      {
-        "id": "336fa931-1a98-55ac-24e1-5fca9417080f",
-        "file_id": "336fa931-1a98-55ac-24e1-5fca9417080f",
-        "file_name": "HFA- NAB D2 AMP IN-CD09 SODREL 041322",
-        "file_extension": "pdf",
-        "file_size": 127296,
-        "file_status": "com_cpy",
-        "folder_id": "5113614a-2165-b813-3a7e-3b129a61a82f",
-        "create_ts": "2022-04-15T22:52:07.332Z",
-        "last_update_ts": "2022-04-15T22:51:49.721Z",
-        "active_ind": "Y",
-        "file_manager_id": "c1f765d6-ee6a-4c7e-99f4-3ab7b86b3ebd",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Indiana/House Freedom Action",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Indiana/House Freedom Action/HFA- NAB D2 AMP IN-CD09 SODREL 041322",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1730216594164940800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -424,13 +426,13 @@
         "2019": 13924,
         "2020": 125240,
         "2021": 22700,
-        "2022": 15683,
+        "2022": 15684,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 70991,
-        "US Senate": 51172,
+        "US Senate": 51173,
         "US House": 42090,
         "Presidential": 38449,
         "Local": 25638
@@ -469,11 +471,11 @@
         "TV": 241453,
         "CABLE": 128365,
         "FM": 115262,
-        "AM": 43478,
+        "AM": 43479,
         "DBS": 5599
       },
       "political_file_type": {
-        "PA": 229435,
+        "PA": 229436,
         "NCIA": 126554
       }
     }
@@ -490,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 225,
-    "responseTime": 225
+    "queryTime": 1743,
+    "processTime": 755,
+    "responseTime": 1755
   }
 }
