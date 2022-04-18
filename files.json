@@ -5,6 +5,31 @@
     "maxScore": 0.50016373,
     "docs": [
       {
+        "id": "d56a7e55-3460-6a0c-e7e4-4b6b7df31ac0",
+        "file_id": "d56a7e55-3460-6a0c-e7e4-4b6b7df31ac0",
+        "file_name": "Erin-Houchin-PFD 04-18-2022",
+        "file_extension": "pdf",
+        "file_size": 49840,
+        "file_status": "com_cpy",
+        "folder_id": "b827ae03-75af-7f13-ff31-a5d6e4d86abc",
+        "create_ts": "2022-04-18T22:18:05.096Z",
+        "last_update_ts": "2022-04-18T22:30:05.055Z",
+        "active_ind": "Y",
+        "file_manager_id": "8e8e8c31-f801-4854-a39d-a53008fe7c44",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Erin-Houchin-PFD 04-18-2022",
+        "entity_id": "40877",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "INDIANAPOLIS",
+        "callsign": "WRTV",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1730486985539190800,
+        "score": 0.24995688
+      },
+      {
         "id": "1af94319-ea47-79ec-bb2f-bd0d1ab696f2",
         "file_id": "1af94319-ea47-79ec-bb2f-bd0d1ab696f2",
         "file_name": "Monica-Tranel PFD 04-18-2022",
@@ -75,31 +100,6 @@
         "callsign": "WLNY-TV",
         "non_political_file_folder": "FCC Authorizations",
         "_version_": 1730486361612353500,
-        "score": 0.24995688
-      },
-      {
-        "id": "d56a7e55-3460-6a0c-e7e4-4b6b7df31ac0",
-        "file_id": "d56a7e55-3460-6a0c-e7e4-4b6b7df31ac0",
-        "file_name": "Erin-Houchin-PFD 04-18-2022",
-        "file_extension": "pdf",
-        "file_size": 49840,
-        "file_status": "com_cpy",
-        "folder_id": "b827ae03-75af-7f13-ff31-a5d6e4d86abc",
-        "create_ts": "2022-04-18T22:18:05.096Z",
-        "last_update_ts": "2022-04-18T22:17:46.91Z",
-        "active_ind": "Y",
-        "file_manager_id": "8e8e8c31-f801-4854-a39d-a53008fe7c44",
-        "file_folder_path": "Political Files/2022/Federal/US House",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Erin-Houchin-PFD 04-18-2022",
-        "entity_id": "40877",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "INDIANAPOLIS",
-        "callsign": "WRTV",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1730486243647553500,
         "score": 0.24995688
       },
       {
@@ -487,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1792,
-    "processTime": 800,
-    "responseTime": 1800
+    "queryTime": 1765,
+    "processTime": 773,
+    "responseTime": 1773
   }
 }
