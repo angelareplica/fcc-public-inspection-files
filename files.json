@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 534172,
+    "numFound": 534174,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "ee9143a7-3385-df4f-7e28-7f9f4ecf6a3b",
+        "file_id": "ee9143a7-3385-df4f-7e28-7f9f4ecf6a3b",
+        "file_name": "JD-Vance-04-18-2022 C",
+        "file_extension": "pdf",
+        "file_size": 61786,
+        "file_status": "com_cpy",
+        "folder_id": "91aa393a-38e2-b9d0-414e-294f77807349",
+        "create_ts": "2022-04-18T13:34:16.45Z",
+        "last_update_ts": "2022-04-18T13:34:27.874Z",
+        "active_ind": "Y",
+        "file_manager_id": "6c251089-3d98-463b-9d93-3493181f9cc9",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Vance REP/DISCLOSURE",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Vance REP/DISCLOSURE/JD-Vance-04-18-2022 C",
+        "entity_id": "59438",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "CINCINNATI",
+        "callsign": "WCPO-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1730453288340422700,
+        "score": 0.24995688
+      },
+      {
+        "id": "d1e126a9-1ac7-92f6-5332-b947f11272d7",
+        "file_id": "d1e126a9-1ac7-92f6-5332-b947f11272d7",
+        "file_name": "Pol B McSwain R Gov PA_REV2_908866",
+        "file_extension": "pdf",
+        "file_size": 270214,
+        "file_status": "com_cpy",
+        "folder_id": "38b69a78-e672-22f4-23c3-6401d292ad80",
+        "create_ts": "2022-04-18T13:33:06.076Z",
+        "last_update_ts": "2022-04-18T13:33:17.593Z",
+        "active_ind": "Y",
+        "file_manager_id": "3cc2c576-db03-429c-858f-3e6fee2b3be4",
+        "file_folder_path": "Political Files/2022/State/Governor/Pol B McSwain R GOV PA/908866-0420-0426",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Pol B McSwain R GOV PA/908866-0420-0426/Pol B McSwain R Gov PA_REV2_908866",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1730453214640210000,
+        "score": 0.24995688
+      },
       {
         "id": "8aed0fbd-0595-a775-f4dc-1898f9178e4c",
         "file_id": "8aed0fbd-0595-a775-f4dc-1898f9178e4c",
@@ -199,56 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1730387771395145700,
         "score": 0.24995688
-      },
-      {
-        "id": "8e808f41-6cd0-3b00-15c2-076b18fc60dd",
-        "file_id": "8e808f41-6cd0-3b00-15c2-076b18fc60dd",
-        "file_name": "RAPHAEL WARNOCK 041722 1",
-        "file_extension": "pdf",
-        "file_size": 106531,
-        "file_status": "com_cpy",
-        "folder_id": "f10c2cee-1755-d86c-b405-652170510aab",
-        "create_ts": "2022-04-17T20:11:19.778Z",
-        "last_update_ts": "2022-04-17T20:11:29.159Z",
-        "active_ind": "Y",
-        "file_manager_id": "9a645ffb-a71d-47be-a2dd-ec0204c60177",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/RAPHAEL WARNOCK",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/RAPHAEL WARNOCK/RAPHAEL WARNOCK 041722 1",
-        "entity_id": "37174",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "SAVANNAH",
-        "callsign": "WJCL",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1730387671946100700,
-        "score": 0.24995688
-      },
-      {
-        "id": "7d77700f-e264-f7eb-3db6-77f0ac327a16",
-        "file_id": "7d77700f-e264-f7eb-3db6-77f0ac327a16",
-        "file_name": "RAPHAEL WARNOCK 041722",
-        "file_extension": "pdf",
-        "file_size": 73884,
-        "file_status": "com_cpy",
-        "folder_id": "f10c2cee-1755-d86c-b405-652170510aab",
-        "create_ts": "2022-04-17T20:11:19.842Z",
-        "last_update_ts": "2022-04-17T20:11:01.842Z",
-        "active_ind": "Y",
-        "file_manager_id": "78c972d6-4743-4ebe-a0d9-340ea750c8dc",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/RAPHAEL WARNOCK",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/RAPHAEL WARNOCK/RAPHAEL WARNOCK 041722",
-        "entity_id": "37174",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "SAVANNAH",
-        "callsign": "WJCL",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1730387671983849500,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -257,7 +257,7 @@
         "WILKES BARRE-SCRANTON": 7421,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7043,
         "LAS VEGAS": 6304,
-        "PITTSBURGH": 6013,
+        "PITTSBURGH": 6014,
         "WEST PALM BEACH-FT. PIERCE": 5789,
         "HONOLULU": 5221,
         "DULUTH-SUPERIOR": 4656,
@@ -355,8 +355,8 @@
         "HOUSTON": 574
       },
       "network_affiliation": {
-        "ABC": 59123,
-        "NBC": 57516,
+        "ABC": 59124,
+        "NBC": 57517,
         "CBS": 39691,
         "FOX": 28439,
         "PBS": 14689,
@@ -427,13 +427,13 @@
         "2019": 13924,
         "2020": 125240,
         "2021": 22700,
-        "2022": 15698,
+        "2022": 15700,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 70998,
-        "US Senate": 51175,
+        "State": 70999,
+        "US Senate": 51176,
         "US House": 42090,
         "Presidential": 38449,
         "Local": 25640
@@ -469,14 +469,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 241464,
+        "TV": 241466,
         "CABLE": 128365,
         "FM": 115264,
         "AM": 43480,
         "DBS": 5599
       },
       "political_file_type": {
-        "PA": 229447,
+        "PA": 229449,
         "NCIA": 126557
       }
     }
@@ -493,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1809,
-    "processTime": 824,
-    "responseTime": 1825
+    "queryTime": 1781,
+    "processTime": 793,
+    "responseTime": 1794
   }
 }
