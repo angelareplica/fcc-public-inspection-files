@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 534666,
+    "numFound": 534667,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "1803783b-9359-6997-212d-414993f27e71",
+        "file_id": "1803783b-9359-6997-212d-414993f27e71",
+        "file_name": "Protect Ohio Values WSAZ Estimate 2278 0419 to 0425 order 2527299",
+        "file_extension": "pdf",
+        "file_size": 155054,
+        "file_status": "com_cpy",
+        "folder_id": "9ead5661-9a8a-16d1-6232-ec9aae767ec5",
+        "create_ts": "2022-04-19T10:58:16.156Z",
+        "last_update_ts": "2022-04-19T10:58:19.375Z",
+        "active_ind": "Y",
+        "file_manager_id": "c27b19ca-8b5a-4f4f-9ea1-bd574d450875",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Protect Ohio Values PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Protect Ohio Values PAC/Protect Ohio Values WSAZ Estimate 2278 0419 to 0425 order 2527299",
+        "entity_id": "36912",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
+        "callsign": "WSAZ-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1730534070384853000,
+        "score": 0.24995688
+      },
       {
         "id": "5a5245c0-cbf1-f902-2062-ffc495aab394",
         "file_id": "5a5245c0-cbf1-f902-2062-ffc495aab394",
@@ -216,31 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1730501181787078700,
         "score": 0.24995688
-      },
-      {
-        "id": "664a7532-7bd0-fc14-dccc-c8738c1f98a2",
-        "file_id": "664a7532-7bd0-fc14-dccc-c8738c1f98a2",
-        "file_name": "WTVH DAN O'DOWN EST 0001 04.19.22-04-19-22 - ORDER #1787482",
-        "file_extension": "pdf",
-        "file_size": 214596,
-        "file_status": "com_cpy",
-        "folder_id": "d197fc87-2565-5744-c0bf-3aeaab2ffda4",
-        "create_ts": "2022-04-19T02:15:30.351Z",
-        "last_update_ts": "2022-04-19T02:15:33.663Z",
-        "active_ind": "Y",
-        "file_manager_id": "88b143f5-e59d-45f3-a005-e08e7a310c08",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/DANIEL ODOWD",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/DANIEL ODOWD/WTVH DAN O'DOWN EST 0001 04.19.22-04-19-22 - ORDER #1787482",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1730501181052027000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -253,7 +252,7 @@
         "WEST PALM BEACH-FT. PIERCE": 5789,
         "HONOLULU": 5221,
         "DULUTH-SUPERIOR": 4656,
-        "CHARLESTON-HUNTINGTON": 4345,
+        "CHARLESTON-HUNTINGTON": 4346,
         "PORTLAND-AUBURN": 4229,
         "TALLAHASSEE-THOMASVILLE": 4049,
         "OMAHA": 3825,
@@ -348,7 +347,7 @@
       },
       "network_affiliation": {
         "ABC": 59203,
-        "NBC": 57592,
+        "NBC": 57593,
         "CBS": 39748,
         "FOX": 28459,
         "PBS": 14689,
@@ -419,7 +418,7 @@
         "2019": 13924,
         "2020": 125239,
         "2021": 22700,
-        "2022": 16181,
+        "2022": 16182,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -461,7 +460,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 241707,
+        "TV": 241708,
         "CABLE": 128480,
         "FM": 115355,
         "AM": 43517,
@@ -469,7 +468,7 @@
       },
       "political_file_type": {
         "PA": 229725,
-        "NCIA": 126761
+        "NCIA": 126762
       }
     }
   },
@@ -485,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 200,
-    "processTime": 207,
-    "responseTime": 207
+    "queryTime": 1754,
+    "processTime": 768,
+    "responseTime": 1768
   }
 }
