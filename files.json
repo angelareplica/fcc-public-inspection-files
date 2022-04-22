@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 536367,
+    "numFound": 536369,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "a9bb1be3-57ac-80d8-bc99-4033521bae71",
+        "file_id": "a9bb1be3-57ac-80d8-bc99-4033521bae71",
+        "file_name": "Mike O'Connell, Order, WGZB-FM, 04.25.22-05.17.22, Jefferson County Attorney",
+        "file_extension": "pdf",
+        "file_size": 1861121,
+        "file_status": "com_cpy",
+        "folder_id": "be2a4d12-2e9b-b076-6a60-c3b31769bf09",
+        "create_ts": "2022-04-22T03:52:07.35Z",
+        "last_update_ts": "2022-04-22T03:52:29.357Z",
+        "active_ind": "Y",
+        "file_manager_id": "7593eb47-26cd-4793-8c15-2fd25e2a1d9d",
+        "file_folder_path": "Political Files/2022/Local/OConnell",
+        "full_qualified_file_name": "Political Files/2022/Local/OConnell/Mike O'Connell, Order, WGZB-FM, 04.25.22-05.17.22, Jefferson County Attorney",
+        "entity_id": "53202",
+        "source_service_code": "FM",
+        "callsign": "WGZB-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1730779050921689000,
+        "score": 0.24995688
+      },
+      {
+        "id": "3b74ff55-41e0-40d2-dcaa-ef796aa6bb8e",
+        "file_id": "3b74ff55-41e0-40d2-dcaa-ef796aa6bb8e",
+        "file_name": "Mike O'Connell, NAB PB19, WGZB-FM, 04.25.22-05.17.22, Jefferson County Attorney",
+        "file_extension": "pdf",
+        "file_size": 1025020,
+        "file_status": "com_cpy",
+        "folder_id": "be2a4d12-2e9b-b076-6a60-c3b31769bf09",
+        "create_ts": "2022-04-22T03:52:06.748Z",
+        "last_update_ts": "2022-04-22T03:52:10.438Z",
+        "active_ind": "Y",
+        "file_manager_id": "f51cbfbf-c9a6-4bda-9217-cc2a082508a9",
+        "file_folder_path": "Political Files/2022/Local/OConnell",
+        "full_qualified_file_name": "Political Files/2022/Local/OConnell/Mike O'Connell, NAB PB19, WGZB-FM, 04.25.22-05.17.22, Jefferson County Attorney",
+        "entity_id": "53202",
+        "source_service_code": "FM",
+        "callsign": "WGZB-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1730779050297786400,
+        "score": 0.24995688
+      },
       {
         "id": "604d5d25-e61a-d7d4-ca93-e457e14e9c78",
         "file_id": "604d5d25-e61a-d7d4-ca93-e457e14e9c78",
@@ -200,56 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1730764558487781400,
         "score": 0.24995688
-      },
-      {
-        "id": "1e447e4f-d7cf-052d-a0b7-8a702d1c99df",
-        "file_id": "1e447e4f-d7cf-052d-a0b7-8a702d1c99df",
-        "file_name": "Pierce, KOIN, 3519677, 0425-0501 est 1372",
-        "file_extension": "pdf",
-        "file_size": 234246,
-        "file_status": "com_cpy",
-        "folder_id": "c19b4764-9fd9-498b-8d50-60f3045788fc",
-        "create_ts": "2022-04-21T23:49:44.208Z",
-        "last_update_ts": "2022-04-22T00:00:05.507Z",
-        "active_ind": "Y",
-        "file_manager_id": "9ba124c6-665d-4255-b73e-23791a44fb1f",
-        "file_folder_path": "Political Files/2022/State/Bud Pierce OR Gov Rep/Contracts",
-        "full_qualified_file_name": "Political Files/2022/State/Bud Pierce OR Gov Rep/Contracts/Pierce, KOIN, 3519677, 0425-0501 est 1372",
-        "entity_id": "35380",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "PORTLAND OR",
-        "callsign": "KOIN",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1730764430325579800,
-        "score": 0.24995688
-      },
-      {
-        "id": "33c9f9a5-b537-31a6-3416-99fa9ce6a013",
-        "file_id": "33c9f9a5-b537-31a6-3416-99fa9ce6a013",
-        "file_name": "Crumpacker, KOIN, 3519124, 0425-0501 est 3591",
-        "file_extension": "pdf",
-        "file_size": 251268,
-        "file_status": "com_cpy",
-        "folder_id": "d1b852d4-5a8d-8c06-72fa-814bd4ea9550",
-        "create_ts": "2022-04-22T00:00:11.107Z",
-        "last_update_ts": "2022-04-21T23:59:52.373Z",
-        "active_ind": "Y",
-        "file_manager_id": "1c055f2b-454b-4e14-a5f1-8beab6c7c5b0",
-        "file_folder_path": "Political Files/2022/Federal/US House/Jimmy Crumpacker US Congress Rep/Contracts",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Jimmy Crumpacker US Congress Rep/Contracts/Crumpacker, KOIN, 3519124, 0425-0501 est 3591",
-        "entity_id": "35380",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "PORTLAND OR",
-        "callsign": "KOIN",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1730764458172612600,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -428,7 +424,7 @@
         "2019": 13922,
         "2020": 125238,
         "2021": 22704,
-        "2022": 17768,
+        "2022": 17770,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -437,7 +433,7 @@
         "US Senate": 51432,
         "US House": 42242,
         "Presidential": 38447,
-        "Local": 25794
+        "Local": 25796
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
@@ -472,12 +468,12 @@
       "source_service_code": {
         "TV": 242618,
         "CABLE": 128773,
-        "FM": 115617,
+        "FM": 115619,
         "AM": 43706,
         "DBS": 5653
       },
       "political_file_type": {
-        "PA": 230736,
+        "PA": 230738,
         "NCIA": 127338
       }
     }
@@ -494,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1795,
-    "processTime": 804,
-    "responseTime": 1804
+    "queryTime": 1786,
+    "processTime": 797,
+    "responseTime": 1798
   }
 }
