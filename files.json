@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 536797,
+    "numFound": 536798,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "77bb8c6b-260a-e2aa-148f-bc3034020654",
+        "file_id": "77bb8c6b-260a-e2aa-148f-bc3034020654",
+        "file_name": "ISU 072221",
+        "file_extension": "pdf",
+        "file_size": 520164,
+        "file_status": "com_cpy",
+        "folder_id": "c6f720f4-d418-0f85-c48d-41a42cce9a33",
+        "create_ts": "2022-04-23T05:06:01.806Z",
+        "last_update_ts": "2022-04-23T05:05:43.237Z",
+        "active_ind": "Y",
+        "file_manager_id": "830defe9-3417-4086-b170-8299e7c13ffa",
+        "file_folder_path": "Ownership Reports/Additional Documents/Contracts and Agreements",
+        "full_qualified_file_name": "Ownership Reports/Additional Documents/Contracts and Agreements/ISU 072221",
+        "entity_id": "68824",
+        "source_service_code": "FM",
+        "callsign": "WVIG",
+        "non_political_file_folder": "Ownership Reports",
+        "_version_": 1730874297700843500,
+        "score": 0.24995688
+      },
       {
         "id": "9bce3d62-7ad0-74c5-0b29-41f13e6d1521",
         "file_id": "9bce3d62-7ad0-74c5-0b29-41f13e6d1521",
@@ -228,31 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1730872769384546300,
         "score": 0.24995688
-      },
-      {
-        "id": "35eb4249-9990-b118-93e7-d4bfd8a0a19f",
-        "file_id": "35eb4249-9990-b118-93e7-d4bfd8a0a19f",
-        "file_name": "Tina Kotek NAB  04.22.2022",
-        "file_extension": "pdf",
-        "file_size": 168587,
-        "file_status": "com_cpy",
-        "folder_id": "58afb066-3869-0f11-02ff-508916f7db9b",
-        "create_ts": "2022-04-23T04:30:03.832Z",
-        "last_update_ts": "2022-04-23T04:29:44.88Z",
-        "active_ind": "Y",
-        "file_manager_id": "dccd4b79-301a-41f1-8f89-76e90bba8c55",
-        "file_folder_path": "Political Files/2022/State/Governor/Tina Kotek",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Tina Kotek/Tina Kotek NAB  04.22.2022",
-        "entity_id": "60740",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "MEDFORD-KLAMATH FALLS",
-        "callsign": "KDKF",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1730872034482716700,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -454,7 +450,7 @@
         "FCC Investigations or Complaints": 1528,
         "Must-Carry or Retransmission Consent": 1304,
         "Childrens TV Programming Reports": 1160,
-        "Ownership Reports": 1116,
+        "Ownership Reports": 1117,
         "Class A TV Continuing Eligibility": 655,
         "Political Matters and Controversial Issues Disclosures": 628,
         "State and Local Franchising Related Materials": 497,
@@ -475,7 +471,7 @@
       "source_service_code": {
         "TV": 242866,
         "CABLE": 128839,
-        "FM": 115678,
+        "FM": 115679,
         "AM": 43752,
         "DBS": 5662
       },
@@ -497,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 200,
-    "processTime": 230,
-    "responseTime": 231
+    "queryTime": 1766,
+    "processTime": 774,
+    "responseTime": 1775
   }
 }
