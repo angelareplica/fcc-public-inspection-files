@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 536802,
+    "numFound": 536804,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "02f86bd7-e5b9-b6d0-7622-b61a6e3c550f",
+        "file_id": "02f86bd7-e5b9-b6d0-7622-b61a6e3c550f",
+        "file_name": "Boozman for Arkansas 04.22.2022",
+        "file_extension": "pdf",
+        "file_size": 3392068,
+        "file_status": "com_cpy",
+        "folder_id": "01df34ec-7d1e-0a5b-c5b9-c9b26e0721e2",
+        "create_ts": "2022-04-23T22:19:43.118Z",
+        "last_update_ts": "2022-04-23T22:19:47.297Z",
+        "active_ind": "Y",
+        "file_manager_id": "b0e569d1-7bc9-4091-9a85-42c9ce92712e",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Boozman for Arkansas 04.22.2022",
+        "entity_id": "81678",
+        "source_service_code": "FM",
+        "callsign": "KOTN",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1730939332327374800,
+        "score": 0.24995688
+      },
+      {
+        "id": "d022f959-aa94-1c9b-56d6-1a195216fe63",
+        "file_id": "d022f959-aa94-1c9b-56d6-1a195216fe63",
+        "file_name": "Boozman for Arkansas 04.22.2022",
+        "file_extension": "pdf",
+        "file_size": 3365138,
+        "file_status": "com_cpy",
+        "folder_id": "30885ac4-85a7-b302-161e-6175a33d9d9f",
+        "create_ts": "2022-04-23T21:55:02.83Z",
+        "last_update_ts": "2022-04-23T21:55:07.15Z",
+        "active_ind": "Y",
+        "file_manager_id": "b0352c71-f508-4e8d-b271-53cfd419e764",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Boozman for Arkansas 04.22.2022",
+        "entity_id": "40747",
+        "source_service_code": "FM",
+        "callsign": "KDEW-FM",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1730937780280754200,
+        "score": 0.24995688
+      },
       {
         "id": "88e87322-b774-73dd-8c57-b12f2a2f9e1c",
         "file_id": "88e87322-b774-73dd-8c57-b12f2a2f9e1c",
@@ -199,56 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1730872934759661600,
         "score": 0.24995688
-      },
-      {
-        "id": "98e1a33f-bf14-8161-86b4-d2fd1047da7b",
-        "file_id": "98e1a33f-bf14-8161-86b4-d2fd1047da7b",
-        "file_name": "Bob Tiernan for Oregon 8191 04.22.2022",
-        "file_extension": "pdf",
-        "file_size": 160768,
-        "file_status": "com_cpy",
-        "folder_id": "57fa0d54-31c8-99cc-35a7-66b1f2cbe35d",
-        "create_ts": "2022-04-23T04:43:04.881Z",
-        "last_update_ts": "2022-04-23T04:42:45.983Z",
-        "active_ind": "Y",
-        "file_manager_id": "2fa8ba4a-311f-4e60-98e1-70eb0e263d7e",
-        "file_folder_path": "Political Files/2022/State/Governor/Bob Tiernan for Oregon",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Bob Tiernan for Oregon/Bob Tiernan for Oregon 8191 04.22.2022",
-        "entity_id": "60736",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "MEDFORD-KLAMATH FALLS",
-        "callsign": "KDRV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1730872853535916000,
-        "score": 0.24995688
-      },
-      {
-        "id": "cdca0ea8-5d7e-5d3c-a941-7055e5a0d3d6",
-        "file_id": "cdca0ea8-5d7e-5d3c-a941-7055e5a0d3d6",
-        "file_name": "Run Betsy Run 8190 04.22.2022",
-        "file_extension": "pdf",
-        "file_size": 145465,
-        "file_status": "com_cpy",
-        "folder_id": "b22a0823-b855-efc9-fa02-07bd12a4feb1",
-        "create_ts": "2022-04-23T04:42:28.998Z",
-        "last_update_ts": "2022-04-23T04:42:32.239Z",
-        "active_ind": "Y",
-        "file_manager_id": "e17e31fb-23f2-4022-a4c4-b148b4d06100",
-        "file_folder_path": "Political Files/2022/State/Governor/Betsy Johnson",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Betsy Johnson/Run Betsy Run 8190 04.22.2022",
-        "entity_id": "60736",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "MEDFORD-KLAMATH FALLS",
-        "callsign": "KDRV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1730872815827026000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -427,13 +423,13 @@
         "2019": 13922,
         "2020": 125227,
         "2021": 22704,
-        "2022": 18255,
+        "2022": 18257,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 71897,
-        "US Senate": 51499,
+        "US Senate": 51501,
         "US House": 42271,
         "Presidential": 38447,
         "Local": 25829
@@ -471,12 +467,12 @@
       "source_service_code": {
         "TV": 242870,
         "CABLE": 128839,
-        "FM": 115679,
+        "FM": 115681,
         "AM": 43752,
         "DBS": 5662
       },
       "political_file_type": {
-        "PA": 231034,
+        "PA": 231036,
         "NCIA": 127516
       }
     }
@@ -493,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 202,
-    "processTime": 210,
-    "responseTime": 211
+    "queryTime": 205,
+    "processTime": 213,
+    "responseTime": 214
   }
 }
