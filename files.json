@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 536804,
+    "numFound": 536806,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "685fd0f9-1d93-70c8-c70c-8f092e61c9b9",
+        "file_id": "685fd0f9-1d93-70c8-c70c-8f092e61c9b9",
+        "file_name": "Kevin Stocker 5-2-22-05-10-22 Order Complete",
+        "file_extension": "pdf",
+        "file_size": 2066619,
+        "file_status": "com_cpy",
+        "folder_id": "d5fb64b6-513f-8150-cba1-afe6c1e698e4",
+        "create_ts": "2022-04-24T02:39:25.162Z",
+        "last_update_ts": "2022-04-24T02:39:52.564Z",
+        "active_ind": "Y",
+        "file_manager_id": "0dfc13a1-4764-47e1-82c6-071bf24d1d44",
+        "file_folder_path": "Political Files/2022/State/Nebraska Public Service Commission/Kevin Stocker",
+        "full_qualified_file_name": "Political Files/2022/State/Nebraska Public Service Commission/Kevin Stocker/Kevin Stocker 5-2-22-05-10-22 Order Complete",
+        "entity_id": "191571",
+        "source_service_code": "FM",
+        "callsign": "KDJL",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1730955670949200000,
+        "score": 0.24995688
+      },
+      {
+        "id": "c9cf0fd2-5100-578c-ad2d-1bfa0ea4f76a",
+        "file_id": "c9cf0fd2-5100-578c-ad2d-1bfa0ea4f76a",
+        "file_name": "Kevin Stocker 5-2-22-05-10-22 Order Complete",
+        "file_extension": "pdf",
+        "file_size": 2066619,
+        "file_status": "com_cpy",
+        "folder_id": "acea920b-5078-cf32-33df-f04447f728ee",
+        "create_ts": "2022-04-24T02:30:32.908Z",
+        "last_update_ts": "2022-04-24T02:30:36.742Z",
+        "active_ind": "Y",
+        "file_manager_id": "b8c769d4-9db7-4cbc-98f5-be8ff1a4835a",
+        "file_folder_path": "Political Files/2022/State/Nebraska Public Service Commission/Kevin Stocker",
+        "full_qualified_file_name": "Political Files/2022/State/Nebraska Public Service Commission/Kevin Stocker/Kevin Stocker 5-2-22-05-10-22 Order Complete",
+        "entity_id": "17028",
+        "source_service_code": "FM",
+        "callsign": "KSDZ",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1730955112818409500,
+        "score": 0.24995688
+      },
       {
         "id": "02f86bd7-e5b9-b6d0-7622-b61a6e3c550f",
         "file_id": "02f86bd7-e5b9-b6d0-7622-b61a6e3c550f",
@@ -195,56 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1730873084156575700,
         "score": 0.24995688
-      },
-      {
-        "id": "4f22025d-a558-05ba-618c-125adca29ed5",
-        "file_id": "4f22025d-a558-05ba-618c-125adca29ed5",
-        "file_name": "Tina Kotek NAB  04.22.2022",
-        "file_extension": "pdf",
-        "file_size": 168587,
-        "file_status": "com_cpy",
-        "folder_id": "0d208bac-d919-cd2c-3e78-4ccea2919f48",
-        "create_ts": "2022-04-23T04:44:22.383Z",
-        "last_update_ts": "2022-04-23T04:44:25.68Z",
-        "active_ind": "Y",
-        "file_manager_id": "de81342a-87e0-49bd-aac4-8b21c51e70b3",
-        "file_folder_path": "Political Files/2022/State/Governor/Tina Kotek",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Tina Kotek/Tina Kotek NAB  04.22.2022",
-        "entity_id": "60736",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "MEDFORD-KLAMATH FALLS",
-        "callsign": "KDRV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1730872934778536000,
-        "score": 0.24995688
-      },
-      {
-        "id": "df6d4387-adf2-53ef-9e76-13529184b17e",
-        "file_id": "df6d4387-adf2-53ef-9e76-13529184b17e",
-        "file_name": "Tina Kotek OR Gov - 8200 - 04.22.2022",
-        "file_extension": "pdf",
-        "file_size": 148781,
-        "file_status": "com_cpy",
-        "folder_id": "0d208bac-d919-cd2c-3e78-4ccea2919f48",
-        "create_ts": "2022-04-23T04:44:22.469Z",
-        "last_update_ts": "2022-04-23T04:44:03.445Z",
-        "active_ind": "Y",
-        "file_manager_id": "040b5063-0a41-4797-9d70-dc2b5d80a528",
-        "file_folder_path": "Political Files/2022/State/Governor/Tina Kotek",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Tina Kotek/Tina Kotek OR Gov - 8200 - 04.22.2022",
-        "entity_id": "60736",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "MEDFORD-KLAMATH FALLS",
-        "callsign": "KDRV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1730872934759661600,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -423,12 +419,12 @@
         "2019": 13922,
         "2020": 125227,
         "2021": 22704,
-        "2022": 18257,
+        "2022": 18259,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 71897,
+        "State": 71899,
         "US Senate": 51501,
         "US House": 42271,
         "Presidential": 38447,
@@ -467,12 +463,12 @@
       "source_service_code": {
         "TV": 242870,
         "CABLE": 128839,
-        "FM": 115681,
+        "FM": 115683,
         "AM": 43752,
         "DBS": 5662
       },
       "political_file_type": {
-        "PA": 231036,
+        "PA": 231038,
         "NCIA": 127516
       }
     }
@@ -489,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 66,
-    "processTime": 74,
-    "responseTime": 74
+    "queryTime": 204,
+    "processTime": 216,
+    "responseTime": 217
   }
 }
