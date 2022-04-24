@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 536806,
+    "numFound": 536808,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "f603f5cf-a564-b199-cf75-c976662d898f",
+        "file_id": "f603f5cf-a564-b199-cf75-c976662d898f",
+        "file_name": "Dan O Dea for Senate 042522-042922",
+        "file_extension": "pdf",
+        "file_size": 2088812,
+        "file_status": "com_cpy",
+        "folder_id": "e97df7aa-246d-1e12-8fd4-be262c39b28c",
+        "create_ts": "2022-04-24T04:08:41.724Z",
+        "last_update_ts": "2022-04-24T04:08:23.207Z",
+        "active_ind": "Y",
+        "file_manager_id": "30684fb9-96c2-4b31-ab5c-08c9d69a8366",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Dan O Dea for Senate 042522-042922",
+        "entity_id": "39677",
+        "source_service_code": "FM",
+        "callsign": "KSPK-FM",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1730961287763984400,
+        "score": 0.24995688
+      },
+      {
+        "id": "da41ba00-a953-89d0-6d85-ebb5d7b81288",
+        "file_id": "da41ba00-a953-89d0-6d85-ebb5d7b81288",
+        "file_name": "Dan O Dea for Senate 042522-042922",
+        "file_extension": "pdf",
+        "file_size": 2088812,
+        "file_status": "com_cpy",
+        "folder_id": "2fb7a3ed-25b3-3220-64ac-f91349c4a954",
+        "create_ts": "2022-04-24T04:05:55.717Z",
+        "last_update_ts": "2022-04-24T04:05:37.313Z",
+        "active_ind": "Y",
+        "file_manager_id": "372d4cb1-8472-48a8-a16d-fbbd9a40658c",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Dan O Dea for Senate 042522-042922",
+        "entity_id": "189554",
+        "source_service_code": "FM",
+        "callsign": "KSBK",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1730961113813614600,
+        "score": 0.24995688
+      },
       {
         "id": "685fd0f9-1d93-70c8-c70c-8f092e61c9b9",
         "file_id": "685fd0f9-1d93-70c8-c70c-8f092e61c9b9",
@@ -195,52 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1730904886328950800,
         "score": 0.24995688
-      },
-      {
-        "id": "77bb8c6b-260a-e2aa-148f-bc3034020654",
-        "file_id": "77bb8c6b-260a-e2aa-148f-bc3034020654",
-        "file_name": "ISU 072221",
-        "file_extension": "pdf",
-        "file_size": 520164,
-        "file_status": "com_cpy",
-        "folder_id": "c6f720f4-d418-0f85-c48d-41a42cce9a33",
-        "create_ts": "2022-04-23T05:06:01.806Z",
-        "last_update_ts": "2022-04-23T05:05:43.237Z",
-        "active_ind": "Y",
-        "file_manager_id": "830defe9-3417-4086-b170-8299e7c13ffa",
-        "file_folder_path": "Ownership Reports/Additional Documents/Contracts and Agreements",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Contracts and Agreements/ISU 072221",
-        "entity_id": "68824",
-        "source_service_code": "FM",
-        "callsign": "WVIG",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1730874297700843500,
-        "score": 0.24995688
-      },
-      {
-        "id": "9bce3d62-7ad0-74c5-0b29-41f13e6d1521",
-        "file_id": "9bce3d62-7ad0-74c5-0b29-41f13e6d1521",
-        "file_name": "Christine Drazan OR Govenor 103128 Rv 04.21.2022",
-        "file_extension": "pdf",
-        "file_size": 208102,
-        "file_status": "com_cpy",
-        "folder_id": "135d5d52-3c5b-dc13-25ba-d3cfb3d0ea2d",
-        "create_ts": "2022-04-23T04:46:44.766Z",
-        "last_update_ts": "2022-04-23T04:46:25.917Z",
-        "active_ind": "Y",
-        "file_manager_id": "3d33f2bc-084c-4b49-96d0-244d0c0a138d",
-        "file_folder_path": "Political Files/2022/State/Governor/Friends of Christine Drazan",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Friends of Christine Drazan/Christine Drazan OR Govenor 103128 Rv 04.21.2022",
-        "entity_id": "60740",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "MEDFORD-KLAMATH FALLS",
-        "callsign": "KDKF",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1730873084156575700,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -419,13 +419,13 @@
         "2019": 13922,
         "2020": 125227,
         "2021": 22704,
-        "2022": 18259,
+        "2022": 18261,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 71899,
-        "US Senate": 51501,
+        "US Senate": 51503,
         "US House": 42271,
         "Presidential": 38447,
         "Local": 25829
@@ -463,12 +463,12 @@
       "source_service_code": {
         "TV": 242870,
         "CABLE": 128839,
-        "FM": 115683,
+        "FM": 115685,
         "AM": 43752,
         "DBS": 5662
       },
       "political_file_type": {
-        "PA": 231038,
+        "PA": 231040,
         "NCIA": 127516
       }
     }
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 66,
-    "processTime": 75,
-    "responseTime": 75
+    "queryTime": 201,
+    "processTime": 211,
+    "responseTime": 212
   }
 }
