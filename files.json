@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 537417,
+    "numFound": 537418,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "71f697bd-1876-3711-87d9-bf32c96e4c9e",
+        "file_id": "71f697bd-1876-3711-87d9-bf32c96e4c9e",
+        "file_name": "KERRI PAGE PARKER DOCUMENTS",
+        "file_extension": "pdf",
+        "file_size": 1226374,
+        "file_status": "com_cpy",
+        "folder_id": "fb60fb9c-f900-7950-98a7-c7b35da08704",
+        "create_ts": "2022-04-26T10:46:06.989Z",
+        "last_update_ts": "2022-04-26T10:45:47.598Z",
+        "active_ind": "Y",
+        "file_manager_id": "b0871e7e-19dd-46d3-9193-64fef969edee",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/KERRI PAGE PARKER DOCUMENTS",
+        "entity_id": "5356",
+        "source_service_code": "AM",
+        "callsign": "WATV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1731167484877209600,
+        "score": 0.00012497844
+      },
       {
         "id": "5a1a7bcc-94c0-e4fa-02ce-be1b3b008b36",
         "file_id": "5a1a7bcc-94c0-e4fa-02ce-be1b3b008b36",
@@ -228,31 +251,6 @@
         "campaign_year": "2022",
         "_version_": 1731144479612600300,
         "score": 0.24995688
-      },
-      {
-        "id": "ee84f793-36b6-a9e5-3f99-a0175e1a42c2",
-        "file_id": "ee84f793-36b6-a9e5-3f99-a0175e1a42c2",
-        "file_name": "Lori Chavez-DeRemer for Congress KOHD 27771491 Est 2698 27023 Order 042222",
-        "file_extension": "pdf",
-        "file_size": 18310,
-        "file_status": "com_cpy",
-        "folder_id": "c257bd4c-625e-0044-f39f-04784a5571dc",
-        "create_ts": "2022-04-26T04:40:26.125Z",
-        "last_update_ts": "2022-04-26T04:40:06.378Z",
-        "active_ind": "Y",
-        "file_manager_id": "f0dd19f6-ac51-45e8-8b01-90059e6e4dbf",
-        "file_folder_path": "Political Files/2022/Federal/US House/Lori Chavez-DeRemer for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Lori Chavez-DeRemer for Congress/Lori Chavez-DeRemer for Congress KOHD 27771491 Est 2698 27023 Order 042222",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731144477782835200,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -431,7 +429,7 @@
         "2019": 13922,
         "2020": 125168,
         "2021": 22704,
-        "2022": 18890,
+        "2022": 18891,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -440,7 +438,7 @@
         "US Senate": 51534,
         "US House": 42351,
         "Presidential": 38420,
-        "Local": 25923
+        "Local": 25924
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
@@ -476,11 +474,11 @@
         "TV": 243134,
         "CABLE": 128909,
         "FM": 115857,
-        "AM": 43849,
+        "AM": 43850,
         "DBS": 5668
       },
       "political_file_type": {
-        "PA": 231463,
+        "PA": 231464,
         "NCIA": 127663
       }
     }
@@ -497,8 +495,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 211,
-    "responseTime": 211
+    "queryTime": 1756,
+    "processTime": 767,
+    "responseTime": 1768
   }
 }
