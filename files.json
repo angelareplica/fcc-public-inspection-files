@@ -1,9 +1,54 @@
 {
   "response": {
-    "numFound": 537605,
+    "numFound": 537607,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "a4811539-bc7d-cc65-a082-bf2d7fd4fb70",
+        "file_id": "a4811539-bc7d-cc65-a082-bf2d7fd4fb70",
+        "file_name": "WYXY FM_F2022_6007328_Invoice_041922 042222",
+        "file_extension": "pdf",
+        "file_size": 28626,
+        "file_status": "com_cpy",
+        "folder_id": "92d520cc-7b6a-c0cd-de3f-1d823070e727",
+        "create_ts": "2022-04-26T17:40:45.429Z",
+        "last_update_ts": "2022-04-26T17:47:16.862Z",
+        "active_ind": "Y",
+        "file_manager_id": "0c80f4a6-7096-4212-a584-f1325653a145",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/People Who Play By The Rules PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/People Who Play By The Rules PAC/WYXY FM_F2022_6007328_Invoice_041922 042222",
+        "entity_id": "28195",
+        "source_service_code": "FM",
+        "callsign": "WYXY",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1731193946552402000,
+        "score": 0.24995688
+      },
+      {
+        "id": "1327b958-4e21-adc5-9571-09bc3b6cdccd",
+        "file_id": "1327b958-4e21-adc5-9571-09bc3b6cdccd",
+        "file_name": "SAM PALMER RNW Contract 627145 (003)",
+        "file_extension": "pdf",
+        "file_size": 125786,
+        "file_status": "com_cpy",
+        "folder_id": "a2f40efa-21a7-f1cc-7caa-68d16dcd8dd9",
+        "create_ts": "2022-04-26T17:41:55.64Z",
+        "last_update_ts": "2022-04-26T17:42:29.606Z",
+        "active_ind": "Y",
+        "file_manager_id": "ca1026d1-86ef-458c-89ab-0caac224e238",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/SAM PALMER RNW Contract 627145 (003)",
+        "entity_id": "40386",
+        "source_service_code": "AM",
+        "callsign": "KQEN",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1731193645411860500,
+        "score": 0.24995688
+      },
       {
         "id": "1ca8b080-d4e3-8231-9c0a-301bfa09bbc7",
         "file_id": "1ca8b080-d4e3-8231-9c0a-301bfa09bbc7",
@@ -198,56 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1731192008169488400,
         "score": 0.24995688
-      },
-      {
-        "id": "4cf7b72c-fd76-1933-6c80-1088afb66453",
-        "file_id": "4cf7b72c-fd76-1933-6c80-1088afb66453",
-        "file_name": "A589010-Invoice-2524594-1-042522",
-        "file_extension": "pdf",
-        "file_size": 392626,
-        "file_status": "com_cpy",
-        "folder_id": "ed407d7b-66b1-92dd-e99d-40b4a3f208a1",
-        "create_ts": "2022-04-26T17:14:36.721Z",
-        "last_update_ts": "2022-04-26T17:15:10.453Z",
-        "active_ind": "Y",
-        "file_manager_id": "c2f31420-e0ba-4074-9156-d7348e89171c",
-        "file_folder_path": "Political Files/2022/State/Governor-NE/Jim Pillen/Pillen for Governor-589010",
-        "full_qualified_file_name": "Political Files/2022/State/Governor-NE/Jim Pillen/Pillen for Governor-589010/A589010-Invoice-2524594-1-042522",
-        "entity_id": "66170",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "SIOUX CITY",
-        "callsign": "KTIV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1731191926616490000,
-        "score": 0.24995688
-      },
-      {
-        "id": "c9cd1679-a2b8-8523-196d-e925b25fe04f",
-        "file_id": "c9cd1679-a2b8-8523-196d-e925b25fe04f",
-        "file_name": "A589010-Invoice-2518522-1-042522",
-        "file_extension": "pdf",
-        "file_size": 370631,
-        "file_status": "com_cpy",
-        "folder_id": "ed407d7b-66b1-92dd-e99d-40b4a3f208a1",
-        "create_ts": "2022-04-26T17:14:36.041Z",
-        "last_update_ts": "2022-04-26T17:15:09.782Z",
-        "active_ind": "Y",
-        "file_manager_id": "ff8a1d12-9e28-44e3-92e4-036e58fee898",
-        "file_folder_path": "Political Files/2022/State/Governor-NE/Jim Pillen/Pillen for Governor-589010",
-        "full_qualified_file_name": "Political Files/2022/State/Governor-NE/Jim Pillen/Pillen for Governor-589010/A589010-Invoice-2518522-1-042522",
-        "entity_id": "66170",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "SIOUX CITY",
-        "callsign": "KTIV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1731191925909749800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -426,13 +421,13 @@
         "2019": 13922,
         "2020": 125162,
         "2021": 22704,
-        "2022": 19066,
+        "2022": 19068,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 72226,
-        "US Senate": 51541,
+        "US Senate": 51542,
         "US House": 42369,
         "Presidential": 38420,
         "Local": 25944
@@ -470,13 +465,13 @@
       "source_service_code": {
         "TV": 243226,
         "CABLE": 128919,
-        "FM": 115906,
-        "AM": 43886,
+        "FM": 115907,
+        "AM": 43887,
         "DBS": 5668
       },
       "political_file_type": {
-        "PA": 231588,
-        "NCIA": 127708
+        "PA": 231589,
+        "NCIA": 127709
       }
     }
   },
@@ -492,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1788,
-    "processTime": 796,
-    "responseTime": 1797
+    "queryTime": 1837,
+    "processTime": 846,
+    "responseTime": 1846
   }
 }
