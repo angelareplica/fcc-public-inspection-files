@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 537890,
+    "numFound": 537892,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "c3b12095-5614-12be-7bde-ade8d78d30e2",
+        "file_id": "c3b12095-5614-12be-7bde-ade8d78d30e2",
+        "file_name": "Nina Turner WERE_11773651_order_2022-04-26",
+        "file_extension": "pdf",
+        "file_size": 86581,
+        "file_status": "com_cpy",
+        "folder_id": "646bf890-801e-4161-99c2-5facf45d457d",
+        "create_ts": "2022-04-26T23:27:44.718Z",
+        "last_update_ts": "2022-04-26T23:28:18.96Z",
+        "active_ind": "Y",
+        "file_manager_id": "1829feb3-e1d9-4b97-9277-3ce71f46520b",
+        "file_folder_path": "Political Files/2022/Federal/US House/NINA TURNER FOR US",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/NINA TURNER FOR US/Nina Turner WERE_11773651_order_2022-04-26",
+        "entity_id": "74472",
+        "source_service_code": "AM",
+        "callsign": "WERE",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1731215401948283000,
+        "score": 0.24995688
+      },
+      {
+        "id": "0fc84204-8689-e30e-f376-cb3e579668dd",
+        "file_id": "0fc84204-8689-e30e-f376-cb3e579668dd",
+        "file_name": "NT_WERE_NAB_2022-04-26",
+        "file_extension": "pdf",
+        "file_size": 966947,
+        "file_status": "com_cpy",
+        "folder_id": "646bf890-801e-4161-99c2-5facf45d457d",
+        "create_ts": "2022-04-26T23:27:46.393Z",
+        "last_update_ts": "2022-04-26T23:27:49.849Z",
+        "active_ind": "Y",
+        "file_manager_id": "48d914bc-fad1-4429-8542-c2d83942a42c",
+        "file_folder_path": "Political Files/2022/Federal/US House/NINA TURNER FOR US",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/NINA TURNER FOR US/NT_WERE_NAB_2022-04-26",
+        "entity_id": "74472",
+        "source_service_code": "AM",
+        "callsign": "WERE",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1731215404111495200,
+        "score": 0.24995688
+      },
       {
         "id": "62e0fdd5-9c17-a6b3-b166-8ae16efdf82b",
         "file_id": "62e0fdd5-9c17-a6b3-b166-8ae16efdf82b",
@@ -186,52 +232,6 @@
         "campaign_year": "2022",
         "_version_": 1731215100163915800,
         "score": 0.24995688
-      },
-      {
-        "id": "c9aada02-8a22-78e6-71f4-f123ff378f07",
-        "file_id": "c9aada02-8a22-78e6-71f4-f123ff378f07",
-        "file_name": "NT_WZAK_NAB_2022-04-26",
-        "file_extension": "pdf",
-        "file_size": 975439,
-        "file_status": "com_cpy",
-        "folder_id": "0e18bf34-03ed-5c69-bf62-afb04b9b9795",
-        "create_ts": "2022-04-26T23:22:21.476Z",
-        "last_update_ts": "2022-04-26T23:22:56.297Z",
-        "active_ind": "Y",
-        "file_manager_id": "8c3e8242-7d1d-4d55-bd71-693ba0c50c56",
-        "file_folder_path": "Political Files/2022/Federal/US House/NINA TURNER FOR US",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/NINA TURNER FOR US/NT_WZAK_NAB_2022-04-26",
-        "entity_id": "74465",
-        "source_service_code": "FM",
-        "callsign": "WZAK",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731215063619993600,
-        "score": 0.24995688
-      },
-      {
-        "id": "96d2213e-19a0-0812-26ea-0da25e930f6e",
-        "file_id": "96d2213e-19a0-0812-26ea-0da25e930f6e",
-        "file_name": "Nina Turner WZAK_order_11773652_2022-04-26",
-        "file_extension": "pdf",
-        "file_size": 81008,
-        "file_status": "com_cpy",
-        "folder_id": "0e18bf34-03ed-5c69-bf62-afb04b9b9795",
-        "create_ts": "2022-04-26T23:22:18.501Z",
-        "last_update_ts": "2022-04-26T23:22:53.577Z",
-        "active_ind": "Y",
-        "file_manager_id": "1a4df5bf-fe64-4a93-856a-b298fb429b7f",
-        "file_folder_path": "Political Files/2022/Federal/US House/NINA TURNER FOR US",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/NINA TURNER FOR US/Nina Turner WZAK_order_11773652_2022-04-26",
-        "entity_id": "74465",
-        "source_service_code": "FM",
-        "callsign": "WZAK",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731215060773109800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -410,14 +410,14 @@
         "2019": 13922,
         "2020": 125160,
         "2021": 22704,
-        "2022": 19341,
+        "2022": 19343,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 72327,
         "US Senate": 51561,
-        "US House": 42427,
+        "US House": 42429,
         "Presidential": 38420,
         "Local": 25972
       },
@@ -455,11 +455,11 @@
         "TV": 243393,
         "CABLE": 128940,
         "FM": 115965,
-        "AM": 43924,
+        "AM": 43926,
         "DBS": 5668
       },
       "political_file_type": {
-        "PA": 231801,
+        "PA": 231803,
         "NCIA": 127768
       }
     }
@@ -476,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1065,
-    "processTime": 71,
-    "responseTime": 1071
+    "queryTime": 1796,
+    "processTime": 802,
+    "responseTime": 1803
   }
 }
