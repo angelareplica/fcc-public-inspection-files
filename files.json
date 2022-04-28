@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 538625,
+    "numFound": 538627,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "d73a76e0-a1c4-79c6-c157-3a6e815c700b",
+        "file_id": "d73a76e0-a1c4-79c6-c157-3a6e815c700b",
+        "file_name": "Jesse-Slaughter-04-20-2022 KTGF Political Disclosure Forms",
+        "file_extension": "pdf",
+        "file_size": 50572,
+        "file_status": "com_cpy",
+        "folder_id": "ea58af2d-c993-d74c-9347-7a662a506f99",
+        "create_ts": "2022-04-28T14:41:14.686Z",
+        "last_update_ts": "2022-04-28T14:41:17.846Z",
+        "active_ind": "Y",
+        "file_manager_id": "f8249023-82f4-4973-8df9-8f211976095c",
+        "file_folder_path": "Political Files/2022/Local/Slaughter Republican Sheriff/KTGF Political Disclosure Forms",
+        "full_qualified_file_name": "Political Files/2022/Local/Slaughter Republican Sheriff/KTGF Political Disclosure Forms/Jesse-Slaughter-04-20-2022 KTGF Political Disclosure Forms",
+        "entity_id": "5290",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HELENA",
+        "callsign": "KTVH-DT",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1731363471409283000,
+        "score": 0.24995688
+      },
+      {
+        "id": "169d8e8f-9907-48ed-c815-c9383f4b12ab",
+        "file_id": "169d8e8f-9907-48ed-c815-c9383f4b12ab",
+        "file_name": "Stu for Indiana EST 2281 0420-042622 INVOICE1",
+        "file_extension": "pdf",
+        "file_size": 26449,
+        "file_status": "com_cpy",
+        "folder_id": "6cda1f83-d5da-7101-bf0f-ae019ff8abfa",
+        "create_ts": "2022-04-28T14:22:48.285Z",
+        "last_update_ts": "2022-04-28T14:23:27.02Z",
+        "active_ind": "Y",
+        "file_manager_id": "f2751af9-7963-40ae-a5fb-4948957bf9eb",
+        "file_folder_path": "Political Files/2022/Federal/US House/Stu for Indiana - Stu Barnes-Israel",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Stu for Indiana - Stu Barnes-Israel/Stu for Indiana EST 2281 0420-042622 INVOICE1",
+        "entity_id": "28476",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "LOUISVILLE",
+        "callsign": "WDRB",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1731362311196639200,
+        "score": 0.24995688
+      },
       {
         "id": "76645941-16ad-eeb7-1cf4-b86665a468ce",
         "file_id": "76645941-16ad-eeb7-1cf4-b86665a468ce",
@@ -201,56 +251,6 @@
         "campaign_year": "2022",
         "_version_": 1731361304824774700,
         "score": 0.24995688
-      },
-      {
-        "id": "3ecf702b-e436-a7fd-edbb-7c7eb3e4d970",
-        "file_id": "3ecf702b-e436-a7fd-edbb-7c7eb3e4d970",
-        "file_name": "Greenberg for Mayor EST 10555 0412-041822 WDRB INVOICE",
-        "file_extension": "pdf",
-        "file_size": 47817,
-        "file_status": "com_cpy",
-        "folder_id": "6d550dd9-405c-ddc5-582d-e0770dda3db7",
-        "create_ts": "2022-04-28T13:53:45.546Z",
-        "last_update_ts": "2022-04-28T13:54:24.296Z",
-        "active_ind": "Y",
-        "file_manager_id": "44bf66f2-4af4-4584-acd2-43603881bf82",
-        "file_folder_path": "Political Files/2022/Local/Mayor - Louisville/Run with Craig - Craig Greenberg",
-        "full_qualified_file_name": "Political Files/2022/Local/Mayor - Louisville/Run with Craig - Craig Greenberg/Greenberg for Mayor EST 10555 0412-041822 WDRB INVOICE",
-        "entity_id": "28476",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LOUISVILLE",
-        "callsign": "WDRB",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1731360483872604200,
-        "score": 0.24995688
-      },
-      {
-        "id": "f1a775d4-ba81-413e-6bcf-1cac00cb87f3",
-        "file_id": "f1a775d4-ba81-413e-6bcf-1cac00cb87f3",
-        "file_name": "Greenberg for Mayor EST 10555 0412-041822 WBKI583 INVOICE",
-        "file_extension": "pdf",
-        "file_size": 22636,
-        "file_status": "com_cpy",
-        "folder_id": "cf06790c-49f8-c27b-6750-90434bda8f5b",
-        "create_ts": "2022-04-28T13:51:24.675Z",
-        "last_update_ts": "2022-04-28T13:51:27.775Z",
-        "active_ind": "Y",
-        "file_manager_id": "2fe8415c-7dbd-47b8-8c3a-28fcd3fd308f",
-        "file_folder_path": "Political Files/2022/Local/Mayor - Louisville/Run with Craig - Craig Greenberg/WBKI - MY583",
-        "full_qualified_file_name": "Political Files/2022/Local/Mayor - Louisville/Run with Craig - Craig Greenberg/WBKI - MY583/Greenberg for Mayor EST 10555 0412-041822 WBKI583 INVOICE",
-        "entity_id": "34167",
-        "source_service_code": "TV",
-        "network_affiliation": "MYNETWORKTV",
-        "nielsen_dma_rank": "LOUISVILLE",
-        "callsign": "WBKI",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1731360336089448400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -325,7 +325,7 @@
         "COLUMBUS OH": 1074,
         "ST. LOUIS": 1072,
         "DENVER": 1064,
-        "LOUISVILLE": 1049,
+        "LOUISVILLE": 1050,
         "ORLANDO-DAYTONA BCH-MELBRN": 1040,
         "WICHITA-HUTCHINSON PLUS": 989,
         "JACKSON MS": 988,
@@ -337,7 +337,7 @@
         "LANSING": 823,
         "TULSA": 812,
         "GREENVILLE-N.BERN-WASHNGTN": 803,
-        "HELENA": 783,
+        "HELENA": 784,
         "TWIN FALLS": 752,
         "FLINT-SAGINAW-BAY CITY": 732,
         "COLORADO SPRINGS-PUEBLO": 730,
@@ -358,9 +358,9 @@
       },
       "network_affiliation": {
         "ABC": 59973,
-        "NBC": 58036,
+        "NBC": 58037,
         "CBS": 40121,
-        "FOX": 28692,
+        "FOX": 28693,
         "PBS": 14703,
         "CW": 12198,
         "IND": 3009,
@@ -429,16 +429,16 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 20008,
+        "2022": 20010,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 72600,
         "US Senate": 51618,
-        "US House": 42471,
+        "US House": 42472,
         "Presidential": 38419,
-        "Local": 26079
+        "Local": 26080
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
@@ -471,14 +471,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 243746,
+        "TV": 243748,
         "CABLE": 129020,
         "FM": 116151,
         "AM": 44027,
         "DBS": 5681
       },
       "political_file_type": {
-        "PA": 232283,
+        "PA": 232285,
         "NCIA": 127950
       }
     }
@@ -495,8 +495,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1879,
-    "processTime": 886,
-    "responseTime": 1886
+    "queryTime": 1768,
+    "processTime": 774,
+    "responseTime": 1775
   }
 }
