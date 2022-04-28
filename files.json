@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 538641,
+    "numFound": 538642,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "4e8147ec-ad3d-9df5-4ea0-45fa61ea3143",
+        "file_id": "4e8147ec-ad3d-9df5-4ea0-45fa61ea3143",
+        "file_name": "Dewine Husted WMJK 04282022",
+        "file_extension": "pdf",
+        "file_size": 503887,
+        "file_status": "com_cpy",
+        "folder_id": "714bcf2a-a172-84a9-28ca-22493eb32367",
+        "create_ts": "2022-04-28T15:30:28.3Z",
+        "last_update_ts": "2022-04-28T15:30:08.308Z",
+        "active_ind": "Y",
+        "file_manager_id": "341f25b9-47cb-4a93-b9bb-4db09c482e6c",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/Dewine Husted WMJK 04282022",
+        "entity_id": "58344",
+        "source_service_code": "FM",
+        "callsign": "WMJK",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1731366568709849000,
+        "score": 0.24995688
+      },
       {
         "id": "aa8cbe9f-fe6f-177d-4c98-abbec7f34e04",
         "file_id": "aa8cbe9f-fe6f-177d-4c98-abbec7f34e04",
@@ -218,31 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1731365132350521300,
         "score": 0.24995688
-      },
-      {
-        "id": "8a3d2b67-5616-c135-12d9-d983a507e9c8",
-        "file_id": "8a3d2b67-5616-c135-12d9-d983a507e9c8",
-        "file_name": "Brown 04.04.22-06.13.22 1007577 Ord Rev (5)",
-        "file_extension": "pdf",
-        "file_size": 42552,
-        "file_status": "com_cpy",
-        "folder_id": "411dc495-6fe6-4bdf-85f4-264dce662963",
-        "create_ts": "2022-04-28T15:06:28.123Z",
-        "last_update_ts": "2022-04-28T15:06:07.881Z",
-        "active_ind": "Y",
-        "file_manager_id": "738d1a2c-cb8d-4a34-a6cd-49da85b00d02",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Sam Brown",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Sam Brown/Brown 04.04.22-06.13.22 1007577 Ord Rev (5)",
-        "entity_id": "74100",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KTNV-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1731365058307424300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -421,12 +419,12 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 20024,
+        "2022": 20025,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 72606,
+        "State": 72607,
         "US Senate": 51619,
         "US House": 42473,
         "Presidential": 38419,
@@ -465,12 +463,12 @@
       "source_service_code": {
         "TV": 243756,
         "CABLE": 129020,
-        "FM": 116152,
+        "FM": 116153,
         "AM": 44032,
         "DBS": 5681
       },
       "political_file_type": {
-        "PA": 232297,
+        "PA": 232298,
         "NCIA": 127952
       }
     }
@@ -487,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 205,
-    "processTime": 215,
-    "responseTime": 216
+    "queryTime": 1084,
+    "processTime": 90,
+    "responseTime": 1090
   }
 }
