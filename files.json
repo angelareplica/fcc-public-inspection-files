@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 538941,
+    "numFound": 538942,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "b294b9a0-816e-4a4b-88ba-b733da258147",
+        "file_id": "b294b9a0-816e-4a4b-88ba-b733da258147",
+        "file_name": "JOE O'DEA FOR US SENATE 042722",
+        "file_extension": "pdf",
+        "file_size": 120501,
+        "file_status": "com_cpy",
+        "folder_id": "beada223-21c7-8392-0a82-6f64be8aedd3",
+        "create_ts": "2022-04-29T03:54:58.975Z",
+        "last_update_ts": "2022-04-29T03:54:38.602Z",
+        "active_ind": "Y",
+        "file_manager_id": "4114527f-bed2-493d-9326-0c7a1cfb728a",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/JOE O'DEA FOR US SENATE 042722",
+        "entity_id": "164260",
+        "source_service_code": "FM",
+        "callsign": "KRZX",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1731413409021296600,
+        "score": 0.24995688
+      },
       {
         "id": "1685d77a-af47-5ab6-e536-f4bea3670086",
         "file_id": "1685d77a-af47-5ab6-e536-f4bea3670086",
@@ -228,31 +251,6 @@
         "campaign_year": "2022",
         "_version_": 1731402696450113500,
         "score": 0.24995688
-      },
-      {
-        "id": "7905a368-c13a-1dc9-b324-bb73f719e3e3",
-        "file_id": "7905a368-c13a-1dc9-b324-bb73f719e3e3",
-        "file_name": "Christina Stephenson, KOIN 3526784, 0509-0516",
-        "file_extension": "pdf",
-        "file_size": 257400,
-        "file_status": "com_cpy",
-        "folder_id": "44ac7cb1-ac95-1348-c3f7-891e5e2f9b69",
-        "create_ts": "2022-04-29T01:04:42.427Z",
-        "last_update_ts": "2022-04-29T01:04:22.302Z",
-        "active_ind": "Y",
-        "file_manager_id": "81d866c1-5736-4ec2-b409-e75351b1e9c3",
-        "file_folder_path": "Political Files/2022/State/Christina Stephenson OR Labor Com/Contracts",
-        "full_qualified_file_name": "Political Files/2022/State/Christina Stephenson OR Labor Com/Contracts/Christina Stephenson, KOIN 3526784, 0509-0516",
-        "entity_id": "35380",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "PORTLAND OR",
-        "callsign": "KOIN",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1731402696428093400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -431,13 +429,13 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 20326,
+        "2022": 20327,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 72703,
-        "US Senate": 51647,
+        "US Senate": 51648,
         "US House": 42528,
         "Presidential": 38419,
         "Local": 26121
@@ -475,12 +473,12 @@
       "source_service_code": {
         "TV": 243972,
         "CABLE": 129025,
-        "FM": 116221,
+        "FM": 116222,
         "AM": 44039,
         "DBS": 5684
       },
       "political_file_type": {
-        "PA": 232511,
+        "PA": 232512,
         "NCIA": 128040
       }
     }
@@ -497,8 +495,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1781,
-    "processTime": 789,
-    "responseTime": 1790
+    "queryTime": 205,
+    "processTime": 214,
+    "responseTime": 215
   }
 }
