@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 538944,
+    "numFound": 538945,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "c4080be3-a349-8e53-2bf3-bd701349a6a2",
+        "file_id": "c4080be3-a349-8e53-2bf3-bd701349a6a2",
+        "file_name": "Craig Riedel For Ohio WKFM 042922",
+        "file_extension": "pdf",
+        "file_size": 319903,
+        "file_status": "com_cpy",
+        "folder_id": "800bfec6-376c-0862-9b57-11cc995579e0",
+        "create_ts": "2022-04-29T12:23:08.604Z",
+        "last_update_ts": "2022-04-29T12:22:48.429Z",
+        "active_ind": "Y",
+        "file_manager_id": "557ff198-565c-459b-933c-62b2598c8864",
+        "file_folder_path": "Political Files/2022/Federal/US House/Craig Riedel for Ohio",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Craig Riedel for Ohio/Craig Riedel For Ohio WKFM 042922",
+        "entity_id": "39170",
+        "source_service_code": "FM",
+        "callsign": "WKFM",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1731445379988193300,
+        "score": 0.24995688
+      },
       {
         "id": "474cb9e2-332c-2414-a66b-c164aced6725",
         "file_id": "474cb9e2-332c-2414-a66b-c164aced6725",
@@ -224,31 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1731402960977526800,
         "score": 0.24995688
-      },
-      {
-        "id": "97b2891d-821e-503f-9a6b-e06a39df4a0e",
-        "file_id": "97b2891d-821e-503f-9a6b-e06a39df4a0e",
-        "file_name": "Jimmy Crumpacker, KOIN 3527323, 0502-0508",
-        "file_extension": "pdf",
-        "file_size": 246705,
-        "file_status": "com_cpy",
-        "folder_id": "d1b852d4-5a8d-8c06-72fa-814bd4ea9550",
-        "create_ts": "2022-04-29T01:07:28.224Z",
-        "last_update_ts": "2022-04-29T01:08:08.394Z",
-        "active_ind": "Y",
-        "file_manager_id": "ae96b83b-5cee-4170-a2c6-c94ce81ed127",
-        "file_folder_path": "Political Files/2022/Federal/US House/Jimmy Crumpacker US Congress Rep/Contracts",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Jimmy Crumpacker US Congress Rep/Contracts/Jimmy Crumpacker, KOIN 3527323, 0502-0508",
-        "entity_id": "35380",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "PORTLAND OR",
-        "callsign": "KOIN",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731402870244245500,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -427,14 +425,14 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 20329,
+        "2022": 20330,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 72704,
         "US Senate": 51648,
-        "US House": 42529,
+        "US House": 42530,
         "Presidential": 38419,
         "Local": 26121
       },
@@ -471,12 +469,12 @@
       "source_service_code": {
         "TV": 243973,
         "CABLE": 129025,
-        "FM": 116223,
+        "FM": 116224,
         "AM": 44039,
         "DBS": 5684
       },
       "political_file_type": {
-        "PA": 232513,
+        "PA": 232514,
         "NCIA": 128041
       }
     }
@@ -493,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 205,
-    "processTime": 213,
-    "responseTime": 214
+    "queryTime": 1787,
+    "processTime": 797,
+    "responseTime": 1797
   }
 }
