@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 538942,
+    "numFound": 538943,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "61497d0c-5aff-a542-6c65-228a9e82fda4",
+        "file_id": "61497d0c-5aff-a542-6c65-228a9e82fda4",
+        "file_name": "Staples for Congress WFSH 050222 Order and NAB PB-19",
+        "file_extension": "pdf",
+        "file_size": 313653,
+        "file_status": "com_cpy",
+        "folder_id": "5b608ec6-1268-4223-ef83-69a382c39b00",
+        "create_ts": "2022-04-29T05:24:07.711Z",
+        "last_update_ts": "2022-04-29T05:23:47.446Z",
+        "active_ind": "Y",
+        "file_manager_id": "0299db3e-ea07-471d-9229-2c0873886cba",
+        "file_folder_path": "Political Files/2022/Federal/US House/Georgia Primary",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Georgia Primary/Staples for Congress WFSH 050222 Order and NAB PB-19",
+        "entity_id": "56390",
+        "source_service_code": "FM",
+        "callsign": "WFSH-FM",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1731419017700180000,
+        "score": 0.24995688
+      },
       {
         "id": "b294b9a0-816e-4a4b-88ba-b733da258147",
         "file_id": "b294b9a0-816e-4a4b-88ba-b733da258147",
@@ -226,31 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1731402779657764900,
         "score": 0.24995688
-      },
-      {
-        "id": "a9c35fdc-98dc-1417-b2e9-a5d84ffc40b0",
-        "file_id": "a9c35fdc-98dc-1417-b2e9-a5d84ffc40b0",
-        "file_name": "Christina Stephenson, KOIN 3526755, 0502-0509",
-        "file_extension": "pdf",
-        "file_size": 237075,
-        "file_status": "com_cpy",
-        "folder_id": "44ac7cb1-ac95-1348-c3f7-891e5e2f9b69",
-        "create_ts": "2022-04-29T01:04:42.52Z",
-        "last_update_ts": "2022-04-29T01:05:22.647Z",
-        "active_ind": "Y",
-        "file_manager_id": "3c25451d-fd34-4f78-ba36-3053ecb6234a",
-        "file_folder_path": "Political Files/2022/State/Christina Stephenson OR Labor Com/Contracts",
-        "full_qualified_file_name": "Political Files/2022/State/Christina Stephenson OR Labor Com/Contracts/Christina Stephenson, KOIN 3526755, 0502-0509",
-        "entity_id": "35380",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "PORTLAND OR",
-        "callsign": "KOIN",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1731402696450113500,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -429,14 +427,14 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 20327,
+        "2022": 20328,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 72703,
         "US Senate": 51648,
-        "US House": 42528,
+        "US House": 42529,
         "Presidential": 38419,
         "Local": 26121
       },
@@ -473,12 +471,12 @@
       "source_service_code": {
         "TV": 243972,
         "CABLE": 129025,
-        "FM": 116222,
+        "FM": 116223,
         "AM": 44039,
         "DBS": 5684
       },
       "political_file_type": {
-        "PA": 232512,
+        "PA": 232513,
         "NCIA": 128040
       }
     }
@@ -495,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 205,
-    "processTime": 214,
-    "responseTime": 215
+    "queryTime": 1810,
+    "processTime": 819,
+    "responseTime": 1820
   }
 }
