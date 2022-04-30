@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 539728,
+    "numFound": 539729,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "b9fd55a8-bba7-6684-8cb1-5d05ddf03544",
+        "file_id": "b9fd55a8-bba7-6684-8cb1-5d05ddf03544",
+        "file_name": "HONOR PA ADDITIONAL 28 April - 02 MAY 2022",
+        "file_extension": "pdf",
+        "file_size": 8997,
+        "file_status": "com_cpy",
+        "folder_id": "d9d3319a-1a5e-3266-2261-704e8e3de283",
+        "create_ts": "2022-04-30T08:44:33.601Z",
+        "last_update_ts": "2022-04-30T08:45:17.297Z",
+        "active_ind": "Y",
+        "file_manager_id": "5d3e5c52-88e7-4cad-b7ef-9508982abc23",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/HONOR PA ADDITIONAL 28 April - 02 MAY 2022",
+        "entity_id": "76438",
+        "source_service_code": "FM",
+        "callsign": "WEEO-FM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1731522224639180800,
+        "score": 0.24995688
+      },
       {
         "id": "146b2901-6050-9299-4589-6b9da701f596",
         "file_id": "146b2901-6050-9299-4589-6b9da701f596",
@@ -228,31 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1731502892775374800,
         "score": 0.24995688
-      },
-      {
-        "id": "b2f0749f-41c9-3c6c-64af-28d6eab228fb",
-        "file_id": "b2f0749f-41c9-3c6c-64af-28d6eab228fb",
-        "file_name": "Friends of Tina Kotek KOHD 27774241 Est 9505 27507 NAB  042822",
-        "file_extension": "pdf",
-        "file_size": 169540,
-        "file_status": "com_cpy",
-        "folder_id": "8ce47d92-0053-30c9-6aa5-a105d3ca5eb8",
-        "create_ts": "2022-04-30T03:37:17.473Z",
-        "last_update_ts": "2022-04-30T03:36:57.932Z",
-        "active_ind": "Y",
-        "file_manager_id": "edd65a3d-823a-44d1-82ce-9e49a9abadd9",
-        "file_folder_path": "Political Files/2022/State/Governor/Friends of  Tina Kotek",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Friends of  Tina Kotek/Friends of Tina Kotek KOHD 27774241 Est 9505 27507 NAB  042822",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1731502893985431600,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -431,7 +428,7 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 21109,
+        "2022": 21110,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -475,13 +472,13 @@
       "source_service_code": {
         "TV": 244278,
         "CABLE": 129275,
-        "FM": 116365,
+        "FM": 116366,
         "AM": 44119,
         "DBS": 5691
       },
       "political_file_type": {
         "PA": 233063,
-        "NCIA": 128271
+        "NCIA": 128272
       }
     }
   },
@@ -497,8 +494,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 201,
-    "processTime": 213,
-    "responseTime": 213
+    "queryTime": 202,
+    "processTime": 211,
+    "responseTime": 212
   }
 }
