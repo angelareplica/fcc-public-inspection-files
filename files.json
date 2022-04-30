@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 539729,
+    "numFound": 539730,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "0c1d2eae-904c-a17d-8bf0-eeabbc4c998e",
+        "file_id": "0c1d2eae-904c-a17d-8bf0-eeabbc4c998e",
+        "file_name": "Political Bryant 042922",
+        "file_extension": "pdf",
+        "file_size": 1819668,
+        "file_status": "com_cpy",
+        "folder_id": "a1dfea4a-8b91-57a1-0214-b744cf08e8bd",
+        "create_ts": "2022-04-30T12:59:23.741Z",
+        "last_update_ts": "2022-04-30T12:59:27.548Z",
+        "active_ind": "Y",
+        "file_manager_id": "bee5287a-2477-4145-aa66-3898277fe281",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Political Bryant 042922",
+        "entity_id": "21233",
+        "source_service_code": "AM",
+        "callsign": "KBEC",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1731538258194595800,
+        "score": 0.24995688
+      },
       {
         "id": "b9fd55a8-bba7-6684-8cb1-5d05ddf03544",
         "file_id": "b9fd55a8-bba7-6684-8cb1-5d05ddf03544",
@@ -225,31 +248,6 @@
         "campaign_year": "2022",
         "_version_": 1731503859891699700,
         "score": 0.24995688
-      },
-      {
-        "id": "dba45d21-5d86-d7b5-3ac0-51662da67686",
-        "file_id": "dba45d21-5d86-d7b5-3ac0-51662da67686",
-        "file_name": "Friends of Tina Kotek KBNZ 27774242 Est 9505 27058 MG 1  042822",
-        "file_extension": "pdf",
-        "file_size": 11208,
-        "file_status": "com_cpy",
-        "folder_id": "8ce47d92-0053-30c9-6aa5-a105d3ca5eb8",
-        "create_ts": "2022-04-30T03:37:17.36Z",
-        "last_update_ts": "2022-04-30T03:37:20.436Z",
-        "active_ind": "Y",
-        "file_manager_id": "8a427403-ffec-4de4-afbe-6d7550cd1206",
-        "file_folder_path": "Political Files/2022/State/Governor/Friends of  Tina Kotek",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Friends of  Tina Kotek/Friends of Tina Kotek KBNZ 27774242 Est 9505 27058 MG 1  042822",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1731502892775374800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -428,7 +426,7 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 21110,
+        "2022": 21111,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -437,7 +435,7 @@
         "US Senate": 51686,
         "US House": 42625,
         "Presidential": 38419,
-        "Local": 26190
+        "Local": 26191
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
@@ -473,11 +471,11 @@
         "TV": 244278,
         "CABLE": 129275,
         "FM": 116366,
-        "AM": 44119,
+        "AM": 44120,
         "DBS": 5691
       },
       "political_file_type": {
-        "PA": 233063,
+        "PA": 233064,
         "NCIA": 128272
       }
     }
@@ -494,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 67,
-    "processTime": 76,
-    "responseTime": 77
+    "queryTime": 205,
+    "processTime": 216,
+    "responseTime": 216
   }
 }
