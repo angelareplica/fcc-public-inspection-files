@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 539731,
+    "numFound": 539733,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "956aaebd-b538-73e5-d015-9524f1a6a8dd",
+        "file_id": "956aaebd-b538-73e5-d015-9524f1a6a8dd",
+        "file_name": "Friends of Patti Adair 042522",
+        "file_extension": "txt",
+        "file_size": 768,
+        "file_status": "com_prc",
+        "folder_id": "6a91515a-a424-20ca-140e-750505a236c7",
+        "create_ts": "2022-04-30T17:43:45.285Z",
+        "last_update_ts": "2022-04-30T17:43:25.82Z",
+        "active_ind": "Y",
+        "file_manager_id": "17730be2-5117-4e5c-9ca0-35047edc9af9",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Friends of Patti Adair 042522",
+        "entity_id": "164309",
+        "source_service_code": "FM",
+        "callsign": "KNLX",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1731556149076951000,
+        "score": 0.24995688
+      },
+      {
+        "id": "252d835f-3a09-3908-8740-7c6a72ffdea6",
+        "file_id": "252d835f-3a09-3908-8740-7c6a72ffdea6",
+        "file_name": "Friends of Patti Adair 042522",
+        "file_extension": "txt",
+        "file_size": 697,
+        "file_status": "com_prc",
+        "folder_id": "9359758f-ba4c-c7c9-c353-aaf79fe7bfc0",
+        "create_ts": "2022-04-30T17:42:00.904Z",
+        "last_update_ts": "2022-04-30T17:42:46.87Z",
+        "active_ind": "Y",
+        "file_manager_id": "9102a6a5-1031-47af-8d59-8fc983f5166f",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Friends of Patti Adair 042522",
+        "entity_id": "65261",
+        "source_service_code": "FM",
+        "callsign": "KNLR",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1731556039671677000,
+        "score": 0.24995688
+      },
       {
         "id": "ce0d80d4-5afb-3f56-31a6-2f9e0aeace27",
         "file_id": "ce0d80d4-5afb-3f56-31a6-2f9e0aeace27",
@@ -198,56 +244,6 @@
         "campaign_year": "2022",
         "_version_": 1731503864492851200,
         "score": 0.24995688
-      },
-      {
-        "id": "fabc5c9f-816e-1e76-a00b-f1582a4366bc",
-        "file_id": "fabc5c9f-816e-1e76-a00b-f1582a4366bc",
-        "file_name": "Jamie for Oregon KOHD 27775213 Est 11625  27088 NAB  042922",
-        "file_extension": "pdf",
-        "file_size": 2718942,
-        "file_status": "com_cpy",
-        "folder_id": "098e0c54-628d-6cc8-4410-acb0c970acc0",
-        "create_ts": "2022-04-30T03:52:42.215Z",
-        "last_update_ts": "2022-04-30T03:52:23.417Z",
-        "active_ind": "Y",
-        "file_manager_id": "749218e6-1d2a-4ebe-9c67-5ccb33609717",
-        "file_folder_path": "Political Files/2022/Federal/US House/Jamie for Oregon",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Jamie for Oregon/Jamie for Oregon KOHD 27775213 Est 11625  27088 NAB  042922",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731503864429936600,
-        "score": 0.24995688
-      },
-      {
-        "id": "47a49caa-e5b5-351f-0b69-53c182dfcf0e",
-        "file_id": "47a49caa-e5b5-351f-0b69-53c182dfcf0e",
-        "file_name": "Jamie for Oregon KOHD 27775213 Est 11625  27088 Order  042922",
-        "file_extension": "pdf",
-        "file_size": 18854,
-        "file_status": "com_cpy",
-        "folder_id": "098e0c54-628d-6cc8-4410-acb0c970acc0",
-        "create_ts": "2022-04-30T03:52:39.72Z",
-        "last_update_ts": "2022-04-30T03:52:19.108Z",
-        "active_ind": "Y",
-        "file_manager_id": "b1e3dacc-97c5-4f94-b181-729d62d38f01",
-        "file_folder_path": "Political Files/2022/Federal/US House/Jamie for Oregon",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Jamie for Oregon/Jamie for Oregon KOHD 27775213 Est 11625  27088 Order  042922",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731503859907428400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -426,7 +422,7 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 21112,
+        "2022": 21114,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -435,7 +431,7 @@
         "US Senate": 51686,
         "US House": 42626,
         "Presidential": 38419,
-        "Local": 26191
+        "Local": 26193
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
@@ -470,12 +466,12 @@
       "source_service_code": {
         "TV": 244279,
         "CABLE": 129275,
-        "FM": 116366,
+        "FM": 116368,
         "AM": 44120,
         "DBS": 5691
       },
       "political_file_type": {
-        "PA": 233065,
+        "PA": 233067,
         "NCIA": 128272
       }
     }
@@ -492,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1781,
-    "processTime": 793,
-    "responseTime": 1793
+    "queryTime": 1802,
+    "processTime": 810,
+    "responseTime": 1810
   }
 }
