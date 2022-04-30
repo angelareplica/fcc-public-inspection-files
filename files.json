@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 539733,
+    "numFound": 539734,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "4af25321-2617-bccd-58db-182c614428f7",
+        "file_id": "4af25321-2617-bccd-58db-182c614428f7",
+        "file_name": "WAUE-HD2-Tim James Governor 2022-Confirm_2495-001-050222",
+        "file_extension": "pdf",
+        "file_size": 4822,
+        "file_status": "com_cpy",
+        "folder_id": "dda6ac6f-d244-8075-61d7-ca2f3821a4f5",
+        "create_ts": "2022-04-30T23:08:54.721Z",
+        "last_update_ts": "2022-04-30T23:09:40.035Z",
+        "active_ind": "Y",
+        "file_manager_id": "11d6409f-13a5-4143-a428-9796dfd23edd",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/WAUE-HD2-Tim James Governor 2022-Confirm_2495-001-050222",
+        "entity_id": "198812",
+        "source_service_code": "FM",
+        "callsign": "WAUE",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1731576604924051500,
+        "score": 0.24995688
+      },
       {
         "id": "956aaebd-b538-73e5-d015-9524f1a6a8dd",
         "file_id": "956aaebd-b538-73e5-d015-9524f1a6a8dd",
@@ -219,31 +242,6 @@
         "campaign_year": "2022",
         "_version_": 1731503859973488600,
         "score": 0.24995688
-      },
-      {
-        "id": "d03b2ec2-9b9c-a970-b7a9-f676c42b19b3",
-        "file_id": "d03b2ec2-9b9c-a970-b7a9-f676c42b19b3",
-        "file_name": "Jamie for Oregon KBNZ 27775216 Est 11625  27085 NAB  042922",
-        "file_extension": "pdf",
-        "file_size": 2717841,
-        "file_status": "com_cpy",
-        "folder_id": "098e0c54-628d-6cc8-4410-acb0c970acc0",
-        "create_ts": "2022-04-30T03:52:41.179Z",
-        "last_update_ts": "2022-04-30T03:52:23.474Z",
-        "active_ind": "Y",
-        "file_manager_id": "1edc1a7f-19b4-4a6d-8a4c-2d5e25281393",
-        "file_folder_path": "Political Files/2022/Federal/US House/Jamie for Oregon",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Jamie for Oregon/Jamie for Oregon KBNZ 27775216 Est 11625  27085 NAB  042922",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731503864492851200,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -422,12 +420,12 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 21114,
+        "2022": 21115,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 73052,
+        "State": 73053,
         "US Senate": 51686,
         "US House": 42626,
         "Presidential": 38419,
@@ -466,12 +464,12 @@
       "source_service_code": {
         "TV": 244279,
         "CABLE": 129275,
-        "FM": 116368,
+        "FM": 116369,
         "AM": 44120,
         "DBS": 5691
       },
       "political_file_type": {
-        "PA": 233067,
+        "PA": 233068,
         "NCIA": 128272
       }
     }
@@ -488,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 201,
-    "processTime": 212,
-    "responseTime": 213
+    "queryTime": 1801,
+    "processTime": 810,
+    "responseTime": 1810
   }
 }
