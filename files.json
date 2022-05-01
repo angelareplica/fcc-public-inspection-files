@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 539740,
+    "numFound": 539742,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "3a9630e2-4a14-fec7-62e8-0ace8acbe276",
+        "file_id": "3a9630e2-4a14-fec7-62e8-0ace8acbe276",
+        "file_name": "Pol S Irwin D Con PA_937216",
+        "file_extension": "pdf",
+        "file_size": 243713,
+        "file_status": "com_cpy",
+        "folder_id": "71489c6f-101b-0f96-3f57-278411d1dc61",
+        "create_ts": "2022-05-01T17:28:49.602Z",
+        "last_update_ts": "2022-05-01T17:28:53.073Z",
+        "active_ind": "Y",
+        "file_manager_id": "e3aab4da-5a80-48e3-adac-d72909b7175f",
+        "file_folder_path": "Political Files/2022/State/Congress/PA 12th District/Pol S Irwin D Con PA/937216-0503-0509",
+        "full_qualified_file_name": "Political Files/2022/State/Congress/PA 12th District/Pol S Irwin D Con PA/937216-0503-0509/Pol S Irwin D Con PA_937216",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1731645808832413700,
+        "score": 0.24995688
+      },
+      {
+        "id": "1e75e44f-c1e3-afe6-b50d-b0cac120f425",
+        "file_id": "1e75e44f-c1e3-afe6-b50d-b0cac120f425",
+        "file_name": "Pol S Irwin D Con PA_NAB_937216",
+        "file_extension": "pdf",
+        "file_size": 766015,
+        "file_status": "com_cpy",
+        "folder_id": "71489c6f-101b-0f96-3f57-278411d1dc61",
+        "create_ts": "2022-05-01T17:28:49.731Z",
+        "last_update_ts": "2022-05-01T17:28:31.83Z",
+        "active_ind": "Y",
+        "file_manager_id": "bb325140-5119-4693-ba9e-941956e281e9",
+        "file_folder_path": "Political Files/2022/State/Congress/PA 12th District/Pol S Irwin D Con PA/937216-0503-0509",
+        "full_qualified_file_name": "Political Files/2022/State/Congress/PA 12th District/Pol S Irwin D Con PA/937216-0503-0509/Pol S Irwin D Con PA_NAB_937216",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1731645808838705200,
+        "score": 0.24995688
+      },
       {
         "id": "fc7ffc08-5fdd-6aca-0144-51f59f0f7766",
         "file_id": "fc7ffc08-5fdd-6aca-0144-51f59f0f7766",
@@ -184,54 +234,6 @@
         "campaign_year": "2022",
         "_version_": 1731556149076951000,
         "score": 0.24995688
-      },
-      {
-        "id": "252d835f-3a09-3908-8740-7c6a72ffdea6",
-        "file_id": "252d835f-3a09-3908-8740-7c6a72ffdea6",
-        "file_name": "Friends of Patti Adair 042522",
-        "file_extension": "txt",
-        "file_size": 697,
-        "file_status": "com_prc",
-        "folder_id": "9359758f-ba4c-c7c9-c353-aaf79fe7bfc0",
-        "create_ts": "2022-04-30T17:42:00.904Z",
-        "last_update_ts": "2022-04-30T17:42:46.87Z",
-        "active_ind": "Y",
-        "file_manager_id": "9102a6a5-1031-47af-8d59-8fc983f5166f",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Friends of Patti Adair 042522",
-        "entity_id": "65261",
-        "source_service_code": "FM",
-        "callsign": "KNLR",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1731556039671677000,
-        "score": 0.24995688
-      },
-      {
-        "id": "ce0d80d4-5afb-3f56-31a6-2f9e0aeace27",
-        "file_id": "ce0d80d4-5afb-3f56-31a6-2f9e0aeace27",
-        "file_name": "2022-04-29 Candidate Disclosure Form - Lucy McBath",
-        "file_extension": "pdf",
-        "file_size": 52225,
-        "file_status": "com_cpy",
-        "folder_id": "70dbfcf1-4e5c-ed8f-980f-d01a620ec869",
-        "create_ts": "2022-04-30T14:59:38.966Z",
-        "last_update_ts": "2022-04-30T14:59:18.341Z",
-        "active_ind": "Y",
-        "file_manager_id": "7f3961be-357e-4b7a-9580-230e63a64a24",
-        "file_folder_path": "Political Files/2022/Federal/US House/McBath DEM/DISCLOSURE",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/McBath DEM/DISCLOSURE/2022-04-29 Candidate Disclosure Form - Lucy McBath",
-        "entity_id": "51969",
-        "source_service_code": "TV",
-        "network_affiliation": "ION",
-        "nielsen_dma_rank": "ATLANTA",
-        "callsign": "WPXA-TV",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731545823210111000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -240,7 +242,7 @@
         "WILKES BARRE-SCRANTON": 7528,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7059,
         "LAS VEGAS": 6441,
-        "PITTSBURGH": 6228,
+        "PITTSBURGH": 6230,
         "WEST PALM BEACH-FT. PIERCE": 5791,
         "HONOLULU": 5227,
         "DULUTH-SUPERIOR": 4656,
@@ -339,7 +341,7 @@
       },
       "network_affiliation": {
         "ABC": 60170,
-        "NBC": 58167,
+        "NBC": 58169,
         "CBS": 40203,
         "FOX": 28786,
         "PBS": 14703,
@@ -410,12 +412,12 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 21118,
+        "2022": 21120,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 73055,
+        "State": 73057,
         "US Senate": 51686,
         "US House": 42626,
         "Presidential": 38419,
@@ -452,14 +454,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 244281,
+        "TV": 244283,
         "CABLE": 129275,
         "FM": 116372,
         "AM": 44121,
         "DBS": 5691
       },
       "political_file_type": {
-        "PA": 233070,
+        "PA": 233072,
         "NCIA": 128273
       }
     }
@@ -476,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1790,
-    "processTime": 807,
-    "responseTime": 1807
+    "queryTime": 1886,
+    "processTime": 894,
+    "responseTime": 1894
   }
 }
