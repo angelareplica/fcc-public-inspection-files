@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 539744,
+    "numFound": 539745,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "36e22461-07da-60f0-3c93-8382560d6dfc",
+        "file_id": "36e22461-07da-60f0-3c93-8382560d6dfc",
+        "file_name": "Black Media Works - WRRJ(FM) Response to EEO Audit Letter-04-28-2022",
+        "file_extension": "pdf",
+        "file_size": 404988,
+        "file_status": "com_cpy",
+        "folder_id": "8b1ee9e7-8521-5958-00a2-28de61d91564",
+        "create_ts": "2022-05-01T23:01:41.897Z",
+        "last_update_ts": "2022-05-01T23:01:45.189Z",
+        "active_ind": "Y",
+        "file_manager_id": "53abb044-b7e1-431d-a61b-b15abb413386",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Audits, Investigations and Complaints/Black Media Works - WRRJ(FM) Response to EEO Audit Letter-04-28-2022",
+        "entity_id": "3071",
+        "source_service_code": "AM",
+        "callsign": "WWBC",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1731666748220899300,
+        "score": 0.24995688
+      },
       {
         "id": "6978cb81-b1dd-10c7-f0d8-fcd163bfa0b2",
         "file_id": "6978cb81-b1dd-10c7-f0d8-fcd163bfa0b2",
@@ -213,31 +234,6 @@
         "campaign_year": "2022",
         "_version_": 1731583294358683600,
         "score": 0.24995688
-      },
-      {
-        "id": "91df2f4c-55f1-bad9-4c0a-62230a804ed2",
-        "file_id": "91df2f4c-55f1-bad9-4c0a-62230a804ed2",
-        "file_name": "COHEN D CA STATE CONTROLLER 050222-060522 2266971 CONTRACT NAB",
-        "file_extension": "pdf",
-        "file_size": 1920311,
-        "file_status": "com_cpy",
-        "folder_id": "1867ca60-8100-5821-6fa0-699160b79945",
-        "create_ts": "2022-05-01T00:45:14.458Z",
-        "last_update_ts": "2022-05-01T00:46:00.804Z",
-        "active_ind": "Y",
-        "file_manager_id": "8d915f38-54ae-4b23-af80-b2883fad2d4a",
-        "file_folder_path": "Political Files/2022/State/COHEN D CA STATE CONTROLLER",
-        "full_qualified_file_name": "Political Files/2022/State/COHEN D CA STATE CONTROLLER/COHEN D CA STATE CONTROLLER 050222-060522 2266971 CONTRACT NAB",
-        "entity_id": "10242",
-        "source_service_code": "TV",
-        "network_affiliation": "MNT",
-        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
-        "callsign": "KQCA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1731582666299408400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -430,7 +426,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
         "Issues and Programs Lists": 46297,
-        "Equal Employment Opportunity Records": 37478,
+        "Equal Employment Opportunity Records": 37479,
         "Donor Lists - Applicable Only for NCEs": 11964,
         "FCC Authorizations": 7358,
         "Local Public Notice Announcements": 1889,
@@ -461,7 +457,7 @@
         "TV": 244285,
         "CABLE": 129275,
         "FM": 116372,
-        "AM": 44121,
+        "AM": 44122,
         "DBS": 5691
       },
       "political_file_type": {
@@ -482,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 214,
-    "responseTime": 214
+    "queryTime": 1804,
+    "processTime": 812,
+    "responseTime": 1812
   }
 }
