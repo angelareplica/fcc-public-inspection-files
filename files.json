@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 539742,
+    "numFound": 539744,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "6978cb81-b1dd-10c7-f0d8-fcd163bfa0b2",
+        "file_id": "6978cb81-b1dd-10c7-f0d8-fcd163bfa0b2",
+        "file_name": "Pol S Lee D CON PA_NAB_937218",
+        "file_extension": "pdf",
+        "file_size": 183334,
+        "file_status": "com_cpy",
+        "folder_id": "cf65bc8e-e40b-6282-3b6a-92a4e81a240a",
+        "create_ts": "2022-05-01T18:48:27.327Z",
+        "last_update_ts": "2022-05-01T18:49:15.189Z",
+        "active_ind": "Y",
+        "file_manager_id": "48b14e46-2ac7-4160-8388-2d9a4214a0e9",
+        "file_folder_path": "Political Files/2022/State/Congress/PA 12th District/Pol S Lee D CON PA/937218-0510-0517",
+        "full_qualified_file_name": "Political Files/2022/State/Congress/PA 12th District/Pol S Lee D CON PA/937218-0510-0517/Pol S Lee D CON PA_NAB_937218",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1731650815672713200,
+        "score": 0.24995688
+      },
+      {
+        "id": "a6472411-cbad-e1de-d32d-1f475d037182",
+        "file_id": "a6472411-cbad-e1de-d32d-1f475d037182",
+        "file_name": "Pol S Lee D CON PA_937218",
+        "file_extension": "pdf",
+        "file_size": 280419,
+        "file_status": "com_cpy",
+        "folder_id": "cf65bc8e-e40b-6282-3b6a-92a4e81a240a",
+        "create_ts": "2022-05-01T18:48:27.327Z",
+        "last_update_ts": "2022-05-01T18:48:30.623Z",
+        "active_ind": "Y",
+        "file_manager_id": "e0033988-e456-441d-b2d4-a1e236d49537",
+        "file_folder_path": "Political Files/2022/State/Congress/PA 12th District/Pol S Lee D CON PA/937218-0510-0517",
+        "full_qualified_file_name": "Political Files/2022/State/Congress/PA 12th District/Pol S Lee D CON PA/937218-0510-0517/Pol S Lee D CON PA_937218",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1731650815565758500,
+        "score": 0.24995688
+      },
       {
         "id": "3a9630e2-4a14-fec7-62e8-0ace8acbe276",
         "file_id": "3a9630e2-4a14-fec7-62e8-0ace8acbe276",
@@ -188,52 +238,6 @@
         "campaign_year": "2022",
         "_version_": 1731582666299408400,
         "score": 0.24995688
-      },
-      {
-        "id": "4af25321-2617-bccd-58db-182c614428f7",
-        "file_id": "4af25321-2617-bccd-58db-182c614428f7",
-        "file_name": "WAUE-HD2-Tim James Governor 2022-Confirm_2495-001-050222",
-        "file_extension": "pdf",
-        "file_size": 4822,
-        "file_status": "com_cpy",
-        "folder_id": "dda6ac6f-d244-8075-61d7-ca2f3821a4f5",
-        "create_ts": "2022-04-30T23:08:54.721Z",
-        "last_update_ts": "2022-04-30T23:09:40.035Z",
-        "active_ind": "Y",
-        "file_manager_id": "11d6409f-13a5-4143-a428-9796dfd23edd",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/WAUE-HD2-Tim James Governor 2022-Confirm_2495-001-050222",
-        "entity_id": "198812",
-        "source_service_code": "FM",
-        "callsign": "WAUE",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1731576604924051500,
-        "score": 0.24995688
-      },
-      {
-        "id": "956aaebd-b538-73e5-d015-9524f1a6a8dd",
-        "file_id": "956aaebd-b538-73e5-d015-9524f1a6a8dd",
-        "file_name": "Friends of Patti Adair 042522",
-        "file_extension": "txt",
-        "file_size": 768,
-        "file_status": "com_prc",
-        "folder_id": "6a91515a-a424-20ca-140e-750505a236c7",
-        "create_ts": "2022-04-30T17:43:45.285Z",
-        "last_update_ts": "2022-04-30T17:43:25.82Z",
-        "active_ind": "Y",
-        "file_manager_id": "17730be2-5117-4e5c-9ca0-35047edc9af9",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Friends of Patti Adair 042522",
-        "entity_id": "164309",
-        "source_service_code": "FM",
-        "callsign": "KNLX",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1731556149076951000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -242,7 +246,7 @@
         "WILKES BARRE-SCRANTON": 7528,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7059,
         "LAS VEGAS": 6441,
-        "PITTSBURGH": 6230,
+        "PITTSBURGH": 6232,
         "WEST PALM BEACH-FT. PIERCE": 5791,
         "HONOLULU": 5227,
         "DULUTH-SUPERIOR": 4656,
@@ -341,7 +345,7 @@
       },
       "network_affiliation": {
         "ABC": 60170,
-        "NBC": 58169,
+        "NBC": 58171,
         "CBS": 40203,
         "FOX": 28786,
         "PBS": 14703,
@@ -412,12 +416,12 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 21120,
+        "2022": 21122,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 73057,
+        "State": 73059,
         "US Senate": 51686,
         "US House": 42626,
         "Presidential": 38419,
@@ -454,14 +458,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 244283,
+        "TV": 244285,
         "CABLE": 129275,
         "FM": 116372,
         "AM": 44121,
         "DBS": 5691
       },
       "political_file_type": {
-        "PA": 233072,
+        "PA": 233074,
         "NCIA": 128273
       }
     }
@@ -478,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1794,
-    "processTime": 801,
-    "responseTime": 1802
+    "queryTime": 1756,
+    "processTime": 762,
+    "responseTime": 1763
   }
 }
