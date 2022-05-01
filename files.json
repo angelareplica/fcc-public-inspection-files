@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 539745,
+    "numFound": 539747,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "3246be2c-76cb-3bb5-a6bc-f4e2743fa1a5",
+        "file_id": "3246be2c-76cb-3bb5-a6bc-f4e2743fa1a5",
+        "file_name": "POF KRCW 3528812--1",
+        "file_extension": "pdf",
+        "file_size": 17588,
+        "file_status": "com_cpy",
+        "folder_id": "a239e16c-ed64-763c-3cec-8f3a93c87009",
+        "create_ts": "2022-05-01T23:30:10.191Z",
+        "last_update_ts": "2022-05-01T23:30:58.331Z",
+        "active_ind": "Y",
+        "file_manager_id": "f2c85eef-662a-4a6f-b744-e1e6a8287e4b",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future OR-06/Contracts",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future OR-06/Contracts/POF KRCW 3528812--1",
+        "entity_id": "10192",
+        "source_service_code": "TV",
+        "network_affiliation": "CW",
+        "nielsen_dma_rank": "PORTLAND OR",
+        "callsign": "KRCW-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1731668539350188000,
+        "score": 0.24995688
+      },
+      {
+        "id": "d86d484c-59df-0a90-317a-e10751cb60fd",
+        "file_id": "d86d484c-59df-0a90-317a-e10751cb60fd",
+        "file_name": "POF KRCW 3528813--1",
+        "file_extension": "pdf",
+        "file_size": 22463,
+        "file_status": "com_cpy",
+        "folder_id": "a239e16c-ed64-763c-3cec-8f3a93c87009",
+        "create_ts": "2022-05-01T23:30:10.191Z",
+        "last_update_ts": "2022-05-01T23:29:49.603Z",
+        "active_ind": "Y",
+        "file_manager_id": "89353386-0c50-4431-a1bd-f834d884db30",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future OR-06/Contracts",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future OR-06/Contracts/POF KRCW 3528813--1",
+        "entity_id": "10192",
+        "source_service_code": "TV",
+        "network_affiliation": "CW",
+        "nielsen_dma_rank": "PORTLAND OR",
+        "callsign": "KRCW-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1731668539679441000,
+        "score": 0.24995688
+      },
       {
         "id": "36e22461-07da-60f0-3c93-8382560d6dfc",
         "file_id": "36e22461-07da-60f0-3c93-8382560d6dfc",
@@ -187,53 +235,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1731642793162440700,
         "score": 0.24995688
-      },
-      {
-        "id": "b407ad9e-03fd-59df-36f6-08b8c1425eb6",
-        "file_id": "b407ad9e-03fd-59df-36f6-08b8c1425eb6",
-        "file_name": "EARNIE YARBROUGH FOR HOUSE D-07 WTKI",
-        "file_extension": "pdf",
-        "file_size": 337474,
-        "file_status": "com_cpy",
-        "folder_id": "9ca30794-c530-9b94-ecfb-5dfed0eb0623",
-        "create_ts": "2022-05-01T02:32:52.578Z",
-        "last_update_ts": "2022-05-01T02:32:55.967Z",
-        "active_ind": "Y",
-        "file_manager_id": "558d9866-dc07-4f1d-84a4-e4b9d2213048",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/EARNIE YARBROUGH FOR HOUSE D-07 WTKI",
-        "entity_id": "30965",
-        "source_service_code": "AM",
-        "callsign": "WTKI",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1731589437534503000,
-        "score": 0.24995688
-      },
-      {
-        "id": "32157196-949c-b288-f37a-e0d7e02ce13d",
-        "file_id": "32157196-949c-b288-f37a-e0d7e02ce13d",
-        "file_name": "CA FOR TRIBAL SOVEREIGNTY & SAFE GAMING 050222-051622 2267066 CONTRACT NAB",
-        "file_extension": "pdf",
-        "file_size": 629280,
-        "file_status": "com_cpy",
-        "folder_id": "d810deb1-1d63-481e-ed08-453b65dfd72c",
-        "create_ts": "2022-05-01T00:55:14.006Z",
-        "last_update_ts": "2022-05-01T00:55:59.78Z",
-        "active_ind": "Y",
-        "file_manager_id": "95c9c77a-1188-4683-9e08-33b50a6af105",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/CALIFORNIANS FOR TRIBAL SOVEREIGNTY  SAFE GAMING",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/CALIFORNIANS FOR TRIBAL SOVEREIGNTY  SAFE GAMING/CA FOR TRIBAL SOVEREIGNTY & SAFE GAMING 050222-051622 2267066 CONTRACT NAB",
-        "entity_id": "10242",
-        "source_service_code": "TV",
-        "network_affiliation": "MNT",
-        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
-        "callsign": "KQCA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1731583294358683600,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -254,7 +255,7 @@
         "RALEIGH-DURHAM (FAYETVLLE)": 3507,
         "EUGENE": 3435,
         "MISSOULA": 3308,
-        "PORTLAND OR": 3298,
+        "PORTLAND OR": 3300,
         "CHAMPAIGN&SPRNGFLD-DECATUR": 3235,
         "MINNEAPOLIS-ST. PAUL": 3162,
         "BEND OR": 2957,
@@ -345,7 +346,7 @@
         "CBS": 40203,
         "FOX": 28786,
         "PBS": 14703,
-        "CW": 12201,
+        "CW": 12203,
         "IND": 3009,
         "MYTV": 2234,
         "UNIVISION": 1899,
@@ -412,7 +413,7 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 21122,
+        "2022": 21124,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -454,7 +455,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 244285,
+        "TV": 244287,
         "CABLE": 129275,
         "FM": 116372,
         "AM": 44122,
@@ -462,7 +463,7 @@
       },
       "political_file_type": {
         "PA": 233074,
-        "NCIA": 128273
+        "NCIA": 128275
       }
     }
   },
@@ -478,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1804,
-    "processTime": 812,
-    "responseTime": 1812
+    "queryTime": 1800,
+    "processTime": 807,
+    "responseTime": 1807
   }
 }
