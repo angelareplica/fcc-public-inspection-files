@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 539748,
+    "numFound": 539750,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "80ce587f-97a6-fd3f-6f48-1ecb8eff4b7e",
+        "file_id": "80ce587f-97a6-fd3f-6f48-1ecb8eff4b7e",
+        "file_name": "0425-0430",
+        "file_extension": "docx",
+        "file_size": 60786,
+        "file_status": "com_prc",
+        "folder_id": "0fee1370-ce01-59a6-a3fb-6c0076b88ade",
+        "create_ts": "2022-05-02T12:41:10.803Z",
+        "last_update_ts": "2022-05-02T12:41:04.818Z",
+        "active_ind": "Y",
+        "file_manager_id": "6b1fbf79-2b6e-4382-9cf6-5ba5788db0b4",
+        "file_folder_path": "Issues and Programs Lists/2022/2022 Q2",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/2022 Q2/0425-0430",
+        "entity_id": "15349",
+        "source_service_code": "FM",
+        "callsign": "KHLL",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1731718321166876700,
+        "score": 0.24995688
+      },
+      {
+        "id": "f3b80cc4-c3f1-8e28-4fdb-6f191fef0e37",
+        "file_id": "f3b80cc4-c3f1-8e28-4fdb-6f191fef0e37",
+        "file_name": "Wallace for Lexington Mayor 2022-05-02 08-15",
+        "file_extension": "pdf",
+        "file_size": 1161669,
+        "file_status": "com_cpy",
+        "folder_id": "fbe75319-096c-dde6-b390-d28dc8c83d95",
+        "create_ts": "2022-05-02T12:28:43.505Z",
+        "last_update_ts": "2022-05-02T12:28:23.251Z",
+        "active_ind": "Y",
+        "file_manager_id": "a0b9221d-64b8-41d1-9246-1d65b0e60b16",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Wallace for Lexington Mayor 2022-05-02 08-15",
+        "entity_id": "22085",
+        "source_service_code": "FM",
+        "callsign": "WJMM-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1731717522623824000,
+        "score": 0.24995688
+      },
       {
         "id": "e995afe4-f9f6-369b-6781-759d34651ebb",
         "file_id": "e995afe4-f9f6-369b-6781-759d34651ebb",
@@ -194,48 +238,6 @@
         "campaign_year": "2022",
         "_version_": 1731645808838705200,
         "score": 0.24995688
-      },
-      {
-        "id": "fc7ffc08-5fdd-6aca-0144-51f59f0f7766",
-        "file_id": "fc7ffc08-5fdd-6aca-0144-51f59f0f7766",
-        "file_name": "WTRT Sponsored Programs 2022-04",
-        "file_extension": "pdf",
-        "file_size": 67757,
-        "file_status": "com_cpy",
-        "folder_id": "2480e089-c4fc-f42d-3455-58ee3978b07d",
-        "create_ts": "2022-05-01T16:42:52.334Z",
-        "last_update_ts": "2022-05-01T16:42:55.56Z",
-        "active_ind": "Y",
-        "file_manager_id": "2759deef-db67-4439-8cf3-a6033a14c094",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/WTRT Sponsored Programs 2022",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/WTRT Sponsored Programs 2022/WTRT Sponsored Programs 2022-04",
-        "entity_id": "88122",
-        "source_service_code": "FM",
-        "callsign": "WTRT",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1731642914465906700,
-        "score": 0.24995688
-      },
-      {
-        "id": "eb5deb60-9ee8-a5f2-ef33-a6f5c5bf4266",
-        "file_id": "eb5deb60-9ee8-a5f2-ef33-a6f5c5bf4266",
-        "file_name": "WAAJ Sponsored Programs 2022-04",
-        "file_extension": "pdf",
-        "file_size": 71972,
-        "file_status": "com_cpy",
-        "folder_id": "f9337977-4fd4-3f6f-3eff-fc7b4075fdeb",
-        "create_ts": "2022-05-01T16:42:08.183Z",
-        "last_update_ts": "2022-05-01T16:42:11.415Z",
-        "active_ind": "Y",
-        "file_manager_id": "072e3cf5-77c6-4878-8e09-e90bbf6db3c6",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/WAAJ Sponsored Programs 2022",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/WAAJ Sponsored Programs 2022/WAAJ Sponsored Programs 2022-04",
-        "entity_id": "78270",
-        "source_service_code": "FM",
-        "callsign": "WAAJ",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1731642868183859200,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -414,7 +416,7 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 21125,
+        "2022": 21126,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -423,11 +425,11 @@
         "US Senate": 51686,
         "US House": 42626,
         "Presidential": 38419,
-        "Local": 26193
+        "Local": 26194
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
-        "Issues and Programs Lists": 46297,
+        "Issues and Programs Lists": 46298,
         "Equal Employment Opportunity Records": 37479,
         "Donor Lists - Applicable Only for NCEs": 11964,
         "FCC Authorizations": 7358,
@@ -458,12 +460,12 @@
       "source_service_code": {
         "TV": 244287,
         "CABLE": 129275,
-        "FM": 116373,
+        "FM": 116375,
         "AM": 44122,
         "DBS": 5691
       },
       "political_file_type": {
-        "PA": 233074,
+        "PA": 233075,
         "NCIA": 128276
       }
     }
@@ -480,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1767,
-    "processTime": 780,
-    "responseTime": 1780
+    "queryTime": 1809,
+    "processTime": 819,
+    "responseTime": 1819
   }
 }
