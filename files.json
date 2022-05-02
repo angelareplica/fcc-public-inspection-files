@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 539747,
+    "numFound": 539748,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "e995afe4-f9f6-369b-6781-759d34651ebb",
+        "file_id": "e995afe4-f9f6-369b-6781-759d34651ebb",
+        "file_name": "WMXI-FM LOG - CLS MARK LEVIN - WWO - 2022-04-11 - 2022-05-01",
+        "file_extension": "pdf",
+        "file_size": 5748125,
+        "file_status": "com_cpy",
+        "folder_id": "a3da46c1-1bc5-cac1-90d2-108e5f6f8859",
+        "create_ts": "2022-05-02T11:22:19.36Z",
+        "last_update_ts": "2022-05-02T11:22:24.155Z",
+        "active_ind": "Y",
+        "file_manager_id": "5d7974a5-8560-41a3-a32e-d304082834ea",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Media Research Center",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Media Research Center/WMXI-FM LOG - CLS MARK LEVIN - WWO - 2022-04-11 - 2022-05-01",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1731713345847820300,
+        "score": 0.24995688
+      },
       {
         "id": "3246be2c-76cb-3bb5-a6bc-f4e2743fa1a5",
         "file_id": "3246be2c-76cb-3bb5-a6bc-f4e2743fa1a5",
@@ -214,27 +236,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1731642868183859200,
         "score": 0.24995688
-      },
-      {
-        "id": "3e51230d-14cf-0d45-2737-e0ce14d4004d",
-        "file_id": "3e51230d-14cf-0d45-2737-e0ce14d4004d",
-        "file_name": "WVHM Sponsored Programs 2022-04",
-        "file_extension": "pdf",
-        "file_size": 88163,
-        "file_status": "com_cpy",
-        "folder_id": "5bab4724-4200-1f1b-5283-cc725543e905",
-        "create_ts": "2022-05-01T16:40:56.716Z",
-        "last_update_ts": "2022-05-01T16:40:59.869Z",
-        "active_ind": "Y",
-        "file_manager_id": "d49f5b05-78d9-439d-ad87-af43e315f64a",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/WVHM Sponsored Programs 2022",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/WVHM Sponsored Programs 2022/WVHM Sponsored Programs 2022-04",
-        "entity_id": "26646",
-        "source_service_code": "FM",
-        "callsign": "WVHM",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1731642793162440700,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -413,7 +414,7 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 21124,
+        "2022": 21125,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -457,13 +458,13 @@
       "source_service_code": {
         "TV": 244287,
         "CABLE": 129275,
-        "FM": 116372,
+        "FM": 116373,
         "AM": 44122,
         "DBS": 5691
       },
       "political_file_type": {
         "PA": 233074,
-        "NCIA": 128275
+        "NCIA": 128276
       }
     }
   },
@@ -479,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 200,
-    "processTime": 213,
-    "responseTime": 214
+    "queryTime": 201,
+    "processTime": 207,
+    "responseTime": 208
   }
 }
