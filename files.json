@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 540330,
+    "numFound": 540332,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "60ccffe0-914d-0eef-3b77-1db7b8d382c0",
+        "file_id": "60ccffe0-914d-0eef-3b77-1db7b8d382c0",
+        "file_name": "American Leadership Action_INVOICES_933139",
+        "file_extension": "pdf",
+        "file_size": 735983,
+        "file_status": "com_cpy",
+        "folder_id": "61f69aca-8fc2-9de0-9adb-0f83717c1ac5",
+        "create_ts": "2022-05-03T11:25:23.802Z",
+        "last_update_ts": "2022-05-03T11:26:16.138Z",
+        "active_ind": "Y",
+        "file_manager_id": "8b747dbb-873a-4c54-b3bd-fc8593d8bdef",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Iss American Leadership Action/933139-0414-0422",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Iss American Leadership Action/933139-0414-0422/American Leadership Action_INVOICES_933139",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1731804134728794000,
+        "score": 0.24995688
+      },
+      {
+        "id": "4542d8ea-6a21-8757-2be8-4dfbdef38c90",
+        "file_id": "4542d8ea-6a21-8757-2be8-4dfbdef38c90",
+        "file_name": "American Leadership Action_FINAL_933139",
+        "file_extension": "pdf",
+        "file_size": 257068,
+        "file_status": "com_cpy",
+        "folder_id": "61f69aca-8fc2-9de0-9adb-0f83717c1ac5",
+        "create_ts": "2022-05-03T11:25:23.661Z",
+        "last_update_ts": "2022-05-03T11:25:27.022Z",
+        "active_ind": "Y",
+        "file_manager_id": "c0bb41ca-40bf-4f2a-805f-809e1ec2c86e",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Iss American Leadership Action/933139-0414-0422",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Iss American Leadership Action/933139-0414-0422/American Leadership Action_FINAL_933139",
+        "entity_id": "73910",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WPXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1731804134571507700,
+        "score": 0.24995688
+      },
       {
         "id": "68e3ded0-878b-58fa-a32f-69dc6b5ccd24",
         "file_id": "68e3ded0-878b-58fa-a32f-69dc6b5ccd24",
@@ -190,52 +238,6 @@
         "campaign_year": "2022",
         "_version_": 1731799208125530000,
         "score": 0.24995688
-      },
-      {
-        "id": "50b41c6f-5736-6112-a114-c83cc77d67d9",
-        "file_id": "50b41c6f-5736-6112-a114-c83cc77d67d9",
-        "file_name": "JEFF CLARK POLITICAL - 04 27 22",
-        "file_extension": "pdf",
-        "file_size": 3206116,
-        "file_status": "com_cpy",
-        "folder_id": "11728f3d-f12f-8e0b-70a9-dca54198df57",
-        "create_ts": "2022-05-03T09:25:42.787Z",
-        "last_update_ts": "2022-05-03T09:26:35.563Z",
-        "active_ind": "Y",
-        "file_manager_id": "49672973-2c50-4b72-b1bc-fae71da1350b",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/JEFF CLARK POLITICAL - 04 27 22",
-        "entity_id": "170936",
-        "source_service_code": "FM",
-        "callsign": "WPFT",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1731796605594501000,
-        "score": 0.24995688
-      },
-      {
-        "id": "43a6610f-9851-b3df-1098-27d85175ec98",
-        "file_id": "43a6610f-9851-b3df-1098-27d85175ec98",
-        "file_name": "NICK BLACK POLITICAL - 05 02 22",
-        "file_extension": "pdf",
-        "file_size": 2096296,
-        "file_status": "com_cpy",
-        "folder_id": "11728f3d-f12f-8e0b-70a9-dca54198df57",
-        "create_ts": "2022-05-03T09:25:42.117Z",
-        "last_update_ts": "2022-05-03T09:25:46.837Z",
-        "active_ind": "Y",
-        "file_manager_id": "f6217b55-d652-4b89-93ad-3effa10d8bea",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/NICK BLACK POLITICAL - 05 02 22",
-        "entity_id": "170936",
-        "source_service_code": "FM",
-        "callsign": "WPFT",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1731796605606035500,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -244,7 +246,7 @@
         "WILKES BARRE-SCRANTON": 7532,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7059,
         "LAS VEGAS": 6463,
-        "PITTSBURGH": 6244,
+        "PITTSBURGH": 6246,
         "WEST PALM BEACH-FT. PIERCE": 5791,
         "HONOLULU": 5227,
         "DULUTH-SUPERIOR": 4656,
@@ -343,7 +345,7 @@
       },
       "network_affiliation": {
         "ABC": 60253,
-        "NBC": 58210,
+        "NBC": 58212,
         "CBS": 40233,
         "FOX": 28794,
         "PBS": 14706,
@@ -414,7 +416,7 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 21673,
+        "2022": 21675,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -456,7 +458,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 244472,
+        "TV": 244474,
         "CABLE": 129331,
         "FM": 116575,
         "AM": 44251,
@@ -464,7 +466,7 @@
       },
       "political_file_type": {
         "PA": 233421,
-        "NCIA": 128477
+        "NCIA": 128479
       }
     }
   },
@@ -480,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 217,
-    "responseTime": 217
+    "queryTime": 1760,
+    "processTime": 771,
+    "responseTime": 1772
   }
 }
