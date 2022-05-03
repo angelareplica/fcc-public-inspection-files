@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 540323,
+    "numFound": 540325,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "579a1e48-37b7-b3a5-0b15-e3f9d72ae76e",
+        "file_id": "579a1e48-37b7-b3a5-0b15-e3f9d72ae76e",
+        "file_name": "WV CD2 - Alex Mooney for Congress - NAB 05.03.2022",
+        "file_extension": "pdf",
+        "file_size": 1141517,
+        "file_status": "com_cpy",
+        "folder_id": "6f4919a6-e789-7a76-277c-826c34c405a1",
+        "create_ts": "2022-05-03T10:32:42.526Z",
+        "last_update_ts": "2022-05-03T10:33:34.801Z",
+        "active_ind": "Y",
+        "file_manager_id": "42e815e1-4c99-4b24-8c00-e6ce17fb94db",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/WV CD2 - Alex Mooney for Congress - NAB 05.03.2022",
+        "entity_id": "22678",
+        "source_service_code": "AM",
+        "callsign": "WVNT",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1731800819935740000,
+        "score": 0.24995688
+      },
+      {
+        "id": "846c8b09-bee7-e3a8-bd50-5c230d92ea14",
+        "file_id": "846c8b09-bee7-e3a8-bd50-5c230d92ea14",
+        "file_name": "Confirm_101565-004 WVNT 05.03-05.10",
+        "file_extension": "pdf",
+        "file_size": 16080,
+        "file_status": "com_cpy",
+        "folder_id": "6f4919a6-e789-7a76-277c-826c34c405a1",
+        "create_ts": "2022-05-03T10:32:41.896Z",
+        "last_update_ts": "2022-05-03T10:32:20.627Z",
+        "active_ind": "Y",
+        "file_manager_id": "65e93796-b0e9-4c53-a39b-1a6088cba65c",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Confirm_101565-004 WVNT 05.03-05.10",
+        "entity_id": "22678",
+        "source_service_code": "AM",
+        "callsign": "WVNT",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1731800818964758500,
+        "score": 0.24995688
+      },
       {
         "id": "33ee0b3e-18d7-9817-508e-e1fde47b1207",
         "file_id": "33ee0b3e-18d7-9817-508e-e1fde47b1207",
@@ -192,56 +238,6 @@
         "campaign_year": "2022",
         "_version_": 1731783556159504400,
         "score": 0.24995688
-      },
-      {
-        "id": "6b0c2d06-3a8d-2c4a-f6b5-bce864d6aeae",
-        "file_id": "6b0c2d06-3a8d-2c4a-f6b5-bce864d6aeae",
-        "file_name": "Lori Chavez-DeRemer for Congress KBNZ 27776311 Est 2730  27107  NAB  050222",
-        "file_extension": "pdf",
-        "file_size": 1606532,
-        "file_status": "com_cpy",
-        "folder_id": "c257bd4c-625e-0044-f39f-04784a5571dc",
-        "create_ts": "2022-05-03T05:58:19.638Z",
-        "last_update_ts": "2022-05-03T05:58:24.003Z",
-        "active_ind": "Y",
-        "file_manager_id": "70f33ad8-b7ba-4fed-ab66-6fc91897b938",
-        "file_folder_path": "Political Files/2022/Federal/US House/Lori Chavez-DeRemer for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Lori Chavez-DeRemer for Congress/Lori Chavez-DeRemer for Congress KBNZ 27776311 Est 2730  27107  NAB  050222",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731783558341591000,
-        "score": 0.24995688
-      },
-      {
-        "id": "20a3f477-4907-2e9e-faed-62509a18cc76",
-        "file_id": "20a3f477-4907-2e9e-faed-62509a18cc76",
-        "file_name": "Lori Chavez-DeRemer for Congress KOHD 27776327 Est 2730  27105  NAB  050222",
-        "file_extension": "pdf",
-        "file_size": 1605985,
-        "file_status": "com_cpy",
-        "folder_id": "c257bd4c-625e-0044-f39f-04784a5571dc",
-        "create_ts": "2022-05-03T05:58:20.073Z",
-        "last_update_ts": "2022-05-03T05:58:23.882Z",
-        "active_ind": "Y",
-        "file_manager_id": "633bd515-2167-4853-929c-acd515b8a8d8",
-        "file_folder_path": "Political Files/2022/Federal/US House/Lori Chavez-DeRemer for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Lori Chavez-DeRemer for Congress/Lori Chavez-DeRemer for Congress KOHD 27776327 Est 2730  27105  NAB  050222",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731783558217859000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -420,14 +416,14 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 21667,
+        "2022": 21669,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 73270,
         "US Senate": 51719,
-        "US House": 42676,
+        "US House": 42678,
         "Presidential": 38419,
         "Local": 26240
       },
@@ -465,11 +461,11 @@
         "TV": 244468,
         "CABLE": 129331,
         "FM": 116574,
-        "AM": 44249,
+        "AM": 44251,
         "DBS": 5701
       },
       "political_file_type": {
-        "PA": 233419,
+        "PA": 233421,
         "NCIA": 128473
       }
     }
@@ -486,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1807,
-    "processTime": 817,
-    "responseTime": 1818
+    "queryTime": 203,
+    "processTime": 211,
+    "responseTime": 211
   }
 }
