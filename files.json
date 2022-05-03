@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 540322,
+    "numFound": 540323,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "33ee0b3e-18d7-9817-508e-e1fde47b1207",
+        "file_id": "33ee0b3e-18d7-9817-508e-e1fde47b1207",
+        "file_name": "MAKE AMERICA GREAT AGAIN AGAIN 050222 1",
+        "file_extension": "pdf",
+        "file_size": 1199495,
+        "file_status": "com_cpy",
+        "folder_id": "8062e668-e77c-906f-038e-c2e5a5f13f11",
+        "create_ts": "2022-05-03T10:07:05.106Z",
+        "last_update_ts": "2022-05-03T10:07:08.798Z",
+        "active_ind": "Y",
+        "file_manager_id": "4b72c744-1ace-4cc8-8c75-c6d138485f3c",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/MAKE AMERICA GREAT AGAIN AGAIN",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/MAKE AMERICA GREAT AGAIN AGAIN/MAKE AMERICA GREAT AGAIN AGAIN 050222 1",
+        "entity_id": "37174",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SAVANNAH",
+        "callsign": "WJCL",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1731799208125530000,
+        "score": 0.24995688
+      },
       {
         "id": "50b41c6f-5736-6112-a114-c83cc77d67d9",
         "file_id": "50b41c6f-5736-6112-a114-c83cc77d67d9",
@@ -218,31 +242,6 @@
         "campaign_year": "2022",
         "_version_": 1731783558217859000,
         "score": 0.24995688
-      },
-      {
-        "id": "12c0a681-5e7d-cdeb-0638-7c4d7e0ad492",
-        "file_id": "12c0a681-5e7d-cdeb-0638-7c4d7e0ad492",
-        "file_name": "Lori Chavez-DeRemer for Congress KOHD 27776327 Est 2730  27105  Order  050222",
-        "file_extension": "pdf",
-        "file_size": 28517,
-        "file_status": "com_cpy",
-        "folder_id": "c257bd4c-625e-0044-f39f-04784a5571dc",
-        "create_ts": "2022-05-03T05:58:18.795Z",
-        "last_update_ts": "2022-05-03T05:58:21.906Z",
-        "active_ind": "Y",
-        "file_manager_id": "1287ced0-9298-4a65-8f59-3c17b2ce8cf6",
-        "file_folder_path": "Political Files/2022/Federal/US House/Lori Chavez-DeRemer for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Lori Chavez-DeRemer for Congress/Lori Chavez-DeRemer for Congress KOHD 27776327 Est 2730  27105  Order  050222",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731783556152164400,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -273,7 +272,7 @@
         "FT. WAYNE": 2730,
         "CHICAGO": 2638,
         "MILWAUKEE": 2632,
-        "SAVANNAH": 2630,
+        "SAVANNAH": 2631,
         "WAUSAU-RHINELANDER": 2608,
         "GREENSBORO-H.POINT-W.SALEM": 2593,
         "BIRMINGHAM (ANN TUSC)": 2567,
@@ -349,7 +348,7 @@
         "HOUSTON": 577
       },
       "network_affiliation": {
-        "ABC": 60252,
+        "ABC": 60253,
         "NBC": 58206,
         "CBS": 40233,
         "FOX": 28794,
@@ -421,7 +420,7 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 21666,
+        "2022": 21667,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -463,7 +462,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 244467,
+        "TV": 244468,
         "CABLE": 129331,
         "FM": 116574,
         "AM": 44249,
@@ -471,7 +470,7 @@
       },
       "political_file_type": {
         "PA": 233419,
-        "NCIA": 128472
+        "NCIA": 128473
       }
     }
   },
@@ -487,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1776,
-    "processTime": 786,
-    "responseTime": 1787
+    "queryTime": 1807,
+    "processTime": 817,
+    "responseTime": 1818
   }
 }
