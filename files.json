@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 540276,
+    "numFound": 540277,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "6083b696-6dc8-a36f-51e5-3083623361f3",
+        "file_id": "6083b696-6dc8-a36f-51e5-3083623361f3",
+        "file_name": "WBVR-FM Doug Gorman for Judge 5-02-22 (Ad received)",
+        "file_extension": "pdf",
+        "file_size": 1847935,
+        "file_status": "com_cpy",
+        "folder_id": "e81ca365-ce76-fd47-5d3c-942be1243894",
+        "create_ts": "2022-05-03T03:41:38.76Z",
+        "last_update_ts": "2022-05-03T03:41:42.646Z",
+        "active_ind": "Y",
+        "file_manager_id": "c014fd3c-46fe-4c47-ad40-24b0a24505c7",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/WBVR-FM Doug Gorman for Judge 5-02-22 (Ad received)",
+        "entity_id": "71244",
+        "source_service_code": "FM",
+        "callsign": "WBVR-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1731774958610153500,
+        "score": 0.24995688
+      },
       {
         "id": "ac05feef-5251-4fda-1d23-327a50495db2",
         "file_id": "ac05feef-5251-4fda-1d23-327a50495db2",
@@ -206,28 +229,6 @@
         "campaign_year": "2022",
         "_version_": 1731769852234825700,
         "score": 0.24995688
-      },
-      {
-        "id": "ae36c2da-c5b6-8ea3-498a-7773c53130e2",
-        "file_id": "ae36c2da-c5b6-8ea3-498a-7773c53130e2",
-        "file_name": "Protect our Future, NAB PB19 rev1, WMJM-FM, 05.03.22-05.09.22, Issue",
-        "file_extension": "pdf",
-        "file_size": 1330195,
-        "file_status": "com_cpy",
-        "folder_id": "956e9189-758d-aca3-50cc-638b93f6e134",
-        "create_ts": "2022-05-03T02:05:06.173Z",
-        "last_update_ts": "2022-05-03T02:20:05.983Z",
-        "active_ind": "Y",
-        "file_manager_id": "60797400-8416-44ba-ad93-2f85fa486027",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future/Protect our Future, NAB PB19 rev1, WMJM-FM, 05.03.22-05.09.22, Issue",
-        "entity_id": "10322",
-        "source_service_code": "FM",
-        "callsign": "WMJM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1731769773820215300,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -406,7 +407,7 @@
         "2019": 13922,
         "2020": 125157,
         "2021": 22704,
-        "2022": 21620,
+        "2022": 21621,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -415,7 +416,7 @@
         "US Senate": 51719,
         "US House": 42670,
         "Presidential": 38419,
-        "Local": 26235
+        "Local": 26236
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
@@ -450,12 +451,12 @@
       "source_service_code": {
         "TV": 244437,
         "CABLE": 129330,
-        "FM": 116563,
+        "FM": 116564,
         "AM": 44245,
         "DBS": 5701
       },
       "political_file_type": {
-        "PA": 233382,
+        "PA": 233383,
         "NCIA": 128463
       }
     }
@@ -472,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1805,
-    "processTime": 814,
-    "responseTime": 1814
+    "queryTime": 1784,
+    "processTime": 794,
+    "responseTime": 1795
   }
 }
