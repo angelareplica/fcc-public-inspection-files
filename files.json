@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 541216,
+    "numFound": 541217,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "2c8cfb7b-dffd-04e3-11da-e14792b57ab5",
+        "file_id": "2c8cfb7b-dffd-04e3-11da-e14792b57ab5",
+        "file_name": "WAMO WILLIAM PARKER 05032022",
+        "file_extension": "pdf",
+        "file_size": 159159,
+        "file_status": "com_cpy",
+        "folder_id": "46feec78-bbb9-325e-f0fb-e5af9a53dab6",
+        "create_ts": "2022-05-04T10:40:16.025Z",
+        "last_update_ts": "2022-05-04T10:41:10.743Z",
+        "active_ind": "Y",
+        "file_manager_id": "82ede351-0475-4267-bf2b-cf650bcb5f10",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/WAMO WILLIAM PARKER 05032022",
+        "entity_id": "25732",
+        "source_service_code": "AM",
+        "callsign": "WAMO",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1731891892190183400,
+        "score": 0.24995688
+      },
       {
         "id": "5fdc7413-80be-5b10-b03f-73740d394b19",
         "file_id": "5fdc7413-80be-5b10-b03f-73740d394b19",
@@ -201,28 +224,6 @@
         "campaign_year": "2022",
         "_version_": 1731866081416446000,
         "score": 0.24995688
-      },
-      {
-        "id": "026eb2e9-7014-03d1-add1-ca68364b9c95",
-        "file_id": "026eb2e9-7014-03d1-add1-ca68364b9c95",
-        "file_name": "2022 0503 DEFEND AND PROTECT IDAHO PAC BROADCAST CONTRACT KQBL #387370",
-        "file_extension": "pdf",
-        "file_size": 26872,
-        "file_status": "com_cpy",
-        "folder_id": "19b01fac-1a4d-7c94-4b96-e2c726f415e2",
-        "create_ts": "2022-05-04T03:50:00.787Z",
-        "last_update_ts": "2022-05-04T03:50:54.877Z",
-        "active_ind": "Y",
-        "file_manager_id": "f3cd536c-f832-4432-98da-91bb3878c00f",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Defend and Protect Idaho PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Defend and Protect Idaho PAC/2022 0503 DEFEND AND PROTECT IDAHO PAC BROADCAST CONTRACT KQBL #387370",
-        "entity_id": "54509",
-        "source_service_code": "FM",
-        "callsign": "KQBL",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1731866081416446000,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -401,14 +402,14 @@
         "2019": 13922,
         "2020": 125144,
         "2021": 22704,
-        "2022": 22563,
+        "2022": 22564,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 73615,
         "US Senate": 51874,
-        "US House": 42780,
+        "US House": 42781,
         "Presidential": 38417,
         "Local": 26319
       },
@@ -446,11 +447,11 @@
         "TV": 245014,
         "CABLE": 129375,
         "FM": 116772,
-        "AM": 44343,
+        "AM": 44344,
         "DBS": 5712
       },
       "political_file_type": {
-        "PA": 234099,
+        "PA": 234100,
         "NCIA": 128676
       }
     }
@@ -467,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1807,
-    "processTime": 820,
-    "responseTime": 1820
+    "queryTime": 1806,
+    "processTime": 815,
+    "responseTime": 1815
   }
 }
