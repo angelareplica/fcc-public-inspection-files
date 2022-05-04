@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 541215,
+    "numFound": 541216,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "5fdc7413-80be-5b10-b03f-73740d394b19",
+        "file_id": "5fdc7413-80be-5b10-b03f-73740d394b19",
+        "file_name": "2022 0503 DEFEND IDAHO PAC INVOICE KQBL",
+        "file_extension": "PDF",
+        "file_size": 87817,
+        "file_status": "com_cpy",
+        "folder_id": "d2429571-6233-3591-2cfe-76ec66372e5d",
+        "create_ts": "2022-05-04T06:06:42.153Z",
+        "last_update_ts": "2022-05-04T06:07:36.563Z",
+        "active_ind": "Y",
+        "file_manager_id": "bcde5a56-2b00-4547-a602-6bcc36e73ded",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Defend Idaho PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Defend Idaho PAC/2022 0503 DEFEND IDAHO PAC INVOICE KQBL",
+        "entity_id": "54509",
+        "source_service_code": "FM",
+        "callsign": "KQBL",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1731874681216041000,
+        "score": 0.24995688
+      },
       {
         "id": "5699bc83-b128-2b5b-b0e0-41df4fdd0dac",
         "file_id": "5699bc83-b128-2b5b-b0e0-41df4fdd0dac",
@@ -159,28 +181,6 @@
         "score": 0.24995688
       },
       {
-        "id": "b4a6f1ca-9342-71aa-5e5c-014489bfa1d7",
-        "file_id": "b4a6f1ca-9342-71aa-5e5c-014489bfa1d7",
-        "file_name": "2022 0503 DEFEND AND PROTECT IDAHO PAC SCHEDULE KQBL",
-        "file_extension": "pdf",
-        "file_size": 78717,
-        "file_status": "com_cpy",
-        "folder_id": "19b01fac-1a4d-7c94-4b96-e2c726f415e2",
-        "create_ts": "2022-05-04T03:50:00.81Z",
-        "last_update_ts": "2022-05-04T03:50:54.877Z",
-        "active_ind": "Y",
-        "file_manager_id": "ef142622-6efd-4fdf-b862-a7b8e6faba1e",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Defend and Protect Idaho PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Defend and Protect Idaho PAC/2022 0503 DEFEND AND PROTECT IDAHO PAC SCHEDULE KQBL",
-        "entity_id": "54509",
-        "source_service_code": "FM",
-        "callsign": "KQBL",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1731866081416446000,
-        "score": 0.24995688
-      },
-      {
         "id": "026eb2e9-7014-03d1-add1-ca68364b9c95",
         "file_id": "026eb2e9-7014-03d1-add1-ca68364b9c95",
         "file_name": "2022 0503 DEFEND AND PROTECT IDAHO PAC BROADCAST CONTRACT KQBL #387370",
@@ -203,25 +203,25 @@
         "score": 0.24995688
       },
       {
-        "id": "645ed893-1061-383a-6fe5-4867d6088bfb",
-        "file_id": "645ed893-1061-383a-6fe5-4867d6088bfb",
-        "file_name": "2022 0503 DEFEND AND PROTECT IDAHO NAB FORM",
+        "id": "b4a6f1ca-9342-71aa-5e5c-014489bfa1d7",
+        "file_id": "b4a6f1ca-9342-71aa-5e5c-014489bfa1d7",
+        "file_name": "2022 0503 DEFEND AND PROTECT IDAHO PAC SCHEDULE KQBL",
         "file_extension": "pdf",
-        "file_size": 642335,
+        "file_size": 78717,
         "file_status": "com_cpy",
         "folder_id": "19b01fac-1a4d-7c94-4b96-e2c726f415e2",
-        "create_ts": "2022-05-04T03:50:56.477Z",
-        "last_update_ts": "2022-05-04T03:50:35.263Z",
+        "create_ts": "2022-05-04T03:50:00.81Z",
+        "last_update_ts": "2022-05-04T03:50:54.877Z",
         "active_ind": "Y",
-        "file_manager_id": "4495bac1-1155-45d3-b71f-d3d70725a5ba",
+        "file_manager_id": "ef142622-6efd-4fdf-b862-a7b8e6faba1e",
         "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Defend and Protect Idaho PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Defend and Protect Idaho PAC/2022 0503 DEFEND AND PROTECT IDAHO NAB FORM",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Defend and Protect Idaho PAC/2022 0503 DEFEND AND PROTECT IDAHO PAC SCHEDULE KQBL",
         "entity_id": "54509",
         "source_service_code": "FM",
         "callsign": "KQBL",
         "political_file_type": "NCIA",
         "campaign_year": "2022",
-        "_version_": 1731866139803254800,
+        "_version_": 1731866081416446000,
         "score": 0.24995688
       }
     ],
@@ -401,7 +401,7 @@
         "2019": 13922,
         "2020": 125144,
         "2021": 22704,
-        "2022": 22562,
+        "2022": 22563,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -445,13 +445,13 @@
       "source_service_code": {
         "TV": 245014,
         "CABLE": 129375,
-        "FM": 116771,
+        "FM": 116772,
         "AM": 44343,
         "DBS": 5712
       },
       "political_file_type": {
         "PA": 234099,
-        "NCIA": 128675
+        "NCIA": 128676
       }
     }
   },
@@ -467,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 204,
-    "processTime": 213,
-    "responseTime": 214
+    "queryTime": 1821,
+    "processTime": 827,
+    "responseTime": 1827
   }
 }
