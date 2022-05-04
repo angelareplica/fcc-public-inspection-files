@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 541223,
+    "numFound": 541218,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
@@ -247,7 +247,7 @@
         "TALLAHASSEE-THOMASVILLE": 4079,
         "OMAHA": 3922,
         "BUTTE-BOZEMAN": 3642,
-        "RALEIGH-DURHAM (FAYETVLLE)": 3554,
+        "RALEIGH-DURHAM (FAYETVLLE)": 3549,
         "EUGENE": 3435,
         "MISSOULA": 3314,
         "PORTLAND OR": 3313,
@@ -337,7 +337,7 @@
       },
       "network_affiliation": {
         "ABC": 60450,
-        "NBC": 58374,
+        "NBC": 58369,
         "CBS": 40257,
         "FOX": 28873,
         "PBS": 14708,
@@ -406,7 +406,7 @@
         "2017": 10351,
         "2018": 67662,
         "2019": 13922,
-        "2020": 125144,
+        "2020": 125139,
         "2021": 22704,
         "2022": 22570,
         "KYAZ": 5,
@@ -416,7 +416,7 @@
         "State": 73621,
         "US Senate": 51874,
         "US House": 42781,
-        "Presidential": 38417,
+        "Presidential": 38412,
         "Local": 26319
       },
       "non_political_file_folder": {
@@ -450,14 +450,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 245014,
+        "TV": 245009,
         "CABLE": 129375,
         "FM": 116776,
         "AM": 44346,
         "DBS": 5712
       },
       "political_file_type": {
-        "PA": 234106,
+        "PA": 234101,
         "NCIA": 128676
       }
     }
@@ -474,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 212,
-    "responseTime": 212
+    "queryTime": 204,
+    "processTime": 210,
+    "responseTime": 210
   }
 }
