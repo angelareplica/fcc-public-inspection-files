@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 541742,
+    "numFound": 541744,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "84af3c76-7b91-d8cb-19b7-f34d8ce8dc77",
+        "file_id": "84af3c76-7b91-d8cb-19b7-f34d8ce8dc77",
+        "file_name": "Advancing AZ 050522-052522 Order & Scheduled Airtime ",
+        "file_extension": "pdf",
+        "file_size": 377875,
+        "file_status": "com_cpy",
+        "folder_id": "7413b819-9789-80d5-2dfc-273fdca73a5e",
+        "create_ts": "2022-05-05T06:37:23.17Z",
+        "last_update_ts": "2022-05-05T06:37:01.671Z",
+        "active_ind": "Y",
+        "file_manager_id": "d7070569-0d3b-4f11-a4ac-71ff9f9c9fde",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Advancing Arizona",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Advancing Arizona/Advancing AZ 050522-052522 Order & Scheduled Airtime ",
+        "entity_id": "72510",
+        "source_service_code": "FM",
+        "callsign": "KQSS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1731967208555282400,
+        "score": 0.24995688
+      },
+      {
+        "id": "83d00ce9-4453-e198-0384-81dc0ad97201",
+        "file_id": "83d00ce9-4453-e198-0384-81dc0ad97201",
+        "file_name": "Advancing AZ Actual Airtime 041522-050422",
+        "file_extension": "pdf",
+        "file_size": 82360,
+        "file_status": "com_cpy",
+        "folder_id": "7413b819-9789-80d5-2dfc-273fdca73a5e",
+        "create_ts": "2022-05-05T06:35:40.465Z",
+        "last_update_ts": "2022-05-05T06:35:18.841Z",
+        "active_ind": "Y",
+        "file_manager_id": "9366864e-8828-49ff-85e0-42d6b6f5db50",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Advancing Arizona",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Advancing Arizona/Advancing AZ Actual Airtime 041522-050422",
+        "entity_id": "72510",
+        "source_service_code": "FM",
+        "callsign": "KQSS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1731967100737552400,
+        "score": 0.24995688
+      },
       {
         "id": "150ed352-c43c-f778-a73e-fa5ad35671fd",
         "file_id": "150ed352-c43c-f778-a73e-fa5ad35671fd",
@@ -191,56 +235,6 @@
         "campaign_year": "2022",
         "_version_": 1731961019913207800,
         "score": 0.24995688
-      },
-      {
-        "id": "1f4ada9a-f55d-302e-f472-7ea4381f5fb2",
-        "file_id": "1f4ada9a-f55d-302e-f472-7ea4381f5fb2",
-        "file_name": "Schrader for Congress 2022 KOHD Est 7675 27093 NAB 050222",
-        "file_extension": "pdf",
-        "file_size": 127570,
-        "file_status": "com_cpy",
-        "folder_id": "1db8bfdd-6b38-beaa-318a-875bd04ad761",
-        "create_ts": "2022-05-05T04:59:01.243Z",
-        "last_update_ts": "2022-05-05T04:59:04.41Z",
-        "active_ind": "Y",
-        "file_manager_id": "75314428-7091-45ae-97bd-e2acdc731619",
-        "file_folder_path": "Political Files/2022/Federal/US House/Ken Schrader for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Ken Schrader for Congress/Schrader for Congress 2022 KOHD Est 7675 27093 NAB 050222",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731961019777941500,
-        "score": 0.24995688
-      },
-      {
-        "id": "df3903b8-6ef7-561a-d86d-821e3aead7cc",
-        "file_id": "df3903b8-6ef7-561a-d86d-821e3aead7cc",
-        "file_name": "Schrader for Congress 2022 KOHD Federal Certification 042522",
-        "file_extension": "pdf",
-        "file_size": 59901,
-        "file_status": "com_cpy",
-        "folder_id": "1db8bfdd-6b38-beaa-318a-875bd04ad761",
-        "create_ts": "2022-05-05T04:59:01.215Z",
-        "last_update_ts": "2022-05-05T04:59:04.393Z",
-        "active_ind": "Y",
-        "file_manager_id": "5ae624c1-3170-4a04-a745-32e7025da945",
-        "file_folder_path": "Political Files/2022/Federal/US House/Ken Schrader for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Ken Schrader for Congress/Schrader for Congress 2022 KOHD Federal Certification 042522",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731961019754872800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -419,7 +413,7 @@
         "2019": 13922,
         "2020": 125010,
         "2021": 22706,
-        "2022": 23212,
+        "2022": 23214,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -463,13 +457,13 @@
       "source_service_code": {
         "TV": 245183,
         "CABLE": 129501,
-        "FM": 116883,
+        "FM": 116885,
         "AM": 44432,
         "DBS": 5743
       },
       "political_file_type": {
         "PA": 234515,
-        "NCIA": 128776
+        "NCIA": 128778
       }
     }
   },
@@ -485,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1801,
-    "processTime": 811,
-    "responseTime": 1811
+    "queryTime": 1803,
+    "processTime": 812,
+    "responseTime": 1812
   }
 }
