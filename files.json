@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 541744,
+    "numFound": 541745,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "2207dcd0-b09a-66b3-25b6-6ff875a2adf4",
+        "file_id": "2207dcd0-b09a-66b3-25b6-6ff875a2adf4",
+        "file_name": "Abrams 04292022 NAB",
+        "file_extension": "pdf",
+        "file_size": 1107790,
+        "file_status": "com_cpy",
+        "folder_id": "14489f78-5bb9-8b3c-9823-6e1882584f9f",
+        "create_ts": "2022-05-05T10:33:37.761Z",
+        "last_update_ts": "2022-05-05T10:34:35.35Z",
+        "active_ind": "Y",
+        "file_manager_id": "fd92489e-2417-4650-b26b-469f8369bdc3",
+        "file_folder_path": "Political Files/2022/State/Abrams for Governor",
+        "full_qualified_file_name": "Political Files/2022/State/Abrams for Governor/Abrams 04292022 NAB",
+        "entity_id": "36659",
+        "source_service_code": "FM",
+        "callsign": "WHLJ-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1731982071854792700,
+        "score": 0.24995688
+      },
       {
         "id": "84af3c76-7b91-d8cb-19b7-f34d8ce8dc77",
         "file_id": "84af3c76-7b91-d8cb-19b7-f34d8ce8dc77",
@@ -210,31 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1731961019782135800,
         "score": 0.24995688
-      },
-      {
-        "id": "c441996f-5dba-dd8b-e78e-083dbdb681ee",
-        "file_id": "c441996f-5dba-dd8b-e78e-083dbdb681ee",
-        "file_name": "Schrader for Congress 2022 KBNZ Est 7675 27104 NAB 050222",
-        "file_extension": "pdf",
-        "file_size": 128410,
-        "file_status": "com_cpy",
-        "folder_id": "1db8bfdd-6b38-beaa-318a-875bd04ad761",
-        "create_ts": "2022-05-05T04:59:01.242Z",
-        "last_update_ts": "2022-05-05T04:59:04.537Z",
-        "active_ind": "Y",
-        "file_manager_id": "166a2770-0d9c-43b1-9bd6-d7718e7f1e93",
-        "file_folder_path": "Political Files/2022/Federal/US House/Ken Schrader for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Ken Schrader for Congress/Schrader for Congress 2022 KBNZ Est 7675 27104 NAB 050222",
-        "entity_id": "166534",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOHD",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1731961019913207800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -413,12 +411,12 @@
         "2019": 13922,
         "2020": 125010,
         "2021": 22706,
-        "2022": 23214,
+        "2022": 23215,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 73792,
+        "State": 73793,
         "US Senate": 51975,
         "US House": 42893,
         "Presidential": 38390,
@@ -457,12 +455,12 @@
       "source_service_code": {
         "TV": 245183,
         "CABLE": 129501,
-        "FM": 116885,
+        "FM": 116886,
         "AM": 44432,
         "DBS": 5743
       },
       "political_file_type": {
-        "PA": 234515,
+        "PA": 234516,
         "NCIA": 128778
       }
     }
@@ -480,7 +478,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 203,
-    "processTime": 212,
-    "responseTime": 213
+    "processTime": 210,
+    "responseTime": 211
   }
 }
