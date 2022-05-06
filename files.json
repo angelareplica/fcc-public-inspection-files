@@ -1,9 +1,78 @@
 {
   "response": {
-    "numFound": 542903,
+    "numFound": 542895,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "69b335ba-5f87-7206-62c1-ab3a17ba479c",
+        "file_id": "69b335ba-5f87-7206-62c1-ab3a17ba479c",
+        "file_name": "KGAK Political File for May 06 2022",
+        "file_extension": "pdf",
+        "file_size": 202133,
+        "file_status": "com_cpy",
+        "folder_id": "5fdef124-16db-6dc8-6496-1a7cdcfc2599",
+        "create_ts": "2022-05-06T23:38:38.172Z",
+        "last_update_ts": "2022-05-06T23:39:39.609Z",
+        "active_ind": "Y",
+        "file_manager_id": "615f661f-c6c3-4e56-b345-ccdabb4166e9",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/KGAK Political File for May 06 2022",
+        "entity_id": "23050",
+        "source_service_code": "AM",
+        "callsign": "KGAK",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1732122056919613400,
+        "score": 0.24995685
+      },
+      {
+        "id": "63837f9d-7244-7058-c9a1-6610e8d5d6b5",
+        "file_id": "63837f9d-7244-7058-c9a1-6610e8d5d6b5",
+        "file_name": "KGAK Political Form for May 05 2022",
+        "file_extension": "pdf",
+        "file_size": 206859,
+        "file_status": "com_cpy",
+        "folder_id": "4a407ca7-6bad-ee9f-6d79-a3e26946c652",
+        "create_ts": "2022-05-06T23:33:06.804Z",
+        "last_update_ts": "2022-05-06T23:33:07.037Z",
+        "active_ind": "Y",
+        "file_manager_id": "afcd3518-f344-4617-b9cc-cf06ae66906d",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/KGAK Political Form for May 05 2022",
+        "entity_id": "23050",
+        "source_service_code": "AM",
+        "callsign": "KGAK",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1732121709397409800,
+        "score": 0.24995685
+      },
+      {
+        "id": "f1d278ac-e057-554f-45a1-811fc51e100e",
+        "file_id": "f1d278ac-e057-554f-45a1-811fc51e100e",
+        "file_name": "Sesslor 05 06 Confirm_17274-002",
+        "file_extension": "pdf",
+        "file_size": 36620,
+        "file_status": "com_cpy",
+        "folder_id": "52581245-fd84-7df7-e315-d1b7153cc942",
+        "create_ts": "2022-05-06T23:26:09.217Z",
+        "last_update_ts": "2022-05-06T23:26:09.41Z",
+        "active_ind": "Y",
+        "file_manager_id": "2215a616-8292-4e87-bd4a-66d3810c6267",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Sesslor 05 06 Confirm_17274-002",
+        "entity_id": "35060",
+        "source_service_code": "AM",
+        "callsign": "KLCK",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1732121271481663500,
+        "score": 0.24995685
+      },
       {
         "id": "f7a1c1cf-21ce-345f-3fd3-0f4cbea1d2c8",
         "file_id": "f7a1c1cf-21ce-345f-3fd3-0f4cbea1d2c8",
@@ -177,80 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1732118954421256200,
         "score": 0.24995685
-      },
-      {
-        "id": "872079ef-7f60-64cb-4d95-6f891758b904",
-        "file_id": "872079ef-7f60-64cb-4d95-6f891758b904",
-        "file_name": "KSKN 0509-0517222474723",
-        "file_extension": "pdf",
-        "file_size": 32950,
-        "file_status": "com_cpy",
-        "folder_id": "f4ae8862-bb15-2e55-9d8b-8efe2488da9f",
-        "create_ts": "2022-05-06T22:47:41.048Z",
-        "last_update_ts": "2022-05-06T22:47:41.294Z",
-        "active_ind": "Y",
-        "file_manager_id": "66dd1ea3-f83d-4ac7-9c37-1b7366dfad53",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Mike Crapo/CONTRACTS",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Mike Crapo/CONTRACTS/KSKN 0509-0517222474723",
-        "entity_id": "35606",
-        "source_service_code": "TV",
-        "network_affiliation": "CW",
-        "nielsen_dma_rank": "SPOKANE",
-        "callsign": "KSKN",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1732118851230892000,
-        "score": 0.24995685
-      },
-      {
-        "id": "50958521-6c4e-3ca5-33fb-38c406ff83aa",
-        "file_id": "50958521-6c4e-3ca5-33fb-38c406ff83aa",
-        "file_name": "Friends of Tobias Read 8172 050622",
-        "file_extension": "pdf",
-        "file_size": 214062,
-        "file_status": "com_cpy",
-        "folder_id": "c738928e-ecb2-d30c-729a-a18a1e7d6e2b",
-        "create_ts": "2022-05-06T22:45:45.004Z",
-        "last_update_ts": "2022-05-06T22:46:46.318Z",
-        "active_ind": "Y",
-        "file_manager_id": "6288222c-7c6d-4f2d-8fb8-df43d7fde269",
-        "file_folder_path": "Political Files/2022/State/Governor/Friends of Tobias Read",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Friends of Tobias Read/Friends of Tobias Read 8172 050622",
-        "entity_id": "60740",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "MEDFORD-KLAMATH FALLS",
-        "callsign": "KDKF",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1732118729585590300,
-        "score": 0.24995685
-      },
-      {
-        "id": "d8af54ec-a9a1-ee2f-95a2-ae8128e9c8a8",
-        "file_id": "d8af54ec-a9a1-ee2f-95a2-ae8128e9c8a8",
-        "file_name": "KRNV A STRONGER  NEVADA #1795699 REV 0.1",
-        "file_extension": "pdf",
-        "file_size": 2097877,
-        "file_status": "com_cpy",
-        "folder_id": "0daf88c9-3388-93e5-68e4-805baabea9c0",
-        "create_ts": "2022-05-06T22:46:25.787Z",
-        "last_update_ts": "2022-05-06T22:46:29.611Z",
-        "active_ind": "Y",
-        "file_manager_id": "7246b8d3-c0e8-44d6-8e6e-b6f0a3b2ba51",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/A Stronger Nevada",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/A Stronger Nevada/KRNV A STRONGER  NEVADA #1795699 REV 0.1",
-        "entity_id": "60307",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "RENO",
-        "callsign": "KRNV-DT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1732118773005025300,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -357,7 +352,7 @@
         "BOSTON (MANCHESTER)": 587
       },
       "network_affiliation": {
-        "ABC": 60780,
+        "ABC": 60776,
         "NBC": 58439,
         "CBS": 40440,
         "FOX": 28904,
@@ -429,16 +424,16 @@
         "2019": 13922,
         "2020": 124996,
         "2021": 22706,
-        "2022": 24362,
+        "2022": 24354,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 74355,
+        "State": 74356,
         "US Senate": 52067,
-        "US House": 43045,
+        "US House": 43035,
         "Presidential": 38389,
-        "Local": 26459
+        "Local": 26460
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
@@ -471,14 +466,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 245725,
+        "TV": 245714,
         "CABLE": 129629,
         "FM": 117145,
-        "AM": 44602,
+        "AM": 44605,
         "DBS": 5802
       },
       "political_file_type": {
-        "PA": 235414,
+        "PA": 235406,
         "NCIA": 129013
       }
     }
@@ -495,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 205,
-    "processTime": 215,
-    "responseTime": 216
+    "queryTime": 1772,
+    "processTime": 781,
+    "responseTime": 1782
   }
 }
