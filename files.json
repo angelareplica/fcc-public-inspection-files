@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 542327,
+    "numFound": 542329,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "407de7ea-f25d-68b7-c68d-3a567467994c",
+        "file_id": "407de7ea-f25d-68b7-c68d-3a567467994c",
+        "file_name": "kbnw.pol.order.candidate.Barton.050522",
+        "file_extension": "pdf",
+        "file_size": 7777251,
+        "file_status": "com_cpy",
+        "folder_id": "975c6c38-89e2-58ba-b941-b6f3a92984af",
+        "create_ts": "2022-05-06T04:01:44.951Z",
+        "last_update_ts": "2022-05-06T04:01:50.627Z",
+        "active_ind": "Y",
+        "file_manager_id": "122604ac-45b9-4b59-8b10-701fbca50ff3",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/kbnw.pol.order.candidate.Barton.050522",
+        "entity_id": "160749",
+        "source_service_code": "AM",
+        "callsign": "KBNW",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1732048016165044200,
+        "score": 0.24995688
+      },
+      {
+        "id": "f3218f0d-e608-3423-739e-616de4eefa42",
+        "file_id": "f3218f0d-e608-3423-739e-616de4eefa42",
+        "file_name": "Sooner State Leadership 04.11.22-06.26.22 #138936",
+        "file_extension": "pdf",
+        "file_size": 2868968,
+        "file_status": "com_cpy",
+        "folder_id": "99347fa6-97fa-32a2-a000-9965961e7501",
+        "create_ts": "2022-05-06T03:57:29.216Z",
+        "last_update_ts": "2022-05-06T03:57:33.093Z",
+        "active_ind": "Y",
+        "file_manager_id": "8af2e75a-30a1-4f6e-b5e7-1e8884eeeba7",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Sooner State Leadership",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Sooner State Leadership/Sooner State Leadership 04.11.22-06.26.22 #138936",
+        "entity_id": "25382",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "OKLAHOMA CITY",
+        "callsign": "KWTV-DT",
+        "political_file_type": "NCIA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1732047746123169800,
+        "score": 0.24995688
+      },
       {
         "id": "961be223-80e8-7001-0d5d-c2d3ace7e036",
         "file_id": "961be223-80e8-7001-0d5d-c2d3ace7e036",
@@ -201,54 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1732045956300406800,
         "score": 0.24995688
-      },
-      {
-        "id": "2d375559-9ab3-c1b5-6155-9d5f4ea93878",
-        "file_id": "2d375559-9ab3-c1b5-6155-9d5f4ea93878",
-        "file_name": "Kevin Stitt for Governor 05.02.22-05.15.22 #141370",
-        "file_extension": "pdf",
-        "file_size": 2241031,
-        "file_status": "com_cpy",
-        "folder_id": "a052ac53-15fb-6e12-2725-8008f49a827a",
-        "create_ts": "2022-05-06T03:27:25.391Z",
-        "last_update_ts": "2022-05-06T03:27:29.377Z",
-        "active_ind": "Y",
-        "file_manager_id": "e1338a31-e1ec-497b-9403-521fc3b97856",
-        "file_folder_path": "Political Files/2022/State/Governor/Kevin Stitt for Governor",
-        "full_qualified_file_name": "Political Files/2022/State/Governor/Kevin Stitt for Governor/Kevin Stitt for Governor 05.02.22-05.15.22 #141370",
-        "entity_id": "25382",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "OKLAHOMA CITY",
-        "callsign": "KWTV-DT",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1732045854794055700,
-        "score": 0.24995688
-      },
-      {
-        "id": "50864902-127a-60ba-f311-8848f0372365",
-        "file_id": "50864902-127a-60ba-f311-8848f0372365",
-        "file_name": "Charles Booker, Order#35888662, WMJM-FM, 05.07.22-05.16.22, US Senate",
-        "file_extension": "pdf",
-        "file_size": 82583,
-        "file_status": "com_cpy",
-        "folder_id": "d8ba7d05-4161-6ab2-b234-681753b301a9",
-        "create_ts": "2022-05-06T03:15:11.912Z",
-        "last_update_ts": "2022-05-06T03:15:15.204Z",
-        "active_ind": "Y",
-        "file_manager_id": "062581c6-0e46-4b1e-a3d8-5ce8d89c66a8",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Booker",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Booker/Charles Booker, Order#35888662, WMJM-FM, 05.07.22-05.16.22, US Senate",
-        "entity_id": "10322",
-        "source_service_code": "FM",
-        "callsign": "WMJM",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1732045084944236500,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -350,14 +350,14 @@
         "EL PASO (LAS CRUCES)": 639,
         "SAN DIEGO": 636,
         "MONTEREY-SALINAS": 632,
-        "OKLAHOMA CITY": 628,
+        "OKLAHOMA CITY": 629,
         "ATLANTA": 613,
         "BOSTON (MANCHESTER)": 587
       },
       "network_affiliation": {
         "ABC": 60654,
         "NBC": 58387,
-        "CBS": 40373,
+        "CBS": 40374,
         "FOX": 28880,
         "PBS": 14711,
         "CW": 12242,
@@ -427,12 +427,12 @@
         "2019": 13922,
         "2020": 125004,
         "2021": 22706,
-        "2022": 23785,
+        "2022": 23787,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 74089,
+        "State": 74091,
         "US Senate": 52023,
         "US House": 42957,
         "Presidential": 38390,
@@ -469,15 +469,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 245412,
+        "TV": 245413,
         "CABLE": 129584,
         "FM": 117010,
-        "AM": 44520,
+        "AM": 44521,
         "DBS": 5801
       },
       "political_file_type": {
-        "PA": 234959,
-        "NCIA": 128899
+        "PA": 234960,
+        "NCIA": 128900
       }
     }
   },
@@ -493,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 203,
-    "processTime": 210,
-    "responseTime": 211
+    "queryTime": 204,
+    "processTime": 212,
+    "responseTime": 213
   }
 }
