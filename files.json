@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 542337,
+    "numFound": 542338,
     "start": 0,
     "maxScore": 0.50016373,
     "docs": [
+      {
+        "id": "9d001d8e-4e35-84c2-714f-a8b85a142267",
+        "file_id": "9d001d8e-4e35-84c2-714f-a8b85a142267",
+        "file_name": "Put Michigan First PFD 05-05-2022",
+        "file_extension": "pdf",
+        "file_size": 58500,
+        "file_status": "com_cpy",
+        "folder_id": "5cbea8bf-5b8d-b42c-346c-0160c6114c83",
+        "create_ts": "2022-05-06T11:20:24.397Z",
+        "last_update_ts": "2022-05-06T11:21:24.354Z",
+        "active_ind": "Y",
+        "file_manager_id": "864c9f1e-372f-4dc6-974f-b3b5f97a36cd",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Put Michigan First",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Put Michigan First/Put Michigan First PFD 05-05-2022",
+        "entity_id": "68433",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "GRAND RAPIDS-KALMZOO-B.CRK",
+        "callsign": "WXMI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1732075611392835600,
+        "score": 0.24995688
+      },
       {
         "id": "1a682ac7-e9e3-5a7b-3bd2-d8712506ca65",
         "file_id": "1a682ac7-e9e3-5a7b-3bd2-d8712506ca65",
@@ -226,31 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1732048016165044200,
         "score": 0.24995688
-      },
-      {
-        "id": "f3218f0d-e608-3423-739e-616de4eefa42",
-        "file_id": "f3218f0d-e608-3423-739e-616de4eefa42",
-        "file_name": "Sooner State Leadership 04.11.22-06.26.22 #138936",
-        "file_extension": "pdf",
-        "file_size": 2868968,
-        "file_status": "com_cpy",
-        "folder_id": "99347fa6-97fa-32a2-a000-9965961e7501",
-        "create_ts": "2022-05-06T03:57:29.216Z",
-        "last_update_ts": "2022-05-06T03:57:33.093Z",
-        "active_ind": "Y",
-        "file_manager_id": "8af2e75a-30a1-4f6e-b5e7-1e8884eeeba7",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Sooner State Leadership",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Sooner State Leadership/Sooner State Leadership 04.11.22-06.26.22 #138936",
-        "entity_id": "25382",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "OKLAHOMA CITY",
-        "callsign": "KWTV-DT",
-        "political_file_type": "NCIA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1732047746123169800,
-        "score": 0.24995688
       }
     ],
     "facets": {
@@ -289,7 +288,7 @@
         "PEORIA-BLOOMINGTON": 2414,
         "PHILADELPHIA": 2284,
         "Greenville-Spartanburg-Asheville-Anderson": 2249,
-        "GRAND RAPIDS-KALMZOO-B.CRK": 2177,
+        "GRAND RAPIDS-KALMZOO-B.CRK": 2178,
         "TAMPA-ST. PETE (SARASOTA)": 2155,
         "LEXINGTON": 2122,
         "ROCHESTR-MASON CITY-AUSTIN": 1991,
@@ -360,7 +359,7 @@
         "ABC": 60662,
         "NBC": 58387,
         "CBS": 40374,
-        "FOX": 28880,
+        "FOX": 28881,
         "PBS": 14711,
         "CW": 12242,
         "IND": 3011,
@@ -429,7 +428,7 @@
         "2019": 13922,
         "2020": 125004,
         "2021": 22706,
-        "2022": 23795,
+        "2022": 23796,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -471,7 +470,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 245421,
+        "TV": 245422,
         "CABLE": 129584,
         "FM": 117010,
         "AM": 44521,
@@ -479,7 +478,7 @@
       },
       "political_file_type": {
         "PA": 234968,
-        "NCIA": 128900
+        "NCIA": 128901
       }
     }
   },
@@ -495,8 +494,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 203,
-    "processTime": 213,
-    "responseTime": 214
+    "queryTime": 1814,
+    "processTime": 825,
+    "responseTime": 1825
   }
 }
