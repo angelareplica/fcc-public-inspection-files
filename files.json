@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 542955,
+    "numFound": 542956,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "b7509ca8-ff1b-9f73-eef9-b89390247025",
+        "file_id": "b7509ca8-ff1b-9f73-eef9-b89390247025",
+        "file_name": "Rod Runyon 05 06",
+        "file_extension": "pdf",
+        "file_size": 1114672,
+        "file_status": "com_cpy",
+        "folder_id": "4717f0bb-7347-1aa3-9bf1-42d767f9ae6a",
+        "create_ts": "2022-05-07T11:29:28.839Z",
+        "last_update_ts": "2022-05-07T11:30:31.873Z",
+        "active_ind": "Y",
+        "file_manager_id": "40d8dcbb-ece6-4ed5-bf7b-7679fdc5b7e8",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Rod Runyon 05 06",
+        "entity_id": "12242",
+        "source_service_code": "FM",
+        "callsign": "KYYT",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1732166779686355000,
+        "score": 0.24995685
+      },
       {
         "id": "f759c49e-2f3c-fdee-26c3-04c6cd78bd74",
         "file_id": "f759c49e-2f3c-fdee-26c3-04c6cd78bd74",
@@ -206,28 +229,6 @@
         "campaign_year": "2022",
         "_version_": 1732131710556962800,
         "score": 0.24995685
-      },
-      {
-        "id": "254c45ea-68a0-4a14-3dce-b592a1f0df3d",
-        "file_id": "254c45ea-68a0-4a14-3dce-b592a1f0df3d",
-        "file_name": "PEOPLE WHO PLAY BY THE RULES WEOA ORDER CONFIRMATION  101303-003 WEOA",
-        "file_extension": "pdf",
-        "file_size": 37439,
-        "file_status": "com_cpy",
-        "folder_id": "a5b63d18-7f4c-5a70-8b32-a91e1744ebee",
-        "create_ts": "2022-05-07T02:04:59.35Z",
-        "last_update_ts": "2022-05-07T02:08:52.597Z",
-        "active_ind": "Y",
-        "file_manager_id": "4da7e835-656e-4748-a9ec-bbc9a3380593",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/PEOPLE WHO PLAY BY THE RULES",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/PEOPLE WHO PLAY BY THE RULES/PEOPLE WHO PLAY BY THE RULES WEOA ORDER CONFIRMATION  101303-003 WEOA",
-        "entity_id": "61042",
-        "source_service_code": "AM",
-        "callsign": "WEOA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1732131444531134500,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -406,7 +407,7 @@
         "2019": 13922,
         "2020": 124996,
         "2021": 22706,
-        "2022": 24414,
+        "2022": 24415,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -415,7 +416,7 @@
         "US Senate": 52068,
         "US House": 43053,
         "Presidential": 38389,
-        "Local": 26467
+        "Local": 26468
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
@@ -450,12 +451,12 @@
       "source_service_code": {
         "TV": 245745,
         "CABLE": 129629,
-        "FM": 117150,
+        "FM": 117151,
         "AM": 44620,
         "DBS": 5811
       },
       "political_file_type": {
-        "PA": 235456,
+        "PA": 235457,
         "NCIA": 129023
       }
     }
@@ -472,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 67,
-    "processTime": 76,
-    "responseTime": 77
+    "queryTime": 1829,
+    "processTime": 838,
+    "responseTime": 1839
   }
 }
