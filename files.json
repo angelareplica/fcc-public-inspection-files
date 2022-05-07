@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 542956,
+    "numFound": 542957,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "e951f0e3-285c-81a6-096e-970461a34ef5",
+        "file_id": "e951f0e3-285c-81a6-096e-970461a34ef5",
+        "file_name": "ABRAMS 05062022",
+        "file_extension": "pdf",
+        "file_size": 43304,
+        "file_status": "com_cpy",
+        "folder_id": "5942c997-b20f-a85c-87c7-5071b46d47d0",
+        "create_ts": "2022-05-07T19:32:40.228Z",
+        "last_update_ts": "2022-05-07T19:32:43.344Z",
+        "active_ind": "Y",
+        "file_manager_id": "84bc77b5-c8ac-4c2a-84fc-77bdf319100e",
+        "file_folder_path": "Political Files/2022/State/Abrams for Governor 05062022",
+        "full_qualified_file_name": "Political Files/2022/State/Abrams for Governor 05062022/ABRAMS 05062022",
+        "entity_id": "36659",
+        "source_service_code": "FM",
+        "callsign": "WHLJ-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1732197178940588000,
+        "score": 0.24995685
+      },
       {
         "id": "b7509ca8-ff1b-9f73-eef9-b89390247025",
         "file_id": "b7509ca8-ff1b-9f73-eef9-b89390247025",
@@ -206,29 +229,6 @@
         "campaign_year": "2022",
         "_version_": 1732131710793941000,
         "score": 0.24995685
-      },
-      {
-        "id": "de840833-a4a7-d98c-e3bf-640ee3c4d21b",
-        "file_id": "de840833-a4a7-d98c-e3bf-640ee3c4d21b",
-        "file_name": "COMMITTEE TO ELECT JASON ASHWORTH FOR SHERIFF WEOA ORDER CONFIRMATION  101300-002 WEOA",
-        "file_extension": "pdf",
-        "file_size": 42809,
-        "file_status": "com_cpy",
-        "folder_id": "0e87e759-4d31-ef0d-da5d-7b4eaea78fc4",
-        "create_ts": "2022-05-07T02:12:04.646Z",
-        "last_update_ts": "2022-05-07T02:12:04.862Z",
-        "active_ind": "Y",
-        "file_manager_id": "cf14722c-1e3d-4895-aa17-d4b4bd7d73de",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/COMMITTEE TO ELECT JASON ASHWORTH FOR SHERIFF WEOA ORDER CONFIRMATION  101300-002 WEOA",
-        "entity_id": "61042",
-        "source_service_code": "AM",
-        "callsign": "WEOA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1732131710556962800,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -407,12 +407,12 @@
         "2019": 13922,
         "2020": 124996,
         "2021": 22706,
-        "2022": 24415,
+        "2022": 24416,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 74380,
+        "State": 74381,
         "US Senate": 52068,
         "US House": 43053,
         "Presidential": 38389,
@@ -451,12 +451,12 @@
       "source_service_code": {
         "TV": 245745,
         "CABLE": 129629,
-        "FM": 117151,
+        "FM": 117152,
         "AM": 44620,
         "DBS": 5811
       },
       "political_file_type": {
-        "PA": 235457,
+        "PA": 235458,
         "NCIA": 129023
       }
     }
@@ -473,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 216,
-    "responseTime": 217
+    "queryTime": 1795,
+    "processTime": 804,
+    "responseTime": 1805
   }
 }
