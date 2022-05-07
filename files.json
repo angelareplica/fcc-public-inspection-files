@@ -5,17 +5,17 @@
     "maxScore": 0.5001637,
     "docs": [
       {
-        "id": "4aa95acf-b4c8-1554-90a8-ac441a77d237",
-        "file_id": "4aa95acf-b4c8-1554-90a8-ac441a77d237",
+        "id": "f759c49e-2f3c-fdee-26c3-04c6cd78bd74",
+        "file_id": "f759c49e-2f3c-fdee-26c3-04c6cd78bd74",
         "file_name": "Confirm_8986-001",
         "file_extension": "pdf",
-        "file_size": 20594,
+        "file_size": 20600,
         "file_status": "com_cpy",
         "folder_id": "1c7da507-e947-61b0-67b3-cd6ac901ab26",
-        "create_ts": "2022-05-07T03:21:01.634Z",
-        "last_update_ts": "2022-05-07T03:21:04.778Z",
+        "create_ts": "2022-05-07T04:16:39.272Z",
+        "last_update_ts": "2022-05-07T04:16:42.487Z",
         "active_ind": "Y",
-        "file_manager_id": "2a3dcdd9-c691-49bb-ab0d-3fb2c86bc0ed",
+        "file_manager_id": "a74093ff-efb9-42ec-8251-77d46fafa671",
         "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Congressman Sam Graves Constituent Service",
         "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Congressman Sam Graves Constituent Service/Confirm_8986-001",
         "entity_id": "6584",
@@ -23,7 +23,7 @@
         "callsign": "KMEM-FM",
         "political_file_type": "NCIA",
         "campaign_year": "2022",
-        "_version_": 1732136048530555000,
+        "_version_": 1732139548307095600,
         "score": 0.24995685
       },
       {
@@ -472,8 +472,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1811,
-    "processTime": 819,
-    "responseTime": 1820
+    "queryTime": 1801,
+    "processTime": 811,
+    "responseTime": 1812
   }
 }
