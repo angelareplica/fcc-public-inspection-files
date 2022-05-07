@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 542957,
+    "numFound": 542958,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "bb64e723-43fd-f83a-49b0-6c81947676cb",
+        "file_id": "bb64e723-43fd-f83a-49b0-6c81947676cb",
+        "file_name": "WAMO WILL PARKER 05042022",
+        "file_extension": "pdf",
+        "file_size": 168606,
+        "file_status": "com_cpy",
+        "folder_id": "46feec78-bbb9-325e-f0fb-e5af9a53dab6",
+        "create_ts": "2022-05-07T23:18:44.481Z",
+        "last_update_ts": "2022-05-07T23:19:48.501Z",
+        "active_ind": "Y",
+        "file_manager_id": "a75a31ba-162a-43a8-988a-f8e891c6be84",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/WAMO WILL PARKER 05042022",
+        "entity_id": "25732",
+        "source_service_code": "AM",
+        "callsign": "WAMO",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1732211402132684800,
+        "score": 0.24995685
+      },
       {
         "id": "e951f0e3-285c-81a6-096e-970461a34ef5",
         "file_id": "e951f0e3-285c-81a6-096e-970461a34ef5",
@@ -206,29 +229,6 @@
         "campaign_year": "2022",
         "_version_": 1732131710826446800,
         "score": 0.24995685
-      },
-      {
-        "id": "4dcdd700-c3d3-ab51-e67f-d97ddec3f673",
-        "file_id": "4dcdd700-c3d3-ab51-e67f-d97ddec3f673",
-        "file_name": "NOAH ROBINSON FOR SHERIFF WEOA ORDER CONFIRMATION  101301-004 WEOA",
-        "file_extension": "pdf",
-        "file_size": 33996,
-        "file_status": "com_cpy",
-        "folder_id": "0e87e759-4d31-ef0d-da5d-7b4eaea78fc4",
-        "create_ts": "2022-05-07T02:12:04.897Z",
-        "last_update_ts": "2022-05-07T02:12:05.096Z",
-        "active_ind": "Y",
-        "file_manager_id": "f9416330-1847-41ec-bdd6-86d252019857",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/NOAH ROBINSON FOR SHERIFF WEOA ORDER CONFIRMATION  101301-004 WEOA",
-        "entity_id": "61042",
-        "source_service_code": "AM",
-        "callsign": "WEOA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1732131710793941000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -407,14 +407,14 @@
         "2019": 13922,
         "2020": 124996,
         "2021": 22706,
-        "2022": 24416,
+        "2022": 24417,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 74381,
         "US Senate": 52068,
-        "US House": 43053,
+        "US House": 43054,
         "Presidential": 38389,
         "Local": 26468
       },
@@ -452,11 +452,11 @@
         "TV": 245745,
         "CABLE": 129629,
         "FM": 117152,
-        "AM": 44620,
+        "AM": 44621,
         "DBS": 5811
       },
       "political_file_type": {
-        "PA": 235458,
+        "PA": 235459,
         "NCIA": 129023
       }
     }
@@ -473,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1819,
-    "processTime": 828,
-    "responseTime": 1828
+    "queryTime": 1827,
+    "processTime": 835,
+    "responseTime": 1836
   }
 }
