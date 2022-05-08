@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 542963,
+    "numFound": 542965,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "b0e4bc29-e374-08c3-64ed-c6884dcfa4df",
+        "file_id": "b0e4bc29-e374-08c3-64ed-c6884dcfa4df",
+        "file_name": "Vickie Sawyer Political 05-08-22",
+        "file_extension": "pdf",
+        "file_size": 109931,
+        "file_status": "com_cpy",
+        "folder_id": "f608224b-67a7-5164-e674-d4f633b8112c",
+        "create_ts": "2022-05-08T13:52:53.647Z",
+        "last_update_ts": "2022-05-08T13:53:59.263Z",
+        "active_ind": "Y",
+        "file_manager_id": "a918dfe6-9689-42ef-a8c6-f46f6bb029aa",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/Vickie Sawyer Political 05-08-22",
+        "entity_id": "43740",
+        "source_service_code": "AM",
+        "callsign": "WHIP",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1732266398997020700,
+        "score": 0.24995685
+      },
+      {
+        "id": "fe3d095d-4ef5-1bc4-6b5d-6f761740a9af",
+        "file_id": "fe3d095d-4ef5-1bc4-6b5d-6f761740a9af",
+        "file_name": "James Ritchie Political 05-08-22",
+        "file_extension": "pdf",
+        "file_size": 116702,
+        "file_status": "com_cpy",
+        "folder_id": "ee8f0385-27ab-b4d3-c730-1982fe16f540",
+        "create_ts": "2022-05-08T13:51:47.534Z",
+        "last_update_ts": "2022-05-08T13:51:47.466Z",
+        "active_ind": "Y",
+        "file_manager_id": "65d0a4ae-810c-4efd-b136-ded71f27c8b3",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/James Ritchie Political 05-08-22",
+        "entity_id": "43740",
+        "source_service_code": "AM",
+        "callsign": "WHIP",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1732266329784713200,
+        "score": 0.24995685
+      },
       {
         "id": "6c349af3-d10e-8abf-d3a2-696d451f4a5a",
         "file_id": "6c349af3-d10e-8abf-d3a2-696d451f4a5a",
@@ -187,50 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1732166779686355000,
         "score": 0.24995685
-      },
-      {
-        "id": "f759c49e-2f3c-fdee-26c3-04c6cd78bd74",
-        "file_id": "f759c49e-2f3c-fdee-26c3-04c6cd78bd74",
-        "file_name": "Confirm_8986-001",
-        "file_extension": "pdf",
-        "file_size": 20600,
-        "file_status": "com_cpy",
-        "folder_id": "1c7da507-e947-61b0-67b3-cd6ac901ab26",
-        "create_ts": "2022-05-07T04:16:39.272Z",
-        "last_update_ts": "2022-05-07T04:16:42.487Z",
-        "active_ind": "Y",
-        "file_manager_id": "a74093ff-efb9-42ec-8251-77d46fafa671",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Congressman Sam Graves Constituent Service",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Congressman Sam Graves Constituent Service/Confirm_8986-001",
-        "entity_id": "6584",
-        "source_service_code": "FM",
-        "callsign": "KMEM-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1732139548307095600,
-        "score": 0.24995685
-      },
-      {
-        "id": "37040373-08a6-afe0-1dbe-b45b024b2072",
-        "file_id": "37040373-08a6-afe0-1dbe-b45b024b2072",
-        "file_name": "Protect Our Future, NAB PB19, rev1, WMJM-FM, 05.10.22-05.17.22, Issue",
-        "file_extension": "pdf",
-        "file_size": 1316234,
-        "file_status": "com_cpy",
-        "folder_id": "956e9189-758d-aca3-50cc-638b93f6e134",
-        "create_ts": "2022-05-07T03:17:41.107Z",
-        "last_update_ts": "2022-05-07T03:17:45.077Z",
-        "active_ind": "Y",
-        "file_manager_id": "84d91899-0bdb-4446-b453-8eefc9cc10e5",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Protect Our Future/Protect Our Future, NAB PB19, rev1, WMJM-FM, 05.10.22-05.17.22, Issue",
-        "entity_id": "10322",
-        "source_service_code": "FM",
-        "callsign": "WMJM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1732135839054430200,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -409,16 +411,16 @@
         "2019": 13922,
         "2020": 124996,
         "2021": 22706,
-        "2022": 24417,
+        "2022": 24419,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 74381,
+        "State": 74382,
         "US Senate": 52068,
         "US House": 43054,
         "Presidential": 38389,
-        "Local": 26468
+        "Local": 26469
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
@@ -454,11 +456,11 @@
         "TV": 245750,
         "CABLE": 129629,
         "FM": 117152,
-        "AM": 44621,
+        "AM": 44623,
         "DBS": 5811
       },
       "political_file_type": {
-        "PA": 235459,
+        "PA": 235461,
         "NCIA": 129023
       }
     }
@@ -475,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1791,
-    "processTime": 822,
-    "responseTime": 1823
+    "queryTime": 1807,
+    "processTime": 814,
+    "responseTime": 1814
   }
 }
