@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 542965,
+    "numFound": 542966,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "b7e68750-ded3-aaf5-3d95-ea7d0c8db2ed",
+        "file_id": "b7e68750-ded3-aaf5-3d95-ea7d0c8db2ed",
+        "file_name": "ProgramsReport 2022-02",
+        "file_extension": "docx",
+        "file_size": 21803,
+        "file_status": "com_prc",
+        "folder_id": "71c21f7e-cdc6-90d7-9406-159ac9a8945f",
+        "create_ts": "2022-05-08T18:59:34.865Z",
+        "last_update_ts": "2022-05-08T18:59:50.134Z",
+        "active_ind": "Y",
+        "file_manager_id": "a993cfa5-7f15-4389-a977-5cd4d11c58c3",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/ProgramsReport 2022-02",
+        "entity_id": "71191",
+        "source_service_code": "FM",
+        "callsign": "KWSC",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1732285710311882800,
+        "score": 0.24995685
+      },
       {
         "id": "b0e4bc29-e374-08c3-64ed-c6884dcfa4df",
         "file_id": "b0e4bc29-e374-08c3-64ed-c6884dcfa4df",
@@ -210,29 +231,6 @@
         "campaign_year": "2022",
         "_version_": 1732197178940588000,
         "score": 0.24995685
-      },
-      {
-        "id": "b7509ca8-ff1b-9f73-eef9-b89390247025",
-        "file_id": "b7509ca8-ff1b-9f73-eef9-b89390247025",
-        "file_name": "Rod Runyon 05 06",
-        "file_extension": "pdf",
-        "file_size": 1114672,
-        "file_status": "com_cpy",
-        "folder_id": "4717f0bb-7347-1aa3-9bf1-42d767f9ae6a",
-        "create_ts": "2022-05-07T11:29:28.839Z",
-        "last_update_ts": "2022-05-07T11:30:31.873Z",
-        "active_ind": "Y",
-        "file_manager_id": "40d8dcbb-ece6-4ed5-bf7b-7679fdc5b7e8",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Rod Runyon 05 06",
-        "entity_id": "12242",
-        "source_service_code": "FM",
-        "callsign": "KYYT",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1732166779686355000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -424,7 +422,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
-        "Issues and Programs Lists": 46267,
+        "Issues and Programs Lists": 46268,
         "Equal Employment Opportunity Records": 37540,
         "Donor Lists - Applicable Only for NCEs": 11982,
         "FCC Authorizations": 7364,
@@ -455,7 +453,7 @@
       "source_service_code": {
         "TV": 245750,
         "CABLE": 129629,
-        "FM": 117152,
+        "FM": 117153,
         "AM": 44623,
         "DBS": 5811
       },
@@ -477,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 207,
-    "processTime": 214,
-    "responseTime": 215
+    "queryTime": 202,
+    "processTime": 209,
+    "responseTime": 210
   }
 }
