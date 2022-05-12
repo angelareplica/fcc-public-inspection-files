@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 545720,
+    "numFound": 545721,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "a8458185-eea3-ed89-72b4-413c2d76ea29",
+        "file_id": "a8458185-eea3-ed89-72b4-413c2d76ea29",
+        "file_name": "Elbert Guillorys America_NAB-Non Candidate Issue_updated 051222",
+        "file_extension": "pdf",
+        "file_size": 4176416,
+        "file_status": "com_cpy",
+        "folder_id": "41bf7d3a-399f-1a48-83bc-d7647c7c71ec",
+        "create_ts": "2022-05-12T04:29:58.992Z",
+        "last_update_ts": "2022-05-12T04:30:02.991Z",
+        "active_ind": "Y",
+        "file_manager_id": "b60dcb41-ae63-460a-aa52-cd317c1648d8",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Elbert Guillorys America_NAB-Non Candidate Issue_updated 051222",
+        "entity_id": "87170",
+        "source_service_code": "AM",
+        "callsign": "WTJZ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1732593372444491800,
+        "score": 0.24995685
+      },
       {
         "id": "30f63bff-9f84-9106-edbc-a4f620fd80d2",
         "file_id": "30f63bff-9f84-9106-edbc-a4f620fd80d2",
@@ -200,30 +222,6 @@
         "campaign_year": "2022",
         "_version_": 1732590644162986000,
         "score": 0.24995685
-      },
-      {
-        "id": "2180f9af-17af-5810-6f21-d7f6fda8bf24",
-        "file_id": "2180f9af-17af-5810-6f21-d7f6fda8bf24",
-        "file_name": "2022-05-11 Non-Candidate Disclosure Form - Mainstream Democrats PAC",
-        "file_extension": "pdf",
-        "file_size": 52204,
-        "file_status": "com_cpy",
-        "folder_id": "106bced6-d13c-158a-aa93-772a6c8551fb",
-        "create_ts": "2022-05-12T03:41:34.283Z",
-        "last_update_ts": "2022-05-12T03:41:37.484Z",
-        "active_ind": "Y",
-        "file_manager_id": "6d211b48-b5e0-45f5-ae65-1cfee2986cce",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/MAINSTREAM DEMOCRATS PAC/DISCLOSURE",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/MAINSTREAM DEMOCRATS PAC/DISCLOSURE/2022-05-11 Non-Candidate Disclosure Form - Mainstream Democrats PAC",
-        "entity_id": "61173",
-        "source_service_code": "TV",
-        "network_affiliation": "ION",
-        "nielsen_dma_rank": "SAN ANTONIO",
-        "callsign": "KPXL-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1732590325799583700,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -402,7 +400,7 @@
         "2019": 13920,
         "2020": 124991,
         "2021": 22706,
-        "2022": 27070,
+        "2022": 27071,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -447,12 +445,12 @@
         "TV": 247033,
         "CABLE": 129971,
         "FM": 117896,
-        "AM": 44956,
+        "AM": 44957,
         "DBS": 5864
       },
       "political_file_type": {
         "PA": 237387,
-        "NCIA": 129732
+        "NCIA": 129733
       }
     }
   },
@@ -468,8 +466,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1848,
-    "processTime": 857,
-    "responseTime": 1857
+    "queryTime": 1820,
+    "processTime": 827,
+    "responseTime": 1828
   }
 }
