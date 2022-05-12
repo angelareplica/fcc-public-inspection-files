@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 546334,
+    "numFound": 546333,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
@@ -437,7 +437,7 @@
         "Issues and Programs Lists": 46278,
         "Equal Employment Opportunity Records": 37540,
         "Donor Lists - Applicable Only for NCEs": 12126,
-        "FCC Authorizations": 7358,
+        "FCC Authorizations": 7357,
         "Local Public Notice Announcements": 1893,
         "Availability of Signals": 1867,
         "Applications and Related Materials": 1698,
@@ -466,7 +466,7 @@
         "TV": 247367,
         "CABLE": 130030,
         "FM": 118053,
-        "AM": 45016,
+        "AM": 45015,
         "DBS": 5868
       },
       "political_file_type": {
@@ -487,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1834,
-    "processTime": 842,
-    "responseTime": 1843
+    "queryTime": 1809,
+    "processTime": 816,
+    "responseTime": 1817
   }
 }
