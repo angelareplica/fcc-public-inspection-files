@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 546965,
+    "numFound": 546967,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "6d999d64-0cf5-5e45-2f5a-36403c372e5a",
+        "file_id": "6d999d64-0cf5-5e45-2f5a-36403c372e5a",
+        "file_name": "698834_Invoice_20220514035229",
+        "file_extension": "pdf",
+        "file_size": 70089,
+        "file_status": "com_cpy",
+        "folder_id": "2952e34d-e61f-1ced-b45f-219abdfab1a9",
+        "create_ts": "2022-05-14T22:08:03.305Z",
+        "last_update_ts": "2022-05-14T22:09:25.801Z",
+        "active_ind": "Y",
+        "file_manager_id": "a292b8a9-d533-4220-96f5-2c61fa40a746",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698834_Invoice_20220514035229",
+        "entity_id": "003377",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS/INDIANA/OHIO, LLC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1732841133731479600,
+        "score": 0.00012497843
+      },
+      {
+        "id": "024c2651-4c8b-655c-b537-2abc63bb597a",
+        "file_id": "024c2651-4c8b-655c-b537-2abc63bb597a",
+        "file_name": "698834_Invoice_20220514035229",
+        "file_extension": "pdf",
+        "file_size": 70089,
+        "file_status": "com_cpy",
+        "folder_id": "5fae1ab2-0341-6ce5-e0c4-23489d40709a",
+        "create_ts": "2022-05-14T22:02:52.664Z",
+        "last_update_ts": "2022-05-14T22:02:51.119Z",
+        "active_ind": "Y",
+        "file_manager_id": "8ef34f65-5cab-4f74-8038-d8d13830c778",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698834_Invoice_20220514035229",
+        "entity_id": "003364",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF NORTHERN ILLINOIS INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1732840807978762200,
+        "score": 0.00012497843
+      },
       {
         "id": "24cbdc20-2259-00e2-8534-554605365bf9",
         "file_id": "24cbdc20-2259-00e2-8534-554605365bf9",
@@ -191,52 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1732812580383096800,
         "score": 0.24995685
-      },
-      {
-        "id": "25f01f68-153b-e3dc-93c4-5c1e73864556",
-        "file_id": "25f01f68-153b-e3dc-93c4-5c1e73864556",
-        "file_name": "WYEA-Mike Rogers for Congress-Confirm_1775-054-051722",
-        "file_extension": "pdf",
-        "file_size": 225315,
-        "file_status": "com_cpy",
-        "folder_id": "50de1603-1eae-ee1c-f449-549d87a14547",
-        "create_ts": "2022-05-14T04:15:39.894Z",
-        "last_update_ts": "2022-05-14T04:17:00.596Z",
-        "active_ind": "Y",
-        "file_manager_id": "6e92171f-124e-4abe-baf1-d585f38c75c4",
-        "file_folder_path": "Political Files/2022/Federal/US House",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/WYEA-Mike Rogers for Congress-Confirm_1775-054-051722",
-        "entity_id": "70638",
-        "source_service_code": "AM",
-        "callsign": "WYEA",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1732773664867221500,
-        "score": 0.24995685
-      },
-      {
-        "id": "ddb8d2aa-2ac6-eaa3-9189-814458195617",
-        "file_id": "ddb8d2aa-2ac6-eaa3-9189-814458195617",
-        "file_name": "WSGN-Mike Rogers for Congress-Confirm_1775-058-051722",
-        "file_extension": "pdf",
-        "file_size": 225291,
-        "file_status": "com_cpy",
-        "folder_id": "7653d673-2e5d-4a47-9192-0e1a67edcacd",
-        "create_ts": "2022-05-14T04:14:27.813Z",
-        "last_update_ts": "2022-05-14T04:14:26.916Z",
-        "active_ind": "Y",
-        "file_manager_id": "acb7a33e-a2a0-4c35-845b-ec3b3853c0ce",
-        "file_folder_path": "Political Files/2022/Federal/US House",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/WSGN-Mike Rogers for Congress-Confirm_1775-058-051722",
-        "entity_id": "60762",
-        "source_service_code": "AM",
-        "callsign": "WSGN",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1732773589641330700,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -415,7 +419,7 @@
         "2019": 13920,
         "2020": 124983,
         "2021": 22706,
-        "2022": 28294,
+        "2022": 28296,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -424,7 +428,7 @@
         "US Senate": 52366,
         "US House": 43669,
         "Presidential": 38388,
-        "Local": 26789
+        "Local": 26791
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
@@ -458,13 +462,13 @@
       },
       "source_service_code": {
         "TV": 247700,
-        "CABLE": 130141,
+        "CABLE": 130143,
         "FM": 118167,
         "AM": 45077,
         "DBS": 5880
       },
       "political_file_type": {
-        "PA": 238254,
+        "PA": 238256,
         "NCIA": 130081
       }
     }
@@ -481,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1789,
-    "processTime": 796,
-    "responseTime": 1797
+    "queryTime": 1845,
+    "processTime": 854,
+    "responseTime": 1854
   }
 }
