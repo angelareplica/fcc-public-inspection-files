@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 546968,
+    "numFound": 546969,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "3ab4ff9c-036f-0fd9-8270-1a02e94c5852",
+        "file_id": "3ab4ff9c-036f-0fd9-8270-1a02e94c5852",
+        "file_name": "698834_Invoice_20220514035229",
+        "file_extension": "pdf",
+        "file_size": 70089,
+        "file_status": "com_cpy",
+        "folder_id": "fa7d0812-07e4-5625-f394-319380d2015f",
+        "create_ts": "2022-05-14T22:46:43.163Z",
+        "last_update_ts": "2022-05-14T22:48:05.727Z",
+        "active_ind": "Y",
+        "file_manager_id": "259c827b-0cc0-481c-bacd-f71cd315395e",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698834_Invoice_20220514035229",
+        "entity_id": "005100",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF CALIFORNIA/COLORADO/ILLINOIS/INDIANA/MICHIGAN, LP",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1732843566267367400,
+        "score": 0.00012497843
+      },
       {
         "id": "6bc591fa-8251-8dad-8298-8d7fd2ae9750",
         "file_id": "6bc591fa-8251-8dad-8298-8d7fd2ae9750",
@@ -218,31 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1732832387306356700,
         "score": 0.24995685
-      },
-      {
-        "id": "dddd6543-df18-eace-7b76-e1ca2614f074",
-        "file_id": "dddd6543-df18-eace-7b76-e1ca2614f074",
-        "file_name": "WMYD Committee-to-Elect-Kelly-Garrett-Political-PFD-05-13-2022",
-        "file_extension": "pdf",
-        "file_size": 62144,
-        "file_status": "com_cpy",
-        "folder_id": "a0df8138-a2f2-a2b1-965f-4ee9bf469ca6",
-        "create_ts": "2022-05-14T18:59:56.814Z",
-        "last_update_ts": "2022-05-14T18:59:59.955Z",
-        "active_ind": "Y",
-        "file_manager_id": "1320f4b7-dcd5-452e-b092-fc714985d960",
-        "file_folder_path": "Political Files/2022/Federal/US House/Kelly Garrett Dem 12th District/Political Disclosure",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Kelly Garrett Dem 12th District/Political Disclosure/WMYD Committee-to-Elect-Kelly-Garrett-Political-PFD-05-13-2022",
-        "entity_id": "74211",
-        "source_service_code": "TV",
-        "network_affiliation": "MYTV",
-        "nielsen_dma_rank": "DETROIT",
-        "callsign": "WMYD",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1732829298916589600,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -421,7 +421,7 @@
         "2019": 13920,
         "2020": 124983,
         "2021": 22706,
-        "2022": 28297,
+        "2022": 28298,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -430,7 +430,7 @@
         "US Senate": 52366,
         "US House": 43669,
         "Presidential": 38388,
-        "Local": 26792
+        "Local": 26793
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
@@ -464,13 +464,13 @@
       },
       "source_service_code": {
         "TV": 247700,
-        "CABLE": 130144,
+        "CABLE": 130145,
         "FM": 118167,
         "AM": 45077,
         "DBS": 5880
       },
       "political_file_type": {
-        "PA": 238257,
+        "PA": 238258,
         "NCIA": 130081
       }
     }
@@ -488,7 +488,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 1823,
-    "processTime": 832,
-    "responseTime": 1832
+    "processTime": 834,
+    "responseTime": 1835
   }
 }
