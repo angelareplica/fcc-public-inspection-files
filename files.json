@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 546969,
+    "numFound": 546971,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "8a037ce0-c3dc-89a5-71cc-d2a1fb2e52e0",
+        "file_id": "8a037ce0-c3dc-89a5-71cc-d2a1fb2e52e0",
+        "file_name": "698834_Invoice_20220514035229",
+        "file_extension": "pdf",
+        "file_size": 70089,
+        "file_status": "com_cpy",
+        "folder_id": "fa6b684a-749d-5114-7885-f0b0388ae6fb",
+        "create_ts": "2022-05-14T23:43:48.648Z",
+        "last_update_ts": "2022-05-14T23:43:47.08Z",
+        "active_ind": "Y",
+        "file_manager_id": "eafca112-e5a2-4c3b-b72a-4a70cf54e1e8",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698834_Invoice_20220514035229",
+        "entity_id": "011619",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF SOUTHERN ILLINOIS INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1732847158128803800,
+        "score": 0.00012497843
+      },
+      {
+        "id": "9f2049e2-fbfb-ab56-c7bf-cf6f69049fce",
+        "file_id": "9f2049e2-fbfb-ab56-c7bf-cf6f69049fce",
+        "file_name": "698834_Invoice_20220514035229",
+        "file_extension": "pdf",
+        "file_size": 70089,
+        "file_status": "com_cpy",
+        "folder_id": "8de38372-9023-f1a6-d56b-598cff6abab4",
+        "create_ts": "2022-05-14T23:42:52.28Z",
+        "last_update_ts": "2022-05-14T23:42:50.704Z",
+        "active_ind": "Y",
+        "file_manager_id": "1dde8356-1ec8-4456-bc46-8014b0085a6a",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698834_Invoice_20220514035229",
+        "entity_id": "005876",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS IV INC",
+        "operator_city_name": "Philadelphia",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1732847099016380400,
+        "score": 0.00012497843
+      },
       {
         "id": "3ab4ff9c-036f-0fd9-8270-1a02e94c5852",
         "file_id": "3ab4ff9c-036f-0fd9-8270-1a02e94c5852",
@@ -195,54 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1732839382526722000,
         "score": 0.24995685
-      },
-      {
-        "id": "5fc2d81b-3efc-813b-3296-a4546e159431",
-        "file_id": "5fc2d81b-3efc-813b-3296-a4546e159431",
-        "file_name": "Friends of Tom Butler 2555817 est 5150524 NAB PB 19 TBSS-008T",
-        "file_extension": "pdf",
-        "file_size": 1477414,
-        "file_status": "com_cpy",
-        "folder_id": "0c8014d8-da90-2424-322a-a3c70707ec39",
-        "create_ts": "2022-05-14T20:01:00.018Z",
-        "last_update_ts": "2022-05-14T20:00:59.281Z",
-        "active_ind": "Y",
-        "file_manager_id": "7f909017-e35b-46b2-a2f3-854b4dd40a17",
-        "file_folder_path": "Political Files/2022/State/Alabama State House/Tom Butler - District 2/Friends of Tom Butler 2555817 est 5150524",
-        "full_qualified_file_name": "Political Files/2022/State/Alabama State House/Tom Butler - District 2/Friends of Tom Butler 2555817 est 5150524/Friends of Tom Butler 2555817 est 5150524 NAB PB 19 TBSS-008T",
-        "entity_id": "591",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "HUNTSVILLE-DECATUR (FLOR)",
-        "callsign": "WAFF",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1732833140936802300,
-        "score": 0.24995685
-      },
-      {
-        "id": "55143c5f-cbc1-d2eb-1736-cc07dd8326ee",
-        "file_id": "55143c5f-cbc1-d2eb-1736-cc07dd8326ee",
-        "file_name": "Political Christian Wise Smith 05-2022",
-        "file_extension": "pdf",
-        "file_size": 168314,
-        "file_status": "com_cpy",
-        "folder_id": "a2011a8a-b3f0-f98b-6f48-74e9a6ae4e3f",
-        "create_ts": "2022-05-14T19:49:01.94Z",
-        "last_update_ts": "2022-05-14T19:50:24.303Z",
-        "active_ind": "Y",
-        "file_manager_id": "cc1d995d-61cb-4f69-9064-6af22ceca4f7",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/Political Christian Wise Smith 05-2022",
-        "entity_id": "41990",
-        "source_service_code": "FM",
-        "callsign": "WQMJ",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1732832387306356700,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -421,7 +423,7 @@
         "2019": 13920,
         "2020": 124983,
         "2021": 22706,
-        "2022": 28298,
+        "2022": 28300,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -430,7 +432,7 @@
         "US Senate": 52366,
         "US House": 43669,
         "Presidential": 38388,
-        "Local": 26793
+        "Local": 26795
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
@@ -464,13 +466,13 @@
       },
       "source_service_code": {
         "TV": 247700,
-        "CABLE": 130145,
+        "CABLE": 130147,
         "FM": 118167,
         "AM": 45077,
         "DBS": 5880
       },
       "political_file_type": {
-        "PA": 238258,
+        "PA": 238260,
         "NCIA": 130081
       }
     }
@@ -487,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1823,
-    "processTime": 834,
-    "responseTime": 1835
+    "queryTime": 1833,
+    "processTime": 842,
+    "responseTime": 1843
   }
 }
