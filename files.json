@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 546959,
+    "numFound": 546961,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "5fc2d81b-3efc-813b-3296-a4546e159431",
+        "file_id": "5fc2d81b-3efc-813b-3296-a4546e159431",
+        "file_name": "Friends of Tom Butler 2555817 est 5150524 NAB PB 19 TBSS-008T",
+        "file_extension": "pdf",
+        "file_size": 1477414,
+        "file_status": "com_cpy",
+        "folder_id": "0c8014d8-da90-2424-322a-a3c70707ec39",
+        "create_ts": "2022-05-14T20:01:00.018Z",
+        "last_update_ts": "2022-05-14T20:00:59.281Z",
+        "active_ind": "Y",
+        "file_manager_id": "7f909017-e35b-46b2-a2f3-854b4dd40a17",
+        "file_folder_path": "Political Files/2022/State/Alabama State House/Tom Butler - District 2/Friends of Tom Butler 2555817 est 5150524",
+        "full_qualified_file_name": "Political Files/2022/State/Alabama State House/Tom Butler - District 2/Friends of Tom Butler 2555817 est 5150524/Friends of Tom Butler 2555817 est 5150524 NAB PB 19 TBSS-008T",
+        "entity_id": "591",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "HUNTSVILLE-DECATUR (FLOR)",
+        "callsign": "WAFF",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1732833140936802300,
+        "score": 0.24995685
+      },
+      {
+        "id": "55143c5f-cbc1-d2eb-1736-cc07dd8326ee",
+        "file_id": "55143c5f-cbc1-d2eb-1736-cc07dd8326ee",
+        "file_name": "Political Christian Wise Smith 05-2022",
+        "file_extension": "pdf",
+        "file_size": 168314,
+        "file_status": "com_cpy",
+        "folder_id": "a2011a8a-b3f0-f98b-6f48-74e9a6ae4e3f",
+        "create_ts": "2022-05-14T19:49:01.94Z",
+        "last_update_ts": "2022-05-14T19:50:24.303Z",
+        "active_ind": "Y",
+        "file_manager_id": "cc1d995d-61cb-4f69-9064-6af22ceca4f7",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/Political Christian Wise Smith 05-2022",
+        "entity_id": "41990",
+        "source_service_code": "FM",
+        "callsign": "WQMJ",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1732832387306356700,
+        "score": 0.24995685
+      },
       {
         "id": "dddd6543-df18-eace-7b76-e1ca2614f074",
         "file_id": "dddd6543-df18-eace-7b76-e1ca2614f074",
@@ -189,52 +237,6 @@
         "campaign_year": "2022",
         "_version_": 1732773416794062800,
         "score": 0.24995685
-      },
-      {
-        "id": "64e6afd3-7ccb-885a-b7ca-2c54945a0b6a",
-        "file_id": "64e6afd3-7ccb-885a-b7ca-2c54945a0b6a",
-        "file_name": "WANI-WGZZ-Friends of Micah Messer May 2022 order confirmation-051822",
-        "file_extension": "pdf",
-        "file_size": 348938,
-        "file_status": "com_cpy",
-        "folder_id": "85f1e3e7-4162-c497-c573-a8a081d35c0f",
-        "create_ts": "2022-05-14T03:27:47.441Z",
-        "last_update_ts": "2022-05-14T03:29:08.07Z",
-        "active_ind": "Y",
-        "file_manager_id": "93076f2d-ccb5-4507-951f-2cd72dd2825a",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/WANI-WGZZ-Friends of Micah Messer May 2022 order confirmation-051822",
-        "entity_id": "15283",
-        "source_service_code": "FM",
-        "callsign": "WGZZ",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1732770652885090300,
-        "score": 0.24995685
-      },
-      {
-        "id": "bfe2e577-6c0e-a958-c22e-1aa5be03ac9c",
-        "file_id": "bfe2e577-6c0e-a958-c22e-1aa5be03ac9c",
-        "file_name": "WANI-WGZZ-WGZZ-HD3-Mike Rogers for Congress EST 517524 Confirmation-051722",
-        "file_extension": "pdf",
-        "file_size": 758719,
-        "file_status": "com_cpy",
-        "folder_id": "a8707b60-4f06-5252-365a-94b6f616ac62",
-        "create_ts": "2022-05-14T03:26:57.895Z",
-        "last_update_ts": "2022-05-14T03:27:01.378Z",
-        "active_ind": "Y",
-        "file_manager_id": "51059203-ab06-4a32-a9fa-75b47725f3a8",
-        "file_folder_path": "Political Files/2022/Federal/US House",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/WANI-WGZZ-WGZZ-HD3-Mike Rogers for Congress EST 517524 Confirmation-051722",
-        "entity_id": "15283",
-        "source_service_code": "FM",
-        "callsign": "WGZZ",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1732770601099067400,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -342,7 +344,7 @@
       },
       "network_affiliation": {
         "ABC": 61427,
-        "NBC": 58839,
+        "NBC": 58840,
         "CBS": 40861,
         "FOX": 29111,
         "PBS": 14760,
@@ -413,12 +415,12 @@
         "2019": 13920,
         "2020": 124983,
         "2021": 22706,
-        "2022": 28288,
+        "2022": 28290,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 75698,
+        "State": 75700,
         "US Senate": 52366,
         "US House": 43669,
         "Presidential": 38388,
@@ -455,14 +457,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 247699,
+        "TV": 247700,
         "CABLE": 130141,
-        "FM": 118166,
+        "FM": 118167,
         "AM": 45073,
         "DBS": 5880
       },
       "political_file_type": {
-        "PA": 238248,
+        "PA": 238250,
         "NCIA": 130081
       }
     }
@@ -479,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1811,
-    "processTime": 818,
-    "responseTime": 1818
+    "queryTime": 1861,
+    "processTime": 870,
+    "responseTime": 1870
   }
 }
