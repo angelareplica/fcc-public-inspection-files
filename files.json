@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 546967,
+    "numFound": 546968,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "6bc591fa-8251-8dad-8298-8d7fd2ae9750",
+        "file_id": "6bc591fa-8251-8dad-8298-8d7fd2ae9750",
+        "file_name": "698834_Invoice_20220514035229",
+        "file_extension": "pdf",
+        "file_size": 70089,
+        "file_status": "com_cpy",
+        "folder_id": "4436ab0f-3fb2-be06-ccd8-e3bdfa036ed4",
+        "create_ts": "2022-05-14T22:36:53.628Z",
+        "last_update_ts": "2022-05-14T22:38:16.104Z",
+        "active_ind": "Y",
+        "file_manager_id": "16f3133d-b780-4b1e-85ef-732c797eda3a",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698834_Invoice_20220514035229",
+        "entity_id": "004939",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF NORTHERN ILLINOIS INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1732842948021715000,
+        "score": 0.00012497843
+      },
       {
         "id": "6d999d64-0cf5-5e45-2f5a-36403c372e5a",
         "file_id": "6d999d64-0cf5-5e45-2f5a-36403c372e5a",
@@ -218,29 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1732829298916589600,
         "score": 0.24995685
-      },
-      {
-        "id": "08f0520a-6cfc-d363-00ae-725579255139",
-        "file_id": "08f0520a-6cfc-d363-00ae-725579255139",
-        "file_name": "0117-001-WIOV-AM-JohannyCepedaFreytiz-StateRep129thDistrict",
-        "file_extension": "pdf",
-        "file_size": 351781,
-        "file_status": "com_cpy",
-        "folder_id": "13379624-074b-5677-cbee-775da908a6c0",
-        "create_ts": "2022-05-14T14:34:12.592Z",
-        "last_update_ts": "2022-05-14T14:34:11.271Z",
-        "active_ind": "Y",
-        "file_manager_id": "2b35b8a4-3b65-4f35-8bcf-376da5fe34c9",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/0117-001-WIOV-AM-JohannyCepedaFreytiz-StateRep129thDistrict",
-        "entity_id": "55307",
-        "source_service_code": "AM",
-        "callsign": "WIOV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1732812580383096800,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -419,7 +421,7 @@
         "2019": 13920,
         "2020": 124983,
         "2021": 22706,
-        "2022": 28296,
+        "2022": 28297,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -428,7 +430,7 @@
         "US Senate": 52366,
         "US House": 43669,
         "Presidential": 38388,
-        "Local": 26791
+        "Local": 26792
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
@@ -462,13 +464,13 @@
       },
       "source_service_code": {
         "TV": 247700,
-        "CABLE": 130143,
+        "CABLE": 130144,
         "FM": 118167,
         "AM": 45077,
         "DBS": 5880
       },
       "political_file_type": {
-        "PA": 238256,
+        "PA": 238257,
         "NCIA": 130081
       }
     }
@@ -485,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1845,
-    "processTime": 854,
-    "responseTime": 1854
+    "queryTime": 1823,
+    "processTime": 832,
+    "responseTime": 1832
   }
 }
