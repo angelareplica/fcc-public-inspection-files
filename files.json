@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 546958,
+    "numFound": 546959,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "dddd6543-df18-eace-7b76-e1ca2614f074",
+        "file_id": "dddd6543-df18-eace-7b76-e1ca2614f074",
+        "file_name": "WMYD Committee-to-Elect-Kelly-Garrett-Political-PFD-05-13-2022",
+        "file_extension": "pdf",
+        "file_size": 62144,
+        "file_status": "com_cpy",
+        "folder_id": "a0df8138-a2f2-a2b1-965f-4ee9bf469ca6",
+        "create_ts": "2022-05-14T18:59:56.814Z",
+        "last_update_ts": "2022-05-14T18:59:59.955Z",
+        "active_ind": "Y",
+        "file_manager_id": "1320f4b7-dcd5-452e-b092-fc714985d960",
+        "file_folder_path": "Political Files/2022/Federal/US House/Kelly Garrett Dem 12th District/Political Disclosure",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Kelly Garrett Dem 12th District/Political Disclosure/WMYD Committee-to-Elect-Kelly-Garrett-Political-PFD-05-13-2022",
+        "entity_id": "74211",
+        "source_service_code": "TV",
+        "network_affiliation": "MYTV",
+        "nielsen_dma_rank": "DETROIT",
+        "callsign": "WMYD",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1732829298916589600,
+        "score": 0.24995685
+      },
       {
         "id": "08f0520a-6cfc-d363-00ae-725579255139",
         "file_id": "08f0520a-6cfc-d363-00ae-725579255139",
@@ -210,29 +235,6 @@
         "campaign_year": "2022",
         "_version_": 1732770601099067400,
         "score": 0.24995685
-      },
-      {
-        "id": "c575785f-fe6b-5daf-c237-8a3b82bdeada",
-        "file_id": "c575785f-fe6b-5daf-c237-8a3b82bdeada",
-        "file_name": "WANI-WGZZ-WGZZ-HD3-Mike Rogers for Congress EST 517524 Confirmation-051722",
-        "file_extension": "pdf",
-        "file_size": 758719,
-        "file_status": "com_cpy",
-        "folder_id": "888237e8-9b37-6058-a0dd-71c2a3f1025a",
-        "create_ts": "2022-05-14T03:24:46.089Z",
-        "last_update_ts": "2022-05-14T03:25:21.455Z",
-        "active_ind": "Y",
-        "file_manager_id": "70f26d7a-cfe3-4ef1-a5f1-d5fbbb61d819",
-        "file_folder_path": "Political Files/2022/Federal/US House",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/WANI-WGZZ-WGZZ-HD3-Mike Rogers for Congress EST 517524 Confirmation-051722",
-        "entity_id": "63796",
-        "source_service_code": "AM",
-        "callsign": "WANI",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1732770496322207700,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -346,7 +348,7 @@
         "PBS": 14760,
         "CW": 12281,
         "IND": 3013,
-        "MYTV": 2241,
+        "MYTV": 2242,
         "UNIVISION": 1908,
         "MY NETWORK": 1592,
         "CBS/NBC": 1081,
@@ -411,14 +413,14 @@
         "2019": 13920,
         "2020": 124983,
         "2021": 22706,
-        "2022": 28287,
+        "2022": 28288,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 75698,
         "US Senate": 52366,
-        "US House": 43668,
+        "US House": 43669,
         "Presidential": 38388,
         "Local": 26788
       },
@@ -453,14 +455,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 247698,
+        "TV": 247699,
         "CABLE": 130141,
         "FM": 118166,
         "AM": 45073,
         "DBS": 5880
       },
       "political_file_type": {
-        "PA": 238247,
+        "PA": 238248,
         "NCIA": 130081
       }
     }
@@ -477,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 218,
-    "responseTime": 219
+    "queryTime": 1797,
+    "processTime": 805,
+    "responseTime": 1806
   }
 }
