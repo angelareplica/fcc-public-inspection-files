@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 546957,
+    "numFound": 546958,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "08f0520a-6cfc-d363-00ae-725579255139",
+        "file_id": "08f0520a-6cfc-d363-00ae-725579255139",
+        "file_name": "0117-001-WIOV-AM-JohannyCepedaFreytiz-StateRep129thDistrict",
+        "file_extension": "pdf",
+        "file_size": 351781,
+        "file_status": "com_cpy",
+        "folder_id": "13379624-074b-5677-cbee-775da908a6c0",
+        "create_ts": "2022-05-14T14:34:12.592Z",
+        "last_update_ts": "2022-05-14T14:34:11.271Z",
+        "active_ind": "Y",
+        "file_manager_id": "2b35b8a4-3b65-4f35-8bcf-376da5fe34c9",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/0117-001-WIOV-AM-JohannyCepedaFreytiz-StateRep129thDistrict",
+        "entity_id": "55307",
+        "source_service_code": "AM",
+        "callsign": "WIOV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1732812580383096800,
+        "score": 0.24995685
+      },
       {
         "id": "25f01f68-153b-e3dc-93c4-5c1e73864556",
         "file_id": "25f01f68-153b-e3dc-93c4-5c1e73864556",
@@ -210,29 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1732770496322207700,
         "score": 0.24995685
-      },
-      {
-        "id": "4fdaa062-e0dc-ce95-49ca-b7f6be27e035",
-        "file_id": "4fdaa062-e0dc-ce95-49ca-b7f6be27e035",
-        "file_name": "WANI-WGZZ-Friends of Micah Messer May 2022 order confirmation-051822",
-        "file_extension": "pdf",
-        "file_size": 348938,
-        "file_status": "com_cpy",
-        "folder_id": "091e38fa-1f38-3c74-6926-6a6103da4ce3",
-        "create_ts": "2022-05-14T03:23:52.35Z",
-        "last_update_ts": "2022-05-14T03:23:55.673Z",
-        "active_ind": "Y",
-        "file_manager_id": "c8ba102a-2a7c-4796-96f1-0ddcc5dd1b1c",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/WANI-WGZZ-Friends of Micah Messer May 2022 order confirmation-051822",
-        "entity_id": "63796",
-        "source_service_code": "AM",
-        "callsign": "WANI",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1732770406372212700,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -411,12 +411,12 @@
         "2019": 13920,
         "2020": 124983,
         "2021": 22706,
-        "2022": 28286,
+        "2022": 28287,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 75697,
+        "State": 75698,
         "US Senate": 52366,
         "US House": 43668,
         "Presidential": 38388,
@@ -456,11 +456,11 @@
         "TV": 247698,
         "CABLE": 130141,
         "FM": 118166,
-        "AM": 45072,
+        "AM": 45073,
         "DBS": 5880
       },
       "political_file_type": {
-        "PA": 238246,
+        "PA": 238247,
         "NCIA": 130081
       }
     }
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 209,
-    "processTime": 217,
-    "responseTime": 217
+    "queryTime": 1802,
+    "processTime": 810,
+    "responseTime": 1810
   }
 }
