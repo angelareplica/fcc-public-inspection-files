@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 547604,
+    "numFound": 547606,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "e763a935-0720-9f31-6570-045f619735b0",
+        "file_id": "e763a935-0720-9f31-6570-045f619735b0",
+        "file_name": "Angie Hatton for 94th State Rep WDHR 1735-001  051222-051722",
+        "file_extension": "pdf",
+        "file_size": 1813544,
+        "file_status": "com_cpy",
+        "folder_id": "08ee9def-e52e-8a7f-47dd-30dd68cb5ec6",
+        "create_ts": "2022-05-16T23:45:29.225Z",
+        "last_update_ts": "2022-05-16T23:45:33.182Z",
+        "active_ind": "Y",
+        "file_manager_id": "7a90c498-607e-47b0-8647-e3955e2585fd",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/Angie Hatton for 94th State Rep WDHR 1735-001  051222-051722",
+        "entity_id": "18224",
+        "source_service_code": "FM",
+        "callsign": "WDHR",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1733028458409230300,
+        "score": 0.24995685
+      },
+      {
+        "id": "e5e2748e-4b41-cfee-16a9-99cc6b50da12",
+        "file_id": "e5e2748e-4b41-cfee-16a9-99cc6b50da12",
+        "file_name": "Tim Adams for Comptroller 05-04-05-24 NAB and Contract 9831 and 9882",
+        "file_extension": "pdf",
+        "file_size": 576968,
+        "file_status": "com_cpy",
+        "folder_id": "6ce51cad-4987-82d1-6bce-b79453ed1e47",
+        "create_ts": "2022-05-16T23:35:30.674Z",
+        "last_update_ts": "2022-05-16T23:35:28.843Z",
+        "active_ind": "Y",
+        "file_manager_id": "e9c38cd7-46f3-44c3-a65a-0b8954982bbe",
+        "file_folder_path": "Political Files/2022/State/Tim Adams for Comptroller",
+        "full_qualified_file_name": "Political Files/2022/State/Tim Adams for Comptroller/Tim Adams for Comptroller 05-04-05-24 NAB and Contract 9831 and 9882",
+        "entity_id": "65707",
+        "source_service_code": "FM",
+        "callsign": "WHUR-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1733027830225174500,
+        "score": 0.24995685
+      },
       {
         "id": "63a10166-f954-8058-e9d0-568faeb3f4ef",
         "file_id": "63a10166-f954-8058-e9d0-568faeb3f4ef",
@@ -183,54 +229,6 @@
         "campaign_year": "2022",
         "_version_": 1733025078615998500,
         "score": 0.24995685
-      },
-      {
-        "id": "35f3ca7d-bd11-9022-2bc1-ef364b4873f3",
-        "file_id": "35f3ca7d-bd11-9022-2bc1-ef364b4873f3",
-        "file_name": "K2270584 Crypto Innovation NAB 0517_0524",
-        "file_extension": "pdf",
-        "file_size": 157986,
-        "file_status": "com_cpy",
-        "folder_id": "7ce5abaf-df58-f4ce-61f8-9cca550df403",
-        "create_ts": "2022-05-16T22:50:52.486Z",
-        "last_update_ts": "2022-05-16T22:52:20.094Z",
-        "active_ind": "Y",
-        "file_manager_id": "652709ba-268b-41ab-863c-820dba9fb114",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/K2270584 - Crypto Innovation",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/K2270584 - Crypto Innovation/K2270584 Crypto Innovation NAB 0517_0524",
-        "entity_id": "60353",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "FT. SMITH-FAY-SPRNGDL-RGRS",
-        "callsign": "KHBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1733025021641621500,
-        "score": 0.24995685
-      },
-      {
-        "id": "f3203569-8e32-bb72-0174-8294f1c45fa2",
-        "file_id": "f3203569-8e32-bb72-0174-8294f1c45fa2",
-        "file_name": "K2270584 Crypto Innovation Contract 0517_0523",
-        "file_extension": "pdf",
-        "file_size": 472085,
-        "file_status": "com_cpy",
-        "folder_id": "7ce5abaf-df58-f4ce-61f8-9cca550df403",
-        "create_ts": "2022-05-16T22:50:52.53Z",
-        "last_update_ts": "2022-05-16T22:50:55.821Z",
-        "active_ind": "Y",
-        "file_manager_id": "752a3a4f-cd0e-447e-91f7-938be9be8b83",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/K2270584 - Crypto Innovation",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/K2270584 - Crypto Innovation/K2270584 Crypto Innovation Contract 0517_0523",
-        "entity_id": "60353",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "FT. SMITH-FAY-SPRNGDL-RGRS",
-        "callsign": "KHBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1733025021840851000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -409,12 +407,12 @@
         "2019": 13920,
         "2020": 124983,
         "2021": 22706,
-        "2022": 28922,
+        "2022": 28924,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 75944,
+        "State": 75946,
         "US Senate": 52437,
         "US House": 43726,
         "Presidential": 38388,
@@ -453,12 +451,12 @@
       "source_service_code": {
         "TV": 248008,
         "CABLE": 130269,
-        "FM": 118287,
+        "FM": 118289,
         "AM": 45144,
         "DBS": 5896
       },
       "political_file_type": {
-        "PA": 238702,
+        "PA": 238704,
         "NCIA": 130265
       }
     }
@@ -475,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1858,
-    "processTime": 866,
-    "responseTime": 1867
+    "queryTime": 1888,
+    "processTime": 895,
+    "responseTime": 1896
   }
 }
