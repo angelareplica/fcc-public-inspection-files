@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 547006,
+    "numFound": 547007,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "6523affe-d464-fe0f-18c3-6786a2448138",
+        "file_id": "6523affe-d464-fe0f-18c3-6786a2448138",
+        "file_name": "Congressional-Leadership-Fund-Political-PFD-05-11-2022",
+        "file_extension": "pdf",
+        "file_size": 51989,
+        "file_status": "com_cpy",
+        "folder_id": "19dedada-647a-9cad-f9cc-6e7a2df5ee66",
+        "create_ts": "2022-05-16T12:07:18.599Z",
+        "last_update_ts": "2022-05-16T12:07:16.645Z",
+        "active_ind": "Y",
+        "file_manager_id": "80cd7d45-ccd5-4635-9fb5-75a6175fd1d3",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Congressional Leadership Fund",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Congressional Leadership Fund/Congressional-Leadership-Fund-Political-PFD-05-11-2022",
+        "entity_id": "68433",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "GRAND RAPIDS-KALMZOO-B.CRK",
+        "callsign": "WXMI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1732984532035960800,
+        "score": 0.24995685
+      },
       {
         "id": "e914c229-041f-2014-4b96-175f103e729c",
         "file_id": "e914c229-041f-2014-4b96-175f103e729c",
@@ -192,27 +216,6 @@
         "campaign_year": "2022",
         "_version_": 1732938996854554600,
         "score": 0.24995685
-      },
-      {
-        "id": "c95a3f07-dba6-a86b-a566-58ea4088b394",
-        "file_id": "c95a3f07-dba6-a86b-a566-58ea4088b394",
-        "file_name": "BETTER NV PAC - N#3675079 - 031022-031522 - DISH",
-        "file_extension": "pdf",
-        "file_size": 88672,
-        "file_status": "com_cpy",
-        "folder_id": "40818557-0313-d0c1-aa15-c8f6fd75aede",
-        "create_ts": "2022-05-16T00:03:32.861Z",
-        "last_update_ts": "2022-05-16T00:03:31.06Z",
-        "active_ind": "Y",
-        "file_manager_id": "0677d377-6b53-4f97-86b6-5e33fe2f2dc4",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/BETTER NV PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/BETTER NV PAC/BETTER NV PAC - N#3675079 - 031022-031522 - DISH",
-        "entity_id": "DISH",
-        "source_service_code": "DBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1732938996870283300,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -251,7 +254,7 @@
         "PEORIA-BLOOMINGTON": 2428,
         "PHILADELPHIA": 2297,
         "Greenville-Spartanburg-Asheville-Anderson": 2266,
-        "GRAND RAPIDS-KALMZOO-B.CRK": 2179,
+        "GRAND RAPIDS-KALMZOO-B.CRK": 2180,
         "TAMPA-ST. PETE (SARASOTA)": 2155,
         "LEXINGTON": 2146,
         "ROCHESTR-MASON CITY-AUSTIN": 1996,
@@ -322,7 +325,7 @@
         "ABC": 61427,
         "NBC": 58840,
         "CBS": 40861,
-        "FOX": 29111,
+        "FOX": 29112,
         "PBS": 14760,
         "CW": 12281,
         "IND": 3013,
@@ -391,7 +394,7 @@
         "2019": 13920,
         "2020": 124983,
         "2021": 22706,
-        "2022": 28331,
+        "2022": 28332,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -433,7 +436,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 247700,
+        "TV": 247701,
         "CABLE": 130163,
         "FM": 118171,
         "AM": 45077,
@@ -441,7 +444,7 @@
       },
       "political_file_type": {
         "PA": 238280,
-        "NCIA": 130096
+        "NCIA": 130097
       }
     }
   },
@@ -457,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 68,
-    "processTime": 80,
-    "responseTime": 80
+    "queryTime": 1793,
+    "processTime": 803,
+    "responseTime": 1804
   }
 }
