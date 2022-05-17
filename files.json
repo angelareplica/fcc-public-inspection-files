@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 547729,
+    "numFound": 547730,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "1ed2f286-608c-c8cb-5059-03943fef701d",
+        "file_id": "1ed2f286-608c-c8cb-5059-03943fef701d",
+        "file_name": "Intake Alex Villanueva for Sherriff_KMEX 181138 rev 051622",
+        "file_extension": "pdf",
+        "file_size": 4119145,
+        "file_status": "com_cpy",
+        "folder_id": "046ded2d-024d-ae9f-052f-1c2e14a400a2",
+        "create_ts": "2022-05-17T03:49:37.126Z",
+        "last_update_ts": "2022-05-17T03:49:35.902Z",
+        "active_ind": "Y",
+        "file_manager_id": "ce0c98f3-749a-4d21-8e9b-be083f78f51d",
+        "file_folder_path": "Political Files/2022/Local/Alex Villanueva for Sheriff",
+        "full_qualified_file_name": "Political Files/2022/Local/Alex Villanueva for Sheriff/Intake Alex Villanueva for Sherriff_KMEX 181138 rev 051622",
+        "entity_id": "35123",
+        "source_service_code": "TV",
+        "network_affiliation": "UNIVISION",
+        "nielsen_dma_rank": "LOS ANGELES",
+        "callsign": "KMEX-DT",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1733043817928458200,
+        "score": 0.24995685
+      },
       {
         "id": "ef943001-8750-e27a-a867-f0b352ba645b",
         "file_id": "ef943001-8750-e27a-a867-f0b352ba645b",
@@ -202,30 +227,6 @@
         "campaign_year": "2022",
         "_version_": 1733035503480995800,
         "score": 0.24995685
-      },
-      {
-        "id": "8dd6800a-d68a-dc78-9036-8646f2bbbfa0",
-        "file_id": "8dd6800a-d68a-dc78-9036-8646f2bbbfa0",
-        "file_name": "Wyoming Values KFNB NAB Contract 53278 05102022 05132022",
-        "file_extension": "pdf",
-        "file_size": 681301,
-        "file_status": "com_cpy",
-        "folder_id": "edc1e678-d80d-95c0-6343-6b37ae07814b",
-        "create_ts": "2022-05-17T00:38:42.203Z",
-        "last_update_ts": "2022-05-17T00:50:05.409Z",
-        "active_ind": "Y",
-        "file_manager_id": "5a30ff09-0393-44fe-bf1b-1ad2dbbcdb92",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/WYOMING VALUES/05102022 05132022",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/WYOMING VALUES/05102022 05132022/Wyoming Values KFNB NAB Contract 53278 05102022 05132022",
-        "entity_id": "74256",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "CASPER-RIVERTON",
-        "callsign": "KFNB",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1733032429945356300,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -291,7 +292,7 @@
         "JOHNSTOWN-ALTOONA-ST COLGE": 1259,
         "ANCHORAGE": 1228,
         "PROVIDENCE-NEW BEDFORD": 1227,
-        "LOS ANGELES": 1206,
+        "LOS ANGELES": 1207,
         "GREEN BAY-APPLETON": 1204,
         "LOUISVILLE": 1147,
         "CHARLOTTE": 1111,
@@ -340,7 +341,7 @@
         "CW": 12283,
         "IND": 3013,
         "MYTV": 2242,
-        "UNIVISION": 1911,
+        "UNIVISION": 1912,
         "MY NETWORK": 1592,
         "CBS/NBC": 1081,
         "TELEMUNDO": 896,
@@ -404,7 +405,7 @@
         "2019": 13920,
         "2020": 124983,
         "2021": 22710,
-        "2022": 29041,
+        "2022": 29042,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -413,7 +414,7 @@
         "US Senate": 52447,
         "US House": 43773,
         "Presidential": 38388,
-        "Local": 26864
+        "Local": 26865
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
@@ -446,14 +447,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 248113,
+        "TV": 248114,
         "CABLE": 130269,
         "FM": 118295,
         "AM": 45148,
         "DBS": 5904
       },
       "political_file_type": {
-        "PA": 238804,
+        "PA": 238805,
         "NCIA": 130286
       }
     }
@@ -470,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1785,
-    "processTime": 795,
-    "responseTime": 1796
+    "queryTime": 205,
+    "processTime": 215,
+    "responseTime": 216
   }
 }
