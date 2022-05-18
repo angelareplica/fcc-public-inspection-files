@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 548293,
+    "numFound": 548295,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "22096e18-e40c-28f2-f5be-2fc811133307",
+        "file_id": "22096e18-e40c-28f2-f5be-2fc811133307",
+        "file_name": "Signed 05-16-22-POLITICAL NAB Form 2022",
+        "file_extension": "pdf",
+        "file_size": 266299,
+        "file_status": "com_cpy",
+        "folder_id": "765e866b-33fc-d320-6b7f-668e6cca1b6a",
+        "create_ts": "2022-05-18T02:46:40.042Z",
+        "last_update_ts": "2022-05-18T02:46:37.833Z",
+        "active_ind": "Y",
+        "file_manager_id": "b8a622f1-ccbf-4e27-8cea-ee0f5b2cd191",
+        "file_folder_path": "Political Files/2022/State/Governor/Lindy Blanchard",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Lindy Blanchard/Signed 05-16-22-POLITICAL NAB Form 2022",
+        "entity_id": "48724",
+        "source_service_code": "FM",
+        "callsign": "WZZK-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1733130453551939600,
+        "score": 0.24995685
+      },
+      {
+        "id": "eedc316d-08a0-1dcc-6406-a565be213c4d",
+        "file_id": "eedc316d-08a0-1dcc-6406-a565be213c4d",
+        "file_name": "WAUE-HD2-Elijah Beaver for Circuit Judge Campaign Committee-Confirm_2500-001-051822",
+        "file_extension": "pdf",
+        "file_size": 297592,
+        "file_status": "com_cpy",
+        "folder_id": "6a12a3e3-8e73-b393-28fd-f18121c318f0",
+        "create_ts": "2022-05-18T02:22:33.648Z",
+        "last_update_ts": "2022-05-18T02:24:04.28Z",
+        "active_ind": "Y",
+        "file_manager_id": "f2dae9a9-5f00-4672-b987-25f597e7d2d1",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/WAUE-HD2-Elijah Beaver for Circuit Judge Campaign Committee-Confirm_2500-001-051822",
+        "entity_id": "198812",
+        "source_service_code": "FM",
+        "callsign": "WAUE",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1733128936821358600,
+        "score": 0.24995685
+      },
       {
         "id": "7dadcc7b-f401-f57d-e988-5cfc483c2aaf",
         "file_id": "7dadcc7b-f401-f57d-e988-5cfc483c2aaf",
@@ -192,55 +238,6 @@
         "campaign_year": "2022",
         "_version_": 1733123601836540000,
         "score": 0.24995685
-      },
-      {
-        "id": "46db3b2a-74a0-bcb1-4aca-10ee1dc05aab",
-        "file_id": "46db3b2a-74a0-bcb1-4aca-10ee1dc05aab",
-        "file_name": "COALITION FOR SAFE, RESPONSIBLE GAMING 051622-052222 2270910 CONTRACT NAB",
-        "file_extension": "pdf",
-        "file_size": 1490685,
-        "file_status": "com_cpy",
-        "folder_id": "61216577-7aed-a6a1-c5fd-ccd04679c668",
-        "create_ts": "2022-05-18T00:56:55.054Z",
-        "last_update_ts": "2022-05-18T00:56:53.349Z",
-        "active_ind": "Y",
-        "file_manager_id": "d38ce200-0152-4960-8aec-045e47546f40",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/COALITION FOR SAFE AND RESPONSIBLE GAMING",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/COALITION FOR SAFE AND RESPONSIBLE GAMING/COALITION FOR SAFE, RESPONSIBLE GAMING 051622-052222 2270910 CONTRACT NAB",
-        "entity_id": "33875",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
-        "callsign": "KCRA-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1733123549205364700,
-        "score": 0.24995685
-      },
-      {
-        "id": "8cc722a2-3439-5142-09c1-5bf1b9e258c4",
-        "file_id": "8cc722a2-3439-5142-09c1-5bf1b9e258c4",
-        "file_name": "THURMOND.D.STATE SUPERINTENDENT 051622-061222 2269504 CONTRACT NAB",
-        "file_extension": "pdf",
-        "file_size": 1265123,
-        "file_status": "com_cpy",
-        "folder_id": "c7a98be5-946e-a622-5381-7f708fcc6e5e",
-        "create_ts": "2022-05-18T00:55:31.302Z",
-        "last_update_ts": "2022-05-18T00:55:29.336Z",
-        "active_ind": "Y",
-        "file_manager_id": "7c468ba7-1391-4982-9669-9329aa6f7928",
-        "file_folder_path": "Political Files/2022/State/THURMOND-D-STATE SUPERINTENDENT",
-        "full_qualified_file_name": "Political Files/2022/State/THURMOND-D-STATE SUPERINTENDENT/THURMOND.D.STATE SUPERINTENDENT 051622-061222 2269504 CONTRACT NAB",
-        "entity_id": "33875",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
-        "callsign": "KCRA-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1733123461110300700,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -419,16 +416,16 @@
         "2019": 13920,
         "2020": 124982,
         "2021": 22710,
-        "2022": 29661,
+        "2022": 29663,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 76197,
+        "State": 76198,
         "US Senate": 52515,
         "US House": 43888,
         "Presidential": 38385,
-        "Local": 26920
+        "Local": 26921
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61675,
@@ -463,12 +460,12 @@
       "source_service_code": {
         "TV": 248483,
         "CABLE": 130346,
-        "FM": 118354,
+        "FM": 118356,
         "AM": 45188,
         "DBS": 5922
       },
       "political_file_type": {
-        "PA": 239249,
+        "PA": 239251,
         "NCIA": 130440
       }
     }
@@ -485,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 210,
-    "processTime": 219,
-    "responseTime": 219
+    "queryTime": 212,
+    "processTime": 221,
+    "responseTime": 222
   }
 }
