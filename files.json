@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 548861,
+    "numFound": 548862,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "703f280f-9e26-82d4-10eb-3f98b7cfb141",
+        "file_id": "703f280f-9e26-82d4-10eb-3f98b7cfb141",
+        "file_name": "David Palmer Est. 05180626",
+        "file_extension": "pdf",
+        "file_size": 2817851,
+        "file_status": "com_cpy",
+        "folder_id": "be606ae0-a65c-097d-0e7c-754f2693642f",
+        "create_ts": "2022-05-19T11:34:59.272Z",
+        "last_update_ts": "2022-05-19T11:34:57.214Z",
+        "active_ind": "Y",
+        "file_manager_id": "345c9a27-dc77-4557-8500-8011a62c0811",
+        "file_folder_path": "Political Files/2022/State/David Palmer for Congress IL",
+        "full_qualified_file_name": "Political Files/2022/State/David Palmer for Congress IL/David Palmer Est. 05180626",
+        "entity_id": "42124",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "CHAMPAIGN&SPRNGFLD-DECATUR",
+        "callsign": "WCIA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1733254290083938300,
+        "score": 0.24995685
+      },
       {
         "id": "87b788dc-fc54-ce86-86ae-f1ca2af3bf84",
         "file_id": "87b788dc-fc54-ce86-86ae-f1ca2af3bf84",
@@ -204,27 +229,6 @@
         "campaign_year": "2022",
         "_version_": 1733210289012211700,
         "score": 0.24995685
-      },
-      {
-        "id": "19ce3ba9-549b-ced8-14bd-e7baaeb4a0d6",
-        "file_id": "19ce3ba9-549b-ced8-14bd-e7baaeb4a0d6",
-        "file_name": "Wisconsin Truth PAC NAB 5.17 Vs Inflation HD 051822",
-        "file_extension": "pdf",
-        "file_size": 613588,
-        "file_status": "com_cpy",
-        "folder_id": "db82248a-a179-15af-3b7c-fdb93e540906",
-        "create_ts": "2022-05-18T23:51:11.964Z",
-        "last_update_ts": "2022-05-18T23:52:45.139Z",
-        "active_ind": "Y",
-        "file_manager_id": "5df71ccb-87fd-4afd-8c3c-bf04fb2f9da8",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Wisconsin/Wisconsin Truth PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Wisconsin/Wisconsin Truth PAC/Wisconsin Truth PAC NAB 5.17 Vs Inflation HD 051822",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1733210011143766000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -246,7 +250,7 @@
         "EUGENE": 3495,
         "PORTLAND OR": 3465,
         "MISSOULA": 3381,
-        "CHAMPAIGN&SPRNGFLD-DECATUR": 3239,
+        "CHAMPAIGN&SPRNGFLD-DECATUR": 3240,
         "BEND OR": 3169,
         "MINNEAPOLIS-ST. PAUL": 3166,
         "SACRAMNTO-STKTON-MODESTO": 2940,
@@ -333,7 +337,7 @@
       "network_affiliation": {
         "ABC": 61790,
         "NBC": 59186,
-        "CBS": 40997,
+        "CBS": 40998,
         "FOX": 29210,
         "PBS": 14760,
         "CW": 12283,
@@ -403,12 +407,12 @@
         "2019": 13920,
         "2020": 124976,
         "2021": 22710,
-        "2022": 30224,
+        "2022": 30225,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 76345,
+        "State": 76346,
         "US Senate": 52582,
         "US House": 43984,
         "Presidential": 38381,
@@ -445,14 +449,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 248759,
+        "TV": 248760,
         "CABLE": 130415,
         "FM": 118505,
         "AM": 45253,
         "DBS": 5929
       },
       "political_file_type": {
-        "PA": 239606,
+        "PA": 239607,
         "NCIA": 130640
       }
     }
@@ -469,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 219,
-    "responseTime": 219
+    "queryTime": 1802,
+    "processTime": 812,
+    "responseTime": 1812
   }
 }
