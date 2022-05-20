@@ -1,9 +1,58 @@
 {
   "response": {
-    "numFound": 549451,
+    "numFound": 549453,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "a8ae1bb7-58a1-6c0b-8c94-f4b3ebf66623",
+        "file_id": "a8ae1bb7-58a1-6c0b-8c94-f4b3ebf66623",
+        "file_name": "Drummond R Attorney General - 1537 - 05.16.22 - 05.29.22 REV 5.18",
+        "file_extension": "pdf",
+        "file_size": 481632,
+        "file_status": "com_cpy",
+        "folder_id": "df3b6664-466d-5729-e665-088a3a61f1b1",
+        "create_ts": "2022-05-20T18:45:28.475Z",
+        "last_update_ts": "2022-05-20T18:45:26.499Z",
+        "active_ind": "Y",
+        "file_manager_id": "3852dd91-53ce-46e5-9aba-ea78011d6697",
+        "file_folder_path": "Political Files/2022/State/Attorney General/Gentner Drummond",
+        "full_qualified_file_name": "Political Files/2022/State/Attorney General/Gentner Drummond/Drummond R Attorney General - 1537 - 05.16.22 - 05.29.22 REV 5.18",
+        "entity_id": "12508",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "OKLAHOMA CITY",
+        "callsign": "KOCO-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1733371971351085000,
+        "score": 0.24995685
+      },
+      {
+        "id": "83f25abb-53a5-ab64-31cd-1aada35d8697",
+        "file_id": "83f25abb-53a5-ab64-31cd-1aada35d8697",
+        "file_name": "Consumers-Research-Political-PFD-05-20-2022 State Farm - Like a Creepy Neighbor 30",
+        "file_extension": "pdf",
+        "file_size": 63335,
+        "file_status": "com_cpy",
+        "folder_id": "087c1dda-5754-e3a7-b51a-4878f59e0d81",
+        "create_ts": "2022-05-20T18:42:49.215Z",
+        "last_update_ts": "2022-05-20T18:42:52.273Z",
+        "active_ind": "Y",
+        "file_manager_id": "719c00e0-ca38-4af6-8e07-2ed3167f3307",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Consumers Research",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Consumers Research/Consumers-Research-Political-PFD-05-20-2022 State Farm - Like a Creepy Neighbor 30",
+        "entity_id": "41065",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "TALLAHASSEE-THOMASVILLE",
+        "callsign": "WTXL-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1733371803248623600,
+        "score": 0.24995685
+      },
       {
         "id": "0f31fb37-da5b-8209-cff3-d0f2e0748d0a",
         "file_id": "0f31fb37-da5b-8209-cff3-d0f2e0748d0a",
@@ -202,56 +251,6 @@
         "campaign_year": "2022",
         "_version_": 1733369777950294000,
         "score": 0.24995685
-      },
-      {
-        "id": "6daf8649-a100-2d7d-de12-9060ab4bec74",
-        "file_id": "6daf8649-a100-2d7d-de12-9060ab4bec74",
-        "file_name": "Traffic 04.28 NJ-07_KFC .docx",
-        "file_extension": "pdf",
-        "file_size": 60383,
-        "file_status": "com_cpy",
-        "folder_id": "1fc5504f-8ec3-ca41-7909-2bc2e8b15ca3",
-        "create_ts": "2022-05-20T18:09:54.659Z",
-        "last_update_ts": "2022-05-20T18:09:57.766Z",
-        "active_ind": "Y",
-        "file_manager_id": "c7aa78a9-c2b6-48d7-be64-61d1be457247",
-        "file_folder_path": "Political Files/2022/Federal/US House/Kean for Congress-NYI",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Kean for Congress-NYI/Traffic 04.28 NJ-07_KFC .docx",
-        "entity_id": "003146",
-        "source_service_code": "CABLE",
-        "legal_name": "CABLEVISION SYSTEMS LONG ISLAND  CORPORATION",
-        "operator_city_name": "BETHPAGE",
-        "operator_state_name": "NY",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1733369732817485800,
-        "score": 0.24995685
-      },
-      {
-        "id": "12b30136-5afa-ccec-b26d-af1dfb2f98b3",
-        "file_id": "12b30136-5afa-ccec-b26d-af1dfb2f98b3",
-        "file_name": "WNAC_Sarah Morgenthau_Congress_RI_Dem_3546384_05.20 - 05.26.22",
-        "file_extension": "pdf",
-        "file_size": 221648,
-        "file_status": "com_cpy",
-        "folder_id": "20901a07-773a-ba48-5ea0-bd76d4fa6033",
-        "create_ts": "2022-05-20T18:08:48.599Z",
-        "last_update_ts": "2022-05-20T18:08:49.102Z",
-        "active_ind": "Y",
-        "file_manager_id": "13505e20-c1df-4bfa-855a-d737e9c87065",
-        "file_folder_path": "Political Files/2022/Federal/US House/WNAC Sarah Morgenthau Congress RI Dem",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/WNAC Sarah Morgenthau Congress RI Dem/WNAC_Sarah Morgenthau_Congress_RI_Dem_3546384_05.20 - 05.26.22",
-        "entity_id": "73311",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "PROVIDENCE-NEW BEDFORD",
-        "callsign": "WNAC-TV",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1733369663591547000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -266,7 +265,7 @@
         "DULUTH-SUPERIOR": 4656,
         "CHARLESTON-HUNTINGTON": 4368,
         "PORTLAND-AUBURN": 4230,
-        "TALLAHASSEE-THOMASVILLE": 4094,
+        "TALLAHASSEE-THOMASVILLE": 4095,
         "OMAHA": 3975,
         "RALEIGH-DURHAM (FAYETVLLE)": 3685,
         "BUTTE-BOZEMAN": 3656,
@@ -348,7 +347,7 @@
         "BUFFALO": 697,
         "SAN FRANCISCO-OAK-SAN JOSE": 687,
         "BANGOR": 676,
-        "OKLAHOMA CITY": 662,
+        "OKLAHOMA CITY": 663,
         "HARTFORD & NEW HAVEN": 648,
         "SAN DIEGO": 648,
         "TERRE HAUTE": 641,
@@ -358,7 +357,7 @@
         "BOSTON (MANCHESTER)": 620
       },
       "network_affiliation": {
-        "ABC": 61937,
+        "ABC": 61939,
         "NBC": 59273,
         "CBS": 41098,
         "FOX": 29262,
@@ -430,12 +429,12 @@
         "2019": 13920,
         "2020": 124970,
         "2021": 22710,
-        "2022": 30877,
+        "2022": 30879,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 76596,
+        "State": 76597,
         "US Senate": 52623,
         "US House": 44125,
         "Presidential": 38381,
@@ -472,15 +471,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 249183,
+        "TV": 249185,
         "CABLE": 130516,
         "FM": 118536,
         "AM": 45304,
         "DBS": 5912
       },
       "political_file_type": {
-        "PA": 240112,
-        "NCIA": 130781
+        "PA": 240113,
+        "NCIA": 130782
       }
     }
   },
@@ -496,8 +495,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1802,
-    "processTime": 810,
-    "responseTime": 1811
+    "queryTime": 1834,
+    "processTime": 842,
+    "responseTime": 1842
   }
 }
