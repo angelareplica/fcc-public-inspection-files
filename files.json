@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 549743,
+    "numFound": 549745,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "9f71da1b-5aca-3ea2-0158-1c8605c8deb6",
+        "file_id": "9f71da1b-5aca-3ea2-0158-1c8605c8deb6",
+        "file_name": "2122931-KNX FM- Greg Raths for Congress- NAB Page 2",
+        "file_extension": "pdf",
+        "file_size": 5398810,
+        "file_status": "com_cpy",
+        "folder_id": "69e288ed-43ce-e2d6-c6db-8b198e4f81d4",
+        "create_ts": "2022-05-21T12:10:51.733Z",
+        "last_update_ts": "2022-05-21T12:10:56.175Z",
+        "active_ind": "Y",
+        "file_manager_id": "bd2eed14-e025-49d4-8a2f-37ef3074cae2",
+        "file_folder_path": "Political Files/2022/Federal/US House/Greg Raths for Congress 2022",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Greg Raths for Congress 2022/2122931-KNX FM- Greg Raths for Congress- NAB Page 2",
+        "entity_id": "9616",
+        "source_service_code": "AM",
+        "callsign": "KNX",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1733437742621130800,
+        "score": 0.00012497843
+      },
+      {
+        "id": "c531ba19-0cce-2130-b26a-d6419fa03078",
+        "file_id": "c531ba19-0cce-2130-b26a-d6419fa03078",
+        "file_name": "2122931- KNX FM- Greg Raths for Congress- NAB Page 1",
+        "file_extension": "pdf",
+        "file_size": 5158767,
+        "file_status": "com_cpy",
+        "folder_id": "69e288ed-43ce-e2d6-c6db-8b198e4f81d4",
+        "create_ts": "2022-05-21T12:10:50.767Z",
+        "last_update_ts": "2022-05-21T12:10:50.516Z",
+        "active_ind": "Y",
+        "file_manager_id": "569e3358-a6cb-4ab6-a8c2-35a4e6534947",
+        "file_folder_path": "Political Files/2022/Federal/US House/Greg Raths for Congress 2022",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Greg Raths for Congress 2022/2122931- KNX FM- Greg Raths for Congress- NAB Page 1",
+        "entity_id": "9616",
+        "source_service_code": "AM",
+        "callsign": "KNX",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1733437742462795800,
+        "score": 0.00012497843
+      },
       {
         "id": "ff1a9f3a-b476-ffaa-6153-9035f15e9bdc",
         "file_id": "ff1a9f3a-b476-ffaa-6153-9035f15e9bdc",
@@ -203,56 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1733396219402649600,
         "score": 0.00012497843
-      },
-      {
-        "id": "f266856b-2c6c-312e-0d16-0d19997e34fb",
-        "file_id": "f266856b-2c6c-312e-0d16-0d19997e34fb",
-        "file_name": "KTTV Newsom for CA G1176513-0",
-        "file_extension": "pdf",
-        "file_size": 118164,
-        "file_status": "com_cpy",
-        "folder_id": "1e45e119-d98d-6e29-b78d-57a4da6b2731",
-        "create_ts": "2022-05-21T01:10:50.216Z",
-        "last_update_ts": "2022-05-21T01:10:53.236Z",
-        "active_ind": "Y",
-        "file_manager_id": "d85fb6d8-7025-4051-acf0-89ebc47b081d",
-        "file_folder_path": "Political Files/2022/State/Newsom for CA Governor 2022",
-        "full_qualified_file_name": "Political Files/2022/State/Newsom for CA Governor 2022/KTTV Newsom for CA G1176513-0",
-        "entity_id": "22208",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LOS ANGELES",
-        "callsign": "KTTV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1733396215128653800,
-        "score": 0.24995685
-      },
-      {
-        "id": "f51d932b-bf4b-e6ef-c05c-1a31c5b739dc",
-        "file_id": "f51d932b-bf4b-e6ef-c05c-1a31c5b739dc",
-        "file_name": "698835_Invoice_20220520044021",
-        "file_extension": "pdf",
-        "file_size": 73831,
-        "file_status": "com_cpy",
-        "folder_id": "a2a543e5-1b38-c002-5da8-9a2eaf326617",
-        "create_ts": "2022-05-21T01:09:14.517Z",
-        "last_update_ts": "2022-05-21T01:09:11.349Z",
-        "active_ind": "Y",
-        "file_manager_id": "ecf05af7-18c8-40d5-97ad-9417265d4999",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698835_Invoice_20220520044021",
-        "entity_id": "004027",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF ILLINOIS/INDIANA/OHIO, LLC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1733396114726453200,
-        "score": 0.00012497843
       }
     ],
     "facets": {
@@ -431,14 +427,14 @@
         "2019": 13920,
         "2020": 124970,
         "2021": 22710,
-        "2022": 31170,
+        "2022": 31172,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 76697,
         "US Senate": 52631,
-        "US House": 44207,
+        "US House": 44209,
         "Presidential": 38381,
         "Local": 27091
       },
@@ -476,11 +472,11 @@
         "TV": 249300,
         "CABLE": 130576,
         "FM": 118617,
-        "AM": 45335,
+        "AM": 45337,
         "DBS": 5915
       },
       "political_file_type": {
-        "PA": 240347,
+        "PA": 240349,
         "NCIA": 130839
       }
     }
@@ -497,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1796,
-    "processTime": 805,
-    "responseTime": 1806
+    "queryTime": 213,
+    "processTime": 221,
+    "responseTime": 221
   }
 }
