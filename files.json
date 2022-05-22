@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 549764,
+    "numFound": 549765,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "e2046460-5eba-b11a-676b-bae78d04b4a2",
+        "file_id": "e2046460-5eba-b11a-676b-bae78d04b4a2",
+        "file_name": "Issue New Georgia Project 05-2022",
+        "file_extension": "pdf",
+        "file_size": 182487,
+        "file_status": "com_cpy",
+        "folder_id": "91c6338f-1ce3-5ba0-c468-2971bc929664",
+        "create_ts": "2022-05-22T20:44:43.393Z",
+        "last_update_ts": "2022-05-22T20:44:46.769Z",
+        "active_ind": "Y",
+        "file_manager_id": "df3cd788-019f-4e38-8892-9654dfbe2534",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Issue New Georgia Project 05-2022",
+        "entity_id": "41990",
+        "source_service_code": "FM",
+        "callsign": "WQMJ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1733560667135279000,
+        "score": 0.24995685
+      },
       {
         "id": "8d7da409-0569-a589-3bb6-4d2d8d7437e4",
         "file_id": "8d7da409-0569-a589-3bb6-4d2d8d7437e4",
@@ -228,31 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1733535184848945200,
         "score": 0.24995685
-      },
-      {
-        "id": "428fee43-d4e8-af9f-bbd6-e8c8b04391f7",
-        "file_id": "428fee43-d4e8-af9f-bbd6-e8c8b04391f7",
-        "file_name": "Tim Ryan for Ohio-NAB PB-19-2022-05-17 Est 1092",
-        "file_extension": "pdf",
-        "file_size": 1075685,
-        "file_status": "com_cpy",
-        "folder_id": "2c566506-2645-e744-57c0-be2811ec030d",
-        "create_ts": "2022-05-22T13:59:40.95Z",
-        "last_update_ts": "2022-05-22T13:59:46.957Z",
-        "active_ind": "Y",
-        "file_manager_id": "6fbd4884-9570-4361-ae27-275da50d7762",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Tim Ryan",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Tim Ryan/Tim Ryan for Ohio-NAB PB-19-2022-05-17 Est 1092",
-        "entity_id": "56549",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "COLUMBUS OH",
-        "callsign": "WSYX",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1733535184853139500,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -431,7 +428,7 @@
         "2019": 13920,
         "2020": 124970,
         "2021": 22710,
-        "2022": 31191,
+        "2022": 31192,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -475,13 +472,13 @@
       "source_service_code": {
         "TV": 249316,
         "CABLE": 130576,
-        "FM": 118620,
+        "FM": 118621,
         "AM": 45337,
         "DBS": 5915
       },
       "political_file_type": {
         "PA": 240368,
-        "NCIA": 130839
+        "NCIA": 130840
       }
     }
   },
@@ -497,8 +494,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 216,
-    "responseTime": 216
+    "queryTime": 1806,
+    "processTime": 815,
+    "responseTime": 1815
   }
 }
