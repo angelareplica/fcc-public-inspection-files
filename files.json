@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 550230,
+    "numFound": 550231,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "56789e9b-b7b2-7824-8be3-d4a5e367b7f6",
+        "file_id": "56789e9b-b7b2-7824-8be3-d4a5e367b7f6",
+        "file_name": "IRVIN FOR IL NAB D2 Have Your Back BH 052322",
+        "file_extension": "pdf",
+        "file_size": 165797,
+        "file_status": "com_cpy",
+        "folder_id": "2cdb2ecd-002c-4ac7-e1f7-4a6ee182d0a0",
+        "create_ts": "2022-05-24T04:27:35.195Z",
+        "last_update_ts": "2022-05-24T04:27:44.229Z",
+        "active_ind": "Y",
+        "file_manager_id": "69055f7c-3043-453d-ad89-cfeb688bfc6e",
+        "file_folder_path": "Political Files/2022/State/Illinois/Richard Irvin IL Governor",
+        "full_qualified_file_name": "Political Files/2022/State/Illinois/Richard Irvin IL Governor/IRVIN FOR IL NAB D2 Have Your Back BH 052322",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1733680384553517000,
+        "score": 0.24995685
+      },
       {
         "id": "2cc4f5bb-9e30-1a49-46a1-1315d6d3c916",
         "file_id": "2cc4f5bb-9e30-1a49-46a1-1315d6d3c916",
@@ -221,31 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1733665528838357000,
         "score": 0.24995685
-      },
-      {
-        "id": "2c598039-2e19-e1f5-ec5a-2392f679272d",
-        "file_id": "2c598039-2e19-e1f5-ec5a-2392f679272d",
-        "file_name": "Tom Cole for US Congress 06.13.22-06.19.22 #142141",
-        "file_extension": "pdf",
-        "file_size": 2217201,
-        "file_status": "com_cpy",
-        "folder_id": "762017dc-8ebd-3e12-280d-9ea30212cba5",
-        "create_ts": "2022-05-24T00:31:26.524Z",
-        "last_update_ts": "2022-05-24T00:31:36.046Z",
-        "active_ind": "Y",
-        "file_manager_id": "ca032993-38c0-431d-b889-e84c1e87d067",
-        "file_folder_path": "Political Files/2022/Federal/US House/Tom Cole for US Congress District 2",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Tom Cole for US Congress District 2/Tom Cole for US Congress 06.13.22-06.19.22 #142141",
-        "entity_id": "25382",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "OKLAHOMA CITY",
-        "callsign": "KWTV-DT",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1733665528583553000,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -424,12 +421,12 @@
         "2019": 13899,
         "2020": 124924,
         "2021": 22710,
-        "2022": 31714,
+        "2022": 31715,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 76949,
+        "State": 76950,
         "US Senate": 52708,
         "US House": 44286,
         "Presidential": 38374,
@@ -470,10 +467,10 @@
         "CABLE": 130600,
         "FM": 118699,
         "AM": 45378,
-        "DBS": 5916
+        "DBS": 5917
       },
       "political_file_type": {
-        "PA": 240741,
+        "PA": 240742,
         "NCIA": 130921
       }
     }
@@ -490,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1902,
-    "processTime": 913,
-    "responseTime": 1913
+    "queryTime": 1851,
+    "processTime": 858,
+    "responseTime": 1859
   }
 }
