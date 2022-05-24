@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 550554,
+    "numFound": 550555,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "60f65bb7-35de-9241-5e58-1f9b756d2804",
+        "file_id": "60f65bb7-35de-9241-5e58-1f9b756d2804",
+        "file_name": "McMahill 05.25.22-06.12.22 1023840 Order",
+        "file_extension": "pdf",
+        "file_size": 38228,
+        "file_status": "com_cpy",
+        "folder_id": "f4abb9d8-1427-745d-d510-d264a8844924",
+        "create_ts": "2022-05-24T22:31:31.339Z",
+        "last_update_ts": "2022-05-24T22:31:34.204Z",
+        "active_ind": "Y",
+        "file_manager_id": "4353a9f0-e33f-4f5f-830e-0dd9e7d14597",
+        "file_folder_path": "Political Files/2022/Local/Kevin McMahill",
+        "full_qualified_file_name": "Political Files/2022/Local/Kevin McMahill/McMahill 05.25.22-06.12.22 1023840 Order",
+        "entity_id": "74100",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KTNV-TV",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1733748579774759000,
+        "score": 0.24995685
+      },
       {
         "id": "5757dbea-f1f8-d0b7-985c-740783f37d84",
         "file_id": "5757dbea-f1f8-d0b7-985c-740783f37d84",
@@ -224,31 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1733746451399311400,
         "score": 0.24995685
-      },
-      {
-        "id": "d9d17920-c269-6cc8-311e-1951ae499dce",
-        "file_id": "d9d17920-c269-6cc8-311e-1951ae499dce",
-        "file_name": "ALAX 0525-0531 - 3549704 NAB",
-        "file_extension": "pdf",
-        "file_size": 552334,
-        "file_status": "com_cpy",
-        "folder_id": "d9a9b429-bd08-51a7-8c9e-36742a6f95cc",
-        "create_ts": "2022-05-24T21:52:54.221Z",
-        "last_update_ts": "2022-05-24T21:52:57.413Z",
-        "active_ind": "Y",
-        "file_manager_id": "ec40a05c-0b21-4288-8c7b-ea08f3395a6c",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Adam Laxalt/NAB Forms",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Adam Laxalt/NAB Forms/ALAX 0525-0531 - 3549704 NAB",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1733746150443319300,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -257,7 +257,7 @@
         "WILKES BARRE-SCRANTON": 7634,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7109,
         "PITTSBURGH": 6875,
-        "LAS VEGAS": 6840,
+        "LAS VEGAS": 6841,
         "WEST PALM BEACH-FT. PIERCE": 5792,
         "HONOLULU": 5227,
         "DULUTH-SUPERIOR": 4656,
@@ -355,7 +355,7 @@
         "BOSTON (MANCHESTER)": 620
       },
       "network_affiliation": {
-        "ABC": 62085,
+        "ABC": 62086,
         "NBC": 59405,
         "CBS": 41230,
         "FOX": 29411,
@@ -427,7 +427,7 @@
         "2019": 13899,
         "2020": 124924,
         "2021": 22710,
-        "2022": 32017,
+        "2022": 32018,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -436,7 +436,7 @@
         "US Senate": 52769,
         "US House": 44346,
         "Presidential": 38374,
-        "Local": 27112
+        "Local": 27113
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
@@ -469,14 +469,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 249851,
+        "TV": 249852,
         "CABLE": 130610,
         "FM": 118768,
         "AM": 45406,
         "DBS": 5919
       },
       "political_file_type": {
-        "PA": 241019,
+        "PA": 241020,
         "NCIA": 130946
       }
     }
@@ -493,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1914,
-    "processTime": 920,
-    "responseTime": 1921
+    "queryTime": 1826,
+    "processTime": 834,
+    "responseTime": 1834
   }
 }
