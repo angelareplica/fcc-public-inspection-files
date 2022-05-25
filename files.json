@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 550596,
+    "numFound": 550597,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "a99550b8-97d2-a6a1-a5b1-76596a05c5fc",
+        "file_id": "a99550b8-97d2-a6a1-a5b1-76596a05c5fc",
+        "file_name": "William Kindle interview 37th district 04_26",
+        "file_extension": "docx",
+        "file_size": 12264,
+        "file_status": "com_prc",
+        "folder_id": "63db4e87-2ee4-b159-111b-5261930208d2",
+        "create_ts": "2022-05-25T11:57:30.695Z",
+        "last_update_ts": "2022-05-25T11:57:58.743Z",
+        "active_ind": "Y",
+        "file_manager_id": "4485b1c3-529b-4b14-bd85-fbce1fb36667",
+        "file_folder_path": "Political Files/2022/State/Unpaid Interviews",
+        "full_qualified_file_name": "Political Files/2022/State/Unpaid Interviews/William Kindle interview 37th district 04_26",
+        "entity_id": "70524",
+        "source_service_code": "AM",
+        "callsign": "WTCM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1733799304674410500,
+        "score": 0.24995685
+      },
       {
         "id": "828e5177-6d38-0aaa-55ce-1aa4318a3323",
         "file_id": "828e5177-6d38-0aaa-55ce-1aa4318a3323",
@@ -223,31 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1733767609736757200,
         "score": 0.24995685
-      },
-      {
-        "id": "45b808af-1da8-8b16-bf2c-aac821d84984",
-        "file_id": "45b808af-1da8-8b16-bf2c-aac821d84984",
-        "file_name": "WTVH LEE ZELDIN FOR GOVERNOR EST 533 05.16.22-05.22.22 - INVOICE #1800109-1",
-        "file_extension": "pdf",
-        "file_size": 105105,
-        "file_status": "com_cpy",
-        "folder_id": "0cc6a016-7bbc-acd1-e0d7-7d101abdf0c1",
-        "create_ts": "2022-05-25T03:32:51.38Z",
-        "last_update_ts": "2022-05-25T03:32:54.223Z",
-        "active_ind": "Y",
-        "file_manager_id": "c02c1723-a2e6-4658-a7ae-443d389afc79",
-        "file_folder_path": "Political Files/2022/State/LEE ZELDIN FOR GOVERNOR-R",
-        "full_qualified_file_name": "Political Files/2022/State/LEE ZELDIN FOR GOVERNOR-R/WTVH LEE ZELDIN FOR GOVERNOR EST 533 05.16.22-05.22.22 - INVOICE #1800109-1",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1733767538046664700,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -426,12 +424,12 @@
         "2019": 13899,
         "2020": 124924,
         "2021": 22711,
-        "2022": 32058,
+        "2022": 32059,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 77101,
+        "State": 77102,
         "US Senate": 52770,
         "US House": 44354,
         "Presidential": 38374,
@@ -471,11 +469,11 @@
         "TV": 249869,
         "CABLE": 130610,
         "FM": 118780,
-        "AM": 45414,
+        "AM": 45415,
         "DBS": 5923
       },
       "political_file_type": {
-        "PA": 241054,
+        "PA": 241055,
         "NCIA": 130953
       }
     }
@@ -492,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 210,
-    "processTime": 218,
-    "responseTime": 219
+    "queryTime": 214,
+    "processTime": 223,
+    "responseTime": 223
   }
 }
