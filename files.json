@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 550595,
+    "numFound": 550596,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "828e5177-6d38-0aaa-55ce-1aa4318a3323",
+        "file_id": "828e5177-6d38-0aaa-55ce-1aa4318a3323",
+        "file_name": "Iowa Associaton for Justice Non Canndidate Issue Primary 05182022",
+        "file_extension": "pdf",
+        "file_size": 391395,
+        "file_status": "com_cpy",
+        "folder_id": "246dca80-1eaa-545d-fbcd-016fd56c916b",
+        "create_ts": "2022-05-25T11:04:10.026Z",
+        "last_update_ts": "2022-05-25T11:04:22.568Z",
+        "active_ind": "Y",
+        "file_manager_id": "25a30379-1cce-4096-90dc-d628ddde2a66",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Iowa Associaton for Justice Non Canndidate Issue Primary 05182022",
+        "entity_id": "39462",
+        "source_service_code": "FM",
+        "callsign": "KRLS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1733795932371157000,
+        "score": 0.24995685
+      },
       {
         "id": "a4c40d18-f3ee-ae22-3211-2c685d99dcc7",
         "file_id": "a4c40d18-f3ee-ae22-3211-2c685d99dcc7",
@@ -226,30 +248,6 @@
         "campaign_year": "2022",
         "_version_": 1733767538046664700,
         "score": 0.24995685
-      },
-      {
-        "id": "582729bf-01c3-d542-a405-fb9115dfb03b",
-        "file_id": "582729bf-01c3-d542-a405-fb9115dfb03b",
-        "file_name": "WTVH NYSUT EST 520 05.02.22-05.17.22 - INVOICE #1794381-3",
-        "file_extension": "pdf",
-        "file_size": 30878,
-        "file_status": "com_cpy",
-        "folder_id": "1df1b8b6-1431-3beb-3d47-484e4c7c64f8",
-        "create_ts": "2022-05-25T03:32:10.105Z",
-        "last_update_ts": "2022-05-25T03:32:05.907Z",
-        "active_ind": "Y",
-        "file_manager_id": "28067d3b-d0b5-4a87-8471-e23eeac8f8cd",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/NYSUT",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/NYSUT/WTVH NYSUT EST 520 05.02.22-05.17.22 - INVOICE #1794381-3",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1733767494787661800,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -428,7 +426,7 @@
         "2019": 13899,
         "2020": 124924,
         "2021": 22711,
-        "2022": 32057,
+        "2022": 32058,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -472,13 +470,13 @@
       "source_service_code": {
         "TV": 249869,
         "CABLE": 130610,
-        "FM": 118779,
+        "FM": 118780,
         "AM": 45414,
         "DBS": 5923
       },
       "political_file_type": {
         "PA": 241054,
-        "NCIA": 130952
+        "NCIA": 130953
       }
     }
   },
@@ -494,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1852,
-    "processTime": 861,
-    "responseTime": 1862
+    "queryTime": 211,
+    "processTime": 225,
+    "responseTime": 225
   }
 }
