@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 551091,
+    "numFound": 551092,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "67aa3f3c-d397-d8ef-488b-02564c2b83b6",
+        "file_id": "67aa3f3c-d397-d8ef-488b-02564c2b83b6",
+        "file_name": "Advancing AZ 050522-052522 Actual Airtime",
+        "file_extension": "pdf",
+        "file_size": 81923,
+        "file_status": "com_cpy",
+        "folder_id": "7413b819-9789-80d5-2dfc-273fdca73a5e",
+        "create_ts": "2022-05-26T08:45:47.254Z",
+        "last_update_ts": "2022-05-26T08:46:13.903Z",
+        "active_ind": "Y",
+        "file_manager_id": "cb54c6d0-562b-4eda-a857-b47a1775fd94",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Advancing Arizona",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Advancing Arizona/Advancing AZ 050522-052522 Actual Airtime",
+        "entity_id": "72510",
+        "source_service_code": "FM",
+        "callsign": "KQSS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1733877855606014000,
+        "score": 0.24995685
+      },
       {
         "id": "c7e49d71-f52c-3262-1d4d-2680ca983b8e",
         "file_id": "c7e49d71-f52c-3262-1d4d-2680ca983b8e",
@@ -207,28 +229,6 @@
         "campaign_year": "2022",
         "_version_": 1733853429343715300,
         "score": 0.24995685
-      },
-      {
-        "id": "61b34678-22e3-ba27-da33-b2293520b43a",
-        "file_id": "61b34678-22e3-ba27-da33-b2293520b43a",
-        "file_name": "Communities for Justice 052722-060922 KNWZ ORDER 632905",
-        "file_extension": "pdf",
-        "file_size": 29593,
-        "file_status": "com_cpy",
-        "folder_id": "f75bd987-2cc2-d442-baba-fb45906320f4",
-        "create_ts": "2022-05-26T02:18:03.101Z",
-        "last_update_ts": "2022-05-26T02:17:58.829Z",
-        "active_ind": "Y",
-        "file_manager_id": "c1562a6b-ce7f-42ba-b081-6b61f51826b6",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Communities For Justice/Communities for Justice 052722-060922",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Communities For Justice/Communities for Justice 052722-060922/Communities for Justice 052722-060922 KNWZ ORDER 632905",
-        "entity_id": "12130",
-        "source_service_code": "AM",
-        "callsign": "KNWZ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1733853428888633300,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -407,7 +407,7 @@
         "2019": 13899,
         "2020": 124924,
         "2021": 22711,
-        "2022": 32519,
+        "2022": 32520,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -451,13 +451,13 @@
       "source_service_code": {
         "TV": 250176,
         "CABLE": 130630,
-        "FM": 118878,
+        "FM": 118879,
         "AM": 45474,
         "DBS": 5933
       },
       "political_file_type": {
         "PA": 241309,
-        "NCIA": 131159
+        "NCIA": 131160
       }
     }
   },
@@ -473,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 216,
-    "responseTime": 217
+    "queryTime": 213,
+    "processTime": 220,
+    "responseTime": 221
   }
 }
