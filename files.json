@@ -209,19 +209,19 @@
         "score": 0.24995685
       },
       {
-        "id": "61b34678-22e3-ba27-da33-b2293520b43a",
-        "file_id": "61b34678-22e3-ba27-da33-b2293520b43a",
-        "file_name": "Communities for Justice 052722-060922 KNWZ ORDER 632905",
+        "id": "309045dd-99eb-4da5-2218-b812c7a8646a",
+        "file_id": "309045dd-99eb-4da5-2218-b812c7a8646a",
+        "file_name": "Communities for Justice 052722-060922 KNWZ ORDER 632903",
         "file_extension": "pdf",
-        "file_size": 29593,
+        "file_size": 29605,
         "file_status": "com_cpy",
         "folder_id": "f75bd987-2cc2-d442-baba-fb45906320f4",
-        "create_ts": "2022-05-26T02:18:03.101Z",
+        "create_ts": "2022-05-26T02:18:03.099Z",
         "last_update_ts": "2022-05-26T02:17:58.829Z",
         "active_ind": "Y",
-        "file_manager_id": "c1562a6b-ce7f-42ba-b081-6b61f51826b6",
+        "file_manager_id": "db17f32b-dd7d-4863-b164-58aec799f050",
         "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Communities For Justice/Communities for Justice 052722-060922",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Communities For Justice/Communities for Justice 052722-060922/Communities for Justice 052722-060922 KNWZ ORDER 632905",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Communities For Justice/Communities for Justice 052722-060922/Communities for Justice 052722-060922 KNWZ ORDER 632903",
         "entity_id": "12130",
         "source_service_code": "AM",
         "callsign": "KNWZ",
@@ -473,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1833,
-    "processTime": 841,
-    "responseTime": 1841
+    "queryTime": 214,
+    "processTime": 243,
+    "responseTime": 243
   }
 }
