@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 551700,
+    "numFound": 551701,
     "start": 0,
     "maxScore": 0.5001637,
     "docs": [
+      {
+        "id": "88c7575c-f2f0-7ab6-4822-63acf979bec1",
+        "file_id": "88c7575c-f2f0-7ab6-4822-63acf979bec1",
+        "file_name": "KTTV KIM1177564-0",
+        "file_extension": "pdf",
+        "file_size": 113877,
+        "file_status": "com_cpy",
+        "folder_id": "f5eec6c0-9695-6efa-9f83-a800b9f7c11a",
+        "create_ts": "2022-05-27T12:46:57.439Z",
+        "last_update_ts": "2022-05-27T12:46:52.701Z",
+        "active_ind": "Y",
+        "file_manager_id": "fcdb4a80-fa3f-4ce5-aa46-e82f8f92e9ad",
+        "file_folder_path": "Political Files/2022/Federal/US House/Young Kim for Congress",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Young Kim for Congress/KTTV KIM1177564-0",
+        "entity_id": "22208",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "LOS ANGELES",
+        "callsign": "KTTV",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1733983593052504000,
+        "score": 0.24995685
+      },
       {
         "id": "4e12ebd9-e8e1-bc05-7433-fd4656685852",
         "file_id": "4e12ebd9-e8e1-bc05-7433-fd4656685852",
@@ -222,31 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1733948222214242300,
         "score": 0.24995685
-      },
-      {
-        "id": "01ef10fa-f4f6-0b87-af40-2e72c5844c33",
-        "file_id": "01ef10fa-f4f6-0b87-af40-2e72c5844c33",
-        "file_name": "Markwayne Mullin for US Senate 05.31.22-06.06.22 #142310",
-        "file_extension": "pdf",
-        "file_size": 3305300,
-        "file_status": "com_cpy",
-        "folder_id": "8a535583-778c-d23b-0439-cd722ac59115",
-        "create_ts": "2022-05-27T03:23:12.248Z",
-        "last_update_ts": "2022-05-27T03:23:29.716Z",
-        "active_ind": "Y",
-        "file_manager_id": "0c909f5c-06c9-4b79-b889-16855f1c4064",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Markwayne Mullins for US Senate",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Markwayne Mullins for US Senate/Markwayne Mullin for US Senate 05.31.22-06.06.22 #142310",
-        "entity_id": "25382",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "OKLAHOMA CITY",
-        "callsign": "KWTV-DT",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1733948125648781300,
-        "score": 0.24995685
       }
     ],
     "facets": {
@@ -313,7 +313,7 @@
         "GREEN BAY-APPLETON": 1249,
         "JOHNSTOWN-ALTOONA-ST COLGE": 1249,
         "ANCHORAGE": 1241,
-        "LOS ANGELES": 1235,
+        "LOS ANGELES": 1236,
         "LOUISVILLE": 1176,
         "ST. LOUIS": 1125,
         "CHARLOTTE": 1111,
@@ -356,7 +356,7 @@
         "ABC": 62324,
         "NBC": 59568,
         "CBS": 41326,
-        "FOX": 29504,
+        "FOX": 29505,
         "PBS": 14752,
         "CW": 12303,
         "IND": 3014,
@@ -425,14 +425,14 @@
         "2019": 13899,
         "2020": 124924,
         "2021": 22711,
-        "2022": 33111,
+        "2022": 33112,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 77402,
         "US Senate": 52847,
-        "US House": 44518,
+        "US House": 44519,
         "Presidential": 38374,
         "Local": 27167
       },
@@ -467,14 +467,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 250557,
+        "TV": 250558,
         "CABLE": 130682,
         "FM": 118981,
         "AM": 45539,
         "DBS": 5941
       },
       "political_file_type": {
-        "PA": 241648,
+        "PA": 241649,
         "NCIA": 131412
       }
     }
@@ -491,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 212,
-    "processTime": 222,
-    "responseTime": 223
+    "queryTime": 1845,
+    "processTime": 854,
+    "responseTime": 1854
   }
 }
