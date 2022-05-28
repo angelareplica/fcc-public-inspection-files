@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 552234,
+    "numFound": 552236,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "a7b0f81d-9c42-fcf8-afcf-b3a51faaa4e3",
+        "file_id": "a7b0f81d-9c42-fcf8-afcf-b3a51faaa4e3",
+        "file_name": "Usher For Senate District 20  05-17_06-07 (Confirmation)",
+        "file_extension": "pdf",
+        "file_size": 5856,
+        "file_status": "com_cpy",
+        "folder_id": "969484aa-8100-1aa0-b2dd-90098130a8c6",
+        "create_ts": "2022-05-28T17:16:44.625Z",
+        "last_update_ts": "2022-05-28T17:30:05.358Z",
+        "active_ind": "N",
+        "file_manager_id": "7e26a588-d3f9-49d4-b0b3-7ecc918b9ab0",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Usher For Senate District 20",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Usher For Senate District 20/Usher For Senate District 20  05-17_06-07 (Confirmation)",
+        "entity_id": "48301",
+        "source_service_code": "AM",
+        "callsign": "KIKC",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1734091981515128800,
+        "score": 0.24995682
+      },
+      {
+        "id": "0f4ba3c1-20d0-e48f-f010-14fd5151fe55",
+        "file_id": "0f4ba3c1-20d0-e48f-f010-14fd5151fe55",
+        "file_name": "Usher For Senate District 20  05-17_06-07 (Confirmation)",
+        "file_extension": "pdf",
+        "file_size": 5856,
+        "file_status": "com_cpy",
+        "folder_id": "969484aa-8100-1aa0-b2dd-90098130a8c6",
+        "create_ts": "2022-05-28T17:16:06.37Z",
+        "last_update_ts": "2022-05-28T17:30:05.194Z",
+        "active_ind": "N",
+        "file_manager_id": "56e9d9d8-72ad-4bb1-b541-74fc666e9891",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Usher For Senate District 20",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Usher For Senate District 20/Usher For Senate District 20  05-17_06-07 (Confirmation)",
+        "entity_id": "48301",
+        "source_service_code": "AM",
+        "callsign": "KIKC",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1734091981351551000,
+        "score": 0.24995682
+      },
       {
         "id": "86e1ed85-a985-54ae-dc83-045508708f72",
         "file_id": "86e1ed85-a985-54ae-dc83-045508708f72",
@@ -187,52 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1734089814079176700,
         "score": 0.24995682
-      },
-      {
-        "id": "c7cbacb5-9584-eabf-73fb-0229c478d5b6",
-        "file_id": "c7cbacb5-9584-eabf-73fb-0229c478d5b6",
-        "file_name": "Columbik For Custer County Sheriff 05-31_06-06 (Confirmation)",
-        "file_extension": "pdf",
-        "file_size": 5610,
-        "file_status": "com_cpy",
-        "folder_id": "0b668854-0b58-71de-7d69-486e31aa8763",
-        "create_ts": "2022-05-28T16:51:29.898Z",
-        "last_update_ts": "2022-05-28T16:51:24.86Z",
-        "active_ind": "Y",
-        "file_manager_id": "453b1c74-bb45-450a-93ec-3c7013b02081",
-        "file_folder_path": "Political Files/2022/Local/Columbik For Custer County Sheriff",
-        "full_qualified_file_name": "Political Files/2022/Local/Columbik For Custer County Sheriff/Columbik For Custer County Sheriff 05-31_06-06 (Confirmation)",
-        "entity_id": "48300",
-        "source_service_code": "FM",
-        "callsign": "KIKC-FM",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1734089575221952500,
-        "score": 0.24995682
-      },
-      {
-        "id": "6fdb7f60-d716-9081-a10b-2e9ebda65789",
-        "file_id": "6fdb7f60-d716-9081-a10b-2e9ebda65789",
-        "file_name": "Columbik For Custer County Sheriff 05-31_06-06 (Political Agreement)",
-        "file_extension": "pdf",
-        "file_size": 130837,
-        "file_status": "com_cpy",
-        "folder_id": "0b668854-0b58-71de-7d69-486e31aa8763",
-        "create_ts": "2022-05-28T16:50:51.619Z",
-        "last_update_ts": "2022-05-28T16:51:12.142Z",
-        "active_ind": "Y",
-        "file_manager_id": "b6ff277c-b598-4150-83ac-024d0f554eb5",
-        "file_folder_path": "Political Files/2022/Local/Columbik For Custer County Sheriff",
-        "full_qualified_file_name": "Political Files/2022/Local/Columbik For Custer County Sheriff/Columbik For Custer County Sheriff 05-31_06-06 (Political Agreement)",
-        "entity_id": "48300",
-        "source_service_code": "FM",
-        "callsign": "KIKC-FM",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1734089535040520200,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -411,13 +411,13 @@
         "2019": 13899,
         "2020": 124924,
         "2021": 22711,
-        "2022": 33629,
+        "2022": 33631,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 77538,
-        "US Senate": 52908,
+        "US Senate": 52910,
         "US House": 44574,
         "Presidential": 38377,
         "Local": 27221
@@ -456,11 +456,11 @@
         "TV": 250786,
         "CABLE": 130795,
         "FM": 119081,
-        "AM": 45597,
+        "AM": 45599,
         "DBS": 5975
       },
       "political_file_type": {
-        "PA": 241958,
+        "PA": 241960,
         "NCIA": 131620
       }
     }
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1822,
-    "processTime": 832,
-    "responseTime": 1833
+    "queryTime": 1867,
+    "processTime": 879,
+    "responseTime": 1880
   }
 }
