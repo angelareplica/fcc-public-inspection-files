@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 552253,
+    "numFound": 552254,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "bf1b3ebc-67bf-9c55-c4a8-357c11b038aa",
+        "file_id": "bf1b3ebc-67bf-9c55-c4a8-357c11b038aa",
+        "file_name": "Donor List - 2022-05",
+        "file_extension": "pdf",
+        "file_size": 176704,
+        "file_status": "com_cpy",
+        "folder_id": "654f86c2-487d-c67a-70f8-119e8cb1dd94",
+        "create_ts": "2022-05-29T12:00:55.872Z",
+        "last_update_ts": "2022-05-29T12:00:50.655Z",
+        "active_ind": "Y",
+        "file_manager_id": "aa7f7e8b-4b69-4e06-8dda-8fd3cc18a47c",
+        "file_folder_path": "Donor Lists - Applicable Only for NCEs/2022 Donor Lists",
+        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/2022 Donor Lists/Donor List - 2022-05",
+        "entity_id": "68222",
+        "source_service_code": "FM",
+        "callsign": "WAMH",
+        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
+        "_version_": 1734161891320660000,
+        "score": 0.24995682
+      },
       {
         "id": "676a86e9-c30d-071c-1242-e70db7cb0520",
         "file_id": "676a86e9-c30d-071c-1242-e70db7cb0520",
@@ -191,29 +212,6 @@
         "callsign": "WELD-FM",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1734119881043869700,
-        "score": 0.24995682
-      },
-      {
-        "id": "a3be82a4-e654-5eb5-71e4-4e5f77627f99",
-        "file_id": "a3be82a4-e654-5eb5-71e4-4e5f77627f99",
-        "file_name": "Pat Roos For Sheriff 05-17_06-07 (Confirmation 2)",
-        "file_extension": "pdf",
-        "file_size": 22832,
-        "file_status": "com_cpy",
-        "folder_id": "2f8f2e17-3d95-9488-f342-fc10af030268",
-        "create_ts": "2022-05-28T18:41:48.701Z",
-        "last_update_ts": "2022-05-28T18:41:43.599Z",
-        "active_ind": "Y",
-        "file_manager_id": "0c3ae159-ecb9-41ed-9e6f-83eaa734d7f4",
-        "file_folder_path": "Political Files/2022/Local/Pat Roos For Sheriff",
-        "full_qualified_file_name": "Political Files/2022/Local/Pat Roos For Sheriff/Pat Roos For Sheriff 05-17_06-07 (Confirmation 2)",
-        "entity_id": "42379",
-        "source_service_code": "AM",
-        "callsign": "KMTA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1734096515493789700,
         "score": 0.24995682
       }
     ],
@@ -408,7 +406,7 @@
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
         "Issues and Programs Lists": 46208,
         "Equal Employment Opportunity Records": 37596,
-        "Donor Lists - Applicable Only for NCEs": 12132,
+        "Donor Lists - Applicable Only for NCEs": 12133,
         "FCC Authorizations": 7399,
         "Local Public Notice Announcements": 1892,
         "Availability of Signals": 1877,
@@ -437,7 +435,7 @@
       "source_service_code": {
         "TV": 250786,
         "CABLE": 130795,
-        "FM": 119092,
+        "FM": 119093,
         "AM": 45605,
         "DBS": 5975
       },
@@ -459,8 +457,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 66,
-    "processTime": 75,
-    "responseTime": 75
+    "queryTime": 1823,
+    "processTime": 830,
+    "responseTime": 1831
   }
 }
