@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 552254,
+    "numFound": 552255,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "a8a8bfd7-b15e-0852-4271-0ec4711809cb",
+        "file_id": "a8a8bfd7-b15e-0852-4271-0ec4711809cb",
+        "file_name": "2022-05-28 Jarolimek KMAV",
+        "file_extension": "pdf",
+        "file_size": 992822,
+        "file_status": "com_cpy",
+        "folder_id": "e0c1bb26-07fb-08ba-4a29-d28217d1cff6",
+        "create_ts": "2022-05-29T15:51:37.787Z",
+        "last_update_ts": "2022-05-29T15:51:33.057Z",
+        "active_ind": "Y",
+        "file_manager_id": "e643ad5a-1c57-43fa-8b4d-327bbb0ffa21",
+        "file_folder_path": "Political Files/2022/State/District 20",
+        "full_qualified_file_name": "Political Files/2022/State/District 20/2022-05-28 Jarolimek KMAV",
+        "entity_id": "54335",
+        "source_service_code": "FM",
+        "callsign": "KMAV-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1734176406180462600,
+        "score": 0.24995682
+      },
       {
         "id": "bf1b3ebc-67bf-9c55-c4a8-357c11b038aa",
         "file_id": "bf1b3ebc-67bf-9c55-c4a8-357c11b038aa",
@@ -192,27 +215,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1734119974611452000,
         "score": 0.24995682
-      },
-      {
-        "id": "15f63830-62ea-c513-4fa2-9ce5bb53e333",
-        "file_id": "15f63830-62ea-c513-4fa2-9ce5bb53e333",
-        "file_name": "InfoTrak quarterly report, 2021-03_29.5 min",
-        "file_extension": "doc",
-        "file_size": 116224,
-        "file_status": "com_prc",
-        "folder_id": "2cbe3a13-6d99-5da9-7756-a152749c3aa4",
-        "create_ts": "2022-05-29T00:52:49.832Z",
-        "last_update_ts": "2022-05-29T00:53:33.174Z",
-        "active_ind": "Y",
-        "file_manager_id": "b4a2f7d9-088a-4997-ab2a-81be7ecac8cd",
-        "file_folder_path": "Issues and Programs Lists/2021-3rd-quarter",
-        "full_qualified_file_name": "Issues and Programs Lists/2021-3rd-quarter/InfoTrak quarterly report, 2021-03_29.5 min",
-        "entity_id": "60922",
-        "source_service_code": "FM",
-        "callsign": "WELD-FM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1734119881043869700,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -391,12 +393,12 @@
         "2019": 13899,
         "2020": 124924,
         "2021": 22711,
-        "2022": 33639,
+        "2022": 33640,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 77538,
+        "State": 77539,
         "US Senate": 52910,
         "US House": 44574,
         "Presidential": 38377,
@@ -435,12 +437,12 @@
       "source_service_code": {
         "TV": 250786,
         "CABLE": 130795,
-        "FM": 119093,
+        "FM": 119094,
         "AM": 45605,
         "DBS": 5975
       },
       "political_file_type": {
-        "PA": 241968,
+        "PA": 241969,
         "NCIA": 131620
       }
     }
@@ -457,8 +459,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 206,
-    "processTime": 216,
-    "responseTime": 216
+    "queryTime": 214,
+    "processTime": 228,
+    "responseTime": 229
   }
 }
