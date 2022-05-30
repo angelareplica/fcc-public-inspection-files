@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 552262,
+    "numFound": 552263,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "cfe9e1ff-ca38-30f0-3528-c60bc3928455",
+        "file_id": "cfe9e1ff-ca38-30f0-3528-c60bc3928455",
+        "file_name": "Issues and Programs List 2022-04",
+        "file_extension": "pdf",
+        "file_size": 161887,
+        "file_status": "com_cpy",
+        "folder_id": "f392df6b-07d5-7b27-5794-5caa88d128be",
+        "create_ts": "2022-05-30T21:06:43.322Z",
+        "last_update_ts": "2022-05-30T21:06:37.81Z",
+        "active_ind": "Y",
+        "file_manager_id": "7098ba0e-a1ee-4443-8bf0-ea3cfc9ba8d8",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/Issues and Programs List 2022-04",
+        "entity_id": "41820",
+        "source_service_code": "AM",
+        "callsign": "KLFD",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1734286830630600700,
+        "score": 0.24995682
+      },
       {
         "id": "7ca31856-4307-5803-e8ac-cc591f9eebb7",
         "file_id": "7ca31856-4307-5803-e8ac-cc591f9eebb7",
@@ -202,27 +223,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1734161891320660000,
         "score": 0.24995682
-      },
-      {
-        "id": "676a86e9-c30d-071c-1242-e70db7cb0520",
-        "file_id": "676a86e9-c30d-071c-1242-e70db7cb0520",
-        "file_name": "InfoTrak quarterly report, 2022-01_29.5 min",
-        "file_extension": "doc",
-        "file_size": 116736,
-        "file_status": "com_prc",
-        "folder_id": "2c5d6ba5-1699-ac54-e18b-26f161f5b0ac",
-        "create_ts": "2022-05-29T01:07:00.101Z",
-        "last_update_ts": "2022-05-29T01:07:23.209Z",
-        "active_ind": "Y",
-        "file_manager_id": "8ca348d7-eb1c-412a-b835-c9abf0413999",
-        "file_folder_path": "Issues and Programs Lists/2022-1st-quarter",
-        "full_qualified_file_name": "Issues and Programs Lists/2022-1st-quarter/InfoTrak quarterly report, 2022-01_29.5 min",
-        "entity_id": "30171",
-        "source_service_code": "FM",
-        "callsign": "WQWV",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1734120751372435500,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -414,7 +414,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
-        "Issues and Programs Lists": 46208,
+        "Issues and Programs Lists": 46209,
         "Equal Employment Opportunity Records": 37599,
         "Donor Lists - Applicable Only for NCEs": 12133,
         "FCC Authorizations": 7399,
@@ -446,7 +446,7 @@
         "TV": 250786,
         "CABLE": 130795,
         "FM": 119099,
-        "AM": 45607,
+        "AM": 45608,
         "DBS": 5975
       },
       "political_file_type": {
@@ -467,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1860,
-    "processTime": 869,
-    "responseTime": 1870
+    "queryTime": 1811,
+    "processTime": 819,
+    "responseTime": 1819
   }
 }
