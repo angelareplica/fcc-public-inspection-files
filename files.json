@@ -13,7 +13,7 @@
         "file_status": "com_cpy",
         "folder_id": "8c041cc2-0ba1-de16-8921-76207cda6535",
         "create_ts": "2022-05-30T14:23:36.885Z",
-        "last_update_ts": "2022-05-30T14:23:39.99Z",
+        "last_update_ts": "2022-05-30T14:40:06.223Z",
         "active_ind": "Y",
         "file_manager_id": "0c91f8b0-0d22-44a8-91da-efbe98041b96",
         "file_folder_path": "Political Files/2022/State/Abrams for Governor 05292022",
@@ -24,7 +24,7 @@
         "political_file_type": "PA",
         "office_type": "State",
         "campaign_year": "2022",
-        "_version_": 1734261465450283000,
+        "_version_": 1734262475923128300,
         "score": 0.24995682
       },
       {
@@ -461,8 +461,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1877,
-    "processTime": 886,
-    "responseTime": 1887
+    "queryTime": 213,
+    "processTime": 221,
+    "responseTime": 222
   }
 }
