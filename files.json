@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 552259,
+    "numFound": 552261,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "048e453e-abbf-96b1-cc65-8f09abbdc760",
+        "file_id": "048e453e-abbf-96b1-cc65-8f09abbdc760",
+        "file_name": "WANI-Katie Britt-Britt for Alabama Inc.-EST 2625 Confirmation-053022",
+        "file_extension": "pdf",
+        "file_size": 142600,
+        "file_status": "com_cpy",
+        "folder_id": "8644ff51-60ac-79f8-02c1-04ddc895b229",
+        "create_ts": "2022-05-30T16:17:25.187Z",
+        "last_update_ts": "2022-05-30T16:17:50.806Z",
+        "active_ind": "Y",
+        "file_manager_id": "53d4032b-0f9d-4b70-9638-02b50b2d0f4d",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/WANI-Katie Britt-Britt for Alabama Inc.-EST 2625 Confirmation-053022",
+        "entity_id": "63796",
+        "source_service_code": "AM",
+        "callsign": "WANI",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1734268625214242800,
+        "score": 0.24995682
+      },
+      {
+        "id": "108b422b-6d02-1ec8-1a20-8c01e93e199d",
+        "file_id": "108b422b-6d02-1ec8-1a20-8c01e93e199d",
+        "file_name": "WANI-Katie Britt-Britt for Alabama Inc.-EST 2626 Confirmation-060122",
+        "file_extension": "pdf",
+        "file_size": 146435,
+        "file_status": "com_cpy",
+        "folder_id": "8644ff51-60ac-79f8-02c1-04ddc895b229",
+        "create_ts": "2022-05-30T16:17:25.243Z",
+        "last_update_ts": "2022-05-30T16:17:19.84Z",
+        "active_ind": "Y",
+        "file_manager_id": "106741c1-a82d-4c94-af19-640a4b08a26a",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/WANI-Katie Britt-Britt for Alabama Inc.-EST 2626 Confirmation-060122",
+        "entity_id": "63796",
+        "source_service_code": "AM",
+        "callsign": "WANI",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1734268625359995000,
+        "score": 0.24995682
+      },
       {
         "id": "3eed607e-2433-2dec-fbd6-53661375d226",
         "file_id": "3eed607e-2433-2dec-fbd6-53661375d226",
@@ -174,48 +220,6 @@
         "callsign": "WQWV",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1734120677406933000,
-        "score": 0.24995682
-      },
-      {
-        "id": "7ddd2326-23b1-f6a3-d945-5af3c8867fb3",
-        "file_id": "7ddd2326-23b1-f6a3-d945-5af3c8867fb3",
-        "file_name": "InfoTrak quarterly report, 2021-03_29.5 min",
-        "file_extension": "doc",
-        "file_size": 116224,
-        "file_status": "com_prc",
-        "folder_id": "a0d6a730-03cc-f976-03cc-426062d59c3b",
-        "create_ts": "2022-05-29T01:04:46.408Z",
-        "last_update_ts": "2022-05-29T01:05:08.884Z",
-        "active_ind": "Y",
-        "file_manager_id": "491c3c33-848a-4615-a709-5de0ba64325e",
-        "file_folder_path": "Issues and Programs Lists/2021-3rd-quarter",
-        "full_qualified_file_name": "Issues and Programs Lists/2021-3rd-quarter/InfoTrak quarterly report, 2021-03_29.5 min",
-        "entity_id": "30171",
-        "source_service_code": "FM",
-        "callsign": "WQWV",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1734120610524561400,
-        "score": 0.24995682
-      },
-      {
-        "id": "d0e0947f-1065-1dc2-51e7-844844fd4b4a",
-        "file_id": "d0e0947f-1065-1dc2-51e7-844844fd4b4a",
-        "file_name": "InfoTrak quarterly report, 2022-01_29.5 min",
-        "file_extension": "doc",
-        "file_size": 116736,
-        "file_status": "com_prc",
-        "folder_id": "935aaa28-e226-b98f-b95b-2110cf9e95e0",
-        "create_ts": "2022-05-29T01:01:48.41Z",
-        "last_update_ts": "2022-05-29T01:01:45.11Z",
-        "active_ind": "Y",
-        "file_manager_id": "de2dc796-1bfd-4a5c-bbe3-5f732d0e1704",
-        "file_folder_path": "Issues and Programs Lists/2022-1st-quarter",
-        "full_qualified_file_name": "Issues and Programs Lists/2022-1st-quarter/InfoTrak quarterly report, 2022-01_29.5 min",
-        "entity_id": "60923",
-        "source_service_code": "AM",
-        "callsign": "WELD",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1734120424729477000,
         "score": 0.24995682
       }
     ],
@@ -395,13 +399,13 @@
         "2019": 13899,
         "2020": 124924,
         "2021": 22711,
-        "2022": 33641,
+        "2022": 33643,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 77540,
-        "US Senate": 52910,
+        "US Senate": 52912,
         "US House": 44574,
         "Presidential": 38377,
         "Local": 27229
@@ -440,11 +444,11 @@
         "TV": 250786,
         "CABLE": 130795,
         "FM": 119098,
-        "AM": 45605,
+        "AM": 45607,
         "DBS": 5975
       },
       "political_file_type": {
-        "PA": 241970,
+        "PA": 241972,
         "NCIA": 131620
       }
     }
@@ -461,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 70,
-    "processTime": 78,
-    "responseTime": 79
+    "queryTime": 215,
+    "processTime": 226,
+    "responseTime": 226
   }
 }
