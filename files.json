@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 552264,
+    "numFound": 552266,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "3e86c52e-42de-0225-af89-850ff3f1872f",
+        "file_id": "3e86c52e-42de-0225-af89-850ff3f1872f",
+        "file_name": "ND GOP District 39 Greg Kessel (Senate), Keith Kempenich & Lyn James (House) Confirm_2372-001",
+        "file_extension": "pdf",
+        "file_size": 9148,
+        "file_status": "com_cpy",
+        "folder_id": "97ccf867-a6d6-7203-661e-1541947a2c00",
+        "create_ts": "2022-05-30T21:47:20.067Z",
+        "last_update_ts": "2022-05-30T21:47:46.286Z",
+        "active_ind": "Y",
+        "file_manager_id": "2f0eb53a-7c5b-44d2-89d7-f61cf0d49492",
+        "file_folder_path": "Political Files/2022/State/ND GOP District 39",
+        "full_qualified_file_name": "Political Files/2022/State/ND GOP District 39/ND GOP District 39 Greg Kessel (Senate), Keith Kempenich & Lyn James (House) Confirm_2372-001",
+        "entity_id": "88802",
+        "source_service_code": "FM",
+        "callsign": "KJJM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1734289381676548000,
+        "score": 0.24995682
+      },
+      {
+        "id": "3f9f06d0-2b0a-058a-8494-151973f79a6e",
+        "file_id": "3f9f06d0-2b0a-058a-8494-151973f79a6e",
+        "file_name": "ND GOP District 39 Greg Kessel (Senate), Keith Kempenich & Lyn James (House) Confirm_2372-002",
+        "file_extension": "pdf",
+        "file_size": 9121,
+        "file_status": "com_cpy",
+        "folder_id": "97ccf867-a6d6-7203-661e-1541947a2c00",
+        "create_ts": "2022-05-30T21:47:20.07Z",
+        "last_update_ts": "2022-05-30T21:47:46.09Z",
+        "active_ind": "Y",
+        "file_manager_id": "3991ef67-d843-4427-95c0-8dcabaec0b97",
+        "file_folder_path": "Political Files/2022/State/ND GOP District 39",
+        "full_qualified_file_name": "Political Files/2022/State/ND GOP District 39/ND GOP District 39 Greg Kessel (Senate), Keith Kempenich & Lyn James (House) Confirm_2372-002",
+        "entity_id": "88802",
+        "source_service_code": "FM",
+        "callsign": "KJJM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1734289381474173000,
+        "score": 0.24995682
+      },
       {
         "id": "64abec7d-2230-149a-0dea-512b84c1c5d0",
         "file_id": "64abec7d-2230-149a-0dea-512b84c1c5d0",
@@ -178,52 +224,6 @@
         "callsign": "WYSZ",
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1734265252963418000,
-        "score": 0.24995682
-      },
-      {
-        "id": "4d194567-a0d8-9e75-5822-da8e16607395",
-        "file_id": "4d194567-a0d8-9e75-5822-da8e16607395",
-        "file_name": "Abrams 05292022",
-        "file_extension": "pdf",
-        "file_size": 175218,
-        "file_status": "com_cpy",
-        "folder_id": "8c041cc2-0ba1-de16-8921-76207cda6535",
-        "create_ts": "2022-05-30T14:23:36.885Z",
-        "last_update_ts": "2022-05-30T14:40:06.223Z",
-        "active_ind": "Y",
-        "file_manager_id": "0c91f8b0-0d22-44a8-91da-efbe98041b96",
-        "file_folder_path": "Political Files/2022/State/Abrams for Governor 05292022",
-        "full_qualified_file_name": "Political Files/2022/State/Abrams for Governor 05292022/Abrams 05292022",
-        "entity_id": "36659",
-        "source_service_code": "FM",
-        "callsign": "WHLJ-FM",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1734262475923128300,
-        "score": 0.24995682
-      },
-      {
-        "id": "a8a8bfd7-b15e-0852-4271-0ec4711809cb",
-        "file_id": "a8a8bfd7-b15e-0852-4271-0ec4711809cb",
-        "file_name": "2022-05-28 Jarolimek KMAV",
-        "file_extension": "pdf",
-        "file_size": 992822,
-        "file_status": "com_cpy",
-        "folder_id": "e0c1bb26-07fb-08ba-4a29-d28217d1cff6",
-        "create_ts": "2022-05-29T15:51:37.787Z",
-        "last_update_ts": "2022-05-29T15:51:33.057Z",
-        "active_ind": "Y",
-        "file_manager_id": "e643ad5a-1c57-43fa-8b4d-327bbb0ffa21",
-        "file_folder_path": "Political Files/2022/State/District 20",
-        "full_qualified_file_name": "Political Files/2022/State/District 20/2022-05-28 Jarolimek KMAV",
-        "entity_id": "54335",
-        "source_service_code": "FM",
-        "callsign": "KMAV-FM",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1734176406180462600,
         "score": 0.24995682
       }
     ],
@@ -403,12 +403,12 @@
         "2019": 13899,
         "2020": 124924,
         "2021": 22711,
-        "2022": 33645,
+        "2022": 33647,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 77542,
+        "State": 77544,
         "US Senate": 52912,
         "US House": 44574,
         "Presidential": 38377,
@@ -447,12 +447,12 @@
       "source_service_code": {
         "TV": 250786,
         "CABLE": 130795,
-        "FM": 119099,
+        "FM": 119101,
         "AM": 45609,
         "DBS": 5975
       },
       "political_file_type": {
-        "PA": 241974,
+        "PA": 241976,
         "NCIA": 131620
       }
     }
@@ -469,8 +469,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1818,
-    "processTime": 828,
-    "responseTime": 1829
+    "queryTime": 1829,
+    "processTime": 836,
+    "responseTime": 1837
   }
 }
