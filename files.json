@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 552261,
+    "numFound": 552262,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "7ca31856-4307-5803-e8ac-cc591f9eebb7",
+        "file_id": "7ca31856-4307-5803-e8ac-cc591f9eebb7",
+        "file_name": "Abrams NAB",
+        "file_extension": "PDF",
+        "file_size": 1095275,
+        "file_status": "com_cpy",
+        "folder_id": "8c041cc2-0ba1-de16-8921-76207cda6535",
+        "create_ts": "2022-05-30T17:42:59.103Z",
+        "last_update_ts": "2022-05-30T17:42:53.97Z",
+        "active_ind": "Y",
+        "file_manager_id": "c2d612ec-2091-4cbb-8de9-6d91af153abe",
+        "file_folder_path": "Political Files/2022/State/Abrams for Governor 05292022",
+        "full_qualified_file_name": "Political Files/2022/State/Abrams for Governor 05292022/Abrams NAB",
+        "entity_id": "36659",
+        "source_service_code": "FM",
+        "callsign": "WHLJ-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1734274008906465300,
+        "score": 0.24995682
+      },
       {
         "id": "048e453e-abbf-96b1-cc65-8f09abbdc760",
         "file_id": "048e453e-abbf-96b1-cc65-8f09abbdc760",
@@ -200,27 +223,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1734120751372435500,
         "score": 0.24995682
-      },
-      {
-        "id": "a144baf2-48df-575c-e1e2-95e5afe77469",
-        "file_id": "a144baf2-48df-575c-e1e2-95e5afe77469",
-        "file_name": "InfoTrak quarterly report, 2021-04_29.5 min",
-        "file_extension": "doc",
-        "file_size": 115712,
-        "file_status": "com_prc",
-        "folder_id": "d5aa310c-1092-18b7-2c8c-649a39a90904",
-        "create_ts": "2022-05-29T01:05:49.846Z",
-        "last_update_ts": "2022-05-29T01:05:46.113Z",
-        "active_ind": "Y",
-        "file_manager_id": "3356a03c-543f-4d0c-81ee-d2ff87d3c17b",
-        "file_folder_path": "Issues and Programs Lists/2021-4th-quarter",
-        "full_qualified_file_name": "Issues and Programs Lists/2021-4th-quarter/InfoTrak quarterly report, 2021-04_29.5 min",
-        "entity_id": "30171",
-        "source_service_code": "FM",
-        "callsign": "WQWV",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1734120677406933000,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -399,12 +401,12 @@
         "2019": 13899,
         "2020": 124924,
         "2021": 22711,
-        "2022": 33643,
+        "2022": 33644,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 77540,
+        "State": 77541,
         "US Senate": 52912,
         "US House": 44574,
         "Presidential": 38377,
@@ -443,12 +445,12 @@
       "source_service_code": {
         "TV": 250786,
         "CABLE": 130795,
-        "FM": 119098,
+        "FM": 119099,
         "AM": 45607,
         "DBS": 5975
       },
       "political_file_type": {
-        "PA": 241972,
+        "PA": 241973,
         "NCIA": 131620
       }
     }
@@ -465,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1847,
-    "processTime": 856,
-    "responseTime": 1857
+    "queryTime": 1810,
+    "processTime": 818,
+    "responseTime": 1818
   }
 }
