@@ -1,9 +1,56 @@
 {
   "response": {
-    "numFound": 552266,
+    "numFound": 552268,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "fdf7e26c-6a61-8a19-c8c7-934a7363f527",
+        "file_id": "fdf7e26c-6a61-8a19-c8c7-934a7363f527",
+        "file_name": "Healthcare Rising Arizona Disclosure 05-27-2022",
+        "file_extension": "pdf",
+        "file_size": 50274,
+        "file_status": "com_cpy",
+        "folder_id": "733ad7bc-04b8-17d3-da2c-7048fd613981",
+        "create_ts": "2022-05-31T01:57:14.994Z",
+        "last_update_ts": "2022-05-31T01:57:41.499Z",
+        "active_ind": "Y",
+        "file_manager_id": "d70f9f44-ac36-4c26-bf3e-a693568b7bdb",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Healthcare Rising Arizona/DISCLOSURES",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Healthcare Rising Arizona/DISCLOSURES/Healthcare Rising Arizona Disclosure 05-27-2022",
+        "entity_id": "26655",
+        "source_service_code": "TV",
+        "network_affiliation": "ION",
+        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
+        "callsign": "KPPX-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1734305104854515700,
+        "score": 0.24995682
+      },
+      {
+        "id": "65eefb29-e390-43e5-3c5f-793d8d28c05e",
+        "file_id": "65eefb29-e390-43e5-3c5f-793d8d28c05e",
+        "file_name": "Mary Evans 05-2022",
+        "file_extension": "pdf",
+        "file_size": 1052867,
+        "file_status": "com_cpy",
+        "folder_id": "d10593e8-c2d6-dea2-f619-f87a9f8f21fd",
+        "create_ts": "2022-05-31T01:19:37.238Z",
+        "last_update_ts": "2022-05-31T01:20:04.092Z",
+        "active_ind": "Y",
+        "file_manager_id": "3891a1b6-2a6f-47cd-8ab3-2193c5e0b4ab",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Mary Evans 05-2022",
+        "entity_id": "22191",
+        "source_service_code": "AM",
+        "callsign": "WLNC",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1734302737870356500,
+        "score": 0.24995682
+      },
       {
         "id": "3e86c52e-42de-0225-af89-850ff3f1872f",
         "file_id": "3e86c52e-42de-0225-af89-850ff3f1872f",
@@ -183,48 +230,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1734265589935898600,
         "score": 0.24995682
-      },
-      {
-        "id": "594182ec-321a-efe6-669b-f12ec59fa619",
-        "file_id": "594182ec-321a-efe6-669b-f12ec59fa619",
-        "file_name": "EEO-Public-File-Annual-Report-06.01.21-05.31.22",
-        "file_extension": "pdf",
-        "file_size": 122123,
-        "file_status": "com_cpy",
-        "folder_id": "6d2a265d-fe27-f9c5-f3f6-3587e9074940",
-        "create_ts": "2022-05-30T15:27:28.87Z",
-        "last_update_ts": "2022-05-30T15:27:54.306Z",
-        "active_ind": "Y",
-        "file_manager_id": "3075feea-f364-4387-a2ce-86d85934dc42",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/EEO Public File Annual Reports",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/EEO Public File Annual Reports/EEO-Public-File-Annual-Report-06.01.21-05.31.22",
-        "entity_id": "60277",
-        "source_service_code": "FM",
-        "callsign": "WYSA",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1734265483240145000,
-        "score": 0.24995682
-      },
-      {
-        "id": "deaf6960-1adf-6bad-ada5-5b89fc684d8a",
-        "file_id": "deaf6960-1adf-6bad-ada5-5b89fc684d8a",
-        "file_name": "EEO-Public-File-Annual-Report-06.01.21-05.31.22",
-        "file_extension": "pdf",
-        "file_size": 122123,
-        "file_status": "com_cpy",
-        "folder_id": "03d43e16-331e-ec78-30d4-d72e4f39cb48",
-        "create_ts": "2022-05-30T15:23:49.251Z",
-        "last_update_ts": "2022-05-30T15:24:14.678Z",
-        "active_ind": "Y",
-        "file_manager_id": "ea1264a4-fd1a-4653-9c04-d083d86fd248",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/EEO Public File Annual Reports",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/EEO Public File Annual Reports/EEO-Public-File-Annual-Report-06.01.21-05.31.22",
-        "entity_id": "60276",
-        "source_service_code": "FM",
-        "callsign": "WYSZ",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1734265252963418000,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -277,8 +282,8 @@
         "BLUEFIELD-BECKLEY-OAK HILL": 1760,
         "LINCOLN & HASTINGS-KRNY": 1642,
         "BINGHAMTON": 1578,
+        "PHOENIX (PRESCOTT)": 1562,
         "GREENVLL-SPART-ASHEVLL-AND": 1561,
-        "PHOENIX (PRESCOTT)": 1561,
         "PADUCAH-CAPE GIRARD-HARSBG": 1492,
         "MINOT-BISMARCK-DICKINSON": 1452,
         "FARGO-VALLEY CITY": 1446,
@@ -345,7 +350,7 @@
         "FAMILYNET": 923,
         "TELEMUNDO": 918,
         "MNT": 902,
-        "ION": 788,
+        "ION": 789,
         "N/A": 654,
         "UNIMAS": 616,
         "CBS/CW": 564,
@@ -403,7 +408,7 @@
         "2019": 13899,
         "2020": 124924,
         "2021": 22711,
-        "2022": 33647,
+        "2022": 33649,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -412,7 +417,7 @@
         "US Senate": 52912,
         "US House": 44574,
         "Presidential": 38377,
-        "Local": 27229
+        "Local": 27230
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
@@ -445,15 +450,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 250786,
+        "TV": 250787,
         "CABLE": 130795,
         "FM": 119101,
-        "AM": 45609,
+        "AM": 45610,
         "DBS": 5975
       },
       "political_file_type": {
-        "PA": 241976,
-        "NCIA": 131620
+        "PA": 241977,
+        "NCIA": 131621
       }
     }
   },
@@ -469,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1844,
-    "processTime": 851,
-    "responseTime": 1852
+    "queryTime": 216,
+    "processTime": 223,
+    "responseTime": 224
   }
 }
