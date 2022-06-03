@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 554154,
+    "numFound": 554155,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "f1a67afe-446e-5451-02da-1261effcf956",
+        "file_id": "f1a67afe-446e-5451-02da-1261effcf956",
+        "file_name": "heidi-st-john-for-congress-wa-03-invoice-3518740562-2101476143-11271pdf",
+        "file_extension": "pdf",
+        "file_size": 33859,
+        "file_status": "com_cpy",
+        "folder_id": "a4cf1771-03db-f7a6-b09f-045c97b10c87",
+        "create_ts": "2022-06-03T05:40:31.832Z",
+        "last_update_ts": "2022-06-03T05:41:06.079Z",
+        "active_ind": "Y",
+        "file_manager_id": "53410ba0-643e-4648-92fc-4b74d5711aaf",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/heidi-st-john-for-congress-wa-03-invoice-3518740562-2101476143-11271pdf",
+        "entity_id": "11271",
+        "source_service_code": "AM",
+        "callsign": "KEX",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1734590943394267100,
+        "score": 0.24995682
+      },
       {
         "id": "9ab6b085-b684-245b-22ad-85243b384b08",
         "file_id": "9ab6b085-b684-245b-22ad-85243b384b08",
@@ -218,31 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1734578724261593000,
         "score": 0.24995682
-      },
-      {
-        "id": "435a7fc2-d049-b99e-d60c-db04cc84daca",
-        "file_id": "435a7fc2-d049-b99e-d60c-db04cc84daca",
-        "file_name": "PattyMurrayforSenate_KONG-TV_060722-061322_053122_51757PM",
-        "file_extension": "pdf",
-        "file_size": 6769,
-        "file_status": "com_cpy",
-        "folder_id": "0e3438d0-5044-2fc8-bc24-200162bf25d8",
-        "create_ts": "2022-06-03T01:17:36.147Z",
-        "last_update_ts": "2022-06-03T01:18:09.854Z",
-        "active_ind": "Y",
-        "file_manager_id": "64e68803-20ad-4bdc-bc11-39cc8fa785f9",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Patty Murray  D  US Senate  WA",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Patty Murray  D  US Senate  WA/PattyMurrayforSenate_KONG-TV_060722-061322_053122_51757PM",
-        "entity_id": "35396",
-        "source_service_code": "TV",
-        "network_affiliation": "IND",
-        "nielsen_dma_rank": "SEATTLE-TACOMA",
-        "callsign": "KONG",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1734574401297318000,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -421,14 +419,14 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 35552,
+        "2022": 35553,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 78209,
         "US Senate": 53078,
-        "US House": 44913,
+        "US House": 44914,
         "Presidential": 38375,
         "Local": 27383
       },
@@ -466,11 +464,11 @@
         "TV": 251804,
         "CABLE": 130964,
         "FM": 119486,
-        "AM": 45866,
+        "AM": 45867,
         "DBS": 6034
       },
       "political_file_type": {
-        "PA": 243306,
+        "PA": 243307,
         "NCIA": 132189
       }
     }
@@ -487,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1837,
-    "processTime": 847,
-    "responseTime": 1848
+    "queryTime": 1865,
+    "processTime": 876,
+    "responseTime": 1877
   }
 }
