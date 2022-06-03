@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 554152,
+    "numFound": 554154,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "9ab6b085-b684-245b-22ad-85243b384b08",
+        "file_id": "9ab6b085-b684-245b-22ad-85243b384b08",
+        "file_name": "EEO 2022 Report for WMUK-WKDS Station Employment Unit-CORRECTED AND UPDATED 2022-06-02",
+        "file_extension": "pdf",
+        "file_size": 263294,
+        "file_status": "com_cpy",
+        "folder_id": "78f829a9-19cc-67d8-715b-4d60324ef547",
+        "create_ts": "2022-06-03T03:50:57.177Z",
+        "last_update_ts": "2022-06-03T03:51:31.269Z",
+        "active_ind": "Y",
+        "file_manager_id": "14765467-e67d-46b6-a510-410da853ccaf",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2022",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2022/EEO 2022 Report for WMUK-WKDS Station Employment Unit-CORRECTED AND UPDATED 2022-06-02",
+        "entity_id": "4198",
+        "source_service_code": "FM",
+        "callsign": "WKDS",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1734584049409720300,
+        "score": 0.24995682
+      },
+      {
+        "id": "78955b86-a39c-0ff4-de47-a62e794f27b1",
+        "file_id": "78955b86-a39c-0ff4-de47-a62e794f27b1",
+        "file_name": "EEO 2022 Report for WMUK-WKDS Station Employment Unit-CORRECTED AND UPDATED 2022-06-02",
+        "file_extension": "pdf",
+        "file_size": 263294,
+        "file_status": "com_cpy",
+        "folder_id": "d09bfa11-92e2-869a-b63b-9334d0b871ab",
+        "create_ts": "2022-06-03T03:49:39.501Z",
+        "last_update_ts": "2022-06-03T03:50:13.639Z",
+        "active_ind": "Y",
+        "file_manager_id": "1a16dc63-b4b1-4e30-b1a6-e68165f231db",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2022",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2022/EEO 2022 Report for WMUK-WKDS Station Employment Unit-CORRECTED AND UPDATED 2022-06-02",
+        "entity_id": "71874",
+        "source_service_code": "FM",
+        "callsign": "WMUK",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1734583968008765400,
+        "score": 0.24995682
+      },
       {
         "id": "78450597-b2dd-da58-cfc6-ca650448158b",
         "file_id": "78450597-b2dd-da58-cfc6-ca650448158b",
@@ -201,56 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1734574401297318000,
         "score": 0.24995682
-      },
-      {
-        "id": "3658e017-ae08-2973-d5c9-a23cb38171f7",
-        "file_id": "3658e017-ae08-2973-d5c9-a23cb38171f7",
-        "file_name": "PattyMurrayforSenate_KONG-TV_060222-060622_053122_51730PM",
-        "file_extension": "pdf",
-        "file_size": 7965,
-        "file_status": "com_cpy",
-        "folder_id": "0e3438d0-5044-2fc8-bc24-200162bf25d8",
-        "create_ts": "2022-06-03T01:17:36.165Z",
-        "last_update_ts": "2022-06-03T01:17:29.548Z",
-        "active_ind": "Y",
-        "file_manager_id": "d6b044fb-74bd-4163-9d03-b38d49cc6410",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Patty Murray  D  US Senate  WA",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Patty Murray  D  US Senate  WA/PattyMurrayforSenate_KONG-TV_060222-060622_053122_51730PM",
-        "entity_id": "35396",
-        "source_service_code": "TV",
-        "network_affiliation": "IND",
-        "nielsen_dma_rank": "SEATTLE-TACOMA",
-        "callsign": "KONG",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1734574401330872300,
-        "score": 0.24995682
-      },
-      {
-        "id": "545d18b4-9c1c-56fe-f48f-893c2d1a61b8",
-        "file_id": "545d18b4-9c1c-56fe-f48f-893c2d1a61b8",
-        "file_name": "PattyMurrayforSenate_KING-TV_060722-061322_053122_51752PM",
-        "file_extension": "pdf",
-        "file_size": 10282,
-        "file_status": "com_cpy",
-        "folder_id": "9932c1a1-95b8-7b1b-f4ee-d4a05fdcecaa",
-        "create_ts": "2022-06-03T01:05:08.084Z",
-        "last_update_ts": "2022-06-03T01:05:41.759Z",
-        "active_ind": "Y",
-        "file_manager_id": "71cc794e-ec8e-48b2-ac5e-81b41d36aba8",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Patty Murray  D  US Senate  WA",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Patty Murray  D  US Senate  WA/PattyMurrayforSenate_KING-TV_060722-061322_053122_51752PM",
-        "entity_id": "34847",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "SEATTLE-TACOMA",
-        "callsign": "KING-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1734573616882778000,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -443,7 +435,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
         "Issues and Programs Lists": 46124,
-        "Equal Employment Opportunity Records": 37640,
+        "Equal Employment Opportunity Records": 37642,
         "Donor Lists - Applicable Only for NCEs": 12145,
         "FCC Authorizations": 7404,
         "Local Public Notice Announcements": 1892,
@@ -473,7 +465,7 @@
       "source_service_code": {
         "TV": 251804,
         "CABLE": 130964,
-        "FM": 119484,
+        "FM": 119486,
         "AM": 45866,
         "DBS": 6034
       },
@@ -495,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1808,
-    "processTime": 818,
-    "responseTime": 1819
+    "queryTime": 1840,
+    "processTime": 848,
+    "responseTime": 1848
   }
 }
