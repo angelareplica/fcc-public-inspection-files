@@ -5,6 +5,31 @@
     "maxScore": 0.5001636,
     "docs": [
       {
+        "id": "6e3c1706-462d-b959-cdee-e97f2e1199e3",
+        "file_id": "6e3c1706-462d-b959-cdee-e97f2e1199e3",
+        "file_name": "Bailey for Illinois 05.31.22-06.06.22 #341211 Rev 3",
+        "file_extension": "pdf",
+        "file_size": 306136,
+        "file_status": "com_cpy",
+        "folder_id": "89f45bb2-884a-90a1-041a-c69654660e98",
+        "create_ts": "2022-06-03T23:10:19.437Z",
+        "last_update_ts": "2022-06-03T23:33:18.711Z",
+        "active_ind": "Y",
+        "file_manager_id": "42f41bc4-c2bf-4416-a702-3ed8fe9797a0",
+        "file_folder_path": "Political Files/2022/State/Bailey for Illinois",
+        "full_qualified_file_name": "Political Files/2022/State/Bailey for Illinois/Bailey for Illinois 05.31.22-06.06.22 #341211 Rev 3",
+        "entity_id": "73226",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "CHICAGO",
+        "callsign": "WLS-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1734658444678398000,
+        "score": 0.24995682
+      },
+      {
         "id": "b8b089ee-5b83-4ba7-db9d-31a1e737210e",
         "file_id": "b8b089ee-5b83-4ba7-db9d-31a1e737210e",
         "file_name": "Casten for Congress 06.06.22-06.10.22 #341642",
@@ -27,31 +52,6 @@
         "office_type": "US House",
         "campaign_year": "2022",
         "_version_": 1734657079753310200,
-        "score": 0.24995682
-      },
-      {
-        "id": "6e3c1706-462d-b959-cdee-e97f2e1199e3",
-        "file_id": "6e3c1706-462d-b959-cdee-e97f2e1199e3",
-        "file_name": "Bailey for Illinois 05.31.22-06.06.22 #341211 Rev 3",
-        "file_extension": "pdf",
-        "file_size": 306136,
-        "file_status": "com_cpy",
-        "folder_id": "89f45bb2-884a-90a1-041a-c69654660e98",
-        "create_ts": "2022-06-03T23:10:19.437Z",
-        "last_update_ts": "2022-06-03T23:10:55.479Z",
-        "active_ind": "Y",
-        "file_manager_id": "42f41bc4-c2bf-4416-a702-3ed8fe9797a0",
-        "file_folder_path": "Political Files/2022/State/Bailey for Illinois",
-        "full_qualified_file_name": "Political Files/2022/State/Bailey for Illinois/Bailey for Illinois 05.31.22-06.06.22 #341211 Rev 3",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1734656990657904600,
         "score": 0.24995682
       },
       {
@@ -481,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 218,
-    "responseTime": 219
+    "queryTime": 1627,
+    "processTime": 635,
+    "responseTime": 1635
   }
 }
