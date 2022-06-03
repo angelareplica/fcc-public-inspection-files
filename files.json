@@ -1,9 +1,54 @@
 {
   "response": {
-    "numFound": 554223,
+    "numFound": 554225,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "b6e1b439-b745-237a-b594-7edb02c14d1b",
+        "file_id": "b6e1b439-b745-237a-b594-7edb02c14d1b",
+        "file_name": "Florida-First-Project-Political-PFD-06-03-2022",
+        "file_extension": "pdf",
+        "file_size": 51697,
+        "file_status": "com_cpy",
+        "folder_id": "5fd259e6-8b80-d003-e554-5f23716d7a78",
+        "create_ts": "2022-06-03T14:42:08.45Z",
+        "last_update_ts": "2022-06-03T14:42:11.059Z",
+        "active_ind": "Y",
+        "file_manager_id": "ee1dcef5-3536-49c9-a728-4902b14b9e44",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Florida First Project",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Florida First Project/Florida-First-Project-Political-PFD-06-03-2022",
+        "entity_id": "64588",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "TAMPA-ST. PETE (SARASOTA)",
+        "callsign": "WFTS-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1734625018598391800,
+        "score": 0.24995682
+      },
+      {
+        "id": "3505303d-dee0-1a49-2aa6-53a504b09de2",
+        "file_id": "3505303d-dee0-1a49-2aa6-53a504b09de2",
+        "file_name": "WHYL STA EXT 052622 granted",
+        "file_extension": "pdf",
+        "file_size": 117285,
+        "file_status": "com_cpy",
+        "folder_id": "f89475b7-1c79-a068-db31-5320a731daff",
+        "create_ts": "2022-06-03T14:38:30.263Z",
+        "last_update_ts": "2022-06-03T14:39:05.378Z",
+        "active_ind": "Y",
+        "file_manager_id": "4b39bd79-de9e-403b-94fa-65c685033e49",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/WHYL STA EXT 052622 granted",
+        "entity_id": "74556",
+        "source_service_code": "AM",
+        "callsign": "WHYL",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1734624789703688200,
+        "score": 0.24995682
+      },
       {
         "id": "75f937f1-8328-f694-dc04-868f9acd5909",
         "file_id": "75f937f1-8328-f694-dc04-868f9acd5909",
@@ -187,54 +232,6 @@
         "campaign_year": "2022",
         "_version_": 1734623189039841300,
         "score": 0.24995682
-      },
-      {
-        "id": "571fc10d-5f89-bab3-69e6-9d599e6402ec",
-        "file_id": "571fc10d-5f89-bab3-69e6-9d599e6402ec",
-        "file_name": "Taxpayers Protection Alliance EST 2649 0610-061622 WDRB",
-        "file_extension": "pdf",
-        "file_size": 69745,
-        "file_status": "com_cpy",
-        "folder_id": "b9a9289e-65b7-9a40-2eff-6a702804c4a2",
-        "create_ts": "2022-06-03T14:12:45.43Z",
-        "last_update_ts": "2022-06-03T14:12:38.719Z",
-        "active_ind": "Y",
-        "file_manager_id": "20bde1d5-f39a-48d0-8cc6-bf550778074e",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance/Taxpayers Protection Alliance EST 2649 0610-061622 WDRB",
-        "entity_id": "28476",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LOUISVILLE",
-        "callsign": "WDRB",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1734623169868726300,
-        "score": 0.24995682
-      },
-      {
-        "id": "5036ced9-0a74-f313-5e36-3c71edb4dfaa",
-        "file_id": "5036ced9-0a74-f313-5e36-3c71edb4dfaa",
-        "file_name": "Taxpayers Protection Alliance EST 2650 0617-062322 WDRB",
-        "file_extension": "pdf",
-        "file_size": 69736,
-        "file_status": "com_cpy",
-        "folder_id": "b9a9289e-65b7-9a40-2eff-6a702804c4a2",
-        "create_ts": "2022-06-03T14:12:45.006Z",
-        "last_update_ts": "2022-06-03T14:12:38.337Z",
-        "active_ind": "Y",
-        "file_manager_id": "0c684217-1238-4b8b-a7c1-dd956bac5c25",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance/Taxpayers Protection Alliance EST 2650 0617-062322 WDRB",
-        "entity_id": "28476",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LOUISVILLE",
-        "callsign": "WDRB",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1734623169470267400,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -274,7 +271,7 @@
         "PHILADELPHIA": 2307,
         "Greenville-Spartanburg-Asheville-Anderson": 2290,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2185,
-        "TAMPA-ST. PETE (SARASOTA)": 2158,
+        "TAMPA-ST. PETE (SARASOTA)": 2159,
         "LEXINGTON": 2147,
         "ROCKFORD": 2060,
         "LA CROSSE-EAU CLAIRE": 2045,
@@ -341,7 +338,7 @@
         "BOSTON (MANCHESTER)": 620
       },
       "network_affiliation": {
-        "ABC": 62688,
+        "ABC": 62689,
         "NBC": 59902,
         "CBS": 41532,
         "FOX": 29693,
@@ -413,7 +410,7 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 35621,
+        "2022": 35622,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -429,7 +426,7 @@
         "Issues and Programs Lists": 46124,
         "Equal Employment Opportunity Records": 37642,
         "Donor Lists - Applicable Only for NCEs": 12145,
-        "FCC Authorizations": 7404,
+        "FCC Authorizations": 7405,
         "Local Public Notice Announcements": 1892,
         "Availability of Signals": 1878,
         "Applications and Related Materials": 1703,
@@ -455,15 +452,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 251823,
+        "TV": 251824,
         "CABLE": 130997,
         "FM": 119494,
-        "AM": 45875,
+        "AM": 45876,
         "DBS": 6034
       },
       "political_file_type": {
         "PA": 243352,
-        "NCIA": 132212
+        "NCIA": 132213
       }
     }
   },
@@ -479,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1807,
-    "processTime": 817,
-    "responseTime": 1817
+    "queryTime": 1850,
+    "processTime": 859,
+    "responseTime": 1859
   }
 }
