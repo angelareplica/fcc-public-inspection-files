@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 554810,
+    "numFound": 554812,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "dff2d3a3-54c5-3396-ceaa-3be3f53dc0f4",
+        "file_id": "dff2d3a3-54c5-3396-ceaa-3be3f53dc0f4",
+        "file_name": "Inv_22050191_Sandy Roberson for NC_May 2022",
+        "file_extension": "pdf",
+        "file_size": 69936,
+        "file_status": "com_cpy",
+        "folder_id": "56b333a0-1654-4236-9641-6490e008da71",
+        "create_ts": "2022-06-04T21:04:10.313Z",
+        "last_update_ts": "2022-06-04T21:04:03.302Z",
+        "active_ind": "Y",
+        "file_manager_id": "fbc25a3c-d323-4fb3-b6c1-6568f0d93d3e",
+        "file_folder_path": "Political Files/2022/Federal/US House/US HOUSE OF REPRESENTATIVES DISTRICT 01/Sandy Roberson",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/US HOUSE OF REPRESENTATIVES DISTRICT 01/Sandy Roberson/Inv_22050191_Sandy Roberson for NC_May 2022",
+        "entity_id": "57674",
+        "source_service_code": "AM",
+        "callsign": "WIZS",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1734739650858188800,
+        "score": 0.24995682
+      },
+      {
+        "id": "4e692811-35c3-3f51-e130-9bcf372c737a",
+        "file_id": "4e692811-35c3-3f51-e130-9bcf372c737a",
+        "file_name": "Inv_22050190_Sandy Roberson for NC_May 2022",
+        "file_extension": "pdf",
+        "file_size": 67945,
+        "file_status": "com_cpy",
+        "folder_id": "56b333a0-1654-4236-9641-6490e008da71",
+        "create_ts": "2022-06-04T21:03:17.448Z",
+        "last_update_ts": "2022-06-04T21:03:19.936Z",
+        "active_ind": "Y",
+        "file_manager_id": "f4d98226-d2a5-42a3-b02d-4aa0975d1128",
+        "file_folder_path": "Political Files/2022/Federal/US House/US HOUSE OF REPRESENTATIVES DISTRICT 01/Sandy Roberson",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/US HOUSE OF REPRESENTATIVES DISTRICT 01/Sandy Roberson/Inv_22050190_Sandy Roberson for NC_May 2022",
+        "entity_id": "57674",
+        "source_service_code": "AM",
+        "callsign": "WIZS",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1734739595368595500,
+        "score": 0.24995682
+      },
       {
         "id": "fdb40673-3c1d-0c16-a742-4cb79869527d",
         "file_id": "fdb40673-3c1d-0c16-a742-4cb79869527d",
@@ -187,52 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1734728647549386800,
         "score": 0.24995682
-      },
-      {
-        "id": "15971fda-5b6d-7ee8-cc2d-5e634196846c",
-        "file_id": "15971fda-5b6d-7ee8-cc2d-5e634196846c",
-        "file_name": "America United Est 11824 KBCQ 060422",
-        "file_extension": "pdf",
-        "file_size": 4370312,
-        "file_status": "com_cpy",
-        "folder_id": "26202eac-6aaa-1e94-c572-4cd143a782d9",
-        "create_ts": "2022-06-04T18:06:27.627Z",
-        "last_update_ts": "2022-06-04T18:06:31.438Z",
-        "active_ind": "Y",
-        "file_manager_id": "5f5737d6-0da6-40a0-b26b-13ed400b3a9f",
-        "file_folder_path": "Political Files/2022/Federal/US House",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/America United Est 11824 KBCQ 060422",
-        "entity_id": "57722",
-        "source_service_code": "FM",
-        "callsign": "KBCQ-FM",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1734728471549051000,
-        "score": 0.24995682
-      },
-      {
-        "id": "d7760646-2b29-b99e-a42a-0f67cd9942c3",
-        "file_id": "d7760646-2b29-b99e-a42a-0f67cd9942c3",
-        "file_name": "Nicole Rogers for Magistrate Judge - Order 3094-00005 KBCQ 060422",
-        "file_extension": "pdf",
-        "file_size": 3381312,
-        "file_status": "com_cpy",
-        "folder_id": "e89221d3-f3a4-c0ca-28d3-ef43de18a9f7",
-        "create_ts": "2022-06-04T18:04:40.77Z",
-        "last_update_ts": "2022-06-04T18:04:34.964Z",
-        "active_ind": "Y",
-        "file_manager_id": "6ac020f0-7316-4693-866a-f940c635d661",
-        "file_folder_path": "Political Files/2022/Local/Nicole Rogers for Magistrate Judge 2022",
-        "full_qualified_file_name": "Political Files/2022/Local/Nicole Rogers for Magistrate Judge 2022/Nicole Rogers for Magistrate Judge - Order 3094-00005 KBCQ 060422",
-        "entity_id": "57722",
-        "source_service_code": "FM",
-        "callsign": "KBCQ-FM",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1734728359401750500,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -411,14 +411,14 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 36185,
+        "2022": 36187,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 78373,
         "US Senate": 53105,
-        "US House": 45103,
+        "US House": 45105,
         "Presidential": 38375,
         "Local": 27499
       },
@@ -456,11 +456,11 @@
         "TV": 252045,
         "CABLE": 131071,
         "FM": 119707,
-        "AM": 45950,
+        "AM": 45952,
         "DBS": 6037
       },
       "political_file_type": {
-        "PA": 243800,
+        "PA": 243802,
         "NCIA": 132328
       }
     }
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1880,
-    "processTime": 888,
-    "responseTime": 1888
+    "queryTime": 1868,
+    "processTime": 879,
+    "responseTime": 1879
   }
 }
