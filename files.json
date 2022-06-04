@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 554768,
+    "numFound": 554769,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "0c72ff21-4275-e71a-3b56-bbbb551268e6",
+        "file_id": "0c72ff21-4275-e71a-3b56-bbbb551268e6",
+        "file_name": "KSCQ-FM American United 060422 to 060722",
+        "file_extension": "pdf",
+        "file_size": 296751,
+        "file_status": "com_cpy",
+        "folder_id": "e5f47949-7f0b-e393-605c-ce6367b06ef3",
+        "create_ts": "2022-06-04T15:32:37.432Z",
+        "last_update_ts": "2022-06-04T15:32:40.117Z",
+        "active_ind": "Y",
+        "file_manager_id": "93874d3b-b730-4a18-aca2-15acee293540",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/KSCQ-FM American United 060422 to 060722",
+        "entity_id": "3367",
+        "source_service_code": "FM",
+        "callsign": "KSCQ",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1734718791781187600,
+        "score": 0.24995682
+      },
       {
         "id": "06b236d8-4825-b13c-e533-5613cad95c3c",
         "file_id": "06b236d8-4825-b13c-e533-5613cad95c3c",
@@ -228,31 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1734673113004638200,
         "score": 0.24995682
-      },
-      {
-        "id": "f3ba0335-d682-2e8e-faa5-47ded82d678c",
-        "file_id": "f3ba0335-d682-2e8e-faa5-47ded82d678c",
-        "file_name": "Monica-Tranel-for-Montana-Political-PFD-04-18-2022 Update 6-3-22",
-        "file_extension": "pdf",
-        "file_size": 61266,
-        "file_status": "com_cpy",
-        "folder_id": "fd40ea32-54dd-0953-ce3a-2115ac413f55",
-        "create_ts": "2022-06-04T03:23:23.224Z",
-        "last_update_ts": "2022-06-04T03:23:25.879Z",
-        "active_ind": "Y",
-        "file_manager_id": "d47c5a95-0365-48aa-aca1-049485a5932d",
-        "file_folder_path": "Political Files/2022/Federal/US House/Monica Tranel/PFDs",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Monica Tranel/PFDs/Monica-Tranel-for-Montana-Political-PFD-04-18-2022 Update 6-3-22",
-        "entity_id": "35959",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "BUTTE-BOZEMAN",
-        "callsign": "KXLF-TV",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1734672912145711000,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -431,7 +428,7 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 36143,
+        "2022": 36144,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -475,13 +472,13 @@
       "source_service_code": {
         "TV": 252026,
         "CABLE": 131071,
-        "FM": 119694,
+        "FM": 119695,
         "AM": 45940,
         "DBS": 6037
       },
       "political_file_type": {
         "PA": 243759,
-        "NCIA": 132327
+        "NCIA": 132328
       }
     }
   },
@@ -497,8 +494,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1855,
-    "processTime": 861,
-    "responseTime": 1862
+    "queryTime": 1822,
+    "processTime": 828,
+    "responseTime": 1829
   }
 }
