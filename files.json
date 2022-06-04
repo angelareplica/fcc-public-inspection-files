@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 554763,
+    "numFound": 554764,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "3e866659-031c-a56c-d825-6be240d4775a",
+        "file_id": "3e866659-031c-a56c-d825-6be240d4775a",
+        "file_name": "698838_Invoice_20220603090547",
+        "file_extension": "pdf",
+        "file_size": 133387,
+        "file_status": "com_cpy",
+        "folder_id": "dd5c52c0-161d-2940-30af-c4bbd06947ad",
+        "create_ts": "2022-06-04T05:59:14.358Z",
+        "last_update_ts": "2022-06-04T05:59:07.445Z",
+        "active_ind": "Y",
+        "file_manager_id": "e6385a1a-4170-4911-be77-4049d8965caa",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698838_Invoice_20220603090547",
+        "entity_id": "008680",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS/INDIANA/MICHIGAN INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1734682717351575600,
+        "score": 0.00012497841
+      },
       {
         "id": "22fb40cb-b345-8c0c-612e-e310ab7411cf",
         "file_id": "22fb40cb-b345-8c0c-612e-e310ab7411cf",
@@ -216,28 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1734671949514145800,
         "score": 0.24995682
-      },
-      {
-        "id": "8418056f-47f5-0fe6-5c50-0de73c3f4873",
-        "file_id": "8418056f-47f5-0fe6-5c50-0de73c3f4873",
-        "file_name": "060322 - Maston - KAIM-FM invoice - 583470C-1",
-        "file_extension": "pdf",
-        "file_size": 305426,
-        "file_status": "com_cpy",
-        "folder_id": "43b8c029-da86-9e98-fb3a-1739fd58aaed",
-        "create_ts": "2022-06-04T03:03:39.473Z",
-        "last_update_ts": "2022-06-04T03:03:42.151Z",
-        "active_ind": "Y",
-        "file_manager_id": "7c0f9104-d261-424f-8b51-4f4c02abe181",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Matson",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Matson/060322 - Maston - KAIM-FM invoice - 583470C-1",
-        "entity_id": "10950",
-        "source_service_code": "FM",
-        "callsign": "KAIM-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1734671670913794000,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -416,7 +419,7 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 36138,
+        "2022": 36139,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -425,7 +428,7 @@
         "US Senate": 53104,
         "US House": 45067,
         "Presidential": 38375,
-        "Local": 27490
+        "Local": 27491
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
@@ -459,13 +462,13 @@
       },
       "source_service_code": {
         "TV": 252026,
-        "CABLE": 131066,
+        "CABLE": 131067,
         "FM": 119694,
         "AM": 45940,
         "DBS": 6037
       },
       "political_file_type": {
-        "PA": 243754,
+        "PA": 243755,
         "NCIA": 132327
       }
     }
@@ -482,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 286,
-    "processTime": 292,
-    "responseTime": 293
+    "queryTime": 1844,
+    "processTime": 855,
+    "responseTime": 1856
   }
 }
