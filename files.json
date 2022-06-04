@@ -5,6 +5,29 @@
     "maxScore": 0.5001636,
     "docs": [
       {
+        "id": "a593644a-b18f-bea1-f9a6-45c799c452ae",
+        "file_id": "a593644a-b18f-bea1-f9a6-45c799c452ae",
+        "file_name": "Nicole Rogers for Magistrate Judge - Order 3094-00003 KMOU 060422",
+        "file_extension": "pdf",
+        "file_size": 3389401,
+        "file_status": "com_cpy",
+        "folder_id": "e15ad70e-a64b-cc5c-c157-3c1e0056aa24",
+        "create_ts": "2022-06-04T18:13:43.73Z",
+        "last_update_ts": "2022-06-04T18:30:05.554Z",
+        "active_ind": "Y",
+        "file_manager_id": "db8e27fa-1a78-43db-8fec-07dc13d05dc2",
+        "file_folder_path": "Political Files/2022/Local/Nicole Rogers for Magistrate Judge 2022",
+        "full_qualified_file_name": "Political Files/2022/Local/Nicole Rogers for Magistrate Judge 2022/Nicole Rogers for Magistrate Judge - Order 3094-00003 KMOU 060422",
+        "entity_id": "14927",
+        "source_service_code": "FM",
+        "callsign": "KMOU",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1734729917073981400,
+        "score": 0.24995682
+      },
+      {
         "id": "5e63bc7e-9825-5d03-58fe-aee2c77996c8",
         "file_id": "5e63bc7e-9825-5d03-58fe-aee2c77996c8",
         "file_name": "America United Est 11824 KQAY 060422",
@@ -71,29 +94,6 @@
         "office_type": "US House",
         "campaign_year": "2022",
         "_version_": 1734729031988805600,
-        "score": 0.24995682
-      },
-      {
-        "id": "a593644a-b18f-bea1-f9a6-45c799c452ae",
-        "file_id": "a593644a-b18f-bea1-f9a6-45c799c452ae",
-        "file_name": "Nicole Rogers for Magistrate Judge - Order 3094-00003 KMOU 060422",
-        "file_extension": "pdf",
-        "file_size": 3389401,
-        "file_status": "com_cpy",
-        "folder_id": "e15ad70e-a64b-cc5c-c157-3c1e0056aa24",
-        "create_ts": "2022-06-04T18:13:43.73Z",
-        "last_update_ts": "2022-06-04T18:14:22.77Z",
-        "active_ind": "Y",
-        "file_manager_id": "db8e27fa-1a78-43db-8fec-07dc13d05dc2",
-        "file_folder_path": "Political Files/2022/Local/Nicole Rogers for Magistrate Judge 2022",
-        "full_qualified_file_name": "Political Files/2022/Local/Nicole Rogers for Magistrate Judge 2022/Nicole Rogers for Magistrate Judge - Order 3094-00003 KMOU 060422",
-        "entity_id": "14927",
-        "source_service_code": "FM",
-        "callsign": "KMOU",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1734728928505888800,
         "score": 0.24995682
       },
       {
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 213,
-    "processTime": 222,
-    "responseTime": 222
+    "queryTime": 1812,
+    "processTime": 821,
+    "responseTime": 1821
   }
 }
