@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 554769,
+    "numFound": 554770,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "605ad80a-66d7-a9f3-9cae-3360e4410b30",
+        "file_id": "605ad80a-66d7-a9f3-9cae-3360e4410b30",
+        "file_name": "Luke Holland for Senate 2576205 060422",
+        "file_extension": "pdf",
+        "file_size": 4032145,
+        "file_status": "com_cpy",
+        "folder_id": "14dc575f-95b0-5e56-2e1a-7877253d747f",
+        "create_ts": "2022-06-04T16:18:21.265Z",
+        "last_update_ts": "2022-06-04T16:19:00.217Z",
+        "active_ind": "Y",
+        "file_manager_id": "d2533707-f0c8-4100-b4e1-db34ba86043d",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Luke Holland for Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Luke Holland for Senate/Luke Holland for Senate 2576205 060422",
+        "entity_id": "35645",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "WICHITA FALLS & LAWTON",
+        "callsign": "KSWO-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1734721675395596300,
+        "score": 0.24995682
+      },
       {
         "id": "0c72ff21-4275-e71a-3b56-bbbb551268e6",
         "file_id": "0c72ff21-4275-e71a-3b56-bbbb551268e6",
@@ -225,31 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1734678823683752000,
         "score": 0.00012497841
-      },
-      {
-        "id": "1b0bc40e-e474-65c1-5d40-692c11258fdf",
-        "file_id": "1b0bc40e-e474-65c1-5d40-692c11258fdf",
-        "file_name": "Monica-Tranel-for-Montana-Political-PFD-04-18-2022 Update 6-3-22",
-        "file_extension": "pdf",
-        "file_size": 61266,
-        "file_status": "com_cpy",
-        "folder_id": "6f84f6ef-df53-12f4-4186-3c67c527b6c7",
-        "create_ts": "2022-06-04T03:26:34.863Z",
-        "last_update_ts": "2022-06-04T03:26:28.047Z",
-        "active_ind": "Y",
-        "file_manager_id": "23992624-1029-4395-a20b-b9c9e2fbcc94",
-        "file_folder_path": "Political Files/2022/Federal/US House/Monica Tranel/PFDs",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Monica Tranel/PFDs/Monica-Tranel-for-Montana-Political-PFD-04-18-2022 Update 6-3-22",
-        "entity_id": "33756",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "BUTTE-BOZEMAN",
-        "callsign": "KBZK",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1734673113004638200,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -356,7 +356,7 @@
         "BOSTON (MANCHESTER)": 620
       },
       "network_affiliation": {
-        "ABC": 62746,
+        "ABC": 62747,
         "NBC": 59944,
         "CBS": 41589,
         "FOX": 29717,
@@ -428,13 +428,13 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 36144,
+        "2022": 36145,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 78373,
-        "US Senate": 53104,
+        "US Senate": 53105,
         "US House": 45067,
         "Presidential": 38375,
         "Local": 27495
@@ -470,14 +470,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 252026,
+        "TV": 252027,
         "CABLE": 131071,
         "FM": 119695,
         "AM": 45940,
         "DBS": 6037
       },
       "political_file_type": {
-        "PA": 243759,
+        "PA": 243760,
         "NCIA": 132328
       }
     }
@@ -494,8 +494,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1822,
-    "processTime": 828,
-    "responseTime": 1829
+    "queryTime": 214,
+    "processTime": 223,
+    "responseTime": 224
   }
 }
