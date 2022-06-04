@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 554766,
+    "numFound": 554768,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "06b236d8-4825-b13c-e533-5613cad95c3c",
+        "file_id": "06b236d8-4825-b13c-e533-5613cad95c3c",
+        "file_name": "Natalie Mai for District Judge 06.20-06.28.22 2191",
+        "file_extension": "pdf",
+        "file_size": 179695,
+        "file_status": "com_cpy",
+        "folder_id": "1ffbe4c3-0fab-d185-a50f-856d99fa5a76",
+        "create_ts": "2022-06-04T12:29:44.842Z",
+        "last_update_ts": "2022-06-04T12:29:47.434Z",
+        "active_ind": "Y",
+        "file_manager_id": "79afd53a-12cd-48a6-bc0e-694c64a949c2",
+        "file_folder_path": "Political Files/2022/Local/Natalie Mai for District Attorney",
+        "full_qualified_file_name": "Political Files/2022/Local/Natalie Mai for District Attorney/Natalie Mai for District Judge 06.20-06.28.22 2191",
+        "entity_id": "001320",
+        "source_service_code": "CABLE",
+        "legal_name": "COXCOM, LLC",
+        "operator_city_name": "ATLANTA",
+        "operator_state_name": "GA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1734707286083895300,
+        "score": 0.24995682
+      },
+      {
+        "id": "ceb0f9d0-28f2-442c-b339-6529e79e58d3",
+        "file_id": "ceb0f9d0-28f2-442c-b339-6529e79e58d3",
+        "file_name": "Natalie Mai for District Judge 3770685 06.20-06.28.22 2191",
+        "file_extension": "pdf",
+        "file_size": 9724,
+        "file_status": "com_cpy",
+        "folder_id": "1ffbe4c3-0fab-d185-a50f-856d99fa5a76",
+        "create_ts": "2022-06-04T12:29:44.299Z",
+        "last_update_ts": "2022-06-04T12:29:46.787Z",
+        "active_ind": "Y",
+        "file_manager_id": "85f36fb0-9dfa-49a9-88f6-61296e30f1c7",
+        "file_folder_path": "Political Files/2022/Local/Natalie Mai for District Attorney",
+        "full_qualified_file_name": "Political Files/2022/Local/Natalie Mai for District Attorney/Natalie Mai for District Judge 3770685 06.20-06.28.22 2191",
+        "entity_id": "001320",
+        "source_service_code": "CABLE",
+        "legal_name": "COXCOM, LLC",
+        "operator_city_name": "ATLANTA",
+        "operator_state_name": "GA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1734707285411758000,
+        "score": 0.24995682
+      },
       {
         "id": "c84081c7-e20d-eead-d8ae-23ce274f1535",
         "file_id": "c84081c7-e20d-eead-d8ae-23ce274f1535",
@@ -203,50 +253,6 @@
         "campaign_year": "2022",
         "_version_": 1734672912145711000,
         "score": 0.24995682
-      },
-      {
-        "id": "affd670a-5d06-7c16-ca05-4cee9f5bc9e2",
-        "file_id": "affd670a-5d06-7c16-ca05-4cee9f5bc9e2",
-        "file_name": "06032022 PEOPLE WHO PLAY BY THE RULES PAC 1562-22-3",
-        "file_extension": "pdf",
-        "file_size": 485055,
-        "file_status": "com_cpy",
-        "folder_id": "273eb860-d4fd-a841-6eaf-55d11e7e03a8",
-        "create_ts": "2022-06-04T03:12:34.837Z",
-        "last_update_ts": "2022-06-04T03:12:28.188Z",
-        "active_ind": "Y",
-        "file_manager_id": "f52d320a-ff8a-4d9a-bef5-f046a8c2d76d",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/06032022 PEOPLE WHO PLAY BY THE RULES PAC 1562-22-3",
-        "entity_id": "56229",
-        "source_service_code": "FM",
-        "callsign": "WQLZ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1734672232343404500,
-        "score": 0.24995682
-      },
-      {
-        "id": "61832832-5a7e-0c22-c51b-b9cfe9ad7e5a",
-        "file_id": "61832832-5a7e-0c22-c51b-b9cfe9ad7e5a",
-        "file_name": "06032022 PEOPLE WHO PLAY BY THE RULES PAC 1562-21-1",
-        "file_extension": "pdf",
-        "file_size": 481512,
-        "file_status": "com_cpy",
-        "folder_id": "7f751941-979c-f928-7d2d-b87c3e3a5253",
-        "create_ts": "2022-06-04T03:10:56.215Z",
-        "last_update_ts": "2022-06-04T03:10:58.93Z",
-        "active_ind": "Y",
-        "file_manager_id": "fe3e021b-8108-44d7-a109-d24b12147104",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/06032022 PEOPLE WHO PLAY BY THE RULES PAC 1562-21-1",
-        "entity_id": "38347",
-        "source_service_code": "FM",
-        "callsign": "WNNS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1734672128912916500,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -425,7 +431,7 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 36141,
+        "2022": 36143,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -434,7 +440,7 @@
         "US Senate": 53104,
         "US House": 45067,
         "Presidential": 38375,
-        "Local": 27493
+        "Local": 27495
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
@@ -468,13 +474,13 @@
       },
       "source_service_code": {
         "TV": 252026,
-        "CABLE": 131069,
+        "CABLE": 131071,
         "FM": 119694,
         "AM": 45940,
         "DBS": 6037
       },
       "political_file_type": {
-        "PA": 243757,
+        "PA": 243759,
         "NCIA": 132327
       }
     }
@@ -491,8 +497,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 221,
-    "responseTime": 221
+    "queryTime": 1855,
+    "processTime": 870,
+    "responseTime": 1871
   }
 }
