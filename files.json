@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 554809,
+    "numFound": 554810,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "fdb40673-3c1d-0c16-a742-4cb79869527d",
+        "file_id": "fdb40673-3c1d-0c16-a742-4cb79869527d",
+        "file_name": "K.HelmsLewisForMCDA22AG.KABXFM.#107631.inv.052922",
+        "file_extension": "pdf",
+        "file_size": 30755,
+        "file_status": "com_cpy",
+        "folder_id": "a07ffabf-9ac6-353e-3670-23d551e43ffb",
+        "create_ts": "2022-06-04T19:45:59.649Z",
+        "last_update_ts": "2022-06-04T19:46:37.878Z",
+        "active_ind": "Y",
+        "file_manager_id": "828d2ac9-7008-4708-92fc-49bfc45dcdb4",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/K.HelmsLewisForMCDA22AG.KABXFM.#107631.inv.052922",
+        "entity_id": "41173",
+        "source_service_code": "FM",
+        "callsign": "KABX-FM",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1734734732318474200,
+        "score": 0.24995682
+      },
       {
         "id": "23783471-d8a7-7a4f-2e5e-8928e9004a99",
         "file_id": "23783471-d8a7-7a4f-2e5e-8928e9004a99",
@@ -210,29 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1734728359401750500,
         "score": 0.24995682
-      },
-      {
-        "id": "f1fff3be-5437-495c-6104-a05663da8eb3",
-        "file_id": "f1fff3be-5437-495c-6104-a05663da8eb3",
-        "file_name": "06.03.22 MEDIA FINANCIAL SERVICES 10263 (ALASKANS FOR NICK BEGICH (MFS)) 37937 BACKUP PPWK",
-        "file_extension": "pdf",
-        "file_size": 103198,
-        "file_status": "com_cpy",
-        "folder_id": "39fc0d80-c37b-d4e7-92f0-c7c3ea8304af",
-        "create_ts": "2022-06-04T17:07:03.464Z",
-        "last_update_ts": "2022-06-04T17:20:05.668Z",
-        "active_ind": "Y",
-        "file_manager_id": "cc94d651-3198-4ea3-9270-ef5d6dbdf0ad",
-        "file_folder_path": "Political Files/2022/Federal/US House/ALASKANS FOR NICK BEGICH MFS/37937",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/ALASKANS FOR NICK BEGICH MFS/37937/06.03.22 MEDIA FINANCIAL SERVICES 10263 (ALASKANS FOR NICK BEGICH (MFS)) 37937 BACKUP PPWK",
-        "entity_id": "6438",
-        "source_service_code": "AM",
-        "callsign": "KFAR",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1734725513284419600,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -411,7 +411,7 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 36184,
+        "2022": 36185,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -420,7 +420,7 @@
         "US Senate": 53105,
         "US House": 45103,
         "Presidential": 38375,
-        "Local": 27498
+        "Local": 27499
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
@@ -455,12 +455,12 @@
       "source_service_code": {
         "TV": 252045,
         "CABLE": 131071,
-        "FM": 119706,
+        "FM": 119707,
         "AM": 45950,
         "DBS": 6037
       },
       "political_file_type": {
-        "PA": 243799,
+        "PA": 243800,
         "NCIA": 132328
       }
     }
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1852,
-    "processTime": 862,
-    "responseTime": 1862
+    "queryTime": 1844,
+    "processTime": 854,
+    "responseTime": 1854
   }
 }
