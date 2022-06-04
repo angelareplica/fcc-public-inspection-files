@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 554765,
+    "numFound": 554766,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "c84081c7-e20d-eead-d8ae-23ce274f1535",
+        "file_id": "c84081c7-e20d-eead-d8ae-23ce274f1535",
+        "file_name": "698838_Invoice_20220603090547",
+        "file_extension": "pdf",
+        "file_size": 133387,
+        "file_status": "com_cpy",
+        "folder_id": "8c60f30d-5aab-f745-5e51-79f26191bb47",
+        "create_ts": "2022-06-04T07:55:15.291Z",
+        "last_update_ts": "2022-06-04T07:55:52.274Z",
+        "active_ind": "Y",
+        "file_manager_id": "34fcbc73-aaf3-4986-8ffb-16e9cfac9efb",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698838_Invoice_20220603090547",
+        "entity_id": "009940",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF FLORIDA /ILLINOIS/MICHIGAN INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1734690016467091500,
+        "score": 0.00012497841
+      },
       {
         "id": "6c60f1d2-48a2-f2c1-347a-76a6065e685f",
         "file_id": "6c60f1d2-48a2-f2c1-347a-76a6065e685f",
@@ -222,28 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1734672128912916500,
         "score": 0.24995682
-      },
-      {
-        "id": "5841b23c-5e5c-4e0e-8523-c8c0909869cc",
-        "file_id": "5841b23c-5e5c-4e0e-8523-c8c0909869cc",
-        "file_name": "2022-05 NAB 574944-3 WMCA",
-        "file_extension": "pdf",
-        "file_size": 36932,
-        "file_status": "com_cpy",
-        "folder_id": "e30ead3e-09e5-9732-2ecb-464823444dd5",
-        "create_ts": "2022-06-04T03:08:20.632Z",
-        "last_update_ts": "2022-06-04T03:08:23.169Z",
-        "active_ind": "Y",
-        "file_manager_id": "4a3a5554-9cbc-4015-99cd-fcd7aeac2c9a",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/NAB Royalty issue",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/NAB Royalty issue/2022-05 NAB 574944-3 WMCA",
-        "entity_id": "58626",
-        "source_service_code": "AM",
-        "callsign": "WMCA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1734671965581475800,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -422,7 +425,7 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 36140,
+        "2022": 36141,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -431,7 +434,7 @@
         "US Senate": 53104,
         "US House": 45067,
         "Presidential": 38375,
-        "Local": 27492
+        "Local": 27493
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
@@ -465,13 +468,13 @@
       },
       "source_service_code": {
         "TV": 252026,
-        "CABLE": 131068,
+        "CABLE": 131069,
         "FM": 119694,
         "AM": 45940,
         "DBS": 6037
       },
       "political_file_type": {
-        "PA": 243756,
+        "PA": 243757,
         "NCIA": 132327
       }
     }
@@ -488,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 215,
-    "processTime": 224,
-    "responseTime": 225
+    "queryTime": 1827,
+    "processTime": 837,
+    "responseTime": 1837
   }
 }
