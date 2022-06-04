@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 554758,
+    "numFound": 554760,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "1b0bc40e-e474-65c1-5d40-692c11258fdf",
+        "file_id": "1b0bc40e-e474-65c1-5d40-692c11258fdf",
+        "file_name": "Monica-Tranel-for-Montana-Political-PFD-04-18-2022 Update 6-3-22",
+        "file_extension": "pdf",
+        "file_size": 61266,
+        "file_status": "com_cpy",
+        "folder_id": "6f84f6ef-df53-12f4-4186-3c67c527b6c7",
+        "create_ts": "2022-06-04T03:26:34.863Z",
+        "last_update_ts": "2022-06-04T03:26:28.047Z",
+        "active_ind": "Y",
+        "file_manager_id": "23992624-1029-4395-a20b-b9c9e2fbcc94",
+        "file_folder_path": "Political Files/2022/Federal/US House/Monica Tranel/PFDs",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Monica Tranel/PFDs/Monica-Tranel-for-Montana-Political-PFD-04-18-2022 Update 6-3-22",
+        "entity_id": "33756",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "BUTTE-BOZEMAN",
+        "callsign": "KBZK",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1734673113004638200,
+        "score": 0.24995682
+      },
+      {
+        "id": "f3ba0335-d682-2e8e-faa5-47ded82d678c",
+        "file_id": "f3ba0335-d682-2e8e-faa5-47ded82d678c",
+        "file_name": "Monica-Tranel-for-Montana-Political-PFD-04-18-2022 Update 6-3-22",
+        "file_extension": "pdf",
+        "file_size": 61266,
+        "file_status": "com_cpy",
+        "folder_id": "fd40ea32-54dd-0953-ce3a-2115ac413f55",
+        "create_ts": "2022-06-04T03:23:23.224Z",
+        "last_update_ts": "2022-06-04T03:23:25.879Z",
+        "active_ind": "Y",
+        "file_manager_id": "d47c5a95-0365-48aa-aca1-049485a5932d",
+        "file_folder_path": "Political Files/2022/Federal/US House/Monica Tranel/PFDs",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Monica Tranel/PFDs/Monica-Tranel-for-Montana-Political-PFD-04-18-2022 Update 6-3-22",
+        "entity_id": "35959",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "BUTTE-BOZEMAN",
+        "callsign": "KXLF-TV",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1734672912145711000,
+        "score": 0.24995682
+      },
       {
         "id": "affd670a-5d06-7c16-ca05-4cee9f5bc9e2",
         "file_id": "affd670a-5d06-7c16-ca05-4cee9f5bc9e2",
@@ -182,53 +232,6 @@
         "campaign_year": "2022",
         "_version_": 1734671152907812900,
         "score": 0.24995682
-      },
-      {
-        "id": "6f0611f8-d311-ed8f-5a99-79fc227e2747",
-        "file_id": "6f0611f8-d311-ed8f-5a99-79fc227e2747",
-        "file_name": "Trimino for Governor Intake Form 060322",
-        "file_extension": "pdf",
-        "file_size": 66218,
-        "file_status": "com_cpy",
-        "folder_id": "c6f1dd03-da69-dc5a-a6f0-93fdb538b46b",
-        "create_ts": "2022-06-04T02:55:11.03Z",
-        "last_update_ts": "2022-06-04T02:55:04.273Z",
-        "active_ind": "Y",
-        "file_manager_id": "a64d207c-0e0b-4367-8a66-a4ad2a22c025",
-        "file_folder_path": "Political Files/2022/State/Anthony Trimino for Governor/Anthony Trimino for Governor 190277 Jun3 to Jun12",
-        "full_qualified_file_name": "Political Files/2022/State/Anthony Trimino for Governor/Anthony Trimino for Governor 190277 Jun3 to Jun12/Trimino for Governor Intake Form 060322",
-        "entity_id": "34439",
-        "source_service_code": "TV",
-        "network_affiliation": "UNIVISION",
-        "nielsen_dma_rank": "FRESNO-VISALIA",
-        "callsign": "KFTV-DT",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1734671137713946600,
-        "score": 0.24995682
-      },
-      {
-        "id": "51ff7419-7824-7db9-f50c-6ddf06111933",
-        "file_id": "51ff7419-7824-7db9-f50c-6ddf06111933",
-        "file_name": "060322 - Maston - KKOL-FM invoice - 583470B-1",
-        "file_extension": "pdf",
-        "file_size": 305414,
-        "file_status": "com_cpy",
-        "folder_id": "d2bd7edf-7942-22f8-9584-47a4de3f21c0",
-        "create_ts": "2022-06-04T02:17:47.488Z",
-        "last_update_ts": "2022-06-04T02:17:40.769Z",
-        "active_ind": "Y",
-        "file_manager_id": "bdae3db8-4251-492e-9799-cf3c697646ea",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Matson",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Matson/060322 - Maston - KKOL-FM invoice - 583470B-1",
-        "entity_id": "70384",
-        "source_service_code": "FM",
-        "callsign": "KKOL-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1734668785225302000,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -246,7 +249,7 @@
         "TALLAHASSEE-THOMASVILLE": 4116,
         "OMAHA": 3984,
         "RALEIGH-DURHAM (FAYETVLLE)": 3740,
-        "BUTTE-BOZEMAN": 3660,
+        "BUTTE-BOZEMAN": 3662,
         "EUGENE": 3499,
         "PORTLAND OR": 3473,
         "MISSOULA": 3469,
@@ -337,7 +340,7 @@
       "network_affiliation": {
         "ABC": 62746,
         "NBC": 59944,
-        "CBS": 41587,
+        "CBS": 41589,
         "FOX": 29717,
         "PBS": 14759,
         "CW": 12314,
@@ -407,14 +410,14 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 36133,
+        "2022": 36135,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 78373,
         "US Senate": 53104,
-        "US House": 45065,
+        "US House": 45067,
         "Presidential": 38375,
         "Local": 27487
       },
@@ -449,14 +452,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 252024,
+        "TV": 252026,
         "CABLE": 131063,
         "FM": 119694,
         "AM": 45940,
         "DBS": 6037
       },
       "political_file_type": {
-        "PA": 243749,
+        "PA": 243751,
         "NCIA": 132327
       }
     }
@@ -473,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 211,
-    "processTime": 219,
-    "responseTime": 219
+    "queryTime": 1859,
+    "processTime": 868,
+    "responseTime": 1868
   }
 }
