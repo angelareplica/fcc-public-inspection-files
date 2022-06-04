@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 554808,
+    "numFound": 554809,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "23783471-d8a7-7a4f-2e5e-8928e9004a99",
+        "file_id": "23783471-d8a7-7a4f-2e5e-8928e9004a99",
+        "file_name": "heidi-st-john-for-congress-wa-03-invoice-3518740562-2101476143-11271pdf",
+        "file_extension": "pdf",
+        "file_size": 33859,
+        "file_status": "com_cpy",
+        "folder_id": "a4cf1771-03db-f7a6-b09f-045c97b10c87",
+        "create_ts": "2022-06-04T19:05:10.342Z",
+        "last_update_ts": "2022-06-04T19:05:12.815Z",
+        "active_ind": "Y",
+        "file_manager_id": "0acc2ef7-3c48-48f0-818d-dc86bd7dff04",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/heidi-st-john-for-congress-wa-03-invoice-3518740562-2101476143-11271pdf",
+        "entity_id": "11271",
+        "source_service_code": "AM",
+        "callsign": "KEX",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1734732163966828500,
+        "score": 0.24995682
+      },
       {
         "id": "a593644a-b18f-bea1-f9a6-45c799c452ae",
         "file_id": "a593644a-b18f-bea1-f9a6-45c799c452ae",
@@ -210,29 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1734725513284419600,
         "score": 0.24995682
-      },
-      {
-        "id": "ea8e4365-dada-e8dd-337a-0e30309f7912",
-        "file_id": "ea8e4365-dada-e8dd-337a-0e30309f7912",
-        "file_name": "06.03.22 MEDIA FINANCIAL SERVICES 10263 (ALASKANS FOR NICK BEGICH (MFS)) 37937",
-        "file_extension": "pdf",
-        "file_size": 80246,
-        "file_status": "com_cpy",
-        "folder_id": "39fc0d80-c37b-d4e7-92f0-c7c3ea8304af",
-        "create_ts": "2022-06-04T17:07:03.464Z",
-        "last_update_ts": "2022-06-04T17:20:05.667Z",
-        "active_ind": "Y",
-        "file_manager_id": "ab2cf130-a544-4b1c-9c30-0d0b486383bf",
-        "file_folder_path": "Political Files/2022/Federal/US House/ALASKANS FOR NICK BEGICH MFS/37937",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/ALASKANS FOR NICK BEGICH MFS/37937/06.03.22 MEDIA FINANCIAL SERVICES 10263 (ALASKANS FOR NICK BEGICH (MFS)) 37937",
-        "entity_id": "6438",
-        "source_service_code": "AM",
-        "callsign": "KFAR",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1734725513282322400,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -411,14 +411,14 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 36183,
+        "2022": 36184,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 78373,
         "US Senate": 53105,
-        "US House": 45102,
+        "US House": 45103,
         "Presidential": 38375,
         "Local": 27498
       },
@@ -456,11 +456,11 @@
         "TV": 252045,
         "CABLE": 131071,
         "FM": 119706,
-        "AM": 45949,
+        "AM": 45950,
         "DBS": 6037
       },
       "political_file_type": {
-        "PA": 243798,
+        "PA": 243799,
         "NCIA": 132328
       }
     }
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1812,
-    "processTime": 821,
-    "responseTime": 1821
+    "queryTime": 209,
+    "processTime": 216,
+    "responseTime": 217
   }
 }
