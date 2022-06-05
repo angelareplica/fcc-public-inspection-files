@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 554815,
+    "numFound": 554817,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "ed1b06a4-3ed0-9831-a30a-a3b6a6a5dcf7",
+        "file_id": "ed1b06a4-3ed0-9831-a30a-a3b6a6a5dcf7",
+        "file_name": "HUGH WEATHERS COMMISSIONER OF AGRICULTURE 060122 NAB FORM",
+        "file_extension": "pdf",
+        "file_size": 316304,
+        "file_status": "com_cpy",
+        "folder_id": "f27e0a88-4b74-f5f2-4ba8-7882dc24beed",
+        "create_ts": "2022-06-01T20:52:09.909Z",
+        "last_update_ts": "2022-06-05T17:25:56.542Z",
+        "active_ind": "Y",
+        "file_manager_id": "b66c63d5-b981-4aed-b0dd-fdeb6bd9d435",
+        "file_folder_path": "Political Files/2022/State/South Carolina/Commissioner of Agriculture/Hugh Weathers/Hugh Weathers Commissioner of Agriculture 6-1-22 - 6-14-22 - ORDER 2273595",
+        "full_qualified_file_name": "Political Files/2022/State/South Carolina/Commissioner of Agriculture/Hugh Weathers/Hugh Weathers Commissioner of Agriculture 6-1-22 - 6-14-22 - ORDER 2273595/HUGH WEATHERS COMMISSIONER OF AGRICULTURE 060122 NAB FORM",
+        "entity_id": "53905",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "Greenville-Spartanburg-Asheville-Anderson",
+        "callsign": "WYFF",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1734816475493957600,
+        "score": 0.24995682
+      },
+      {
+        "id": "adc308e2-8ecf-f109-04f7-7e7342f4b3fc",
+        "file_id": "adc308e2-8ecf-f109-04f7-7e7342f4b3fc",
+        "file_name": "ELLEN WEAVER STATE SUPERINTENDENT 060122 NAB FORM Amended",
+        "file_extension": "pdf",
+        "file_size": 2249459,
+        "file_status": "com_cpy",
+        "folder_id": "2cd686b8-11c3-93c5-5630-830a0ae16edc",
+        "create_ts": "2022-06-05T17:24:04.124Z",
+        "last_update_ts": "2022-06-05T17:24:45.314Z",
+        "active_ind": "Y",
+        "file_manager_id": "da3dcec2-949b-40fb-973f-f80b25d4ce6a",
+        "file_folder_path": "Political Files/2022/State/South Carolina/State Superintendent of Education/Ellen Weaver/Ellen Weaver State Superintendent 6-3-22 - 6-13-22 - ORDER -  2273930",
+        "full_qualified_file_name": "Political Files/2022/State/South Carolina/State Superintendent of Education/Ellen Weaver/Ellen Weaver State Superintendent 6-3-22 - 6-13-22 - ORDER -  2273930/ELLEN WEAVER STATE SUPERINTENDENT 060122 NAB FORM Amended",
+        "entity_id": "53905",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "Greenville-Spartanburg-Asheville-Anderson",
+        "callsign": "WYFF",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1734816400798646300,
+        "score": 0.24995682
+      },
       {
         "id": "c1287552-8b05-8fde-0766-c9ce318473a1",
         "file_id": "c1287552-8b05-8fde-0766-c9ce318473a1",
@@ -190,52 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1734729917073981400,
         "score": 0.24995682
-      },
-      {
-        "id": "5e63bc7e-9825-5d03-58fe-aee2c77996c8",
-        "file_id": "5e63bc7e-9825-5d03-58fe-aee2c77996c8",
-        "file_name": "America United Est 11824 KQAY 060422",
-        "file_extension": "pdf",
-        "file_size": 4182263,
-        "file_status": "com_cpy",
-        "folder_id": "abd8f936-d68c-3049-5122-f3bc5544e2d7",
-        "create_ts": "2022-06-04T18:20:24.251Z",
-        "last_update_ts": "2022-06-04T18:21:03.618Z",
-        "active_ind": "Y",
-        "file_manager_id": "415a6370-cbfc-4b9c-8937-2034e98dcf90",
-        "file_folder_path": "Political Files/2022/Federal/US House/America United",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/America United/America United Est 11824 KQAY 060422",
-        "entity_id": "54167",
-        "source_service_code": "FM",
-        "callsign": "KQAY-FM",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1734729348813947000,
-        "score": 0.24995682
-      },
-      {
-        "id": "e21327f3-7d6b-38fe-ea6f-020f3bfeb80c",
-        "file_id": "e21327f3-7d6b-38fe-ea6f-020f3bfeb80c",
-        "file_name": "America United Est 11824 KTNM 060422",
-        "file_extension": "pdf",
-        "file_size": 4227487,
-        "file_status": "com_cpy",
-        "folder_id": "8d942e3d-7a39-e874-b731-f16070b17d85",
-        "create_ts": "2022-06-04T18:17:47.508Z",
-        "last_update_ts": "2022-06-04T18:17:41.955Z",
-        "active_ind": "Y",
-        "file_manager_id": "d834994e-9770-4f38-8ea8-fdc0283539bd",
-        "file_folder_path": "Political Files/2022/Federal/US House",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/America United Est 11824 KTNM 060422",
-        "entity_id": "54166",
-        "source_service_code": "AM",
-        "callsign": "KTNM",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1734729184618479600,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -273,7 +277,7 @@
         "GREENSBORO-H.POINT-W.SALEM": 2557,
         "PEORIA-BLOOMINGTON": 2488,
         "PHILADELPHIA": 2307,
-        "Greenville-Spartanburg-Asheville-Anderson": 2299,
+        "Greenville-Spartanburg-Asheville-Anderson": 2301,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2188,
         "TAMPA-ST. PETE (SARASOTA)": 2161,
         "LEXINGTON": 2147,
@@ -343,7 +347,7 @@
       },
       "network_affiliation": {
         "ABC": 62747,
-        "NBC": 59944,
+        "NBC": 59946,
         "CBS": 41589,
         "FOX": 29717,
         "PBS": 14759,
@@ -414,12 +418,12 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 36190,
+        "2022": 36192,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 78373,
+        "State": 78375,
         "US Senate": 53105,
         "US House": 45105,
         "Presidential": 38375,
@@ -456,14 +460,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 252045,
+        "TV": 252047,
         "CABLE": 131074,
         "FM": 119707,
         "AM": 45952,
         "DBS": 6037
       },
       "political_file_type": {
-        "PA": 243802,
+        "PA": 243804,
         "NCIA": 132331
       }
     }
@@ -480,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 215,
-    "processTime": 222,
-    "responseTime": 223
+    "queryTime": 208,
+    "processTime": 216,
+    "responseTime": 217
   }
 }
