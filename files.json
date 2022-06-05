@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 554828,
+    "numFound": 554830,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "6056ca39-9c02-bf36-e629-cf4f4abcdacd",
+        "file_id": "6056ca39-9c02-bf36-e629-cf4f4abcdacd",
+        "file_name": "COALITION FOR SAFE, RESPONSIBLE GAMING 061322-061922 2275121 PREBOOK CONTRACT NAB",
+        "file_extension": "pdf",
+        "file_size": 744036,
+        "file_status": "com_cpy",
+        "folder_id": "5e76217f-f6c0-44a3-632b-8bb7542223d1",
+        "create_ts": "2022-06-05T22:17:48.813Z",
+        "last_update_ts": "2022-06-05T22:17:51.832Z",
+        "active_ind": "Y",
+        "file_manager_id": "4d1f4587-a29d-4cf6-9b5a-3fa4aff7024a",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/COALITION FOR SAFE RESPONSIBLE GAMING",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/COALITION FOR SAFE RESPONSIBLE GAMING/COALITION FOR SAFE, RESPONSIBLE GAMING 061322-061922 2275121 PREBOOK CONTRACT NAB",
+        "entity_id": "10242",
+        "source_service_code": "TV",
+        "network_affiliation": "MNT",
+        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
+        "callsign": "KQCA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1734834881475641300,
+        "score": 0.24995682
+      },
+      {
+        "id": "dea35e96-6435-c8c6-21e7-11e017f147c4",
+        "file_id": "dea35e96-6435-c8c6-21e7-11e017f147c4",
+        "file_name": "COALITION FOR SAFE, RESPONSIBLE GAMING 062022-062622 2275122 PREBOOK CONTRACT NAB",
+        "file_extension": "pdf",
+        "file_size": 741383,
+        "file_status": "com_cpy",
+        "folder_id": "5e76217f-f6c0-44a3-632b-8bb7542223d1",
+        "create_ts": "2022-06-05T22:17:48.813Z",
+        "last_update_ts": "2022-06-05T22:17:51.812Z",
+        "active_ind": "Y",
+        "file_manager_id": "b4d89fe6-e566-41bb-859f-b920c5091e2b",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/COALITION FOR SAFE RESPONSIBLE GAMING",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/COALITION FOR SAFE RESPONSIBLE GAMING/COALITION FOR SAFE, RESPONSIBLE GAMING 062022-062622 2275122 PREBOOK CONTRACT NAB",
+        "entity_id": "10242",
+        "source_service_code": "TV",
+        "network_affiliation": "MNT",
+        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
+        "callsign": "KQCA",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1734834881465155600,
+        "score": 0.24995682
+      },
       {
         "id": "6937128c-545c-3bf8-2200-7802f12b3845",
         "file_id": "6937128c-545c-3bf8-2200-7802f12b3845",
@@ -188,52 +236,6 @@
         "campaign_year": "2022",
         "_version_": 1734826893235978200,
         "score": 0.24995682
-      },
-      {
-        "id": "ca10c8ba-ccaa-188b-0c6e-5470aa913d35",
-        "file_id": "ca10c8ba-ccaa-188b-0c6e-5470aa913d35",
-        "file_name": "Chris Stanford WTRZ (060322)",
-        "file_extension": "pdf",
-        "file_size": 719898,
-        "file_status": "com_cpy",
-        "folder_id": "22fcc1a5-5fd5-b9f5-a3f9-fe089ee5ae76",
-        "create_ts": "2022-06-05T18:39:38.186Z",
-        "last_update_ts": "2022-06-05T18:40:19.138Z",
-        "active_ind": "Y",
-        "file_manager_id": "89dd8bb3-22f3-4057-848f-acaf0ebd9b44",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Chris Stanford WTRZ (060322)",
-        "entity_id": "17759",
-        "source_service_code": "FM",
-        "callsign": "WTRZ",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1734821154721366000,
-        "score": 0.24995682
-      },
-      {
-        "id": "c3d0f539-8328-4a86-793f-bfd178e6b6b3",
-        "file_id": "c3d0f539-8328-4a86-793f-bfd178e6b6b3",
-        "file_name": "Chris Stanford WOWC (060322)",
-        "file_extension": "pdf",
-        "file_size": 1198808,
-        "file_status": "com_cpy",
-        "folder_id": "33be867e-2136-2c87-0775-a90a1773e328",
-        "create_ts": "2022-06-05T18:38:30.817Z",
-        "last_update_ts": "2022-06-05T18:38:33.693Z",
-        "active_ind": "Y",
-        "file_manager_id": "34993357-85bf-4735-b41a-83acbd5b8577",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Chris Stanford WOWC (060322)",
-        "entity_id": "3337",
-        "source_service_code": "FM",
-        "callsign": "WOWC",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1734821084170027000,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -258,7 +260,7 @@
         "CHAMPAIGN&SPRNGFLD-DECATUR": 3244,
         "MINNEAPOLIS-ST. PAUL": 3217,
         "BEND OR": 3198,
-        "SACRAMNTO-STKTON-MODESTO": 3007,
+        "SACRAMNTO-STKTON-MODESTO": 3009,
         "FRESNO-VISALIA": 2886,
         "WAUSAU-RHINELANDER": 2842,
         "CHICAGO": 2834,
@@ -353,7 +355,7 @@
         "CBS/NBC": 1081,
         "FAMILYNET": 933,
         "TELEMUNDO": 918,
-        "MNT": 912,
+        "MNT": 914,
         "ION": 794,
         "N/A": 654,
         "UNIMAS": 616,
@@ -412,7 +414,7 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 36199,
+        "2022": 36201,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -454,7 +456,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 252050,
+        "TV": 252052,
         "CABLE": 131074,
         "FM": 119712,
         "AM": 45954,
@@ -462,7 +464,7 @@
       },
       "political_file_type": {
         "PA": 243811,
-        "NCIA": 132331
+        "NCIA": 132333
       }
     }
   },
@@ -478,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1849,
-    "processTime": 857,
-    "responseTime": 1857
+    "queryTime": 1835,
+    "processTime": 844,
+    "responseTime": 1845
   }
 }
