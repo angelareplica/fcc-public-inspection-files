@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 554827,
+    "numFound": 554828,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "6937128c-545c-3bf8-2200-7802f12b3845",
+        "file_id": "6937128c-545c-3bf8-2200-7802f12b3845",
+        "file_name": "TRAVIS BEDSON STATE SUPERINTENDENT 060522 REBATE",
+        "file_extension": "pdf",
+        "file_size": 447404,
+        "file_status": "com_cpy",
+        "folder_id": "9ea839c9-6cab-c9c3-1ba3-ce52cf053161",
+        "create_ts": "2022-06-05T21:24:26.962Z",
+        "last_update_ts": "2022-06-05T21:24:29.711Z",
+        "active_ind": "Y",
+        "file_manager_id": "61721ef7-7271-4afe-828c-de1a4360691e",
+        "file_folder_path": "Political Files/2022/State/South Carolina/State Superintendent of Education/Travis Bedson/Travis Bedson State Superintendent 5-24-22 - 5-30-22 - ORDER 2271356",
+        "full_qualified_file_name": "Political Files/2022/State/South Carolina/State Superintendent of Education/Travis Bedson/Travis Bedson State Superintendent 5-24-22 - 5-30-22 - ORDER 2271356/TRAVIS BEDSON STATE SUPERINTENDENT 060522 REBATE",
+        "entity_id": "53905",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "Greenville-Spartanburg-Asheville-Anderson",
+        "callsign": "WYFF",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1734831523805266000,
+        "score": 0.24995682
+      },
       {
         "id": "58813b91-d5be-9346-1a82-073f6ee1e8d2",
         "file_id": "58813b91-d5be-9346-1a82-073f6ee1e8d2",
@@ -209,29 +234,6 @@
         "campaign_year": "2022",
         "_version_": 1734821084170027000,
         "score": 0.24995682
-      },
-      {
-        "id": "ecdd9659-8d6f-13d7-e119-b14bd486972c",
-        "file_id": "ecdd9659-8d6f-13d7-e119-b14bd486972c",
-        "file_name": "Chris Stanford WBMC (060322)",
-        "file_extension": "pdf",
-        "file_size": 1198798,
-        "file_status": "com_cpy",
-        "folder_id": "6120e58c-ccb0-9691-3d3c-42950999a090",
-        "create_ts": "2022-06-05T18:36:32.109Z",
-        "last_update_ts": "2022-06-05T18:36:25.21Z",
-        "active_ind": "Y",
-        "file_manager_id": "d24f5c17-1ec9-4182-83e9-fa94f0bcccb4",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Chris Stanford WBMC (060322)",
-        "entity_id": "14734",
-        "source_service_code": "AM",
-        "callsign": "WBMC",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1734820959676792800,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -269,7 +271,7 @@
         "GREENSBORO-H.POINT-W.SALEM": 2557,
         "PEORIA-BLOOMINGTON": 2488,
         "PHILADELPHIA": 2307,
-        "Greenville-Spartanburg-Asheville-Anderson": 2302,
+        "Greenville-Spartanburg-Asheville-Anderson": 2303,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2188,
         "TAMPA-ST. PETE (SARASOTA)": 2161,
         "LEXINGTON": 2147,
@@ -339,7 +341,7 @@
       },
       "network_affiliation": {
         "ABC": 62747,
-        "NBC": 59947,
+        "NBC": 59948,
         "CBS": 41589,
         "FOX": 29717,
         "PBS": 14759,
@@ -410,12 +412,12 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 36198,
+        "2022": 36199,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 78376,
+        "State": 78377,
         "US Senate": 53105,
         "US House": 45106,
         "Presidential": 38375,
@@ -452,14 +454,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 252049,
+        "TV": 252050,
         "CABLE": 131074,
         "FM": 119712,
         "AM": 45954,
         "DBS": 6038
       },
       "political_file_type": {
-        "PA": 243810,
+        "PA": 243811,
         "NCIA": 132331
       }
     }
@@ -476,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1850,
-    "processTime": 856,
+    "queryTime": 1849,
+    "processTime": 857,
     "responseTime": 1857
   }
 }
