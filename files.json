@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 554817,
+    "numFound": 554818,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "db1fa009-62a5-3ffe-9de6-c719e4539758",
+        "file_id": "db1fa009-62a5-3ffe-9de6-c719e4539758",
+        "file_name": "Qrtly Issues  Programs List 4Q2014 (002)",
+        "file_extension": "docx",
+        "file_size": 123985,
+        "file_status": "com_prc",
+        "folder_id": "06fb0cf0-8c33-ab71-9ca7-5c379f515430",
+        "create_ts": "2022-06-05T17:42:55.459Z",
+        "last_update_ts": "2022-06-05T17:43:13.339Z",
+        "active_ind": "Y",
+        "file_manager_id": "7e96e361-90c6-4c70-a3c5-ff4ca6eb7395",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/Qrtly Issues  Programs List 4Q2014 (002)",
+        "entity_id": "24518",
+        "source_service_code": "TV",
+        "network_affiliation": "NONE",
+        "nielsen_dma_rank": "LOS ANGELES",
+        "callsign": "KDOC-TV",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1734817612745932800,
+        "score": 0.24995682
+      },
       {
         "id": "ed1b06a4-3ed0-9831-a30a-a3b6a6a5dcf7",
         "file_id": "ed1b06a4-3ed0-9831-a30a-a3b6a6a5dcf7",
@@ -217,29 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1734732163966828500,
         "score": 0.24995682
-      },
-      {
-        "id": "a593644a-b18f-bea1-f9a6-45c799c452ae",
-        "file_id": "a593644a-b18f-bea1-f9a6-45c799c452ae",
-        "file_name": "Nicole Rogers for Magistrate Judge - Order 3094-00003 KMOU 060422",
-        "file_extension": "pdf",
-        "file_size": 3389401,
-        "file_status": "com_cpy",
-        "folder_id": "e15ad70e-a64b-cc5c-c157-3c1e0056aa24",
-        "create_ts": "2022-06-04T18:13:43.73Z",
-        "last_update_ts": "2022-06-04T18:30:05.554Z",
-        "active_ind": "Y",
-        "file_manager_id": "db8e27fa-1a78-43db-8fec-07dc13d05dc2",
-        "file_folder_path": "Political Files/2022/Local/Nicole Rogers for Magistrate Judge 2022",
-        "full_qualified_file_name": "Political Files/2022/Local/Nicole Rogers for Magistrate Judge 2022/Nicole Rogers for Magistrate Judge - Order 3094-00003 KMOU 060422",
-        "entity_id": "14927",
-        "source_service_code": "FM",
-        "callsign": "KMOU",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1734729917073981400,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -305,7 +305,7 @@
         "GAINESVILLE": 1265,
         "GREEN BAY-APPLETON": 1258,
         "JOHNSTOWN-ALTOONA-ST COLGE": 1252,
-        "LOS ANGELES": 1249,
+        "LOS ANGELES": 1250,
         "ANCHORAGE": 1241,
         "LOUISVILLE": 1179,
         "ST. LOUIS": 1151,
@@ -369,7 +369,7 @@
         "MYNETWORKTV": 317,
         "THE CW NETWORK": 301,
         "ABC, NBC": 236,
-        "NONE": 230,
+        "NONE": 231,
         "ETV": 213,
         "TRINITY BROADCASTING NETWORK": 172,
         "NBC & CW (DIGITAL ONLY)": 162,
@@ -431,7 +431,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61676,
-        "Issues and Programs Lists": 46124,
+        "Issues and Programs Lists": 46125,
         "Equal Employment Opportunity Records": 37646,
         "Donor Lists - Applicable Only for NCEs": 12145,
         "FCC Authorizations": 7414,
@@ -460,7 +460,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 252047,
+        "TV": 252048,
         "CABLE": 131074,
         "FM": 119707,
         "AM": 45952,
@@ -484,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 208,
-    "processTime": 216,
-    "responseTime": 217
+    "queryTime": 215,
+    "processTime": 225,
+    "responseTime": 225
   }
 }
