@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 554837,
+    "numFound": 554838,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "ff3ccd19-5b49-9d20-962a-5b29b2465c32",
+        "file_id": "ff3ccd19-5b49-9d20-962a-5b29b2465c32",
+        "file_name": "One Georgia Inc NAB-PB19 - 05-27-2022 rev pdf (1)",
+        "file_extension": "pdf",
+        "file_size": 1087234,
+        "file_status": "com_cpy",
+        "folder_id": "ee176c23-822e-50f6-65b0-d2c63e4d81b5",
+        "create_ts": "2022-06-06T10:36:31.17Z",
+        "last_update_ts": "2022-06-06T10:37:14.069Z",
+        "active_ind": "Y",
+        "file_manager_id": "b910554a-dda3-40d6-9cd5-a7e9da585a56",
+        "file_folder_path": "Political Files/2022/State/One Georgia",
+        "full_qualified_file_name": "Political Files/2022/State/One Georgia/One Georgia Inc NAB-PB19 - 05-27-2022 rev pdf (1)",
+        "entity_id": "64033",
+        "source_service_code": "TV",
+        "network_affiliation": "IND",
+        "nielsen_dma_rank": "ATLANTA",
+        "callsign": "WPCH-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1734881356844892200,
+        "score": 0.24995682
+      },
       {
         "id": "12ce29c5-74ce-7918-ca50-f44d0e41598a",
         "file_id": "12ce29c5-74ce-7918-ca50-f44d0e41598a",
@@ -207,31 +232,6 @@
         "campaign_year": "2022",
         "_version_": 1734834881465155600,
         "score": 0.24995682
-      },
-      {
-        "id": "6937128c-545c-3bf8-2200-7802f12b3845",
-        "file_id": "6937128c-545c-3bf8-2200-7802f12b3845",
-        "file_name": "TRAVIS BEDSON STATE SUPERINTENDENT 060522 REBATE",
-        "file_extension": "pdf",
-        "file_size": 447404,
-        "file_status": "com_cpy",
-        "folder_id": "9ea839c9-6cab-c9c3-1ba3-ce52cf053161",
-        "create_ts": "2022-06-05T21:24:26.962Z",
-        "last_update_ts": "2022-06-05T21:24:29.711Z",
-        "active_ind": "Y",
-        "file_manager_id": "61721ef7-7271-4afe-828c-de1a4360691e",
-        "file_folder_path": "Political Files/2022/State/South Carolina/State Superintendent of Education/Travis Bedson/Travis Bedson State Superintendent 5-24-22 - 5-30-22 - ORDER 2271356",
-        "full_qualified_file_name": "Political Files/2022/State/South Carolina/State Superintendent of Education/Travis Bedson/Travis Bedson State Superintendent 5-24-22 - 5-30-22 - ORDER 2271356/TRAVIS BEDSON STATE SUPERINTENDENT 060522 REBATE",
-        "entity_id": "53905",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "Greenville-Spartanburg-Asheville-Anderson",
-        "callsign": "WYFF",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1734831523805266000,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -329,7 +329,7 @@
         "BUFFALO": 698,
         "SAN FRANCISCO-OAK-SAN JOSE": 688,
         "BANGOR": 676,
-        "ATLANTA": 665,
+        "ATLANTA": 666,
         "SAN DIEGO": 657,
         "HARTFORD & NEW HAVEN": 654,
         "MONTEREY-SALINAS": 645,
@@ -344,7 +344,7 @@
         "FOX": 29717,
         "PBS": 14759,
         "CW": 12314,
-        "IND": 3020,
+        "IND": 3021,
         "MYTV": 2246,
         "UNIVISION": 1916,
         "MY NETWORK": 1650,
@@ -410,12 +410,12 @@
         "2019": 13898,
         "2020": 124920,
         "2021": 22712,
-        "2022": 36208,
+        "2022": 36209,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 78379,
+        "State": 78380,
         "US Senate": 53105,
         "US House": 45109,
         "Presidential": 38375,
@@ -452,14 +452,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 252052,
+        "TV": 252053,
         "CABLE": 131074,
         "FM": 119715,
         "AM": 45955,
         "DBS": 6041
       },
       "political_file_type": {
-        "PA": 243816,
+        "PA": 243817,
         "NCIA": 132335
       }
     }
@@ -476,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1813,
-    "processTime": 828,
-    "responseTime": 1828
+    "queryTime": 1821,
+    "processTime": 830,
+    "responseTime": 1831
   }
 }
