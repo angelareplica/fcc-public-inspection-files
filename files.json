@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 555345,
+    "numFound": 555347,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "63df67c0-6081-3711-8d0c-1043b0e27d6a",
+        "file_id": "63df67c0-6081-3711-8d0c-1043b0e27d6a",
+        "file_name": "Langley for Senate May Inv 025511",
+        "file_extension": "pdf",
+        "file_size": 11695,
+        "file_status": "com_cpy",
+        "folder_id": "9dd5cc9c-2d22-6ac9-af1e-5e9a99e5c65a",
+        "create_ts": "2022-06-07T09:32:14.245Z",
+        "last_update_ts": "2022-06-07T09:32:59.041Z",
+        "active_ind": "Y",
+        "file_manager_id": "26e39122-e07b-45f6-9843-b67c876dd775",
+        "file_folder_path": "Political Files/2022/State/Brian Langley for Senate",
+        "full_qualified_file_name": "Political Files/2022/State/Brian Langley for Senate/Langley for Senate May Inv 025511",
+        "entity_id": "66712",
+        "source_service_code": "FM",
+        "callsign": "WNSX",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1734967908960829400,
+        "score": 0.24995682
+      },
+      {
+        "id": "e4395d43-0019-bef6-8938-d0644b21d0ee",
+        "file_id": "e4395d43-0019-bef6-8938-d0644b21d0ee",
+        "file_name": "Langley for Senate May Inv 025512",
+        "file_extension": "pdf",
+        "file_size": 11475,
+        "file_status": "com_cpy",
+        "folder_id": "9dd5cc9c-2d22-6ac9-af1e-5e9a99e5c65a",
+        "create_ts": "2022-06-07T09:32:14.205Z",
+        "last_update_ts": "2022-06-07T09:32:16.593Z",
+        "active_ind": "Y",
+        "file_manager_id": "ebcb252e-6853-4b0a-8535-5b44ee025f06",
+        "file_folder_path": "Political Files/2022/State/Brian Langley for Senate",
+        "full_qualified_file_name": "Political Files/2022/State/Brian Langley for Senate/Langley for Senate May Inv 025512",
+        "entity_id": "66712",
+        "source_service_code": "FM",
+        "callsign": "WNSX",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1734967908858069000,
+        "score": 0.24995682
+      },
       {
         "id": "9c3f00f4-b489-10d0-68d7-9756b59ee6ef",
         "file_id": "9c3f00f4-b489-10d0-68d7-9756b59ee6ef",
@@ -194,56 +240,6 @@
         "campaign_year": "2022",
         "_version_": 1734941406333501400,
         "score": 0.24995682
-      },
-      {
-        "id": "a3818edc-3755-4818-f670-91bacbb536e7",
-        "file_id": "a3818edc-3755-4818-f670-91bacbb536e7",
-        "file_name": "Markwayne Mullin for US Senate 05.31.22-06.06.22 #142310",
-        "file_extension": "pdf",
-        "file_size": 415448,
-        "file_status": "com_cpy",
-        "folder_id": "8a535583-778c-d23b-0439-cd722ac59115",
-        "create_ts": "2022-06-07T02:28:26.419Z",
-        "last_update_ts": "2022-06-07T02:29:10.751Z",
-        "active_ind": "Y",
-        "file_manager_id": "094cbc8d-2b12-436a-a70d-7f91677dc2a7",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Markwayne Mullins for US Senate",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Markwayne Mullins for US Senate/Markwayne Mullin for US Senate 05.31.22-06.06.22 #142310",
-        "entity_id": "25382",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "OKLAHOMA CITY",
-        "callsign": "KWTV-DT",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1734941246279909400,
-        "score": 0.24995682
-      },
-      {
-        "id": "4b516c96-b560-e191-cb06-4171734a145e",
-        "file_id": "4b516c96-b560-e191-cb06-4171734a145e",
-        "file_name": "Markwayne Mullin for US Senate 06.07.22-06.13.22 #142562",
-        "file_extension": "pdf",
-        "file_size": 412156,
-        "file_status": "com_cpy",
-        "folder_id": "8a535583-778c-d23b-0439-cd722ac59115",
-        "create_ts": "2022-06-07T02:28:26.554Z",
-        "last_update_ts": "2022-06-07T02:28:19.11Z",
-        "active_ind": "Y",
-        "file_manager_id": "7e8698e4-4735-4ca2-a57c-4b7344808089",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Markwayne Mullins for US Senate",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Markwayne Mullins for US Senate/Markwayne Mullin for US Senate 06.07.22-06.13.22 #142562",
-        "entity_id": "25382",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "OKLAHOMA CITY",
-        "callsign": "KWTV-DT",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1734941246264180700,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -422,12 +418,12 @@
         "2019": 13897,
         "2020": 124881,
         "2021": 22713,
-        "2022": 36778,
+        "2022": 36780,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 78518,
+        "State": 78520,
         "US Senate": 53166,
         "US House": 45218,
         "Presidential": 38373,
@@ -466,12 +462,12 @@
       "source_service_code": {
         "TV": 252325,
         "CABLE": 131142,
-        "FM": 119810,
+        "FM": 119812,
         "AM": 46013,
         "DBS": 6055
       },
       "political_file_type": {
-        "PA": 244154,
+        "PA": 244156,
         "NCIA": 132498
       }
     }
@@ -488,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 71,
-    "processTime": 77,
-    "responseTime": 78
+    "queryTime": 213,
+    "processTime": 220,
+    "responseTime": 220
   }
 }
