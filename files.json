@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 556072,
+    "numFound": 556071,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
@@ -280,7 +280,7 @@
         "PHILADELPHIA": 2309,
         "Greenville-Spartanburg-Asheville-Anderson": 2305,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2191,
-        "TAMPA-ST. PETE (SARASOTA)": 2164,
+        "TAMPA-ST. PETE (SARASOTA)": 2163,
         "LEXINGTON": 2147,
         "ROCKFORD": 2089,
         "LA CROSSE-EAU CLAIRE": 2052,
@@ -349,7 +349,7 @@
       "network_affiliation": {
         "ABC": 63003,
         "NBC": 60109,
-        "CBS": 41697,
+        "CBS": 41696,
         "FOX": 29854,
         "PBS": 14761,
         "CW": 12343,
@@ -419,7 +419,7 @@
         "2019": 13897,
         "2020": 124870,
         "2021": 22713,
-        "2022": 37502,
+        "2022": 37501,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -461,7 +461,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 252767,
+        "TV": 252766,
         "CABLE": 131214,
         "FM": 119934,
         "AM": 46054,
@@ -469,7 +469,7 @@
       },
       "political_file_type": {
         "PA": 244678,
-        "NCIA": 132686
+        "NCIA": 132685
       }
     }
   },
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1861,
-    "processTime": 871,
-    "responseTime": 1872
+    "queryTime": 1884,
+    "processTime": 893,
+    "responseTime": 1893
   }
 }
