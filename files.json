@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 556578,
+    "numFound": 556579,
     "start": 0,
     "maxScore": 0.5001636,
     "docs": [
+      {
+        "id": "39ba9a3d-3fae-a453-e723-29e0715890e5",
+        "file_id": "39ba9a3d-3fae-a453-e723-29e0715890e5",
+        "file_name": "Kleefisch NAB 2022 WI D2 Fair and Secure 30 H 060822",
+        "file_extension": "pdf",
+        "file_size": 105200,
+        "file_status": "com_cpy",
+        "folder_id": "6e9aaa56-a355-fc6e-a1bf-bf3fc4b5eb02",
+        "create_ts": "2022-06-09T02:23:58.652Z",
+        "last_update_ts": "2022-06-09T02:23:50.542Z",
+        "active_ind": "Y",
+        "file_manager_id": "a49202e5-84c2-4ea5-b49e-95504ffce1e2",
+        "file_folder_path": "Political Files/2022/State/Wisconsin/Rebecca Kleefisch WI Governor",
+        "full_qualified_file_name": "Political Files/2022/State/Wisconsin/Rebecca Kleefisch WI Governor/Kleefisch NAB 2022 WI D2 Fair and Secure 30 H 060822",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1735122159141912600,
+        "score": 0.24995682
+      },
       {
         "id": "7d3dac5d-3c84-c730-05a7-b7c3a2c18b3e",
         "file_id": "7d3dac5d-3c84-c730-05a7-b7c3a2c18b3e",
@@ -204,27 +226,6 @@
         "campaign_year": "2022",
         "_version_": 1735118869260927000,
         "score": 0.24995682
-      },
-      {
-        "id": "f15f6a01-7695-f9a9-a534-5cf255a52969",
-        "file_id": "f15f6a01-7695-f9a9-a534-5cf255a52969",
-        "file_name": "20220606_7798_NCIA_SAVEMISSOURIVALUESNCCSPG-MO_REV_389558-00",
-        "file_extension": "pdf",
-        "file_size": 10762,
-        "file_status": "com_cpy",
-        "folder_id": "f1c8fe5f-5197-e583-f9a6-2c8d6130a5a5",
-        "create_ts": "2022-06-09T01:30:24.211Z",
-        "last_update_ts": "2022-06-09T01:30:16.076Z",
-        "active_ind": "Y",
-        "file_manager_id": "8700a226-a0ff-4c66-ace7-0ad895de4e55",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Missouri/SAVE MISSOURI VALUES",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Missouri/SAVE MISSOURI VALUES/20220606_7798_NCIA_SAVEMISSOURIVALUESNCCSPG-MO_REV_389558-00",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1735118788514283500,
-        "score": 0.24995682
       }
     ],
     "facets": {
@@ -403,12 +404,12 @@
         "2019": 13897,
         "2020": 124870,
         "2021": 22735,
-        "2022": 37984,
+        "2022": 37985,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 78886,
+        "State": 78887,
         "US Senate": 53321,
         "US House": 45405,
         "Presidential": 38372,
@@ -449,10 +450,10 @@
         "CABLE": 131234,
         "FM": 120171,
         "AM": 46104,
-        "DBS": 6121
+        "DBS": 6122
       },
       "political_file_type": {
-        "PA": 245031,
+        "PA": 245032,
         "NCIA": 132837
       }
     }
@@ -469,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1857,
-    "processTime": 865,
-    "responseTime": 1865
+    "queryTime": 1822,
+    "processTime": 832,
+    "responseTime": 1832
   }
 }
