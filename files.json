@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 557860,
+    "numFound": 557861,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "e84c2587-07fd-4b1f-44d6-c5ca93f6b508",
+        "file_id": "e84c2587-07fd-4b1f-44d6-c5ca93f6b508",
+        "file_name": "698839_Invoice_20220610085801",
+        "file_extension": "pdf",
+        "file_size": 130688,
+        "file_status": "com_cpy",
+        "folder_id": "b355a1f7-b6b2-c4f2-5707-f4def9af4a6f",
+        "create_ts": "2022-06-11T09:30:03.566Z",
+        "last_update_ts": "2022-06-11T09:30:58.56Z",
+        "active_ind": "Y",
+        "file_manager_id": "46f25be2-f2db-4d4b-960f-7f028ba0554d",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698839_Invoice_20220610085801",
+        "entity_id": "006401",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF INDIANA/KENTUCKY/UTAH",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1735330159987261400,
+        "score": 0.0001249784
+      },
       {
         "id": "99e7b1df-c679-9970-84a1-b55983178a1a",
         "file_id": "99e7b1df-c679-9970-84a1-b55983178a1a",
@@ -225,28 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1735298945449459700,
         "score": 0.24995679
-      },
-      {
-        "id": "02eb0d61-2f90-f067-3fb9-4da27c42787b",
-        "file_id": "02eb0d61-2f90-f067-3fb9-4da27c42787b",
-        "file_name": "06092022 PEOPLE WHO PLAY BY THE RULES PAC 1562-25-3",
-        "file_extension": "pdf",
-        "file_size": 154253,
-        "file_status": "com_cpy",
-        "folder_id": "273eb860-d4fd-a841-6eaf-55d11e7e03a8",
-        "create_ts": "2022-06-11T01:12:21.36Z",
-        "last_update_ts": "2022-06-11T01:12:23.747Z",
-        "active_ind": "Y",
-        "file_manager_id": "f8504c4c-d521-43c9-acdc-e700a0041feb",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/06092022 PEOPLE WHO PLAY BY THE RULES PAC 1562-25-3",
-        "entity_id": "56229",
-        "source_service_code": "FM",
-        "callsign": "WQLZ",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1735298847096176600,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -425,7 +428,7 @@
         "2019": 13897,
         "2020": 124847,
         "2021": 22735,
-        "2022": 39150,
+        "2022": 39151,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -434,7 +437,7 @@
         "US Senate": 53405,
         "US House": 45669,
         "Presidential": 38371,
-        "Local": 27678
+        "Local": 27679
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61677,
@@ -468,13 +471,13 @@
       },
       "source_service_code": {
         "TV": 253487,
-        "CABLE": 131378,
+        "CABLE": 131379,
         "FM": 120561,
         "AM": 46251,
         "DBS": 6183
       },
       "political_file_type": {
-        "PA": 245879,
+        "PA": 245880,
         "NCIA": 133131
       }
     }
@@ -491,8 +494,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1875,
-    "processTime": 883,
-    "responseTime": 1884
+    "queryTime": 214,
+    "processTime": 220,
+    "responseTime": 221
   }
 }
