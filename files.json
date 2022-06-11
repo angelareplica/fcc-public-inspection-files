@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 557852,
+    "numFound": 557853,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "08b6a564-c425-dbe5-ddfe-f997bfdf3759",
+        "file_id": "08b6a564-c425-dbe5-ddfe-f997bfdf3759",
+        "file_name": "Run Betsy Run KOHD 27792466 Est 11812 27327  MG 2   060922",
+        "file_extension": "pdf",
+        "file_size": 10334,
+        "file_status": "com_cpy",
+        "folder_id": "ca31eb15-4a80-e1f0-747d-d3fba0ffbc88",
+        "create_ts": "2022-06-11T05:35:45.911Z",
+        "last_update_ts": "2022-06-11T05:35:37.166Z",
+        "active_ind": "Y",
+        "file_manager_id": "fa6fa5a3-d22e-4941-abe3-071bb309db80",
+        "file_folder_path": "Political Files/2022/State/Governor/Run Betsy Run",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Run Betsy Run/Run Betsy Run KOHD 27792466 Est 11812 27327  MG 2   060922",
+        "entity_id": "166534",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "BEND OR",
+        "callsign": "KOHD",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1735315419234828300,
+        "score": 0.24995679
+      },
       {
         "id": "5c4e3690-462a-a7fa-54f2-b18c2a39fe12",
         "file_id": "5c4e3690-462a-a7fa-54f2-b18c2a39fe12",
@@ -218,30 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1735297271777460200,
         "score": 0.24995679
-      },
-      {
-        "id": "d5b4c530-5447-e12a-2888-c25b4eab4b51",
-        "file_id": "d5b4c530-5447-e12a-2888-c25b4eab4b51",
-        "file_name": "CA FOR TRIBAL SOVEREIGNTY & SAFE GAMING 051622-053022 2270602-1 INVOICE",
-        "file_extension": "pdf",
-        "file_size": 307322,
-        "file_status": "com_cpy",
-        "folder_id": "d810deb1-1d63-481e-ed08-453b65dfd72c",
-        "create_ts": "2022-06-11T00:45:56.576Z",
-        "last_update_ts": "2022-06-11T00:45:48.058Z",
-        "active_ind": "Y",
-        "file_manager_id": "7f0aff4c-7b9d-4525-b09b-66cd4252c642",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/CALIFORNIANS FOR TRIBAL SOVEREIGNTY  SAFE GAMING",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/CALIFORNIANS FOR TRIBAL SOVEREIGNTY  SAFE GAMING/CA FOR TRIBAL SOVEREIGNTY & SAFE GAMING 051622-053022 2270602-1 INVOICE",
-        "entity_id": "10242",
-        "source_service_code": "TV",
-        "network_affiliation": "MNT",
-        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
-        "callsign": "KQCA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1735297185383186400,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -265,7 +266,7 @@
         "MISSOULA": 3481,
         "CHAMPAIGN&SPRNGFLD-DECATUR": 3244,
         "MINNEAPOLIS-ST. PAUL": 3218,
-        "BEND OR": 3203,
+        "BEND OR": 3204,
         "SACRAMNTO-STKTON-MODESTO": 3040,
         "FRESNO-VISALIA": 2907,
         "CHICAGO": 2875,
@@ -348,7 +349,7 @@
         "BOSTON (MANCHESTER)": 627
       },
       "network_affiliation": {
-        "ABC": 63171,
+        "ABC": 63172,
         "NBC": 60310,
         "CBS": 41814,
         "FOX": 29997,
@@ -420,12 +421,12 @@
         "2019": 13897,
         "2020": 124847,
         "2021": 22735,
-        "2022": 39142,
+        "2022": 39143,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 79158,
+        "State": 79159,
         "US Senate": 53405,
         "US House": 45669,
         "Presidential": 38371,
@@ -462,14 +463,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 253486,
+        "TV": 253487,
         "CABLE": 131371,
         "FM": 120561,
         "AM": 46251,
         "DBS": 6183
       },
       "political_file_type": {
-        "PA": 245871,
+        "PA": 245872,
         "NCIA": 133131
       }
     }
@@ -486,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1881,
-    "processTime": 892,
-    "responseTime": 1893
+    "queryTime": 1826,
+    "processTime": 835,
+    "responseTime": 1836
   }
 }
