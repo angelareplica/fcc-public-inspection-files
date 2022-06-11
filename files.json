@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 557858,
+    "numFound": 557860,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "99e7b1df-c679-9970-84a1-b55983178a1a",
+        "file_id": "99e7b1df-c679-9970-84a1-b55983178a1a",
+        "file_name": "698839_Invoice_20220610085801",
+        "file_extension": "pdf",
+        "file_size": 130688,
+        "file_status": "com_cpy",
+        "folder_id": "6a7cf252-7508-d70a-a071-2e3175d0e401",
+        "create_ts": "2022-06-11T09:19:29.177Z",
+        "last_update_ts": "2022-06-11T09:20:24.088Z",
+        "active_ind": "Y",
+        "file_manager_id": "63a5e403-bb93-470c-84c0-d77e5333e797",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698839_Invoice_20220610085801",
+        "entity_id": "006193",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS VI INC",
+        "operator_city_name": "Philadelphia",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1735329494718218200,
+        "score": 0.0001249784
+      },
+      {
+        "id": "c54272be-55a1-d24a-fe4d-212990f3f2c7",
+        "file_id": "c54272be-55a1-d24a-fe4d-212990f3f2c7",
+        "file_name": "698839_Invoice_20220610085801",
+        "file_extension": "pdf",
+        "file_size": 130688,
+        "file_status": "com_cpy",
+        "folder_id": "a8496cc0-413f-207f-04ab-cd5b7e8aa742",
+        "create_ts": "2022-06-11T08:46:11.233Z",
+        "last_update_ts": "2022-06-11T08:46:02.57Z",
+        "active_ind": "Y",
+        "file_manager_id": "ddbf710d-262b-479b-a56f-d7d9890c0243",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698839_Invoice_20220610085801",
+        "entity_id": "005892",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF CALIFORNIA/COLORADO/ILLINOIS/INDIANA/MICHIGAN, LP",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1735327399675953200,
+        "score": 0.0001249784
+      },
       {
         "id": "47a8864a-128f-6fa1-0bc8-62ab41e4b048",
         "file_id": "47a8864a-128f-6fa1-0bc8-62ab41e4b048",
@@ -197,53 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1735298847096176600,
         "score": 0.24995679
-      },
-      {
-        "id": "bff8eb1c-255e-01f7-7bb8-fd3739ed1ab9",
-        "file_id": "bff8eb1c-255e-01f7-7bb8-fd3739ed1ab9",
-        "file_name": "06092022 PEOPLE WHO PLAY BY THE RULES PAC 1562-23-2",
-        "file_extension": "pdf",
-        "file_size": 148720,
-        "file_status": "com_cpy",
-        "folder_id": "c6df4b0b-ec42-790e-aa36-c38d7258c826",
-        "create_ts": "2022-06-11T01:10:35.811Z",
-        "last_update_ts": "2022-06-11T01:10:38.207Z",
-        "active_ind": "Y",
-        "file_manager_id": "c9f97e1c-b57e-4a70-935f-50508a99b3a7",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/06092022 PEOPLE WHO PLAY BY THE RULES PAC 1562-23-2",
-        "entity_id": "38346",
-        "source_service_code": "FM",
-        "callsign": "WMAY-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1735298736432611300,
-        "score": 0.24995679
-      },
-      {
-        "id": "c943192e-e534-c233-04d5-2669ebf6e5fb",
-        "file_id": "c943192e-e534-c233-04d5-2669ebf6e5fb",
-        "file_name": "HO NP DISTRICT ATTORNEY 051722-052322 2262010-2 INVOICE",
-        "file_extension": "pdf",
-        "file_size": 304478,
-        "file_status": "com_cpy",
-        "folder_id": "52bbe52d-c1c6-3485-bd35-07a7f5e0bce5",
-        "create_ts": "2022-06-11T00:47:18.83Z",
-        "last_update_ts": "2022-06-11T01:00:08.877Z",
-        "active_ind": "Y",
-        "file_manager_id": "cec4e6e0-c56a-4731-b49a-4bc4645bd3e8",
-        "file_folder_path": "Political Files/2022/Local/HO NP DISTRICT ATTORNEY",
-        "full_qualified_file_name": "Political Files/2022/Local/HO NP DISTRICT ATTORNEY/HO NP DISTRICT ATTORNEY 051722-052322 2262010-2 INVOICE",
-        "entity_id": "10242",
-        "source_service_code": "TV",
-        "network_affiliation": "MNT",
-        "nielsen_dma_rank": "SACRAMNTO-STKTON-MODESTO",
-        "callsign": "KQCA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1735298022408978400,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -422,7 +425,7 @@
         "2019": 13897,
         "2020": 124847,
         "2021": 22735,
-        "2022": 39148,
+        "2022": 39150,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -431,7 +434,7 @@
         "US Senate": 53405,
         "US House": 45669,
         "Presidential": 38371,
-        "Local": 27676
+        "Local": 27678
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61677,
@@ -465,13 +468,13 @@
       },
       "source_service_code": {
         "TV": 253487,
-        "CABLE": 131376,
+        "CABLE": 131378,
         "FM": 120561,
         "AM": 46251,
         "DBS": 6183
       },
       "political_file_type": {
-        "PA": 245877,
+        "PA": 245879,
         "NCIA": 133131
       }
     }
@@ -488,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1867,
-    "processTime": 875,
-    "responseTime": 1875
+    "queryTime": 1875,
+    "processTime": 883,
+    "responseTime": 1884
   }
 }
