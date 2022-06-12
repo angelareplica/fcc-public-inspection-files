@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 557867,
+    "numFound": 557869,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "56fec6f1-7a5d-f220-fc0c-7576e50a78d6",
+        "file_id": "56fec6f1-7a5d-f220-fc0c-7576e50a78d6",
+        "file_name": "WMXI-FM LOG - THE DAN BONGINO SHOW - WWO - 2022-06-06 - 2022-06-12",
+        "file_extension": "pdf",
+        "file_size": 1645377,
+        "file_status": "com_cpy",
+        "folder_id": "132b62b0-220f-d037-aaaf-e26ff3768c16",
+        "create_ts": "2022-06-12T02:34:34.764Z",
+        "last_update_ts": "2022-06-12T02:34:37.586Z",
+        "active_ind": "Y",
+        "file_manager_id": "46588ee1-8918-4514-a0e8-1ed26331915a",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance/WMXI-FM LOG - THE DAN BONGINO SHOW - WWO - 2022-06-06 - 2022-06-12",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1735394617576128500,
+        "score": 0.24995679
+      },
+      {
+        "id": "9487fc77-baa6-7cbe-e0aa-c303ebc367c3",
+        "file_id": "9487fc77-baa6-7cbe-e0aa-c303ebc367c3",
+        "file_name": "WMXI-FM LOG - CLS MARK LEVIN - WWO - 2022-06-06 - 2022-06-12",
+        "file_extension": "pdf",
+        "file_size": 1614324,
+        "file_status": "com_cpy",
+        "folder_id": "132b62b0-220f-d037-aaaf-e26ff3768c16",
+        "create_ts": "2022-06-12T02:34:34.348Z",
+        "last_update_ts": "2022-06-12T02:34:37.519Z",
+        "active_ind": "Y",
+        "file_manager_id": "e45d999d-8a7a-447c-8ca7-acc3de35d392",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance/WMXI-FM LOG - CLS MARK LEVIN - WWO - 2022-06-06 - 2022-06-12",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1735394617510068200,
+        "score": 0.24995679
+      },
       {
         "id": "a8de3d5f-dd1b-efe1-bb84-d601d21ab756",
         "file_id": "a8de3d5f-dd1b-efe1-bb84-d601d21ab756",
@@ -193,56 +237,6 @@
         "campaign_year": "2022",
         "_version_": 1735329494718218200,
         "score": 0.0001249784
-      },
-      {
-        "id": "c54272be-55a1-d24a-fe4d-212990f3f2c7",
-        "file_id": "c54272be-55a1-d24a-fe4d-212990f3f2c7",
-        "file_name": "698839_Invoice_20220610085801",
-        "file_extension": "pdf",
-        "file_size": 130688,
-        "file_status": "com_cpy",
-        "folder_id": "a8496cc0-413f-207f-04ab-cd5b7e8aa742",
-        "create_ts": "2022-06-11T08:46:11.233Z",
-        "last_update_ts": "2022-06-11T08:46:02.57Z",
-        "active_ind": "Y",
-        "file_manager_id": "ddbf710d-262b-479b-a56f-d7d9890c0243",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698839_Invoice_20220610085801",
-        "entity_id": "005892",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF CALIFORNIA/COLORADO/ILLINOIS/INDIANA/MICHIGAN, LP",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1735327399675953200,
-        "score": 0.0001249784
-      },
-      {
-        "id": "47a8864a-128f-6fa1-0bc8-62ab41e4b048",
-        "file_id": "47a8864a-128f-6fa1-0bc8-62ab41e4b048",
-        "file_name": "698839_Invoice_20220610085801",
-        "file_extension": "pdf",
-        "file_size": 130688,
-        "file_status": "com_cpy",
-        "folder_id": "5bf489ed-f4b2-4e86-b8c1-8a0a7f4b9535",
-        "create_ts": "2022-06-11T08:40:52.168Z",
-        "last_update_ts": "2022-06-11T08:40:43.52Z",
-        "active_ind": "Y",
-        "file_manager_id": "1212c5db-c318-468c-8d91-c60ff87b19e0",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698839_Invoice_20220610085801",
-        "entity_id": "005891",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF ILLINOIS/INDIANA/MICHIGAN INC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1735327065133023200,
-        "score": 0.0001249784
       }
     ],
     "facets": {
@@ -421,7 +415,7 @@
         "2019": 13897,
         "2020": 124847,
         "2021": 22735,
-        "2022": 39157,
+        "2022": 39159,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -465,13 +459,13 @@
       "source_service_code": {
         "TV": 253487,
         "CABLE": 131380,
-        "FM": 120564,
+        "FM": 120566,
         "AM": 46253,
         "DBS": 6183
       },
       "political_file_type": {
         "PA": 245886,
-        "NCIA": 133131
+        "NCIA": 133133
       }
     }
   },
@@ -487,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1817,
-    "processTime": 827,
-    "responseTime": 1828
+    "queryTime": 369,
+    "processTime": 378,
+    "responseTime": 379
   }
 }
