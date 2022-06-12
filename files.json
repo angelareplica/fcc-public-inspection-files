@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 557866,
+    "numFound": 557867,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "a8de3d5f-dd1b-efe1-bb84-d601d21ab756",
+        "file_id": "a8de3d5f-dd1b-efe1-bb84-d601d21ab756",
+        "file_name": "2022-06-11 - Transcript",
+        "file_extension": "pdf",
+        "file_size": 148340,
+        "file_status": "com_cpy",
+        "folder_id": "8448fc13-15eb-6fd1-3a34-ada736605381",
+        "create_ts": "2022-06-12T02:25:48.46Z",
+        "last_update_ts": "2022-06-12T02:25:50.912Z",
+        "active_ind": "Y",
+        "file_manager_id": "217f9620-c275-4aa7-ad96-e698c50c0ed9",
+        "file_folder_path": "Political Files/2022/Federal/US House/Friends of Michael Guest",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Friends of Michael Guest/2022-06-11 - Transcript",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1735394065326801000,
+        "score": 0.24995679
+      },
       {
         "id": "686e1dff-5c99-4aee-1e5f-252ae9ad4bc1",
         "file_id": "686e1dff-5c99-4aee-1e5f-252ae9ad4bc1",
@@ -220,31 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1735327065133023200,
         "score": 0.0001249784
-      },
-      {
-        "id": "d1df1169-f58b-fb22-e734-ab5092c09d20",
-        "file_id": "d1df1169-f58b-fb22-e734-ab5092c09d20",
-        "file_name": "698839_Invoice_20220610085801",
-        "file_extension": "pdf",
-        "file_size": 130688,
-        "file_status": "com_cpy",
-        "folder_id": "5fb67ffd-b08a-0c25-df48-cf0b7b100653",
-        "create_ts": "2022-06-11T08:35:34.709Z",
-        "last_update_ts": "2022-06-11T08:35:26.021Z",
-        "active_ind": "Y",
-        "file_manager_id": "d19da9e4-38ee-4eeb-8bdf-e0ace76eec84",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698839_Invoice_20220610085801",
-        "entity_id": "005890",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF ILLINOIS IV INC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1735326732208046000,
-        "score": 0.0001249784
       }
     ],
     "facets": {
@@ -423,14 +421,14 @@
         "2019": 13897,
         "2020": 124847,
         "2021": 22735,
-        "2022": 39156,
+        "2022": 39157,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 79159,
         "US Senate": 53405,
-        "US House": 45669,
+        "US House": 45670,
         "Presidential": 38371,
         "Local": 27684
       },
@@ -467,12 +465,12 @@
       "source_service_code": {
         "TV": 253487,
         "CABLE": 131380,
-        "FM": 120563,
+        "FM": 120564,
         "AM": 46253,
         "DBS": 6183
       },
       "political_file_type": {
-        "PA": 245885,
+        "PA": 245886,
         "NCIA": 133131
       }
     }
@@ -489,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 213,
-    "processTime": 221,
-    "responseTime": 221
+    "queryTime": 1817,
+    "processTime": 827,
+    "responseTime": 1828
   }
 }
