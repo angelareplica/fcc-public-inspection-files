@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 557872,
+    "numFound": 557828,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
@@ -292,10 +292,10 @@
         "PHOENIX (PRESCOTT)": 1594,
         "GREENVLL-SPART-ASHEVLL-AND": 1561,
         "PADUCAH-CAPE GIRARD-HARSBG": 1553,
-        "MINOT-BISMARCK-DICKINSON": 1470,
         "FARGO-VALLEY CITY": 1446,
         "LITTLE ROCK-PINE BLUFF": 1434,
         "BURLINGTON-PLATTSBURGH": 1432,
+        "MINOT-BISMARCK-DICKINSON": 1426,
         "CHATTANOOGA": 1380,
         "PROVIDENCE-NEW BEDFORD": 1373,
         "GREEN BAY-APPLETON": 1311,
@@ -345,7 +345,7 @@
       "network_affiliation": {
         "ABC": 63172,
         "NBC": 60310,
-        "CBS": 41817,
+        "CBS": 41773,
         "FOX": 29997,
         "PBS": 14790,
         "CW": 12356,
@@ -413,7 +413,7 @@
         "2017": 10342,
         "2018": 67613,
         "2019": 13897,
-        "2020": 124847,
+        "2020": 124803,
         "2021": 22735,
         "2022": 39162,
         "KYAZ": 5,
@@ -457,7 +457,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 253490,
+        "TV": 253446,
         "CABLE": 131380,
         "FM": 120566,
         "AM": 46253,
@@ -465,7 +465,7 @@
       },
       "political_file_type": {
         "PA": 245889,
-        "NCIA": 133133
+        "NCIA": 133089
       }
     }
   },
@@ -481,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 215,
-    "processTime": 223,
-    "responseTime": 224
+    "queryTime": 221,
+    "processTime": 229,
+    "responseTime": 230
   }
 }
