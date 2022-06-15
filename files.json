@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 560356,
+    "numFound": 560357,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "921d7e35-e0fe-331c-86d4-239fe17a9a32",
+        "file_id": "921d7e35-e0fe-331c-86d4-239fe17a9a32",
+        "file_name": "DMFI PAC 06.01.22-06.15.22 #341336 Rev 1",
+        "file_extension": "pdf",
+        "file_size": 132292,
+        "file_status": "com_cpy",
+        "folder_id": "0513226d-ab7a-771e-2029-e2165692c55e",
+        "create_ts": "2022-06-15T23:41:55.719Z",
+        "last_update_ts": "2022-06-15T23:41:45.702Z",
+        "active_ind": "Y",
+        "file_manager_id": "ea249d67-a9cd-4258-8f8a-1eca75018d59",
+        "file_folder_path": "Political Files/2022/Federal/US House/DMFI PAC",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/DMFI PAC/DMFI PAC 06.01.22-06.15.22 #341336 Rev 1",
+        "entity_id": "73226",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "CHICAGO",
+        "callsign": "WLS-TV",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1735746142654693400,
+        "score": 0.24995679
+      },
+      {
+        "id": "f9a95654-29bd-9408-9bba-49c8f94e8d3a",
+        "file_id": "f9a95654-29bd-9408-9bba-49c8f94e8d3a",
+        "file_name": "DMFI PAC 06.01.22-06.27.22 #341336",
+        "file_extension": "pdf",
+        "file_size": 132492,
+        "file_status": "com_cpy",
+        "folder_id": "0513226d-ab7a-771e-2029-e2165692c55e",
+        "create_ts": "2022-06-15T23:41:55.639Z",
+        "last_update_ts": "2022-06-15T23:41:45.541Z",
+        "active_ind": "Y",
+        "file_manager_id": "0184df68-62d0-42bd-931a-b7164cf7a19b",
+        "file_folder_path": "Political Files/2022/Federal/US House/DMFI PAC",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/DMFI PAC/DMFI PAC 06.01.22-06.27.22 #341336",
+        "entity_id": "73226",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "CHICAGO",
+        "callsign": "WLS-TV",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1735746142487969800,
+        "score": 0.24995679
+      },
       {
         "id": "a7a0ec71-11c3-f514-fa8b-a448b9fb0a4f",
         "file_id": "a7a0ec71-11c3-f514-fa8b-a448b9fb0a4f",
@@ -186,50 +236,6 @@
         "campaign_year": "2022",
         "_version_": 1735742787519774700,
         "score": 0.24995679
-      },
-      {
-        "id": "deb9f134-2872-3e2f-8b85-d641d201eff9",
-        "file_id": "deb9f134-2872-3e2f-8b85-d641d201eff9",
-        "file_name": "WNOB-Free American PAC-Advertising Copy for Contract CON-NOR-RR-3674-060822",
-        "file_extension": "pdf",
-        "file_size": 15059,
-        "file_status": "com_cpy",
-        "folder_id": "4826f87b-ad4a-8d6a-9e60-e2a5e0ecb61a",
-        "create_ts": "2022-06-09T16:16:26.966Z",
-        "last_update_ts": "2022-06-15T22:47:38.6Z",
-        "active_ind": "Y",
-        "file_manager_id": "691c19c1-4a5c-4efe-a526-1b1b0a87b770",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Free American PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Free American PAC/WNOB-Free American PAC-Advertising Copy for Contract CON-NOR-RR-3674-060822",
-        "entity_id": "73184",
-        "source_service_code": "FM",
-        "callsign": "WNOB",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1735742737817272300,
-        "score": 0.24995679
-      },
-      {
-        "id": "5d20a9c7-5482-dc69-74d8-b14748ac63b3",
-        "file_id": "5d20a9c7-5482-dc69-74d8-b14748ac63b3",
-        "file_name": "WNOB-Free American PAC-Insertion Order-060822",
-        "file_extension": "pdf",
-        "file_size": 103590,
-        "file_status": "com_cpy",
-        "folder_id": "4826f87b-ad4a-8d6a-9e60-e2a5e0ecb61a",
-        "create_ts": "2022-06-09T16:35:05.879Z",
-        "last_update_ts": "2022-06-15T22:47:12.388Z",
-        "active_ind": "Y",
-        "file_manager_id": "6a570e97-216c-4095-b5a8-6b97126d033f",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Free American PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Free American PAC/WNOB-Free American PAC-Insertion Order-060822",
-        "entity_id": "73184",
-        "source_service_code": "FM",
-        "callsign": "WNOB",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1735742710333046800,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -255,7 +261,7 @@
         "CHAMPAIGN&SPRNGFLD-DECATUR": 3244,
         "BEND OR": 3213,
         "SACRAMNTO-STKTON-MODESTO": 3075,
-        "CHICAGO": 2920,
+        "CHICAGO": 2921,
         "FRESNO-VISALIA": 2907,
         "WAUSAU-RHINELANDER": 2895,
         "SAVANNAH": 2816,
@@ -336,7 +342,7 @@
         "BOSTON (MANCHESTER)": 629
       },
       "network_affiliation": {
-        "ABC": 63475,
+        "ABC": 63476,
         "NBC": 60483,
         "CBS": 41993,
         "FOX": 30173,
@@ -408,14 +414,14 @@
         "2019": 13896,
         "2020": 124794,
         "2021": 22736,
-        "2022": 41676,
+        "2022": 41677,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 79919,
         "US Senate": 53830,
-        "US House": 45918,
+        "US House": 45919,
         "Presidential": 38367,
         "Local": 27732
       },
@@ -450,14 +456,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 254442,
+        "TV": 254443,
         "CABLE": 132465,
         "FM": 120832,
         "AM": 46363,
         "DBS": 6254
       },
       "political_file_type": {
-        "PA": 247369,
+        "PA": 247370,
         "NCIA": 134112
       }
     }
@@ -474,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 831,
-    "processTime": 839,
-    "responseTime": 840
+    "queryTime": 1887,
+    "processTime": 894,
+    "responseTime": 1894
   }
 }
