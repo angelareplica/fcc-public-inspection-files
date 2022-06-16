@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 560407,
+    "numFound": 560409,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "7a0bee2a-3bf9-b220-c91c-08df73cef4cb",
+        "file_id": "7a0bee2a-3bf9-b220-c91c-08df73cef4cb",
+        "file_name": "2022-06-68612-KYTNFM-BENNY-MCGUIRE-TIMEORDER",
+        "file_extension": "pdf",
+        "file_size": 308440,
+        "file_status": "com_cpy",
+        "folder_id": "a01cd3f4-ea66-8c24-411c-71e77ec73ced",
+        "create_ts": "2022-06-16T11:39:43.618Z",
+        "last_update_ts": "2022-06-16T11:39:33.508Z",
+        "active_ind": "Y",
+        "file_manager_id": "c5634099-7118-4e2e-b6ce-fca174eb6c65",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/2022-06-68612-KYTNFM-BENNY-MCGUIRE-TIMEORDER",
+        "entity_id": "68612",
+        "source_service_code": "FM",
+        "callsign": "KYTN",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1735791302681821200,
+        "score": 0.24995679
+      },
+      {
+        "id": "80ceb7c9-5b35-0b78-43b0-86cf0f8de061",
+        "file_id": "80ceb7c9-5b35-0b78-43b0-86cf0f8de061",
+        "file_name": "2022-06-67054-WCMTAM-BENNY-MCGUIRE-TIMEORDER",
+        "file_extension": "pdf",
+        "file_size": 631804,
+        "file_status": "com_cpy",
+        "folder_id": "7f19e5c2-3d44-b703-d262-d17454a23c92",
+        "create_ts": "2022-06-16T11:38:12.095Z",
+        "last_update_ts": "2022-06-16T11:38:02.077Z",
+        "active_ind": "Y",
+        "file_manager_id": "e8b8d94a-a404-49dc-ab68-4a5a20735a23",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/2022-06-67054-WCMTAM-BENNY-MCGUIRE-TIMEORDER",
+        "entity_id": "67054",
+        "source_service_code": "AM",
+        "callsign": "WCMT",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1735791206808420400,
+        "score": 0.24995679
+      },
       {
         "id": "5c13c962-1c6a-d464-35e7-80e35a410200",
         "file_id": "5c13c962-1c6a-d464-35e7-80e35a410200",
@@ -178,50 +224,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2022",
         "_version_": 1735760176780148700,
-        "score": 0.24995679
-      },
-      {
-        "id": "35372a0c-950e-9147-f2dc-0ec4ae1da706",
-        "file_id": "35372a0c-950e-9147-f2dc-0ec4ae1da706",
-        "file_name": "WUSH-Winning for Women Action Fund-Katz Insertion Order 35978914-061522",
-        "file_extension": "pdf",
-        "file_size": 73323,
-        "file_status": "com_cpy",
-        "folder_id": "156e86e5-e88e-23a2-703a-943b8473e37c",
-        "create_ts": "2022-06-15T17:30:44.541Z",
-        "last_update_ts": "2022-06-16T03:25:34.99Z",
-        "active_ind": "Y",
-        "file_manager_id": "6527652b-2878-483c-80f5-1ddf3fad7d7b",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Winning For Women Action Fund",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Winning For Women Action Fund/WUSH-Winning for Women Action Fund-Katz Insertion Order 35978914-061522",
-        "entity_id": "78447",
-        "source_service_code": "FM",
-        "callsign": "WUSH",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1735760144081354800,
-        "score": 0.24995679
-      },
-      {
-        "id": "0586a4cf-4acd-ed5a-a412-4f4b65933230",
-        "file_id": "0586a4cf-4acd-ed5a-a412-4f4b65933230",
-        "file_name": "WUSH-Winning for Women Action Fund-Advertising Copy for Contract CON-NOR-RR-3726-061522",
-        "file_extension": "docx",
-        "file_size": 16056,
-        "file_status": "com_prc",
-        "folder_id": "156e86e5-e88e-23a2-703a-943b8473e37c",
-        "create_ts": "2022-06-16T03:24:59.541Z",
-        "last_update_ts": "2022-06-16T03:25:04.805Z",
-        "active_ind": "Y",
-        "file_manager_id": "260ae259-84c9-4f23-b132-4cae7daa2eb9",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Winning For Women Action Fund",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Winning For Women Action Fund/WUSH-Winning for Women Action Fund-Advertising Copy for Contract CON-NOR-RR-3726-061522",
-        "entity_id": "78447",
-        "source_service_code": "FM",
-        "callsign": "WUSH",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1735760192687046700,
         "score": 0.24995679
       }
     ],
@@ -401,7 +403,7 @@
         "2019": 13896,
         "2020": 124794,
         "2021": 22736,
-        "2022": 41727,
+        "2022": 41729,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -410,7 +412,7 @@
         "US Senate": 53830,
         "US House": 45919,
         "Presidential": 38367,
-        "Local": 27738
+        "Local": 27740
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61677,
@@ -445,12 +447,12 @@
       "source_service_code": {
         "TV": 254459,
         "CABLE": 132465,
-        "FM": 120857,
-        "AM": 46372,
+        "FM": 120858,
+        "AM": 46373,
         "DBS": 6254
       },
       "political_file_type": {
-        "PA": 247403,
+        "PA": 247405,
         "NCIA": 134129
       }
     }
@@ -467,8 +469,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 212,
-    "processTime": 220,
-    "responseTime": 220
+    "queryTime": 1865,
+    "processTime": 874,
+    "responseTime": 1874
   }
 }
