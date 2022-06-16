@@ -1,9 +1,76 @@
 {
   "response": {
-    "numFound": 560910,
+    "numFound": 560912,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "0059f941-662e-dc41-0f5d-ec5a7e851ce4",
+        "file_id": "0059f941-662e-dc41-0f5d-ec5a7e851ce4",
+        "file_name": "VoteVets NAB 2022 - GA VVGA0122H Charity 060822",
+        "file_extension": "pdf",
+        "file_size": 1141690,
+        "file_status": "com_cpy",
+        "folder_id": "ba033b79-c280-b86f-347a-ca4b48ff4df6",
+        "create_ts": "2022-06-16T22:36:57.399Z",
+        "last_update_ts": "2022-06-16T22:38:06.204Z",
+        "active_ind": "Y",
+        "file_manager_id": "2169425e-55cc-4961-963e-7812db6c622c",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Georgia/Vote Vets",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Georgia/Vote Vets/VoteVets NAB 2022 - GA VVGA0122H Charity 060822",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1735832652354683000,
+        "score": 0.24995679
+      },
+      {
+        "id": "2e297c9b-82fb-1dfa-badf-bbe961937e88",
+        "file_id": "2e297c9b-82fb-1dfa-badf-bbe961937e88",
+        "file_name": "Univision Issue Ads Intake 09-08-20",
+        "file_extension": "pdf",
+        "file_size": 125926,
+        "file_status": "com_cpy",
+        "folder_id": "bf41cde2-88a7-a91c-a972-34da7b4c7f9b",
+        "create_ts": "2020-09-09T18:03:02.184Z",
+        "last_update_ts": "2022-06-16T22:34:59.82Z",
+        "active_ind": "Y",
+        "file_manager_id": "d7caccd8-e275-4a3d-aed9-afc2036759f0",
+        "file_folder_path": "Political Files/2020/Non-Candidate Issue Ads/House Majority PAC/Contract 126020",
+        "full_qualified_file_name": "Political Files/2020/Non-Candidate Issue Ads/House Majority PAC/Contract 126020/Univision Issue Ads Intake 09-08-20",
+        "entity_id": "18747",
+        "source_service_code": "TV",
+        "callsign": "KABE-CD",
+        "political_file_type": "NCIA",
+        "campaign_year": "2020",
+        "_version_": 1735832456924233700,
+        "score": 0.24995679
+      },
+      {
+        "id": "58056526-bce1-1e42-d40d-c365482bb4ac",
+        "file_id": "58056526-bce1-1e42-d40d-c365482bb4ac",
+        "file_name": "Coalition for Safe Gaming 646324 06.20-06.26.22",
+        "file_extension": "pdf",
+        "file_size": 44628,
+        "file_status": "com_cpy",
+        "folder_id": "717ac60d-0483-6417-117e-4773032a0bcd",
+        "create_ts": "2022-06-16T22:33:36.852Z",
+        "last_update_ts": "2022-06-16T22:33:26.513Z",
+        "active_ind": "Y",
+        "file_manager_id": "1a71c7c1-3954-4e2e-a35e-183acbd77c1d",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Coalition for Safe Gaming 646324 06.20-06.26.22",
+        "entity_id": "16749",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "PALM SPRINGS",
+        "callsign": "KMIR-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1735832441605587000,
+        "score": 0.24995679
+      },
       {
         "id": "e0b73529-1b3c-1af3-3a95-fd9d7eeeaa3f",
         "file_id": "e0b73529-1b3c-1af3-3a95-fd9d7eeeaa3f",
@@ -178,72 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1735831351770218500,
         "score": 0.24995679
-      },
-      {
-        "id": "4e322c0b-ab7f-6759-de74-8c2182d9fc60",
-        "file_id": "4e322c0b-ab7f-6759-de74-8c2182d9fc60",
-        "file_name": "06-16-2022 LIBERTY ACTION COALITION PAC NAB & SCHEDULE",
-        "file_extension": "pdf",
-        "file_size": 205489,
-        "file_status": "com_cpy",
-        "folder_id": "7b37621c-3f87-ef74-197f-b608ddd401ed",
-        "create_ts": "2022-06-16T22:11:36.819Z",
-        "last_update_ts": "2022-06-16T22:11:26.654Z",
-        "active_ind": "Y",
-        "file_manager_id": "29b291a8-f47d-4eeb-8b4e-bc8930a4007d",
-        "file_folder_path": "FCC Authorizations/Additional Documents/LIBERTY ACTION COALITION PAC",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/LIBERTY ACTION COALITION PAC/06-16-2022 LIBERTY ACTION COALITION PAC NAB & SCHEDULE",
-        "entity_id": "160278",
-        "source_service_code": "AM",
-        "callsign": "KZEZ",
-        "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1735831057628921900,
-        "score": 0.24995679
-      },
-      {
-        "id": "54a721a6-08c6-4604-71a0-6f5df46f7b4c",
-        "file_id": "54a721a6-08c6-4604-71a0-6f5df46f7b4c",
-        "file_name": "06-16-2022 LIBERTY ACTION COALITION PAC NAB & SCHEDULE",
-        "file_extension": "pdf",
-        "file_size": 205489,
-        "file_status": "com_cpy",
-        "folder_id": "49e41f78-7c5b-5a19-36fe-22c71d302f28",
-        "create_ts": "2022-06-16T22:08:39.857Z",
-        "last_update_ts": "2022-06-16T22:08:41.893Z",
-        "active_ind": "Y",
-        "file_manager_id": "28d4f703-e91e-474e-9c45-579116e46399",
-        "file_folder_path": "FCC Authorizations/Additional Documents/LIBERTY ACTION COALITION PAC",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/LIBERTY ACTION COALITION PAC/06-16-2022 LIBERTY ACTION COALITION PAC NAB & SCHEDULE",
-        "entity_id": "12325",
-        "source_service_code": "AM",
-        "callsign": "KZNU",
-        "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1735830871968055300,
-        "score": 0.24995679
-      },
-      {
-        "id": "df34ac17-7bf8-a546-4f6f-8a6110f69994",
-        "file_id": "df34ac17-7bf8-a546-4f6f-8a6110f69994",
-        "file_name": "Netchoice-WJTV_061922 to 062622",
-        "file_extension": "pdf",
-        "file_size": 378309,
-        "file_status": "com_cpy",
-        "folder_id": "388e61fd-d5b2-973b-575a-d48ad5aeef6d",
-        "create_ts": "2022-06-16T21:45:22.264Z",
-        "last_update_ts": "2022-06-16T22:00:05.591Z",
-        "active_ind": "Y",
-        "file_manager_id": "0cdf27c2-ab8e-4a54-a94c-8a3bf87db76c",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/POL Issue-NetchoiceWJTV",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/POL Issue-NetchoiceWJTV/Netchoice-WJTV_061922 to 062622",
-        "entity_id": "48667",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "JACKSON MS",
-        "callsign": "WJTV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1735830261019443200,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -351,7 +352,7 @@
       },
       "network_affiliation": {
         "ABC": 63547,
-        "NBC": 60537,
+        "NBC": 60538,
         "CBS": 42080,
         "FOX": 30247,
         "PBS": 14790,
@@ -422,7 +423,7 @@
         "2019": 13896,
         "2020": 124793,
         "2021": 22736,
-        "2022": 42224,
+        "2022": 42226,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -464,15 +465,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 254775,
+        "TV": 254776,
         "CABLE": 132500,
         "FM": 120948,
         "AM": 46419,
-        "DBS": 6268
+        "DBS": 6269
       },
       "political_file_type": {
         "PA": 247614,
-        "NCIA": 134414
+        "NCIA": 134416
       }
     }
   },
@@ -488,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1825,
-    "processTime": 834,
-    "responseTime": 1834
+    "queryTime": 1867,
+    "processTime": 874,
+    "responseTime": 1875
   }
 }
