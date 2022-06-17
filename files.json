@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 560955,
+    "numFound": 560956,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "9e13b129-e945-744c-ac9d-a008695430e3",
+        "file_id": "9e13b129-e945-744c-ac9d-a008695430e3",
+        "file_name": "Senate Majority PAC_97443 (06.17.22-06.20.22)",
+        "file_extension": "pdf",
+        "file_size": 212426,
+        "file_status": "com_cpy",
+        "folder_id": "3b9c5b7f-72a9-64f5-1ec5-20c0cb6214b6",
+        "create_ts": "2022-06-17T05:14:25.396Z",
+        "last_update_ts": "2022-06-17T05:14:15.139Z",
+        "active_ind": "Y",
+        "file_manager_id": "371190b3-f59b-4ef4-99c3-505a36638479",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Senate Majority PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Senate Majority PAC/Senate Majority PAC_97443 (06.17.22-06.20.22)",
+        "entity_id": "41237",
+        "source_service_code": "TV",
+        "network_affiliation": "ION",
+        "nielsen_dma_rank": "LAS VEGAS",
+        "callsign": "KMCC",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1735857658509918200,
+        "score": 0.24995679
+      },
       {
         "id": "65cae5b1-946c-60c2-6277-7d87c4248df8",
         "file_id": "65cae5b1-946c-60c2-6277-7d87c4248df8",
@@ -208,37 +232,13 @@
         "campaign_year": "2022",
         "_version_": 1735846813550772200,
         "score": 0.24995679
-      },
-      {
-        "id": "e18b32b5-d647-39d3-33f7-44494c710496",
-        "file_id": "e18b32b5-d647-39d3-33f7-44494c710496",
-        "file_name": "Consumer Technology Association 06.25.22-06.30.22 #142993",
-        "file_extension": "pdf",
-        "file_size": 2576733,
-        "file_status": "com_cpy",
-        "folder_id": "45ea9e10-41d2-857b-e7ab-ebe0718469cf",
-        "create_ts": "2022-06-17T02:22:01.66Z",
-        "last_update_ts": "2022-06-17T02:22:04.852Z",
-        "active_ind": "Y",
-        "file_manager_id": "c8a1119a-5262-44dd-8f29-0a24c240f2ac",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Consumer Technology Association",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Consumer Technology Association/Consumer Technology Association 06.25.22-06.30.22 #142993",
-        "entity_id": "25382",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "OKLAHOMA CITY",
-        "callsign": "KWTV-DT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1735846813444866000,
-        "score": 0.24995679
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8419,
         "WILKES BARRE-SCRANTON": 7702,
-        "LAS VEGAS": 7297,
+        "LAS VEGAS": 7298,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7180,
         "PITTSBURGH": 7072,
         "WEST PALM BEACH-FT. PIERCE": 5810,
@@ -352,7 +352,7 @@
         "FAMILYNET": 961,
         "MNT": 938,
         "TELEMUNDO": 931,
-        "ION": 831,
+        "ION": 832,
         "N/A": 654,
         "CBS/CW": 609,
         "UNIMAS": 605,
@@ -410,7 +410,7 @@
         "2019": 13896,
         "2020": 124793,
         "2021": 22736,
-        "2022": 42269,
+        "2022": 42270,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -452,7 +452,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 254789,
+        "TV": 254790,
         "CABLE": 132510,
         "FM": 120966,
         "AM": 46421,
@@ -460,7 +460,7 @@
       },
       "political_file_type": {
         "PA": 247626,
-        "NCIA": 134447
+        "NCIA": 134448
       }
     }
   },
@@ -476,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1822,
-    "processTime": 831,
-    "responseTime": 1832
+    "queryTime": 1883,
+    "processTime": 892,
+    "responseTime": 1893
   }
 }
