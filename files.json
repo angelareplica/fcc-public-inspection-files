@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 560956,
+    "numFound": 560957,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "b2b3339a-fd1f-624d-75cc-660e4a3cfdc6",
+        "file_id": "b2b3339a-fd1f-624d-75cc-660e4a3cfdc6",
+        "file_name": "WWBR MOOLENAAR JUN 16 ORDERConfirm_27456-004",
+        "file_extension": "pdf",
+        "file_size": 5991,
+        "file_status": "com_cpy",
+        "folder_id": "69085246-f9b7-072c-b43f-c54c3b59bcb5",
+        "create_ts": "2022-06-17T10:16:24.031Z",
+        "last_update_ts": "2022-06-17T10:16:25.865Z",
+        "active_ind": "Y",
+        "file_manager_id": "aa38185d-5497-42ac-84c5-6e0363d26d6b",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/WWBR MOOLENAAR JUN 16 ORDERConfirm_27456-004",
+        "entity_id": "70505",
+        "source_service_code": "FM",
+        "callsign": "WWBR",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1735876656993665000,
+        "score": 0.24995679
+      },
       {
         "id": "9e13b129-e945-744c-ac9d-a008695430e3",
         "file_id": "9e13b129-e945-744c-ac9d-a008695430e3",
@@ -208,30 +231,6 @@
         "campaign_year": "2022",
         "_version_": 1735847246979661800,
         "score": 0.24995679
-      },
-      {
-        "id": "91198101-850c-c555-93ee-f9e1b78357d2",
-        "file_id": "91198101-850c-c555-93ee-f9e1b78357d2",
-        "file_name": "Consumer Technology Association 06.19.22-06.24.22 #142992",
-        "file_extension": "pdf",
-        "file_size": 2556577,
-        "file_status": "com_cpy",
-        "folder_id": "45ea9e10-41d2-857b-e7ab-ebe0718469cf",
-        "create_ts": "2022-06-17T02:22:01.661Z",
-        "last_update_ts": "2022-06-17T02:22:04.96Z",
-        "active_ind": "Y",
-        "file_manager_id": "cac972d9-e752-4f0e-8267-77a9b0835789",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Consumer Technology Association",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Consumer Technology Association/Consumer Technology Association 06.19.22-06.24.22 #142992",
-        "entity_id": "25382",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "OKLAHOMA CITY",
-        "callsign": "KWTV-DT",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1735846813550772200,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -410,14 +409,14 @@
         "2019": 13896,
         "2020": 124793,
         "2021": 22736,
-        "2022": 42270,
+        "2022": 42271,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 80054,
         "US Senate": 53847,
-        "US House": 45977,
+        "US House": 45978,
         "Presidential": 38367,
         "Local": 27781
       },
@@ -454,12 +453,12 @@
       "source_service_code": {
         "TV": 254790,
         "CABLE": 132510,
-        "FM": 120966,
+        "FM": 120967,
         "AM": 46421,
         "DBS": 6269
       },
       "political_file_type": {
-        "PA": 247626,
+        "PA": 247627,
         "NCIA": 134448
       }
     }
@@ -476,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1829,
-    "processTime": 839,
-    "responseTime": 1839
+    "queryTime": 1857,
+    "processTime": 872,
+    "responseTime": 1873
   }
 }
