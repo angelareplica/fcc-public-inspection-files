@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 561425,
+    "numFound": 561426,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "59f4d0ce-7a34-f36b-6276-5767046ad48b",
+        "file_id": "59f4d0ce-7a34-f36b-6276-5767046ad48b",
+        "file_name": "WKZK Kwanza Hall Lt Gov Invoice - Order 06.16.22 - 06.17.22",
+        "file_extension": "pdf",
+        "file_size": 4476074,
+        "file_status": "com_cpy",
+        "folder_id": "59e47041-70c8-a207-957e-56a5a6dee468",
+        "create_ts": "2022-06-18T16:49:41.422Z",
+        "last_update_ts": "2022-06-18T16:51:50.079Z",
+        "active_ind": "Y",
+        "file_manager_id": "91f3e9c0-ae94-4864-9843-be7efed4746f",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/WKZK Kwanza Hall Lt Gov Invoice - Order 06.16.22 - 06.17.22",
+        "entity_id": "24696",
+        "source_service_code": "AM",
+        "callsign": "WKZK",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1735992143999139800,
+        "score": 0.24995679
+      },
       {
         "id": "798b6e8a-0f0e-3e93-551e-7625389292a3",
         "file_id": "798b6e8a-0f0e-3e93-551e-7625389292a3",
@@ -220,31 +243,6 @@
         "campaign_year": "2022",
         "_version_": 1735933612959727600,
         "score": 0.24995679
-      },
-      {
-        "id": "982b2061-da37-94a0-c025-ff63f5bb567e",
-        "file_id": "982b2061-da37-94a0-c025-ff63f5bb567e",
-        "file_name": "Citizens for Giannoulias 06.21.22-06.28.22 #342750",
-        "file_extension": "pdf",
-        "file_size": 243655,
-        "file_status": "com_cpy",
-        "folder_id": "17549159-c5c2-39b7-f3bf-577b0aa9e386",
-        "create_ts": "2022-06-18T01:04:22.462Z",
-        "last_update_ts": "2022-06-18T01:20:05.104Z",
-        "active_ind": "Y",
-        "file_manager_id": "26bfe103-5e58-4e2a-bc52-01f4367624e1",
-        "file_folder_path": "Political Files/2022/State/Citizens for Giannoulias",
-        "full_qualified_file_name": "Political Files/2022/State/Citizens for Giannoulias/Citizens for Giannoulias 06.21.22-06.28.22 #342750",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1735933437752115200,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -423,12 +421,12 @@
         "2019": 13896,
         "2020": 124760,
         "2021": 22736,
-        "2022": 42764,
+        "2022": 42765,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 80180,
+        "State": 80181,
         "US Senate": 53864,
         "US House": 46059,
         "Presidential": 38364,
@@ -468,11 +466,11 @@
         "TV": 254970,
         "CABLE": 132579,
         "FM": 121067,
-        "AM": 46533,
+        "AM": 46534,
         "DBS": 6276
       },
       "political_file_type": {
-        "PA": 247915,
+        "PA": 247916,
         "NCIA": 134620
       }
     }
@@ -489,8 +487,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 210,
-    "processTime": 217,
-    "responseTime": 217
+    "queryTime": 1862,
+    "processTime": 869,
+    "responseTime": 1870
   }
 }
