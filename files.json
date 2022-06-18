@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 561424,
+    "numFound": 561425,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "798b6e8a-0f0e-3e93-551e-7625389292a3",
+        "file_id": "798b6e8a-0f0e-3e93-551e-7625389292a3",
+        "file_name": "CHENEY FOR WYOMING US HOUSE 061622",
+        "file_extension": "pdf",
+        "file_size": 192698,
+        "file_status": "com_cpy",
+        "folder_id": "2a55e2cf-f243-06d5-0391-323fcf67e09f",
+        "create_ts": "2022-06-18T05:22:18.722Z",
+        "last_update_ts": "2022-06-18T05:22:20.638Z",
+        "active_ind": "Y",
+        "file_manager_id": "74e048a8-e53b-4c08-b987-22cb96878e10",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/CHENEY FOR WYOMING US HOUSE 061622",
+        "entity_id": "166055",
+        "source_service_code": "FM",
+        "callsign": "KCYA",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1735948751664578600,
+        "score": 0.24995679
+      },
       {
         "id": "5cbbcc73-0838-4bff-c80e-0626d4190756",
         "file_id": "5cbbcc73-0838-4bff-c80e-0626d4190756",
@@ -222,31 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1735933437752115200,
         "score": 0.24995679
-      },
-      {
-        "id": "80b732dc-c349-a05a-ed82-8c0801e81ab5",
-        "file_id": "80b732dc-c349-a05a-ed82-8c0801e81ab5",
-        "file_name": "United with Delia for Congress 06.21.22-06.28.22 #342761",
-        "file_extension": "pdf",
-        "file_size": 214358,
-        "file_status": "com_cpy",
-        "folder_id": "0d330cf8-620f-d575-5dd6-2318f4ef7bb1",
-        "create_ts": "2022-06-18T01:19:53.074Z",
-        "last_update_ts": "2022-06-18T01:19:42.594Z",
-        "active_ind": "Y",
-        "file_manager_id": "85cff413-7420-4a32-930c-162900d5274d",
-        "file_folder_path": "Political Files/2022/Federal/US House/United with Delia for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/United with Delia for Congress/United with Delia for Congress 06.21.22-06.28.22 #342761",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1735933499591884800,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -425,14 +423,14 @@
         "2019": 13896,
         "2020": 124760,
         "2021": 22736,
-        "2022": 42763,
+        "2022": 42764,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 80180,
         "US Senate": 53864,
-        "US House": 46058,
+        "US House": 46059,
         "Presidential": 38364,
         "Local": 27848
       },
@@ -469,12 +467,12 @@
       "source_service_code": {
         "TV": 254970,
         "CABLE": 132579,
-        "FM": 121066,
+        "FM": 121067,
         "AM": 46533,
         "DBS": 6276
       },
       "political_file_type": {
-        "PA": 247914,
+        "PA": 247915,
         "NCIA": 134620
       }
     }
@@ -491,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 213,
-    "processTime": 221,
-    "responseTime": 221
+    "queryTime": 1868,
+    "processTime": 874,
+    "responseTime": 1875
   }
 }
