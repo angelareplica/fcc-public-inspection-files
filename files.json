@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 561426,
+    "numFound": 561428,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "b46b54b0-68b4-3879-aec1-bbb9227350ab",
+        "file_id": "b46b54b0-68b4-3879-aec1-bbb9227350ab",
+        "file_name": "Political Kwanza Hall 06-2022",
+        "file_extension": "pdf",
+        "file_size": 172766,
+        "file_status": "com_cpy",
+        "folder_id": "a2011a8a-b3f0-f98b-6f48-74e9a6ae4e3f",
+        "create_ts": "2022-06-19T17:18:09.168Z",
+        "last_update_ts": "2022-06-19T17:19:24.543Z",
+        "active_ind": "Y",
+        "file_manager_id": "b772c574-97ed-4bff-b64a-cf3ff4108353",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/Political Kwanza Hall 06-2022",
+        "entity_id": "41990",
+        "source_service_code": "FM",
+        "callsign": "WQMJ",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1736084385508098000,
+        "score": 0.24995679
+      },
+      {
+        "id": "4e61f269-e368-9d16-fa7c-1383851a874b",
+        "file_id": "4e61f269-e368-9d16-fa7c-1383851a874b",
+        "file_name": "Political Dee Dawkins Haigler 06-2022",
+        "file_extension": "pdf",
+        "file_size": 1032355,
+        "file_status": "com_cpy",
+        "folder_id": "a2011a8a-b3f0-f98b-6f48-74e9a6ae4e3f",
+        "create_ts": "2022-06-19T17:11:30.874Z",
+        "last_update_ts": "2022-06-19T17:12:46.45Z",
+        "active_ind": "Y",
+        "file_manager_id": "75dc0319-05af-4ad0-b95b-d8c951ca7fcf",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/Political Dee Dawkins Haigler 06-2022",
+        "entity_id": "41990",
+        "source_service_code": "FM",
+        "callsign": "WQMJ",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1736083968095158300,
+        "score": 0.24995679
+      },
       {
         "id": "59f4d0ce-7a34-f36b-6276-5767046ad48b",
         "file_id": "59f4d0ce-7a34-f36b-6276-5767046ad48b",
@@ -193,56 +239,6 @@
         "campaign_year": "2022",
         "_version_": 1735933756974301200,
         "score": 0.24995679
-      },
-      {
-        "id": "8f262045-6491-575d-fd63-5cf5d022a792",
-        "file_id": "8f262045-6491-575d-fd63-5cf5d022a792",
-        "file_name": "Casten for Congress 06.11.22-06.28.22 #342102 Rev 2",
-        "file_extension": "pdf",
-        "file_size": 249300,
-        "file_status": "com_cpy",
-        "folder_id": "eb062b0d-35d0-1134-d6f9-70bf7ee07fb6",
-        "create_ts": "2022-06-18T01:21:42.102Z",
-        "last_update_ts": "2022-06-18T01:22:53.174Z",
-        "active_ind": "Y",
-        "file_manager_id": "9698a1f8-08e1-46e0-838e-6a26454abd09",
-        "file_folder_path": "Political Files/2022/Federal/US House/Casten for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Casten for Congress/Casten for Congress 06.11.22-06.28.22 #342102 Rev 2",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1735933613749305300,
-        "score": 0.24995679
-      },
-      {
-        "id": "b21173c6-066c-04a2-d116-bde77228f54d",
-        "file_id": "b21173c6-066c-04a2-d116-bde77228f54d",
-        "file_name": "Casten for Congress 06.06.22-06.10.22 #341642 Rev 2",
-        "file_extension": "pdf",
-        "file_size": 162890,
-        "file_status": "com_cpy",
-        "folder_id": "eb062b0d-35d0-1134-d6f9-70bf7ee07fb6",
-        "create_ts": "2022-06-18T01:21:41.309Z",
-        "last_update_ts": "2022-06-18T01:22:52.42Z",
-        "active_ind": "Y",
-        "file_manager_id": "d13406e2-da4a-4bd9-a2e1-60a8e0ec6d8f",
-        "file_folder_path": "Political Files/2022/Federal/US House/Casten for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Casten for Congress/Casten for Congress 06.06.22-06.10.22 #341642 Rev 2",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1735933612959727600,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -421,12 +417,12 @@
         "2019": 13896,
         "2020": 124760,
         "2021": 22736,
-        "2022": 42765,
+        "2022": 42767,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 80181,
+        "State": 80183,
         "US Senate": 53864,
         "US House": 46059,
         "Presidential": 38364,
@@ -465,12 +461,12 @@
       "source_service_code": {
         "TV": 254970,
         "CABLE": 132579,
-        "FM": 121067,
+        "FM": 121069,
         "AM": 46534,
         "DBS": 6276
       },
       "political_file_type": {
-        "PA": 247916,
+        "PA": 247918,
         "NCIA": 134620
       }
     }
@@ -487,8 +483,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 215,
-    "processTime": 223,
-    "responseTime": 224
+    "queryTime": 211,
+    "processTime": 221,
+    "responseTime": 222
   }
 }
