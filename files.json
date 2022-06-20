@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 561683,
+    "numFound": 561685,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "baebb593-f43b-c9dd-b1d9-1a7076833169",
+        "file_id": "baebb593-f43b-c9dd-b1d9-1a7076833169",
+        "file_name": "James Lankford for US Senate 06.13.22-06.27.22 #142697 NOTV",
+        "file_extension": "pdf",
+        "file_size": 1317794,
+        "file_status": "com_cpy",
+        "folder_id": "5e5a1990-3a8b-8cb0-d27d-c10c4425bb6f",
+        "create_ts": "2022-06-20T23:11:00.565Z",
+        "last_update_ts": "2022-06-20T23:12:19.287Z",
+        "active_ind": "Y",
+        "file_manager_id": "8a75aa09-c95c-46f2-beb3-de470921e922",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/James Lankford for US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/James Lankford for US Senate/James Lankford for US Senate 06.13.22-06.27.22 #142697 NOTV",
+        "entity_id": "35434",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "TULSA",
+        "callsign": "KOTV-DT",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1736197182445322200,
+        "score": 0.24995679
+      },
+      {
+        "id": "2b1879c9-277c-0086-2350-21a4785e696b",
+        "file_id": "2b1879c9-277c-0086-2350-21a4785e696b",
+        "file_name": "Todd Russ for State Treasurer 06.08.22-06.28.22 #142586 KOTV",
+        "file_extension": "pdf",
+        "file_size": 807715,
+        "file_status": "com_cpy",
+        "folder_id": "30258d9e-5747-7d40-8fe6-89bdff449786",
+        "create_ts": "2022-06-20T23:04:05.615Z",
+        "last_update_ts": "2022-06-20T23:04:07.711Z",
+        "active_ind": "Y",
+        "file_manager_id": "8b9100b4-0818-4e54-b85d-4857b334716b",
+        "file_folder_path": "Political Files/2022/State/Treasurer/Todd Russ for State Treasurer",
+        "full_qualified_file_name": "Political Files/2022/State/Treasurer/Todd Russ for State Treasurer/Todd Russ for State Treasurer 06.08.22-06.28.22 #142586 KOTV",
+        "entity_id": "35434",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "TULSA",
+        "callsign": "KOTV-DT",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1736196747340808200,
+        "score": 0.24995679
+      },
       {
         "id": "74077cdc-f189-49e7-d288-ac8d2fa10e00",
         "file_id": "74077cdc-f189-49e7-d288-ac8d2fa10e00",
@@ -192,54 +242,6 @@
         "campaign_year": "2022",
         "_version_": 1736193551006433300,
         "score": 0.24995679
-      },
-      {
-        "id": "3838a9f8-a663-d503-3ca5-7f54f51d26ab",
-        "file_id": "3838a9f8-a663-d503-3ca5-7f54f51d26ab",
-        "file_name": "GFBW 0704-0717 - 3578995 REQ",
-        "file_extension": "pdf",
-        "file_size": 19278,
-        "file_status": "com_cpy",
-        "folder_id": "b88cb7a6-9c70-67fe-f73b-86d4d0d7168b",
-        "create_ts": "2022-06-20T22:13:17.706Z",
-        "last_update_ts": "2022-06-20T22:13:06.354Z",
-        "active_ind": "Y",
-        "file_manager_id": "ab940f28-aee7-4fc3-81f9-16c7332dccf8",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/GFBW Get Families Back to Work/Orders and Revisions",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/GFBW Get Families Back to Work/Orders and Revisions/GFBW 0704-0717 - 3578995 REQ",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1736193551115485200,
-        "score": 0.24995679
-      },
-      {
-        "id": "ee92f1a6-3983-8464-bca7-00df080cb512",
-        "file_id": "ee92f1a6-3983-8464-bca7-00df080cb512",
-        "file_name": "GFBW 0627-0710 - 3578990 REQ",
-        "file_extension": "pdf",
-        "file_size": 19153,
-        "file_status": "com_cpy",
-        "folder_id": "b88cb7a6-9c70-67fe-f73b-86d4d0d7168b",
-        "create_ts": "2022-06-20T22:13:17.637Z",
-        "last_update_ts": "2022-06-20T22:13:06.306Z",
-        "active_ind": "Y",
-        "file_manager_id": "6ee6ef96-3583-4c51-9368-24475a38b66c",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/GFBW Get Families Back to Work/Orders and Revisions",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/GFBW Get Families Back to Work/Orders and Revisions/GFBW 0627-0710 - 3578990 REQ",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1736193551067250700,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -323,7 +325,7 @@
         "DALLAS-FT. WORTH": 919,
         "OKLAHOMA CITY": 887,
         "PANAMA CITY": 877,
-        "TULSA": 854,
+        "TULSA": 856,
         "INDIANAPOLIS": 841,
         "LANSING": 830,
         "YOUNGSTOWN": 806,
@@ -348,7 +350,7 @@
       "network_affiliation": {
         "ABC": 63693,
         "NBC": 60548,
-        "CBS": 42196,
+        "CBS": 42198,
         "FOX": 30271,
         "PBS": 14790,
         "CW": 12392,
@@ -418,13 +420,13 @@
         "2019": 13896,
         "2020": 124712,
         "2021": 22736,
-        "2022": 43070,
+        "2022": 43072,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 80291,
-        "US Senate": 53874,
+        "State": 80292,
+        "US Senate": 53875,
         "US House": 46115,
         "Presidential": 38352,
         "Local": 27880
@@ -460,14 +462,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 255099,
+        "TV": 255101,
         "CABLE": 132596,
         "FM": 121139,
         "AM": 46568,
         "DBS": 6281
       },
       "political_file_type": {
-        "PA": 248112,
+        "PA": 248114,
         "NCIA": 134681
       }
     }
@@ -484,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1862,
+    "queryTime": 1864,
     "processTime": 872,
-    "responseTime": 1873
+    "responseTime": 1872
   }
 }
