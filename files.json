@@ -1,9 +1,56 @@
 {
   "response": {
-    "numFound": 561434,
+    "numFound": 561411,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "ce6c6c6e-f064-1eea-2821-f7ddc2c429ce",
+        "file_id": "ce6c6c6e-f064-1eea-2821-f7ddc2c429ce",
+        "file_name": "WXBW Issue NFIB 06142022",
+        "file_extension": "pdf",
+        "file_size": 486060,
+        "file_status": "com_cpy",
+        "folder_id": "b877f15e-c75d-e340-7cad-47ca6bfec033",
+        "create_ts": "2022-06-20T13:36:41.928Z",
+        "last_update_ts": "2022-06-20T13:36:30.826Z",
+        "active_ind": "Y",
+        "file_manager_id": "44f7c0df-d964-41cd-9011-8c8a9565984d",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/WXBW Issue NFIB 06142022",
+        "entity_id": "70691",
+        "source_service_code": "FM",
+        "callsign": "WXBW",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1736161049853296600,
+        "score": 0.24995679
+      },
+      {
+        "id": "e06f57c0-06bf-0f35-ec22-22c1f924140a",
+        "file_id": "e06f57c0-06bf-0f35-ec22-22c1f924140a",
+        "file_name": "Griffie-for-Congress-Political-PFD-06-06-2022",
+        "file_extension": "pdf",
+        "file_size": 60613,
+        "file_status": "com_cpy",
+        "folder_id": "c936cda8-6dcb-bbe1-0b44-c73ea8253113",
+        "create_ts": "2022-06-20T12:58:28.664Z",
+        "last_update_ts": "2022-06-20T12:59:46.087Z",
+        "active_ind": "Y",
+        "file_manager_id": "71848f9b-f124-4a36-a3b7-20af6d40b1f1",
+        "file_folder_path": "Political Files/2022/State/Governor/Michael Griffie  Democrat/Political Disclosure",
+        "full_qualified_file_name": "Political Files/2022/State/Governor/Michael Griffie  Democrat/Political Disclosure/Griffie-for-Congress-Political-PFD-06-06-2022",
+        "entity_id": "10267",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "DETROIT",
+        "callsign": "WXYZ-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1736158645044904000,
+        "score": 0.24995679
+      },
       {
         "id": "9a0b7cb6-66d3-d1c5-02ab-c605165cb603",
         "file_id": "9a0b7cb6-66d3-d1c5-02ab-c605165cb603",
@@ -195,57 +242,11 @@
         "campaign_year": "2022",
         "_version_": 1736122229531345000,
         "score": 0.24995679
-      },
-      {
-        "id": "b46b54b0-68b4-3879-aec1-bbb9227350ab",
-        "file_id": "b46b54b0-68b4-3879-aec1-bbb9227350ab",
-        "file_name": "Political Kwanza Hall 06-2022",
-        "file_extension": "pdf",
-        "file_size": 172766,
-        "file_status": "com_cpy",
-        "folder_id": "a2011a8a-b3f0-f98b-6f48-74e9a6ae4e3f",
-        "create_ts": "2022-06-19T17:18:09.168Z",
-        "last_update_ts": "2022-06-19T17:19:24.543Z",
-        "active_ind": "Y",
-        "file_manager_id": "b772c574-97ed-4bff-b64a-cf3ff4108353",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/Political Kwanza Hall 06-2022",
-        "entity_id": "41990",
-        "source_service_code": "FM",
-        "callsign": "WQMJ",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1736084385508098000,
-        "score": 0.24995679
-      },
-      {
-        "id": "4e61f269-e368-9d16-fa7c-1383851a874b",
-        "file_id": "4e61f269-e368-9d16-fa7c-1383851a874b",
-        "file_name": "Political Dee Dawkins Haigler 06-2022",
-        "file_extension": "pdf",
-        "file_size": 1032355,
-        "file_status": "com_cpy",
-        "folder_id": "a2011a8a-b3f0-f98b-6f48-74e9a6ae4e3f",
-        "create_ts": "2022-06-19T17:11:30.874Z",
-        "last_update_ts": "2022-06-19T17:12:46.45Z",
-        "active_ind": "Y",
-        "file_manager_id": "75dc0319-05af-4ad0-b95b-d8c951ca7fcf",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/Political Dee Dawkins Haigler 06-2022",
-        "entity_id": "41990",
-        "source_service_code": "FM",
-        "callsign": "WQMJ",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1736083968095158300,
-        "score": 0.24995679
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
-        "DES MOINES-AMES": 8420,
+        "DES MOINES-AMES": 8395,
         "WILKES BARRE-SCRANTON": 7704,
         "LAS VEGAS": 7319,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7180,
@@ -347,8 +348,8 @@
         "BOSTON (MANCHESTER)": 629
       },
       "network_affiliation": {
-        "ABC": 63632,
-        "NBC": 60568,
+        "ABC": 63633,
+        "NBC": 60543,
         "CBS": 42137,
         "FOX": 30259,
         "PBS": 14790,
@@ -417,15 +418,15 @@
         "2017": 10342,
         "2018": 67613,
         "2019": 13896,
-        "2020": 124760,
+        "2020": 124735,
         "2021": 22736,
-        "2022": 42775,
+        "2022": 42777,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 80189,
-        "US Senate": 53864,
+        "State": 80190,
+        "US Senate": 53853,
         "US House": 46059,
         "Presidential": 38364,
         "Local": 27848
@@ -461,15 +462,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 254975,
+        "TV": 254951,
         "CABLE": 132579,
-        "FM": 121069,
+        "FM": 121070,
         "AM": 46535,
         "DBS": 6276
       },
       "political_file_type": {
-        "PA": 247924,
-        "NCIA": 134622
+        "PA": 247914,
+        "NCIA": 134609
       }
     }
   },
@@ -485,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1873,
-    "processTime": 880,
-    "responseTime": 1881
+    "queryTime": 1838,
+    "processTime": 848,
+    "responseTime": 1849
   }
 }
