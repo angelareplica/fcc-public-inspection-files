@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 561550,
+    "numFound": 561552,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "ce8e211b-c905-5618-bc1d-883a51304279",
+        "file_id": "ce8e211b-c905-5618-bc1d-883a51304279",
+        "file_name": "GLMJ JUN 21 - SEP 04 ORDER",
+        "file_extension": "pdf",
+        "file_size": 27364,
+        "file_status": "com_cpy",
+        "folder_id": "8e4f3de2-7cf1-9401-ad86-3d7bb6b7b3f2",
+        "create_ts": "2022-06-20T19:17:20.107Z",
+        "last_update_ts": "2022-06-20T19:18:38.106Z",
+        "active_ind": "Y",
+        "file_manager_id": "287c0580-694f-49ff-95a3-76a3069f87e9",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/GREAT LAKES MICHIGAN JOBS",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/GREAT LAKES MICHIGAN JOBS/GLMJ JUN 21 - SEP 04 ORDER",
+        "entity_id": "36838",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "GRAND RAPIDS-KALMZOO-B.CRK",
+        "callsign": "WOOD-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1736182480600301600,
+        "score": 0.24995679
+      },
+      {
+        "id": "6a38abc3-4571-8051-3d52-aed98d43e855",
+        "file_id": "6a38abc3-4571-8051-3d52-aed98d43e855",
+        "file_name": "Georgians First Leadership Committee--254263-062222-062822",
+        "file_extension": "pdf",
+        "file_size": 458405,
+        "file_status": "com_cpy",
+        "folder_id": "17c67387-6683-afc3-121f-5c66403d3a10",
+        "create_ts": "2022-06-20T19:09:01.136Z",
+        "last_update_ts": "2022-06-20T19:08:49.988Z",
+        "active_ind": "Y",
+        "file_manager_id": "c243c842-5d66-4757-b5fb-d0f836413611",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Georgians First Leadership Committee",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Georgians First Leadership Committee/Georgians First Leadership Committee--254263-062222-062822",
+        "entity_id": "43847",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "MACON",
+        "callsign": "WMGT-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1736181957639798800,
+        "score": 0.24995679
+      },
       {
         "id": "206db5f2-f53f-69cb-6267-626934f07bd2",
         "file_id": "206db5f2-f53f-69cb-6267-626934f07bd2",
@@ -187,52 +235,6 @@
         "campaign_year": "2022",
         "_version_": 1736178453559902200,
         "score": 0.24995679
-      },
-      {
-        "id": "f01b58a6-ebc7-9673-a497-b6b59de52330",
-        "file_id": "f01b58a6-ebc7-9673-a497-b6b59de52330",
-        "file_name": "WALT-FM - Congressional Leadership Fund - 10077-00002",
-        "file_extension": "pdf",
-        "file_size": 2236521,
-        "file_status": "com_cpy",
-        "folder_id": "57f7a92f-e30f-e627-1ba8-ff158d5284ef",
-        "create_ts": "2022-06-20T18:14:21.866Z",
-        "last_update_ts": "2022-06-20T18:14:10.934Z",
-        "active_ind": "Y",
-        "file_manager_id": "f721af29-96cf-4b4a-8b64-a6da5f960fa7",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Congressional Leadership Fund",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Congressional Leadership Fund/WALT-FM - Congressional Leadership Fund - 10077-00002",
-        "entity_id": "18229",
-        "source_service_code": "FM",
-        "callsign": "WALT-FM",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1736178519315054600,
-        "score": 0.24995679
-      },
-      {
-        "id": "ddccb156-7202-1dc1-cbbc-8242aa12d0dd",
-        "file_id": "ddccb156-7202-1dc1-cbbc-8242aa12d0dd",
-        "file_name": "Computer and Communications Industry Assoc PAC-KREX 3553163 05.31-07.11.22 rev6",
-        "file_extension": "pdf",
-        "file_size": 1696484,
-        "file_status": "com_cpy",
-        "folder_id": "6998c867-d69b-7333-3388-2f64b94cd1e8",
-        "create_ts": "2022-06-20T18:09:28.23Z",
-        "last_update_ts": "2022-06-20T18:10:46.668Z",
-        "active_ind": "Y",
-        "file_manager_id": "b7441e1c-5f8f-459f-bfc4-7e0c9d42950f",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Computer and Communications Industry Assoc-PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Computer and Communications Industry Assoc-PAC/Computer and Communications Industry Assoc PAC-KREX 3553163 05.31-07.11.22 rev6",
-        "entity_id": "70596",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "GRAND JUNCTION-MONTROSE",
-        "callsign": "KREX-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1736178211519201300,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -271,7 +273,7 @@
         "PEORIA-BLOOMINGTON": 2522,
         "Greenville-Spartanburg-Asheville-Anderson": 2330,
         "PHILADELPHIA": 2319,
-        "GRAND RAPIDS-KALMZOO-B.CRK": 2194,
+        "GRAND RAPIDS-KALMZOO-B.CRK": 2195,
         "TAMPA-ST. PETE (SARASOTA)": 2164,
         "LEXINGTON": 2147,
         "ROCKFORD": 2142,
@@ -324,7 +326,7 @@
         "HELENA": 792,
         "COLORADO SPRINGS-PUEBLO": 762,
         "TWIN FALLS": 756,
-        "MACON": 749,
+        "MACON": 750,
         "FLINT-SAGINAW-BAY CITY": 731,
         "AUSTIN": 730,
         "BUFFALO": 699,
@@ -340,7 +342,7 @@
       },
       "network_affiliation": {
         "ABC": 63677,
-        "NBC": 60544,
+        "NBC": 60546,
         "CBS": 42153,
         "FOX": 30266,
         "PBS": 14790,
@@ -411,7 +413,7 @@
         "2019": 13896,
         "2020": 124716,
         "2021": 22736,
-        "2022": 42934,
+        "2022": 42936,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -453,7 +455,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 255023,
+        "TV": 255025,
         "CABLE": 132592,
         "FM": 121103,
         "AM": 46556,
@@ -461,7 +463,7 @@
       },
       "political_file_type": {
         "PA": 248024,
-        "NCIA": 134637
+        "NCIA": 134639
       }
     }
   },
@@ -477,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1891,
-    "processTime": 899,
-    "responseTime": 1900
+    "queryTime": 1870,
+    "processTime": 878,
+    "responseTime": 1878
   }
 }
