@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 561427,
+    "numFound": 561429,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "7836abf0-1b2d-dfbe-6092-32b52697904f",
+        "file_id": "7836abf0-1b2d-dfbe-6092-32b52697904f",
+        "file_name": "WMXI-FM LOG - CLS MARK LEVIN - WWO - 2022-06-13 - 2022-06-19",
+        "file_extension": "pdf",
+        "file_size": 1718976,
+        "file_status": "com_cpy",
+        "folder_id": "a3da46c1-1bc5-cac1-90d2-108e5f6f8859",
+        "create_ts": "2022-06-20T11:31:35.991Z",
+        "last_update_ts": "2022-06-20T11:32:53.789Z",
+        "active_ind": "Y",
+        "file_manager_id": "26056edb-4bc1-4303-a5c0-0687561e6679",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Media Research Center",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Media Research Center/WMXI-FM LOG - CLS MARK LEVIN - WWO - 2022-06-13 - 2022-06-19",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1736153179728380000,
+        "score": 0.24995679
+      },
+      {
+        "id": "ae7f5046-4a61-0578-d3c5-b329f7f34fee",
+        "file_id": "ae7f5046-4a61-0578-d3c5-b329f7f34fee",
+        "file_name": "WMXI-FM LOG - CLS MARK LEVIN - WWO - 2022-06-13 - 2022-06-19",
+        "file_extension": "pdf",
+        "file_size": 1707137,
+        "file_status": "com_cpy",
+        "folder_id": "132b62b0-220f-d037-aaaf-e26ff3768c16",
+        "create_ts": "2022-06-20T11:31:57.66Z",
+        "last_update_ts": "2022-06-20T11:32:00.141Z",
+        "active_ind": "Y",
+        "file_manager_id": "a5d2cf2d-b3c5-4cf7-8372-48500c355863",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance/WMXI-FM LOG - CLS MARK LEVIN - WWO - 2022-06-13 - 2022-06-19",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1736153202506596400,
+        "score": 0.24995679
+      },
       {
         "id": "e79ab0e2-6c44-89ab-445a-4fc885152403",
         "file_id": "e79ab0e2-6c44-89ab-445a-4fc885152403",
@@ -189,55 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1735937881895075800,
         "score": 0.0001249784
-      },
-      {
-        "id": "55f57ec7-e0ff-7f0f-74b3-0c904ae9d0f4",
-        "file_id": "55f57ec7-e0ff-7f0f-74b3-0c904ae9d0f4",
-        "file_name": "698840_Invoice_20220617090643",
-        "file_extension": "pdf",
-        "file_size": 139729,
-        "file_status": "com_cpy",
-        "folder_id": "a2a543e5-1b38-c002-5da8-9a2eaf326617",
-        "create_ts": "2022-06-18T01:45:53.844Z",
-        "last_update_ts": "2022-06-18T01:45:55.797Z",
-        "active_ind": "Y",
-        "file_manager_id": "e3a84603-a0b7-4d55-af44-53e28d87b14b",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698840_Invoice_20220617090643",
-        "entity_id": "004027",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF ILLINOIS/INDIANA/OHIO, LLC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1735935136053067800,
-        "score": 0.0001249784
-      },
-      {
-        "id": "b0f84771-1edd-6796-297a-c80a009882ad",
-        "file_id": "b0f84771-1edd-6796-297a-c80a009882ad",
-        "file_name": "Vote Vets Action Fund 06.14.22-06.20.22 #342170 Rev 1",
-        "file_extension": "pdf",
-        "file_size": 190092,
-        "file_status": "com_cpy",
-        "folder_id": "2a5917d1-a0d9-c84b-4798-921b870a0ca1",
-        "create_ts": "2022-06-18T01:25:31.399Z",
-        "last_update_ts": "2022-06-18T01:25:33.401Z",
-        "active_ind": "Y",
-        "file_manager_id": "ba3c2be2-fef9-4771-9b47-96c3e2cf2807",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Vote Vets Action Fund",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Vote Vets Action Fund/Vote Vets Action Fund 06.14.22-06.20.22 #342170 Rev 1",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1735933854275862500,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -416,7 +411,7 @@
         "2019": 13896,
         "2020": 124760,
         "2021": 22736,
-        "2022": 42768,
+        "2022": 42770,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -460,13 +455,13 @@
       "source_service_code": {
         "TV": 254970,
         "CABLE": 132579,
-        "FM": 121067,
+        "FM": 121069,
         "AM": 46535,
         "DBS": 6276
       },
       "political_file_type": {
         "PA": 247919,
-        "NCIA": 134620
+        "NCIA": 134622
       }
     }
   },
@@ -482,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1876,
-    "processTime": 883,
-    "responseTime": 1883
+    "queryTime": 215,
+    "processTime": 224,
+    "responseTime": 225
   }
 }
