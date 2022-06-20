@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 561549,
+    "numFound": 561550,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "206db5f2-f53f-69cb-6267-626934f07bd2",
+        "file_id": "206db5f2-f53f-69cb-6267-626934f07bd2",
+        "file_name": "Todd Russ for State Treasurer 22-06-20 13-19-53",
+        "file_extension": "pdf",
+        "file_size": 410779,
+        "file_status": "com_cpy",
+        "folder_id": "3f6cd5a4-3846-34e1-6679-17771b6cc0ce",
+        "create_ts": "2022-06-20T18:32:20.362Z",
+        "last_update_ts": "2022-06-20T18:50:13.306Z",
+        "active_ind": "Y",
+        "file_manager_id": "b9324bcc-e734-4006-85e5-481cc348bba9",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/Todd Russ for State Treasurer 22-06-20 13-19-53",
+        "entity_id": "73948",
+        "source_service_code": "AM",
+        "callsign": "KWEY",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1736180772989042700,
+        "score": 0.24995679
+      },
+      {
+        "id": "5e9614ad-d7af-d7d5-03c0-b789b1d76702",
+        "file_id": "5e9614ad-d7af-d7d5-03c0-b789b1d76702",
+        "file_name": "Mary Miller WMCI 06.2022",
+        "file_extension": "pdf",
+        "file_size": 8312688,
+        "file_status": "com_cpy",
+        "folder_id": "154ec656-33ae-6b27-ef55-3a271afac4cb",
+        "create_ts": "2022-06-20T18:38:45.357Z",
+        "last_update_ts": "2022-06-20T18:38:37.294Z",
+        "active_ind": "Y",
+        "file_manager_id": "1e97123b-171e-479e-8009-04512cf5c9e9",
+        "file_folder_path": "Political Files/2022/Federal/US House/Mary Miller for Congress",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Mary Miller for Congress/Mary Miller WMCI 06.2022",
+        "entity_id": "65572",
+        "source_service_code": "FM",
+        "callsign": "WMCI",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1736180056895520800,
+        "score": 0.24995679
+      },
       {
         "id": "4e65bc2a-f07d-f31e-8a20-1e8642783be2",
         "file_id": "4e65bc2a-f07d-f31e-8a20-1e8642783be2",
@@ -48,29 +94,6 @@
         "office_type": "State",
         "campaign_year": "2022",
         "_version_": 1736179735215472600,
-        "score": 0.24995679
-      },
-      {
-        "id": "206db5f2-f53f-69cb-6267-626934f07bd2",
-        "file_id": "206db5f2-f53f-69cb-6267-626934f07bd2",
-        "file_name": "Todd Russ for State Treasurer 22-06-20 13-19-53",
-        "file_extension": "pdf",
-        "file_size": 410779,
-        "file_status": "com_cpy",
-        "folder_id": "3f6cd5a4-3846-34e1-6679-17771b6cc0ce",
-        "create_ts": "2022-06-20T18:32:20.362Z",
-        "last_update_ts": "2022-06-20T18:32:22.315Z",
-        "active_ind": "Y",
-        "file_manager_id": "b9324bcc-e734-4006-85e5-481cc348bba9",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/Todd Russ for State Treasurer 22-06-20 13-19-53",
-        "entity_id": "73948",
-        "source_service_code": "AM",
-        "callsign": "KWEY",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1736179649876066300,
         "score": 0.24995679
       },
       {
@@ -209,30 +232,6 @@
         "political_file_type": "NCIA",
         "campaign_year": "2022",
         "_version_": 1736178211519201300,
-        "score": 0.24995679
-      },
-      {
-        "id": "3dae1cb7-ce57-7293-830e-b946baa6fbc5",
-        "file_id": "3dae1cb7-ce57-7293-830e-b946baa6fbc5",
-        "file_name": "Computer and Communications Industry Assoc PAC-KREX 3553163 05.31-07.11.22 rev6",
-        "file_extension": "pdf",
-        "file_size": 1696484,
-        "file_status": "com_cpy",
-        "folder_id": "ba600929-26b1-8382-b3e8-6df49077d3e1",
-        "create_ts": "2022-06-20T18:08:49.043Z",
-        "last_update_ts": "2022-06-20T18:10:07.415Z",
-        "active_ind": "Y",
-        "file_manager_id": "dd731624-6d4b-40c1-8131-083c67e9223b",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Computer and Communications Industry Assoc-PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Computer and Communications Industry Assoc-PAC/Computer and Communications Industry Assoc PAC-KREX 3553163 05.31-07.11.22 rev6",
-        "entity_id": "70579",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "GRAND JUNCTION-MONTROSE",
-        "callsign": "KREY-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1736178170350010400,
         "score": 0.24995679
       }
     ],
@@ -412,14 +411,14 @@
         "2019": 13896,
         "2020": 124716,
         "2021": 22736,
-        "2022": 42933,
+        "2022": 42934,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 80252,
         "US Senate": 53856,
-        "US House": 46111,
+        "US House": 46112,
         "Presidential": 38352,
         "Local": 27852
       },
@@ -456,12 +455,12 @@
       "source_service_code": {
         "TV": 255023,
         "CABLE": 132592,
-        "FM": 121102,
+        "FM": 121103,
         "AM": 46556,
         "DBS": 6276
       },
       "political_file_type": {
-        "PA": 248023,
+        "PA": 248024,
         "NCIA": 134637
       }
     }
@@ -478,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1889,
-    "processTime": 895,
-    "responseTime": 1896
+    "queryTime": 1891,
+    "processTime": 899,
+    "responseTime": 1900
   }
 }
