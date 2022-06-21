@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 561717,
+    "numFound": 561718,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "ad2069fa-eb31-c207-99a2-a61d0cd9ccc0",
+        "file_id": "ad2069fa-eb31-c207-99a2-a61d0cd9ccc0",
+        "file_name": "HAGEMAN FOR WYOMING US HOUSE KXJN 062022",
+        "file_extension": "pdf",
+        "file_size": 535340,
+        "file_status": "com_cpy",
+        "folder_id": "33214a56-c3ca-fd0e-1969-437928eacf13",
+        "create_ts": "2022-06-21T06:32:32.516Z",
+        "last_update_ts": "2022-06-21T06:32:21.362Z",
+        "active_ind": "Y",
+        "file_manager_id": "4ef3bde7-ec5d-4a41-8c2f-73ba12a662fd",
+        "file_folder_path": "Political Files/2022/Federal/US House/HAGEMAN 2022",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/HAGEMAN 2022/HAGEMAN FOR WYOMING US HOUSE KXJN 062022",
+        "entity_id": "166043",
+        "source_service_code": "FM",
+        "callsign": "KXJN",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1736224961323860000,
+        "score": 0.24995679
+      },
       {
         "id": "83395c1f-e3e6-5fa5-2dc9-5786366dd990",
         "file_id": "83395c1f-e3e6-5fa5-2dc9-5786366dd990",
@@ -227,31 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1736203529663545300,
         "score": 0.24995679
-      },
-      {
-        "id": "6af6ec78-bb2f-7ea4-75c6-b882c95ad121",
-        "file_id": "6af6ec78-bb2f-7ea4-75c6-b882c95ad121",
-        "file_name": "Junaid for Congress 06.14.22-06.23.22 #342153 Rev 1",
-        "file_extension": "pdf",
-        "file_size": 188315,
-        "file_status": "com_cpy",
-        "folder_id": "8d9bc4f4-b39d-8f03-7e98-0d299d746b32",
-        "create_ts": "2022-06-21T00:48:10.153Z",
-        "last_update_ts": "2022-06-21T00:47:58.966Z",
-        "active_ind": "Y",
-        "file_manager_id": "e2aff0a0-371e-4f84-9bcc-dffa7329e613",
-        "file_folder_path": "Political Files/2022/Federal/US House/Junaid for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Junaid for Congress/Junaid for Congress 06.14.22-06.23.22 #342153 Rev 1",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1736203295164203000,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -430,14 +428,14 @@
         "2019": 13896,
         "2020": 124712,
         "2021": 22736,
-        "2022": 43104,
+        "2022": 43105,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 80296,
         "US Senate": 53879,
-        "US House": 46122,
+        "US House": 46123,
         "Presidential": 38352,
         "Local": 27896
       },
@@ -474,12 +472,12 @@
       "source_service_code": {
         "TV": 255104,
         "CABLE": 132604,
-        "FM": 121151,
+        "FM": 121152,
         "AM": 46577,
         "DBS": 6281
       },
       "political_file_type": {
-        "PA": 248145,
+        "PA": 248146,
         "NCIA": 134682
       }
     }
@@ -496,8 +494,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 73,
-    "processTime": 81,
-    "responseTime": 82
+    "queryTime": 1906,
+    "processTime": 914,
+    "responseTime": 1915
   }
 }
