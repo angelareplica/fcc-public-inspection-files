@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 561722,
+    "numFound": 561723,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "cb3fed86-6a55-a744-248c-c905c908a00d",
+        "file_id": "cb3fed86-6a55-a744-248c-c905c908a00d",
+        "file_name": "Team Justin BrownFor State Senate District 16 NAB 06212022",
+        "file_extension": "pdf",
+        "file_size": 163068,
+        "file_status": "com_cpy",
+        "folder_id": "577a994a-705a-0b64-8572-e6ab5989e920",
+        "create_ts": "2022-06-21T11:24:53.628Z",
+        "last_update_ts": "2022-06-21T11:24:55.566Z",
+        "active_ind": "Y",
+        "file_manager_id": "bfe43cc6-12ff-4246-ab9d-830625c4a3b6",
+        "file_folder_path": "Political Files/2022/State/Team Justin Brown Missouri Senate District 16 August 2 2022 Primary",
+        "full_qualified_file_name": "Political Files/2022/State/Team Justin Brown Missouri Senate District 16 August 2 2022 Primary/Team Justin BrownFor State Senate District 16 NAB 06212022",
+        "entity_id": "51094",
+        "source_service_code": "FM",
+        "callsign": "KJEL",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1736243354292715500,
+        "score": 0.24995679
+      },
       {
         "id": "78450597-b2dd-da58-cfc6-ca650448158b",
         "file_id": "78450597-b2dd-da58-cfc6-ca650448158b",
@@ -214,31 +237,6 @@
         "campaign_year": "2022",
         "_version_": 1736218487274078200,
         "score": 0.24995679
-      },
-      {
-        "id": "4e37173a-680a-84e8-c911-ec60261b6f40",
-        "file_id": "4e37173a-680a-84e8-c911-ec60261b6f40",
-        "file_name": "JIM LAMON FOR US SENATE NAT AZ CDR3783306_sys6900 0001",
-        "file_extension": "pdf",
-        "file_size": 5025,
-        "file_status": "com_cpy",
-        "folder_id": "8a8bd0a8-9499-1822-40b1-8848dac23be0",
-        "create_ts": "2022-06-21T04:47:42.238Z",
-        "last_update_ts": "2022-06-21T04:49:01.19Z",
-        "active_ind": "Y",
-        "file_manager_id": "736735d2-24c3-4fc7-819b-d9d881f31ad9",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Jim Lamon",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Jim Lamon/JIM LAMON FOR US SENATE NAT AZ CDR3783306_sys6900 0001",
-        "entity_id": "004818",
-        "source_service_code": "CABLE",
-        "legal_name": "COX COMMUNICATIONS ARIZONA, LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1736218365049962500,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -417,12 +415,12 @@
         "2019": 13896,
         "2020": 124712,
         "2021": 22736,
-        "2022": 43109,
+        "2022": 43110,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 80296,
+        "State": 80297,
         "US Senate": 53879,
         "US House": 46127,
         "Presidential": 38352,
@@ -461,12 +459,12 @@
       "source_service_code": {
         "TV": 255104,
         "CABLE": 132604,
-        "FM": 121156,
+        "FM": 121157,
         "AM": 46577,
         "DBS": 6281
       },
       "political_file_type": {
-        "PA": 248150,
+        "PA": 248151,
         "NCIA": 134682
       }
     }
@@ -483,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1824,
-    "processTime": 835,
-    "responseTime": 1836
+    "queryTime": 1850,
+    "processTime": 862,
+    "responseTime": 1863
   }
 }
