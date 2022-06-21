@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 562115,
+    "numFound": 562116,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "2fe75ea9-c663-b18b-9cfe-c81546dfe90d",
+        "file_id": "2fe75ea9-c663-b18b-9cfe-c81546dfe90d",
+        "file_name": "NAB-JoeO'Dea-06-21",
+        "file_extension": "pdf",
+        "file_size": 288915,
+        "file_status": "com_cpy",
+        "folder_id": "bdf2f7b4-2941-dedc-ed5a-f85d58e1695f",
+        "create_ts": "2022-06-21T22:00:41.482Z",
+        "last_update_ts": "2022-06-21T22:00:29.992Z",
+        "active_ind": "Y",
+        "file_manager_id": "55fdd451-fdcc-44c8-a55f-f78c0c65481d",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Joe ODea/NAB",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Joe ODea/NAB/NAB-JoeO'Dea-06-21",
+        "entity_id": "35991",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "COLORADO SPRINGS-PUEBLO",
+        "callsign": "KXRM-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1736283355256717300,
+        "score": 0.24995679
+      },
       {
         "id": "dfd4b50d-2a7b-2580-f903-627bed23edba",
         "file_id": "dfd4b50d-2a7b-2580-f903-627bed23edba",
@@ -224,29 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1736281057581334500,
         "score": 0.24995679
-      },
-      {
-        "id": "fca79f41-2212-72dd-2146-2360f4bba74d",
-        "file_id": "fca79f41-2212-72dd-2146-2360f4bba74d",
-        "file_name": "mwcradio.com Mail - In-Window Candidate Rates request - Midwest Comm Nashville 062122",
-        "file_extension": "pdf",
-        "file_size": 150200,
-        "file_status": "com_cpy",
-        "folder_id": "7dc8d130-4cbd-6592-b613-d9ce11d5027e",
-        "create_ts": "2022-06-21T21:23:21.686Z",
-        "last_update_ts": "2022-06-21T21:23:23.741Z",
-        "active_ind": "Y",
-        "file_manager_id": "179f5469-4664-4531-9a91-3080720c6aec",
-        "file_folder_path": "Political Files/2022/Federal/US House",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/mwcradio.com Mail - In-Window Candidate Rates request - Midwest Comm Nashville 062122",
-        "entity_id": "29862",
-        "source_service_code": "FM",
-        "callsign": "WNFN",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1736281006760001500,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -336,7 +338,7 @@
         "YOUNGSTOWN": 806,
         "GREENVILLE-N.BERN-WASHNGTN": 803,
         "HELENA": 792,
-        "COLORADO SPRINGS-PUEBLO": 766,
+        "COLORADO SPRINGS-PUEBLO": 767,
         "TWIN FALLS": 756,
         "MACON": 752,
         "FLINT-SAGINAW-BAY CITY": 731,
@@ -356,7 +358,7 @@
         "ABC": 63741,
         "NBC": 60611,
         "CBS": 42257,
-        "FOX": 30300,
+        "FOX": 30301,
         "PBS": 14790,
         "CW": 12391,
         "IND": 3031,
@@ -425,13 +427,13 @@
         "2019": 13896,
         "2020": 124708,
         "2021": 22736,
-        "2022": 43518,
+        "2022": 43519,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 80446,
-        "US Senate": 53921,
+        "US Senate": 53922,
         "US House": 46180,
         "Presidential": 38352,
         "Local": 27911
@@ -467,14 +469,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 255313,
+        "TV": 255314,
         "CABLE": 132650,
         "FM": 121251,
         "AM": 46619,
         "DBS": 6282
       },
       "political_file_type": {
-        "PA": 248411,
+        "PA": 248412,
         "NCIA": 134813
       }
     }
@@ -491,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1847,
-    "processTime": 855,
-    "responseTime": 1856
+    "queryTime": 1956,
+    "processTime": 963,
+    "responseTime": 1964
   }
 }
