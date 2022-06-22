@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 562179,
+    "numFound": 562180,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "9bad8a9f-d90c-4a6b-5730-f4f1d4eeaae4",
+        "file_id": "9bad8a9f-d90c-4a6b-5730-f4f1d4eeaae4",
+        "file_name": "traffic 062222_1",
+        "file_extension": "pdf",
+        "file_size": 101834,
+        "file_status": "com_cpy",
+        "folder_id": "ddcef39b-3eb9-4ff2-fbb3-c1392a032ab4",
+        "create_ts": "2022-06-22T11:07:32.922Z",
+        "last_update_ts": "2022-06-22T11:07:21.144Z",
+        "active_ind": "Y",
+        "file_manager_id": "95efee9f-b093-4b01-852b-5aaba602ccfd",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/traffic 062222_1",
+        "entity_id": "7073",
+        "source_service_code": "AM",
+        "callsign": "WMOX",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1736332859898069000,
+        "score": 0.24995679
+      },
       {
         "id": "fca59b49-5f57-f803-4574-8d9515f91122",
         "file_id": "fca59b49-5f57-f803-4574-8d9515f91122",
@@ -207,29 +230,6 @@
         "campaign_year": "2022",
         "_version_": 1736300025067077600,
         "score": 0.24995679
-      },
-      {
-        "id": "02e00003-b83b-b62c-5e0c-b3716f8dbf15",
-        "file_id": "02e00003-b83b-b62c-5e0c-b3716f8dbf15",
-        "file_name": "Lynn DeCoite Contract 07.04.22 to 07.10.2022",
-        "file_extension": "pdf",
-        "file_size": 102733,
-        "file_status": "com_cpy",
-        "folder_id": "edcd940e-863d-2a57-0e3e-869438fe91c3",
-        "create_ts": "2022-06-22T02:25:37.11Z",
-        "last_update_ts": "2022-06-22T02:25:38.882Z",
-        "active_ind": "Y",
-        "file_manager_id": "5e8fb4b0-1f00-4f3c-92b7-26bb1f6c20cb",
-        "file_folder_path": "Political Files/2022/State/Friends of Lynn DeCoite 2022",
-        "full_qualified_file_name": "Political Files/2022/State/Friends of Lynn DeCoite 2022/Lynn DeCoite Contract 07.04.22 to 07.10.2022",
-        "entity_id": "9674",
-        "source_service_code": "FM",
-        "callsign": "KJKS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1736300022843048000,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -408,14 +408,14 @@
         "2019": 13896,
         "2020": 124708,
         "2021": 22736,
-        "2022": 43576,
+        "2022": 43577,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 80468,
         "US Senate": 53924,
-        "US House": 46191,
+        "US House": 46192,
         "Presidential": 38352,
         "Local": 27913
       },
@@ -453,11 +453,11 @@
         "TV": 255350,
         "CABLE": 132648,
         "FM": 121267,
-        "AM": 46626,
+        "AM": 46627,
         "DBS": 6288
       },
       "political_file_type": {
-        "PA": 248449,
+        "PA": 248450,
         "NCIA": 134831
       }
     }
@@ -474,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 218,
-    "processTime": 226,
-    "responseTime": 227
+    "queryTime": 216,
+    "processTime": 225,
+    "responseTime": 225
   }
 }
