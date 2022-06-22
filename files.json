@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 562219,
+    "numFound": 562220,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "4d29fe58-15f4-dbd4-1b01-08f3f2279673",
+        "file_id": "4d29fe58-15f4-dbd4-1b01-08f3f2279673",
+        "file_name": "Conservative Outsider Pac 06.22.2022",
+        "file_extension": "pdf",
+        "file_size": 3262638,
+        "file_status": "com_cpy",
+        "folder_id": "0bca3551-bbed-caaf-b73a-37549883729d",
+        "create_ts": "2022-06-22T14:35:52.458Z",
+        "last_update_ts": "2022-06-22T14:35:55.107Z",
+        "active_ind": "Y",
+        "file_manager_id": "afd619ad-aaaa-4fbc-9f8b-dd05b90ead78",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Conservative Outsider PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Conservative Outsider PAC/Conservative Outsider Pac 06.22.2022",
+        "entity_id": "61225",
+        "source_service_code": "FM",
+        "callsign": "WZUS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1736345967496528000,
+        "score": 0.24995679
+      },
       {
         "id": "a773617d-7d8d-137a-fb38-0dffa53f864b",
         "file_id": "a773617d-7d8d-137a-fb38-0dffa53f864b",
@@ -211,29 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1736342543447097300,
         "score": 0.24995679
-      },
-      {
-        "id": "19737481-b03c-1e83-0d8a-d2ce30b6f74c",
-        "file_id": "19737481-b03c-1e83-0d8a-d2ce30b6f74c",
-        "file_name": "2022 06-21 Communications Counsel - Liz Gorman for Cook Cty Y 588702",
-        "file_extension": "pdf",
-        "file_size": 1805104,
-        "file_status": "com_cpy",
-        "folder_id": "d0f999c8-b3fd-7397-d821-7bd1d3972b64",
-        "create_ts": "2022-06-22T13:42:24.264Z",
-        "last_update_ts": "2022-06-22T13:42:26.694Z",
-        "active_ind": "Y",
-        "file_manager_id": "e55e286c-18a5-4795-a990-dde739aa6252",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/2022 06-21 Communications Counsel - Liz Gorman for Cook Cty Y 588702",
-        "entity_id": "67068",
-        "source_service_code": "AM",
-        "callsign": "WIND",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1736342603227463700,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -412,7 +411,7 @@
         "2019": 13896,
         "2020": 124708,
         "2021": 22736,
-        "2022": 43616,
+        "2022": 43617,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -456,13 +455,13 @@
       "source_service_code": {
         "TV": 255362,
         "CABLE": 132648,
-        "FM": 121284,
+        "FM": 121285,
         "AM": 46637,
         "DBS": 6288
       },
       "political_file_type": {
         "PA": 248483,
-        "NCIA": 134837
+        "NCIA": 134838
       }
     }
   },
@@ -478,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 218,
-    "processTime": 227,
-    "responseTime": 227
+    "queryTime": 1912,
+    "processTime": 919,
+    "responseTime": 1920
   }
 }
