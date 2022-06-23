@@ -5,6 +5,29 @@
     "maxScore": 0.50016356,
     "docs": [
       {
+        "id": "8349df49-fbb4-9eb5-509d-b4e0792b5844",
+        "file_id": "8349df49-fbb4-9eb5-509d-b4e0792b5844",
+        "file_name": "lori-saine-for-congress-co-08-invoice-3618801206-2119345933-30225pdf",
+        "file_extension": "pdf",
+        "file_size": 33580,
+        "file_status": "com_cpy",
+        "folder_id": "b2f15ea5-6705-2043-0256-513b90962d1e",
+        "create_ts": "2022-06-23T05:35:04.589Z",
+        "last_update_ts": "2022-06-23T05:50:05.583Z",
+        "active_ind": "Y",
+        "file_manager_id": "fcb79b0c-c3ec-4b93-8925-05bcb666843a",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/lori-saine-for-congress-co-08-invoice-3618801206-2119345933-30225pdf",
+        "entity_id": "30225",
+        "source_service_code": "FM",
+        "callsign": "KOLT-FM",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1736403396144922600,
+        "score": 0.24995679
+      },
+      {
         "id": "d7f311d4-33fa-ebb8-7f1a-e2fe0a5a747f",
         "file_id": "d7f311d4-33fa-ebb8-7f1a-e2fe0a5a747f",
         "file_name": "lori-saine-for-congress-co-08-invoice-3618803876-2119408811-68684pdf",
@@ -48,29 +71,6 @@
         "office_type": "US House",
         "campaign_year": "2022",
         "_version_": 1736402546511052800,
-        "score": 0.24995679
-      },
-      {
-        "id": "8349df49-fbb4-9eb5-509d-b4e0792b5844",
-        "file_id": "8349df49-fbb4-9eb5-509d-b4e0792b5844",
-        "file_name": "lori-saine-for-congress-co-08-invoice-3618801206-2119345933-30225pdf",
-        "file_extension": "pdf",
-        "file_size": 33580,
-        "file_status": "com_cpy",
-        "folder_id": "b2f15ea5-6705-2043-0256-513b90962d1e",
-        "create_ts": "2022-06-23T05:35:04.589Z",
-        "last_update_ts": "2022-06-23T05:36:28.804Z",
-        "active_ind": "Y",
-        "file_manager_id": "fcb79b0c-c3ec-4b93-8925-05bcb666843a",
-        "file_folder_path": "Political Files/2022/Federal/US House",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/lori-saine-for-congress-co-08-invoice-3618801206-2119345933-30225pdf",
-        "entity_id": "30225",
-        "source_service_code": "FM",
-        "callsign": "KOLT-FM",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1736402539582062600,
         "score": 0.24995679
       },
       {
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1852,
-    "processTime": 862,
-    "responseTime": 1863
+    "queryTime": 1871,
+    "processTime": 882,
+    "responseTime": 1882
   }
 }
