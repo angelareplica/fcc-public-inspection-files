@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 562624,
+    "numFound": 562625,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "fcccb01d-fc30-0852-0488-edbdb24e9fb9",
+        "file_id": "fcccb01d-fc30-0852-0488-edbdb24e9fb9",
+        "file_name": "CLF MS-03 PB-19",
+        "file_extension": "pdf",
+        "file_size": 649026,
+        "file_status": "com_cpy",
+        "folder_id": "eb1d1258-269c-f533-3b43-a4101ec864cb",
+        "create_ts": "2022-06-23T11:04:06.756Z",
+        "last_update_ts": "2022-06-23T11:05:31.823Z",
+        "active_ind": "Y",
+        "file_manager_id": "582a002a-e4fe-48d8-8c77-dfbe1b123e71",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Congressional Leadership Fund",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Congressional Leadership Fund/CLF MS-03 PB-19",
+        "entity_id": "7073",
+        "source_service_code": "AM",
+        "callsign": "WMOX",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1736423241045508000,
+        "score": 0.24995679
+      },
       {
         "id": "8349df49-fbb4-9eb5-509d-b4e0792b5844",
         "file_id": "8349df49-fbb4-9eb5-509d-b4e0792b5844",
@@ -210,29 +232,6 @@
         "campaign_year": "2022",
         "_version_": 1736402255180988400,
         "score": 0.24995679
-      },
-      {
-        "id": "029a4719-9745-abad-f187-0c1b53668ea7",
-        "file_id": "029a4719-9745-abad-f187-0c1b53668ea7",
-        "file_name": "lori-saine-for-congress-co-08-invoice-3618801129-2119405750-29740pdf",
-        "file_extension": "pdf",
-        "file_size": 35219,
-        "file_status": "com_cpy",
-        "folder_id": "11dc1875-e831-7541-0ea3-3ce3ecca313f",
-        "create_ts": "2022-06-23T05:30:31.451Z",
-        "last_update_ts": "2022-06-23T05:31:55.557Z",
-        "active_ind": "Y",
-        "file_manager_id": "befb668f-4928-44bc-9f22-9ff3aa3a07ba",
-        "file_folder_path": "Political Files/2022/Federal/US House",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/lori-saine-for-congress-co-08-invoice-3618801129-2119405750-29740pdf",
-        "entity_id": "29740",
-        "source_service_code": "AM",
-        "callsign": "KDFD",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1736402253068107800,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -411,7 +410,7 @@
         "2019": 13896,
         "2020": 124707,
         "2021": 22736,
-        "2022": 44008,
+        "2022": 44009,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -456,12 +455,12 @@
         "TV": 255581,
         "CABLE": 132676,
         "FM": 121372,
-        "AM": 46679,
+        "AM": 46680,
         "DBS": 6316
       },
       "political_file_type": {
         "PA": 248712,
-        "NCIA": 134999
+        "NCIA": 135000
       }
     }
   },
@@ -477,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1909,
-    "processTime": 917,
-    "responseTime": 1917
+    "queryTime": 1865,
+    "processTime": 878,
+    "responseTime": 1878
   }
 }
