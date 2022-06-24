@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 563565,
+    "numFound": 563566,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "15979775-e5b7-0072-c785-50e5d7ce78fd",
+        "file_id": "15979775-e5b7-0072-c785-50e5d7ce78fd",
+        "file_name": "Senate Leadership Fund Sig NAB Page-SIGNED",
+        "file_extension": "pdf",
+        "file_size": 432336,
+        "file_status": "com_cpy",
+        "folder_id": "95843b7b-20a6-1993-f165-5e2330e6ef43",
+        "create_ts": "2022-06-24T23:25:53.265Z",
+        "last_update_ts": "2022-06-24T23:27:22.246Z",
+        "active_ind": "Y",
+        "file_manager_id": "aec2ff07-3d57-4d9b-9f4d-30325750d55f",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Senate Leadership Fund/SLF 3",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Senate Leadership Fund/SLF 3/Senate Leadership Fund Sig NAB Page-SIGNED",
+        "entity_id": "72206",
+        "source_service_code": "FM",
+        "callsign": "WKBH-FM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1736560506634764300,
+        "score": 0.0001249784
+      },
       {
         "id": "bbcbc3ba-3219-33cf-a178-2b97ef2c626b",
         "file_id": "bbcbc3ba-3219-33cf-a178-2b97ef2c626b",
@@ -222,29 +244,6 @@
         "campaign_year": "2022",
         "_version_": 1736558832103981000,
         "score": 0.0001249784
-      },
-      {
-        "id": "06897c74-6986-54f4-9b36-3055106816a6",
-        "file_id": "06897c74-6986-54f4-9b36-3055106816a6",
-        "file_name": "06.24.22 LOTTSFELDT AND ASSOCIATES (ALASKANS FOR LISA (LOTTSFELDT)) 38047 PB FORM",
-        "file_extension": "pdf",
-        "file_size": 831097,
-        "file_status": "com_cpy",
-        "folder_id": "f31fbf94-240b-3bd4-168d-3832b4a96357",
-        "create_ts": "2022-06-24T22:51:26.462Z",
-        "last_update_ts": "2022-06-24T22:52:55.214Z",
-        "active_ind": "Y",
-        "file_manager_id": "61bc9b70-a1ee-4ddb-b7d1-281ecddcc898",
-        "file_folder_path": "Political Files/2022/Federal/US House/ALASKANS FOR LISA/38047",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/ALASKANS FOR LISA/38047/06.24.22 LOTTSFELDT AND ASSOCIATES (ALASKANS FOR LISA (LOTTSFELDT)) 38047 PB FORM",
-        "entity_id": "77906",
-        "source_service_code": "FM",
-        "callsign": "KYSC",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1736558339239706600,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -423,7 +422,7 @@
         "2019": 13896,
         "2020": 124704,
         "2021": 22737,
-        "2022": 44801,
+        "2022": 44802,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -467,13 +466,13 @@
       "source_service_code": {
         "TV": 256032,
         "CABLE": 132903,
-        "FM": 121509,
+        "FM": 121510,
         "AM": 46769,
         "DBS": 6352
       },
       "political_file_type": {
         "PA": 249146,
-        "NCIA": 135356
+        "NCIA": 135357
       }
     }
   },
@@ -489,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1943,
-    "processTime": 951,
-    "responseTime": 1952
+    "queryTime": 1832,
+    "processTime": 839,
+    "responseTime": 1840
   }
 }
