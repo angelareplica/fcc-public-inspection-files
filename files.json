@@ -1,9 +1,58 @@
 {
   "response": {
-    "numFound": 563078,
+    "numFound": 563080,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "bd7c0df8-f049-6be2-5197-7061b4d0bb5b",
+        "file_id": "bd7c0df8-f049-6be2-5197-7061b4d0bb5b",
+        "file_name": "WMYD Furture Forward-PAC-Political-PFD-06-23-2022",
+        "file_extension": "pdf",
+        "file_size": 51491,
+        "file_status": "com_cpy",
+        "folder_id": "606ebf8c-faba-fb2a-3889-e3cfdf0a609b",
+        "create_ts": "2022-06-24T12:50:05.229Z",
+        "last_update_ts": "2022-06-24T12:49:52.889Z",
+        "active_ind": "Y",
+        "file_manager_id": "b5eaed7f-cc23-4d65-a906-1e104c2a29d7",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Future Forward PAC/Political Disclosure",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Future Forward PAC/Political Disclosure/WMYD Furture Forward-PAC-Political-PFD-06-23-2022",
+        "entity_id": "74211",
+        "source_service_code": "TV",
+        "network_affiliation": "MYTV",
+        "nielsen_dma_rank": "DETROIT",
+        "callsign": "WMYD",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1736520504988139500,
+        "score": 0.24995679
+      },
+      {
+        "id": "96cd14e2-0c11-6a0b-7dea-e392e6171d2a",
+        "file_id": "96cd14e2-0c11-6a0b-7dea-e392e6171d2a",
+        "file_name": "Kitty Toll for Vermont order 2592940 revised 06.24.22",
+        "file_extension": "pdf",
+        "file_size": 29436,
+        "file_status": "com_cpy",
+        "folder_id": "2775d02a-9bc8-8bf1-63ad-63fcf14edf4f",
+        "create_ts": "2022-06-24T12:00:59.536Z",
+        "last_update_ts": "2022-06-24T12:02:26.863Z",
+        "active_ind": "Y",
+        "file_manager_id": "5e6a64ad-f03c-4eb9-af4d-68eb268964b7",
+        "file_folder_path": "Political Files/2022/State/Vermont/Lieutenant Governor/Kitty Toll for Vermont",
+        "full_qualified_file_name": "Political Files/2022/State/Vermont/Lieutenant Governor/Kitty Toll for Vermont/Kitty Toll for Vermont order 2592940 revised 06.24.22",
+        "entity_id": "46728",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "BURLINGTON-PLATTSBURGH",
+        "callsign": "WCAX-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1736517416203059200,
+        "score": 0.24995679
+      },
       {
         "id": "a4aca418-9143-d2f3-0148-ec6b7c9e5802",
         "file_id": "a4aca418-9143-d2f3-0148-ec6b7c9e5802",
@@ -182,54 +231,6 @@
         "campaign_year": "2022",
         "_version_": 1736482466489696300,
         "score": 0.24995679
-      },
-      {
-        "id": "14f42162-0eb1-eed9-77d6-0976a0f02b12",
-        "file_id": "14f42162-0eb1-eed9-77d6-0976a0f02b12",
-        "file_name": "Forward Progress 06.21.22-06.27.22 #342250 Rev 1",
-        "file_extension": "pdf",
-        "file_size": 189553,
-        "file_status": "com_cpy",
-        "folder_id": "ea1ce704-5b01-540f-426f-823e7faa069c",
-        "create_ts": "2022-06-24T02:44:07.282Z",
-        "last_update_ts": "2022-06-24T02:45:33.697Z",
-        "active_ind": "Y",
-        "file_manager_id": "e3babec1-cfe3-4462-817c-e7416fa62160",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Forward Progress",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Forward Progress/Forward Progress 06.21.22-06.27.22 #342250 Rev 1",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1736482380987760600,
-        "score": 0.24995679
-      },
-      {
-        "id": "af2d73e9-a947-10c0-f219-450d3c3a7be0",
-        "file_id": "af2d73e9-a947-10c0-f219-450d3c3a7be0",
-        "file_name": "Forward Progress 06.14.22-06.20.22 #342172 Rev 2",
-        "file_extension": "pdf",
-        "file_size": 164000,
-        "file_status": "com_cpy",
-        "folder_id": "ea1ce704-5b01-540f-426f-823e7faa069c",
-        "create_ts": "2022-06-24T02:44:07.169Z",
-        "last_update_ts": "2022-06-24T02:44:08.909Z",
-        "active_ind": "Y",
-        "file_manager_id": "16976752-47a1-4ecd-a52f-c130f109bf82",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Forward Progress",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Forward Progress/Forward Progress 06.14.22-06.20.22 #342172 Rev 2",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1736482380806357000,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -285,7 +286,7 @@
         "PADUCAH-CAPE GIRARD-HARSBG": 1611,
         "PHOENIX (PRESCOTT)": 1591,
         "GREENVLL-SPART-ASHEVLL-AND": 1562,
-        "BURLINGTON-PLATTSBURGH": 1467,
+        "BURLINGTON-PLATTSBURGH": 1468,
         "FARGO-VALLEY CITY": 1446,
         "LITTLE ROCK-PINE BLUFF": 1441,
         "MINOT-BISMARCK-DICKINSON": 1426,
@@ -338,12 +339,12 @@
       "network_affiliation": {
         "ABC": 63961,
         "NBC": 60705,
-        "CBS": 42349,
+        "CBS": 42350,
         "FOX": 30367,
         "PBS": 14790,
         "CW": 12403,
         "IND": 3032,
-        "MYTV": 2258,
+        "MYTV": 2259,
         "UNIVISION": 1907,
         "MY NETWORK": 1676,
         "CBS/NBC": 1081,
@@ -408,12 +409,12 @@
         "2019": 13896,
         "2020": 124704,
         "2021": 22737,
-        "2022": 44456,
+        "2022": 44458,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 80706,
+        "State": 80707,
         "US Senate": 53990,
         "US House": 46343,
         "Presidential": 38351,
@@ -450,15 +451,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 255831,
+        "TV": 255833,
         "CABLE": 132739,
         "FM": 121448,
         "AM": 46739,
         "DBS": 6321
       },
       "political_file_type": {
-        "PA": 248960,
-        "NCIA": 135197
+        "PA": 248961,
+        "NCIA": 135198
       }
     }
   },
@@ -474,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 218,
-    "processTime": 226,
-    "responseTime": 226
+    "queryTime": 1880,
+    "processTime": 888,
+    "responseTime": 1889
   }
 }
