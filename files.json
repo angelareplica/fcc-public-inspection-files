@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 563076,
+    "numFound": 563078,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "a4aca418-9143-d2f3-0148-ec6b7c9e5802",
+        "file_id": "a4aca418-9143-d2f3-0148-ec6b7c9e5802",
+        "file_name": "Moolenaar for Congress WCKC for 062722-070122",
+        "file_extension": "PDF",
+        "file_size": 309124,
+        "file_status": "com_cpy",
+        "folder_id": "d0289db2-7971-b754-e9b9-c5891188b173",
+        "create_ts": "2022-06-24T04:18:29.133Z",
+        "last_update_ts": "2022-06-24T04:19:55.82Z",
+        "active_ind": "Y",
+        "file_manager_id": "e907c440-84c0-42ce-b4a1-d6aa488da037",
+        "file_folder_path": "Political Files/2022/Federal/US House/Moolenaar for Congress 2022",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Moolenaar for Congress 2022/Moolenaar for Congress WCKC for 062722-070122",
+        "entity_id": "22183",
+        "source_service_code": "FM",
+        "callsign": "WCKC",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1736488318022975500,
+        "score": 0.24995679
+      },
+      {
+        "id": "18a90cc7-3e75-86c9-dd14-259ed83e8cb5",
+        "file_id": "18a90cc7-3e75-86c9-dd14-259ed83e8cb5",
+        "file_name": "Moolenaar for Congress WCDY for 062722-070122",
+        "file_extension": "PDF",
+        "file_size": 264821,
+        "file_status": "com_cpy",
+        "folder_id": "74adcb61-9ce0-d08b-f266-bc89f9bab3ae",
+        "create_ts": "2022-06-24T04:19:33.28Z",
+        "last_update_ts": "2022-06-24T04:19:35.094Z",
+        "active_ind": "Y",
+        "file_manager_id": "11c36cea-2000-452d-8f12-53062acbf300",
+        "file_folder_path": "Political Files/2022/Federal/US House/Moolenaar for Congress 2022",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Moolenaar for Congress 2022/Moolenaar for Congress WCDY for 062722-070122",
+        "entity_id": "183306",
+        "source_service_code": "FM",
+        "callsign": "WCDY",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1736488385149665300,
+        "score": 0.24995679
+      },
       {
         "id": "a07fbaa1-e9bb-c184-6525-0cf6a39923ca",
         "file_id": "a07fbaa1-e9bb-c184-6525-0cf6a39923ca",
@@ -184,56 +230,6 @@
         "campaign_year": "2022",
         "_version_": 1736482380806357000,
         "score": 0.24995679
-      },
-      {
-        "id": "54d85675-af00-1085-092d-0ac41d085905",
-        "file_id": "54d85675-af00-1085-092d-0ac41d085905",
-        "file_name": "Zalewski for State Representative 06.21.22-06.28.22 #342824 Rev 1",
-        "file_extension": "pdf",
-        "file_size": 219189,
-        "file_status": "com_cpy",
-        "folder_id": "ea725e2a-8557-bdb4-1ec1-6f581ba4ed59",
-        "create_ts": "2022-06-24T02:40:58.684Z",
-        "last_update_ts": "2022-06-24T02:42:25.304Z",
-        "active_ind": "Y",
-        "file_manager_id": "2867ffe7-1f86-4fcf-a753-7b03678a8628",
-        "file_folder_path": "Political Files/2022/State/Zalewski for State Representative",
-        "full_qualified_file_name": "Political Files/2022/State/Zalewski for State Representative/Zalewski for State Representative 06.21.22-06.28.22 #342824 Rev 1",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1736482183452819500,
-        "score": 0.24995679
-      },
-      {
-        "id": "a243f51e-80b3-2999-515f-d4a64d12c696",
-        "file_id": "a243f51e-80b3-2999-515f-d4a64d12c696",
-        "file_name": "Zalewski for State Representative 06.24.22-06.28.22 #343687",
-        "file_extension": "pdf",
-        "file_size": 187730,
-        "file_status": "com_cpy",
-        "folder_id": "ea725e2a-8557-bdb4-1ec1-6f581ba4ed59",
-        "create_ts": "2022-06-24T02:40:59.255Z",
-        "last_update_ts": "2022-06-24T02:41:00.973Z",
-        "active_ind": "Y",
-        "file_manager_id": "af46eab2-0117-4f57-a6fd-8ef71ccdd6f3",
-        "file_folder_path": "Political Files/2022/State/Zalewski for State Representative",
-        "full_qualified_file_name": "Political Files/2022/State/Zalewski for State Representative/Zalewski for State Representative 06.24.22-06.28.22 #343687",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1736482183770538000,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -412,14 +408,14 @@
         "2019": 13896,
         "2020": 124704,
         "2021": 22737,
-        "2022": 44454,
+        "2022": 44456,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 80706,
         "US Senate": 53990,
-        "US House": 46341,
+        "US House": 46343,
         "Presidential": 38351,
         "Local": 27963
       },
@@ -456,12 +452,12 @@
       "source_service_code": {
         "TV": 255831,
         "CABLE": 132739,
-        "FM": 121446,
+        "FM": 121448,
         "AM": 46739,
         "DBS": 6321
       },
       "political_file_type": {
-        "PA": 248958,
+        "PA": 248960,
         "NCIA": 135197
       }
     }
@@ -478,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1869,
-    "processTime": 878,
-    "responseTime": 1879
+    "queryTime": 1835,
+    "processTime": 843,
+    "responseTime": 1844
   }
 }
