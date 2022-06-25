@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 563616,
+    "numFound": 563617,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "9468a639-5abf-8641-fddd-a06a37080654",
+        "file_id": "9468a639-5abf-8641-fddd-a06a37080654",
+        "file_name": "Coram for Colorado 06242022-06282022",
+        "file_extension": "pdf",
+        "file_size": 1521877,
+        "file_status": "com_cpy",
+        "folder_id": "90a50ecc-a122-863a-e9ab-ccae1da78410",
+        "create_ts": "2022-06-25T16:52:45.17Z",
+        "last_update_ts": "2022-06-25T16:54:15.975Z",
+        "active_ind": "Y",
+        "file_manager_id": "734ffb70-3705-422f-8c54-fb74db64ac25",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Coram for Colorado 06242022-06282022",
+        "entity_id": "12378",
+        "source_service_code": "FM",
+        "callsign": "KMTS",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1736626369717076000,
+        "score": 0.24995679
+      },
       {
         "id": "4ae4abac-40be-e159-45d1-6a40ac04d2f5",
         "file_id": "4ae4abac-40be-e159-45d1-6a40ac04d2f5",
@@ -228,31 +251,6 @@
         "campaign_year": "2022",
         "_version_": 1736589443581608000,
         "score": 0.0001249784
-      },
-      {
-        "id": "76847129-47cd-0695-2a48-7611d6653ce9",
-        "file_id": "76847129-47cd-0695-2a48-7611d6653ce9",
-        "file_name": "Zalewski for State Representative 06.24.22-06.28.22 #343687 Rev 1",
-        "file_extension": "pdf",
-        "file_size": 217030,
-        "file_status": "com_cpy",
-        "folder_id": "ea725e2a-8557-bdb4-1ec1-6f581ba4ed59",
-        "create_ts": "2022-06-25T03:37:33.16Z",
-        "last_update_ts": "2022-06-25T03:37:34.977Z",
-        "active_ind": "Y",
-        "file_manager_id": "67a3830c-9a46-4f40-bf96-24f495e968f0",
-        "file_folder_path": "Political Files/2022/State/Zalewski for State Representative",
-        "full_qualified_file_name": "Political Files/2022/State/Zalewski for State Representative/Zalewski for State Representative 06.24.22-06.28.22 #343687 Rev 1",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1736576339619610600,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -431,14 +429,14 @@
         "2019": 13896,
         "2020": 124704,
         "2021": 22737,
-        "2022": 44852,
+        "2022": 44853,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 80782,
         "US Senate": 54005,
-        "US House": 46415,
+        "US House": 46416,
         "Presidential": 38351,
         "Local": 28032
       },
@@ -475,12 +473,12 @@
       "source_service_code": {
         "TV": 256056,
         "CABLE": 132913,
-        "FM": 121518,
+        "FM": 121519,
         "AM": 46777,
         "DBS": 6352
       },
       "political_file_type": {
-        "PA": 249192,
+        "PA": 249193,
         "NCIA": 135361
       }
     }
@@ -497,8 +495,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 213,
-    "processTime": 220,
-    "responseTime": 220
+    "queryTime": 218,
+    "processTime": 230,
+    "responseTime": 231
   }
 }
