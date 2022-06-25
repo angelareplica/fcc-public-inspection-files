@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 563627,
+    "numFound": 563628,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "4ca9c204-dd9f-3e7f-4353-d37632b0765e",
+        "file_id": "4ca9c204-dd9f-3e7f-4353-d37632b0765e",
+        "file_name": "InfoTrak_wknd_of_04-02-22_295_min_issues_sheet",
+        "file_extension": "pdf",
+        "file_size": 101276,
+        "file_status": "com_cpy",
+        "folder_id": "dcd22b2b-3311-de1b-8ff1-91524886753c",
+        "create_ts": "2022-06-25T20:26:30.018Z",
+        "last_update_ts": "2022-06-25T20:26:17.295Z",
+        "active_ind": "Y",
+        "file_manager_id": "3da0f896-cb1d-4fea-b6d7-31c9614f367d",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/InfoTrak_wknd_of_04-02-22_295_min_issues_sheet",
+        "entity_id": "63979",
+        "source_service_code": "AM",
+        "callsign": "WIGN",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1736639816973418500,
+        "score": 0.24995679
+      },
       {
         "id": "fdf25da9-4e15-6c19-d5d0-eca180779bcd",
         "file_id": "fdf25da9-4e15-6c19-d5d0-eca180779bcd",
@@ -204,31 +225,6 @@
         "campaign_year": "2022",
         "_version_": 1736634007979819000,
         "score": 0.24995679
-      },
-      {
-        "id": "d54047c0-1afd-0405-118b-49a2643ce58d",
-        "file_id": "d54047c0-1afd-0405-118b-49a2643ce58d",
-        "file_name": "EYTV - Tim Ryan - Agreement - 062822-070422 -2",
-        "file_extension": "pdf",
-        "file_size": 151442,
-        "file_status": "com_cpy",
-        "folder_id": "8b6f7195-6657-8143-de19-065877548288",
-        "create_ts": "2022-06-25T18:53:21.761Z",
-        "last_update_ts": "2022-06-25T18:53:09.151Z",
-        "active_ind": "Y",
-        "file_manager_id": "bf444be1-3db4-4e03-a616-13adaed107f9",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/EYTV - Tim Ryan - US Senate OH - Dem",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/EYTV - Tim Ryan - US Senate OH - Dem/EYTV - Tim Ryan - Agreement - 062822-070422 -2",
-        "entity_id": "4693",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "YOUNGSTOWN",
-        "callsign": "WYTV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1736633957361909800,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -423,7 +419,7 @@
         "Issues and Programs Lists": 46157,
         "Equal Employment Opportunity Records": 37660,
         "Donor Lists - Applicable Only for NCEs": 12280,
-        "FCC Authorizations": 7454,
+        "FCC Authorizations": 7455,
         "Local Public Notice Announcements": 1893,
         "Availability of Signals": 1872,
         "Applications and Related Materials": 1711,
@@ -452,7 +448,7 @@
         "TV": 256060,
         "CABLE": 132913,
         "FM": 121519,
-        "AM": 46783,
+        "AM": 46784,
         "DBS": 6352
       },
       "political_file_type": {
@@ -473,8 +469,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 220,
-    "processTime": 228,
-    "responseTime": 228
+    "queryTime": 1894,
+    "processTime": 902,
+    "responseTime": 1902
   }
 }
