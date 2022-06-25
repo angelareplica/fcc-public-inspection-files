@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 563613,
+    "numFound": 563615,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "6c29cae4-f6a7-ae94-b719-d44ed504420e",
+        "file_id": "6c29cae4-f6a7-ae94-b719-d44ed504420e",
+        "file_name": "698841_Invoice_20220624085108",
+        "file_extension": "pdf",
+        "file_size": 137927,
+        "file_status": "com_cpy",
+        "folder_id": "b355a1f7-b6b2-c4f2-5707-f4def9af4a6f",
+        "create_ts": "2022-06-25T10:02:16Z",
+        "last_update_ts": "2022-06-25T10:02:17.742Z",
+        "active_ind": "Y",
+        "file_manager_id": "4ece1091-67e2-49a0-ba51-df3456867aea",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698841_Invoice_20220624085108",
+        "entity_id": "006401",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF INDIANA/KENTUCKY/UTAH",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1736600543662440400,
+        "score": 0.0001249784
+      },
+      {
+        "id": "7cece27b-2036-9cf7-a116-fc877914491f",
+        "file_id": "7cece27b-2036-9cf7-a116-fc877914491f",
+        "file_name": "698841_Invoice_20220624085108",
+        "file_extension": "pdf",
+        "file_size": 137927,
+        "file_status": "com_cpy",
+        "folder_id": "6a7cf252-7508-d70a-a071-2e3175d0e401",
+        "create_ts": "2022-06-25T09:48:32.955Z",
+        "last_update_ts": "2022-06-25T09:50:02.609Z",
+        "active_ind": "Y",
+        "file_manager_id": "e94fc4d0-a29b-4ad9-89f0-75afd5a536b2",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698841_Invoice_20220624085108",
+        "entity_id": "006193",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS VI INC",
+        "operator_city_name": "Philadelphia",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1736599680676003800,
+        "score": 0.0001249784
+      },
       {
         "id": "45f007a2-039d-c911-a483-9895afb2856d",
         "file_id": "45f007a2-039d-c911-a483-9895afb2856d",
@@ -203,54 +253,6 @@
         "campaign_year": "2022",
         "_version_": 1736576339472810000,
         "score": 0.24995679
-      },
-      {
-        "id": "25414878-9d1e-94cc-8b5f-e2c14e24e18f",
-        "file_id": "25414878-9d1e-94cc-8b5f-e2c14e24e18f",
-        "file_name": "WFP National PAC 06.21.22-06.28.22 #342863 Rev 1",
-        "file_extension": "pdf",
-        "file_size": 164313,
-        "file_status": "com_cpy",
-        "folder_id": "d83ecb35-9878-3e0a-1827-b062827b8bc0",
-        "create_ts": "2022-06-25T03:35:18.542Z",
-        "last_update_ts": "2022-06-25T03:35:06.025Z",
-        "active_ind": "Y",
-        "file_manager_id": "b0e3980d-d6fc-475c-ba1d-75635e29dca5",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/WFP National PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/WFP National PAC/WFP National PAC 06.21.22-06.28.22 #342863 Rev 1",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1736576198335529000,
-        "score": 0.24995679
-      },
-      {
-        "id": "544311ea-62d6-253e-b88c-65ecfb7026fb",
-        "file_id": "544311ea-62d6-253e-b88c-65ecfb7026fb",
-        "file_name": "Web3 Forward 06.20.22-06.28.22 #342610 Rev 2",
-        "file_extension": "pdf",
-        "file_size": 218789,
-        "file_status": "com_cpy",
-        "folder_id": "b39a8220-e893-2692-8026-a3e061b23d85",
-        "create_ts": "2022-06-25T03:32:57.557Z",
-        "last_update_ts": "2022-06-25T03:32:45.134Z",
-        "active_ind": "Y",
-        "file_manager_id": "cf790466-8c9c-4233-bc96-87f703502f99",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Web3 Forward",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Web3 Forward/Web3 Forward 06.20.22-06.28.22 #342610 Rev 2",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1736576050594316300,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -429,7 +431,7 @@
         "2019": 13896,
         "2020": 124704,
         "2021": 22737,
-        "2022": 44849,
+        "2022": 44851,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -438,7 +440,7 @@
         "US Senate": 54005,
         "US House": 46415,
         "Presidential": 38351,
-        "Local": 28029
+        "Local": 28031
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61803,
@@ -472,13 +474,13 @@
       },
       "source_service_code": {
         "TV": 256056,
-        "CABLE": 132910,
+        "CABLE": 132912,
         "FM": 121518,
         "AM": 46777,
         "DBS": 6352
       },
       "political_file_type": {
-        "PA": 249189,
+        "PA": 249191,
         "NCIA": 135361
       }
     }
@@ -495,8 +497,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1890,
-    "processTime": 897,
-    "responseTime": 1898
+    "queryTime": 1853,
+    "processTime": 861,
+    "responseTime": 1862
   }
 }
