@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 563615,
+    "numFound": 563616,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "4ae4abac-40be-e159-45d1-6a40ac04d2f5",
+        "file_id": "4ae4abac-40be-e159-45d1-6a40ac04d2f5",
+        "file_name": "698841_Invoice_20220624085108",
+        "file_extension": "pdf",
+        "file_size": 137927,
+        "file_status": "com_cpy",
+        "folder_id": "50662230-0f18-df32-bb85-534894307086",
+        "create_ts": "2022-06-25T11:29:22.065Z",
+        "last_update_ts": "2022-06-25T11:30:51.785Z",
+        "active_ind": "Y",
+        "file_manager_id": "c4472c26-2955-47d8-8c8e-5d7b75eafe46",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698841_Invoice_20220624085108",
+        "entity_id": "006880",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS XII LP",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1736606023519568000,
+        "score": 0.0001249784
+      },
       {
         "id": "6c29cae4-f6a7-ae94-b719-d44ed504420e",
         "file_id": "6c29cae4-f6a7-ae94-b719-d44ed504420e",
@@ -228,31 +253,6 @@
         "campaign_year": "2022",
         "_version_": 1736576339619610600,
         "score": 0.24995679
-      },
-      {
-        "id": "e0334a4c-7bde-2c99-6401-a7db5885b25a",
-        "file_id": "e0334a4c-7bde-2c99-6401-a7db5885b25a",
-        "file_name": "Zalewski for State Representative 06.21.22-06.28.22 #342824 Rev 2",
-        "file_extension": "pdf",
-        "file_size": 220886,
-        "file_status": "com_cpy",
-        "folder_id": "ea725e2a-8557-bdb4-1ec1-6f581ba4ed59",
-        "create_ts": "2022-06-25T03:37:33.007Z",
-        "last_update_ts": "2022-06-25T03:37:20.627Z",
-        "active_ind": "Y",
-        "file_manager_id": "1c865f82-4425-40f0-845a-42a17f070de7",
-        "file_folder_path": "Political Files/2022/State/Zalewski for State Representative",
-        "full_qualified_file_name": "Political Files/2022/State/Zalewski for State Representative/Zalewski for State Representative 06.21.22-06.28.22 #342824 Rev 2",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1736576339472810000,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -431,7 +431,7 @@
         "2019": 13896,
         "2020": 124704,
         "2021": 22737,
-        "2022": 44851,
+        "2022": 44852,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -440,7 +440,7 @@
         "US Senate": 54005,
         "US House": 46415,
         "Presidential": 38351,
-        "Local": 28031
+        "Local": 28032
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61803,
@@ -474,13 +474,13 @@
       },
       "source_service_code": {
         "TV": 256056,
-        "CABLE": 132912,
+        "CABLE": 132913,
         "FM": 121518,
         "AM": 46777,
         "DBS": 6352
       },
       "political_file_type": {
-        "PA": 249191,
+        "PA": 249192,
         "NCIA": 135361
       }
     }
@@ -497,8 +497,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1833,
-    "processTime": 841,
-    "responseTime": 1841
+    "queryTime": 1878,
+    "processTime": 885,
+    "responseTime": 1886
   }
 }
