@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 563607,
+    "numFound": 563608,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "b88553bc-88e3-dfbc-8d0c-fafd82b462ed",
+        "file_id": "b88553bc-88e3-dfbc-8d0c-fafd82b462ed",
+        "file_name": "698841_Invoice_20220624085108",
+        "file_extension": "pdf",
+        "file_size": 137927,
+        "file_status": "com_cpy",
+        "folder_id": "4436ab0f-3fb2-be06-ccd8-e3bdfa036ed4",
+        "create_ts": "2022-06-25T07:05:50.144Z",
+        "last_update_ts": "2022-06-25T07:05:51.882Z",
+        "active_ind": "Y",
+        "file_manager_id": "6fb5f474-d71d-458b-9745-7ff8f6d07fa7",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698841_Invoice_20220624085108",
+        "entity_id": "004939",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF NORTHERN ILLINOIS INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1736589443581608000,
+        "score": 0.0001249784
+      },
       {
         "id": "76847129-47cd-0695-2a48-7611d6653ce9",
         "file_id": "76847129-47cd-0695-2a48-7611d6653ce9",
@@ -226,31 +251,6 @@
         "campaign_year": "2022",
         "_version_": 1736575478284681200,
         "score": 0.24995679
-      },
-      {
-        "id": "9719bf5f-8ffb-4322-26b6-71b7548d5a14",
-        "file_id": "9719bf5f-8ffb-4322-26b6-71b7548d5a14",
-        "file_name": "Preckwinkle for President 06.21.22-06.28.22 #342762 Rev 1",
-        "file_extension": "pdf",
-        "file_size": 247846,
-        "file_status": "com_cpy",
-        "folder_id": "9c76e66c-194a-d78e-a8ef-6c2a1664534a",
-        "create_ts": "2022-06-25T03:20:07.044Z",
-        "last_update_ts": "2022-06-25T03:20:08.785Z",
-        "active_ind": "Y",
-        "file_manager_id": "4ea9121d-a853-43e5-a5ec-e16b9addd34a",
-        "file_folder_path": "Political Files/2022/Local/Preckwinkle for President - Cook Co Board",
-        "full_qualified_file_name": "Political Files/2022/Local/Preckwinkle for President - Cook Co Board/Preckwinkle for President 06.21.22-06.28.22 #342762 Rev 1",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1736575242616176600,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -429,7 +429,7 @@
         "2019": 13896,
         "2020": 124704,
         "2021": 22737,
-        "2022": 44843,
+        "2022": 44844,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -438,7 +438,7 @@
         "US Senate": 54005,
         "US House": 46415,
         "Presidential": 38351,
-        "Local": 28023
+        "Local": 28024
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61803,
@@ -472,13 +472,13 @@
       },
       "source_service_code": {
         "TV": 256056,
-        "CABLE": 132904,
+        "CABLE": 132905,
         "FM": 121518,
         "AM": 46777,
         "DBS": 6352
       },
       "political_file_type": {
-        "PA": 249183,
+        "PA": 249184,
         "NCIA": 135361
       }
     }
@@ -495,8 +495,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1912,
-    "processTime": 923,
-    "responseTime": 1924
+    "queryTime": 1839,
+    "processTime": 849,
+    "responseTime": 1849
   }
 }
