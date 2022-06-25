@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 563608,
+    "numFound": 563609,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "0ed6fa7c-74fa-bdcf-4545-c42ea5922e7c",
+        "file_id": "0ed6fa7c-74fa-bdcf-4545-c42ea5922e7c",
+        "file_name": "698841_Invoice_20220624085108",
+        "file_extension": "pdf",
+        "file_size": 137927,
+        "file_status": "com_cpy",
+        "folder_id": "fa7d0812-07e4-5625-f394-319380d2015f",
+        "create_ts": "2022-06-25T07:31:15.615Z",
+        "last_update_ts": "2022-06-25T07:32:45.132Z",
+        "active_ind": "Y",
+        "file_manager_id": "6c31c55f-3c2c-4560-a99e-f851239d28e7",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698841_Invoice_20220624085108",
+        "entity_id": "005100",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF CALIFORNIA/COLORADO/ILLINOIS/INDIANA/MICHIGAN, LP",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1736591043312222200,
+        "score": 0.0001249784
+      },
       {
         "id": "b88553bc-88e3-dfbc-8d0c-fafd82b462ed",
         "file_id": "b88553bc-88e3-dfbc-8d0c-fafd82b462ed",
@@ -226,31 +251,6 @@
         "campaign_year": "2022",
         "_version_": 1736575689949184000,
         "score": 0.24995679
-      },
-      {
-        "id": "b04e18af-80fc-4638-7266-30b5e69c2fb7",
-        "file_id": "b04e18af-80fc-4638-7266-30b5e69c2fb7",
-        "file_name": "Friends of Raja for Congress 06.23.22-06.28.22 #343169 Rev 1",
-        "file_extension": "pdf",
-        "file_size": 189578,
-        "file_status": "com_cpy",
-        "folder_id": "2c0ee446-4b93-e596-d5a7-a4af5f3e2879",
-        "create_ts": "2022-06-25T03:23:51.802Z",
-        "last_update_ts": "2022-06-25T03:25:20.741Z",
-        "active_ind": "Y",
-        "file_manager_id": "0cd3b22f-675a-4c09-9d97-02807f8ebd9f",
-        "file_folder_path": "Political Files/2022/Federal/US House/Friends of Raja for Congress",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Friends of Raja for Congress/Friends of Raja for Congress 06.23.22-06.28.22 #343169 Rev 1",
-        "entity_id": "73226",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "CHICAGO",
-        "callsign": "WLS-TV",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1736575478284681200,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -429,7 +429,7 @@
         "2019": 13896,
         "2020": 124704,
         "2021": 22737,
-        "2022": 44844,
+        "2022": 44845,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -438,7 +438,7 @@
         "US Senate": 54005,
         "US House": 46415,
         "Presidential": 38351,
-        "Local": 28024
+        "Local": 28025
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61803,
@@ -472,13 +472,13 @@
       },
       "source_service_code": {
         "TV": 256056,
-        "CABLE": 132905,
+        "CABLE": 132906,
         "FM": 121518,
         "AM": 46777,
         "DBS": 6352
       },
       "political_file_type": {
-        "PA": 249184,
+        "PA": 249185,
         "NCIA": 135361
       }
     }
@@ -495,8 +495,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1839,
-    "processTime": 849,
-    "responseTime": 1849
+    "queryTime": 1832,
+    "processTime": 844,
+    "responseTime": 1844
   }
 }
