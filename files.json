@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 563628,
+    "numFound": 563629,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "876c5569-bf05-68b7-5f75-57fd9387705d",
+        "file_id": "876c5569-bf05-68b7-5f75-57fd9387705d",
+        "file_name": "Notice of Filing 062522 and 122321",
+        "file_extension": "pdf",
+        "file_size": 541328,
+        "file_status": "com_cpy",
+        "folder_id": "54796062-04a8-7cb0-68f1-5f1c4f9a3897",
+        "create_ts": "2022-06-25T23:43:53.121Z",
+        "last_update_ts": "2022-06-25T23:43:54.943Z",
+        "active_ind": "Y",
+        "file_manager_id": "061f2e82-86d0-4d72-8c74-52e6188c8e37",
+        "file_folder_path": "Applications and Related Materials/Additional Documents/Certification of Online Post-Filing Announcements certified 062522 and 122321",
+        "full_qualified_file_name": "Applications and Related Materials/Additional Documents/Certification of Online Post-Filing Announcements certified 062522 and 122321/Notice of Filing 062522 and 122321",
+        "entity_id": "23052",
+        "source_service_code": "FM",
+        "callsign": "KGLP",
+        "non_political_file_folder": "Applications and Related Materials",
+        "_version_": 1736652297448980500,
+        "score": 0.24995679
+      },
       {
         "id": "4ca9c204-dd9f-3e7f-4353-d37632b0765e",
         "file_id": "4ca9c204-dd9f-3e7f-4353-d37632b0765e",
@@ -199,31 +220,6 @@
         "office_type": "US Senate",
         "campaign_year": "2022",
         "_version_": 1736633957422727200,
-        "score": 0.24995679
-      },
-      {
-        "id": "24ab9f03-72bb-fe26-3bac-2fc6c728ba27",
-        "file_id": "24ab9f03-72bb-fe26-3bac-2fc6c728ba27",
-        "file_name": "WYTV - Tim Ryan - Agreement - 062822-070422 -2",
-        "file_extension": "pdf",
-        "file_size": 143688,
-        "file_status": "com_cpy",
-        "folder_id": "1245254b-a66d-2cce-cacc-ebd91268e1e6",
-        "create_ts": "2022-06-25T18:54:09.907Z",
-        "last_update_ts": "2022-06-25T18:53:57.429Z",
-        "active_ind": "Y",
-        "file_manager_id": "bea2a4df-ca1c-4f5a-ba7e-9c2a60d24cca",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/WYTV - Tim Ryan - US Senate OH - Dem",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/WYTV - Tim Ryan - US Senate OH - Dem/WYTV - Tim Ryan - Agreement - 062822-070422 -2",
-        "entity_id": "4693",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "YOUNGSTOWN",
-        "callsign": "WYTV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1736634007979819000,
         "score": 0.24995679
       }
     ],
@@ -422,7 +418,7 @@
         "FCC Authorizations": 7455,
         "Local Public Notice Announcements": 1893,
         "Availability of Signals": 1872,
-        "Applications and Related Materials": 1711,
+        "Applications and Related Materials": 1712,
         "FCC Investigations or Complaints": 1556,
         "Must-Carry or Retransmission Consent": 1302,
         "Childrens TV Programming Reports": 1161,
@@ -447,7 +443,7 @@
       "source_service_code": {
         "TV": 256060,
         "CABLE": 132913,
-        "FM": 121519,
+        "FM": 121520,
         "AM": 46784,
         "DBS": 6352
       },
@@ -469,8 +465,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 219,
-    "processTime": 230,
-    "responseTime": 230
+    "queryTime": 216,
+    "processTime": 224,
+    "responseTime": 224
   }
 }
