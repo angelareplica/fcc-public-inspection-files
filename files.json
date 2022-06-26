@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 563634,
+    "numFound": 563636,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "323a3248-ab45-2980-9568-9158c804fc67",
+        "file_id": "323a3248-ab45-2980-9568-9158c804fc67",
+        "file_name": "1188443-0",
+        "file_extension": "pdf",
+        "file_size": 108410,
+        "file_status": "com_cpy",
+        "folder_id": "c0ae4d5f-913f-1e9e-ac91-88c34063451f",
+        "create_ts": "2022-06-26T06:53:59.303Z",
+        "last_update_ts": "2022-06-26T06:54:00.912Z",
+        "active_ind": "Y",
+        "file_manager_id": "c4b30781-f7b8-4423-8eaa-755ce5e298b7",
+        "file_folder_path": "Political Files/2022/State/Gubernatorial/Tom Suozzi",
+        "full_qualified_file_name": "Political Files/2022/State/Gubernatorial/Tom Suozzi/1188443-0",
+        "entity_id": "22206",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "NEW YORK",
+        "callsign": "WNYW",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1736679295103795200,
+        "score": 0.24995679
+      },
+      {
+        "id": "fb223fa1-7980-2102-b81c-9deefa637312",
+        "file_id": "fb223fa1-7980-2102-b81c-9deefa637312",
+        "file_name": "1182955-0",
+        "file_extension": "pdf",
+        "file_size": 127259,
+        "file_status": "com_cpy",
+        "folder_id": "c0ae4d5f-913f-1e9e-ac91-88c34063451f",
+        "create_ts": "2022-06-26T06:53:59.303Z",
+        "last_update_ts": "2022-06-26T06:53:46.502Z",
+        "active_ind": "Y",
+        "file_manager_id": "9f5a5461-0a2f-40ca-9da7-ce2af852e654",
+        "file_folder_path": "Political Files/2022/State/Gubernatorial/Tom Suozzi",
+        "full_qualified_file_name": "Political Files/2022/State/Gubernatorial/Tom Suozzi/1182955-0",
+        "entity_id": "22206",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "NEW YORK",
+        "callsign": "WNYW",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1736679295161467000,
+        "score": 0.24995679
+      },
       {
         "id": "4badcf0c-af1c-707c-3dfd-46beb34a0b33",
         "file_id": "4badcf0c-af1c-707c-3dfd-46beb34a0b33",
@@ -191,48 +241,6 @@
         "non_political_file_folder": "FCC Authorizations",
         "_version_": 1736639470401224700,
         "score": 0.24995679
-      },
-      {
-        "id": "082115d1-7056-c9fe-2de4-c3920cec7466",
-        "file_id": "082115d1-7056-c9fe-2de4-c3920cec7466",
-        "file_name": "InfoTrak_wknd_of_01-08-22_295_min_issues_sheet.pdf- Done",
-        "file_extension": "pdf",
-        "file_size": 130114,
-        "file_status": "com_cpy",
-        "folder_id": "dcd22b2b-3311-de1b-8ff1-91524886753c",
-        "create_ts": "2022-06-25T20:15:13.022Z",
-        "last_update_ts": "2022-06-25T20:16:43.667Z",
-        "active_ind": "Y",
-        "file_manager_id": "6b7229cc-52a7-4550-9bcd-c5e71fec7e58",
-        "file_folder_path": "FCC Authorizations/Additional Documents",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/InfoTrak_wknd_of_01-08-22_295_min_issues_sheet.pdf- Done",
-        "entity_id": "63979",
-        "source_service_code": "AM",
-        "callsign": "WIGN",
-        "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1736639107135701000,
-        "score": 0.24995679
-      },
-      {
-        "id": "a6301fea-df42-0800-83fb-385900b3e21e",
-        "file_id": "a6301fea-df42-0800-83fb-385900b3e21e",
-        "file_name": "InfoTrak_wknd_of_01-01-22_295_min_issues_sheet.pdf- Done",
-        "file_extension": "pdf",
-        "file_size": 99152,
-        "file_status": "com_cpy",
-        "folder_id": "dcd22b2b-3311-de1b-8ff1-91524886753c",
-        "create_ts": "2022-06-25T20:15:05.054Z",
-        "last_update_ts": "2022-06-25T20:16:35.663Z",
-        "active_ind": "Y",
-        "file_manager_id": "656aca79-30f6-41ed-818e-7a3c0af664f6",
-        "file_folder_path": "FCC Authorizations/Additional Documents",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/InfoTrak_wknd_of_01-01-22_295_min_issues_sheet.pdf- Done",
-        "entity_id": "63979",
-        "source_service_code": "AM",
-        "callsign": "WIGN",
-        "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1736639098740801500,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -302,8 +310,8 @@
         "ST. LOUIS": 1227,
         "LOS ANGELES": 1219,
         "LOUISVILLE": 1183,
+        "NEW YORK": 1139,
         "WICHITA-HUTCHINSON PLUS": 1139,
-        "NEW YORK": 1137,
         "CHARLOTTE": 1112,
         "COLUMBUS OH": 1107,
         "SALT LAKE CITY": 1105,
@@ -342,7 +350,7 @@
         "ABC": 64047,
         "NBC": 60748,
         "CBS": 42377,
-        "FOX": 30421,
+        "FOX": 30423,
         "PBS": 14790,
         "CW": 12406,
         "IND": 3033,
@@ -411,12 +419,12 @@
         "2019": 13896,
         "2020": 124704,
         "2021": 22737,
-        "2022": 44862,
+        "2022": 44864,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 80787,
+        "State": 80789,
         "US Senate": 54009,
         "US House": 46416,
         "Presidential": 38351,
@@ -453,14 +461,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 256065,
+        "TV": 256067,
         "CABLE": 132913,
         "FM": 121520,
         "AM": 46784,
         "DBS": 6352
       },
       "political_file_type": {
-        "PA": 249202,
+        "PA": 249204,
         "NCIA": 135361
       }
     }
@@ -477,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1831,
-    "processTime": 839,
-    "responseTime": 1839
+    "queryTime": 213,
+    "processTime": 223,
+    "responseTime": 224
   }
 }
