@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 563636,
+    "numFound": 563638,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "59daead0-91c6-070e-a1b3-46c99ac8094e",
+        "file_id": "59daead0-91c6-070e-a1b3-46c99ac8094e",
+        "file_name": "K2281366 NAB School Freedom Fun 0624_0628",
+        "file_extension": "pdf",
+        "file_size": 1102210,
+        "file_status": "com_cpy",
+        "folder_id": "5bb0729d-eb28-ff97-9bfe-28b824dceff4",
+        "create_ts": "2022-06-26T14:14:28.423Z",
+        "last_update_ts": "2022-06-26T14:14:15.845Z",
+        "active_ind": "Y",
+        "file_manager_id": "3f1bae08-f5b5-4c11-afc8-82a76dda4ec9",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/K2281366 - School Freedom Fund Oklahoma",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/K2281366 - School Freedom Fund Oklahoma/K2281366 NAB School Freedom Fun 0624_0628",
+        "entity_id": "60353",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "FT. SMITH-FAY-SPRNGDL-RGRS",
+        "callsign": "KHBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1736707008420118500,
+        "score": 0.24995679
+      },
+      {
+        "id": "a4346f42-8d73-316a-9421-4928332856e9",
+        "file_id": "a4346f42-8d73-316a-9421-4928332856e9",
+        "file_name": "K2281366 School Freedom Fund Contract 0624_0628",
+        "file_extension": "pdf",
+        "file_size": 493973,
+        "file_status": "com_cpy",
+        "folder_id": "5bb0729d-eb28-ff97-9bfe-28b824dceff4",
+        "create_ts": "2022-06-26T14:14:28.282Z",
+        "last_update_ts": "2022-06-26T14:14:15.657Z",
+        "active_ind": "Y",
+        "file_manager_id": "c4e2f42b-a983-4c73-910d-92c504737548",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/K2281366 - School Freedom Fund Oklahoma",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/K2281366 - School Freedom Fund Oklahoma/K2281366 School Freedom Fund Contract 0624_0628",
+        "entity_id": "60353",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "FT. SMITH-FAY-SPRNGDL-RGRS",
+        "callsign": "KHBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1736707008235569200,
+        "score": 0.24995679
+      },
       {
         "id": "323a3248-ab45-2980-9568-9158c804fc67",
         "file_id": "323a3248-ab45-2980-9568-9158c804fc67",
@@ -199,48 +247,6 @@
         "non_political_file_folder": "Applications and Related Materials",
         "_version_": 1736652297448980500,
         "score": 0.24995679
-      },
-      {
-        "id": "4ca9c204-dd9f-3e7f-4353-d37632b0765e",
-        "file_id": "4ca9c204-dd9f-3e7f-4353-d37632b0765e",
-        "file_name": "InfoTrak_wknd_of_04-02-22_295_min_issues_sheet",
-        "file_extension": "pdf",
-        "file_size": 101276,
-        "file_status": "com_cpy",
-        "folder_id": "dcd22b2b-3311-de1b-8ff1-91524886753c",
-        "create_ts": "2022-06-25T20:26:30.018Z",
-        "last_update_ts": "2022-06-25T20:26:17.295Z",
-        "active_ind": "Y",
-        "file_manager_id": "3da0f896-cb1d-4fea-b6d7-31c9614f367d",
-        "file_folder_path": "FCC Authorizations/Additional Documents",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/InfoTrak_wknd_of_04-02-22_295_min_issues_sheet",
-        "entity_id": "63979",
-        "source_service_code": "AM",
-        "callsign": "WIGN",
-        "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1736639816973418500,
-        "score": 0.24995679
-      },
-      {
-        "id": "fdf25da9-4e15-6c19-d5d0-eca180779bcd",
-        "file_id": "fdf25da9-4e15-6c19-d5d0-eca180779bcd",
-        "file_name": "InfoTrak_wknd_of_03-05-22_295_min_issues_sheet",
-        "file_extension": "pdf",
-        "file_size": 130573,
-        "file_status": "com_cpy",
-        "folder_id": "448268df-de09-657a-3303-0cb5eaba861e",
-        "create_ts": "2022-06-25T20:20:59.449Z",
-        "last_update_ts": "2022-06-25T20:20:46.776Z",
-        "active_ind": "Y",
-        "file_manager_id": "d107bbca-6a17-481b-9b1a-a67e5b13a3e3",
-        "file_folder_path": "FCC Authorizations/Additional Documents/March 2022",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/March 2022/InfoTrak_wknd_of_03-05-22_295_min_issues_sheet",
-        "entity_id": "63979",
-        "source_service_code": "AM",
-        "callsign": "WIGN",
-        "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1736639470401224700,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -316,8 +322,8 @@
         "COLUMBUS OH": 1107,
         "SALT LAKE CITY": 1105,
         "GLENDIVE": 1081,
+        "FT. SMITH-FAY-SPRNGDL-RGRS": 1065,
         "DENVER": 1064,
-        "FT. SMITH-FAY-SPRNGDL-RGRS": 1063,
         "ORLANDO-DAYTONA BCH-MELBRN": 1042,
         "JACKSON MS": 1002,
         "DAYTON": 997,
@@ -347,7 +353,7 @@
         "TERRE HAUTE": 641
       },
       "network_affiliation": {
-        "ABC": 64047,
+        "ABC": 64049,
         "NBC": 60748,
         "CBS": 42377,
         "FOX": 30423,
@@ -419,7 +425,7 @@
         "2019": 13896,
         "2020": 124704,
         "2021": 22737,
-        "2022": 44864,
+        "2022": 44866,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -461,7 +467,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 256067,
+        "TV": 256069,
         "CABLE": 132913,
         "FM": 121520,
         "AM": 46784,
@@ -469,7 +475,7 @@
       },
       "political_file_type": {
         "PA": 249204,
-        "NCIA": 135361
+        "NCIA": 135363
       }
     }
   },
@@ -485,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 221,
-    "processTime": 229,
-    "responseTime": 229
+    "queryTime": 1834,
+    "processTime": 845,
+    "responseTime": 1845
   }
 }
