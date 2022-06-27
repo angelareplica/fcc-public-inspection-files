@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 563659,
+    "numFound": 563661,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "13c5f94e-b84e-bd99-be7b-f355b54c54b3",
+        "file_id": "13c5f94e-b84e-bd99-be7b-f355b54c54b3",
+        "file_name": "06272022_WQIO_IssuesandProgramming_SecondQuarter",
+        "file_extension": "pdf",
+        "file_size": 428990,
+        "file_status": "com_cpy",
+        "folder_id": "5a8b4471-7639-62a5-0cf4-a8f02b3c1556",
+        "create_ts": "2022-06-27T11:10:52.321Z",
+        "last_update_ts": "2022-06-27T11:10:54.069Z",
+        "active_ind": "Y",
+        "file_manager_id": "05e7679e-4e28-45e2-ad24-29ebf867115e",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/06272022_WQIO_IssuesandProgramming_SecondQuarter",
+        "entity_id": "74475",
+        "source_service_code": "FM",
+        "callsign": "WQIO",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1736786054004867000,
+        "score": 0.24995679
+      },
+      {
+        "id": "1d55516a-be78-1d7d-410d-8c3895dd5b72",
+        "file_id": "1d55516a-be78-1d7d-410d-8c3895dd5b72",
+        "file_name": "06272022_WMVO_IssuesandProgramming_SecondQuarter",
+        "file_extension": "pdf",
+        "file_size": 426853,
+        "file_status": "com_cpy",
+        "folder_id": "f6cb2aba-cab9-d4db-dbf8-a0d88595647f",
+        "create_ts": "2022-06-27T11:09:32.382Z",
+        "last_update_ts": "2022-06-27T11:09:19.472Z",
+        "active_ind": "Y",
+        "file_manager_id": "7503fe7d-1616-4e0b-a436-a72539f37813",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/06272022_WMVO_IssuesandProgramming_SecondQuarter",
+        "entity_id": "74474",
+        "source_service_code": "AM",
+        "callsign": "WMVO",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1736785970257199000,
+        "score": 0.24995679
+      },
       {
         "id": "106ca6a3-2890-5fa6-a095-608eba66c44f",
         "file_id": "106ca6a3-2890-5fa6-a095-608eba66c44f",
@@ -203,56 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1736743639178018800,
         "score": 0.24995679
-      },
-      {
-        "id": "10729930-1dd8-d95d-73da-03928980a4da",
-        "file_id": "10729930-1dd8-d95d-73da-03928980a4da",
-        "file_name": "WTVH FRIENDS FOR KATHY HOCHUL EST 10851 06.14.22-06.20.22 - INVOICE #1810403-1",
-        "file_extension": "pdf",
-        "file_size": 63216,
-        "file_status": "com_cpy",
-        "folder_id": "39c8725a-a834-c471-8185-e8d03f2e3370",
-        "create_ts": "2022-06-26T23:56:42.53Z",
-        "last_update_ts": "2022-06-26T23:58:15.939Z",
-        "active_ind": "Y",
-        "file_manager_id": "59a6ad77-3f76-4c63-9a8d-657841b06f74",
-        "file_folder_path": "Political Files/2022/State/FRIENDS FOR KATHY HOCHUL",
-        "full_qualified_file_name": "Political Files/2022/State/FRIENDS FOR KATHY HOCHUL/WTVH FRIENDS FOR KATHY HOCHUL EST 10851 06.14.22-06.20.22 - INVOICE #1810403-1",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1736743639128735700,
-        "score": 0.24995679
-      },
-      {
-        "id": "578e9df0-6492-8e87-bf43-3231371e5027",
-        "file_id": "578e9df0-6492-8e87-bf43-3231371e5027",
-        "file_name": "WTVH TOM SUOZZI FOR GOVERNOR EST 9763 06.15.22-06.2.22 - INVOICE #1811887-1",
-        "file_extension": "pdf",
-        "file_size": 40464,
-        "file_status": "com_cpy",
-        "folder_id": "e77ebddf-7f76-2feb-5758-2c9dc24fd9d7",
-        "create_ts": "2022-06-26T23:58:22.154Z",
-        "last_update_ts": "2022-06-26T23:58:09.155Z",
-        "active_ind": "Y",
-        "file_manager_id": "2ddc59ce-acd5-4de2-86e9-b5750c7ab882",
-        "file_folder_path": "Political Files/2022/State/TOM SUOZZI FOR GOVERNOR",
-        "full_qualified_file_name": "Political Files/2022/State/TOM SUOZZI FOR GOVERNOR/WTVH TOM SUOZZI FOR GOVERNOR EST 9763 06.15.22-06.2.22 - INVOICE #1811887-1",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1736743743645548500,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -444,7 +436,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 61803,
-        "Issues and Programs Lists": 46157,
+        "Issues and Programs Lists": 46159,
         "Equal Employment Opportunity Records": 37660,
         "Donor Lists - Applicable Only for NCEs": 12280,
         "FCC Authorizations": 7455,
@@ -475,8 +467,8 @@
       "source_service_code": {
         "TV": 256090,
         "CABLE": 132913,
-        "FM": 121520,
-        "AM": 46784,
+        "FM": 121521,
+        "AM": 46785,
         "DBS": 6352
       },
       "political_file_type": {
@@ -497,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 71,
-    "processTime": 82,
-    "responseTime": 83
+    "queryTime": 217,
+    "processTime": 225,
+    "responseTime": 226
   }
 }
