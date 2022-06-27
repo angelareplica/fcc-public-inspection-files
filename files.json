@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 564341,
+    "numFound": 564342,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "22305c3c-fbdc-a6ce-ff2e-2403c7fd9449",
+        "file_id": "22305c3c-fbdc-a6ce-ff2e-2403c7fd9449",
+        "file_name": "Haley-Stevens-for-Congress-2022-Political-PFD-06-01-2022 WXYZ Supplement",
+        "file_extension": "pdf",
+        "file_size": 61367,
+        "file_status": "com_cpy",
+        "folder_id": "313f43c1-c503-da95-ef54-b19b6163f02b",
+        "create_ts": "2022-06-27T14:37:09.813Z",
+        "last_update_ts": "2022-06-27T14:37:10.518Z",
+        "active_ind": "Y",
+        "file_manager_id": "7f393661-6709-40af-8eb7-25390a220477",
+        "file_folder_path": "Political Files/2022/Federal/US House/Haley Stevens Democrat/Political Disclosure",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Haley Stevens Democrat/Political Disclosure/Haley-Stevens-for-Congress-2022-Political-PFD-06-01-2022 WXYZ Supplement",
+        "entity_id": "10267",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "DETROIT",
+        "callsign": "WXYZ-TV",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1736799032810930200,
+        "score": 0.24995679
+      },
       {
         "id": "1c476995-162f-ade2-e09f-acd6dd0ec9b7",
         "file_id": "1c476995-162f-ade2-e09f-acd6dd0ec9b7",
@@ -210,29 +235,6 @@
         "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
         "_version_": 1736798264780390400,
         "score": 0.24995679
-      },
-      {
-        "id": "fcdadae5-e21c-2ca5-74f2-c0ed803f8c46",
-        "file_id": "fcdadae5-e21c-2ca5-74f2-c0ed803f8c46",
-        "file_name": "NBCU 33774Q4-2021-NBCU-CC-Cert---A-Desai.pdf-01",
-        "file_extension": "pdf",
-        "file_size": 135519,
-        "file_status": "com_cpy",
-        "folder_id": "a1efa48c-4ec9-4b0e-c1e7-346d865a4200",
-        "create_ts": "2022-06-27T14:24:56.868Z",
-        "last_update_ts": "2022-06-27T14:24:58.37Z",
-        "active_ind": "Y",
-        "file_manager_id": "0597e67f-2314-4f4a-bfc6-469df22a3ba8",
-        "file_folder_path": "Records Concerning Commercial Limits in Childrens Programs/2022/CLosed Captioning",
-        "full_qualified_file_name": "Records Concerning Commercial Limits in Childrens Programs/2022/CLosed Captioning/NBCU 33774Q4-2021-NBCU-CC-Cert---A-Desai.pdf-01",
-        "entity_id": "004155",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
-        "_version_": 1736798263999201300,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -339,7 +341,7 @@
         "TERRE HAUTE": 641
       },
       "network_affiliation": {
-        "ABC": 64051,
+        "ABC": 64052,
         "NBC": 60750,
         "CBS": 42398,
         "FOX": 30423,
@@ -411,14 +413,14 @@
         "2019": 13896,
         "2020": 124703,
         "2021": 22737,
-        "2022": 44906,
+        "2022": 44907,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 80823,
         "US Senate": 54010,
-        "US House": 46418,
+        "US House": 46419,
         "Presidential": 38350,
         "Local": 28032
       },
@@ -453,14 +455,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 256096,
+        "TV": 256097,
         "CABLE": 133574,
         "FM": 121528,
         "AM": 46791,
         "DBS": 6352
       },
       "political_file_type": {
-        "PA": 249240,
+        "PA": 249241,
         "NCIA": 135366
       }
     }
@@ -477,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 232,
-    "processTime": 240,
-    "responseTime": 241
+    "queryTime": 214,
+    "processTime": 222,
+    "responseTime": 222
   }
 }
