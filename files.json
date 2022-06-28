@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 565891,
+    "numFound": 565892,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "a91f52e2-62cb-7a23-a0c1-e08f234d8acc",
+        "file_id": "a91f52e2-62cb-7a23-a0c1-e08f234d8acc",
+        "file_name": "Abrams for Governor 482 00002 Ad3 Spanish 06272022",
+        "file_extension": "pdf",
+        "file_size": 371939,
+        "file_status": "com_cpy",
+        "folder_id": "4c770b4b-d937-da6e-7c7c-139983343b24",
+        "create_ts": "2022-06-28T02:49:28.169Z",
+        "last_update_ts": "2022-06-28T02:49:29.855Z",
+        "active_ind": "Y",
+        "file_manager_id": "2bced4f3-2001-4fd3-9307-0baea1a8f921",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/Abrams for Governor 482 00002 Ad3 Spanish 06272022",
+        "entity_id": "8066",
+        "source_service_code": "AM",
+        "callsign": "WPLO",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1736845105436819500,
+        "score": 0.24995679
+      },
       {
         "id": "fe4d8a5f-0870-b67e-5b95-70ad62b9ad23",
         "file_id": "fe4d8a5f-0870-b67e-5b95-70ad62b9ad23",
@@ -214,30 +237,6 @@
         "campaign_year": "2022",
         "_version_": 1736833978350960600,
         "score": 0.24995679
-      },
-      {
-        "id": "311934d6-adf0-963d-bd7a-49a662bd5bc2",
-        "file_id": "311934d6-adf0-963d-bd7a-49a662bd5bc2",
-        "file_name": "GFBW 0704-0717 - 3578995 REV",
-        "file_extension": "pdf",
-        "file_size": 136248,
-        "file_status": "com_cpy",
-        "folder_id": "b88cb7a6-9c70-67fe-f73b-86d4d0d7168b",
-        "create_ts": "2022-06-27T23:52:36.83Z",
-        "last_update_ts": "2022-06-27T23:52:23.499Z",
-        "active_ind": "Y",
-        "file_manager_id": "c49e4255-e16c-4019-8c70-4f2445e7b2c1",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/GFBW Get Families Back to Work/Orders and Revisions",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/GFBW Get Families Back to Work/Orders and Revisions/GFBW 0704-0717 - 3578995 REV",
-        "entity_id": "35042",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KLAS-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1736833978449526800,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -416,12 +415,12 @@
         "2019": 13896,
         "2020": 124703,
         "2021": 22737,
-        "2022": 45224,
+        "2022": 45225,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 80904,
+        "State": 80905,
         "US Senate": 54053,
         "US House": 46464,
         "Presidential": 38350,
@@ -461,11 +460,11 @@
         "TV": 256327,
         "CABLE": 134813,
         "FM": 121580,
-        "AM": 46814,
+        "AM": 46815,
         "DBS": 6357
       },
       "political_file_type": {
-        "PA": 249412,
+        "PA": 249413,
         "NCIA": 135512
       }
     }
@@ -482,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 221,
-    "processTime": 229,
-    "responseTime": 229
+    "queryTime": 213,
+    "processTime": 223,
+    "responseTime": 223
   }
 }
