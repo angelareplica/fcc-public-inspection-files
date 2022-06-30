@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 566130,
+    "numFound": 566126,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "98caa530-2477-3628-1c29-03c15804d625",
+        "file_id": "98caa530-2477-3628-1c29-03c15804d625",
+        "file_name": "US Chamber 070222 to 071722 order 2627252",
+        "file_extension": "pdf",
+        "file_size": 717591,
+        "file_status": "com_cpy",
+        "folder_id": "7e92e2b0-8980-8500-cffe-8521a4844de6",
+        "create_ts": "2022-06-30T15:45:07.304Z",
+        "last_update_ts": "2022-06-30T15:44:53.641Z",
+        "active_ind": "Y",
+        "file_manager_id": "a386ed60-6839-482e-8ab4-520c799c6c36",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/US Chamber of Commerce",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/US Chamber of Commerce/US Chamber 070222 to 071722 order 2627252",
+        "entity_id": "36912",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
+        "callsign": "WSAZ-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1737075099382579200,
+        "score": 0.24995679
+      },
+      {
+        "id": "ecfb1b11-5516-9334-8368-11f6f2e57069",
+        "file_id": "ecfb1b11-5516-9334-8368-11f6f2e57069",
+        "file_name": "US Chamber 070222 to 071722 WQCW order 2627164",
+        "file_extension": "pdf",
+        "file_size": 385047,
+        "file_status": "com_cpy",
+        "folder_id": "be56b90e-0ae7-c04c-4efa-a5356078f438",
+        "create_ts": "2022-06-30T15:38:27.033Z",
+        "last_update_ts": "2022-06-30T15:38:28.723Z",
+        "active_ind": "Y",
+        "file_manager_id": "d4d5ac9f-7ec5-42bd-b368-4c7f0e69ffa0",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/US Chamber of Commerce",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/US Chamber of Commerce/US Chamber 070222 to 071722 WQCW order 2627164",
+        "entity_id": "65130",
+        "source_service_code": "TV",
+        "network_affiliation": "CW",
+        "nielsen_dma_rank": "CHARLESTON-HUNTINGTON",
+        "callsign": "WQCW",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1737074679567351800,
+        "score": 0.24995679
+      },
       {
         "id": "8da3ca32-8679-1408-8a0e-553ac94460e2",
         "file_id": "8da3ca32-8679-1408-8a0e-553ac94460e2",
@@ -187,52 +235,6 @@
         "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
         "_version_": 1737073531414380500,
         "score": 0.24995679
-      },
-      {
-        "id": "373e14c4-bd7b-5959-c5f4-c875ebe69db3",
-        "file_id": "373e14c4-bd7b-5959-c5f4-c875ebe69db3",
-        "file_name": "NBCU 64760Q4-2021-Telemundo-CC-Cert.pdf-01",
-        "file_extension": "pdf",
-        "file_size": 477436,
-        "file_status": "com_cpy",
-        "folder_id": "7b5acf19-b73d-a291-4cad-7f0100355dcc",
-        "create_ts": "2022-06-30T15:20:12.116Z",
-        "last_update_ts": "2022-06-30T15:20:20.251Z",
-        "active_ind": "Y",
-        "file_manager_id": "ad1e48a7-7343-4625-9387-94f533272ed9",
-        "file_folder_path": "Records Concerning Commercial Limits in Childrens Programs/2022/Closed Captioning",
-        "full_qualified_file_name": "Records Concerning Commercial Limits in Childrens Programs/2022/Closed Captioning/NBCU 64760Q4-2021-Telemundo-CC-Cert.pdf-01",
-        "entity_id": "000326",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
-        "_version_": 1737073531313717200,
-        "score": 0.24995679
-      },
-      {
-        "id": "e2e3591d-886a-c9d9-a6e5-cb1eb261e84d",
-        "file_id": "e2e3591d-886a-c9d9-a6e5-cb1eb261e84d",
-        "file_name": "NBCU 61646Q4-2021-IP-CC-Cert.pdf-01",
-        "file_extension": "pdf",
-        "file_size": 285501,
-        "file_status": "com_cpy",
-        "folder_id": "7b5acf19-b73d-a291-4cad-7f0100355dcc",
-        "create_ts": "2022-06-30T15:20:11.883Z",
-        "last_update_ts": "2022-06-30T15:20:20.047Z",
-        "active_ind": "Y",
-        "file_manager_id": "dcbedd75-407e-43c5-98db-f40f5038bf93",
-        "file_folder_path": "Records Concerning Commercial Limits in Childrens Programs/2022/Closed Captioning",
-        "full_qualified_file_name": "Records Concerning Commercial Limits in Childrens Programs/2022/Closed Captioning/NBCU 61646Q4-2021-IP-CC-Cert.pdf-01",
-        "entity_id": "000326",
-        "source_service_code": "CABLE",
-        "legal_name": "CEBRIDGE ACQUISITION, L.P.",
-        "operator_city_name": "LONG ISLAND CITY",
-        "operator_state_name": "NY",
-        "non_political_file_folder": "Records Concerning Commercial Limits in Childrens Programs",
-        "_version_": 1737073531096662000,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -245,7 +247,7 @@
         "WEST PALM BEACH-FT. PIERCE": 5824,
         "HONOLULU": 5227,
         "DULUTH-SUPERIOR": 4656,
-        "CHARLESTON-HUNTINGTON": 4380,
+        "CHARLESTON-HUNTINGTON": 4382,
         "PORTLAND-AUBURN": 4290,
         "TALLAHASSEE-THOMASVILLE": 4166,
         "OMAHA": 4062,
@@ -281,7 +283,7 @@
         "GREAT FALLS": 1941,
         "ALBUQUERQUE-SANTA FE": 1938,
         "MADISON": 1926,
-        "SIOUX CITY": 1823,
+        "SIOUX CITY": 1817,
         "BLUEFIELD-BECKLEY-OAK HILL": 1763,
         "LINCOLN & HASTINGS-KRNY": 1656,
         "BINGHAMTON": 1615,
@@ -340,11 +342,11 @@
       },
       "network_affiliation": {
         "ABC": 64218,
-        "NBC": 60862,
+        "NBC": 60857,
         "CBS": 42571,
         "FOX": 30554,
         "PBS": 14802,
-        "CW": 12419,
+        "CW": 12420,
         "IND": 3035,
         "MYTV": 2263,
         "UNIVISION": 1907,
@@ -409,16 +411,16 @@
         "2017": 10327,
         "2018": 67581,
         "2019": 13895,
-        "2020": 124648,
+        "2020": 124642,
         "2021": 22737,
-        "2022": 46193,
+        "2022": 46195,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 81156,
         "US Senate": 54016,
-        "US House": 46631,
+        "US House": 46625,
         "Presidential": 38346,
         "Local": 28065
       },
@@ -453,15 +455,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 256747,
+        "TV": 256743,
         "CABLE": 134249,
         "FM": 121768,
         "AM": 46923,
         "DBS": 6443
       },
       "political_file_type": {
-        "PA": 249821,
-        "NCIA": 135255
+        "PA": 249815,
+        "NCIA": 135257
       }
     }
   },
@@ -477,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1836,
-    "processTime": 849,
-    "responseTime": 1850
+    "queryTime": 1854,
+    "processTime": 861,
+    "responseTime": 1861
   }
 }
