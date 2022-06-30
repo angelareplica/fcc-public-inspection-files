@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 566621,
+    "numFound": 566321,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "19d4a016-1fc1-01ed-dd18-bfcf7592e59d",
+        "file_id": "19d4a016-1fc1-01ed-dd18-bfcf7592e59d",
+        "file_name": "Confirm_1149-026",
+        "file_extension": "pdf",
+        "file_size": 20381,
+        "file_status": "com_cpy",
+        "folder_id": "22a4274d-f8a2-4eab-5a65-2130d04450c9",
+        "create_ts": "2022-06-30T03:46:14.556Z",
+        "last_update_ts": "2022-06-30T03:46:00.628Z",
+        "active_ind": "Y",
+        "file_manager_id": "9943d1d7-de12-4ea0-99c3-e9e29fe00470",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Missouri Stands United",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Missouri Stands United/Confirm_1149-026",
+        "entity_id": "6584",
+        "source_service_code": "FM",
+        "callsign": "KMEM-FM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1737029870995636200,
+        "score": 0.24995676
+      },
       {
         "id": "67ec5972-e316-3c20-8a86-11d5ec815826",
         "file_id": "67ec5972-e316-3c20-8a86-11d5ec815826",
@@ -210,29 +232,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1737016371590463500,
         "score": 0.24995676
-      },
-      {
-        "id": "344144b4-7a1d-811c-c040-0621215abf80",
-        "file_id": "344144b4-7a1d-811c-c040-0621215abf80",
-        "file_name": "APT-FundersList 06_2022.xlsx  -  Read-Only",
-        "file_extension": "pdf",
-        "file_size": 614176,
-        "file_status": "com_cpy",
-        "folder_id": "4d250327-c8d7-ca7c-7b75-6121f379c930",
-        "create_ts": "2022-06-30T00:11:34.704Z",
-        "last_update_ts": "2022-06-30T00:11:21.072Z",
-        "active_ind": "Y",
-        "file_manager_id": "ea0bd509-fb89-4832-b4b0-9d09b58184dc",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/2022 National Sponsors",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/2022 National Sponsors/APT-FundersList 06_2022.xlsx  -  Read-Only",
-        "entity_id": "72096",
-        "source_service_code": "TV",
-        "network_affiliation": "PBS",
-        "nielsen_dma_rank": "SPRINGFIELD-HOLYOKE",
-        "callsign": "WGBY-TV",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1737016365760381000,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -405,7 +404,7 @@
         "2013": 384,
         "2014": 22060,
         "2015": 6067,
-        "2016": 68527,
+        "2016": 68227,
         "2017": 10327,
         "2018": 67581,
         "2019": 13895,
@@ -416,8 +415,8 @@
         "Fede": 1
       },
       "office_type": {
-        "State": 81177,
-        "US Senate": 54143,
+        "State": 81169,
+        "US Senate": 54065,
         "US House": 46597,
         "Presidential": 38349,
         "Local": 28064
@@ -454,14 +453,14 @@
       },
       "source_service_code": {
         "TV": 256748,
-        "CABLE": 134761,
-        "FM": 121755,
-        "AM": 46914,
+        "CABLE": 134461,
+        "FM": 121756,
+        "AM": 46913,
         "DBS": 6443
       },
       "political_file_type": {
-        "PA": 249937,
-        "NCIA": 135646
+        "PA": 249851,
+        "NCIA": 135432
       }
     }
   },
@@ -477,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1843,
-    "processTime": 851,
-    "responseTime": 1851
+    "queryTime": 3902,
+    "processTime": 909,
+    "responseTime": 3910
   }
 }
