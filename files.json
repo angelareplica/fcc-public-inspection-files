@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 564627,
+    "numFound": 564629,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "32fa1d25-43a0-b585-30fc-d3c413c07ad4",
+        "file_id": "32fa1d25-43a0-b585-30fc-d3c413c07ad4",
+        "file_name": "2627752 FRSCC Simpson Moody Patronis NAB",
+        "file_extension": "pdf",
+        "file_size": 220740,
+        "file_status": "com_cpy",
+        "folder_id": "26e0b3ab-3346-5147-bec4-c8eefc1e99ff",
+        "create_ts": "2022-07-01T11:11:26.661Z",
+        "last_update_ts": "2022-07-01T11:11:36.831Z",
+        "active_ind": "Y",
+        "file_manager_id": "c60b003b-061c-41d0-bd76-ca7f6ec192dc",
+        "file_folder_path": "Political Files/2022/State/FRSCC Simpson Mooney Patronis/0705-0711",
+        "full_qualified_file_name": "Political Files/2022/State/FRSCC Simpson Mooney Patronis/0705-0711/2627752 FRSCC Simpson Moody Patronis NAB",
+        "entity_id": "31590",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "TALLAHASSEE-THOMASVILLE",
+        "callsign": "WCTV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1737148477805166600,
+        "score": 0.24995676
+      },
+      {
+        "id": "509c8a53-6184-3e2d-a013-0f995a98c1fa",
+        "file_id": "509c8a53-6184-3e2d-a013-0f995a98c1fa",
+        "file_name": "FRSCC Simpson, Mooney, Patronis Contract 2627752",
+        "file_extension": "pdf",
+        "file_size": 224106,
+        "file_status": "com_cpy",
+        "folder_id": "26e0b3ab-3346-5147-bec4-c8eefc1e99ff",
+        "create_ts": "2022-07-01T11:11:26.979Z",
+        "last_update_ts": "2022-07-01T11:11:12.822Z",
+        "active_ind": "Y",
+        "file_manager_id": "79207e89-5c9c-48ad-b7ab-3139a7becf13",
+        "file_folder_path": "Political Files/2022/State/FRSCC Simpson Mooney Patronis/0705-0711",
+        "full_qualified_file_name": "Political Files/2022/State/FRSCC Simpson Mooney Patronis/0705-0711/FRSCC Simpson, Mooney, Patronis Contract 2627752",
+        "entity_id": "31590",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "TALLAHASSEE-THOMASVILLE",
+        "callsign": "WCTV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1737148478109253600,
+        "score": 0.24995676
+      },
       {
         "id": "592f3512-14c1-2c86-d0b8-9c3acb77331d",
         "file_id": "592f3512-14c1-2c86-d0b8-9c3acb77331d",
@@ -188,48 +238,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1737108276798029800,
         "score": 0.24995676
-      },
-      {
-        "id": "d8b44393-4ceb-4927-dcd6-81f8bdaf4e20",
-        "file_id": "d8b44393-4ceb-4927-dcd6-81f8bdaf4e20",
-        "file_name": "PSA ROTATION 0620",
-        "file_extension": "pdf",
-        "file_size": 68764,
-        "file_status": "com_cpy",
-        "folder_id": "da1a9dd2-989f-f55f-31f6-990fdea742a1",
-        "create_ts": "2021-07-30T16:44:14.48Z",
-        "last_update_ts": "2022-07-01T00:31:36.758Z",
-        "active_ind": "Y",
-        "file_manager_id": "e5e4af84-ad3b-4582-801e-246e610b7f44",
-        "file_folder_path": "Issues and Programs Lists/2021",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/PSA ROTATION 0620",
-        "entity_id": "166070",
-        "source_service_code": "FM",
-        "callsign": "KQMX",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1737108237767934000,
-        "score": 0.24995676
-      },
-      {
-        "id": "7aba3baa-d0bd-4d56-eac0-b8745e4e5699",
-        "file_id": "7aba3baa-d0bd-4d56-eac0-b8745e4e5699",
-        "file_name": "PSA ROTATION 0619",
-        "file_extension": "pdf",
-        "file_size": 62573,
-        "file_status": "com_cpy",
-        "folder_id": "da1a9dd2-989f-f55f-31f6-990fdea742a1",
-        "create_ts": "2021-07-30T16:44:14.4Z",
-        "last_update_ts": "2022-07-01T00:31:30.78Z",
-        "active_ind": "Y",
-        "file_manager_id": "b44e3816-bd16-4530-99d7-44f22206d0be",
-        "file_folder_path": "Issues and Programs Lists/2021",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/PSA ROTATION 0619",
-        "entity_id": "166070",
-        "source_service_code": "FM",
-        "callsign": "KQMX",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1737108207298412500,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -244,7 +252,7 @@
         "DULUTH-SUPERIOR": 4656,
         "CHARLESTON-HUNTINGTON": 4383,
         "PORTLAND-AUBURN": 4290,
-        "TALLAHASSEE-THOMASVILLE": 4167,
+        "TALLAHASSEE-THOMASVILLE": 4169,
         "OMAHA": 4062,
         "RALEIGH-DURHAM (FAYETVLLE)": 3950,
         "BUTTE-BOZEMAN": 3662,
@@ -338,7 +346,7 @@
       "network_affiliation": {
         "ABC": 64291,
         "NBC": 60843,
-        "CBS": 42590,
+        "CBS": 42592,
         "FOX": 30578,
         "PBS": 14802,
         "CW": 12421,
@@ -408,12 +416,12 @@
         "2019": 13895,
         "2020": 124588,
         "2021": 22737,
-        "2022": 46583,
+        "2022": 46585,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 81027,
+        "State": 81029,
         "US Senate": 53236,
         "US House": 46617,
         "Presidential": 37949,
@@ -450,14 +458,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 256873,
+        "TV": 256875,
         "CABLE": 132440,
         "FM": 121866,
         "AM": 46954,
         "DBS": 6494
       },
       "political_file_type": {
-        "PA": 248412,
+        "PA": 248414,
         "NCIA": 135113
       }
     }
@@ -474,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1841,
-    "processTime": 850,
-    "responseTime": 1850
+    "queryTime": 1878,
+    "processTime": 888,
+    "responseTime": 1889
   }
 }
