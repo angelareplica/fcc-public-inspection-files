@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 564626,
+    "numFound": 564627,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "592f3512-14c1-2c86-d0b8-9c3acb77331d",
+        "file_id": "592f3512-14c1-2c86-d0b8-9c3acb77331d",
+        "file_name": "CHENEY FOR WYOMING US HOUSE 062922",
+        "file_extension": "pdf",
+        "file_size": 104207,
+        "file_status": "com_cpy",
+        "folder_id": "33882a9e-07ca-8878-4030-26a3aacac7b0",
+        "create_ts": "2022-07-01T06:42:57.126Z",
+        "last_update_ts": "2022-07-01T06:43:06.683Z",
+        "active_ind": "Y",
+        "file_manager_id": "f24a6b1d-099e-45c3-a7a2-cc66e437a13f",
+        "file_folder_path": "Political Files/2022/Federal/US House/CHENEY 2022",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/CHENEY 2022/CHENEY FOR WYOMING US HOUSE 062922",
+        "entity_id": "166055",
+        "source_service_code": "FM",
+        "callsign": "KCYA",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1737131585579253800,
+        "score": 0.24995676
+      },
       {
         "id": "0e0648a7-8001-ca0a-e0d0-759123805ec8",
         "file_id": "0e0648a7-8001-ca0a-e0d0-759123805ec8",
@@ -207,27 +230,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1737108207298412500,
         "score": 0.24995676
-      },
-      {
-        "id": "d2ee26c6-c9c0-950c-6cf9-a754852f53cf",
-        "file_id": "d2ee26c6-c9c0-950c-6cf9-a754852f53cf",
-        "file_name": "PSA ROTATION 0618",
-        "file_extension": "pdf",
-        "file_size": 61204,
-        "file_status": "com_cpy",
-        "folder_id": "da1a9dd2-989f-f55f-31f6-990fdea742a1",
-        "create_ts": "2021-07-30T16:44:14.38Z",
-        "last_update_ts": "2022-07-01T00:30:59.625Z",
-        "active_ind": "Y",
-        "file_manager_id": "1d9c1e8b-319b-43c2-a12b-4ca64a8521a0",
-        "file_folder_path": "Issues and Programs Lists/2021",
-        "full_qualified_file_name": "Issues and Programs Lists/2021/PSA ROTATION 0618",
-        "entity_id": "166070",
-        "source_service_code": "FM",
-        "callsign": "KQMX",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1737108174634221600,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -406,14 +408,14 @@
         "2019": 13895,
         "2020": 124588,
         "2021": 22737,
-        "2022": 46582,
+        "2022": 46583,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 81027,
         "US Senate": 53236,
-        "US House": 46616,
+        "US House": 46617,
         "Presidential": 37949,
         "Local": 27976
       },
@@ -450,12 +452,12 @@
       "source_service_code": {
         "TV": 256873,
         "CABLE": 132440,
-        "FM": 121865,
+        "FM": 121866,
         "AM": 46954,
         "DBS": 6494
       },
       "political_file_type": {
-        "PA": 248411,
+        "PA": 248412,
         "NCIA": 135113
       }
     }
@@ -472,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 221,
-    "responseTime": 221
+    "queryTime": 1881,
+    "processTime": 891,
+    "responseTime": 1892
   }
 }
