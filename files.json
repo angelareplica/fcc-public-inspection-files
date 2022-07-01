@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 564946,
+    "numFound": 564947,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "9cfcf80a-3746-718c-ca2a-980f3dfc32c3",
+        "file_id": "9cfcf80a-3746-718c-ca2a-980f3dfc32c3",
+        "file_name": "NAB Secure Minnesota GOP - KKMS 070622-071222",
+        "file_extension": "pdf",
+        "file_size": 1382466,
+        "file_status": "com_cpy",
+        "folder_id": "dcfc7ff5-90d8-88f9-8a89-6fe05986c969",
+        "create_ts": "2022-07-01T21:23:54.777Z",
+        "last_update_ts": "2022-07-01T21:23:40.973Z",
+        "active_ind": "Y",
+        "file_manager_id": "5ac891a8-f36d-47bc-a5f1-5969231b501e",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Secure Minnesota GOP",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Secure Minnesota GOP/NAB Secure Minnesota GOP - KKMS 070622-071222",
+        "entity_id": "18518",
+        "source_service_code": "AM",
+        "callsign": "KKMS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1737187011479994400,
+        "score": 0.24995676
+      },
       {
         "id": "f50e7622-af26-d5ff-a7ac-0a933d05df0c",
         "file_id": "f50e7622-af26-d5ff-a7ac-0a933d05df0c",
@@ -216,31 +238,6 @@
         "campaign_year": "2022",
         "_version_": 1737184873833037800,
         "score": 0.24995676
-      },
-      {
-        "id": "13bbc550-622b-5a7a-8a05-1ebaf729af39",
-        "file_id": "13bbc550-622b-5a7a-8a05-1ebaf729af39",
-        "file_name": "WBOC-Lierman-AdvertisementAgreement-06302022",
-        "file_extension": "pdf",
-        "file_size": 55267,
-        "file_status": "com_cpy",
-        "folder_id": "efaea202-15ae-f3ac-cb8a-a2d42cb597a4",
-        "create_ts": "2022-07-01T20:49:56.622Z",
-        "last_update_ts": "2022-07-01T20:49:42.277Z",
-        "active_ind": "Y",
-        "file_manager_id": "7f3ecc0b-813e-44f7-b39b-d37ee36af5df",
-        "file_folder_path": "Political Files/2022/State/Lierman",
-        "full_qualified_file_name": "Political Files/2022/State/Lierman/WBOC-Lierman-AdvertisementAgreement-06302022",
-        "entity_id": "71218",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS AND FOX",
-        "nielsen_dma_rank": "SALISBURY",
-        "callsign": "WBOC-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1737184873740763100,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -419,7 +416,7 @@
         "2019": 13895,
         "2020": 124574,
         "2021": 22737,
-        "2022": 46838,
+        "2022": 46839,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -464,12 +461,12 @@
         "TV": 256995,
         "CABLE": 132408,
         "FM": 121995,
-        "AM": 47054,
+        "AM": 47055,
         "DBS": 6494
       },
       "political_file_type": {
         "PA": 248554,
-        "NCIA": 135171
+        "NCIA": 135172
       }
     }
   },
@@ -485,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1845,
-    "processTime": 853,
-    "responseTime": 1853
+    "queryTime": 1582,
+    "processTime": 601,
+    "responseTime": 1601
   }
 }
