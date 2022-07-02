@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 565034,
+    "numFound": 565035,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "acdf24e0-d47e-c331-2dad-27c960461b61",
+        "file_id": "acdf24e0-d47e-c331-2dad-27c960461b61",
+        "file_name": "708149_Invoice_20220702085554",
+        "file_extension": "pdf",
+        "file_size": 66780,
+        "file_status": "com_cpy",
+        "folder_id": "2b5ea990-a2f4-e85a-738b-913b27eb834b",
+        "create_ts": "2022-07-02T23:27:25.822Z",
+        "last_update_ts": "2022-07-02T23:27:39.474Z",
+        "active_ind": "Y",
+        "file_manager_id": "fa32fd7f-6ee9-484a-b93b-8e275dc828f2",
+        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
+        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220702085554",
+        "entity_id": "005100",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF CALIFORNIA/COLORADO/ILLINOIS/INDIANA/MICHIGAN, LP",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1737285378866413600,
+        "score": 0.00012497838
+      },
       {
         "id": "8fd8bdf4-5f5d-7cf7-ea33-d114c3451fba",
         "file_id": "8fd8bdf4-5f5d-7cf7-ea33-d114c3451fba",
@@ -224,31 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1737276434330681300,
         "score": 0.00012497838
-      },
-      {
-        "id": "e4273650-e64e-0b3c-bb6d-1f504c31898f",
-        "file_id": "e4273650-e64e-0b3c-bb6d-1f504c31898f",
-        "file_name": "708149_Invoice_20220702085554",
-        "file_extension": "pdf",
-        "file_size": 66780,
-        "file_status": "com_cpy",
-        "folder_id": "8efb3d22-9dbd-9244-080e-4fa3de4917b6",
-        "create_ts": "2022-07-02T20:59:28.744Z",
-        "last_update_ts": "2022-07-02T20:59:29.996Z",
-        "active_ind": "Y",
-        "file_manager_id": "7b136370-2a1e-4bdb-8e29-61c7bcf0c86f",
-        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
-        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220702085554",
-        "entity_id": "008239",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF ILLINOIS/WEST VIRGINIA LLC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1737276070569181200,
-        "score": 0.00012497838
       }
     ],
     "facets": {
@@ -427,12 +427,12 @@
         "2019": 13895,
         "2020": 124574,
         "2021": 22737,
-        "2022": 46905,
+        "2022": 46906,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 81137,
+        "State": 81138,
         "US Senate": 53259,
         "US House": 46658,
         "Presidential": 37948,
@@ -470,13 +470,13 @@
       },
       "source_service_code": {
         "TV": 257002,
-        "CABLE": 132436,
+        "CABLE": 132437,
         "FM": 122032,
         "AM": 47070,
         "DBS": 6494
       },
       "political_file_type": {
-        "PA": 248614,
+        "PA": 248615,
         "NCIA": 135178
       }
     }
@@ -493,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1888,
-    "processTime": 898,
-    "responseTime": 1899
+    "queryTime": 1850,
+    "processTime": 862,
+    "responseTime": 1862
   }
 }
