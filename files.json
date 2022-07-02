@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 565019,
+    "numFound": 565020,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "696628aa-af99-1cc3-09e3-7e89624456f6",
+        "file_id": "696628aa-af99-1cc3-09e3-7e89624456f6",
+        "file_name": "698842_Invoice_20220701092741",
+        "file_extension": "pdf",
+        "file_size": 136462,
+        "file_status": "com_cpy",
+        "folder_id": "50662230-0f18-df32-bb85-534894307086",
+        "create_ts": "2022-07-02T15:11:17.62Z",
+        "last_update_ts": "2022-07-02T15:11:02.968Z",
+        "active_ind": "Y",
+        "file_manager_id": "e63f5fdf-78da-43d6-936c-9907879c297d",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220701092741",
+        "entity_id": "006880",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS XII LP",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1737254164606484500,
+        "score": 0.00012497838
+      },
       {
         "id": "e989c3bb-64dc-c234-545e-a7c5a84b0082",
         "file_id": "e989c3bb-64dc-c234-545e-a7c5a84b0082",
@@ -228,31 +253,6 @@
         "campaign_year": "2022",
         "_version_": 1737210969208127500,
         "score": 0.00012497838
-      },
-      {
-        "id": "f262994c-cbe0-68f7-742e-336f8525e811",
-        "file_id": "f262994c-cbe0-68f7-742e-336f8525e811",
-        "file_name": "698842_Invoice_20220701092741",
-        "file_extension": "pdf",
-        "file_size": 136462,
-        "file_status": "com_cpy",
-        "folder_id": "dd5c52c0-161d-2940-30af-c4bbd06947ad",
-        "create_ts": "2022-07-02T02:38:51.017Z",
-        "last_update_ts": "2022-07-02T02:38:52.442Z",
-        "active_ind": "Y",
-        "file_manager_id": "e0f55f0f-c7e5-474b-a84f-33e46bf0d068",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220701092741",
-        "entity_id": "008680",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF ILLINOIS/INDIANA/MICHIGAN INC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1737206825113092000,
-        "score": 0.00012497838
       }
     ],
     "facets": {
@@ -431,7 +431,7 @@
         "2019": 13895,
         "2020": 124574,
         "2021": 22737,
-        "2022": 46891,
+        "2022": 46892,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -440,7 +440,7 @@
         "US Senate": 53259,
         "US House": 46658,
         "Presidential": 37948,
-        "Local": 28003
+        "Local": 28004
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63687,
@@ -474,13 +474,13 @@
       },
       "source_service_code": {
         "TV": 257001,
-        "CABLE": 132423,
+        "CABLE": 132424,
         "FM": 122032,
         "AM": 47069,
         "DBS": 6494
       },
       "political_file_type": {
-        "PA": 248600,
+        "PA": 248601,
         "NCIA": 135178
       }
     }
@@ -497,8 +497,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 219,
-    "processTime": 229,
-    "responseTime": 230
+    "queryTime": 1859,
+    "processTime": 870,
+    "responseTime": 1870
   }
 }
