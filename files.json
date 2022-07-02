@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 565012,
+    "numFound": 565013,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "5dd26b08-90f1-b741-dfb3-e52bb0e08ff9",
+        "file_id": "5dd26b08-90f1-b741-dfb3-e52bb0e08ff9",
+        "file_name": "698842_Invoice_20220701092741",
+        "file_extension": "pdf",
+        "file_size": 136462,
+        "file_status": "com_cpy",
+        "folder_id": "6a7cf252-7508-d70a-a071-2e3175d0e401",
+        "create_ts": "2022-07-02T09:31:02.334Z",
+        "last_update_ts": "2022-07-02T09:31:03.648Z",
+        "active_ind": "Y",
+        "file_manager_id": "083d6ce4-5983-4215-bead-e69e1a9b4ae3",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220701092741",
+        "entity_id": "006193",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS VI INC",
+        "operator_city_name": "Philadelphia",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1737232757684174800,
+        "score": 0.00012497838
+      },
       {
         "id": "e22c678a-947e-71a9-ec5a-ef57d9d0c12f",
         "file_id": "e22c678a-947e-71a9-ec5a-ef57d9d0c12f",
@@ -221,30 +246,6 @@
         "campaign_year": "2022",
         "_version_": 1737203993721962500,
         "score": 0.24995676
-      },
-      {
-        "id": "b6eeaa95-a2d2-e9f0-3bd5-e26174b9f71b",
-        "file_id": "b6eeaa95-a2d2-e9f0-3bd5-e26174b9f71b",
-        "file_name": "Advancing-Arizona-Forward-Political-PFD-06-30-2022",
-        "file_extension": "pdf",
-        "file_size": 64446,
-        "file_status": "com_cpy",
-        "folder_id": "3d61130b-989a-b9a9-778b-bcaab60abafd",
-        "create_ts": "2022-07-02T01:52:14.228Z",
-        "last_update_ts": "2022-07-02T01:52:26.14Z",
-        "active_ind": "Y",
-        "file_manager_id": "9813df25-d5dd-4464-bb01-3a213129be0a",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Advancing Arizona Forward",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Advancing Arizona Forward/Advancing-Arizona-Forward-Political-PFD-06-30-2022",
-        "entity_id": "59440",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
-        "callsign": "KNXV-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1737203892789182500,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -423,7 +424,7 @@
         "2019": 13895,
         "2020": 124574,
         "2021": 22737,
-        "2022": 46884,
+        "2022": 46885,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -432,7 +433,7 @@
         "US Senate": 53259,
         "US House": 46658,
         "Presidential": 37948,
-        "Local": 27996
+        "Local": 27997
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63687,
@@ -466,13 +467,13 @@
       },
       "source_service_code": {
         "TV": 257001,
-        "CABLE": 132416,
+        "CABLE": 132417,
         "FM": 122032,
         "AM": 47069,
         "DBS": 6494
       },
       "political_file_type": {
-        "PA": 248593,
+        "PA": 248594,
         "NCIA": 135178
       }
     }
@@ -489,8 +490,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1899,
-    "processTime": 912,
-    "responseTime": 1912
+    "queryTime": 1906,
+    "processTime": 918,
+    "responseTime": 1918
   }
 }
