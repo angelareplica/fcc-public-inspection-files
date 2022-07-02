@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 565011,
+    "numFound": 565012,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "e22c678a-947e-71a9-ec5a-ef57d9d0c12f",
+        "file_id": "e22c678a-947e-71a9-ec5a-ef57d9d0c12f",
+        "file_name": "698842_Invoice_20220701092741",
+        "file_extension": "pdf",
+        "file_size": 136462,
+        "file_status": "com_cpy",
+        "folder_id": "8c60f30d-5aab-f745-5e51-79f26191bb47",
+        "create_ts": "2022-07-02T05:00:44.316Z",
+        "last_update_ts": "2022-07-02T05:00:56.195Z",
+        "active_ind": "Y",
+        "file_manager_id": "4e7942f3-30a5-4b86-adab-9250481289dc",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220701092741",
+        "entity_id": "009940",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF FLORIDA /ILLINOIS/MICHIGAN INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1737215751907967000,
+        "score": 0.00012497838
+      },
       {
         "id": "55189ed3-13ae-eaea-89b7-b8842cc8e044",
         "file_id": "55189ed3-13ae-eaea-89b7-b8842cc8e044",
@@ -220,30 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1737203892789182500,
         "score": 0.24995676
-      },
-      {
-        "id": "9b1ffa8b-901e-dcd4-9bfb-2cf45c6fb20c",
-        "file_id": "9b1ffa8b-901e-dcd4-9bfb-2cf45c6fb20c",
-        "file_name": "American-Dream-Federal-Action-Political-PFD-07-01-2022",
-        "file_extension": "pdf",
-        "file_size": 52814,
-        "file_status": "com_cpy",
-        "folder_id": "a8c7ca7f-95f4-5cf3-c78d-3fb86df87bea",
-        "create_ts": "2022-07-02T01:51:27.576Z",
-        "last_update_ts": "2022-07-02T01:51:28.886Z",
-        "active_ind": "Y",
-        "file_manager_id": "0b077e4c-4f60-4df6-bc27-61377d1c0c3f",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/American Dream Federal Action",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/American Dream Federal Action/American-Dream-Federal-Action-Political-PFD-07-01-2022",
-        "entity_id": "59440",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
-        "callsign": "KNXV-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1737203843420127200,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -422,7 +423,7 @@
         "2019": 13895,
         "2020": 124574,
         "2021": 22737,
-        "2022": 46883,
+        "2022": 46884,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -431,7 +432,7 @@
         "US Senate": 53259,
         "US House": 46658,
         "Presidential": 37948,
-        "Local": 27995
+        "Local": 27996
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63687,
@@ -465,13 +466,13 @@
       },
       "source_service_code": {
         "TV": 257001,
-        "CABLE": 132415,
+        "CABLE": 132416,
         "FM": 122032,
         "AM": 47069,
         "DBS": 6494
       },
       "political_file_type": {
-        "PA": 248592,
+        "PA": 248593,
         "NCIA": 135178
       }
     }
@@ -488,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1901,
-    "processTime": 910,
-    "responseTime": 1911
+    "queryTime": 1857,
+    "processTime": 864,
+    "responseTime": 1865
   }
 }
