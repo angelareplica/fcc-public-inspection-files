@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 565017,
+    "numFound": 565018,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "553c3fc3-f920-7956-33fd-9dbe947128fc",
+        "file_id": "553c3fc3-f920-7956-33fd-9dbe947128fc",
+        "file_name": "698842_Invoice_20220701092741",
+        "file_extension": "pdf",
+        "file_size": 136462,
+        "file_status": "com_cpy",
+        "folder_id": "b355a1f7-b6b2-c4f2-5707-f4def9af4a6f",
+        "create_ts": "2022-07-02T13:22:24.228Z",
+        "last_update_ts": "2022-07-02T13:22:25.613Z",
+        "active_ind": "Y",
+        "file_manager_id": "7cd96e0f-aebf-43b0-a323-617f306702b3",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220701092741",
+        "entity_id": "006401",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF INDIANA/KENTUCKY/UTAH",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1737247313996284000,
+        "score": 0.00012497838
+      },
       {
         "id": "8fccc588-99cf-d7fb-deea-69bbff7f404c",
         "file_id": "8fccc588-99cf-d7fb-deea-69bbff7f404c",
@@ -228,29 +253,6 @@
         "campaign_year": "2022",
         "_version_": 1737206362291568600,
         "score": 0.00012497838
-      },
-      {
-        "id": "1090a0ac-6f6f-b0ce-dcd9-d5366d55ba0b",
-        "file_id": "1090a0ac-6f6f-b0ce-dcd9-d5366d55ba0b",
-        "file_name": "Moolenaar for Congress WCKC 070122",
-        "file_extension": "PDF",
-        "file_size": 815048,
-        "file_status": "com_cpy",
-        "folder_id": "d0289db2-7971-b754-e9b9-c5891188b173",
-        "create_ts": "2022-07-02T02:00:47.12Z",
-        "last_update_ts": "2022-07-02T02:00:33.18Z",
-        "active_ind": "Y",
-        "file_manager_id": "06214b99-afb7-4298-8cde-18462170d0ef",
-        "file_folder_path": "Political Files/2022/Federal/US House/Moolenaar for Congress 2022",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Moolenaar for Congress 2022/Moolenaar for Congress WCKC 070122",
-        "entity_id": "22183",
-        "source_service_code": "FM",
-        "callsign": "WCKC",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1737204430698184700,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -429,7 +431,7 @@
         "2019": 13895,
         "2020": 124574,
         "2021": 22737,
-        "2022": 46889,
+        "2022": 46890,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -438,7 +440,7 @@
         "US Senate": 53259,
         "US House": 46658,
         "Presidential": 37948,
-        "Local": 28001
+        "Local": 28002
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63687,
@@ -472,13 +474,13 @@
       },
       "source_service_code": {
         "TV": 257001,
-        "CABLE": 132421,
+        "CABLE": 132422,
         "FM": 122032,
         "AM": 47069,
         "DBS": 6494
       },
       "political_file_type": {
-        "PA": 248598,
+        "PA": 248599,
         "NCIA": 135178
       }
     }
@@ -495,8 +497,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1933,
-    "processTime": 947,
-    "responseTime": 1948
+    "queryTime": 1884,
+    "processTime": 895,
+    "responseTime": 1895
   }
 }
