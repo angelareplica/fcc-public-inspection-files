@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 565022,
+    "numFound": 565024,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "75110e0d-a4e0-b18e-1c62-3cf0543937eb",
+        "file_id": "75110e0d-a4e0-b18e-1c62-3cf0543937eb",
+        "file_name": "708149_Invoice_20220702085554",
+        "file_extension": "pdf",
+        "file_size": 66780,
+        "file_status": "com_cpy",
+        "folder_id": "492a9ce0-f6b7-3af7-4fda-bcc0321b9a7c",
+        "create_ts": "2022-07-02T20:42:36.015Z",
+        "last_update_ts": "2022-07-02T20:42:21.322Z",
+        "active_ind": "Y",
+        "file_manager_id": "6154b975-f2a6-4d68-bf04-aa9cfc6e02de",
+        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
+        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220702085554",
+        "entity_id": "012595",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS XI LLC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1737275008642711600,
+        "score": 0.00012497838
+      },
+      {
+        "id": "a129e76d-9839-0157-f141-0fc5eca0bc6c",
+        "file_id": "a129e76d-9839-0157-f141-0fc5eca0bc6c",
+        "file_name": "Edler Political 014",
+        "file_extension": "pdf",
+        "file_size": 2934848,
+        "file_status": "com_cpy",
+        "folder_id": "60ad4e99-d888-3cfc-345b-3427f9282a5c",
+        "create_ts": "2022-07-02T20:37:00.447Z",
+        "last_update_ts": "2022-07-02T20:36:46.577Z",
+        "active_ind": "Y",
+        "file_manager_id": "bade5492-9ab0-466f-8b40-2a168e62a119",
+        "file_folder_path": "Political Files/2022/Local",
+        "full_qualified_file_name": "Political Files/2022/Local/Edler Political 014",
+        "entity_id": "69993",
+        "source_service_code": "TV",
+        "callsign": "WBQP-CD",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1737274657642381300,
+        "score": 0.24995676
+      },
       {
         "id": "28fab265-a035-7e56-b084-e45c1c531c56",
         "file_id": "28fab265-a035-7e56-b084-e45c1c531c56",
@@ -203,56 +251,6 @@
         "campaign_year": "2022",
         "_version_": 1737236794332676000,
         "score": 0.00012497838
-      },
-      {
-        "id": "abc6b8c5-2920-f80c-bba6-c7744ef38286",
-        "file_id": "abc6b8c5-2920-f80c-bba6-c7744ef38286",
-        "file_name": "698842_Invoice_20220701092741",
-        "file_extension": "pdf",
-        "file_size": 136462,
-        "file_status": "com_cpy",
-        "folder_id": "b355a1f7-b6b2-c4f2-5707-f4def9af4a6f",
-        "create_ts": "2022-07-02T09:46:32.836Z",
-        "last_update_ts": "2022-07-02T09:46:45.125Z",
-        "active_ind": "Y",
-        "file_manager_id": "9a9f356d-c032-413e-8622-1c6e75803d96",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220701092741",
-        "entity_id": "006401",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF INDIANA/KENTUCKY/UTAH",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1737233733361074200,
-        "score": 0.00012497838
-      },
-      {
-        "id": "5dd26b08-90f1-b741-dfb3-e52bb0e08ff9",
-        "file_id": "5dd26b08-90f1-b741-dfb3-e52bb0e08ff9",
-        "file_name": "698842_Invoice_20220701092741",
-        "file_extension": "pdf",
-        "file_size": 136462,
-        "file_status": "com_cpy",
-        "folder_id": "6a7cf252-7508-d70a-a071-2e3175d0e401",
-        "create_ts": "2022-07-02T09:31:02.334Z",
-        "last_update_ts": "2022-07-02T09:31:03.648Z",
-        "active_ind": "Y",
-        "file_manager_id": "083d6ce4-5983-4215-bead-e69e1a9b4ae3",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220701092741",
-        "entity_id": "006193",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF ILLINOIS VI INC",
-        "operator_city_name": "Philadelphia",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1737232757684174800,
-        "score": 0.00012497838
       }
     ],
     "facets": {
@@ -431,16 +429,16 @@
         "2019": 13895,
         "2020": 124574,
         "2021": 22737,
-        "2022": 46894,
+        "2022": 46896,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 81127,
+        "State": 81128,
         "US Senate": 53259,
         "US House": 46658,
         "Presidential": 37948,
-        "Local": 28004
+        "Local": 28005
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63687,
@@ -473,14 +471,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 257001,
-        "CABLE": 132426,
+        "TV": 257002,
+        "CABLE": 132427,
         "FM": 122032,
         "AM": 47069,
         "DBS": 6494
       },
       "political_file_type": {
-        "PA": 248603,
+        "PA": 248605,
         "NCIA": 135178
       }
     }
@@ -497,8 +495,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 217,
-    "processTime": 228,
-    "responseTime": 229
+    "queryTime": 1868,
+    "processTime": 877,
+    "responseTime": 1878
   }
 }
