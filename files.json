@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 565032,
+    "numFound": 565034,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "8fd8bdf4-5f5d-7cf7-ea33-d114c3451fba",
+        "file_id": "8fd8bdf4-5f5d-7cf7-ea33-d114c3451fba",
+        "file_name": "708149_Invoice_20220702085554",
+        "file_extension": "pdf",
+        "file_size": 66780,
+        "file_status": "com_cpy",
+        "folder_id": "51275696-09a7-a996-51e4-0f22f2767386",
+        "create_ts": "2022-07-02T23:09:48.825Z",
+        "last_update_ts": "2022-07-02T23:09:34.28Z",
+        "active_ind": "Y",
+        "file_manager_id": "55d89d13-bbd0-41aa-9b28-b3431a36bb68",
+        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
+        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220702085554",
+        "entity_id": "004939",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF NORTHERN ILLINOIS INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1737284270707179500,
+        "score": 0.00012497838
+      },
+      {
+        "id": "83f680f9-9d41-b58a-9993-34a56065fd6f",
+        "file_id": "83f680f9-9d41-b58a-9993-34a56065fd6f",
+        "file_name": "708149_Invoice_20220702085554",
+        "file_extension": "pdf",
+        "file_size": 66780,
+        "file_status": "com_cpy",
+        "folder_id": "94986409-1421-555d-4354-e1b60a5d2d01",
+        "create_ts": "2022-07-02T23:02:11.852Z",
+        "last_update_ts": "2022-07-02T23:02:25.419Z",
+        "active_ind": "Y",
+        "file_manager_id": "f72351fe-605c-497e-a229-912687c4e653",
+        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
+        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220702085554",
+        "entity_id": "009152",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS VI INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1737283791306621000,
+        "score": 0.00012497838
+      },
       {
         "id": "b8ecf379-b4cf-6bda-7a7e-4ba5e762bb60",
         "file_id": "b8ecf379-b4cf-6bda-7a7e-4ba5e762bb60",
@@ -199,54 +249,6 @@
         "campaign_year": "2022",
         "_version_": 1737276070569181200,
         "score": 0.00012497838
-      },
-      {
-        "id": "75110e0d-a4e0-b18e-1c62-3cf0543937eb",
-        "file_id": "75110e0d-a4e0-b18e-1c62-3cf0543937eb",
-        "file_name": "708149_Invoice_20220702085554",
-        "file_extension": "pdf",
-        "file_size": 66780,
-        "file_status": "com_cpy",
-        "folder_id": "492a9ce0-f6b7-3af7-4fda-bcc0321b9a7c",
-        "create_ts": "2022-07-02T20:42:36.015Z",
-        "last_update_ts": "2022-07-02T20:42:21.322Z",
-        "active_ind": "Y",
-        "file_manager_id": "6154b975-f2a6-4d68-bf04-aa9cfc6e02de",
-        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
-        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220702085554",
-        "entity_id": "012595",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF ILLINOIS XI LLC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1737275008642711600,
-        "score": 0.00012497838
-      },
-      {
-        "id": "a129e76d-9839-0157-f141-0fc5eca0bc6c",
-        "file_id": "a129e76d-9839-0157-f141-0fc5eca0bc6c",
-        "file_name": "Edler Political 014",
-        "file_extension": "pdf",
-        "file_size": 2934848,
-        "file_status": "com_cpy",
-        "folder_id": "60ad4e99-d888-3cfc-345b-3427f9282a5c",
-        "create_ts": "2022-07-02T20:37:00.447Z",
-        "last_update_ts": "2022-07-02T20:36:46.577Z",
-        "active_ind": "Y",
-        "file_manager_id": "bade5492-9ab0-466f-8b40-2a168e62a119",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Edler Political 014",
-        "entity_id": "69993",
-        "source_service_code": "TV",
-        "callsign": "WBQP-CD",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1737274657642381300,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -425,12 +427,12 @@
         "2019": 13895,
         "2020": 124574,
         "2021": 22737,
-        "2022": 46903,
+        "2022": 46905,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 81135,
+        "State": 81137,
         "US Senate": 53259,
         "US House": 46658,
         "Presidential": 37948,
@@ -468,13 +470,13 @@
       },
       "source_service_code": {
         "TV": 257002,
-        "CABLE": 132434,
+        "CABLE": 132436,
         "FM": 122032,
         "AM": 47070,
         "DBS": 6494
       },
       "political_file_type": {
-        "PA": 248612,
+        "PA": 248614,
         "NCIA": 135178
       }
     }
@@ -491,8 +493,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 214,
-    "processTime": 223,
-    "responseTime": 223
+    "queryTime": 1888,
+    "processTime": 898,
+    "responseTime": 1899
   }
 }
