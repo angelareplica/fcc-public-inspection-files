@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 565060,
+    "numFound": 565061,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "1afe9631-3e34-4d2c-00f7-4e9b0e69a36e",
+        "file_id": "1afe9631-3e34-4d2c-00f7-4e9b0e69a36e",
+        "file_name": "708149_Invoice_20220702085554",
+        "file_extension": "pdf",
+        "file_size": 66780,
+        "file_status": "com_cpy",
+        "folder_id": "86c74030-3d58-4d6a-3d2c-c03d05daccdb",
+        "create_ts": "2022-07-03T20:53:53.674Z",
+        "last_update_ts": "2022-07-03T20:54:09.454Z",
+        "active_ind": "Y",
+        "file_manager_id": "63ce21a8-fe8b-4224-83b7-f41c11c3b9f3",
+        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
+        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220702085554",
+        "entity_id": "005892",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF CALIFORNIA/COLORADO/ILLINOIS/INDIANA/MICHIGAN, LP",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1737366316159860700,
+        "score": 0.00012497838
+      },
       {
         "id": "3612b0d1-5550-8400-9470-8662bf096155",
         "file_id": "3612b0d1-5550-8400-9470-8662bf096155",
@@ -199,27 +224,6 @@
         "non_political_file_folder": "Applications and Related Materials",
         "_version_": 1737349174314139600,
         "score": 0.24995676
-      },
-      {
-        "id": "ebc68edb-bad3-9f14-00d4-f8dfc8c0b2c2",
-        "file_id": "ebc68edb-bad3-9f14-00d4-f8dfc8c0b2c2",
-        "file_name": "KIBM STA REQUEST 061422 C",
-        "file_extension": "pdf",
-        "file_size": 1000739,
-        "file_status": "com_cpy",
-        "folder_id": "77fade1f-1b62-b9cd-a601-f8bccccf3d89",
-        "create_ts": "2022-07-03T16:21:26.376Z",
-        "last_update_ts": "2022-07-03T16:21:11.849Z",
-        "active_ind": "Y",
-        "file_manager_id": "759b1cb3-d5f4-4541-b0a6-8d5fc64727b6",
-        "file_folder_path": "Applications and Related Materials/Additional Documents/STA Related Documents",
-        "full_qualified_file_name": "Applications and Related Materials/Additional Documents/STA Related Documents/KIBM STA REQUEST 061422 C",
-        "entity_id": "74104",
-        "source_service_code": "AM",
-        "callsign": "KIBM",
-        "non_political_file_folder": "Applications and Related Materials",
-        "_version_": 1737349175223255000,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -398,12 +402,12 @@
         "2019": 13895,
         "2020": 124574,
         "2021": 22737,
-        "2022": 46924,
+        "2022": 46925,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 81143,
+        "State": 81144,
         "US Senate": 53259,
         "US House": 46658,
         "Presidential": 37948,
@@ -441,13 +445,13 @@
       },
       "source_service_code": {
         "TV": 257002,
-        "CABLE": 132440,
+        "CABLE": 132441,
         "FM": 122043,
         "AM": 47081,
         "DBS": 6494
       },
       "political_file_type": {
-        "PA": 248632,
+        "PA": 248633,
         "NCIA": 135179
       }
     }
@@ -464,8 +468,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 217,
-    "processTime": 224,
-    "responseTime": 225
+    "queryTime": 220,
+    "processTime": 227,
+    "responseTime": 227
   }
 }
