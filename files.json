@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 565065,
+    "numFound": 565066,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "b72e39f0-5f04-1877-9e91-cd5fd6b25c20",
+        "file_id": "b72e39f0-5f04-1877-9e91-cd5fd6b25c20",
+        "file_name": "708149_Invoice_20220702085554",
+        "file_extension": "pdf",
+        "file_size": 66780,
+        "file_status": "com_cpy",
+        "folder_id": "de3b7f6b-e2e2-3eb9-cb66-cc671c708911",
+        "create_ts": "2022-07-03T23:02:54.819Z",
+        "last_update_ts": "2022-07-03T23:03:10.865Z",
+        "active_ind": "Y",
+        "file_manager_id": "64930467-4449-495f-8763-6c75f1cbf240",
+        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
+        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220702085554",
+        "entity_id": "006880",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS XII LP",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1737374433397440500,
+        "score": 0.00012497838
+      },
       {
         "id": "525b03b4-ec81-e431-eba2-1ec2fe03a443",
         "file_id": "525b03b4-ec81-e431-eba2-1ec2fe03a443",
@@ -219,27 +244,6 @@
         "campaign_year": "2022",
         "_version_": 1737356987323121700,
         "score": 0.24995676
-      },
-      {
-        "id": "f0b638b7-7414-630c-462d-cd8f884bfc56",
-        "file_id": "f0b638b7-7414-630c-462d-cd8f884bfc56",
-        "file_name": "WTRT Sponsored Programs 2022-06",
-        "file_extension": "pdf",
-        "file_size": 67708,
-        "file_status": "com_cpy",
-        "folder_id": "2480e089-c4fc-f42d-3455-58ee3978b07d",
-        "create_ts": "2022-07-03T17:16:45.523Z",
-        "last_update_ts": "2022-07-03T17:16:46.811Z",
-        "active_ind": "Y",
-        "file_manager_id": "be2fb8cb-ab54-4da2-96c6-249ccf9ea286",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/WTRT Sponsored Programs 2022",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/WTRT Sponsored Programs 2022/WTRT Sponsored Programs 2022-06",
-        "entity_id": "88122",
-        "source_service_code": "FM",
-        "callsign": "WTRT",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1737352655280275500,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -418,12 +422,12 @@
         "2019": 13895,
         "2020": 124574,
         "2021": 22737,
-        "2022": 46929,
+        "2022": 46930,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 81148,
+        "State": 81149,
         "US Senate": 53259,
         "US House": 46658,
         "Presidential": 37948,
@@ -461,13 +465,13 @@
       },
       "source_service_code": {
         "TV": 257002,
-        "CABLE": 132445,
+        "CABLE": 132446,
         "FM": 122043,
         "AM": 47081,
         "DBS": 6494
       },
       "political_file_type": {
-        "PA": 248637,
+        "PA": 248638,
         "NCIA": 135179
       }
     }
@@ -484,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1882,
-    "processTime": 891,
-    "responseTime": 1892
+    "queryTime": 1849,
+    "processTime": 858,
+    "responseTime": 1859
   }
 }
