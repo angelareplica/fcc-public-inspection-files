@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 565064,
+    "numFound": 565065,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "525b03b4-ec81-e431-eba2-1ec2fe03a443",
+        "file_id": "525b03b4-ec81-e431-eba2-1ec2fe03a443",
+        "file_name": "708149_Invoice_20220702085554",
+        "file_extension": "pdf",
+        "file_size": 66780,
+        "file_status": "com_cpy",
+        "folder_id": "ce3e8e97-0009-375e-e882-4f86f769be4c",
+        "create_ts": "2022-07-03T22:13:09.379Z",
+        "last_update_ts": "2022-07-03T22:13:10.526Z",
+        "active_ind": "Y",
+        "file_manager_id": "cb4e2cdc-8d93-42ab-8635-4fa7a7f22b47",
+        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
+        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220702085554",
+        "entity_id": "009940",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF FLORIDA /ILLINOIS/MICHIGAN INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1737371302870646800,
+        "score": 0.00012497838
+      },
       {
         "id": "b7686968-7b71-00c0-476c-80b9b6281c4b",
         "file_id": "b7686968-7b71-00c0-476c-80b9b6281c4b",
@@ -215,27 +240,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1737352655280275500,
         "score": 0.24995676
-      },
-      {
-        "id": "5402661f-adc1-c25d-a757-c6f4d46cb450",
-        "file_id": "5402661f-adc1-c25d-a757-c6f4d46cb450",
-        "file_name": "WAAJ Sponsored Programs 2022-06",
-        "file_extension": "pdf",
-        "file_size": 71976,
-        "file_status": "com_cpy",
-        "folder_id": "f9337977-4fd4-3f6f-3eff-fc7b4075fdeb",
-        "create_ts": "2022-07-03T17:10:32.325Z",
-        "last_update_ts": "2022-07-03T17:10:33.476Z",
-        "active_ind": "Y",
-        "file_manager_id": "96114d0f-fc87-4156-9b1a-664a302f76ea",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/WAAJ Sponsored Programs 2022",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/WAAJ Sponsored Programs 2022/WAAJ Sponsored Programs 2022-06",
-        "entity_id": "78270",
-        "source_service_code": "FM",
-        "callsign": "WAAJ",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1737352263815397400,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -414,12 +418,12 @@
         "2019": 13895,
         "2020": 124574,
         "2021": 22737,
-        "2022": 46928,
+        "2022": 46929,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 81147,
+        "State": 81148,
         "US Senate": 53259,
         "US House": 46658,
         "Presidential": 37948,
@@ -457,13 +461,13 @@
       },
       "source_service_code": {
         "TV": 257002,
-        "CABLE": 132444,
+        "CABLE": 132445,
         "FM": 122043,
         "AM": 47081,
         "DBS": 6494
       },
       "political_file_type": {
-        "PA": 248636,
+        "PA": 248637,
         "NCIA": 135179
       }
     }
@@ -480,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1901,
-    "processTime": 919,
-    "responseTime": 1919
+    "queryTime": 221,
+    "processTime": 230,
+    "responseTime": 230
   }
 }
