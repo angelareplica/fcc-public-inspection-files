@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 565059,
+    "numFound": 565060,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "3612b0d1-5550-8400-9470-8662bf096155",
+        "file_id": "3612b0d1-5550-8400-9470-8662bf096155",
+        "file_name": "2022-06-21 - 06-27 WZTI Tim Michels for Governor Contract 13988 Complete",
+        "file_extension": "pdf",
+        "file_size": 2333598,
+        "file_status": "com_cpy",
+        "folder_id": "fbf645cf-e2b3-ad1c-dadf-fed3b38e4c54",
+        "create_ts": "2022-07-03T18:32:16.037Z",
+        "last_update_ts": "2022-07-03T18:32:01.815Z",
+        "active_ind": "Y",
+        "file_manager_id": "94924be1-5c0e-4908-bdbd-3e9bf6996505",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/2022-06-21 - 06-27 WZTI Tim Michels for Governor Contract 13988 Complete",
+        "entity_id": "63597",
+        "source_service_code": "AM",
+        "callsign": "WZTI",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1737357406543806500,
+        "score": 0.24995676
+      },
       {
         "id": "cf0a80e4-2a9a-dd17-f6f3-cb29ca463dcb",
         "file_id": "cf0a80e4-2a9a-dd17-f6f3-cb29ca463dcb",
@@ -197,27 +220,6 @@
         "non_political_file_folder": "Applications and Related Materials",
         "_version_": 1737349175223255000,
         "score": 0.24995676
-      },
-      {
-        "id": "af00993f-57dd-7a99-47ac-f96c2b56431d",
-        "file_id": "af00993f-57dd-7a99-47ac-f96c2b56431d",
-        "file_name": "KIBM STA GRANT 070122",
-        "file_extension": "pdf",
-        "file_size": 133376,
-        "file_status": "com_cpy",
-        "folder_id": "77fade1f-1b62-b9cd-a601-f8bccccf3d89",
-        "create_ts": "2022-07-03T16:14:42.644Z",
-        "last_update_ts": "2022-07-03T16:14:58.032Z",
-        "active_ind": "Y",
-        "file_manager_id": "0684820f-c6e6-4a09-8173-65cbcb62e77c",
-        "file_folder_path": "Applications and Related Materials/Additional Documents/STA Related Documents",
-        "full_qualified_file_name": "Applications and Related Materials/Additional Documents/STA Related Documents/KIBM STA GRANT 070122",
-        "entity_id": "74104",
-        "source_service_code": "AM",
-        "callsign": "KIBM",
-        "non_political_file_folder": "Applications and Related Materials",
-        "_version_": 1737348751511519200,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -396,12 +398,12 @@
         "2019": 13895,
         "2020": 124574,
         "2021": 22737,
-        "2022": 46923,
+        "2022": 46924,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 81142,
+        "State": 81143,
         "US Senate": 53259,
         "US House": 46658,
         "Presidential": 37948,
@@ -441,11 +443,11 @@
         "TV": 257002,
         "CABLE": 132440,
         "FM": 122043,
-        "AM": 47080,
+        "AM": 47081,
         "DBS": 6494
       },
       "political_file_type": {
-        "PA": 248631,
+        "PA": 248632,
         "NCIA": 135179
       }
     }
@@ -462,8 +464,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1883,
-    "processTime": 892,
-    "responseTime": 1892
+    "queryTime": 218,
+    "processTime": 225,
+    "responseTime": 225
   }
 }
