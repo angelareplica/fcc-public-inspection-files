@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 565111,
+    "numFound": 565112,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "875fda2a-d823-f61c-efd8-aed1490c4bba",
+        "file_id": "875fda2a-d823-f61c-efd8-aed1490c4bba",
+        "file_name": "Know the Consequences 05302022-06192022 KBZM-i",
+        "file_extension": "pdf",
+        "file_size": 121418,
+        "file_status": "com_cpy",
+        "folder_id": "6a1bdeea-59c7-433a-b95e-502293fa8275",
+        "create_ts": "2022-07-04T20:34:57.91Z",
+        "last_update_ts": "2022-07-04T20:34:59.064Z",
+        "active_ind": "Y",
+        "file_manager_id": "1afdfd1a-cc9c-4b25-86bf-10e1030bfe53",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Know the Consequences/Invoices",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Know the Consequences/Invoices/Know the Consequences 05302022-06192022 KBZM-i",
+        "entity_id": "81679",
+        "source_service_code": "FM",
+        "callsign": "KBZM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1737455722249060400,
+        "score": 0.24995676
+      },
       {
         "id": "b5278182-f76e-4c5d-769b-6cd62af3df97",
         "file_id": "b5278182-f76e-4c5d-769b-6cd62af3df97",
@@ -205,28 +227,6 @@
         "campaign_year": "2022",
         "_version_": 1737433976982732800,
         "score": 0.24995676
-      },
-      {
-        "id": "40cda68c-5228-e8e8-f6dd-62d0daa62ed5",
-        "file_id": "40cda68c-5228-e8e8-f6dd-62d0daa62ed5",
-        "file_name": "Facebook 53214 INVOICE 3 062622",
-        "file_extension": "pdf",
-        "file_size": 30765,
-        "file_status": "com_cpy",
-        "folder_id": "89af264a-25a0-1a9b-5417-193ea0deb06e",
-        "create_ts": "2022-07-04T14:48:42.283Z",
-        "last_update_ts": "2022-07-04T14:48:27.141Z",
-        "active_ind": "Y",
-        "file_manager_id": "8c6a2515-ef94-4b7d-b2c9-781d9719ed12",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Facebook 53214",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Facebook 53214/Facebook 53214 INVOICE 3 062622",
-        "entity_id": "47105",
-        "source_service_code": "FM",
-        "callsign": "WTLP",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1737433937445126100,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -405,7 +405,7 @@
         "2019": 13895,
         "2020": 124574,
         "2021": 22737,
-        "2022": 46973,
+        "2022": 46974,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -449,13 +449,13 @@
       "source_service_code": {
         "TV": 257004,
         "CABLE": 132446,
-        "FM": 122079,
+        "FM": 122080,
         "AM": 47088,
         "DBS": 6494
       },
       "political_file_type": {
         "PA": 248663,
-        "NCIA": 135197
+        "NCIA": 135198
       }
     }
   },
@@ -471,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1884,
-    "processTime": 890,
-    "responseTime": 1891
+    "queryTime": 1891,
+    "processTime": 897,
+    "responseTime": 1898
   }
 }
