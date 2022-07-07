@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 566196,
+    "numFound": 566197,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "c5b86cd6-0057-de67-43e1-d51fba71410a",
+        "file_id": "c5b86cd6-0057-de67-43e1-d51fba71410a",
+        "file_name": "lori-saine-for-congress-co-08-invoice-3618890280-2119410291-48962pdf",
+        "file_extension": "pdf",
+        "file_size": 32080,
+        "file_status": "com_cpy",
+        "folder_id": "44452e0f-07d0-df7a-6695-7e592fee6715",
+        "create_ts": "2022-07-07T05:40:16.167Z",
+        "last_update_ts": "2022-07-07T05:40:40.175Z",
+        "active_ind": "Y",
+        "file_manager_id": "decf0cab-342d-4c6b-b11b-e8525db978a0",
+        "file_folder_path": "Political Files/2022/Federal/US House",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/lori-saine-for-congress-co-08-invoice-3618890280-2119410291-48962pdf",
+        "entity_id": "48962",
+        "source_service_code": "AM",
+        "callsign": "KHOW",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1737671223732600800,
+        "score": 0.24995676
+      },
       {
         "id": "b2619de4-a9d0-f6e8-2fbe-5ffdc52e3fed",
         "file_id": "b2619de4-a9d0-f6e8-2fbe-5ffdc52e3fed",
@@ -206,27 +229,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1737660239074820000,
         "score": 0.24995676
-      },
-      {
-        "id": "6437a517-cf2e-0cd1-ec32-1e62abaf3ffc",
-        "file_id": "6437a517-cf2e-0cd1-ec32-1e62abaf3ffc",
-        "file_name": "Rapid City Quarterly Report 2nd Quarter 2022 (002) (002) (002)",
-        "file_extension": "pdf",
-        "file_size": 645481,
-        "file_status": "com_cpy",
-        "folder_id": "d5800ca2-e5fb-55ec-c887-64312a0214ae",
-        "create_ts": "2022-07-07T02:44:32.546Z",
-        "last_update_ts": "2022-07-07T02:44:34.062Z",
-        "active_ind": "Y",
-        "file_manager_id": "0a06e0f4-e4d2-412d-a613-70454a7db4ee",
-        "file_folder_path": "Issues and Programs Lists/2022 KSLP Program Issues",
-        "full_qualified_file_name": "Issues and Programs Lists/2022 KSLP Program Issues/Rapid City Quarterly Report 2nd Quarter 2022 (002) (002) (002)",
-        "entity_id": "174271",
-        "source_service_code": "FM",
-        "callsign": "KSLP",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1737660168495169500,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -405,14 +407,14 @@
         "2019": 13893,
         "2020": 124495,
         "2021": 22737,
-        "2022": 47729,
+        "2022": 47730,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 81406,
         "US Senate": 53294,
-        "US House": 46762,
+        "US House": 46763,
         "Presidential": 37939,
         "Local": 28061
       },
@@ -450,11 +452,11 @@
         "TV": 257421,
         "CABLE": 132504,
         "FM": 122489,
-        "AM": 47270,
+        "AM": 47271,
         "DBS": 6512
       },
       "political_file_type": {
-        "PA": 249069,
+        "PA": 249070,
         "NCIA": 135466
       }
     }
@@ -471,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1889,
-    "processTime": 900,
-    "responseTime": 1901
+    "queryTime": 221,
+    "processTime": 230,
+    "responseTime": 230
   }
 }
