@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 567667,
+    "numFound": 567669,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "9bddb7ed-b43e-6205-318f-cd730bc19f72",
+        "file_id": "9bddb7ed-b43e-6205-318f-cd730bc19f72",
+        "file_name": "Committee to Elect Kelly Smith WBZX 070822 update to show spot # assigned",
+        "file_extension": "PDF",
+        "file_size": 147637,
+        "file_status": "com_cpy",
+        "folder_id": "3e240037-f970-8a41-6944-130fc2ebe2b1",
+        "create_ts": "2022-07-09T03:16:02.222Z",
+        "last_update_ts": "2022-07-09T03:16:03.194Z",
+        "active_ind": "Y",
+        "file_manager_id": "d02b4397-6c2a-4e69-967d-2abc2dc23e53",
+        "file_folder_path": "Political Files/2022/State/Committee to Elect Kelly Smith State Legislator 101st",
+        "full_qualified_file_name": "Political Files/2022/State/Committee to Elect Kelly Smith State Legislator 101st/Committee to Elect Kelly Smith WBZX 070822 update to show spot # assigned",
+        "entity_id": "191528",
+        "source_service_code": "FM",
+        "callsign": "WBZX",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1737843343473246200,
+        "score": 0.24995679
+      },
+      {
+        "id": "49a1025d-716e-8b40-ac40-c8cef8ebfb30",
+        "file_id": "49a1025d-716e-8b40-ac40-c8cef8ebfb30",
+        "file_name": "2022, Qtr 2 Issues Page",
+        "file_extension": "doc",
+        "file_size": 29696,
+        "file_status": "com_prc",
+        "folder_id": "a1b11b8d-2ca0-c105-bc70-5645c74e73e6",
+        "create_ts": "2022-07-09T02:55:12.496Z",
+        "last_update_ts": "2022-07-09T02:55:13.602Z",
+        "active_ind": "Y",
+        "file_manager_id": "1caf4e07-b060-41ff-93dd-4c020ab67117",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/2022, Qtr 2 Issues Page",
+        "entity_id": "82987",
+        "source_service_code": "FM",
+        "callsign": "KJRF",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1737842051371761700,
+        "score": 0.0001249784
+      },
       {
         "id": "69b230fa-b0e2-20d9-f40a-e488383246ac",
         "file_id": "69b230fa-b0e2-20d9-f40a-e488383246ac",
@@ -182,48 +226,6 @@
         "non_political_file_folder": "Equal Employment Opportunity Records",
         "_version_": 1737833827385999400,
         "score": 0.24995679
-      },
-      {
-        "id": "84e20316-3429-d8d8-cf49-d8d2b0a40720",
-        "file_id": "84e20316-3429-d8d8-cf49-d8d2b0a40720",
-        "file_name": "KCEA EEO Form 396 COMPLETED 070822",
-        "file_extension": "pdf",
-        "file_size": 11270,
-        "file_status": "com_cpy",
-        "folder_id": "0c331040-4a18-50a9-6cb2-f0d1ce221f24",
-        "create_ts": "2022-07-09T00:43:36.907Z",
-        "last_update_ts": "2022-07-09T00:43:37.862Z",
-        "active_ind": "Y",
-        "file_manager_id": "6312afb9-afc3-46fd-b809-0ca5fa4777e8",
-        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports",
-        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/KCEA EEO Form 396 COMPLETED 070822",
-        "entity_id": "41168",
-        "source_service_code": "FM",
-        "callsign": "KCEA",
-        "non_political_file_folder": "Equal Employment Opportunity Records",
-        "_version_": 1737833753882919000,
-        "score": 0.24995679
-      },
-      {
-        "id": "3cf821a9-4617-47e2-72d4-321a21c9a3f8",
-        "file_id": "3cf821a9-4617-47e2-72d4-321a21c9a3f8",
-        "file_name": "Page 3 Local and National PSAs",
-        "file_extension": "pdf",
-        "file_size": 126865,
-        "file_status": "com_cpy",
-        "folder_id": "08ac8f62-a3a6-c185-46e4-8ad3f64b3523",
-        "create_ts": "2022-07-09T00:35:54.269Z",
-        "last_update_ts": "2022-07-09T00:35:55.178Z",
-        "active_ind": "Y",
-        "file_manager_id": "a89b09b1-0f58-4373-8964-311382032db3",
-        "file_folder_path": "Issues and Programs Lists/2022/Qtr 2",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/Qtr 2/Page 3 Local and National PSAs",
-        "entity_id": "67311",
-        "source_service_code": "FM",
-        "callsign": "KYBE",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1737833268724629500,
-        "score": 0.0001249784
       }
     ],
     "facets": {
@@ -402,12 +404,12 @@
         "2019": 13893,
         "2020": 124441,
         "2021": 22737,
-        "2022": 48717,
+        "2022": 48718,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 81711,
+        "State": 81712,
         "US Senate": 53441,
         "US House": 46860,
         "Presidential": 37920,
@@ -415,7 +417,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63688,
-        "Issues and Programs Lists": 47238,
+        "Issues and Programs Lists": 47239,
         "Equal Employment Opportunity Records": 37679,
         "Donor Lists - Applicable Only for NCEs": 12355,
         "FCC Authorizations": 7496,
@@ -446,12 +448,12 @@
       "source_service_code": {
         "TV": 257778,
         "CABLE": 132871,
-        "FM": 122943,
+        "FM": 122945,
         "AM": 47529,
         "DBS": 6546
       },
       "political_file_type": {
-        "PA": 249642,
+        "PA": 249643,
         "NCIA": 135813
       }
     }
@@ -468,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1907,
-    "processTime": 913,
-    "responseTime": 1913
+    "queryTime": 1861,
+    "processTime": 868,
+    "responseTime": 1868
   }
 }
