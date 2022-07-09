@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 567680,
+    "numFound": 567679,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "2ecbf5d7-9cbd-bd84-5de0-7cceabce0c68",
+        "file_id": "2ecbf5d7-9cbd-bd84-5de0-7cceabce0c68",
+        "file_name": "NAB_Progressives for Progress PAC ORD22-001153_20220707_00001",
+        "file_extension": "pdf",
+        "file_size": 174446,
+        "file_status": "com_cpy",
+        "folder_id": "257becbf-ca3f-019f-aa01-2be8af33373f",
+        "create_ts": "2022-07-09T18:05:02.145Z",
+        "last_update_ts": "2022-07-09T18:04:45.955Z",
+        "active_ind": "Y",
+        "file_manager_id": "f6299f99-fa13-44b3-9916-ae06d370466c",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Progressives for Progress PAC/Progressives for Prog Est 9865",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Progressives for Progress PAC/Progressives for Prog Est 9865/NAB_Progressives for Progress PAC ORD22-001153_20220707_00001",
+        "entity_id": "47904",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "WASHINGTON DC (HAGRSTWN)",
+        "callsign": "WRC-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1737899274816979000,
+        "score": 0.24995679
+      },
       {
         "id": "4b3fc10e-5574-4e82-d05d-4f3aeba1e969",
         "file_id": "4b3fc10e-5574-4e82-d05d-4f3aeba1e969",
@@ -208,29 +232,6 @@
         "campaign_year": "2022",
         "_version_": 1737846730260480000,
         "score": 0.24995679
-      },
-      {
-        "id": "a28d0461-586e-2df8-eda0-99497ce4965c",
-        "file_id": "a28d0461-586e-2df8-eda0-99497ce4965c",
-        "file_name": "Abraham Hamadeh for Attorney General 0708 NAB Form",
-        "file_extension": "pdf",
-        "file_size": 1186980,
-        "file_status": "com_cpy",
-        "folder_id": "86772f03-7580-fd64-b400-fe16eb101d5e",
-        "create_ts": "2022-07-09T04:09:54.105Z",
-        "last_update_ts": "2022-07-09T04:09:55.413Z",
-        "active_ind": "Y",
-        "file_manager_id": "d919a3da-0163-46a9-aff5-bac41c375dc4",
-        "file_folder_path": "Political Files/2022/State/ABRAHAM HAMADEH FOR ATTORNEY GENERAL",
-        "full_qualified_file_name": "Political Files/2022/State/ABRAHAM HAMADEH FOR ATTORNEY GENERAL/Abraham Hamadeh for Attorney General 0708 NAB Form",
-        "entity_id": "55492",
-        "source_service_code": "AM",
-        "callsign": "KAAA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1737846732701565000,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -274,7 +275,7 @@
         "TAMPA-ST. PETE (SARASOTA)": 2179,
         "LEXINGTON": 2151,
         "LA CROSSE-EAU CLAIRE": 2148,
-        "WASHINGTON DC (HAGRSTWN)": 2008,
+        "WASHINGTON DC (HAGRSTWN)": 2009,
         "ROCHESTR-MASON CITY-AUSTIN": 2003,
         "MADISON": 1958,
         "ALBUQUERQUE-SANTA FE": 1950,
@@ -338,7 +339,7 @@
       },
       "network_affiliation": {
         "ABC": 64534,
-        "NBC": 60987,
+        "NBC": 60988,
         "CBS": 42706,
         "FOX": 30641,
         "PBS": 14999,
@@ -406,10 +407,10 @@
         "2016": 66094,
         "2017": 10303,
         "2018": 67564,
-        "2019": 13893,
+        "2019": 13891,
         "2020": 124441,
         "2021": 22737,
-        "2022": 48726,
+        "2022": 48727,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -418,7 +419,7 @@
         "US Senate": 53441,
         "US House": 46862,
         "Presidential": 37920,
-        "Local": 28102
+        "Local": 28100
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63688,
@@ -451,15 +452,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 257780,
+        "TV": 257781,
         "CABLE": 132871,
-        "FM": 122947,
-        "AM": 47536,
+        "FM": 122946,
+        "AM": 47535,
         "DBS": 6546
       },
       "political_file_type": {
-        "PA": 249651,
-        "NCIA": 135813
+        "PA": 249649,
+        "NCIA": 135814
       }
     }
   },
@@ -475,8 +476,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1916,
-    "processTime": 924,
-    "responseTime": 1924
+    "queryTime": 1859,
+    "processTime": 866,
+    "responseTime": 1867
   }
 }
