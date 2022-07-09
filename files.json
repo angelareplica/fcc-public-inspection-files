@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 567675,
+    "numFound": 567676,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "0f8c0105-6a2c-74a6-a010-86b04904aea7",
+        "file_id": "0f8c0105-6a2c-74a6-a010-86b04904aea7",
+        "file_name": "WETR-AM quarterly report, 2022-02",
+        "file_extension": "pdf",
+        "file_size": 243244,
+        "file_status": "com_cpy",
+        "folder_id": "d326224b-896d-a6c5-6967-71bde312a722",
+        "create_ts": "2022-07-09T15:02:17.002Z",
+        "last_update_ts": "2022-07-09T15:04:11.375Z",
+        "active_ind": "Y",
+        "file_manager_id": "4d4aeb35-9ca0-4562-8279-c1aa51c988f6",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/WETR-AM quarterly report, 2022-02",
+        "entity_id": "65205",
+        "source_service_code": "AM",
+        "callsign": "WETR",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1737887865252085800,
+        "score": 0.24995679
+      },
       {
         "id": "5545c3fe-e674-3e0f-aab8-90ce13a12004",
         "file_id": "5545c3fe-e674-3e0f-aab8-90ce13a12004",
@@ -210,30 +231,6 @@
         "campaign_year": "2022",
         "_version_": 1737839605145665500,
         "score": 0.24995679
-      },
-      {
-        "id": "a2437299-ccee-e9ed-5b61-d682e799c06e",
-        "file_id": "a2437299-ccee-e9ed-5b61-d682e799c06e",
-        "file_name": "WV 07.12.22-07.18.22 1029544 Ord Rev",
-        "file_extension": "pdf",
-        "file_size": 48060,
-        "file_status": "com_cpy",
-        "folder_id": "b75920f7-5a9b-1a21-db77-d2e7f8583d5c",
-        "create_ts": "2022-07-09T02:15:26.705Z",
-        "last_update_ts": "2022-07-09T02:15:10.278Z",
-        "active_ind": "Y",
-        "file_manager_id": "c0afeb86-70e2-46fa-9e6c-14c013ac2c03",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Women Vote",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Women Vote/WV 07.12.22-07.18.22 1029544 Ord Rev",
-        "entity_id": "74100",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KTNV-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1737839531287117800,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -425,7 +422,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63688,
-        "Issues and Programs Lists": 47239,
+        "Issues and Programs Lists": 47240,
         "Equal Employment Opportunity Records": 37679,
         "Donor Lists - Applicable Only for NCEs": 12355,
         "FCC Authorizations": 7496,
@@ -457,7 +454,7 @@
         "TV": 257778,
         "CABLE": 132871,
         "FM": 122945,
-        "AM": 47535,
+        "AM": 47536,
         "DBS": 6546
       },
       "political_file_type": {
@@ -478,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1893,
-    "processTime": 902,
-    "responseTime": 1902
+    "queryTime": 1847,
+    "processTime": 856,
+    "responseTime": 1856
   }
 }
