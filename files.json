@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 567678,
+    "numFound": 567680,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "4b3fc10e-5574-4e82-d05d-4f3aeba1e969",
+        "file_id": "4b3fc10e-5574-4e82-d05d-4f3aeba1e969",
+        "file_name": "Andy-Ogles-for-Congress-Political-PFD-07-08-2022",
+        "file_extension": "pdf",
+        "file_size": 51754,
+        "file_status": "com_cpy",
+        "folder_id": "d65f9a79-5163-ef15-f37b-bcf1a94f6286",
+        "create_ts": "2022-07-09T17:41:54.756Z",
+        "last_update_ts": "2022-07-09T17:42:24.807Z",
+        "active_ind": "Y",
+        "file_manager_id": "d4faacba-270b-4122-838c-55e8b638b42e",
+        "file_folder_path": "Political Files/2022/Federal/US House/Ogles for Congress",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Ogles for Congress/Andy-Ogles-for-Congress-Political-PFD-07-08-2022",
+        "entity_id": "36504",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "NASHVILLE",
+        "callsign": "WTVF",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1737897819549728800,
+        "score": 0.24995679
+      },
+      {
+        "id": "7ac49f67-7550-ef2d-bf63-92fe5fb6cdf0",
+        "file_id": "7ac49f67-7550-ef2d-bf63-92fe5fb6cdf0",
+        "file_name": "PFD-Andy-Ogles-for-Congress-Political-PFD-07-09-2022",
+        "file_extension": "pdf",
+        "file_size": 62170,
+        "file_status": "com_cpy",
+        "folder_id": "d65f9a79-5163-ef15-f37b-bcf1a94f6286",
+        "create_ts": "2022-07-09T17:41:54.079Z",
+        "last_update_ts": "2022-07-09T17:42:24.131Z",
+        "active_ind": "Y",
+        "file_manager_id": "39d53276-bcf7-4654-be10-ddba07e11015",
+        "file_folder_path": "Political Files/2022/Federal/US House/Ogles for Congress",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Ogles for Congress/PFD-Andy-Ogles-for-Congress-Political-PFD-07-09-2022",
+        "entity_id": "36504",
+        "source_service_code": "TV",
+        "network_affiliation": "CBS",
+        "nielsen_dma_rank": "NASHVILLE",
+        "callsign": "WTVF",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1737897818853474300,
+        "score": 0.24995679
+      },
       {
         "id": "58860e56-de41-2d9f-c8db-db33681b1c99",
         "file_id": "58860e56-de41-2d9f-c8db-db33681b1c99",
@@ -181,52 +231,6 @@
         "campaign_year": "2022",
         "_version_": 1737846732701565000,
         "score": 0.24995679
-      },
-      {
-        "id": "6ed7554e-78e0-1010-6558-6e436e3d0bbc",
-        "file_id": "6ed7554e-78e0-1010-6558-6e436e3d0bbc",
-        "file_name": "Abraham Hamadeh for Attorney General 0708 BCRA FORM",
-        "file_extension": "pdf",
-        "file_size": 294179,
-        "file_status": "com_cpy",
-        "folder_id": "86772f03-7580-fd64-b400-fe16eb101d5e",
-        "create_ts": "2022-07-09T04:09:52.435Z",
-        "last_update_ts": "2022-07-09T04:09:36.039Z",
-        "active_ind": "Y",
-        "file_manager_id": "b16f1864-7bb6-4428-9ab3-e2c82cb9352a",
-        "file_folder_path": "Political Files/2022/State/ABRAHAM HAMADEH FOR ATTORNEY GENERAL",
-        "full_qualified_file_name": "Political Files/2022/State/ABRAHAM HAMADEH FOR ATTORNEY GENERAL/Abraham Hamadeh for Attorney General 0708 BCRA FORM",
-        "entity_id": "55492",
-        "source_service_code": "AM",
-        "callsign": "KAAA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1737846730590781400,
-        "score": 0.24995679
-      },
-      {
-        "id": "9bddb7ed-b43e-6205-318f-cd730bc19f72",
-        "file_id": "9bddb7ed-b43e-6205-318f-cd730bc19f72",
-        "file_name": "Committee to Elect Kelly Smith WBZX 070822 update to show spot # assigned",
-        "file_extension": "PDF",
-        "file_size": 147637,
-        "file_status": "com_cpy",
-        "folder_id": "3e240037-f970-8a41-6944-130fc2ebe2b1",
-        "create_ts": "2022-07-09T03:16:02.222Z",
-        "last_update_ts": "2022-07-09T03:16:03.194Z",
-        "active_ind": "Y",
-        "file_manager_id": "d02b4397-6c2a-4e69-967d-2abc2dc23e53",
-        "file_folder_path": "Political Files/2022/State/Committee to Elect Kelly Smith State Legislator 101st",
-        "full_qualified_file_name": "Political Files/2022/State/Committee to Elect Kelly Smith State Legislator 101st/Committee to Elect Kelly Smith WBZX 070822 update to show spot # assigned",
-        "entity_id": "191528",
-        "source_service_code": "FM",
-        "callsign": "WBZX",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1737843343473246200,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -335,7 +339,7 @@
       "network_affiliation": {
         "ABC": 64534,
         "NBC": 60987,
-        "CBS": 42704,
+        "CBS": 42706,
         "FOX": 30641,
         "PBS": 14999,
         "CW": 12423,
@@ -405,14 +409,14 @@
         "2019": 13893,
         "2020": 124441,
         "2021": 22737,
-        "2022": 48724,
+        "2022": 48726,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 81718,
         "US Senate": 53441,
-        "US House": 46860,
+        "US House": 46862,
         "Presidential": 37920,
         "Local": 28102
       },
@@ -447,14 +451,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 257778,
+        "TV": 257780,
         "CABLE": 132871,
         "FM": 122947,
         "AM": 47536,
         "DBS": 6546
       },
       "political_file_type": {
-        "PA": 249649,
+        "PA": 249651,
         "NCIA": 135813
       }
     }
@@ -471,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1896,
-    "processTime": 903,
-    "responseTime": 1904
+    "queryTime": 1916,
+    "processTime": 924,
+    "responseTime": 1924
   }
 }
