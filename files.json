@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 567676,
+    "numFound": 567677,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "40a6c010-6cff-3944-4fe2-c9fb96a9eeee",
+        "file_id": "40a6c010-6cff-3944-4fe2-c9fb96a9eeee",
+        "file_name": "2022 Issues Programs second quarterly report KQNV,  2022-02",
+        "file_extension": "pdf",
+        "file_size": 126961,
+        "file_status": "com_cpy",
+        "folder_id": "89fc6a61-3330-adb7-7011-e90d63db6134",
+        "create_ts": "2022-07-09T15:30:15.073Z",
+        "last_update_ts": "2022-07-09T15:30:44.926Z",
+        "active_ind": "Y",
+        "file_manager_id": "d138a313-9f5d-4e89-8811-d4061af5c876",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/2022 Issues Programs second quarterly report KQNV,  2022-02",
+        "entity_id": "176348",
+        "source_service_code": "FM",
+        "callsign": "KQNV",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1737889536161087500,
+        "score": 0.24995679
+      },
       {
         "id": "0f8c0105-6a2c-74a6-a010-86b04904aea7",
         "file_id": "0f8c0105-6a2c-74a6-a010-86b04904aea7",
@@ -206,31 +227,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1737842051371761700,
         "score": 0.0001249784
-      },
-      {
-        "id": "69b230fa-b0e2-20d9-f40a-e488383246ac",
-        "file_id": "69b230fa-b0e2-20d9-f40a-e488383246ac",
-        "file_name": "Sisolak 07.12.22-07.18.22 1044499 ORder",
-        "file_extension": "pdf",
-        "file_size": 30529,
-        "file_status": "com_cpy",
-        "folder_id": "bb637e35-f444-41dd-9afc-48262136af1d",
-        "create_ts": "2022-07-09T02:16:37.08Z",
-        "last_update_ts": "2022-07-09T02:16:38.043Z",
-        "active_ind": "Y",
-        "file_manager_id": "267bf656-2f16-4a90-a1d0-25078c830895",
-        "file_folder_path": "Political Files/2022/State/Steve Sisolak",
-        "full_qualified_file_name": "Political Files/2022/State/Steve Sisolak/Sisolak 07.12.22-07.18.22 1044499 ORder",
-        "entity_id": "74100",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KTNV-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1737839605145665500,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -422,7 +418,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63688,
-        "Issues and Programs Lists": 47240,
+        "Issues and Programs Lists": 47241,
         "Equal Employment Opportunity Records": 37679,
         "Donor Lists - Applicable Only for NCEs": 12355,
         "FCC Authorizations": 7496,
@@ -453,7 +449,7 @@
       "source_service_code": {
         "TV": 257778,
         "CABLE": 132871,
-        "FM": 122945,
+        "FM": 122946,
         "AM": 47536,
         "DBS": 6546
       },
@@ -475,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1847,
-    "processTime": 856,
-    "responseTime": 1856
+    "queryTime": 1900,
+    "processTime": 908,
+    "responseTime": 1909
   }
 }
