@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 567677,
+    "numFound": 567678,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "58860e56-de41-2d9f-c8db-db33681b1c99",
+        "file_id": "58860e56-de41-2d9f-c8db-db33681b1c99",
+        "file_name": "2022 Issues Programs second quarterly report KNVR,  2022-02",
+        "file_extension": "pdf",
+        "file_size": 143661,
+        "file_status": "com_cpy",
+        "folder_id": "32c10d9a-94c2-8ccc-9a8d-188cdd694fb0",
+        "create_ts": "2022-07-09T15:51:40.201Z",
+        "last_update_ts": "2022-07-09T15:51:23.58Z",
+        "active_ind": "Y",
+        "file_manager_id": "373a8b78-1deb-47dc-9aeb-be20194d0049",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/2022 Issues Programs second quarterly report KNVR,  2022-02",
+        "entity_id": "190452",
+        "source_service_code": "FM",
+        "callsign": "KNVR",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1737890883692396500,
+        "score": 0.24995679
+      },
       {
         "id": "40a6c010-6cff-3944-4fe2-c9fb96a9eeee",
         "file_id": "40a6c010-6cff-3944-4fe2-c9fb96a9eeee",
@@ -206,27 +227,6 @@
         "campaign_year": "2022",
         "_version_": 1737843343473246200,
         "score": 0.24995679
-      },
-      {
-        "id": "49a1025d-716e-8b40-ac40-c8cef8ebfb30",
-        "file_id": "49a1025d-716e-8b40-ac40-c8cef8ebfb30",
-        "file_name": "2022, Qtr 2 Issues Page",
-        "file_extension": "doc",
-        "file_size": 29696,
-        "file_status": "com_prc",
-        "folder_id": "a1b11b8d-2ca0-c105-bc70-5645c74e73e6",
-        "create_ts": "2022-07-09T02:55:12.496Z",
-        "last_update_ts": "2022-07-09T02:55:13.602Z",
-        "active_ind": "Y",
-        "file_manager_id": "1caf4e07-b060-41ff-93dd-4c020ab67117",
-        "file_folder_path": "Issues and Programs Lists/2022",
-        "full_qualified_file_name": "Issues and Programs Lists/2022/2022, Qtr 2 Issues Page",
-        "entity_id": "82987",
-        "source_service_code": "FM",
-        "callsign": "KJRF",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1737842051371761700,
-        "score": 0.0001249784
       }
     ],
     "facets": {
@@ -418,7 +418,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63688,
-        "Issues and Programs Lists": 47241,
+        "Issues and Programs Lists": 47242,
         "Equal Employment Opportunity Records": 37679,
         "Donor Lists - Applicable Only for NCEs": 12355,
         "FCC Authorizations": 7496,
@@ -449,7 +449,7 @@
       "source_service_code": {
         "TV": 257778,
         "CABLE": 132871,
-        "FM": 122946,
+        "FM": 122947,
         "AM": 47536,
         "DBS": 6546
       },
@@ -471,8 +471,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1900,
-    "processTime": 908,
-    "responseTime": 1909
+    "queryTime": 220,
+    "processTime": 228,
+    "responseTime": 228
   }
 }
