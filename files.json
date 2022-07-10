@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 567828,
+    "numFound": 567830,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "c9ca5e27-7467-0907-3e90-8a362980629d",
+        "file_id": "c9ca5e27-7467-0907-3e90-8a362980629d",
+        "file_name": "07102022",
+        "file_extension": "pdf",
+        "file_size": 71967,
+        "file_status": "com_cpy",
+        "folder_id": "7cf84df5-d17e-fbcf-7ccc-0aa3a8fa50d2",
+        "create_ts": "2022-07-10T14:47:48.872Z",
+        "last_update_ts": "2022-07-10T14:47:31.996Z",
+        "active_ind": "Y",
+        "file_manager_id": "ebe9f5d1-b091-43e1-a7c1-84c4e9b896fb",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/07102022",
+        "entity_id": "4954",
+        "source_service_code": "FM",
+        "callsign": "WZUM-FM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1737977463235936300,
+        "score": 0.24995679
+      },
+      {
+        "id": "9dc51d51-1263-9ae7-4741-5769a7836e7d",
+        "file_id": "9dc51d51-1263-9ae7-4741-5769a7836e7d",
+        "file_name": "07102022",
+        "file_extension": "pdf",
+        "file_size": 71967,
+        "file_status": "com_cpy",
+        "folder_id": "aa7ffa02-b1df-b9b9-d048-070073365981",
+        "create_ts": "2022-07-10T14:46:33.203Z",
+        "last_update_ts": "2022-07-10T14:46:33.984Z",
+        "active_ind": "Y",
+        "file_manager_id": "ef3333ed-68c9-4da6-8739-d4ff5bf65d72",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/07102022",
+        "entity_id": "68903",
+        "source_service_code": "AM",
+        "callsign": "WZUM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1737977383841955800,
+        "score": 0.24995679
+      },
       {
         "id": "ed5a91de-5f75-c158-deaf-9779e3c71c29",
         "file_id": "ed5a91de-5f75-c158-deaf-9779e3c71c29",
@@ -170,48 +212,6 @@
         "callsign": "KIST-FM",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1737945842699993000,
-        "score": 0.24995679
-      },
-      {
-        "id": "39555d05-2bb0-e5e9-fe0c-539aca8308a8",
-        "file_id": "39555d05-2bb0-e5e9-fe0c-539aca8308a8",
-        "file_name": "KIST PUBLIC AFFAIR Log -LREL 06-2022",
-        "file_extension": "doc",
-        "file_size": 56320,
-        "file_status": "com_prc",
-        "folder_id": "9f6007fd-3d94-76ae-f42a-31b042e660e4",
-        "create_ts": "2022-07-10T06:24:54.608Z",
-        "last_update_ts": "2022-07-10T06:25:30.832Z",
-        "active_ind": "Y",
-        "file_manager_id": "ec8ed31a-27a1-4da4-a22f-2afe25e4dc8e",
-        "file_folder_path": "Issues and Programs Lists/2022 Public Affair Log",
-        "full_qualified_file_name": "Issues and Programs Lists/2022 Public Affair Log/KIST PUBLIC AFFAIR Log -LREL 06-2022",
-        "entity_id": "31434",
-        "source_service_code": "FM",
-        "callsign": "KIST-FM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1737945828320870400,
-        "score": 0.24995679
-      },
-      {
-        "id": "0dbbe6df-05bb-7d34-70b9-53c2facdf603",
-        "file_id": "0dbbe6df-05bb-7d34-70b9-53c2facdf603",
-        "file_name": "KIST PSAS -(06) June 22",
-        "file_extension": "xlsx",
-        "file_size": 514532,
-        "file_status": "com_prc",
-        "folder_id": "9f6007fd-3d94-76ae-f42a-31b042e660e4",
-        "create_ts": "2022-07-10T06:24:56.745Z",
-        "last_update_ts": "2022-07-10T06:25:02.055Z",
-        "active_ind": "Y",
-        "file_manager_id": "41fed19f-581c-4608-b7fd-96bdc3c52353",
-        "file_folder_path": "Issues and Programs Lists/2022 Public Affair Log",
-        "full_qualified_file_name": "Issues and Programs Lists/2022 Public Affair Log/KIST PSAS -(06) June 22",
-        "entity_id": "31434",
-        "source_service_code": "FM",
-        "callsign": "KIST-FM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1737945830151684000,
         "score": 0.24995679
       }
     ],
@@ -404,7 +404,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63688,
-        "Issues and Programs Lists": 47358,
+        "Issues and Programs Lists": 47360,
         "Equal Employment Opportunity Records": 37679,
         "Donor Lists - Applicable Only for NCEs": 12355,
         "FCC Authorizations": 7496,
@@ -435,8 +435,8 @@
       "source_service_code": {
         "TV": 257781,
         "CABLE": 132871,
-        "FM": 123033,
-        "AM": 47597,
+        "FM": 123034,
+        "AM": 47598,
         "DBS": 6546
       },
       "political_file_type": {
@@ -457,8 +457,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 219,
-    "processTime": 226,
-    "responseTime": 227
+    "queryTime": 1895,
+    "processTime": 903,
+    "responseTime": 1904
   }
 }
