@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 567840,
+    "numFound": 567841,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "c3af11dc-7706-dc60-b739-198a0fa487d1",
+        "file_id": "c3af11dc-7706-dc60-b739-198a0fa487d1",
+        "file_name": "QUARTER 2 - 2022 Issues and Programs  - Quarter 01",
+        "file_extension": "pdf",
+        "file_size": 91059,
+        "file_status": "com_cpy",
+        "folder_id": "927a0fc4-91ac-62cf-4790-15c05d63e5a8",
+        "create_ts": "2022-07-10T16:41:15.442Z",
+        "last_update_ts": "2022-07-10T16:40:58.465Z",
+        "active_ind": "Y",
+        "file_manager_id": "623a9b21-7e0c-463e-9c09-2a81b3ff18ef",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/QUARTER 2 - 2022 Issues and Programs  - Quarter 01",
+        "entity_id": "175288",
+        "source_service_code": "FM",
+        "callsign": "KHOI",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1737984600359043000,
+        "score": 0.24995679
+      },
       {
         "id": "a755087d-215e-1c77-6f99-974ca98ab7b4",
         "file_id": "a755087d-215e-1c77-6f99-974ca98ab7b4",
@@ -198,29 +219,6 @@
         "campaign_year": "2022",
         "_version_": 1737980328440496000,
         "score": 0.24995679
-      },
-      {
-        "id": "8c394047-ab9d-d296-e2fa-3d97756d3221",
-        "file_id": "8c394047-ab9d-d296-e2fa-3d97756d3221",
-        "file_name": "Amanda Worley WAEW (071122)",
-        "file_extension": "pdf",
-        "file_size": 2021160,
-        "file_status": "com_cpy",
-        "folder_id": "33969fc0-97c3-3f54-78d4-ea64f2d9c2f8",
-        "create_ts": "2022-07-10T15:32:34.099Z",
-        "last_update_ts": "2022-07-10T15:32:17.849Z",
-        "active_ind": "Y",
-        "file_manager_id": "14e4d8ad-838a-46fb-ac8b-54531552e7c9",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Amanda Worley WAEW (071122)",
-        "entity_id": "14619",
-        "source_service_code": "AM",
-        "callsign": "WAEW",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1737980279566368800,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -412,7 +410,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63688,
-        "Issues and Programs Lists": 47366,
+        "Issues and Programs Lists": 47367,
         "Equal Employment Opportunity Records": 37679,
         "Donor Lists - Applicable Only for NCEs": 12355,
         "FCC Authorizations": 7496,
@@ -443,7 +441,7 @@
       "source_service_code": {
         "TV": 257781,
         "CABLE": 132871,
-        "FM": 123036,
+        "FM": 123037,
         "AM": 47606,
         "DBS": 6546
       },
@@ -465,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 221,
-    "processTime": 228,
-    "responseTime": 229
+    "queryTime": 1854,
+    "processTime": 863,
+    "responseTime": 1863
   }
 }
