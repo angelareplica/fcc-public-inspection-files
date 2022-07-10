@@ -457,8 +457,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 221,
-    "processTime": 229,
-    "responseTime": 230
+    "queryTime": 220,
+    "processTime": 227,
+    "responseTime": 227
   }
 }
