@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 567827,
+    "numFound": 567828,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "ed5a91de-5f75-c158-deaf-9779e3c71c29",
+        "file_id": "ed5a91de-5f75-c158-deaf-9779e3c71c29",
+        "file_name": "InfoTrak quarterly report, 2022-02_29.5 min",
+        "file_extension": "pdf",
+        "file_size": 174386,
+        "file_status": "com_cpy",
+        "folder_id": "907c29a3-c9ef-8b2e-2777-da73a57ac49f",
+        "create_ts": "2022-07-10T13:49:07.226Z",
+        "last_update_ts": "2022-07-10T13:50:52.295Z",
+        "active_ind": "Y",
+        "file_manager_id": "d7664011-1f1b-4a4d-936f-c17af0e03ca5",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/InfoTrak quarterly report, 2022-02_29.5 min",
+        "entity_id": "70890",
+        "source_service_code": "AM",
+        "callsign": "WMCR",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1737973847021322200,
+        "score": 0.24995679
+      },
       {
         "id": "7f2aa0b8-1e20-f628-1f1a-e5c1c2136a54",
         "file_id": "7f2aa0b8-1e20-f628-1f1a-e5c1c2136a54",
@@ -191,27 +212,6 @@
         "callsign": "KIST-FM",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1737945830151684000,
-        "score": 0.24995679
-      },
-      {
-        "id": "712fd92a-73f5-24e1-b1f3-a84008cdcea7",
-        "file_id": "712fd92a-73f5-24e1-b1f3-a84008cdcea7",
-        "file_name": "KIST PSAS -(05) May 22",
-        "file_extension": "xlsx",
-        "file_size": 513154,
-        "file_status": "com_prc",
-        "folder_id": "9f6007fd-3d94-76ae-f42a-31b042e660e4",
-        "create_ts": "2022-07-10T06:24:56.743Z",
-        "last_update_ts": "2022-07-10T06:25:00.456Z",
-        "active_ind": "Y",
-        "file_manager_id": "0314f368-960b-489f-a72c-6238df1ca6c6",
-        "file_folder_path": "Issues and Programs Lists/2022 Public Affair Log",
-        "full_qualified_file_name": "Issues and Programs Lists/2022 Public Affair Log/KIST PSAS -(05) May 22",
-        "entity_id": "31434",
-        "source_service_code": "FM",
-        "callsign": "KIST-FM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1737945828471865300,
         "score": 0.24995679
       }
     ],
@@ -404,7 +404,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63688,
-        "Issues and Programs Lists": 47357,
+        "Issues and Programs Lists": 47358,
         "Equal Employment Opportunity Records": 37679,
         "Donor Lists - Applicable Only for NCEs": 12355,
         "FCC Authorizations": 7496,
@@ -436,7 +436,7 @@
         "TV": 257781,
         "CABLE": 132871,
         "FM": 123033,
-        "AM": 47596,
+        "AM": 47597,
         "DBS": 6546
       },
       "political_file_type": {
@@ -457,8 +457,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 221,
-    "processTime": 230,
-    "responseTime": 230
+    "queryTime": 1975,
+    "processTime": 982,
+    "responseTime": 1983
   }
 }
