@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 567807,
+    "numFound": 567808,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "f24d1afd-442b-eebe-ef0b-c53cc75143e1",
+        "file_id": "f24d1afd-442b-eebe-ef0b-c53cc75143e1",
+        "file_name": "Issues and Programs List 2022-06",
+        "file_extension": "pdf",
+        "file_size": 163901,
+        "file_status": "com_cpy",
+        "folder_id": "f392df6b-07d5-7b27-5794-5caa88d128be",
+        "create_ts": "2022-07-10T03:41:24.279Z",
+        "last_update_ts": "2022-07-10T03:41:55.38Z",
+        "active_ind": "Y",
+        "file_manager_id": "6b05a771-343a-40a3-a07e-b9e38c4890a2",
+        "file_folder_path": "Issues and Programs Lists/2022",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/Issues and Programs List 2022-06",
+        "entity_id": "41820",
+        "source_service_code": "AM",
+        "callsign": "KLFD",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1737935536372318200,
+        "score": 0.24995679
+      },
       {
         "id": "a30a5166-b018-7bb1-bfe9-c72d59ed987d",
         "file_id": "a30a5166-b018-7bb1-bfe9-c72d59ed987d",
@@ -191,27 +212,6 @@
         "callsign": "KCEL",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1737929048960532500,
-        "score": 0.24995679
-      },
-      {
-        "id": "d1f85f1d-a3b7-84e6-b341-2a21c27715b0",
-        "file_id": "d1f85f1d-a3b7-84e6-b341-2a21c27715b0",
-        "file_name": "KCEL PSAs -05.2022",
-        "file_extension": "xls",
-        "file_size": 41984,
-        "file_status": "com_prc",
-        "folder_id": "94236c45-65f0-ffc6-14c9-c5962f69a24d",
-        "create_ts": "2022-07-10T01:58:11.037Z",
-        "last_update_ts": "2022-07-10T01:58:43.264Z",
-        "active_ind": "Y",
-        "file_manager_id": "6d6209e1-ab56-4595-b305-76118ac2a35e",
-        "file_folder_path": "Issues and Programs Lists/2022 Public Affair Log",
-        "full_qualified_file_name": "Issues and Programs Lists/2022 Public Affair Log/KCEL PSAs -05.2022",
-        "entity_id": "164156",
-        "source_service_code": "FM",
-        "callsign": "KCEL",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1737929043653689300,
         "score": 0.24995679
       }
     ],
@@ -404,7 +404,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63688,
-        "Issues and Programs Lists": 47337,
+        "Issues and Programs Lists": 47338,
         "Equal Employment Opportunity Records": 37679,
         "Donor Lists - Applicable Only for NCEs": 12355,
         "FCC Authorizations": 7496,
@@ -436,7 +436,7 @@
         "TV": 257781,
         "CABLE": 132871,
         "FM": 123020,
-        "AM": 47589,
+        "AM": 47590,
         "DBS": 6546
       },
       "political_file_type": {
@@ -458,7 +458,7 @@
     "status": 200,
     "type": "OK",
     "queryTime": 221,
-    "processTime": 227,
-    "responseTime": 228
+    "processTime": 229,
+    "responseTime": 230
   }
 }
