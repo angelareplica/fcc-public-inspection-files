@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 567978,
+    "numFound": 567961,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "31f1547d-1d2c-91c0-da07-cbbed41f1a64",
+        "file_id": "31f1547d-1d2c-91c0-da07-cbbed41f1a64",
+        "file_name": "Kunce for US Senate_PFD Accepted_07-08-2022",
+        "file_extension": "pdf",
+        "file_size": 61895,
+        "file_status": "com_cpy",
+        "folder_id": "91bbea67-b4f2-4909-22b9-49b1d3ff2dbc",
+        "create_ts": "2022-07-10T23:04:04.104Z",
+        "last_update_ts": "2022-07-10T23:04:04.892Z",
+        "active_ind": "Y",
+        "file_manager_id": "67519dd8-2afc-4599-b1a7-63c98eb7d786",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Lucas Kunce",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Lucas Kunce/Kunce for US Senate_PFD Accepted_07-08-2022",
+        "entity_id": "59444",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "KANSAS CITY",
+        "callsign": "KSHB-TV",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1738008684823314400,
+        "score": 0.24995679
+      },
       {
         "id": "3b283ce8-b2f1-3c28-b525-92810004129b",
         "file_id": "3b283ce8-b2f1-3c28-b525-92810004129b",
@@ -194,31 +219,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1737997614936227800,
         "score": 0.24995679
-      },
-      {
-        "id": "78353353-64cf-7d3b-b077-48ea22cbab43",
-        "file_id": "78353353-64cf-7d3b-b077-48ea22cbab43",
-        "file_name": "Balint - D - Congress - WPTZ -06-14-2022 - INVOICE",
-        "file_extension": "pdf",
-        "file_size": 141747,
-        "file_status": "com_cpy",
-        "folder_id": "73d26b05-1395-8a0c-1650-637296675156",
-        "create_ts": "2022-07-10T19:44:03.544Z",
-        "last_update_ts": "2022-07-10T19:43:46.615Z",
-        "active_ind": "Y",
-        "file_manager_id": "72da4096-8dae-4098-946a-03c8c9c078e7",
-        "file_folder_path": "Political Files/2022/Federal/US House/Vermont/Becca Balint",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Vermont/Becca Balint/Balint - D - Congress - WPTZ -06-14-2022 - INVOICE",
-        "entity_id": "57476",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "BURLINGTON-PLATTSBURGH",
-        "callsign": "WPTZ",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1737996101333549000,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -250,7 +250,7 @@
         "SAVANNAH": 2908,
         "BIRMINGHAM (ANN TUSC)": 2792,
         "QUINCY-HANNIBAL-KEOKUK": 2776,
-        "KANSAS CITY": 2774,
+        "KANSAS CITY": 2775,
         "FT. WAYNE": 2730,
         "MILWAUKEE": 2659,
         "GREENSBORO-H.POINT-W.SALEM": 2561,
@@ -278,7 +278,7 @@
         "FARGO-VALLEY CITY": 1455,
         "LITTLE ROCK-PINE BLUFF": 1447,
         "PROVIDENCE-NEW BEDFORD": 1441,
-        "MINOT-BISMARCK-DICKINSON": 1426,
+        "MINOT-BISMARCK-DICKINSON": 1408,
         "GREEN BAY-APPLETON": 1390,
         "CHATTANOOGA": 1381,
         "MIAMI-FT. LAUDERDALE": 1305,
@@ -326,8 +326,8 @@
       },
       "network_affiliation": {
         "ABC": 64534,
-        "NBC": 60989,
-        "CBS": 42706,
+        "NBC": 60990,
+        "CBS": 42688,
         "FOX": 30641,
         "PBS": 15014,
         "CW": 12423,
@@ -395,15 +395,15 @@
         "2017": 10303,
         "2018": 67564,
         "2019": 13891,
-        "2020": 124441,
+        "2020": 124423,
         "2021": 22737,
-        "2022": 48767,
+        "2022": 48768,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 81731,
-        "US Senate": 53441,
+        "US Senate": 53442,
         "US House": 46867,
         "Presidential": 37920,
         "Local": 28116
@@ -439,15 +439,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 257797,
+        "TV": 257780,
         "CABLE": 132871,
         "FM": 123143,
         "AM": 47621,
         "DBS": 6546
       },
       "political_file_type": {
-        "PA": 249683,
-        "NCIA": 135820
+        "PA": 249684,
+        "NCIA": 135802
       }
     }
   },
@@ -463,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 216,
-    "processTime": 226,
-    "responseTime": 226
+    "queryTime": 1896,
+    "processTime": 905,
+    "responseTime": 1906
   }
 }
