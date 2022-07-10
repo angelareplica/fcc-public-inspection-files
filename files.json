@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 567961,
+    "numFound": 567942,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
@@ -278,8 +278,8 @@
         "FARGO-VALLEY CITY": 1455,
         "LITTLE ROCK-PINE BLUFF": 1447,
         "PROVIDENCE-NEW BEDFORD": 1441,
-        "MINOT-BISMARCK-DICKINSON": 1408,
         "GREEN BAY-APPLETON": 1390,
+        "MINOT-BISMARCK-DICKINSON": 1389,
         "CHATTANOOGA": 1381,
         "MIAMI-FT. LAUDERDALE": 1305,
         "ANCHORAGE": 1300,
@@ -327,7 +327,7 @@
       "network_affiliation": {
         "ABC": 64534,
         "NBC": 60990,
-        "CBS": 42688,
+        "CBS": 42669,
         "FOX": 30641,
         "PBS": 15014,
         "CW": 12423,
@@ -395,7 +395,7 @@
         "2017": 10303,
         "2018": 67564,
         "2019": 13891,
-        "2020": 124423,
+        "2020": 124404,
         "2021": 22737,
         "2022": 48768,
         "KYAZ": 5,
@@ -439,7 +439,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 257780,
+        "TV": 257761,
         "CABLE": 132871,
         "FM": 123143,
         "AM": 47621,
@@ -447,7 +447,7 @@
       },
       "political_file_type": {
         "PA": 249684,
-        "NCIA": 135802
+        "NCIA": 135783
       }
     }
   },
@@ -463,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1896,
-    "processTime": 905,
-    "responseTime": 1906
+    "queryTime": 1889,
+    "processTime": 899,
+    "responseTime": 1899
   }
 }
