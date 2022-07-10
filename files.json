@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 567968,
+    "numFound": 567970,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "1adb148b-6693-b08e-7c8d-a5ee6e2a3fa5",
+        "file_id": "1adb148b-6693-b08e-7c8d-a5ee6e2a3fa5",
+        "file_name": "KFSD 2nd QTR 04.2022 TO 06.2022.pdf",
+        "file_extension": "docx",
+        "file_size": 27393,
+        "file_status": "com_prc",
+        "folder_id": "d0fc36f5-0926-2d3f-34a0-5b3292b333eb",
+        "create_ts": "2022-07-10T20:06:47.788Z",
+        "last_update_ts": "2022-07-10T20:08:39.786Z",
+        "active_ind": "Y",
+        "file_manager_id": "dc2b4b8f-c281-40af-8907-d0df206512a6",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/KFSD 2nd QTR 04.2022 TO 06.2022.pdf",
+        "entity_id": "49205",
+        "source_service_code": "AM",
+        "callsign": "KFSD",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1737997614936227800,
+        "score": 0.24995679
+      },
+      {
+        "id": "78353353-64cf-7d3b-b077-48ea22cbab43",
+        "file_id": "78353353-64cf-7d3b-b077-48ea22cbab43",
+        "file_name": "Balint - D - Congress - WPTZ -06-14-2022 - INVOICE",
+        "file_extension": "pdf",
+        "file_size": 141747,
+        "file_status": "com_cpy",
+        "folder_id": "73d26b05-1395-8a0c-1650-637296675156",
+        "create_ts": "2022-07-10T19:44:03.544Z",
+        "last_update_ts": "2022-07-10T19:43:46.615Z",
+        "active_ind": "Y",
+        "file_manager_id": "72da4096-8dae-4098-946a-03c8c9c078e7",
+        "file_folder_path": "Political Files/2022/Federal/US House/Vermont/Becca Balint",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Vermont/Becca Balint/Balint - D - Congress - WPTZ -06-14-2022 - INVOICE",
+        "entity_id": "57476",
+        "source_service_code": "TV",
+        "network_affiliation": "NBC",
+        "nielsen_dma_rank": "BURLINGTON-PLATTSBURGH",
+        "callsign": "WPTZ",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1737996101333549000,
+        "score": 0.24995679
+      },
       {
         "id": "2a6393ce-37b8-d547-b21f-835f7184530f",
         "file_id": "2a6393ce-37b8-d547-b21f-835f7184530f",
@@ -187,52 +233,6 @@
         "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
         "_version_": 1737994347547197400,
         "score": 0.24995679
-      },
-      {
-        "id": "6831c52d-c52e-c21c-6b5d-a23934656a90",
-        "file_id": "6831c52d-c52e-c21c-6b5d-a23934656a90",
-        "file_name": "APT Funders List Updated as of 070622",
-        "file_extension": "pdf",
-        "file_size": 765599,
-        "file_status": "com_cpy",
-        "folder_id": "829d5365-45cd-53f4-db71-5d7d70d290c5",
-        "create_ts": "2022-07-10T19:16:09.335Z",
-        "last_update_ts": "2022-07-10T19:16:42.35Z",
-        "active_ind": "Y",
-        "file_manager_id": "b6aa25d1-ea4e-45cb-947f-2261adb304b3",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/APT Reports",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/APT Reports/APT Funders List Updated as of 070622",
-        "entity_id": "50591",
-        "source_service_code": "TV",
-        "network_affiliation": "PBS",
-        "nielsen_dma_rank": "EUGENE",
-        "callsign": "KEPB-TV",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1737994346156785700,
-        "score": 0.24995679
-      },
-      {
-        "id": "d75c30a7-3e06-fa32-3162-52740da1a3f6",
-        "file_id": "d75c30a7-3e06-fa32-3162-52740da1a3f6",
-        "file_name": "APT Funders List Updated as of 070622",
-        "file_extension": "pdf",
-        "file_size": 765599,
-        "file_status": "com_cpy",
-        "folder_id": "fc77dc54-6710-4e8b-6616-fbeaae0487ed",
-        "create_ts": "2022-07-10T19:16:07.585Z",
-        "last_update_ts": "2022-07-10T19:16:40.72Z",
-        "active_ind": "Y",
-        "file_manager_id": "b0fe35d7-4d00-4e8b-a423-6c07439e2391",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/APT Reports",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/APT Reports/APT Funders List Updated as of 070622",
-        "entity_id": "50588",
-        "source_service_code": "TV",
-        "network_affiliation": "PBS",
-        "nielsen_dma_rank": "BEND OR",
-        "callsign": "KOAB-TV",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1737994344449704000,
-        "score": 0.24995679
       }
     ],
     "facets": {
@@ -288,7 +288,7 @@
         "PHOENIX (PRESCOTT)": 1624,
         "BINGHAMTON": 1617,
         "GREENVLL-SPART-ASHEVLL-AND": 1559,
-        "BURLINGTON-PLATTSBURGH": 1548,
+        "BURLINGTON-PLATTSBURGH": 1549,
         "FARGO-VALLEY CITY": 1455,
         "LITTLE ROCK-PINE BLUFF": 1447,
         "PROVIDENCE-NEW BEDFORD": 1441,
@@ -340,7 +340,7 @@
       },
       "network_affiliation": {
         "ABC": 64534,
-        "NBC": 60988,
+        "NBC": 60989,
         "CBS": 42706,
         "FOX": 30641,
         "PBS": 15014,
@@ -411,20 +411,20 @@
         "2019": 13891,
         "2020": 124441,
         "2021": 22737,
-        "2022": 48764,
+        "2022": 48765,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 81731,
         "US Senate": 53441,
-        "US House": 46866,
+        "US House": 46867,
         "Presidential": 37920,
         "Local": 28116
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63688,
-        "Issues and Programs Lists": 47388,
+        "Issues and Programs Lists": 47389,
         "Equal Employment Opportunity Records": 37679,
         "Donor Lists - Applicable Only for NCEs": 12461,
         "FCC Authorizations": 7496,
@@ -453,14 +453,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 257796,
+        "TV": 257797,
         "CABLE": 132871,
         "FM": 123135,
-        "AM": 47620,
+        "AM": 47621,
         "DBS": 6546
       },
       "political_file_type": {
-        "PA": 249682,
+        "PA": 249683,
         "NCIA": 135818
       }
     }
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1896,
-    "processTime": 906,
-    "responseTime": 1906
+    "queryTime": 1890,
+    "processTime": 899,
+    "responseTime": 1899
   }
 }
