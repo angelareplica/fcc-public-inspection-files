@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 567976,
+    "numFound": 567978,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "3b283ce8-b2f1-3c28-b525-92810004129b",
+        "file_id": "3b283ce8-b2f1-3c28-b525-92810004129b",
+        "file_name": "WMXI-FM LOG - THE DAN BONGINO SHOW - WWO - 2022-07-04 - 2022-07-10",
+        "file_extension": "pdf",
+        "file_size": 1470766,
+        "file_status": "com_cpy",
+        "folder_id": "132b62b0-220f-d037-aaaf-e26ff3768c16",
+        "create_ts": "2022-07-10T22:40:06.432Z",
+        "last_update_ts": "2022-07-10T22:40:40.17Z",
+        "active_ind": "Y",
+        "file_manager_id": "489506b1-552c-4ad8-aae6-b28e32c9b953",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance/WMXI-FM LOG - THE DAN BONGINO SHOW - WWO - 2022-07-04 - 2022-07-10",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1738007178093002800,
+        "score": 0.24995679
+      },
+      {
+        "id": "ccc20b1d-c9ae-c287-4ac8-8da883853ae0",
+        "file_id": "ccc20b1d-c9ae-c287-4ac8-8da883853ae0",
+        "file_name": "WMXI-FM LOG - CLS MARK LEVIN - WWO - 2022-07-04 - 2022-07-10",
+        "file_extension": "pdf",
+        "file_size": 1646248,
+        "file_status": "com_cpy",
+        "folder_id": "132b62b0-220f-d037-aaaf-e26ff3768c16",
+        "create_ts": "2022-07-10T22:40:06.662Z",
+        "last_update_ts": "2022-07-10T22:39:50.243Z",
+        "active_ind": "Y",
+        "file_manager_id": "64516e5b-7e3a-4a72-9a30-b2e49a599ec6",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance/WMXI-FM LOG - CLS MARK LEVIN - WWO - 2022-07-04 - 2022-07-10",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1738007178137043000,
+        "score": 0.24995679
+      },
       {
         "id": "2f60616c-e276-8616-e721-3a50ef013dec",
         "file_id": "2f60616c-e276-8616-e721-3a50ef013dec",
@@ -174,52 +218,6 @@
         "office_type": "US House",
         "campaign_year": "2022",
         "_version_": 1737996101333549000,
-        "score": 0.24995679
-      },
-      {
-        "id": "2a6393ce-37b8-d547-b21f-835f7184530f",
-        "file_id": "2a6393ce-37b8-d547-b21f-835f7184530f",
-        "file_name": "Local Productions_060122-063022",
-        "file_extension": "pdf",
-        "file_size": 46668,
-        "file_status": "com_cpy",
-        "folder_id": "57bc1e8b-f25c-3e5b-2621-e27cb2011f71",
-        "create_ts": "2022-07-10T19:19:01.916Z",
-        "last_update_ts": "2022-07-10T19:19:34.576Z",
-        "active_ind": "Y",
-        "file_manager_id": "f3b869b3-cde7-4dd8-a7a5-1efc5b1d2d58",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/Local Productions",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/Local Productions/Local Productions_060122-063022",
-        "entity_id": "50592",
-        "source_service_code": "TV",
-        "network_affiliation": "PBS",
-        "nielsen_dma_rank": "PORTLAND OR",
-        "callsign": "KTVR",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1737994526741495800,
-        "score": 0.24995679
-      },
-      {
-        "id": "12f60abc-50a8-4069-13b5-6f6d4005dcb4",
-        "file_id": "12f60abc-50a8-4069-13b5-6f6d4005dcb4",
-        "file_name": "Local Productions_060122-063022",
-        "file_extension": "pdf",
-        "file_size": 46668,
-        "file_status": "com_cpy",
-        "folder_id": "561839ce-fb49-4a4b-4328-1ef447d72841",
-        "create_ts": "2022-07-10T19:19:00.38Z",
-        "last_update_ts": "2022-07-10T19:19:32.995Z",
-        "active_ind": "Y",
-        "file_manager_id": "7d74feb4-d6b6-41c5-938c-7d4a0a0272ac",
-        "file_folder_path": "Donor Lists - Applicable Only for NCEs/Local Productions",
-        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/Local Productions/Local Productions_060122-063022",
-        "entity_id": "50591",
-        "source_service_code": "TV",
-        "network_affiliation": "PBS",
-        "nielsen_dma_rank": "EUGENE",
-        "callsign": "KEPB-TV",
-        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
-        "_version_": 1737994525083697200,
         "score": 0.24995679
       }
     ],
@@ -399,7 +397,7 @@
         "2019": 13891,
         "2020": 124441,
         "2021": 22737,
-        "2022": 48765,
+        "2022": 48767,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -443,13 +441,13 @@
       "source_service_code": {
         "TV": 257797,
         "CABLE": 132871,
-        "FM": 123141,
+        "FM": 123143,
         "AM": 47621,
         "DBS": 6546
       },
       "political_file_type": {
         "PA": 249683,
-        "NCIA": 135818
+        "NCIA": 135820
       }
     }
   },
@@ -465,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1902,
-    "processTime": 913,
-    "responseTime": 1914
+    "queryTime": 216,
+    "processTime": 226,
+    "responseTime": 226
   }
 }
