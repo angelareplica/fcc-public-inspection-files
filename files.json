@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 567935,
+    "numFound": 567936,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "01a475b9-7d82-7e57-abf0-1de0b0ac0730",
+        "file_id": "01a475b9-7d82-7e57-abf0-1de0b0ac0730",
+        "file_name": "202204-06_Community_Issue",
+        "file_extension": "pdf",
+        "file_size": 821320,
+        "file_status": "com_cpy",
+        "folder_id": "c1706bf7-75c9-f418-5513-dea9941b077f",
+        "create_ts": "2022-07-11T05:25:52.944Z",
+        "last_update_ts": "2022-07-11T05:25:36.226Z",
+        "active_ind": "Y",
+        "file_manager_id": "2801377e-b27f-4274-993b-43defc75cb8f",
+        "file_folder_path": "Issues and Programs Lists/2022 IP",
+        "full_qualified_file_name": "Issues and Programs Lists/2022 IP/202204-06_Community_Issue",
+        "entity_id": "176877",
+        "source_service_code": "FM",
+        "callsign": "KSDQ",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1738032706834399200,
+        "score": 0.24995679
+      },
       {
         "id": "263c0441-8058-99ac-63ce-0954bde327e6",
         "file_id": "263c0441-8058-99ac-63ce-0954bde327e6",
@@ -194,29 +215,6 @@
         "political_file_type": "PA",
         "campaign_year": "2022",
         "_version_": 1738012055029416000,
-        "score": 0.24995679
-      },
-      {
-        "id": "766aae16-360c-519e-5df9-164c69074b59",
-        "file_id": "766aae16-360c-519e-5df9-164c69074b59",
-        "file_name": "1657396029176_Red Right Media - Cheney for Wyoming NAB  Signed 07092022",
-        "file_extension": "pdf",
-        "file_size": 153832,
-        "file_status": "com_cpy",
-        "folder_id": "1f414add-5b55-47b3-601d-c149e6032d5e",
-        "create_ts": "2022-07-10T23:46:14.182Z",
-        "last_update_ts": "2022-07-10T23:45:57.321Z",
-        "active_ind": "Y",
-        "file_manager_id": "231fa325-3469-4d27-b483-1a36bca7bf09",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/1657396029176_Red Right Media - Cheney for Wyoming NAB  Signed 07092022",
-        "entity_id": "43477",
-        "source_service_code": "FM",
-        "callsign": "KASS",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1738011337926115300,
         "score": 0.24995679
       }
     ],
@@ -409,7 +407,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63688,
-        "Issues and Programs Lists": 47403,
+        "Issues and Programs Lists": 47404,
         "Equal Employment Opportunity Records": 37679,
         "Donor Lists - Applicable Only for NCEs": 12461,
         "FCC Authorizations": 7496,
@@ -440,7 +438,7 @@
       "source_service_code": {
         "TV": 257744,
         "CABLE": 132871,
-        "FM": 123152,
+        "FM": 123153,
         "AM": 47622,
         "DBS": 6546
       },
@@ -462,8 +460,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1852,
-    "processTime": 861,
-    "responseTime": 1861
+    "queryTime": 1845,
+    "processTime": 852,
+    "responseTime": 1852
   }
 }
