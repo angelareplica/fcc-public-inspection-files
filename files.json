@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 567936,
+    "numFound": 567937,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "285b4955-60c1-22e2-d022-209c0c074bd3",
+        "file_id": "285b4955-60c1-22e2-d022-209c0c074bd3",
+        "file_name": "KROH_Issues_and_Programs_List_07-05-2022",
+        "file_extension": "pdf",
+        "file_size": 373126,
+        "file_status": "com_cpy",
+        "folder_id": "fe79fa5a-5e33-10fe-5d60-60e6f69aa61a",
+        "create_ts": "2022-07-11T06:12:09.337Z",
+        "last_update_ts": "2022-07-11T06:13:56.909Z",
+        "active_ind": "Y",
+        "file_manager_id": "f00b7821-c947-4c95-b8ad-4d01d80068a2",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/KROH_Issues_and_Programs_List_07-05-2022",
+        "entity_id": "173495",
+        "source_service_code": "FM",
+        "callsign": "KROH",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1738035729723818000,
+        "score": 0.24995679
+      },
       {
         "id": "01a475b9-7d82-7e57-abf0-1de0b0ac0730",
         "file_id": "01a475b9-7d82-7e57-abf0-1de0b0ac0730",
@@ -191,30 +212,6 @@
         "callsign": "WTBH",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1738025803879284700,
-        "score": 0.24995679
-      },
-      {
-        "id": "c760303c-8dff-42cd-b958-d68e8869a308",
-        "file_id": "c760303c-8dff-42cd-b958-d68e8869a308",
-        "file_name": "GMG Classes of Time Legend  07-07-2022 ",
-        "file_extension": "docx",
-        "file_size": 20950,
-        "file_status": "com_prc",
-        "folder_id": "96b46185-b286-25d2-542c-9b6ad7b1f506",
-        "create_ts": "2022-07-10T23:57:37.235Z",
-        "last_update_ts": "2022-07-10T23:57:38.971Z",
-        "active_ind": "Y",
-        "file_manager_id": "e4b9ddc7-5728-4763-b052-b4d8c6b2de61",
-        "file_folder_path": "Political Files/2022/Terms and Disclosures",
-        "full_qualified_file_name": "Political Files/2022/Terms and Disclosures/GMG Classes of Time Legend  07-07-2022 ",
-        "entity_id": "53117",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "HOUSTON",
-        "callsign": "KPRC-TV",
-        "political_file_type": "PA",
-        "campaign_year": "2022",
-        "_version_": 1738012055029416000,
         "score": 0.24995679
       }
     ],
@@ -407,7 +404,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63688,
-        "Issues and Programs Lists": 47404,
+        "Issues and Programs Lists": 47405,
         "Equal Employment Opportunity Records": 37679,
         "Donor Lists - Applicable Only for NCEs": 12461,
         "FCC Authorizations": 7496,
@@ -438,7 +435,7 @@
       "source_service_code": {
         "TV": 257744,
         "CABLE": 132871,
-        "FM": 123153,
+        "FM": 123154,
         "AM": 47622,
         "DBS": 6546
       },
@@ -460,8 +457,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1930,
-    "processTime": 938,
-    "responseTime": 1939
+    "queryTime": 1896,
+    "processTime": 904,
+    "responseTime": 1905
   }
 }
