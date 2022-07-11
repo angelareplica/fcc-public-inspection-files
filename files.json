@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 567927,
+    "numFound": 567929,
     "start": 0,
     "maxScore": 0.50016356,
     "docs": [
+      {
+        "id": "544b567f-c6a5-db41-f7bd-ae8d0fc24d4d",
+        "file_id": "544b567f-c6a5-db41-f7bd-ae8d0fc24d4d",
+        "file_name": "FCC QUARTERLY REPORT APRIL 01 2022 TO JUN 30, 2022",
+        "file_extension": "docx",
+        "file_size": 24939,
+        "file_status": "com_prc",
+        "folder_id": "173c6eb8-97ac-9d65-73e7-1f5aafed3a43",
+        "create_ts": "2022-07-11T03:45:17.766Z",
+        "last_update_ts": "2022-07-11T03:45:03.552Z",
+        "active_ind": "Y",
+        "file_manager_id": "63e68b9b-b953-4720-9ad9-c048fb9c2c16",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/FCC QUARTERLY REPORT APRIL 01 2022 TO JUN 30, 2022",
+        "entity_id": "36185",
+        "source_service_code": "AM",
+        "callsign": "KZUE",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1738026381096255500,
+        "score": 0.24995679
+      },
+      {
+        "id": "e2d91655-3954-ba48-b29e-3f4b5d4ad959",
+        "file_id": "e2d91655-3954-ba48-b29e-3f4b5d4ad959",
+        "file_name": "WTBH Issues-Programs List (2nd Quarter Apr 1 thru June 30, 2022)-071022",
+        "file_extension": "docx",
+        "file_size": 30483,
+        "file_status": "com_prc",
+        "folder_id": "9e460555-0c00-355a-2eef-f50f86fc7ca2",
+        "create_ts": "2022-07-11T03:36:07.088Z",
+        "last_update_ts": "2022-07-11T03:36:10.897Z",
+        "active_ind": "Y",
+        "file_manager_id": "5f2d965d-0788-482e-9c6a-4201c155e5a2",
+        "file_folder_path": "Issues and Programs Lists",
+        "full_qualified_file_name": "Issues and Programs Lists/WTBH Issues-Programs List (2nd Quarter Apr 1 thru June 30, 2022)-071022",
+        "entity_id": "38349",
+        "source_service_code": "FM",
+        "callsign": "WTBH",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1738025803879284700,
+        "score": 0.24995679
+      },
       {
         "id": "c760303c-8dff-42cd-b958-d68e8869a308",
         "file_id": "c760303c-8dff-42cd-b958-d68e8869a308",
@@ -183,48 +225,6 @@
         "callsign": "WJZR",
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1738006039683399700,
-        "score": 0.24995679
-      },
-      {
-        "id": "87778070-8af1-3835-ae25-c9b1599fefd3",
-        "file_id": "87778070-8af1-3835-ae25-c9b1599fefd3",
-        "file_name": "03 WJZR AG_220401_220630_PgmContents",
-        "file_extension": "pdf",
-        "file_size": 48654,
-        "file_status": "com_cpy",
-        "folder_id": "85099fd1-606d-c911-978f-41a71b5bcc2b",
-        "create_ts": "2022-07-10T22:22:01.18Z",
-        "last_update_ts": "2022-07-10T22:22:34.128Z",
-        "active_ind": "Y",
-        "file_manager_id": "b331b9a2-68e9-4734-89b6-c29422b7431f",
-        "file_folder_path": "Issues and Programs Lists/WJZR Issues and Programs 2022/Q2 2022",
-        "full_qualified_file_name": "Issues and Programs Lists/WJZR Issues and Programs 2022/Q2 2022/03 WJZR AG_220401_220630_PgmContents",
-        "entity_id": "49193",
-        "source_service_code": "FM",
-        "callsign": "WJZR",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1738006039316398000,
-        "score": 0.24995679
-      },
-      {
-        "id": "2c5f874d-9e13-dbed-234c-b5c7a79cc8f7",
-        "file_id": "2c5f874d-9e13-dbed-234c-b5c7a79cc8f7",
-        "file_name": "01 WJZR Issues and Programs Guide 2022 Q2",
-        "file_extension": "pdf",
-        "file_size": 26766,
-        "file_status": "com_cpy",
-        "folder_id": "85099fd1-606d-c911-978f-41a71b5bcc2b",
-        "create_ts": "2022-07-10T22:22:00.803Z",
-        "last_update_ts": "2022-07-10T22:22:33.719Z",
-        "active_ind": "Y",
-        "file_manager_id": "9f9a4267-bcd4-4bfa-991e-ad98d8fa952f",
-        "file_folder_path": "Issues and Programs Lists/WJZR Issues and Programs 2022/Q2 2022",
-        "full_qualified_file_name": "Issues and Programs Lists/WJZR Issues and Programs 2022/Q2 2022/01 WJZR Issues and Programs Guide 2022 Q2",
-        "entity_id": "49193",
-        "source_service_code": "FM",
-        "callsign": "WJZR",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1738006038887530500,
         "score": 0.24995679
       }
     ],
@@ -417,7 +417,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63688,
-        "Issues and Programs Lists": 47395,
+        "Issues and Programs Lists": 47397,
         "Equal Employment Opportunity Records": 37679,
         "Donor Lists - Applicable Only for NCEs": 12461,
         "FCC Authorizations": 7496,
@@ -448,8 +448,8 @@
       "source_service_code": {
         "TV": 257744,
         "CABLE": 132871,
-        "FM": 123145,
-        "AM": 47621,
+        "FM": 123146,
+        "AM": 47622,
         "DBS": 6546
       },
       "political_file_type": {
@@ -470,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1922,
-    "processTime": 931,
-    "responseTime": 1932
+    "queryTime": 1873,
+    "processTime": 882,
+    "responseTime": 1882
   }
 }
