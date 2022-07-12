@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 569182,
+    "numFound": 569183,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "92a6d1ad-08de-7ceb-653f-279761f8d328",
+        "file_id": "92a6d1ad-08de-7ceb-653f-279761f8d328",
+        "file_name": "CHENEY FOR WYOMING US HOUSE 071122",
+        "file_extension": "pdf",
+        "file_size": 151067,
+        "file_status": "com_cpy",
+        "folder_id": "33882a9e-07ca-8878-4030-26a3aacac7b0",
+        "create_ts": "2022-07-12T03:12:28.659Z",
+        "last_update_ts": "2022-07-12T03:13:04.621Z",
+        "active_ind": "Y",
+        "file_manager_id": "809884d9-a99f-487f-89da-78629bf5f6fe",
+        "file_folder_path": "Political Files/2022/Federal/US House/CHENEY 2022",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/CHENEY 2022/CHENEY FOR WYOMING US HOUSE 071122",
+        "entity_id": "166055",
+        "source_service_code": "FM",
+        "callsign": "KCYA",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1738114910380884000,
+        "score": 0.24995676
+      },
       {
         "id": "a3c0eed9-dbc0-6ded-9eaa-96bb621c8d10",
         "file_id": "a3c0eed9-dbc0-6ded-9eaa-96bb621c8d10",
@@ -196,27 +219,6 @@
         "non_political_file_folder": "Issues and Programs Lists",
         "_version_": 1738111852259311600,
         "score": 0.24995676
-      },
-      {
-        "id": "9c54719f-015b-cbe0-142c-3d07d0ed9a71",
-        "file_id": "9c54719f-015b-cbe0-142c-3d07d0ed9a71",
-        "file_name": "FCC Public Inspection Files 2022 - Q2 #06 JUN - Local News - PMG Kauai",
-        "file_extension": "docx",
-        "file_size": 54396,
-        "file_status": "com_prc",
-        "folder_id": "c673a183-db81-ddca-8dfa-92292323ff47",
-        "create_ts": "2022-07-12T02:22:39.358Z",
-        "last_update_ts": "2022-07-12T02:23:37.88Z",
-        "active_ind": "Y",
-        "file_manager_id": "815ca472-1db5-4b22-947a-736dddfeea2b",
-        "file_folder_path": "Issues and Programs Lists/2022 Q2",
-        "full_qualified_file_name": "Issues and Programs Lists/2022 Q2/FCC Public Inspection Files 2022 - Q2 #06 JUN - Local News - PMG Kauai",
-        "entity_id": "58937",
-        "source_service_code": "FM",
-        "callsign": "KQNG-FM",
-        "non_political_file_folder": "Issues and Programs Lists",
-        "_version_": 1738111799616602000,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -395,14 +397,14 @@
         "2019": 13891,
         "2020": 124372,
         "2021": 22737,
-        "2022": 49784,
+        "2022": 49785,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 82192,
         "US Senate": 53519,
-        "US House": 46922,
+        "US House": 46923,
         "Presidential": 37913,
         "Local": 28145
       },
@@ -439,12 +441,12 @@
       "source_service_code": {
         "TV": 258138,
         "CABLE": 133493,
-        "FM": 123279,
+        "FM": 123280,
         "AM": 47707,
         "DBS": 6565
       },
       "political_file_type": {
-        "PA": 250300,
+        "PA": 250301,
         "NCIA": 136151
       }
     }
@@ -461,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1867,
-    "processTime": 874,
-    "responseTime": 1874
+    "queryTime": 1900,
+    "processTime": 908,
+    "responseTime": 1908
   }
 }
