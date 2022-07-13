@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 570012,
+    "numFound": 570014,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "93325eea-b747-7a16-1861-9b0474c73a10",
+        "file_id": "93325eea-b747-7a16-1861-9b0474c73a10",
+        "file_name": "TONY THURMOND LOA 05-05-2022",
+        "file_extension": "pdf",
+        "file_size": 352544,
+        "file_status": "com_cpy",
+        "folder_id": "34d4a5bc-1a6a-5d6a-8dc4-a8a47039c1bb",
+        "create_ts": "2022-07-13T15:35:51.584Z",
+        "last_update_ts": "2022-07-13T15:35:34.073Z",
+        "active_ind": "Y",
+        "file_manager_id": "4c09f0b0-08f3-4a72-b0c2-f5c71996aa67",
+        "file_folder_path": "Political Files/2022/State/Re-Elect Tony Thurmond for SSPI",
+        "full_qualified_file_name": "Political Files/2022/State/Re-Elect Tony Thurmond for SSPI/TONY THURMOND LOA 05-05-2022",
+        "entity_id": "34564",
+        "source_service_code": "TV",
+        "network_affiliation": "IND",
+        "nielsen_dma_rank": "SAN FRANCISCO-OAK-SAN JOSE",
+        "callsign": "KICU-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1738252277086421000,
+        "score": 0.24995676
+      },
+      {
+        "id": "61b09274-97c6-8dec-4372-c50941be5f5d",
+        "file_id": "61b09274-97c6-8dec-4372-c50941be5f5d",
+        "file_name": "KHCE 2022 DESIGNATED DONOR LIST  06-JUN",
+        "file_extension": "pdf",
+        "file_size": 780230,
+        "file_status": "com_cpy",
+        "folder_id": "9fbc04db-f766-e0af-bcc9-d611aade24a9",
+        "create_ts": "2022-07-13T15:30:47.059Z",
+        "last_update_ts": "2022-07-13T15:30:48.142Z",
+        "active_ind": "Y",
+        "file_manager_id": "ed9f28f3-9b14-47cb-bc57-eae9c86ae09c",
+        "file_folder_path": "Donor Lists - Applicable Only for NCEs",
+        "full_qualified_file_name": "Donor Lists - Applicable Only for NCEs/KHCE 2022 DESIGNATED DONOR LIST  06-JUN",
+        "entity_id": "27300",
+        "source_service_code": "TV",
+        "network_affiliation": "TRINITY BROADCASTING NETWORK",
+        "nielsen_dma_rank": "SAN ANTONIO",
+        "callsign": "KHCE-TV",
+        "non_political_file_folder": "Donor Lists - Applicable Only for NCEs",
+        "_version_": 1738251957970141200,
+        "score": 0.24995676
+      },
       {
         "id": "8d9c8acf-0e50-5768-b889-89b69aa6e01a",
         "file_id": "8d9c8acf-0e50-5768-b889-89b69aa6e01a",
@@ -189,54 +237,6 @@
         "campaign_year": "2022",
         "_version_": 1738250781208871000,
         "score": 0.24995676
-      },
-      {
-        "id": "8b64c51d-1f78-7686-456d-cac2e6577511",
-        "file_id": "8b64c51d-1f78-7686-456d-cac2e6577511",
-        "file_name": "Cyrus Western, State, House District 51, KYTI-FM, 3180-011",
-        "file_extension": "pdf",
-        "file_size": 209490,
-        "file_status": "com_cpy",
-        "folder_id": "b461b974-abf2-5ec5-4766-8847ce01af8c",
-        "create_ts": "2022-07-13T15:10:51.999Z",
-        "last_update_ts": "2022-07-13T15:10:52.731Z",
-        "active_ind": "Y",
-        "file_manager_id": "37e905bd-f7f4-4774-a7b5-f293f24bc86a",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/Cyrus Western, State, House District 51, KYTI-FM, 3180-011",
-        "entity_id": "12931",
-        "source_service_code": "FM",
-        "callsign": "KYTI",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1738250704485613600,
-        "score": 0.24995676
-      },
-      {
-        "id": "390d68d9-a7cb-cec7-ba29-e7f3c79afd6e",
-        "file_id": "390d68d9-a7cb-cec7-ba29-e7f3c79afd6e",
-        "file_name": "KSNF WILLIAM BILL WHITE ORDER 3578049 PB19 070822",
-        "file_extension": "pdf",
-        "file_size": 277487,
-        "file_status": "com_cpy",
-        "folder_id": "6591780d-4416-3ded-8c6f-6aed9137b425",
-        "create_ts": "2022-07-13T15:01:22.301Z",
-        "last_update_ts": "2022-07-13T15:01:04.717Z",
-        "active_ind": "Y",
-        "file_manager_id": "79255be4-a01d-425c-b707-82558ef072b7",
-        "file_folder_path": "Political Files/2022/State/Missouri/Senate/William Bill White",
-        "full_qualified_file_name": "Political Files/2022/State/Missouri/Senate/William Bill White/KSNF WILLIAM BILL WHITE ORDER 3578049 PB19 070822",
-        "entity_id": "67766",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "JOPLIN-PITTSBURG",
-        "callsign": "KSNF",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1738250107181072400,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -334,7 +334,7 @@
         "RENO": 716,
         "ATLANTA": 714,
         "BUFFALO": 703,
-        "SAN FRANCISCO-OAK-SAN JOSE": 695,
+        "SAN FRANCISCO-OAK-SAN JOSE": 696,
         "BANGOR": 676,
         "MONTEREY-SALINAS": 668,
         "HARTFORD & NEW HAVEN": 663,
@@ -349,7 +349,7 @@
         "FOX": 30728,
         "PBS": 15173,
         "CW": 12426,
-        "IND": 3047,
+        "IND": 3048,
         "MYTV": 2276,
         "UNIVISION": 1957,
         "MY NETWORK": 1685,
@@ -368,7 +368,7 @@
         "ABC, NBC": 236,
         "NONE": 233,
         "ETV": 218,
-        "TRINITY BROADCASTING NETWORK": 184,
+        "TRINITY BROADCASTING NETWORK": 185,
         "NBC & CW (DIGITAL ONLY)": 162,
         "Independent": 157,
         "MeTV": 136,
@@ -415,12 +415,12 @@
         "2019": 13891,
         "2020": 124353,
         "2021": 22740,
-        "2022": 50621,
+        "2022": 50622,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 82413,
+        "State": 82414,
         "US Senate": 53542,
         "US House": 46973,
         "Presidential": 37907,
@@ -430,7 +430,7 @@
         "Records Concerning Commercial Limits in Childrens Programs": 63709,
         "Issues and Programs Lists": 47646,
         "Equal Employment Opportunity Records": 37672,
-        "Donor Lists - Applicable Only for NCEs": 12460,
+        "Donor Lists - Applicable Only for NCEs": 12461,
         "FCC Authorizations": 7500,
         "Local Public Notice Announcements": 1890,
         "Availability of Signals": 1875,
@@ -457,14 +457,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 258405,
+        "TV": 258407,
         "CABLE": 133687,
         "FM": 123534,
         "AM": 47809,
         "DBS": 6577
       },
       "political_file_type": {
-        "PA": 250882,
+        "PA": 250883,
         "NCIA": 136389
       }
     }
@@ -481,8 +481,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1904,
-    "processTime": 910,
-    "responseTime": 1910
+    "queryTime": 1900,
+    "processTime": 908,
+    "responseTime": 1908
   }
 }
