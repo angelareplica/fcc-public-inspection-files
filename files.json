@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 569978,
+    "numFound": 569980,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "70dbf099-01bc-3672-8f6c-d92d0695784a",
+        "file_id": "70dbf099-01bc-3672-8f6c-d92d0695784a",
+        "file_name": "BRIAN MARYOTT 63001259 EST.4018 0778 & 5447 6.3-6.7 FINAL INVOICE JUNE",
+        "file_extension": "pdf",
+        "file_size": 3273,
+        "file_status": "com_cpy",
+        "folder_id": "45899402-111a-f182-9df6-92fae6b5c189",
+        "create_ts": "2022-07-13T13:52:06.49Z",
+        "last_update_ts": "2022-07-13T13:52:45.83Z",
+        "active_ind": "Y",
+        "file_manager_id": "f82f5dc9-0063-4b4d-b65e-074f9336da0d",
+        "file_folder_path": "Political Files/2022/Federal/US House/California/Brian Maryott CA 49th CD",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/California/Brian Maryott CA 49th CD/BRIAN MARYOTT 63001259 EST.4018 0778 & 5447 6.3-6.7 FINAL INVOICE JUNE",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1738245749239447600,
+        "score": 0.24995676
+      },
+      {
+        "id": "087131bc-e6c7-946b-a365-ea891b6a6aa2",
+        "file_id": "087131bc-e6c7-946b-a365-ea891b6a6aa2",
+        "file_name": "Computer Communications Industry Assoc.-Public File Disclosure (National Media Consumer) 07-12-2022 Supplement 1",
+        "file_extension": "pdf",
+        "file_size": 64750,
+        "file_status": "com_cpy",
+        "folder_id": "56ef7e57-03da-7206-ace0-923752878308",
+        "create_ts": "2022-07-13T13:06:50.035Z",
+        "last_update_ts": "2022-07-13T13:06:32.386Z",
+        "active_ind": "Y",
+        "file_manager_id": "4ac4d2e3-a846-4554-8d01-2d2e4b0dcb26",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Computer Communications Industry Association",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Computer Communications Industry Association/Computer Communications Industry Assoc.-Public File Disclosure (National Media Consumer) 07-12-2022 Supplement 1",
+        "entity_id": "74094",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "LANSING",
+        "callsign": "WSYM-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1738242900994556000,
+        "score": 0.24995676
+      },
       {
         "id": "142ef80f-a5b4-d182-9055-e705d7a4b6da",
         "file_id": "142ef80f-a5b4-d182-9055-e705d7a4b6da",
@@ -198,54 +244,6 @@
         "campaign_year": "2022",
         "_version_": 1738241512387379200,
         "score": 0.24995676
-      },
-      {
-        "id": "b1b22532-00a2-6f6d-cb72-25803ba68da4",
-        "file_id": "b1b22532-00a2-6f6d-cb72-25803ba68da4",
-        "file_name": "COMPLETE CHERI BEASLEY FOR SENATE WRAL EST 947 071322-071822",
-        "file_extension": "pdf",
-        "file_size": 262208,
-        "file_status": "com_cpy",
-        "folder_id": "ef42e0f9-1f08-9283-9afd-c7513f862c7d",
-        "create_ts": "2022-07-13T12:44:45.641Z",
-        "last_update_ts": "2022-07-13T12:44:46.595Z",
-        "active_ind": "Y",
-        "file_manager_id": "4f8b3cf9-6626-449b-a071-cde700dc3423",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/CHERI BEASLEY FOR SENATE/EST 947",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/CHERI BEASLEY FOR SENATE/EST 947/COMPLETE CHERI BEASLEY FOR SENATE WRAL EST 947 071322-071822",
-        "entity_id": "8688",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "RALEIGH-DURHAM (FAYETVLLE)",
-        "callsign": "WRAL-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1738241512517402600,
-        "score": 0.24995676
-      },
-      {
-        "id": "746728ae-d7a2-a650-3bb1-da7b98ee5dfa",
-        "file_id": "746728ae-d7a2-a650-3bb1-da7b98ee5dfa",
-        "file_name": "MAYBERRY FOR ARIZONA US HOUSE KFMM 071122",
-        "file_extension": "pdf",
-        "file_size": 8418031,
-        "file_status": "com_cpy",
-        "folder_id": "bec2188f-25c7-f68f-1605-70cab280993c",
-        "create_ts": "2022-07-13T06:20:07.038Z",
-        "last_update_ts": "2022-07-13T06:20:09.583Z",
-        "active_ind": "Y",
-        "file_manager_id": "9515c897-5992-4e93-84ad-4443451a6bef",
-        "file_folder_path": "Political Files/2022/Federal/US House",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/MAYBERRY FOR ARIZONA US HOUSE KFMM 071122",
-        "entity_id": "72368",
-        "source_service_code": "FM",
-        "callsign": "KFMM",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1738217314510176300,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -330,7 +328,7 @@
         "DALLAS-FT. WORTH": 927,
         "TULSA": 912,
         "PANAMA CITY": 888,
-        "LANSING": 860,
+        "LANSING": 861,
         "INDIANAPOLIS": 845,
         "YOUNGSTOWN": 814,
         "GREENVILLE-N.BERN-WASHNGTN": 805,
@@ -355,7 +353,7 @@
         "ABC": 64687,
         "NBC": 61123,
         "CBS": 42696,
-        "FOX": 30726,
+        "FOX": 30727,
         "PBS": 15173,
         "CW": 12425,
         "IND": 3047,
@@ -424,14 +422,14 @@
         "2019": 13891,
         "2020": 124353,
         "2021": 22740,
-        "2022": 50593,
+        "2022": 50595,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 82398,
         "US Senate": 53542,
-        "US House": 46969,
+        "US House": 46970,
         "Presidential": 37907,
         "Local": 28193
       },
@@ -466,15 +464,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 258387,
+        "TV": 258388,
         "CABLE": 133687,
         "FM": 123526,
         "AM": 47802,
-        "DBS": 6576
+        "DBS": 6577
       },
       "political_file_type": {
-        "PA": 250861,
-        "NCIA": 136382
+        "PA": 250862,
+        "NCIA": 136383
       }
     }
   },
@@ -490,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1861,
-    "processTime": 869,
-    "responseTime": 1869
+    "queryTime": 1854,
+    "processTime": 861,
+    "responseTime": 1862
   }
 }
