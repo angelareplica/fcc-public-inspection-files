@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 570365,
+    "numFound": 570367,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "3ca848a9-29c5-8264-2d55-35fcbf8de5e1",
+        "file_id": "3ca848a9-29c5-8264-2d55-35fcbf8de5e1",
+        "file_name": "TV FOX6 AND ABC7 FCC 2nd QTR REPORT  APRIL 01, 2022 to JUNE 31,2022",
+        "file_extension": "pdf",
+        "file_size": 791275,
+        "file_status": "com_cpy",
+        "folder_id": "0f03aa5a-35bc-c245-01b7-ca8a363d441c",
+        "create_ts": "2022-07-14T02:51:59.973Z",
+        "last_update_ts": "2022-07-14T02:51:42.575Z",
+        "active_ind": "Y",
+        "file_manager_id": "6b63a9e2-47cc-4401-9288-8ce6dea63cea",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/TV FOX6 AND ABC7 FCC 2nd QTR REPORT  APRIL 01, 2022 to JUNE 31,2022",
+        "entity_id": "29232",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "GUAM",
+        "callsign": "KTGM",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1738294816361414700,
+        "score": 0.24995676
+      },
+      {
+        "id": "5e5deb6b-8b98-d374-8fea-3a1daf74f232",
+        "file_id": "5e5deb6b-8b98-d374-8fea-3a1daf74f232",
+        "file_name": "KPXP POWER 99 FCC 2nd QTR REPORT APRIL 01, 2022 to JUNE 31,2022",
+        "file_extension": "pdf",
+        "file_size": 890015,
+        "file_status": "com_cpy",
+        "folder_id": "0ef32cb5-ee8d-5be6-cfa8-60186b7b24e8",
+        "create_ts": "2022-07-14T02:46:16.285Z",
+        "last_update_ts": "2022-07-14T02:45:58.567Z",
+        "active_ind": "Y",
+        "file_manager_id": "5f0f4a1a-ae69-41dc-8de0-886f70d1db64",
+        "file_folder_path": "FCC Authorizations/Additional Documents",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/KPXP POWER 99 FCC 2nd QTR REPORT APRIL 01, 2022 to JUNE 31,2022",
+        "entity_id": "54766",
+        "source_service_code": "FM",
+        "callsign": "KPXP",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1738294455646027800,
+        "score": 0.24995676
+      },
       {
         "id": "5b463a6e-cd7f-1381-f550-b67e7d47b378",
         "file_id": "5b463a6e-cd7f-1381-f550-b67e7d47b378",
@@ -203,56 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1738290192858480600,
         "score": 0.00012497838
-      },
-      {
-        "id": "2f07d76a-f19c-3a16-f494-19809a010a73",
-        "file_id": "2f07d76a-f19c-3a16-f494-19809a010a73",
-        "file_name": "Keone Simon NAB PB-19 Page 2 KHON #3625863",
-        "file_extension": "pdf",
-        "file_size": 1037234,
-        "file_status": "com_cpy",
-        "folder_id": "e7af0937-9d8b-438d-282f-32f1c42bbf49",
-        "create_ts": "2022-07-14T01:33:48.342Z",
-        "last_update_ts": "2022-07-14T01:33:49.275Z",
-        "active_ind": "Y",
-        "file_manager_id": "23775576-2996-4e4a-bbf9-09d5b59b597c",
-        "file_folder_path": "Political Files/2022/Local/City Council/Keone Simon",
-        "full_qualified_file_name": "Political Files/2022/Local/City Council/Keone Simon/Keone Simon NAB PB-19 Page 2 KHON #3625863",
-        "entity_id": "4145",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "HONOLULU",
-        "callsign": "KAII-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1738289896667218000,
-        "score": 0.00012497838
-      },
-      {
-        "id": "db5cfb9d-9e88-1249-fa55-ad6f10fc0b00",
-        "file_id": "db5cfb9d-9e88-1249-fa55-ad6f10fc0b00",
-        "file_name": "Keone Simon NAB PB-19 Page 1",
-        "file_extension": "pdf",
-        "file_size": 663338,
-        "file_status": "com_cpy",
-        "folder_id": "e7af0937-9d8b-438d-282f-32f1c42bbf49",
-        "create_ts": "2022-07-14T01:33:47.87Z",
-        "last_update_ts": "2022-07-14T01:33:48.933Z",
-        "active_ind": "Y",
-        "file_manager_id": "26036d07-0ce2-44ae-aaf4-d66409b5e161",
-        "file_folder_path": "Political Files/2022/Local/City Council/Keone Simon",
-        "full_qualified_file_name": "Political Files/2022/Local/City Council/Keone Simon/Keone Simon NAB PB-19 Page 1",
-        "entity_id": "4145",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "HONOLULU",
-        "callsign": "KAII-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1738289896316993500,
-        "score": 0.00012497838
       }
     ],
     "facets": {
@@ -359,7 +353,7 @@
         "EL PASO (LAS CRUCES)": 642
       },
       "network_affiliation": {
-        "ABC": 64734,
+        "ABC": 64735,
         "NBC": 61153,
         "CBS": 42734,
         "FOX": 30774,
@@ -447,7 +441,7 @@
         "Issues and Programs Lists": 47650,
         "Equal Employment Opportunity Records": 37672,
         "Donor Lists - Applicable Only for NCEs": 12462,
-        "FCC Authorizations": 7502,
+        "FCC Authorizations": 7504,
         "Local Public Notice Announcements": 1890,
         "Availability of Signals": 1875,
         "Applications and Related Materials": 1720,
@@ -473,9 +467,9 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 258596,
+        "TV": 258597,
         "CABLE": 133687,
-        "FM": 123627,
+        "FM": 123628,
         "AM": 47848,
         "DBS": 6607
       },
@@ -497,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1896,
-    "processTime": 903,
-    "responseTime": 1903
+    "queryTime": 219,
+    "processTime": 226,
+    "responseTime": 227
   }
 }
