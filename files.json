@@ -1,9 +1,54 @@
 {
   "response": {
-    "numFound": 570464,
+    "numFound": 570467,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "5042a447-5001-3513-a97b-bef8d5e07f04",
+        "file_id": "5042a447-5001-3513-a97b-bef8d5e07f04",
+        "file_name": "Living United For Change in Arizona - 1625032588 7-14-22 to 8-02-22",
+        "file_extension": "pdf",
+        "file_size": 986774,
+        "file_status": "com_cpy",
+        "folder_id": "08322384-e041-d89d-890f-6cc88b202941",
+        "create_ts": "2022-07-14T22:34:21.825Z",
+        "last_update_ts": "2022-07-14T22:34:04.126Z",
+        "active_ind": "Y",
+        "file_manager_id": "022465f4-e627-43f8-8f3e-a75eb6a124a1",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Living United For Change In Arizona",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Living United For Change In Arizona/Living United For Change in Arizona - 1625032588 7-14-22 to 8-02-22",
+        "entity_id": "52818",
+        "source_service_code": "FM",
+        "callsign": "KAJM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1738369204218757000,
+        "score": 0.24995676
+      },
+      {
+        "id": "49ad0fe1-394e-f2bd-d4eb-fd684fb0effb",
+        "file_id": "49ad0fe1-394e-f2bd-d4eb-fd684fb0effb",
+        "file_name": "Abraham Hamadeh for Attorney General -1625032579 -7-09-22 to 7-16-22",
+        "file_extension": "pdf",
+        "file_size": 693555,
+        "file_status": "com_cpy",
+        "folder_id": "3c73d815-63ef-cae9-b536-2e200a08a4a6",
+        "create_ts": "2022-07-14T22:33:33.209Z",
+        "last_update_ts": "2022-07-14T22:33:33.942Z",
+        "active_ind": "Y",
+        "file_manager_id": "f982f446-20d4-427b-92af-071b93ce2662",
+        "file_folder_path": "Political Files/2022/State/Abraham Hamadeh for Attorney General",
+        "full_qualified_file_name": "Political Files/2022/State/Abraham Hamadeh for Attorney General/Abraham Hamadeh for Attorney General -1625032579 -7-09-22 to 7-16-22",
+        "entity_id": "52818",
+        "source_service_code": "FM",
+        "callsign": "KAJM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1738369152993722400,
+        "score": 0.24995676
+      },
       {
         "id": "233282f5-9085-a6f6-f65d-d3b5bf0c692c",
         "file_id": "233282f5-9085-a6f6-f65d-d3b5bf0c692c",
@@ -189,56 +234,6 @@
         "campaign_year": "2022",
         "_version_": 1738367720383053800,
         "score": 0.24995676
-      },
-      {
-        "id": "19c4f4e0-7a88-d506-2116-96e1173ea01a",
-        "file_id": "19c4f4e0-7a88-d506-2116-96e1173ea01a",
-        "file_name": "SCOTT SCHWAB FOR SECRETARY OF STATE - KTKA - 3570426 - 071922 - CANCELED",
-        "file_extension": "pdf",
-        "file_size": 79249,
-        "file_status": "com_cpy",
-        "folder_id": "6e015bb4-b59e-86b4-c298-515dadf3ed5b",
-        "create_ts": "2022-07-14T21:57:37.267Z",
-        "last_update_ts": "2022-07-14T22:10:06.576Z",
-        "active_ind": "Y",
-        "file_manager_id": "e6c1c6c5-8472-437c-89ef-76f5a73c6181",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/SCOTT SCHWAB FOR SECRETARY OF STATE - KTKA - 3570426 - 071922 - CANCELED",
-        "entity_id": "49397",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "TOPEKA",
-        "callsign": "KTKA-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1738367633076519000,
-        "score": 0.24995676
-      },
-      {
-        "id": "4da59fb9-e0e2-ad02-6752-1bbac52ecc4d",
-        "file_id": "4da59fb9-e0e2-ad02-6752-1bbac52ecc4d",
-        "file_name": "SCOTT SCHWAB FOR SECRETARY OF STATE - KTKA - 3570420 - 072622 - REV 1",
-        "file_extension": "pdf",
-        "file_size": 119458,
-        "file_status": "com_cpy",
-        "folder_id": "6e015bb4-b59e-86b4-c298-515dadf3ed5b",
-        "create_ts": "2022-07-14T21:57:37.351Z",
-        "last_update_ts": "2022-07-14T22:10:06.435Z",
-        "active_ind": "Y",
-        "file_manager_id": "3713550a-739c-4ca8-9d07-0763d4bc79d3",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/SCOTT SCHWAB FOR SECRETARY OF STATE - KTKA - 3570420 - 072622 - REV 1",
-        "entity_id": "49397",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "TOPEKA",
-        "callsign": "KTKA-TV",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1738367633033527300,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -283,7 +278,7 @@
         "LA CROSSE-EAU CLAIRE": 2169,
         "WASHINGTON DC (HAGRSTWN)": 2022,
         "ROCHESTR-MASON CITY-AUSTIN": 2003,
-        "MADISON": 1990,
+        "MADISON": 1991,
         "ALBUQUERQUE-SANTA FE": 1962,
         "GREAT FALLS": 1945,
         "LEXINGTON": 1941,
@@ -345,7 +340,7 @@
         "EL PASO (LAS CRUCES)": 642
       },
       "network_affiliation": {
-        "ABC": 64788,
+        "ABC": 64789,
         "NBC": 61180,
         "CBS": 42767,
         "FOX": 30581,
@@ -417,13 +412,13 @@
         "2019": 13891,
         "2020": 124142,
         "2021": 22740,
-        "2022": 51258,
+        "2022": 51261,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 82611,
-        "US Senate": 53495,
+        "State": 82612,
+        "US Senate": 53496,
         "US House": 47036,
         "Presidential": 37906,
         "Local": 28241
@@ -459,15 +454,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 258540,
+        "TV": 258541,
         "CABLE": 133757,
-        "FM": 123679,
+        "FM": 123681,
         "AM": 47876,
         "DBS": 6612
       },
       "political_file_type": {
-        "PA": 251141,
-        "NCIA": 136556
+        "PA": 251143,
+        "NCIA": 136557
       }
     }
   },
@@ -483,8 +478,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 220,
-    "processTime": 227,
-    "responseTime": 227
+    "queryTime": 1897,
+    "processTime": 908,
+    "responseTime": 1908
   }
 }
