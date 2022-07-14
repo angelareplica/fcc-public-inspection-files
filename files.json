@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 570367,
+    "numFound": 570369,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "03c1c152-c50c-bb3b-e6c6-b2c900519d7f",
+        "file_id": "03c1c152-c50c-bb3b-e6c6-b2c900519d7f",
+        "file_name": "Lamont-Rev1-2517636-0",
+        "file_extension": "pdf",
+        "file_size": 231061,
+        "file_status": "com_cpy",
+        "folder_id": "4c898eed-1fcf-bfed-94ba-6d88290c0438",
+        "create_ts": "2022-07-14T11:20:06.313Z",
+        "last_update_ts": "2022-07-14T11:19:48.446Z",
+        "active_ind": "Y",
+        "file_manager_id": "93a7457c-ebb4-44f1-bd77-fa1c83df409c",
+        "file_folder_path": "Political Files/2022/State/CT Governor/Ned Lamont",
+        "full_qualified_file_name": "Political Files/2022/State/CT Governor/Ned Lamont/Lamont-Rev1-2517636-0",
+        "entity_id": "14050",
+        "source_service_code": "TV",
+        "network_affiliation": "CW",
+        "nielsen_dma_rank": "HARTFORD & NEW HAVEN",
+        "callsign": "WCCT-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1738326783223136300,
+        "score": 0.24995676
+      },
+      {
+        "id": "d3b4b2c3-0ae7-6047-1a85-507037365496",
+        "file_id": "d3b4b2c3-0ae7-6047-1a85-507037365496",
+        "file_name": "Lamont-Rev1-2517657-0",
+        "file_extension": "pdf",
+        "file_size": 250083,
+        "file_status": "com_cpy",
+        "folder_id": "1ceb2b40-d2dd-4c14-b0bf-4848a57455c6",
+        "create_ts": "2022-07-14T11:17:06.952Z",
+        "last_update_ts": "2022-07-14T11:17:48.623Z",
+        "active_ind": "Y",
+        "file_manager_id": "7dc3ab07-7e95-406e-af90-48068afff173",
+        "file_folder_path": "Political Files/2022/State/CT Governor/Ned Lamont",
+        "full_qualified_file_name": "Political Files/2022/State/CT Governor/Ned Lamont/Lamont-Rev1-2517657-0",
+        "entity_id": "147",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "HARTFORD & NEW HAVEN",
+        "callsign": "WTIC-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1738326595106504700,
+        "score": 0.24995676
+      },
       {
         "id": "3ca848a9-29c5-8264-2d55-35fcbf8de5e1",
         "file_id": "3ca848a9-29c5-8264-2d55-35fcbf8de5e1",
@@ -197,56 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1738290532347543600,
         "score": 0.00012497838
-      },
-      {
-        "id": "df837ad8-7909-b7d7-b948-fd7cf3c6fd66",
-        "file_id": "df837ad8-7909-b7d7-b948-fd7cf3c6fd66",
-        "file_name": "Keone Simon NAB PB-19 Page 2 KHON #3625863",
-        "file_extension": "pdf",
-        "file_size": 1037234,
-        "file_status": "com_cpy",
-        "folder_id": "0bc9abe4-335b-af74-7ed1-eebfa29cd458",
-        "create_ts": "2022-07-14T01:38:31.087Z",
-        "last_update_ts": "2022-07-14T01:38:32.161Z",
-        "active_ind": "Y",
-        "file_manager_id": "d8839e29-aea2-43d7-9c61-687da73f5f9a",
-        "file_folder_path": "Political Files/2022/Local/City Council/Keone Simon",
-        "full_qualified_file_name": "Political Files/2022/Local/City Council/Keone Simon/Keone Simon NAB PB-19 Page 2 KHON #3625863",
-        "entity_id": "4146",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "HONOLULU",
-        "callsign": "KHAW-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1738290193294688300,
-        "score": 0.00012497838
-      },
-      {
-        "id": "54cbe0b9-2522-9f23-b41d-c5fb0f89b681",
-        "file_id": "54cbe0b9-2522-9f23-b41d-c5fb0f89b681",
-        "file_name": "Keone Simon NAB PB-19 Page 1",
-        "file_extension": "pdf",
-        "file_size": 663338,
-        "file_status": "com_cpy",
-        "folder_id": "0bc9abe4-335b-af74-7ed1-eebfa29cd458",
-        "create_ts": "2022-07-14T01:38:30.625Z",
-        "last_update_ts": "2022-07-14T01:38:13.257Z",
-        "active_ind": "Y",
-        "file_manager_id": "6acc6734-303c-487b-9fd2-b21097c03626",
-        "file_folder_path": "Political Files/2022/Local/City Council/Keone Simon",
-        "full_qualified_file_name": "Political Files/2022/Local/City Council/Keone Simon/Keone Simon NAB PB-19 Page 1",
-        "entity_id": "4146",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "HONOLULU",
-        "callsign": "KHAW-TV",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1738290192858480600,
-        "score": 0.00012497838
       }
     ],
     "facets": {
@@ -347,7 +347,7 @@
         "SAN FRANCISCO-OAK-SAN JOSE": 696,
         "BANGOR": 676,
         "MONTEREY-SALINAS": 668,
-        "HARTFORD & NEW HAVEN": 663,
+        "HARTFORD & NEW HAVEN": 665,
         "SAN DIEGO": 657,
         "TUCSON (SIERRA VISTA)": 650,
         "EL PASO (LAS CRUCES)": 642
@@ -356,9 +356,9 @@
         "ABC": 64735,
         "NBC": 61153,
         "CBS": 42734,
-        "FOX": 30774,
+        "FOX": 30775,
         "PBS": 15174,
-        "CW": 12429,
+        "CW": 12430,
         "IND": 3048,
         "MYTV": 2276,
         "UNIVISION": 1957,
@@ -425,12 +425,12 @@
         "2019": 13891,
         "2020": 124353,
         "2021": 22740,
-        "2022": 50963,
+        "2022": 50965,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 82510,
+        "State": 82512,
         "US Senate": 53617,
         "US House": 47005,
         "Presidential": 37907,
@@ -467,14 +467,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 258597,
+        "TV": 258599,
         "CABLE": 133687,
         "FM": 123628,
         "AM": 47848,
         "DBS": 6607
       },
       "political_file_type": {
-        "PA": 251110,
+        "PA": 251112,
         "NCIA": 136503
       }
     }
@@ -491,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1908,
-    "processTime": 918,
-    "responseTime": 1919
+    "queryTime": 220,
+    "processTime": 230,
+    "responseTime": 230
   }
 }
