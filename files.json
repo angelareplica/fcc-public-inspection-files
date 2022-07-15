@@ -1,6 +1,6 @@
 {
   "response": {
-    "numFound": 570495,
+    "numFound": 570496,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
@@ -277,7 +277,7 @@
         "LA CROSSE-EAU CLAIRE": 2169,
         "WASHINGTON DC (HAGRSTWN)": 2023,
         "ROCHESTR-MASON CITY-AUSTIN": 2003,
-        "MADISON": 1990,
+        "MADISON": 1991,
         "ALBUQUERQUE-SANTA FE": 1962,
         "GREAT FALLS": 1945,
         "LEXINGTON": 1941,
@@ -339,7 +339,7 @@
         "EL PASO (LAS CRUCES)": 642
       },
       "network_affiliation": {
-        "ABC": 64793,
+        "ABC": 64794,
         "NBC": 61182,
         "CBS": 42767,
         "FOX": 30581,
@@ -411,13 +411,13 @@
         "2019": 13891,
         "2020": 124142,
         "2021": 22740,
-        "2022": 51288,
+        "2022": 51289,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 82615,
-        "US Senate": 53505,
+        "US Senate": 53506,
         "US House": 47039,
         "Presidential": 37906,
         "Local": 28245
@@ -453,14 +453,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 258547,
+        "TV": 258548,
         "CABLE": 133757,
         "FM": 123696,
         "AM": 47883,
         "DBS": 6612
       },
       "political_file_type": {
-        "PA": 251163,
+        "PA": 251164,
         "NCIA": 136564
       }
     }
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1905,
-    "processTime": 916,
-    "responseTime": 1916
+    "queryTime": 1914,
+    "processTime": 925,
+    "responseTime": 1925
   }
 }
