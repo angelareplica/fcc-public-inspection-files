@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 570965,
+    "numFound": 570967,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "714abca9-edaa-0737-62e1-92ee2e8060e2",
+        "file_id": "714abca9-edaa-0737-62e1-92ee2e8060e2",
+        "file_name": "708149_Invoice_20220716091955",
+        "file_extension": "pdf",
+        "file_size": 65244,
+        "file_status": "com_cpy",
+        "folder_id": "2b5ea990-a2f4-e85a-738b-913b27eb834b",
+        "create_ts": "2022-07-16T19:54:38.51Z",
+        "last_update_ts": "2022-07-16T19:54:38.955Z",
+        "active_ind": "Y",
+        "file_manager_id": "52510d3b-c472-43bb-8078-023b7dc543ec",
+        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
+        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220716091955",
+        "entity_id": "005100",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF CALIFORNIA/COLORADO/ILLINOIS/INDIANA/MICHIGAN, LP",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1738540348878094300,
+        "score": 0.00012497838
+      },
+      {
+        "id": "3cd117c0-7a39-b16c-478d-06bdcb304bd1",
+        "file_id": "3cd117c0-7a39-b16c-478d-06bdcb304bd1",
+        "file_name": "698842_Invoice_20220716085621",
+        "file_extension": "pdf",
+        "file_size": 79118,
+        "file_status": "com_cpy",
+        "folder_id": "fa7d0812-07e4-5625-f394-319380d2015f",
+        "create_ts": "2022-07-16T19:49:11.667Z",
+        "last_update_ts": "2022-07-16T19:48:52.998Z",
+        "active_ind": "Y",
+        "file_manager_id": "f82682e5-9421-4a9d-95b5-2661d75b9601",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220716085621",
+        "entity_id": "005100",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF CALIFORNIA/COLORADO/ILLINOIS/INDIANA/MICHIGAN, LP",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1738540006140543000,
+        "score": 0.00012497838
+      },
       {
         "id": "101e71aa-3fe0-4f9b-0631-fb91668de138",
         "file_id": "101e71aa-3fe0-4f9b-0631-fb91668de138",
@@ -203,53 +253,6 @@
         "campaign_year": "2022",
         "_version_": 1738533314782822400,
         "score": 0.24995676
-      },
-      {
-        "id": "33c81eba-a472-7e77-024a-112f9c53d388",
-        "file_id": "33c81eba-a472-7e77-024a-112f9c53d388",
-        "file_name": "Custer For House District 20 05-01_05-31 (Invoice)",
-        "file_extension": "pdf",
-        "file_size": 8414,
-        "file_status": "com_cpy",
-        "folder_id": "2cd4b61b-7515-a2f0-2c24-b556d42f6185",
-        "create_ts": "2022-07-16T17:40:09.977Z",
-        "last_update_ts": "2022-07-16T18:00:06.172Z",
-        "active_ind": "N",
-        "file_manager_id": "2deba440-2c93-42d4-8655-d3b4c8f5aadd",
-        "file_folder_path": "Political Files/2022/State/Custer For House District",
-        "full_qualified_file_name": "Political Files/2022/State/Custer For House District/Custer For House District 20 05-01_05-31 (Invoice)",
-        "entity_id": "48300",
-        "source_service_code": "FM",
-        "callsign": "KIKC-FM",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1738533093286871000,
-        "score": 0.24995676
-      },
-      {
-        "id": "7c443bd3-758d-f955-8681-fef2bb370442",
-        "file_id": "7c443bd3-758d-f955-8681-fef2bb370442",
-        "file_name": "RI BUILDING AND CONSTRUCTION 07072022103701-0001",
-        "file_extension": "pdf",
-        "file_size": 740806,
-        "file_status": "com_cpy",
-        "folder_id": "7d59f39e-0bc7-fb65-2257-a5932de8ed75",
-        "create_ts": "2022-07-16T17:58:26.567Z",
-        "last_update_ts": "2022-07-16T17:58:27.205Z",
-        "active_ind": "Y",
-        "file_manager_id": "12969998-dd4d-4479-9371-f9b047a18f98",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/RI BUILDING AND CONSTRUCTION 07072022103701-0001",
-        "entity_id": "020666",
-        "source_service_code": "CABLE",
-        "legal_name": "VERIZON NEW ENGLAND, INC.",
-        "operator_city_name": "IRVING",
-        "operator_state_name": "TX",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1738533038467317800,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -428,16 +431,16 @@
         "2019": 13891,
         "2020": 124142,
         "2021": 22740,
-        "2022": 51729,
+        "2022": 51731,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 82665,
+        "State": 82666,
         "US Senate": 53595,
         "US House": 47080,
         "Presidential": 37906,
-        "Local": 28298
+        "Local": 28299
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63709,
@@ -471,13 +474,13 @@
       },
       "source_service_code": {
         "TV": 258789,
-        "CABLE": 133820,
+        "CABLE": 133822,
         "FM": 123811,
         "AM": 47926,
         "DBS": 6619
       },
       "political_file_type": {
-        "PA": 251397,
+        "PA": 251399,
         "NCIA": 136771
       }
     }
@@ -494,8 +497,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1936,
-    "processTime": 944,
-    "responseTime": 1945
+    "queryTime": 1912,
+    "processTime": 924,
+    "responseTime": 1925
   }
 }
