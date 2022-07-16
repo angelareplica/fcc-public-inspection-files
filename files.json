@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 570940,
+    "numFound": 570942,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "8b7f9731-4a96-2de4-08b2-c07ca4ba19d7",
+        "file_id": "8b7f9731-4a96-2de4-08b2-c07ca4ba19d7",
+        "file_name": "Usher For Senate District 20 06-01_06-07 (Invoice)",
+        "file_extension": "pdf",
+        "file_size": 6315,
+        "file_status": "com_cpy",
+        "folder_id": "969484aa-8100-1aa0-b2dd-90098130a8c6",
+        "create_ts": "2022-07-16T17:23:06.951Z",
+        "last_update_ts": "2022-07-16T17:22:48.289Z",
+        "active_ind": "Y",
+        "file_manager_id": "d9af8946-d05f-4c18-bbc6-af4702765522",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Usher For Senate District 20",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Usher For Senate District 20/Usher For Senate District 20 06-01_06-07 (Invoice)",
+        "entity_id": "48301",
+        "source_service_code": "AM",
+        "callsign": "KIKC",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1738530815643484200,
+        "score": 0.24995676
+      },
+      {
+        "id": "41518779-15a0-b3cb-f8a4-850593f74f9c",
+        "file_id": "41518779-15a0-b3cb-f8a4-850593f74f9c",
+        "file_name": "Usher For Senate District 20 05-17_05-31 (Invoice)",
+        "file_extension": "pdf",
+        "file_size": 8746,
+        "file_status": "com_cpy",
+        "folder_id": "969484aa-8100-1aa0-b2dd-90098130a8c6",
+        "create_ts": "2022-07-16T17:22:20.391Z",
+        "last_update_ts": "2022-07-16T17:22:01.831Z",
+        "active_ind": "Y",
+        "file_manager_id": "b9e2cec8-1f3d-44e4-b016-26ce695cd9d0",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/Usher For Senate District 20",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Usher For Senate District 20/Usher For Senate District 20 05-17_05-31 (Invoice)",
+        "entity_id": "48301",
+        "source_service_code": "AM",
+        "callsign": "KIKC",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1738530766930837500,
+        "score": 0.24995676
+      },
       {
         "id": "d9b65336-b3ce-429f-db79-7ac46c46f3bb",
         "file_id": "d9b65336-b3ce-429f-db79-7ac46c46f3bb",
@@ -195,54 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1738523702109143000,
         "score": 0.24995676
-      },
-      {
-        "id": "0cc45877-1636-8d0d-8fe3-1421f25055fc",
-        "file_id": "0cc45877-1636-8d0d-8fe3-1421f25055fc",
-        "file_name": "TaxPayers Protection Assoc Novar 3805963 0378 7.18_7.24",
-        "file_extension": "pdf",
-        "file_size": 96792,
-        "file_status": "com_cpy",
-        "folder_id": "5c212671-ec20-c92f-ac2b-fe4c515e074f",
-        "create_ts": "2022-07-16T15:28:45.682Z",
-        "last_update_ts": "2022-07-16T15:29:32.568Z",
-        "active_ind": "Y",
-        "file_manager_id": "fa744f63-da23-4e90-b0e6-d1cd04458f26",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance/TaxPayers Protection Assoc Novar 3805963 0378 7.18_7.24",
-        "entity_id": "004288",
-        "source_service_code": "CABLE",
-        "legal_name": "COXCOM, LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1738523621124472800,
-        "score": 0.24995676
-      },
-      {
-        "id": "03fee095-cb4d-1acf-0299-9102c5e65406",
-        "file_id": "03fee095-cb4d-1acf-0299-9102c5e65406",
-        "file_name": "TaxPayers Protection Assoc 63016994 0378 7.18_7.24",
-        "file_extension": "pdf",
-        "file_size": 15273,
-        "file_status": "com_cpy",
-        "folder_id": "5c212671-ec20-c92f-ac2b-fe4c515e074f",
-        "create_ts": "2022-07-16T15:28:45.464Z",
-        "last_update_ts": "2022-07-16T15:28:45.91Z",
-        "active_ind": "Y",
-        "file_manager_id": "c83ae092-1b14-44ef-89ff-ef5feb465076",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Taxpayers Protection Alliance/TaxPayers Protection Assoc 63016994 0378 7.18_7.24",
-        "entity_id": "004288",
-        "source_service_code": "CABLE",
-        "legal_name": "COXCOM, LLC",
-        "operator_city_name": "ATLANTA",
-        "operator_state_name": "GA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1738523620912660500,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -421,13 +419,13 @@
         "2019": 13891,
         "2020": 124142,
         "2021": 22740,
-        "2022": 51704,
+        "2022": 51706,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 82654,
-        "US Senate": 53590,
+        "US Senate": 53592,
         "US House": 47080,
         "Presidential": 37906,
         "Local": 28290
@@ -466,11 +464,11 @@
         "TV": 258789,
         "CABLE": 133811,
         "FM": 123797,
-        "AM": 47924,
+        "AM": 47926,
         "DBS": 6619
       },
       "political_file_type": {
-        "PA": 251373,
+        "PA": 251375,
         "NCIA": 136770
       }
     }
@@ -487,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 223,
-    "processTime": 232,
-    "responseTime": 232
+    "queryTime": 1884,
+    "processTime": 895,
+    "responseTime": 1895
   }
 }
