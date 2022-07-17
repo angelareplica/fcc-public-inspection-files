@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 570985,
+    "numFound": 570986,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "8906dd8d-7545-f104-c31c-0a061ee3034e",
+        "file_id": "8906dd8d-7545-f104-c31c-0a061ee3034e",
+        "file_name": "image2022-07-17-134301",
+        "file_extension": "pdf",
+        "file_size": 58416,
+        "file_status": "com_cpy",
+        "folder_id": "263be13a-ec60-7b11-e3fe-1c0a98fe1070",
+        "create_ts": "2022-07-17T18:10:20.325Z",
+        "last_update_ts": "2022-07-17T18:10:20.732Z",
+        "active_ind": "Y",
+        "file_manager_id": "d181f0ed-702a-4a56-ba52-6db6f3b2e231",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/image2022-07-17-134301",
+        "entity_id": "37019",
+        "source_service_code": "FM",
+        "callsign": "WLEN",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1738624383687065600,
+        "score": 0.24995676
+      },
       {
         "id": "e1a9f6bb-b883-8c85-d48a-f6387b86ed8e",
         "file_id": "e1a9f6bb-b883-8c85-d48a-f6387b86ed8e",
@@ -225,31 +248,6 @@
         "campaign_year": "2022",
         "_version_": 1738564879362556000,
         "score": 0.00012497838
-      },
-      {
-        "id": "851b169f-4b33-9811-70f6-323ac107f80e",
-        "file_id": "851b169f-4b33-9811-70f6-323ac107f80e",
-        "file_name": "698842_Invoice_20220716085621",
-        "file_extension": "pdf",
-        "file_size": 79118,
-        "file_status": "com_cpy",
-        "folder_id": "ceb80836-5e8e-869a-57c2-d9426084ee74",
-        "create_ts": "2022-07-17T02:19:00.312Z",
-        "last_update_ts": "2022-07-17T02:18:41.609Z",
-        "active_ind": "Y",
-        "file_manager_id": "a3c37bf3-85a4-4003-9ed1-612fb79efe65",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220716085621",
-        "entity_id": "008241",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF ILLINOIS/WEST VIRGINIA LLC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1738564530960597000,
-        "score": 0.00012497838
       }
     ],
     "facets": {
@@ -428,12 +426,12 @@
         "2019": 13891,
         "2020": 124142,
         "2021": 22740,
-        "2022": 51749,
+        "2022": 51750,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 82675,
+        "State": 82676,
         "US Senate": 53595,
         "US House": 47080,
         "Presidential": 37906,
@@ -472,12 +470,12 @@
       "source_service_code": {
         "TV": 258790,
         "CABLE": 133838,
-        "FM": 123812,
+        "FM": 123813,
         "AM": 47926,
         "DBS": 6619
       },
       "political_file_type": {
-        "PA": 251416,
+        "PA": 251417,
         "NCIA": 136772
       }
     }
@@ -494,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1907,
-    "processTime": 914,
-    "responseTime": 1914
+    "queryTime": 1870,
+    "processTime": 885,
+    "responseTime": 1886
   }
 }
