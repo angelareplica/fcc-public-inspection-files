@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 570986,
+    "numFound": 570987,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "4b6d229f-635e-ee5b-2161-7b8c89c60c2b",
+        "file_id": "4b6d229f-635e-ee5b-2161-7b8c89c60c2b",
+        "file_name": "WKCW Issues Report 063022",
+        "file_extension": "pdf",
+        "file_size": 590683,
+        "file_status": "com_cpy",
+        "folder_id": "c2104fe3-2667-8208-9ccc-b64f807ed3a3",
+        "create_ts": "2022-07-17T21:34:16.255Z",
+        "last_update_ts": "2022-07-17T21:35:06.361Z",
+        "active_ind": "Y",
+        "file_manager_id": "50479054-38a3-4d95-8bce-15d4a7d59428",
+        "file_folder_path": "FCC Authorizations/Additional Documents/Quarterly Reports",
+        "full_qualified_file_name": "FCC Authorizations/Additional Documents/Quarterly Reports/WKCW Issues Report 063022",
+        "entity_id": "73190",
+        "source_service_code": "AM",
+        "callsign": "WKCW",
+        "non_political_file_folder": "FCC Authorizations",
+        "_version_": 1738637214187782100,
+        "score": 0.24995676
+      },
       {
         "id": "8906dd8d-7545-f104-c31c-0a061ee3034e",
         "file_id": "8906dd8d-7545-f104-c31c-0a061ee3034e",
@@ -223,31 +244,6 @@
         "campaign_year": "2022",
         "_version_": 1738565324213584000,
         "score": 0.00012497838
-      },
-      {
-        "id": "8991a69d-01e6-77ee-3e23-97641f60aa67",
-        "file_id": "8991a69d-01e6-77ee-3e23-97641f60aa67",
-        "file_name": "708149_Invoice_20220716091955",
-        "file_extension": "pdf",
-        "file_size": 65244,
-        "file_status": "com_cpy",
-        "folder_id": "0561f717-e55c-384e-ff5b-12e22dc164cc",
-        "create_ts": "2022-07-17T02:24:32.569Z",
-        "last_update_ts": "2022-07-17T02:24:13.872Z",
-        "active_ind": "Y",
-        "file_manager_id": "52bde80e-18e0-4cc2-b912-5ef73af51be5",
-        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
-        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220716091955",
-        "entity_id": "008241",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF ILLINOIS/WEST VIRGINIA LLC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1738564879362556000,
-        "score": 0.00012497838
       }
     ],
     "facets": {
@@ -442,7 +438,7 @@
         "Issues and Programs Lists": 47680,
         "Equal Employment Opportunity Records": 37672,
         "Donor Lists - Applicable Only for NCEs": 12462,
-        "FCC Authorizations": 7518,
+        "FCC Authorizations": 7519,
         "Local Public Notice Announcements": 1890,
         "Availability of Signals": 1875,
         "Applications and Related Materials": 1721,
@@ -471,7 +467,7 @@
         "TV": 258790,
         "CABLE": 133838,
         "FM": 123813,
-        "AM": 47926,
+        "AM": 47927,
         "DBS": 6619
       },
       "political_file_type": {
@@ -492,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 222,
-    "processTime": 232,
-    "responseTime": 233
+    "queryTime": 219,
+    "processTime": 227,
+    "responseTime": 227
   }
 }
