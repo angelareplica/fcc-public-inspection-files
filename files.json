@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 570983,
+    "numFound": 570985,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "e1a9f6bb-b883-8c85-d48a-f6387b86ed8e",
+        "file_id": "e1a9f6bb-b883-8c85-d48a-f6387b86ed8e",
+        "file_name": "708149_Invoice_20220716091955",
+        "file_extension": "pdf",
+        "file_size": 65244,
+        "file_status": "com_cpy",
+        "folder_id": "e566f778-b614-2c7b-ffcd-d6757821786c",
+        "create_ts": "2022-07-17T16:52:07.797Z",
+        "last_update_ts": "2022-07-17T16:52:57.268Z",
+        "active_ind": "Y",
+        "file_manager_id": "7ef00869-bcd1-401e-81ba-ef3b78bbc420",
+        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
+        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220716091955",
+        "entity_id": "005876",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS IV INC",
+        "operator_city_name": "Philadelphia",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1738619463222165500,
+        "score": 0.00012497838
+      },
+      {
+        "id": "01b21b50-6e21-30ba-eea0-38e7a0b318a8",
+        "file_id": "01b21b50-6e21-30ba-eea0-38e7a0b318a8",
+        "file_name": "698842_Invoice_20220716085621",
+        "file_extension": "pdf",
+        "file_size": 79118,
+        "file_status": "com_cpy",
+        "folder_id": "8de38372-9023-f1a6-d56b-598cff6abab4",
+        "create_ts": "2022-07-17T16:46:23.67Z",
+        "last_update_ts": "2022-07-17T16:46:04.756Z",
+        "active_ind": "Y",
+        "file_manager_id": "078f9ef1-6899-433c-8130-2cdae1ff22c2",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220716085621",
+        "entity_id": "005876",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS IV INC",
+        "operator_city_name": "Philadelphia",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1738619102326423600,
+        "score": 0.00012497838
+      },
       {
         "id": "8ff5a469-35f2-2819-c508-c344346f36f3",
         "file_id": "8ff5a469-35f2-2819-c508-c344346f36f3",
@@ -200,56 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1738564530960597000,
         "score": 0.00012497838
-      },
-      {
-        "id": "376eba02-f0bd-2b28-9aa8-e914b677b2b4",
-        "file_id": "376eba02-f0bd-2b28-9aa8-e914b677b2b4",
-        "file_name": "708149_Invoice_20220716091955",
-        "file_extension": "pdf",
-        "file_size": 65244,
-        "file_status": "com_cpy",
-        "folder_id": "8efb3d22-9dbd-9244-080e-4fa3de4917b6",
-        "create_ts": "2022-07-17T02:16:16.698Z",
-        "last_update_ts": "2022-07-17T02:16:17.206Z",
-        "active_ind": "Y",
-        "file_manager_id": "b36b4ba9-b208-479f-8edd-30e38f152395",
-        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
-        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220716091955",
-        "entity_id": "008239",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF ILLINOIS/WEST VIRGINIA LLC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1738564359457603600,
-        "score": 0.00012497838
-      },
-      {
-        "id": "c9173801-5491-5639-b562-18a019222bbc",
-        "file_id": "c9173801-5491-5639-b562-18a019222bbc",
-        "file_name": "698842_Invoice_20220716085621",
-        "file_extension": "pdf",
-        "file_size": 79118,
-        "file_status": "com_cpy",
-        "folder_id": "2e9d180c-ee89-76a2-afca-c2174c48545e",
-        "create_ts": "2022-07-17T02:10:37.449Z",
-        "last_update_ts": "2022-07-17T02:10:18.751Z",
-        "active_ind": "Y",
-        "file_manager_id": "8680e8b6-7ee0-47d6-bfd8-8bc2c42eca7c",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220716085621",
-        "entity_id": "008239",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF ILLINOIS/WEST VIRGINIA LLC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1738564003670524000,
-        "score": 0.00012497838
       }
     ],
     "facets": {
@@ -428,16 +428,16 @@
         "2019": 13891,
         "2020": 124142,
         "2021": 22740,
-        "2022": 51747,
+        "2022": 51749,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 82674,
+        "State": 82675,
         "US Senate": 53595,
         "US House": 47080,
         "Presidential": 37906,
-        "Local": 28306
+        "Local": 28307
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63709,
@@ -471,13 +471,13 @@
       },
       "source_service_code": {
         "TV": 258790,
-        "CABLE": 133836,
+        "CABLE": 133838,
         "FM": 123812,
         "AM": 47926,
         "DBS": 6619
       },
       "political_file_type": {
-        "PA": 251414,
+        "PA": 251416,
         "NCIA": 136772
       }
     }
@@ -494,8 +494,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1902,
-    "processTime": 912,
-    "responseTime": 1912
+    "queryTime": 2019,
+    "processTime": 26,
+    "responseTime": 2027
   }
 }
