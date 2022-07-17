@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 570982,
+    "numFound": 570983,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "8ff5a469-35f2-2819-c508-c344346f36f3",
+        "file_id": "8ff5a469-35f2-2819-c508-c344346f36f3",
+        "file_name": "DSCC DCCC Democratic Action 345516 Rev 0",
+        "file_extension": "pdf",
+        "file_size": 136579,
+        "file_status": "com_cpy",
+        "folder_id": "41a18712-39d1-111d-1cb9-f2c2bbfbbb9f",
+        "create_ts": "2022-07-17T15:43:27.428Z",
+        "last_update_ts": "2022-07-17T15:43:27.937Z",
+        "active_ind": "Y",
+        "file_manager_id": "e7b8ab63-83ab-4bd9-b104-07ee7c5699ea",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/DSCC DCCC Democratic Action",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/DSCC DCCC Democratic Action/DSCC DCCC Democratic Action 345516 Rev 0",
+        "entity_id": "8616",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "PHILADELPHIA",
+        "callsign": "WPVI-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1738615142799638500,
+        "score": 0.24995676
+      },
       {
         "id": "761be250-7eee-b5db-f4de-aaa2439e307d",
         "file_id": "761be250-7eee-b5db-f4de-aaa2439e307d",
@@ -226,31 +250,6 @@
         "campaign_year": "2022",
         "_version_": 1738564003670524000,
         "score": 0.00012497838
-      },
-      {
-        "id": "9de9e59d-8d92-c6dd-be7b-9f4cf69f2eda",
-        "file_id": "9de9e59d-8d92-c6dd-be7b-9f4cf69f2eda",
-        "file_name": "698842_Invoice_20220716085621",
-        "file_extension": "pdf",
-        "file_size": 79118,
-        "file_status": "com_cpy",
-        "folder_id": "69dc2785-769d-3f8e-62df-bbbf26cf860b",
-        "create_ts": "2022-07-17T01:20:25.57Z",
-        "last_update_ts": "2022-07-17T01:40:06.122Z",
-        "active_ind": "Y",
-        "file_manager_id": "69568d86-71ad-4fa8-8185-70171d2a018a",
-        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
-        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220716085621",
-        "entity_id": "012595",
-        "source_service_code": "CABLE",
-        "legal_name": "COMCAST OF ILLINOIS XI LLC",
-        "operator_city_name": "PHILADELPHIA",
-        "operator_state_name": "PA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1738562033350082600,
-        "score": 0.00012497838
       }
     ],
     "facets": {
@@ -288,7 +287,7 @@
         "GREENSBORO-H.POINT-W.SALEM": 2561,
         "PEORIA-BLOOMINGTON": 2546,
         "Greenville-Spartanburg-Asheville-Anderson": 2353,
-        "PHILADELPHIA": 2333,
+        "PHILADELPHIA": 2334,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2198,
         "ROCKFORD": 2198,
         "TAMPA-ST. PETE (SARASOTA)": 2192,
@@ -357,7 +356,7 @@
         "EL PASO (LAS CRUCES)": 642
       },
       "network_affiliation": {
-        "ABC": 64883,
+        "ABC": 64884,
         "NBC": 61234,
         "CBS": 42797,
         "FOX": 30615,
@@ -429,7 +428,7 @@
         "2019": 13891,
         "2020": 124142,
         "2021": 22740,
-        "2022": 51746,
+        "2022": 51747,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -471,7 +470,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 258789,
+        "TV": 258790,
         "CABLE": 133836,
         "FM": 123812,
         "AM": 47926,
@@ -479,7 +478,7 @@
       },
       "political_file_type": {
         "PA": 251414,
-        "NCIA": 136771
+        "NCIA": 136772
       }
     }
   },
@@ -495,8 +494,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 221,
-    "processTime": 232,
-    "responseTime": 232
+    "queryTime": 1899,
+    "processTime": 906,
+    "responseTime": 1907
   }
 }
