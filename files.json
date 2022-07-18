@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 571028,
+    "numFound": 571029,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "d4a083d1-f451-6b57-b18f-ca48e5b707b5",
+        "file_id": "d4a083d1-f451-6b57-b18f-ca48e5b707b5",
+        "file_name": "698842_Invoice_20220716085621",
+        "file_extension": "pdf",
+        "file_size": 79118,
+        "file_status": "com_cpy",
+        "folder_id": "8c60f30d-5aab-f745-5e51-79f26191bb47",
+        "create_ts": "2022-07-18T04:52:57.469Z",
+        "last_update_ts": "2022-07-18T04:53:48.083Z",
+        "active_ind": "Y",
+        "file_manager_id": "7a786ca0-3d27-4bdb-b539-f521b3e71396",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220716085621",
+        "entity_id": "009940",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF FLORIDA /ILLINOIS/MICHIGAN INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1738664813751435300,
+        "score": 0.00012497838
+      },
       {
         "id": "53cd5f11-25fa-d6b1-b3c3-40b800a94807",
         "file_id": "53cd5f11-25fa-d6b1-b3c3-40b800a94807",
@@ -228,31 +253,6 @@
         "campaign_year": "2022",
         "_version_": 1738660418225700900,
         "score": 0.24995676
-      },
-      {
-        "id": "d92d435e-59c7-e005-3533-2d3ee07f3fbb",
-        "file_id": "d92d435e-59c7-e005-3533-2d3ee07f3fbb",
-        "file_name": "WTVH CONOLE FOR CONGRESS EST 11388 07.26.22-08.01.22 - ORDER #1833933",
-        "file_extension": "pdf",
-        "file_size": 235839,
-        "file_status": "com_cpy",
-        "folder_id": "ff26038c-fa20-5db7-674d-7db908d5880c",
-        "create_ts": "2022-07-18T03:43:05.226Z",
-        "last_update_ts": "2022-07-18T03:42:46.438Z",
-        "active_ind": "Y",
-        "file_manager_id": "18a7c7d8-93f7-45cd-ade7-e3252fc40b6a",
-        "file_folder_path": "Political Files/2022/Federal/US House/CONOLE FOR CONGRESS",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/CONOLE FOR CONGRESS/WTVH CONOLE FOR CONGRESS EST 11388 07.26.22-08.01.22 - ORDER #1833933",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1738660418120843300,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -431,7 +431,7 @@
         "2019": 13891,
         "2020": 124142,
         "2021": 22740,
-        "2022": 51791,
+        "2022": 51792,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -440,7 +440,7 @@
         "US Senate": 53608,
         "US House": 47092,
         "Presidential": 37906,
-        "Local": 28315
+        "Local": 28316
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63709,
@@ -474,13 +474,13 @@
       },
       "source_service_code": {
         "TV": 258813,
-        "CABLE": 133854,
+        "CABLE": 133855,
         "FM": 123813,
         "AM": 47929,
         "DBS": 6619
       },
       "political_file_type": {
-        "PA": 251458,
+        "PA": 251459,
         "NCIA": 136772
       }
     }
@@ -497,8 +497,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1870,
-    "processTime": 876,
-    "responseTime": 1877
+    "queryTime": 1943,
+    "processTime": 953,
+    "responseTime": 1954
   }
 }
