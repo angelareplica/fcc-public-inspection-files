@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 571029,
+    "numFound": 571030,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "a7aba27b-9310-22e8-32e8-b3bf6519508c",
+        "file_id": "a7aba27b-9310-22e8-32e8-b3bf6519508c",
+        "file_name": "708149_Invoice_20220716091955",
+        "file_extension": "pdf",
+        "file_size": 65244,
+        "file_status": "com_cpy",
+        "folder_id": "ce3e8e97-0009-375e-e882-4f86f769be4c",
+        "create_ts": "2022-07-18T04:59:04.526Z",
+        "last_update_ts": "2022-07-18T04:59:04.92Z",
+        "active_ind": "Y",
+        "file_manager_id": "a5eee996-bed4-4a1f-8b34-f4c238f76a36",
+        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
+        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220716091955",
+        "entity_id": "009940",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF FLORIDA /ILLINOIS/MICHIGAN INC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1738665198689976300,
+        "score": 0.00012497838
+      },
       {
         "id": "d4a083d1-f451-6b57-b18f-ca48e5b707b5",
         "file_id": "d4a083d1-f451-6b57-b18f-ca48e5b707b5",
@@ -228,31 +253,6 @@
         "campaign_year": "2022",
         "_version_": 1738660418284421000,
         "score": 0.24995676
-      },
-      {
-        "id": "a473f416-bbcd-b9ed-219d-e27526bc1925",
-        "file_id": "a473f416-bbcd-b9ed-219d-e27526bc1925",
-        "file_name": "WTVH CONOLE FOR CONGRESS EST 11387 07.19.22-07.25.22 - ORDER #1833936",
-        "file_extension": "pdf",
-        "file_size": 225758,
-        "file_status": "com_cpy",
-        "folder_id": "ff26038c-fa20-5db7-674d-7db908d5880c",
-        "create_ts": "2022-07-18T03:43:05.222Z",
-        "last_update_ts": "2022-07-18T03:42:46.534Z",
-        "active_ind": "Y",
-        "file_manager_id": "5c085cbe-e85a-43f3-99c1-bcfd84a741fc",
-        "file_folder_path": "Political Files/2022/Federal/US House/CONOLE FOR CONGRESS",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/CONOLE FOR CONGRESS/WTVH CONOLE FOR CONGRESS EST 11387 07.19.22-07.25.22 - ORDER #1833936",
-        "entity_id": "74151",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SYRACUSE",
-        "callsign": "WTVH",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1738660418225700900,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -431,12 +431,12 @@
         "2019": 13891,
         "2020": 124142,
         "2021": 22740,
-        "2022": 51792,
+        "2022": 51793,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 82684,
+        "State": 82685,
         "US Senate": 53608,
         "US House": 47092,
         "Presidential": 37906,
@@ -474,13 +474,13 @@
       },
       "source_service_code": {
         "TV": 258813,
-        "CABLE": 133855,
+        "CABLE": 133856,
         "FM": 123813,
         "AM": 47929,
         "DBS": 6619
       },
       "political_file_type": {
-        "PA": 251459,
+        "PA": 251460,
         "NCIA": 136772
       }
     }
@@ -497,8 +497,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1943,
-    "processTime": 953,
-    "responseTime": 1954
+    "queryTime": 1937,
+    "processTime": 945,
+    "responseTime": 1945
   }
 }
