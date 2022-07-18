@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 571044,
+    "numFound": 571045,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "ae99b923-a09f-a3ce-9420-c8ba93f95690",
+        "file_id": "ae99b923-a09f-a3ce-9420-c8ba93f95690",
+        "file_name": "Harden for Congress - WCEI-FM revised schedule - 07-18-22",
+        "file_extension": "pdf",
+        "file_size": 617615,
+        "file_status": "com_cpy",
+        "folder_id": "6aefd97f-b24c-83b5-93fb-52e1c24241ac",
+        "create_ts": "2022-07-18T14:24:05.837Z",
+        "last_update_ts": "2022-07-18T14:23:46.906Z",
+        "active_ind": "Y",
+        "file_manager_id": "f8ad086c-6cf7-4d8d-8b19-b9d21b253a16",
+        "file_folder_path": "Political Files/2022/Federal/US House/Harden for Congress",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Harden for Congress/Harden for Congress - WCEI-FM revised schedule - 07-18-22",
+        "entity_id": "11668",
+        "source_service_code": "FM",
+        "callsign": "WCEI-FM",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1738700746986094600,
+        "score": 0.24995676
+      },
       {
         "id": "4d59ddc6-fc95-89a5-5516-268be0ae3ebe",
         "file_id": "4d59ddc6-fc95-89a5-5516-268be0ae3ebe",
@@ -219,31 +242,6 @@
         "campaign_year": "2022",
         "_version_": 1738694470412533800,
         "score": 0.24995676
-      },
-      {
-        "id": "a885d4b4-e27d-ff8c-3480-02d99eaee52b",
-        "file_id": "a885d4b4-e27d-ff8c-3480-02d99eaee52b",
-        "file_name": "Balint - D - Congress - WPTZ - 07-19-2022",
-        "file_extension": "pdf",
-        "file_size": 274843,
-        "file_status": "com_cpy",
-        "folder_id": "73d26b05-1395-8a0c-1650-637296675156",
-        "create_ts": "2022-07-18T12:44:20.133Z",
-        "last_update_ts": "2022-07-18T12:44:01.147Z",
-        "active_ind": "Y",
-        "file_manager_id": "6287750b-f5f7-4f73-bf96-a6054d3f2696",
-        "file_folder_path": "Political Files/2022/Federal/US House/Vermont/Becca Balint",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Vermont/Becca Balint/Balint - D - Congress - WPTZ - 07-19-2022",
-        "entity_id": "57476",
-        "source_service_code": "TV",
-        "network_affiliation": "NBC",
-        "nielsen_dma_rank": "BURLINGTON-PLATTSBURGH",
-        "callsign": "WPTZ",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1738694470436651000,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -422,14 +420,14 @@
         "2019": 13891,
         "2020": 124142,
         "2021": 22740,
-        "2022": 51807,
+        "2022": 51808,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 82690,
         "US Senate": 53610,
-        "US House": 47096,
+        "US House": 47097,
         "Presidential": 37906,
         "Local": 28316
       },
@@ -466,12 +464,12 @@
       "source_service_code": {
         "TV": 258820,
         "CABLE": 133856,
-        "FM": 123818,
+        "FM": 123819,
         "AM": 47931,
         "DBS": 6619
       },
       "political_file_type": {
-        "PA": 251471,
+        "PA": 251472,
         "NCIA": 136775
       }
     }
@@ -488,8 +486,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1919,
-    "processTime": 928,
-    "responseTime": 1928
+    "queryTime": 1862,
+    "processTime": 870,
+    "responseTime": 1870
   }
 }
