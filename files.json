@@ -497,8 +497,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1891,
-    "processTime": 902,
-    "responseTime": 1902
+    "queryTime": 1902,
+    "processTime": 911,
+    "responseTime": 1911
   }
 }
