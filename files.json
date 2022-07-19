@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 571382,
+    "numFound": 571384,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "336ba87e-69a1-7e86-d03c-702c61d28db5",
+        "file_id": "336ba87e-69a1-7e86-d03c-702c61d28db5",
+        "file_name": "1193833-1",
+        "file_extension": "pdf",
+        "file_size": 136139,
+        "file_status": "com_cpy",
+        "folder_id": "88448d79-6f13-1377-760a-34876d8a14d7",
+        "create_ts": "2022-07-19T11:14:00.122Z",
+        "last_update_ts": "2022-07-19T11:14:00.416Z",
+        "active_ind": "Y",
+        "file_manager_id": "905bb6a3-3c74-42b6-beb7-f127f226aa21",
+        "file_folder_path": "Political Files/2022/Federal/US House/Fox/MN-05/Don Samuels",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Fox/MN-05/Don Samuels/1193833-1",
+        "entity_id": "83714",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "MINNEAPOLIS-ST. PAUL",
+        "callsign": "KFTC",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1738779383995302000,
+        "score": 0.24995676
+      },
+      {
+        "id": "fe8bed12-4fe7-9ad0-93aa-d0bf2bbb972c",
+        "file_id": "fe8bed12-4fe7-9ad0-93aa-d0bf2bbb972c",
+        "file_name": "1193833-1",
+        "file_extension": "pdf",
+        "file_size": 136139,
+        "file_status": "com_cpy",
+        "folder_id": "07589708-e2ea-8ca3-6585-ce94da298bfe",
+        "create_ts": "2022-07-19T11:12:50.253Z",
+        "last_update_ts": "2022-07-19T11:12:50.618Z",
+        "active_ind": "Y",
+        "file_manager_id": "c617f7c8-c933-4659-9c7c-636fcd3b7261",
+        "file_folder_path": "Political Files/2022/Federal/US House/MN-05/Don Samuels",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/MN-05/Don Samuels/1193833-1",
+        "entity_id": "68883",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "MINNEAPOLIS-ST. PAUL",
+        "callsign": "KMSP-TV",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1738779310801551400,
+        "score": 0.24995676
+      },
       {
         "id": "f7031ec3-b09e-292a-a0f3-675ec8f41635",
         "file_id": "f7031ec3-b09e-292a-a0f3-675ec8f41635",
@@ -198,55 +248,6 @@
         "campaign_year": "2022",
         "_version_": 1738736543966691300,
         "score": 0.24995676
-      },
-      {
-        "id": "2d483ea6-7637-2233-7264-cc5608b161dc",
-        "file_id": "2d483ea6-7637-2233-7264-cc5608b161dc",
-        "file_name": "KODE SHOW ME VALUES PAC ORDER 3626631 PB19 071822",
-        "file_extension": "pdf",
-        "file_size": 401705,
-        "file_status": "com_cpy",
-        "folder_id": "29d0ecb5-92a9-9a78-d35b-9ac38ed913e4",
-        "create_ts": "2022-07-18T23:52:06.271Z",
-        "last_update_ts": "2022-07-18T23:52:06.69Z",
-        "active_ind": "Y",
-        "file_manager_id": "366b695f-e037-42cd-b17f-9d8e8dd8cccf",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Show Me Values PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Show Me Values PAC/KODE SHOW ME VALUES PAC ORDER 3626631 PB19 071822",
-        "entity_id": "18283",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "JOPLIN-PITTSBURG",
-        "callsign": "KODE-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1738736482802204700,
-        "score": 0.24995676
-      },
-      {
-        "id": "13923d07-59eb-f18e-8942-c5a5ec7e5ec1",
-        "file_id": "13923d07-59eb-f18e-8942-c5a5ec7e5ec1",
-        "file_name": "Joe Kent for Congress R_Contract  07.18.2022",
-        "file_extension": "pdf",
-        "file_size": 39567,
-        "file_status": "com_cpy",
-        "folder_id": "15fa16ba-882f-b954-22cb-5725bd6a060f",
-        "create_ts": "2022-07-18T23:44:18.404Z",
-        "last_update_ts": "2022-07-18T23:43:59.415Z",
-        "active_ind": "Y",
-        "file_manager_id": "75f2a78a-dbff-4ba7-b7d0-93401275ee7c",
-        "file_folder_path": "Political Files/2022/Federal/US House/Joe Kent for Congress-R",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Joe Kent for Congress-R/Joe Kent for Congress R_Contract  07.18.2022",
-        "entity_id": "21649",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "PORTLAND OR",
-        "callsign": "KATU",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1738735992371675100,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -268,7 +269,7 @@
         "PORTLAND OR": 3539,
         "EUGENE": 3518,
         "MISSOULA": 3484,
-        "MINNEAPOLIS-ST. PAUL": 3277,
+        "MINNEAPOLIS-ST. PAUL": 3279,
         "CHAMPAIGN&SPRNGFLD-DECATUR": 3247,
         "BEND OR": 3241,
         "SACRAMNTO-STKTON-MODESTO": 3098,
@@ -356,7 +357,7 @@
         "ABC": 64979,
         "NBC": 61285,
         "CBS": 42842,
-        "FOX": 30630,
+        "FOX": 30632,
         "PBS": 15171,
         "CW": 12454,
         "IND": 3049,
@@ -425,14 +426,14 @@
         "2019": 13891,
         "2020": 124129,
         "2021": 22740,
-        "2022": 52155,
+        "2022": 52157,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 82778,
         "US Senate": 53708,
-        "US House": 47132,
+        "US House": 47134,
         "Presidential": 37893,
         "Local": 28331
       },
@@ -467,14 +468,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 259040,
+        "TV": 259042,
         "CABLE": 133858,
         "FM": 123900,
         "AM": 47960,
         "DBS": 6624
       },
       "political_file_type": {
-        "PA": 251695,
+        "PA": 251697,
         "NCIA": 136886
       }
     }
@@ -491,8 +492,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1908,
-    "processTime": 918,
-    "responseTime": 1918
+    "queryTime": 1923,
+    "processTime": 933,
+    "responseTime": 1933
   }
 }
