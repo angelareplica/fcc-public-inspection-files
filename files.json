@@ -1,9 +1,59 @@
 {
   "response": {
-    "numFound": 571380,
+    "numFound": 571382,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "f7031ec3-b09e-292a-a0f3-675ec8f41635",
+        "file_id": "f7031ec3-b09e-292a-a0f3-675ec8f41635",
+        "file_name": "708149_Invoice_20220716091955",
+        "file_extension": "pdf",
+        "file_size": 65244,
+        "file_status": "com_cpy",
+        "folder_id": "d690428e-7e9d-dc28-1851-04443bfc1c43",
+        "create_ts": "2022-07-19T10:14:52.961Z",
+        "last_update_ts": "2022-07-19T10:15:46.516Z",
+        "active_ind": "Y",
+        "file_manager_id": "2a8ac103-5749-4d8b-9ea5-5189fc5f0a86",
+        "file_folder_path": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE",
+        "full_qualified_file_name": "Political Files/2022/State/Chicago/State House/DICIANNI FOR DUPAGE/708149_Invoice_20220716091955",
+        "entity_id": "004027",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS/INDIANA/OHIO, LLC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1738775664508534800,
+        "score": 0.00012497838
+      },
+      {
+        "id": "fff6ee5e-16be-3ade-c494-4c24015b404e",
+        "file_id": "fff6ee5e-16be-3ade-c494-4c24015b404e",
+        "file_name": "698842_Invoice_20220716085621",
+        "file_extension": "pdf",
+        "file_size": 79118,
+        "file_status": "com_cpy",
+        "folder_id": "a2a543e5-1b38-c002-5da8-9a2eaf326617",
+        "create_ts": "2022-07-19T10:09:14.896Z",
+        "last_update_ts": "2022-07-19T10:10:08.411Z",
+        "active_ind": "Y",
+        "file_manager_id": "9eacb91c-9ee0-4833-ae05-282edf14e1df",
+        "file_folder_path": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI",
+        "full_qualified_file_name": "Political Files/2022/Local/Chicago/County Executive/AMP - HART FOR DUPAGE - CHI/698842_Invoice_20220716085621",
+        "entity_id": "004027",
+        "source_service_code": "CABLE",
+        "legal_name": "COMCAST OF ILLINOIS/INDIANA/OHIO, LLC",
+        "operator_city_name": "PHILADELPHIA",
+        "operator_state_name": "PA",
+        "political_file_type": "PA",
+        "office_type": "Local",
+        "campaign_year": "2022",
+        "_version_": 1738775309996523500,
+        "score": 0.00012497838
+      },
       {
         "id": "07b79139-412d-5553-90f8-7915e3f05457",
         "file_id": "07b79139-412d-5553-90f8-7915e3f05457",
@@ -197,54 +247,6 @@
         "campaign_year": "2022",
         "_version_": 1738735992371675100,
         "score": 0.24995676
-      },
-      {
-        "id": "0e32cc9d-11bc-ea5a-009f-da3f32323179",
-        "file_id": "0e32cc9d-11bc-ea5a-009f-da3f32323179",
-        "file_name": "MIKE HADALLER PUD COMMISSIONER DISTRICT 3 KELA AM 15907-07182022161140",
-        "file_extension": "pdf",
-        "file_size": 134783,
-        "file_status": "com_cpy",
-        "folder_id": "c46c16ce-f27a-56b9-172b-07fa7f09548f",
-        "create_ts": "2022-07-18T23:20:01.682Z",
-        "last_update_ts": "2022-07-18T23:40:05.441Z",
-        "active_ind": "Y",
-        "file_manager_id": "7b19e41d-21a8-4049-9524-7220a705d90f",
-        "file_folder_path": "Political Files/2022/Local/Mike Hadaller Lewis County PUD Commissioner District 3",
-        "full_qualified_file_name": "Political Files/2022/Local/Mike Hadaller Lewis County PUD Commissioner District 3/MIKE HADALLER PUD COMMISSIONER DISTRICT 3 KELA AM 15907-07182022161140",
-        "entity_id": "32996",
-        "source_service_code": "AM",
-        "callsign": "KELA",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1738735671910072300,
-        "score": 0.24995676
-      },
-      {
-        "id": "823a71c2-81a0-62d0-e81d-ddd40d9f740e",
-        "file_id": "823a71c2-81a0-62d0-e81d-ddd40d9f740e",
-        "file_name": "Coaliton for Safe Responsible Gaming KFTV order #194671  NAB 071822",
-        "file_extension": "pdf",
-        "file_size": 210359,
-        "file_status": "com_cpy",
-        "folder_id": "9d60a11e-8a2a-3b45-2ab1-c38d3f807f15",
-        "create_ts": "2022-07-18T23:38:48.764Z",
-        "last_update_ts": "2022-07-18T23:38:29.627Z",
-        "active_ind": "Y",
-        "file_manager_id": "50588be1-b8a4-43f4-96d3-29272243b4bd",
-        "file_folder_path": "Political Files/2022/State/Coalition for Safe Responsible Gambling",
-        "full_qualified_file_name": "Political Files/2022/State/Coalition for Safe Responsible Gambling/Coaliton for Safe Responsible Gaming KFTV order #194671  NAB 071822",
-        "entity_id": "34439",
-        "source_service_code": "TV",
-        "network_affiliation": "UNIVISION",
-        "nielsen_dma_rank": "FRESNO-VISALIA",
-        "callsign": "KFTV-DT",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1738735646559699000,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -423,16 +425,16 @@
         "2019": 13891,
         "2020": 124129,
         "2021": 22740,
-        "2022": 52153,
+        "2022": 52155,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 82777,
+        "State": 82778,
         "US Senate": 53708,
         "US House": 47132,
         "Presidential": 37893,
-        "Local": 28330
+        "Local": 28331
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63709,
@@ -466,13 +468,13 @@
       },
       "source_service_code": {
         "TV": 259040,
-        "CABLE": 133856,
+        "CABLE": 133858,
         "FM": 123900,
         "AM": 47960,
         "DBS": 6624
       },
       "political_file_type": {
-        "PA": 251693,
+        "PA": 251695,
         "NCIA": 136886
       }
     }
@@ -489,8 +491,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1886,
-    "processTime": 900,
-    "responseTime": 1901
+    "queryTime": 1906,
+    "processTime": 914,
+    "responseTime": 1915
   }
 }
