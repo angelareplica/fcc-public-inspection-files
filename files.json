@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 571384,
+    "numFound": 571386,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "fe9a6ccf-5dbe-8541-b0a8-8c3e55f2d22e",
+        "file_id": "fe9a6ccf-5dbe-8541-b0a8-8c3e55f2d22e",
+        "file_name": "Friends of George Ranville State Senate 071822",
+        "file_extension": "pdf",
+        "file_size": 867701,
+        "file_status": "com_cpy",
+        "folder_id": "d0ae7751-d932-b9cd-8f4f-82b1f3c1613f",
+        "create_ts": "2022-07-19T11:41:00.096Z",
+        "last_update_ts": "2022-07-19T11:41:54.018Z",
+        "active_ind": "Y",
+        "file_manager_id": "484bf2b3-29d9-4683-b282-97b7dd9066db",
+        "file_folder_path": "Political Files/2022/State/Friends of George Ranville for State Senate",
+        "full_qualified_file_name": "Political Files/2022/State/Friends of George Ranville for State Senate/Friends of George Ranville State Senate 071822",
+        "entity_id": "70525",
+        "source_service_code": "FM",
+        "callsign": "WTCM-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1738781082883457000,
+        "score": 0.24995676
+      },
+      {
+        "id": "b87655c7-825b-a5c2-3e2c-2104389bbc4d",
+        "file_id": "b87655c7-825b-a5c2-3e2c-2104389bbc4d",
+        "file_name": "Friends of George Ranville State Senate 071822",
+        "file_extension": "pdf",
+        "file_size": 867701,
+        "file_status": "com_cpy",
+        "folder_id": "3293cc1e-8e61-1c6d-f031-df12cd1827d8",
+        "create_ts": "2022-07-19T11:39:34.593Z",
+        "last_update_ts": "2022-07-19T11:39:15.597Z",
+        "active_ind": "Y",
+        "file_manager_id": "a6818be5-d2dc-475b-bca8-da68ae5c1c52",
+        "file_folder_path": "Political Files/2022/State/Friends of George Ranville for State Senate",
+        "full_qualified_file_name": "Political Files/2022/State/Friends of George Ranville for State Senate/Friends of George Ranville State Senate 071822",
+        "entity_id": "70524",
+        "source_service_code": "AM",
+        "callsign": "WTCM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1738780993408467000,
+        "score": 0.24995676
+      },
       {
         "id": "336ba87e-69a1-7e86-d03c-702c61d28db5",
         "file_id": "336ba87e-69a1-7e86-d03c-702c61d28db5",
@@ -199,55 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1738736668475654100,
         "score": 0.24995676
-      },
-      {
-        "id": "be7c2186-c88e-5775-35f7-b744687716c1",
-        "file_id": "be7c2186-c88e-5775-35f7-b744687716c1",
-        "file_name": "KODE JAY WASSON ORDER 3533587 PB19 071822",
-        "file_extension": "pdf",
-        "file_size": 298895,
-        "file_status": "com_cpy",
-        "folder_id": "b813c223-c3b5-6a7d-7f6c-f89684cce07e",
-        "create_ts": "2022-07-18T23:54:12.283Z",
-        "last_update_ts": "2022-07-18T23:54:12.746Z",
-        "active_ind": "Y",
-        "file_manager_id": "4dd81bfa-50b5-4265-942f-93a2fbb25d6d",
-        "file_folder_path": "Political Files/2022/Federal/US House/Missouri/Jay Wasson",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Missouri/Jay Wasson/KODE JAY WASSON ORDER 3533587 PB19 071822",
-        "entity_id": "18283",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "JOPLIN-PITTSBURG",
-        "callsign": "KODE-TV",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1738736614983598000,
-        "score": 0.24995676
-      },
-      {
-        "id": "5d0c8012-04f1-7fe7-efd8-3f83a08bdba4",
-        "file_id": "5d0c8012-04f1-7fe7-efd8-3f83a08bdba4",
-        "file_name": "KODE CONSERVATIVE AMERICANS PAC ORDER 3629799 PB19 071822",
-        "file_extension": "pdf",
-        "file_size": 227695,
-        "file_status": "com_cpy",
-        "folder_id": "90d20917-8770-7554-8395-37ed10dafefa",
-        "create_ts": "2022-07-18T23:53:04.582Z",
-        "last_update_ts": "2022-07-18T23:53:57.222Z",
-        "active_ind": "Y",
-        "file_manager_id": "cd9c9caa-0591-479a-9a20-ccda88c9ae06",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Conservative Americans PAC",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Conservative Americans PAC/KODE CONSERVATIVE AMERICANS PAC ORDER 3629799 PB19 071822",
-        "entity_id": "18283",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "JOPLIN-PITTSBURG",
-        "callsign": "KODE-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1738736543966691300,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -426,12 +423,12 @@
         "2019": 13891,
         "2020": 124129,
         "2021": 22740,
-        "2022": 52157,
+        "2022": 52159,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 82778,
+        "State": 82780,
         "US Senate": 53708,
         "US House": 47134,
         "Presidential": 37893,
@@ -470,12 +467,12 @@
       "source_service_code": {
         "TV": 259042,
         "CABLE": 133858,
-        "FM": 123900,
-        "AM": 47960,
+        "FM": 123901,
+        "AM": 47961,
         "DBS": 6624
       },
       "political_file_type": {
-        "PA": 251697,
+        "PA": 251699,
         "NCIA": 136886
       }
     }
@@ -492,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1923,
-    "processTime": 933,
-    "responseTime": 1933
+    "queryTime": 1861,
+    "processTime": 868,
+    "responseTime": 1869
   }
 }
