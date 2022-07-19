@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 571379,
+    "numFound": 571380,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "07b79139-412d-5553-90f8-7915e3f05457",
+        "file_id": "07b79139-412d-5553-90f8-7915e3f05457",
+        "file_name": "Confirm_9921-001",
+        "file_extension": "pdf",
+        "file_size": 20431,
+        "file_status": "com_cpy",
+        "folder_id": "8de6f662-80b3-7ab5-78ec-3d7e459bd283",
+        "create_ts": "2022-07-19T03:26:46.507Z",
+        "last_update_ts": "2022-07-19T03:27:39.306Z",
+        "active_ind": "Y",
+        "file_manager_id": "176d17a7-9b59-44ea-9d04-1da729543a9f",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Missouri Stands United EST 2937",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Missouri Stands United EST 2937/Confirm_9921-001",
+        "entity_id": "6584",
+        "source_service_code": "FM",
+        "callsign": "KMEM-FM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1738749988530290700,
+        "score": 0.24995676
+      },
       {
         "id": "ac57628b-0edb-966f-e301-39fd303d3ca6",
         "file_id": "ac57628b-0edb-966f-e301-39fd303d3ca6",
@@ -223,30 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1738735646559699000,
         "score": 0.24995676
-      },
-      {
-        "id": "d6809df6-b167-229e-2edd-0a044c630806",
-        "file_id": "d6809df6-b167-229e-2edd-0a044c630806",
-        "file_name": "EDF Action Votes - NAB-PB-19 - 09 27 2022(Issue)",
-        "file_extension": "pdf",
-        "file_size": 1060578,
-        "file_status": "com_cpy",
-        "folder_id": "1f0d1645-422b-6b90-1d35-0bb824e61012",
-        "create_ts": "2022-07-18T23:37:53.555Z",
-        "last_update_ts": "2022-07-18T23:37:34.624Z",
-        "active_ind": "Y",
-        "file_manager_id": "570c7950-b6c4-4b2b-8d46-2a8992bda773",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/EDF Action Votes - NAB-PB-19 - 09 27 2022(Issue)",
-        "entity_id": "66781",
-        "source_service_code": "TV",
-        "network_affiliation": "CBS",
-        "nielsen_dma_rank": "SEATTLE-TACOMA",
-        "callsign": "KIRO-TV",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1738735588891164700,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -425,7 +423,7 @@
         "2019": 13891,
         "2020": 124129,
         "2021": 22740,
-        "2022": 52152,
+        "2022": 52153,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -469,13 +467,13 @@
       "source_service_code": {
         "TV": 259040,
         "CABLE": 133856,
-        "FM": 123899,
+        "FM": 123900,
         "AM": 47960,
         "DBS": 6624
       },
       "political_file_type": {
         "PA": 251693,
-        "NCIA": 136885
+        "NCIA": 136886
       }
     }
   },
@@ -491,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1861,
-    "processTime": 869,
-    "responseTime": 1870
+    "queryTime": 222,
+    "processTime": 234,
+    "responseTime": 234
   }
 }
