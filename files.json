@@ -1,9 +1,54 @@
 {
   "response": {
-    "numFound": 572178,
+    "numFound": 572180,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "a1691807-5510-937b-4f52-b9a18ff9796b",
+        "file_id": "a1691807-5510-937b-4f52-b9a18ff9796b",
+        "file_name": "Club-for-Growth-Action-Political-PFD-07-20-2022",
+        "file_extension": "pdf",
+        "file_size": 62486,
+        "file_status": "com_cpy",
+        "folder_id": "0f524d19-1e91-e319-b893-04f842bb506e",
+        "create_ts": "2022-07-20T22:42:27.914Z",
+        "last_update_ts": "2022-07-20T22:42:28.109Z",
+        "active_ind": "Y",
+        "file_manager_id": "e8bff7bc-c8ee-424f-87fc-81f93ceec60e",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action/Club-for-Growth-Action-Political-PFD-07-20-2022",
+        "entity_id": "36918",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "TUCSON (SIERRA VISTA)",
+        "callsign": "KGUN-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1738913295327297500,
+        "score": 0.24995676
+      },
+      {
+        "id": "23b1628b-cb2d-397d-71d1-efdd4669b394",
+        "file_id": "23b1628b-cb2d-397d-71d1-efdd4669b394",
+        "file_name": "Signed NAB Form for Yes on 27 CAS30TV9325H We Urge You to Vote Rev 072022",
+        "file_extension": "pdf",
+        "file_size": 1083350,
+        "file_status": "com_cpy",
+        "folder_id": "fc626077-fb75-e8fd-03df-94aba0dfa22d",
+        "create_ts": "2022-07-20T22:26:18.052Z",
+        "last_update_ts": "2022-07-20T22:26:18.654Z",
+        "active_ind": "Y",
+        "file_manager_id": "de851bde-f580-410e-ada4-09599d3b8223",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/California/Californians for Solutions to Homelessness and Mental Health Support",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/California/Californians for Solutions to Homelessness and Mental Health Support/Signed NAB Form for Yes on 27 CAS30TV9325H We Urge You to Vote Rev 072022",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1738912278779003000,
+        "score": 0.24995676
+      },
       {
         "id": "b4889a96-7e17-c1d9-eedf-baa749e6c1eb",
         "file_id": "b4889a96-7e17-c1d9-eedf-baa749e6c1eb",
@@ -196,50 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1738910773043789800,
         "score": 0.24995676
-      },
-      {
-        "id": "e321b091-4ee5-5502-b4b9-87f16a040ede",
-        "file_id": "e321b091-4ee5-5502-b4b9-87f16a040ede",
-        "file_name": "CATHERINE CORTEZ MASTO - N# 3802035 - 071322-071822 - IC",
-        "file_extension": "pdf",
-        "file_size": 142916,
-        "file_status": "com_cpy",
-        "folder_id": "6854d83b-6589-b710-4dfa-75246848aa87",
-        "create_ts": "2022-07-20T21:46:16.463Z",
-        "last_update_ts": "2022-07-20T22:00:05.939Z",
-        "active_ind": "Y",
-        "file_manager_id": "a45891a6-ecd0-4e84-86da-36563811600b",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Nevada/Catherine Cortez Masto NV",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Nevada/Catherine Cortez Masto NV/CATHERINE CORTEZ MASTO - N# 3802035 - 071322-071822 - IC",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1738910570010116000,
-        "score": 0.24995676
-      },
-      {
-        "id": "d9c969f1-cfc3-4df6-f8f0-58929f0124f7",
-        "file_id": "d9c969f1-cfc3-4df6-f8f0-58929f0124f7",
-        "file_name": "NAB form - Norton AZ D2 AMP EN22071901H Shady Schweikert 072022",
-        "file_extension": "pdf",
-        "file_size": 1457785,
-        "file_status": "com_cpy",
-        "folder_id": "a053e9e3-8e81-5cfb-11bf-a6fe87a82422",
-        "create_ts": "2022-07-20T21:51:17.497Z",
-        "last_update_ts": "2022-07-20T21:52:15.074Z",
-        "active_ind": "Y",
-        "file_manager_id": "e397ac38-6248-4c52-b9e4-0c6393575264",
-        "file_folder_path": "Political Files/2022/Federal/US House/Arizona/Elijah Norton AZ 1st CD",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/Arizona/Elijah Norton AZ 1st CD/NAB form - Norton AZ D2 AMP EN22071901H Shady Schweikert 072022",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1738910076263989200,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -338,7 +339,7 @@
         "RENO": 716,
         "BUFFALO": 704,
         "SAN FRANCISCO-OAK-SAN JOSE": 694,
-        "TUCSON (SIERRA VISTA)": 683,
+        "TUCSON (SIERRA VISTA)": 684,
         "BANGOR": 676,
         "HARTFORD & NEW HAVEN": 673,
         "MONTEREY-SALINAS": 668,
@@ -346,7 +347,7 @@
         "EL PASO (LAS CRUCES)": 642
       },
       "network_affiliation": {
-        "ABC": 65065,
+        "ABC": 65066,
         "NBC": 61370,
         "CBS": 42918,
         "FOX": 30674,
@@ -418,7 +419,7 @@
         "2019": 13891,
         "2020": 124069,
         "2021": 22739,
-        "2022": 52962,
+        "2022": 52964,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -460,15 +461,15 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 259377,
+        "TV": 259378,
         "CABLE": 133874,
         "FM": 124185,
         "AM": 48076,
-        "DBS": 6666
+        "DBS": 6667
       },
       "political_file_type": {
         "PA": 252194,
-        "NCIA": 137134
+        "NCIA": 137136
       }
     }
   },
@@ -484,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1893,
-    "processTime": 904,
-    "responseTime": 1904
+    "queryTime": 1912,
+    "processTime": 919,
+    "responseTime": 1919
   }
 }
