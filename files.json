@@ -1,9 +1,53 @@
 {
   "response": {
-    "numFound": 572203,
+    "numFound": 572205,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "dadf7038-45fd-c2ba-4f99-108ec09b0ce3",
+        "file_id": "dadf7038-45fd-c2ba-4f99-108ec09b0ce3",
+        "file_name": "Americans For Prosperity Action MI-03 NAB 7.15 - WGRD - EST.2935",
+        "file_extension": "pdf",
+        "file_size": 1726635,
+        "file_status": "com_cpy",
+        "folder_id": "aa50cd86-9589-ee11-1253-9ff11120dca0",
+        "create_ts": "2022-07-21T03:39:09.917Z",
+        "last_update_ts": "2022-07-21T03:40:07.825Z",
+        "active_ind": "Y",
+        "file_manager_id": "9da2eec0-3f77-4ad2-a81e-7768404bb74a",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Americans For Prosperity Action/Americans For Prosperity Action - EST2935",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Americans For Prosperity Action/Americans For Prosperity Action - EST2935/Americans For Prosperity Action MI-03 NAB 7.15 - WGRD - EST.2935",
+        "entity_id": "55650",
+        "source_service_code": "FM",
+        "callsign": "WGRD-FM",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1738931962326810600,
+        "score": 0.24995676
+      },
+      {
+        "id": "6c04331e-d1b4-bf6f-ab15-c2cdb1476747",
+        "file_id": "6c04331e-d1b4-bf6f-ab15-c2cdb1476747",
+        "file_name": "Americans For Prosperity Action MI-03 NAB 7.15 - WFGR - EST.2935",
+        "file_extension": "pdf",
+        "file_size": 1726890,
+        "file_status": "com_cpy",
+        "folder_id": "6ad8bb4e-bfa7-438f-9df5-65fb0db8a307",
+        "create_ts": "2022-07-21T03:37:00.189Z",
+        "last_update_ts": "2022-07-21T03:37:00.77Z",
+        "active_ind": "Y",
+        "file_manager_id": "64b3e996-79dc-4de0-b34b-0ad7ac1138b2",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Americans For Prosperity Action/Americans For Prosperity Action - EST2935",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Americans For Prosperity Action/Americans For Prosperity Action - EST2935/Americans For Prosperity Action MI-03 NAB 7.15 - WFGR - EST.2935",
+        "entity_id": "25837",
+        "source_service_code": "FM",
+        "callsign": "WFGR",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1738931826467012600,
+        "score": 0.24995676
+      },
       {
         "id": "92c92f33-caff-f7df-8db4-84374a62a78d",
         "file_id": "92c92f33-caff-f7df-8db4-84374a62a78d",
@@ -191,50 +235,6 @@
         "campaign_year": "2022",
         "_version_": 1738919293748248600,
         "score": 0.24995676
-      },
-      {
-        "id": "4b80de0c-bedd-756c-2c81-bb4e3d488608",
-        "file_id": "4b80de0c-bedd-756c-2c81-bb4e3d488608",
-        "file_name": "Yes on 27 - BCRA 07072022",
-        "file_extension": "pdf",
-        "file_size": 275113,
-        "file_status": "com_cpy",
-        "folder_id": "d62aa414-0001-ac44-d506-039c6aca2599",
-        "create_ts": "2022-07-21T00:15:59.884Z",
-        "last_update_ts": "2022-07-21T00:16:00.449Z",
-        "active_ind": "Y",
-        "file_manager_id": "71d94904-c1a3-4d32-a17f-6e24d4a713f0",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Yes on 27",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Yes on 27/Yes on 27 - BCRA 07072022",
-        "entity_id": "4",
-        "source_service_code": "AM",
-        "callsign": "KIXW",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1738919180291276800,
-        "score": 0.24995676
-      },
-      {
-        "id": "3785bd61-c616-15e4-c349-e2f6144e36ab",
-        "file_id": "3785bd61-c616-15e4-c349-e2f6144e36ab",
-        "file_name": "Yes on 27 - BCRA 07072022",
-        "file_extension": "pdf",
-        "file_size": 275113,
-        "file_status": "com_cpy",
-        "folder_id": "30989330-73c9-12cf-a5df-9b2f60de0f27",
-        "create_ts": "2022-07-21T00:13:31.319Z",
-        "last_update_ts": "2022-07-21T00:13:31.714Z",
-        "active_ind": "Y",
-        "file_manager_id": "9b48dfe2-7ee3-4e03-ab83-1a011f71edc2",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Yes on 27",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Yes on 27/Yes on 27 - BCRA 07072022",
-        "entity_id": "55181",
-        "source_service_code": "FM",
-        "callsign": "KIXA",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1738919024348102700,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -413,7 +413,7 @@
         "2019": 13891,
         "2020": 124069,
         "2021": 22739,
-        "2022": 52980,
+        "2022": 52982,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -457,13 +457,13 @@
       "source_service_code": {
         "TV": 259382,
         "CABLE": 133874,
-        "FM": 124198,
+        "FM": 124200,
         "AM": 48082,
         "DBS": 6667
       },
       "political_file_type": {
         "PA": 252200,
-        "NCIA": 137146
+        "NCIA": 137148
       }
     }
   },
@@ -479,8 +479,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1910,
-    "processTime": 917,
-    "responseTime": 1918
+    "queryTime": 1866,
+    "processTime": 873,
+    "responseTime": 1874
   }
 }
