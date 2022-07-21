@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 572479,
+    "numFound": 572480,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "d61d4933-d92d-f36b-2fee-8832a1b063dc",
+        "file_id": "d61d4933-d92d-f36b-2fee-8832a1b063dc",
+        "file_name": "Claman for Senate 072122",
+        "file_extension": "docx",
+        "file_size": 17142,
+        "file_status": "com_prc",
+        "folder_id": "15ba4cba-0ea1-f8df-4da2-c3e1b2616549",
+        "create_ts": "2022-07-21T23:38:14.686Z",
+        "last_update_ts": "2022-07-21T23:37:56.21Z",
+        "active_ind": "Y",
+        "file_manager_id": "bca21f23-196c-4da1-a6ed-532034cbdfdd",
+        "file_folder_path": "Political Files/2022/State/Claman for Senate",
+        "full_qualified_file_name": "Political Files/2022/State/Claman for Senate/Claman for Senate 072122",
+        "entity_id": "10839",
+        "source_service_code": "FM",
+        "callsign": "KLEF",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1739007403349770200,
+        "score": 0.24995676
+      },
       {
         "id": "0d9b05c4-70bb-830d-a38f-6f72ea51c2d7",
         "file_id": "0d9b05c4-70bb-830d-a38f-6f72ea51c2d7",
@@ -222,28 +245,6 @@
         "campaign_year": "2022",
         "_version_": 1739002856404418600,
         "score": 0.24995676
-      },
-      {
-        "id": "b993dedf-47b4-2f3e-ecaf-9c6748946f71",
-        "file_id": "b993dedf-47b4-2f3e-ecaf-9c6748946f71",
-        "file_name": "20220719_7798_FED_SEN_LUCASKUNCEFORMISSOURINS-MO_REV_396502-00",
-        "file_extension": "pdf",
-        "file_size": 12874,
-        "file_status": "com_cpy",
-        "folder_id": "3b33cbcb-fd6a-8481-006e-ebf5edab8d30",
-        "create_ts": "2022-07-21T22:24:55.679Z",
-        "last_update_ts": "2022-07-21T22:25:55.181Z",
-        "active_ind": "Y",
-        "file_manager_id": "50e5b73a-6ffc-4731-810b-e2e17eedafa0",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Missouri/Lucas Kunce MO",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Missouri/Lucas Kunce MO/20220719_7798_FED_SEN_LUCASKUNCEFORMISSOURINS-MO_REV_396502-00",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1739002788942184400,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -422,12 +423,12 @@
         "2019": 13891,
         "2020": 124069,
         "2021": 22740,
-        "2022": 53256,
+        "2022": 53257,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 83087,
+        "State": 83088,
         "US Senate": 53852,
         "US House": 47277,
         "Presidential": 37840,
@@ -466,12 +467,12 @@
       "source_service_code": {
         "TV": 259544,
         "CABLE": 133909,
-        "FM": 124229,
+        "FM": 124230,
         "AM": 48111,
         "DBS": 6686
       },
       "political_file_type": {
-        "PA": 252360,
+        "PA": 252361,
         "NCIA": 137263
       }
     }
@@ -488,8 +489,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1885,
-    "processTime": 895,
-    "responseTime": 1895
+    "queryTime": 1867,
+    "processTime": 874,
+    "responseTime": 1874
   }
 }
