@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 572477,
+    "numFound": 572479,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "0d9b05c4-70bb-830d-a38f-6f72ea51c2d7",
+        "file_id": "0d9b05c4-70bb-830d-a38f-6f72ea51c2d7",
+        "file_name": "VOTEVETS 072122 1",
+        "file_extension": "pdf",
+        "file_size": 1033711,
+        "file_status": "com_cpy",
+        "folder_id": "a7e23fa4-7881-d59a-1b42-0d4815a5d307",
+        "create_ts": "2022-07-21T23:02:25.003Z",
+        "last_update_ts": "2022-07-21T23:03:24.836Z",
+        "active_ind": "Y",
+        "file_manager_id": "fe0ad081-c907-44d2-a2b7-b0806245e603",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/VOTEVETS",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/VOTEVETS/VOTEVETS 072122 1",
+        "entity_id": "37174",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SAVANNAH",
+        "callsign": "WJCL",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1739005147821899800,
+        "score": 0.24995676
+      },
+      {
+        "id": "0213e4d9-2bfe-c28e-42d7-e1abb62ba67a",
+        "file_id": "0213e4d9-2bfe-c28e-42d7-e1abb62ba67a",
+        "file_name": "VOTEVETS 072122",
+        "file_extension": "pdf",
+        "file_size": 1073831,
+        "file_status": "com_cpy",
+        "folder_id": "a7e23fa4-7881-d59a-1b42-0d4815a5d307",
+        "create_ts": "2022-07-21T23:02:25.946Z",
+        "last_update_ts": "2022-07-21T23:02:26.461Z",
+        "active_ind": "Y",
+        "file_manager_id": "81effbec-58b4-4cd4-9aa8-73901c7a2908",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/VOTEVETS",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/VOTEVETS/VOTEVETS 072122",
+        "entity_id": "37174",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "SAVANNAH",
+        "callsign": "WJCL",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1739005148934439000,
+        "score": 0.24995676
+      },
       {
         "id": "64eded55-a6c1-db19-78b9-3fd9b19cfffb",
         "file_id": "64eded55-a6c1-db19-78b9-3fd9b19cfffb",
@@ -196,50 +244,6 @@
         "campaign_year": "2022",
         "_version_": 1739002788942184400,
         "score": 0.24995676
-      },
-      {
-        "id": "b85b949d-1c7d-44cf-32de-1b61a995c4d7",
-        "file_id": "b85b949d-1c7d-44cf-32de-1b61a995c4d7",
-        "file_name": "20220719_7798_FED_SEN_LUCASKUNCEFORMISSOURINS-MO_REV_395475-01",
-        "file_extension": "pdf",
-        "file_size": 27571,
-        "file_status": "com_cpy",
-        "folder_id": "3b33cbcb-fd6a-8481-006e-ebf5edab8d30",
-        "create_ts": "2022-07-21T22:24:55.805Z",
-        "last_update_ts": "2022-07-21T22:24:35.732Z",
-        "active_ind": "Y",
-        "file_manager_id": "e16bb978-5014-4d9f-9065-d523bd76adcc",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Missouri/Lucas Kunce MO",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Missouri/Lucas Kunce MO/20220719_7798_FED_SEN_LUCASKUNCEFORMISSOURINS-MO_REV_395475-01",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1739002789094228000,
-        "score": 0.24995676
-      },
-      {
-        "id": "cddb07cc-7465-005f-e62b-db450048a294",
-        "file_id": "cddb07cc-7465-005f-e62b-db450048a294",
-        "file_name": "20220720_7798_FED_SEN_LUCASKUNCEFORMISSOURINS-MO_REV_396632-00",
-        "file_extension": "pdf",
-        "file_size": 19392,
-        "file_status": "com_cpy",
-        "folder_id": "3b33cbcb-fd6a-8481-006e-ebf5edab8d30",
-        "create_ts": "2022-07-21T22:23:29.45Z",
-        "last_update_ts": "2022-07-21T22:23:29.519Z",
-        "active_ind": "Y",
-        "file_manager_id": "c4ca244e-da6b-40ea-899e-9f381bd71f59",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Missouri/Lucas Kunce MO",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Missouri/Lucas Kunce MO/20220720_7798_FED_SEN_LUCASKUNCEFORMISSOURINS-MO_REV_396632-00",
-        "entity_id": "DIRECTV",
-        "source_service_code": "DBS",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1739002698468950000,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -268,7 +272,7 @@
         "FRESNO-VISALIA": 3081,
         "CHICAGO": 3067,
         "WAUSAU-RHINELANDER": 3057,
-        "SAVANNAH": 2934,
+        "SAVANNAH": 2936,
         "BIRMINGHAM (ANN TUSC)": 2793,
         "QUINCY-HANNIBAL-KEOKUK": 2791,
         "KANSAS CITY": 2781,
@@ -346,7 +350,7 @@
         "EL PASO (LAS CRUCES)": 642
       },
       "network_affiliation": {
-        "ABC": 65102,
+        "ABC": 65104,
         "NBC": 61405,
         "CBS": 42956,
         "FOX": 30703,
@@ -418,7 +422,7 @@
         "2019": 13891,
         "2020": 124069,
         "2021": 22740,
-        "2022": 53254,
+        "2022": 53256,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -460,7 +464,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 259542,
+        "TV": 259544,
         "CABLE": 133909,
         "FM": 124229,
         "AM": 48111,
@@ -468,7 +472,7 @@
       },
       "political_file_type": {
         "PA": 252360,
-        "NCIA": 137261
+        "NCIA": 137263
       }
     }
   },
@@ -484,8 +488,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1912,
-    "processTime": 921,
-    "responseTime": 1921
+    "queryTime": 1885,
+    "processTime": 895,
+    "responseTime": 1895
   }
 }
