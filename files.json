@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 572523,
+    "numFound": 572524,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "80bb75ae-5ace-4266-a152-3f142754f765",
+        "file_id": "80bb75ae-5ace-4266-a152-3f142754f765",
+        "file_name": "wokv gerry james 0721 0823 Gerry James NAB Form 7-19-22 rev",
+        "file_extension": "pdf",
+        "file_size": 272312,
+        "file_status": "com_cpy",
+        "folder_id": "d5145444-6166-a8a3-2cc1-4f27655d3286",
+        "create_ts": "2022-07-22T11:11:26.733Z",
+        "last_update_ts": "2022-07-22T11:11:06.524Z",
+        "active_ind": "Y",
+        "file_manager_id": "e8e5fdac-daf7-4931-b7de-64bc92c823e6",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/wokv gerry james 0721 0823 Gerry James NAB Form 7-19-22 rev",
+        "entity_id": "72081",
+        "source_service_code": "FM",
+        "callsign": "WOKV-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1739051014105858000,
+        "score": 0.24995676
+      },
       {
         "id": "d3223efb-ccd3-d58c-d97b-c3d195936e6d",
         "file_id": "d3223efb-ccd3-d58c-d97b-c3d195936e6d",
@@ -210,29 +233,6 @@
         "campaign_year": "2022",
         "_version_": 1739023284236714000,
         "score": 0.24995676
-      },
-      {
-        "id": "b25a6424-8a69-2099-ec8d-087b95b4528d",
-        "file_id": "b25a6424-8a69-2099-ec8d-087b95b4528d",
-        "file_name": "Brian Pruiett 07222022",
-        "file_extension": "pdf",
-        "file_size": 33626,
-        "file_status": "com_cpy",
-        "folder_id": "0697a444-d7b4-cd19-6c50-75928668e8bf",
-        "create_ts": "2022-07-22T03:52:01.218Z",
-        "last_update_ts": "2022-07-22T03:51:41.025Z",
-        "active_ind": "Y",
-        "file_manager_id": "03710ff3-3de2-4fa2-9194-5ecf99b1ec13",
-        "file_folder_path": "Political Files/2022/State/Brian Pruiett",
-        "full_qualified_file_name": "Political Files/2022/State/Brian Pruiett/Brian Pruiett 07222022",
-        "entity_id": "52674",
-        "source_service_code": "AM",
-        "callsign": "KXRO",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1739023367776764000,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -411,12 +411,12 @@
         "2019": 13891,
         "2020": 124069,
         "2021": 22740,
-        "2022": 53300,
+        "2022": 53301,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 83125,
+        "State": 83126,
         "US Senate": 53853,
         "US House": 47277,
         "Presidential": 37840,
@@ -455,12 +455,12 @@
       "source_service_code": {
         "TV": 259551,
         "CABLE": 133909,
-        "FM": 124249,
+        "FM": 124250,
         "AM": 48128,
         "DBS": 6686
       },
       "political_file_type": {
-        "PA": 252399,
+        "PA": 252400,
         "NCIA": 137268
       }
     }
@@ -477,8 +477,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1941,
-    "processTime": 951,
-    "responseTime": 1951
+    "queryTime": 1914,
+    "processTime": 922,
+    "responseTime": 1923
   }
 }
