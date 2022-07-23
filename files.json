@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 572897,
+    "numFound": 572898,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "c0eceb5a-3f6e-8b0d-ed57-ac1168852224",
+        "file_id": "c0eceb5a-3f6e-8b0d-ed57-ac1168852224",
+        "file_name": "Senate Majority PAC_97129 (08.02.22-08.08.22) (3)",
+        "file_extension": "pdf",
+        "file_size": 400749,
+        "file_status": "com_cpy",
+        "folder_id": "7fcab63f-bc5c-8043-91c4-c49bc354cc62",
+        "create_ts": "2022-07-23T22:25:36.475Z",
+        "last_update_ts": "2022-07-23T22:25:36.605Z",
+        "active_ind": "Y",
+        "file_manager_id": "b523c16e-271b-4662-a97b-91a61b4fdb1d",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Senate Majority PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Senate Majority PAC/Senate Majority PAC_97129 (08.02.22-08.08.22) (3)",
+        "entity_id": "64690",
+        "source_service_code": "TV",
+        "network_affiliation": "ION",
+        "nielsen_dma_rank": "WILKES BARRE-SCRANTON",
+        "callsign": "WQPX-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1739184025816268800,
+        "score": 0.24995676
+      },
       {
         "id": "a3f06400-267f-e7c0-ee0e-cc0c5409c250",
         "file_id": "a3f06400-267f-e7c0-ee0e-cc0c5409c250",
@@ -202,33 +226,12 @@
         "non_political_file_folder": "Ownership Reports",
         "_version_": 1739167576210014200,
         "score": 0.24995676
-      },
-      {
-        "id": "e177abd8-32da-48d1-0462-74a43bd31c59",
-        "file_id": "e177abd8-32da-48d1-0462-74a43bd31c59",
-        "file_name": "6. Third Amended and Restated Bylaws 09.30.2022",
-        "file_extension": "pdf",
-        "file_size": 530025,
-        "file_status": "com_cpy",
-        "folder_id": "9f63c988-0d76-5ebe-ed28-5662ed643433",
-        "create_ts": "2022-07-23T18:01:02.614Z",
-        "last_update_ts": "2022-07-23T18:00:42.154Z",
-        "active_ind": "Y",
-        "file_manager_id": "62cd71aa-6094-4187-bb87-7436068836d4",
-        "file_folder_path": "Ownership Reports/Additional Documents/Bylaws",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Bylaws/6. Third Amended and Restated Bylaws 09.30.2022",
-        "entity_id": "69284",
-        "source_service_code": "FM",
-        "callsign": "KNSM",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1739167380895957000,
-        "score": 0.24995676
       }
     ],
     "facets": {
       "nielsen_dma_rank": {
         "DES MOINES-AMES": 8389,
-        "WILKES BARRE-SCRANTON": 7831,
+        "WILKES BARRE-SCRANTON": 7832,
         "LAS VEGAS": 7724,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7225,
         "PITTSBURGH": 7211,
@@ -342,7 +345,7 @@
         "CBS/NBC": 1081,
         "FAMILYNET": 1039,
         "MNT": 959,
-        "ION": 954,
+        "ION": 955,
         "TELEMUNDO": 938,
         "N/A": 655,
         "CBS/CW": 613,
@@ -401,7 +404,7 @@
         "2019": 13891,
         "2020": 124047,
         "2021": 22743,
-        "2022": 53685,
+        "2022": 53686,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -443,7 +446,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 259781,
+        "TV": 259782,
         "CABLE": 133909,
         "FM": 124334,
         "AM": 48175,
@@ -451,7 +454,7 @@
       },
       "political_file_type": {
         "PA": 252603,
-        "NCIA": 137419
+        "NCIA": 137420
       }
     }
   },
@@ -467,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1905,
-    "processTime": 914,
-    "responseTime": 1915
+    "queryTime": 222,
+    "processTime": 233,
+    "responseTime": 233
   }
 }
