@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 572876,
+    "numFound": 572878,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "4583e211-206d-316a-e75f-0d021d7f176d",
+        "file_id": "4583e211-206d-316a-e75f-0d021d7f176d",
+        "file_name": "6. Third Amended and Restated Bylaws 09.30.2022",
+        "file_extension": "pdf",
+        "file_size": 530025,
+        "file_status": "com_cpy",
+        "folder_id": "f05d9ee9-3c0a-1072-6818-aea391cb8ec6",
+        "create_ts": "2022-07-23T17:43:20.542Z",
+        "last_update_ts": "2022-07-23T17:43:00.062Z",
+        "active_ind": "Y",
+        "file_manager_id": "5ab2bcb7-5987-43fe-a932-2469fb5935c1",
+        "file_folder_path": "Ownership Reports/Additional Documents/Bylaws",
+        "full_qualified_file_name": "Ownership Reports/Additional Documents/Bylaws/6. Third Amended and Restated Bylaws 09.30.2022",
+        "entity_id": "29119",
+        "source_service_code": "AM",
+        "callsign": "WOI",
+        "non_political_file_folder": "Ownership Reports",
+        "_version_": 1739166267208630300,
+        "score": 0.24995676
+      },
+      {
+        "id": "d5f71068-8633-605d-04c3-c4ae9197b118",
+        "file_id": "d5f71068-8633-605d-04c3-c4ae9197b118",
+        "file_name": "6. Third Amended and Restated Bylaws 09.30.2022",
+        "file_extension": "pdf",
+        "file_size": 530025,
+        "file_status": "com_cpy",
+        "folder_id": "6d19258e-cf9b-38c3-9183-edae34d8bce9",
+        "create_ts": "2022-07-23T17:35:26.112Z",
+        "last_update_ts": "2022-07-23T17:36:30.029Z",
+        "active_ind": "Y",
+        "file_manager_id": "6db444a5-3198-4dca-8388-0aa51668c45a",
+        "file_folder_path": "Ownership Reports/Additional Documents/Bylaws",
+        "full_qualified_file_name": "Ownership Reports/Additional Documents/Bylaws/6. Third Amended and Restated Bylaws 09.30.2022",
+        "entity_id": "69027",
+        "source_service_code": "FM",
+        "callsign": "KHKE",
+        "non_political_file_folder": "Ownership Reports",
+        "_version_": 1739165769723281400,
+        "score": 0.24995676
+      },
       {
         "id": "2a9cf1f1-f851-8c98-6570-aa11ac612640",
         "file_id": "2a9cf1f1-f851-8c98-6570-aa11ac612640",
@@ -186,52 +228,6 @@
         "office_type": "Local",
         "campaign_year": "2022",
         "_version_": 1739152355742449700,
-        "score": 0.24995676
-      },
-      {
-        "id": "f500050f-d7ae-e536-dbd5-ae68e2e95a51",
-        "file_id": "f500050f-d7ae-e536-dbd5-ae68e2e95a51",
-        "file_name": "Lisa Zavogiannis WAKI (072522)",
-        "file_extension": "pdf",
-        "file_size": 1794967,
-        "file_status": "com_cpy",
-        "folder_id": "b4356ad1-3ebb-dfa5-378f-dffd60f6a0e8",
-        "create_ts": "2022-07-23T13:59:45.239Z",
-        "last_update_ts": "2022-07-23T13:59:45.612Z",
-        "active_ind": "Y",
-        "file_manager_id": "896d403b-cbcb-4b9c-90bc-5a7e7b7d609e",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Lisa Zavogiannis WAKI (072522)",
-        "entity_id": "17758",
-        "source_service_code": "AM",
-        "callsign": "WAKI",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1739152200455684000,
-        "score": 0.24995676
-      },
-      {
-        "id": "9db5e85d-9d5f-8a28-5e0c-3a537e0f8cb5",
-        "file_id": "9db5e85d-9d5f-8a28-5e0c-3a537e0f8cb5",
-        "file_name": "Jimmy Haley WAKI (072522)",
-        "file_extension": "pdf",
-        "file_size": 1131334,
-        "file_status": "com_cpy",
-        "folder_id": "b4356ad1-3ebb-dfa5-378f-dffd60f6a0e8",
-        "create_ts": "2022-07-23T13:59:44.802Z",
-        "last_update_ts": "2022-07-23T13:59:24.643Z",
-        "active_ind": "Y",
-        "file_manager_id": "4d8c36e2-3ced-42ef-9d11-7ce069f424d8",
-        "file_folder_path": "Political Files/2022/Local",
-        "full_qualified_file_name": "Political Files/2022/Local/Jimmy Haley WAKI (072522)",
-        "entity_id": "17758",
-        "source_service_code": "AM",
-        "callsign": "WAKI",
-        "political_file_type": "PA",
-        "office_type": "Local",
-        "campaign_year": "2022",
-        "_version_": 1739152200075051000,
         "score": 0.24995676
       }
     ],
@@ -434,7 +430,7 @@
         "FCC Investigations or Complaints": 1557,
         "Must-Carry or Retransmission Consent": 1300,
         "Childrens TV Programming Reports": 1161,
-        "Ownership Reports": 1152,
+        "Ownership Reports": 1154,
         "Class A TV Continuing Eligibility": 668,
         "Political Matters and Controversial Issues Disclosures": 667,
         "State and Local Franchising Related Materials": 503,
@@ -455,8 +451,8 @@
       "source_service_code": {
         "TV": 259779,
         "CABLE": 133909,
-        "FM": 124318,
-        "AM": 48172,
+        "FM": 124319,
+        "AM": 48173,
         "DBS": 6698
       },
       "political_file_type": {
@@ -477,8 +473,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 217,
-    "processTime": 223,
-    "responseTime": 224
+    "queryTime": 1916,
+    "processTime": 925,
+    "responseTime": 1925
   }
 }
