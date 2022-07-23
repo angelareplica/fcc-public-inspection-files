@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 572857,
+    "numFound": 572859,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "c310536c-26b9-e797-1d55-f7d039e25b75",
+        "file_id": "c310536c-26b9-e797-1d55-f7d039e25b75",
+        "file_name": "Order confirmation 0059-001",
+        "file_extension": "pdf",
+        "file_size": 11525,
+        "file_status": "com_cpy",
+        "folder_id": "d0ab7853-b4a4-777b-ae5b-f3029ba9336d",
+        "create_ts": "2022-07-23T04:16:13.579Z",
+        "last_update_ts": "2022-07-23T04:17:15.972Z",
+        "active_ind": "Y",
+        "file_manager_id": "337cfe1f-7df8-489f-bfaa-5a38ddbdda3a",
+        "file_folder_path": "Political Files/2022/State/Dr Joel Rudman",
+        "full_qualified_file_name": "Political Files/2022/State/Dr Joel Rudman/Order confirmation 0059-001",
+        "entity_id": "14495",
+        "source_service_code": "FM",
+        "callsign": "WAAZ-FM",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1739115487628886000,
+        "score": 0.24995676
+      },
+      {
+        "id": "1d1ed0a4-1eb0-793d-bffb-8a26a11646f3",
+        "file_id": "1d1ed0a4-1eb0-793d-bffb-8a26a11646f3",
+        "file_name": "Order confirmation 0059-001",
+        "file_extension": "pdf",
+        "file_size": 11525,
+        "file_status": "com_cpy",
+        "folder_id": "67ae92ad-ac00-5cab-2dff-52e764db0c56",
+        "create_ts": "2022-07-23T04:15:34.417Z",
+        "last_update_ts": "2022-07-23T04:16:36.825Z",
+        "active_ind": "Y",
+        "file_manager_id": "40880f12-bb96-40d0-8044-b957f2025d37",
+        "file_folder_path": "Political Files/2022/State",
+        "full_qualified_file_name": "Political Files/2022/State/Order confirmation 0059-001",
+        "entity_id": "14494",
+        "source_service_code": "AM",
+        "callsign": "WJSB",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1739115462747226000,
+        "score": 0.24995676
+      },
       {
         "id": "c6a10355-7b1a-4545-2752-1627c1ffe8e2",
         "file_id": "c6a10355-7b1a-4545-2752-1627c1ffe8e2",
@@ -195,54 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1739110687712477200,
         "score": 0.24995676
-      },
-      {
-        "id": "7893b582-fbcc-939a-4ace-2df784890127",
-        "file_id": "7893b582-fbcc-939a-4ace-2df784890127",
-        "file_name": "A Stronger Nevada_100398 (09.06.22-09.12.22)",
-        "file_extension": "pdf",
-        "file_size": 211921,
-        "file_status": "com_cpy",
-        "folder_id": "6135ca7b-474c-4848-16bd-b00cbc50e6f0",
-        "create_ts": "2022-07-23T02:59:46.2Z",
-        "last_update_ts": "2022-07-23T03:00:48.557Z",
-        "active_ind": "Y",
-        "file_manager_id": "5899e31e-9fa9-4b93-9171-9269c440d6ad",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/A Stronger Nevada",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/A Stronger Nevada/A Stronger Nevada_100398 (09.06.22-09.12.22)",
-        "entity_id": "41237",
-        "source_service_code": "TV",
-        "network_affiliation": "ION",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KMCC",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1739110677508784000,
-        "score": 0.24995676
-      },
-      {
-        "id": "23627cc3-2197-0151-32a7-66bb72863db2",
-        "file_id": "23627cc3-2197-0151-32a7-66bb72863db2",
-        "file_name": "A Stronger Nevada_100396 (08.30.22-09.05.22)",
-        "file_extension": "pdf",
-        "file_size": 211032,
-        "file_status": "com_cpy",
-        "folder_id": "6135ca7b-474c-4848-16bd-b00cbc50e6f0",
-        "create_ts": "2022-07-23T02:59:34.498Z",
-        "last_update_ts": "2022-07-23T03:00:36.795Z",
-        "active_ind": "Y",
-        "file_manager_id": "5ae8e8d4-8de9-4990-8622-56fdea323c0a",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/A Stronger Nevada",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/A Stronger Nevada/A Stronger Nevada_100396 (08.30.22-09.05.22)",
-        "entity_id": "41237",
-        "source_service_code": "TV",
-        "network_affiliation": "ION",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KMCC",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1739110665172287500,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -421,12 +419,12 @@
         "2019": 13891,
         "2020": 124047,
         "2021": 22743,
-        "2022": 53664,
+        "2022": 53666,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 83220,
+        "State": 83222,
         "US Senate": 53870,
         "US House": 47317,
         "Presidential": 37840,
@@ -465,12 +463,12 @@
       "source_service_code": {
         "TV": 259779,
         "CABLE": 133909,
-        "FM": 124306,
-        "AM": 48165,
+        "FM": 124307,
+        "AM": 48166,
         "DBS": 6698
       },
       "political_file_type": {
-        "PA": 252590,
+        "PA": 252592,
         "NCIA": 137411
       }
     }
@@ -487,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1885,
-    "processTime": 893,
-    "responseTime": 1894
+    "queryTime": 1961,
+    "processTime": 972,
+    "responseTime": 1972
   }
 }
