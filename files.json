@@ -5,6 +5,31 @@
     "maxScore": 0.5001635,
     "docs": [
       {
+        "id": "cf1bd4a5-ebf4-c08b-850d-059e59740f2c",
+        "file_id": "cf1bd4a5-ebf4-c08b-850d-059e59740f2c",
+        "file_name": "NIKKI-FRIED-FOR-GOVERNOR-Political-PFD-07-22-2022",
+        "file_extension": "pdf",
+        "file_size": 51118,
+        "file_status": "com_cpy",
+        "folder_id": "0d4d1afe-fb1c-c096-e1a9-bc8be6bf951a",
+        "create_ts": "2022-07-23T01:50:21.894Z",
+        "last_update_ts": "2022-07-23T20:38:25.296Z",
+        "active_ind": "Y",
+        "file_manager_id": "392c4334-ac41-4a14-88ef-bd48adff8e2c",
+        "file_folder_path": "Political Files/2022/State/Nikki Fried - Governor/Disclosure Form",
+        "full_qualified_file_name": "Political Files/2022/State/Nikki Fried - Governor/Disclosure Form/NIKKI-FRIED-FOR-GOVERNOR-Political-PFD-07-22-2022",
+        "entity_id": "70649",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "FT. MYERS-NAPLES",
+        "callsign": "WFTX-TV",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1739177214886281200,
+        "score": 0.24995676
+      },
+      {
         "id": "39e87cdb-3691-2f46-1a52-15d6ad1760fe",
         "file_id": "39e87cdb-3691-2f46-1a52-15d6ad1760fe",
         "file_name": "6. Third Amended and Restated Bylaws 09.30.2022",
@@ -191,27 +216,6 @@
         "callsign": "KICL",
         "non_political_file_folder": "Ownership Reports",
         "_version_": 1739167254125215700,
-        "score": 0.24995676
-      },
-      {
-        "id": "acc8e322-b999-97b6-94dd-f17e5e0aa0b2",
-        "file_id": "acc8e322-b999-97b6-94dd-f17e5e0aa0b2",
-        "file_name": "6. Third Amended and Restated Bylaws 09.30.2022",
-        "file_extension": "pdf",
-        "file_size": 530025,
-        "file_status": "com_cpy",
-        "folder_id": "06a293db-69b5-1b64-82cb-fd8e9f275208",
-        "create_ts": "2022-07-23T17:59:45.351Z",
-        "last_update_ts": "2022-07-23T17:59:24.876Z",
-        "active_ind": "Y",
-        "file_manager_id": "4b1b002c-c746-41e1-ae43-6d9f9b7ea09c",
-        "file_folder_path": "Ownership Reports/Additional Documents/Bylaws",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Bylaws/6. Third Amended and Restated Bylaws 09.30.2022",
-        "entity_id": "69158",
-        "source_service_code": "FM",
-        "callsign": "KUNI",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1739167299862003700,
         "score": 0.24995676
       }
     ],
@@ -457,8 +461,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 220,
-    "processTime": 231,
-    "responseTime": 231
+    "queryTime": 1870,
+    "processTime": 878,
+    "responseTime": 1878
   }
 }
