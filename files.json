@@ -1,9 +1,57 @@
 {
   "response": {
-    "numFound": 572895,
+    "numFound": 572897,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "a3f06400-267f-e7c0-ee0e-cc0c5409c250",
+        "file_id": "a3f06400-267f-e7c0-ee0e-cc0c5409c250",
+        "file_name": "Senate Majority PAC_97165 (08.02.22-08.08.22) (3)",
+        "file_extension": "pdf",
+        "file_size": 400406,
+        "file_status": "com_cpy",
+        "folder_id": "f672d640-c749-fd12-7186-24a51070b80f",
+        "create_ts": "2022-07-23T22:23:40.221Z",
+        "last_update_ts": "2022-07-23T22:23:40.292Z",
+        "active_ind": "Y",
+        "file_manager_id": "87c8e766-38b2-4262-89aa-3f547b54eecc",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Senate Majority PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Senate Majority PAC/Senate Majority PAC_97165 (08.02.22-08.08.22) (3)",
+        "entity_id": "41314",
+        "source_service_code": "TV",
+        "network_affiliation": "IND",
+        "nielsen_dma_rank": "PITTSBURGH",
+        "callsign": "WINP-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1739183903848005600,
+        "score": 0.24995676
+      },
+      {
+        "id": "c2890ca6-3e68-ec15-10c4-4293e85ff98f",
+        "file_id": "c2890ca6-3e68-ec15-10c4-4293e85ff98f",
+        "file_name": "Senate Majority PAC_97120 (08.02.22-08.08.22) (3)",
+        "file_extension": "pdf",
+        "file_size": 399685,
+        "file_status": "com_cpy",
+        "folder_id": "8996c6f8-e856-a4c4-5579-eacacf335467",
+        "create_ts": "2022-07-23T22:21:20.448Z",
+        "last_update_ts": "2022-07-23T22:20:59.927Z",
+        "active_ind": "Y",
+        "file_manager_id": "b3d928c9-98e2-499c-a6cf-87a8d6fbfed4",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Senate Majority PAC",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Senate Majority PAC/Senate Majority PAC_97120 (08.02.22-08.08.22) (3)",
+        "entity_id": "51984",
+        "source_service_code": "TV",
+        "network_affiliation": "ION",
+        "nielsen_dma_rank": "PHILADELPHIA",
+        "callsign": "WPPX-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1739183757371375600,
+        "score": 0.24995676
+      },
       {
         "id": "cf1bd4a5-ebf4-c08b-850d-059e59740f2c",
         "file_id": "cf1bd4a5-ebf4-c08b-850d-059e59740f2c",
@@ -175,48 +223,6 @@
         "non_political_file_folder": "Ownership Reports",
         "_version_": 1739167380895957000,
         "score": 0.24995676
-      },
-      {
-        "id": "2f78e7b5-9c31-3f86-fb64-76e6ef703c37",
-        "file_id": "2f78e7b5-9c31-3f86-fb64-76e6ef703c37",
-        "file_name": "6. Third Amended and Restated Bylaws 09.30.2022",
-        "file_extension": "pdf",
-        "file_size": 530025,
-        "file_status": "com_cpy",
-        "folder_id": "b582a7c4-4c58-2b1b-f088-f5db3eeef7e9",
-        "create_ts": "2022-07-23T17:44:54.476Z",
-        "last_update_ts": "2022-07-23T18:00:05.701Z",
-        "active_ind": "Y",
-        "file_manager_id": "0c755176-b1df-459a-8ab6-26a8a5c1f95e",
-        "file_folder_path": "Ownership Reports/Additional Documents/Bylaws",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Bylaws/6. Third Amended and Restated Bylaws 09.30.2022",
-        "entity_id": "122627",
-        "source_service_code": "FM",
-        "callsign": "KNSC",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1739167254123118600,
-        "score": 0.24995676
-      },
-      {
-        "id": "521b0dbc-269b-7f69-3287-4f451bccad2e",
-        "file_id": "521b0dbc-269b-7f69-3287-4f451bccad2e",
-        "file_name": "6. Third Amended and Restated Bylaws 09.30.2022",
-        "file_extension": "pdf",
-        "file_size": 530025,
-        "file_status": "com_cpy",
-        "folder_id": "1ac2e208-e9ea-3276-2074-4f1489238197",
-        "create_ts": "2022-07-23T17:48:12.947Z",
-        "last_update_ts": "2022-07-23T18:00:05.632Z",
-        "active_ind": "Y",
-        "file_manager_id": "d267fe4a-be09-483e-b00f-ae5d1a8c5431",
-        "file_folder_path": "Ownership Reports/Additional Documents/Bylaws",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Bylaws/6. Third Amended and Restated Bylaws 09.30.2022",
-        "entity_id": "164103",
-        "source_service_code": "FM",
-        "callsign": "KICL",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1739167254125215700,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -225,7 +231,7 @@
         "WILKES BARRE-SCRANTON": 7831,
         "LAS VEGAS": 7724,
         "CEDAR RAPIDS-WTRLO-IWC&DUB": 7225,
-        "PITTSBURGH": 7210,
+        "PITTSBURGH": 7211,
         "WEST PALM BEACH-FT. PIERCE": 5920,
         "HONOLULU": 5243,
         "DULUTH-SUPERIOR": 4659,
@@ -254,7 +260,7 @@
         "GREENSBORO-H.POINT-W.SALEM": 2561,
         "PEORIA-BLOOMINGTON": 2548,
         "Greenville-Spartanburg-Asheville-Anderson": 2354,
-        "PHILADELPHIA": 2345,
+        "PHILADELPHIA": 2346,
         "ROCKFORD": 2224,
         "GRAND RAPIDS-KALMZOO-B.CRK": 2209,
         "TAMPA-ST. PETE (SARASOTA)": 2203,
@@ -329,14 +335,14 @@
         "FOX": 30732,
         "PBS": 15171,
         "CW": 12475,
-        "IND": 3055,
+        "IND": 3056,
         "MYTV": 2285,
         "UNIVISION": 1962,
         "MY NETWORK": 1687,
         "CBS/NBC": 1081,
         "FAMILYNET": 1039,
         "MNT": 959,
-        "ION": 953,
+        "ION": 954,
         "TELEMUNDO": 938,
         "N/A": 655,
         "CBS/CW": 613,
@@ -395,7 +401,7 @@
         "2019": 13891,
         "2020": 124047,
         "2021": 22743,
-        "2022": 53683,
+        "2022": 53685,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -437,7 +443,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 259779,
+        "TV": 259781,
         "CABLE": 133909,
         "FM": 124334,
         "AM": 48175,
@@ -445,7 +451,7 @@
       },
       "political_file_type": {
         "PA": 252603,
-        "NCIA": 137417
+        "NCIA": 137419
       }
     }
   },
@@ -461,8 +467,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1902,
-    "processTime": 910,
-    "responseTime": 1911
+    "queryTime": 1905,
+    "processTime": 914,
+    "responseTime": 1915
   }
 }
