@@ -5,6 +5,28 @@
     "maxScore": 0.5001635,
     "docs": [
       {
+        "id": "40e801b5-0f3c-a1ba-df24-187198d49682",
+        "file_id": "40e801b5-0f3c-a1ba-df24-187198d49682",
+        "file_name": "Value Them Both KWKN 14568-00054",
+        "file_extension": "pdf",
+        "file_size": 2662102,
+        "file_status": "com_cpy",
+        "folder_id": "06bd38af-370d-31e3-79b3-6074bcb54adb",
+        "create_ts": "2022-07-23T12:41:20.771Z",
+        "last_update_ts": "2022-07-23T13:00:06.24Z",
+        "active_ind": "Y",
+        "file_manager_id": "2dfddac1-275c-40ae-8079-4f0d0f488088",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Value Them Both",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Value Them Both/Value Them Both KWKN 14568-00054",
+        "entity_id": "190424",
+        "source_service_code": "FM",
+        "callsign": "KWKN",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1739148380816277500,
+        "score": 0.24995676
+      },
+      {
         "id": "db260d73-c147-fd6e-6235-a4724077b9bc",
         "file_id": "db260d73-c147-fd6e-6235-a4724077b9bc",
         "file_name": "Moran For Senate KBIK 14607-00003",
@@ -25,28 +47,6 @@
         "office_type": "US Senate",
         "campaign_year": "2022",
         "_version_": 1739147489112490000,
-        "score": 0.24995676
-      },
-      {
-        "id": "40e801b5-0f3c-a1ba-df24-187198d49682",
-        "file_id": "40e801b5-0f3c-a1ba-df24-187198d49682",
-        "file_name": "Value Them Both KWKN 14568-00054",
-        "file_extension": "pdf",
-        "file_size": 2662102,
-        "file_status": "com_cpy",
-        "folder_id": "06bd38af-370d-31e3-79b3-6074bcb54adb",
-        "create_ts": "2022-07-23T12:41:20.771Z",
-        "last_update_ts": "2022-07-23T12:41:00.94Z",
-        "active_ind": "Y",
-        "file_manager_id": "2dfddac1-275c-40ae-8079-4f0d0f488088",
-        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Value Them Both",
-        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Value Them Both/Value Them Both KWKN 14568-00054",
-        "entity_id": "190424",
-        "source_service_code": "FM",
-        "callsign": "KWKN",
-        "political_file_type": "NCIA",
-        "campaign_year": "2022",
-        "_version_": 1739147267861905400,
         "score": 0.24995676
       },
       {
@@ -472,8 +472,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1910,
-    "processTime": 920,
-    "responseTime": 1921
+    "queryTime": 1930,
+    "processTime": 938,
+    "responseTime": 1938
   }
 }
