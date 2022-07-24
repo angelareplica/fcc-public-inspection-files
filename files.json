@@ -1,9 +1,51 @@
 {
   "response": {
-    "numFound": 572898,
+    "numFound": 572900,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "c8422b6d-f1c9-dea2-4c81-64f95d4a9bf1",
+        "file_id": "c8422b6d-f1c9-dea2-4c81-64f95d4a9bf1",
+        "file_name": "PEP Summary Radio July 2022 UPDATE 07142022",
+        "file_extension": "pdf",
+        "file_size": 215108,
+        "file_status": "com_cpy",
+        "folder_id": "f12ede21-fc30-90c8-d11d-10a971253ed4",
+        "create_ts": "2022-07-24T14:45:21.906Z",
+        "last_update_ts": "2022-07-24T14:45:01.081Z",
+        "active_ind": "Y",
+        "file_manager_id": "905d75cd-bda9-42bc-a94f-72b89fcb7232",
+        "file_folder_path": "Issues and Programs Lists/2022/Q3",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/Q3/PEP Summary Radio July 2022 UPDATE 07142022",
+        "entity_id": "57436",
+        "source_service_code": "FM",
+        "callsign": "WRJL-FM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1739245666703507500,
+        "score": 0.24995676
+      },
+      {
+        "id": "f9639a81-0634-3cdc-54c6-6d12a45e25bb",
+        "file_id": "f9639a81-0634-3cdc-54c6-6d12a45e25bb",
+        "file_name": "PEP Summary Radio July 2022 UPDATE 062822",
+        "file_extension": "pdf",
+        "file_size": 214307,
+        "file_status": "com_cpy",
+        "folder_id": "f12ede21-fc30-90c8-d11d-10a971253ed4",
+        "create_ts": "2022-07-24T14:45:21.906Z",
+        "last_update_ts": "2022-07-24T14:45:01.034Z",
+        "active_ind": "Y",
+        "file_manager_id": "4792ee50-ad4f-428a-8018-2e0e4eded5e6",
+        "file_folder_path": "Issues and Programs Lists/2022/Q3",
+        "full_qualified_file_name": "Issues and Programs Lists/2022/Q3/PEP Summary Radio July 2022 UPDATE 062822",
+        "entity_id": "57436",
+        "source_service_code": "FM",
+        "callsign": "WRJL-FM",
+        "non_political_file_folder": "Issues and Programs Lists",
+        "_version_": 1739245666653175800,
+        "score": 0.24995676
+      },
       {
         "id": "c0eceb5a-3f6e-8b0d-ed57-ac1168852224",
         "file_id": "c0eceb5a-3f6e-8b0d-ed57-ac1168852224",
@@ -183,48 +225,6 @@
         "callsign": "KNSY",
         "non_political_file_folder": "Ownership Reports",
         "_version_": 1739167929966002200,
-        "score": 0.24995676
-      },
-      {
-        "id": "4920959e-28a9-6b5c-e939-33c4b14601f2",
-        "file_id": "4920959e-28a9-6b5c-e939-33c4b14601f2",
-        "file_name": "6. Third Amended and Restated Bylaws 09.30.2022",
-        "file_extension": "pdf",
-        "file_size": 530025,
-        "file_status": "com_cpy",
-        "folder_id": "a6ef8cf3-dcdc-7547-8a29-b28806ba7a36",
-        "create_ts": "2022-07-23T18:06:57.802Z",
-        "last_update_ts": "2022-07-23T18:06:37.408Z",
-        "active_ind": "Y",
-        "file_manager_id": "8d3a956e-8527-4ac8-835b-861d71bdaa49",
-        "file_folder_path": "Ownership Reports/Additional Documents/Bylaws",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Bylaws/6. Third Amended and Restated Bylaws 09.30.2022",
-        "entity_id": "83540",
-        "source_service_code": "FM",
-        "callsign": "KNSB",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1739167753403629600,
-        "score": 0.24995676
-      },
-      {
-        "id": "a4f92b92-2b94-625d-02c8-c0569e488b21",
-        "file_id": "a4f92b92-2b94-625d-02c8-c0569e488b21",
-        "file_name": "6. Third Amended and Restated Bylaws 09.30.2022",
-        "file_extension": "pdf",
-        "file_size": 530025,
-        "file_status": "com_cpy",
-        "folder_id": "4d82f7ab-1e67-8726-ab9c-d7679e25ecaf",
-        "create_ts": "2022-07-23T18:04:08.876Z",
-        "last_update_ts": "2022-07-23T18:05:12.874Z",
-        "active_ind": "Y",
-        "file_manager_id": "178f1986-5caf-457f-817b-31abaee0487f",
-        "file_folder_path": "Ownership Reports/Additional Documents/Bylaws",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Bylaws/6. Third Amended and Restated Bylaws 09.30.2022",
-        "entity_id": "83086",
-        "source_service_code": "FM",
-        "callsign": "KICW",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1739167576210014200,
         "score": 0.24995676
       }
     ],
@@ -417,7 +417,7 @@
       },
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63710,
-        "Issues and Programs Lists": 47686,
+        "Issues and Programs Lists": 47688,
         "Equal Employment Opportunity Records": 37670,
         "Donor Lists - Applicable Only for NCEs": 12462,
         "FCC Authorizations": 7535,
@@ -448,7 +448,7 @@
       "source_service_code": {
         "TV": 259782,
         "CABLE": 133909,
-        "FM": 124334,
+        "FM": 124336,
         "AM": 48175,
         "DBS": 6698
       },
@@ -470,8 +470,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1938,
-    "processTime": 945,
-    "responseTime": 1945
+    "queryTime": 218,
+    "processTime": 226,
+    "responseTime": 227
   }
 }
