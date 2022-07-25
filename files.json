@@ -1,9 +1,31 @@
 {
   "response": {
-    "numFound": 572902,
+    "numFound": 572903,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "732f40e3-e424-897a-6c23-17f55b0ad9ab",
+        "file_id": "732f40e3-e424-897a-6c23-17f55b0ad9ab",
+        "file_name": "WMXI-FM LOG - CLS MARK LEVIN - WWO - 2022-07-18 - 2022-07-24",
+        "file_extension": "pdf",
+        "file_size": 1594098,
+        "file_status": "com_cpy",
+        "folder_id": "a3da46c1-1bc5-cac1-90d2-108e5f6f8859",
+        "create_ts": "2022-07-25T11:34:45.278Z",
+        "last_update_ts": "2022-07-25T11:34:45.508Z",
+        "active_ind": "Y",
+        "file_manager_id": "1ca1b204-1214-4e1b-bf1f-025db0b83a29",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Media Research Center",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Media Research Center/WMXI-FM LOG - CLS MARK LEVIN - WWO - 2022-07-18 - 2022-07-24",
+        "entity_id": "54655",
+        "source_service_code": "FM",
+        "callsign": "WMXI",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1739324271830761500,
+        "score": 0.24995676
+      },
       {
         "id": "bd46248d-1ed1-5c7d-ee62-b597f7698fc8",
         "file_id": "bd46248d-1ed1-5c7d-ee62-b597f7698fc8",
@@ -209,27 +231,6 @@
         "non_political_file_folder": "Ownership Reports",
         "_version_": 1739168265821749200,
         "score": 0.24995676
-      },
-      {
-        "id": "8603da90-ba57-03be-e83a-8bc587390288",
-        "file_id": "8603da90-ba57-03be-e83a-8bc587390288",
-        "file_name": "6. Third Amended and Restated Bylaws 09.30.2022",
-        "file_extension": "pdf",
-        "file_size": 530025,
-        "file_status": "com_cpy",
-        "folder_id": "3629e231-78d2-f0bb-49dc-de01aa589448",
-        "create_ts": "2022-07-23T18:13:05.726Z",
-        "last_update_ts": "2022-07-23T18:12:45.21Z",
-        "active_ind": "Y",
-        "file_manager_id": "1d47b251-ca5d-4601-bdab-29dd1de2bfc0",
-        "file_folder_path": "Ownership Reports/Additional Documents/Bylaws",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Bylaws/6. Third Amended and Restated Bylaws 09.30.2022",
-        "entity_id": "63119",
-        "source_service_code": "AM",
-        "callsign": "WSUI",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1739168139076173800,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -408,7 +409,7 @@
         "2019": 13891,
         "2020": 124047,
         "2021": 22743,
-        "2022": 53688,
+        "2022": 53689,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -452,13 +453,13 @@
       "source_service_code": {
         "TV": 259782,
         "CABLE": 133909,
-        "FM": 124337,
+        "FM": 124338,
         "AM": 48176,
         "DBS": 6698
       },
       "political_file_type": {
         "PA": 252605,
-        "NCIA": 137420
+        "NCIA": 137421
       }
     }
   },
@@ -474,8 +475,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 221,
-    "processTime": 230,
+    "queryTime": 225,
+    "processTime": 231,
     "responseTime": 231
   }
 }
