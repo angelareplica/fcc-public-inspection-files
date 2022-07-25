@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 572900,
+    "numFound": 572902,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "bd46248d-1ed1-5c7d-ee62-b597f7698fc8",
+        "file_id": "bd46248d-1ed1-5c7d-ee62-b597f7698fc8",
+        "file_name": "MNN Learfield Network Political Advertising 07112022",
+        "file_extension": "docx",
+        "file_size": 12913,
+        "file_status": "com_prc",
+        "folder_id": "19c3795f-1c8d-5fc5-f2a6-35b4e9b76112",
+        "create_ts": "2022-07-25T10:02:33.573Z",
+        "last_update_ts": "2022-07-25T10:02:34.646Z",
+        "active_ind": "Y",
+        "file_manager_id": "ba3d2ffc-a77e-47fa-bbf5-6372d269d81a",
+        "file_folder_path": "Political Files/2022/State/MNN Learfield Network Political file 2022/McTavish for Governor",
+        "full_qualified_file_name": "Political Files/2022/State/MNN Learfield Network Political file 2022/McTavish for Governor/MNN Learfield Network Political Advertising 07112022",
+        "entity_id": "53301",
+        "source_service_code": "FM",
+        "callsign": "KXDL",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1739318472283783200,
+        "score": 0.24995676
+      },
+      {
+        "id": "4a0e911b-f7dd-f33e-0afc-25599d8f6ddb",
+        "file_id": "4a0e911b-f7dd-f33e-0afc-25599d8f6ddb",
+        "file_name": "MNN Learfield Network Political Advertising 07112022",
+        "file_extension": "docx",
+        "file_size": 12913,
+        "file_status": "com_prc",
+        "folder_id": "3890d09a-0d1a-6cd0-044d-a1eab2aa8bcc",
+        "create_ts": "2022-07-25T09:59:30.427Z",
+        "last_update_ts": "2022-07-25T09:59:44.977Z",
+        "active_ind": "Y",
+        "file_manager_id": "efcbba21-f743-47c8-82f1-c6a437a24cd0",
+        "file_folder_path": "Political Files/2022/State/MNN Learfield Network Political file 2022/McTavish for Governor",
+        "full_qualified_file_name": "Political Files/2022/State/MNN Learfield Network Political file 2022/McTavish for Governor/MNN Learfield Network Political Advertising 07112022",
+        "entity_id": "53300",
+        "source_service_code": "AM",
+        "callsign": "KEYL",
+        "political_file_type": "PA",
+        "office_type": "State",
+        "campaign_year": "2022",
+        "_version_": 1739318294377136000,
+        "score": 0.24995676
+      },
       {
         "id": "c8422b6d-f1c9-dea2-4c81-64f95d4a9bf1",
         "file_id": "c8422b6d-f1c9-dea2-4c81-64f95d4a9bf1",
@@ -184,48 +230,6 @@
         "non_political_file_folder": "Ownership Reports",
         "_version_": 1739168139076173800,
         "score": 0.24995676
-      },
-      {
-        "id": "3f8ec98f-aa09-e8d6-23ad-9f9bc6a8f983",
-        "file_id": "3f8ec98f-aa09-e8d6-23ad-9f9bc6a8f983",
-        "file_name": "6. Third Amended and Restated Bylaws 09.30.2022",
-        "file_extension": "pdf",
-        "file_size": 530025,
-        "file_status": "com_cpy",
-        "folder_id": "84e8027a-1f22-90d6-f6b5-8261804dec9e",
-        "create_ts": "2022-07-23T18:11:05.119Z",
-        "last_update_ts": "2022-07-23T18:10:44.562Z",
-        "active_ind": "Y",
-        "file_manager_id": "c2a14d34-4957-414e-b68e-fd95a1b6504d",
-        "file_folder_path": "Ownership Reports/Additional Documents/Bylaws",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Bylaws/6. Third Amended and Restated Bylaws 09.30.2022",
-        "entity_id": "90336",
-        "source_service_code": "FM",
-        "callsign": "KICJ",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1739168012563382300,
-        "score": 0.24995676
-      },
-      {
-        "id": "1e791fd1-a269-4338-b290-bcc9eb4a55c8",
-        "file_id": "1e791fd1-a269-4338-b290-bcc9eb4a55c8",
-        "file_name": "6. Third Amended and Restated Bylaws 09.30.2022",
-        "file_extension": "pdf",
-        "file_size": 530025,
-        "file_status": "com_cpy",
-        "folder_id": "893c7030-ce47-4a8e-1f93-bcd530e3f69f",
-        "create_ts": "2022-07-23T18:09:46.294Z",
-        "last_update_ts": "2022-07-23T18:09:25.789Z",
-        "active_ind": "Y",
-        "file_manager_id": "2e08cc4c-0270-4026-b5ce-431be744267f",
-        "file_folder_path": "Ownership Reports/Additional Documents/Bylaws",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Bylaws/6. Third Amended and Restated Bylaws 09.30.2022",
-        "entity_id": "85606",
-        "source_service_code": "FM",
-        "callsign": "KNSY",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1739167929966002200,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -404,12 +408,12 @@
         "2019": 13891,
         "2020": 124047,
         "2021": 22743,
-        "2022": 53686,
+        "2022": 53688,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
-        "State": 83222,
+        "State": 83224,
         "US Senate": 53871,
         "US House": 47317,
         "Presidential": 37840,
@@ -448,12 +452,12 @@
       "source_service_code": {
         "TV": 259782,
         "CABLE": 133909,
-        "FM": 124336,
-        "AM": 48175,
+        "FM": 124337,
+        "AM": 48176,
         "DBS": 6698
       },
       "political_file_type": {
-        "PA": 252603,
+        "PA": 252605,
         "NCIA": 137420
       }
     }
@@ -470,8 +474,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 73,
-    "processTime": 83,
-    "responseTime": 83
+    "queryTime": 1875,
+    "processTime": 886,
+    "responseTime": 1887
   }
 }
