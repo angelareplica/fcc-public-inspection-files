@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 574577,
+    "numFound": 574578,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "43c57a4b-e249-39ad-f2a4-54460c905045",
+        "file_id": "43c57a4b-e249-39ad-f2a4-54460c905045",
+        "file_name": "2022-07-26 Non-Candidate Disclosure - American Action Network",
+        "file_extension": "pdf",
+        "file_size": 48911,
+        "file_status": "com_cpy",
+        "folder_id": "32512ac2-422b-1466-ffdf-2a6b14cdcf5d",
+        "create_ts": "2022-07-27T04:25:23.286Z",
+        "last_update_ts": "2022-07-27T04:25:23.164Z",
+        "active_ind": "Y",
+        "file_manager_id": "ae9ecea7-aa60-4275-a968-01b536fb20db",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/American Action Network/DISCLOSURE",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/American Action Network/DISCLOSURE/2022-07-26 Non-Candidate Disclosure - American Action Network",
+        "entity_id": "7692",
+        "source_service_code": "TV",
+        "network_affiliation": "ION",
+        "nielsen_dma_rank": "BOSTON (MANCHESTER)",
+        "callsign": "WBPX-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1739478452103282700,
+        "score": 0.24995676
+      },
       {
         "id": "7f2fbcaa-002d-832c-7044-6aaf85994973",
         "file_id": "7f2fbcaa-002d-832c-7044-6aaf85994973",
@@ -212,29 +236,6 @@
         "campaign_year": "2022",
         "_version_": 1739467726372470800,
         "score": 0.24995676
-      },
-      {
-        "id": "ed2e491c-273e-ea36-f145-bfb84c021408",
-        "file_id": "ed2e491c-273e-ea36-f145-bfb84c021408",
-        "file_name": "Lynn DeCoite - Marketron Contract Addl Schedule 07.20 - 08.12",
-        "file_extension": "pdf",
-        "file_size": 1237792,
-        "file_status": "com_cpy",
-        "folder_id": "bd139d38-d084-8a87-1075-806c8cef3cc8",
-        "create_ts": "2022-07-27T01:22:10.427Z",
-        "last_update_ts": "2022-07-27T01:23:22.395Z",
-        "active_ind": "Y",
-        "file_manager_id": "0174e6f8-d5d0-4b73-8801-0b4f95cf34e8",
-        "file_folder_path": "Political Files/2022/State/Friends of Lynn DeCoite 2022",
-        "full_qualified_file_name": "Political Files/2022/State/Friends of Lynn DeCoite 2022/Lynn DeCoite - Marketron Contract Addl Schedule 07.20 - 08.12",
-        "entity_id": "35490",
-        "source_service_code": "FM",
-        "callsign": "KPOA",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1739466925423984600,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -354,7 +355,7 @@
         "CBS/NBC": 1081,
         "FAMILYNET": 1043,
         "MNT": 968,
-        "ION": 962,
+        "ION": 963,
         "TELEMUNDO": 938,
         "N/A": 655,
         "CBS/CW": 613,
@@ -413,7 +414,7 @@
         "2019": 13891,
         "2020": 124001,
         "2021": 22746,
-        "2022": 55374,
+        "2022": 55375,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -455,7 +456,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 260477,
+        "TV": 260478,
         "CABLE": 134502,
         "FM": 124561,
         "AM": 48322,
@@ -463,7 +464,7 @@
       },
       "political_file_type": {
         "PA": 253536,
-        "NCIA": 138131
+        "NCIA": 138132
       }
     }
   },
@@ -479,8 +480,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 226,
-    "processTime": 235,
-    "responseTime": 236
+    "queryTime": 222,
+    "processTime": 230,
+    "responseTime": 230
   }
 }
