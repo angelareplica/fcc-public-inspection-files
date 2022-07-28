@@ -1,9 +1,55 @@
 {
   "response": {
-    "numFound": 575308,
+    "numFound": 575310,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "4532ee7d-cedf-c858-287a-a4ec2343feef",
+        "file_id": "4532ee7d-cedf-c858-287a-a4ec2343feef",
+        "file_name": "bjgl val demings 0801 1108 DEMINGS_NAB PB19 Candidate Form[1]_SIGNED rec spot",
+        "file_extension": "pdf",
+        "file_size": 848238,
+        "file_status": "com_cpy",
+        "folder_id": "c413753c-3a36-0245-38a6-360498ca5be5",
+        "create_ts": "2022-07-28T12:09:59.826Z",
+        "last_update_ts": "2022-07-28T12:11:15.238Z",
+        "active_ind": "Y",
+        "file_manager_id": "a848037d-a897-408c-8f22-53e80eed1a39",
+        "file_folder_path": "Political Files/2022/Federal/US Senate/POWER 1061 WJGL-HD2 Translator",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/POWER 1061 WJGL-HD2 Translator/bjgl val demings 0801 1108 DEMINGS_NAB PB19 Candidate Form[1]_SIGNED rec spot",
+        "entity_id": "53590",
+        "source_service_code": "FM",
+        "callsign": "WJGL",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1739598279896727600,
+        "score": 0.24995676
+      },
+      {
+        "id": "3576f33d-0fd3-7046-2202-ad877f658b44",
+        "file_id": "3576f33d-0fd3-7046-2202-ad877f658b44",
+        "file_name": "wokv val demings 0808 0826 DEMINGS_NAB PB19 Candidate Form[1]_SIGNED rec spot",
+        "file_extension": "pdf",
+        "file_size": 848337,
+        "file_status": "com_cpy",
+        "folder_id": "e89b1f04-99fd-5567-cf5e-1ec870b70dce",
+        "create_ts": "2022-07-28T12:08:40.577Z",
+        "last_update_ts": "2022-07-28T12:09:55.951Z",
+        "active_ind": "Y",
+        "file_manager_id": "77dd97d9-ad2e-4c7d-865e-84550e39e034",
+        "file_folder_path": "Political Files/2022/Federal/US Senate",
+        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/wokv val demings 0808 0826 DEMINGS_NAB PB19 Candidate Form[1]_SIGNED rec spot",
+        "entity_id": "72081",
+        "source_service_code": "FM",
+        "callsign": "WOKV-FM",
+        "political_file_type": "PA",
+        "office_type": "US Senate",
+        "campaign_year": "2022",
+        "_version_": 1739598196766670800,
+        "score": 0.24995676
+      },
       {
         "id": "738b49b3-035d-fdea-d52d-99e6ccce7cb3",
         "file_id": "738b49b3-035d-fdea-d52d-99e6ccce7cb3",
@@ -194,48 +240,6 @@
         "non_political_file_folder": "Ownership Reports",
         "_version_": 1739563028879245300,
         "score": 0.24995676
-      },
-      {
-        "id": "8280810d-430c-7417-8ae1-083decc96d73",
-        "file_id": "8280810d-430c-7417-8ae1-083decc96d73",
-        "file_name": "List of Contracts and Instruments 060622",
-        "file_extension": "doc",
-        "file_size": 40448,
-        "file_status": "com_prc",
-        "folder_id": "7a90833f-ced0-653e-5d54-57a83718bc91",
-        "create_ts": "2022-07-28T02:49:40.92Z",
-        "last_update_ts": "2022-07-28T02:50:55.657Z",
-        "active_ind": "Y",
-        "file_manager_id": "bbe65d4d-7ce5-44f8-a300-53127dafec08",
-        "file_folder_path": "Ownership Reports/Additional Documents/Contracts and Agreements",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Contracts and Agreements/List of Contracts and Instruments 060622",
-        "entity_id": "174467",
-        "source_service_code": "FM",
-        "callsign": "KETP",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1739563028181942300,
-        "score": 0.24995676
-      },
-      {
-        "id": "bc4060a3-afb0-ef83-ae6a-6fc78e03dbaa",
-        "file_id": "bc4060a3-afb0-ef83-ae6a-6fc78e03dbaa",
-        "file_name": "List of Contracts and Instruments 060622",
-        "file_extension": "doc",
-        "file_size": 40448,
-        "file_status": "com_prc",
-        "folder_id": "24fa27aa-e6e1-8e80-ff52-5adf41ad79d8",
-        "create_ts": "2022-07-28T02:49:40.146Z",
-        "last_update_ts": "2022-07-28T02:50:55.118Z",
-        "active_ind": "Y",
-        "file_manager_id": "e71e10cf-dec1-4818-be41-d2c9597de134",
-        "file_folder_path": "Ownership Reports/Additional Documents/Contracts and Agreements",
-        "full_qualified_file_name": "Ownership Reports/Additional Documents/Contracts and Agreements/List of Contracts and Instruments 060622",
-        "entity_id": "173179",
-        "source_service_code": "FM",
-        "callsign": "KOTD",
-        "non_political_file_folder": "Ownership Reports",
-        "_version_": 1739563027614662700,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -414,13 +418,13 @@
         "2019": 13891,
         "2020": 123993,
         "2021": 22746,
-        "2022": 56080,
+        "2022": 56082,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 83834,
-        "US Senate": 54278,
+        "US Senate": 54280,
         "US House": 47546,
         "Presidential": 37809,
         "Local": 28609
@@ -458,12 +462,12 @@
       "source_service_code": {
         "TV": 260790,
         "CABLE": 134804,
-        "FM": 124622,
+        "FM": 124624,
         "AM": 48373,
         "DBS": 6719
       },
       "political_file_type": {
-        "PA": 253929,
+        "PA": 253931,
         "NCIA": 138436
       }
     }
@@ -480,8 +484,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1880,
-    "processTime": 888,
-    "responseTime": 1888
+    "queryTime": 220,
+    "processTime": 229,
+    "responseTime": 230
   }
 }
