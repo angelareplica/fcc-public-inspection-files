@@ -1,9 +1,32 @@
 {
   "response": {
-    "numFound": 575440,
+    "numFound": 575441,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "b8a5c3f0-27e0-d428-99c7-a4948e95a40f",
+        "file_id": "b8a5c3f0-27e0-d428-99c7-a4948e95a40f",
+        "file_name": "Louis Meyers Memo for 7-07-2022 Purchase",
+        "file_extension": "pdf",
+        "file_size": 243118,
+        "file_status": "com_cpy",
+        "folder_id": "a13f46e9-5f27-c339-c17b-7828bec8434c",
+        "create_ts": "2022-07-08T15:11:20.771Z",
+        "last_update_ts": "2022-07-28T19:05:41.379Z",
+        "active_ind": "Y",
+        "file_manager_id": "c8b15b96-1563-4385-ba6e-cf22a047bef9",
+        "file_folder_path": "Political Files/2022/Federal/US House/Louis Meyers For Congress/July 2022",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Louis Meyers For Congress/July 2022/Louis Meyers Memo for 7-07-2022 Purchase",
+        "entity_id": "68692",
+        "source_service_code": "FM",
+        "callsign": "WKOL",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1739624353237041200,
+        "score": 0.24995676
+      },
       {
         "id": "fb2e4d57-bbab-9c18-c122-091969e9662b",
         "file_id": "fb2e4d57-bbab-9c18-c122-091969e9662b",
@@ -218,29 +241,6 @@
         "campaign_year": "2022",
         "_version_": 1739622605864829000,
         "score": 0.24995676
-      },
-      {
-        "id": "4dd29fc0-dc5f-9f91-33f9-f271d68b4008",
-        "file_id": "4dd29fc0-dc5f-9f91-33f9-f271d68b4008",
-        "file_name": "Friends of Gary Miller, State, House District 29, KYTI-FM, 3751-002",
-        "file_extension": "pdf",
-        "file_size": 196844,
-        "file_status": "com_cpy",
-        "folder_id": "b461b974-abf2-5ec5-4766-8847ce01af8c",
-        "create_ts": "2022-07-28T18:32:14.647Z",
-        "last_update_ts": "2022-07-28T18:33:30.759Z",
-        "active_ind": "Y",
-        "file_manager_id": "54a6218d-765e-4d76-8582-15843b54f2f6",
-        "file_folder_path": "Political Files/2022/State",
-        "full_qualified_file_name": "Political Files/2022/State/Friends of Gary Miller, State, House District 29, KYTI-FM, 3751-002",
-        "entity_id": "12931",
-        "source_service_code": "FM",
-        "callsign": "KYTI",
-        "political_file_type": "PA",
-        "office_type": "State",
-        "campaign_year": "2022",
-        "_version_": 1739622328883478500,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -419,14 +419,14 @@
         "2019": 13891,
         "2020": 123969,
         "2021": 22746,
-        "2022": 56192,
+        "2022": 56193,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 83853,
         "US Senate": 54283,
-        "US House": 47574,
+        "US House": 47575,
         "Presidential": 37809,
         "Local": 28613
       },
@@ -463,12 +463,12 @@
       "source_service_code": {
         "TV": 260873,
         "CABLE": 134804,
-        "FM": 124650,
+        "FM": 124651,
         "AM": 48394,
         "DBS": 6719
       },
       "political_file_type": {
-        "PA": 253985,
+        "PA": 253986,
         "NCIA": 138468
       }
     }
@@ -485,8 +485,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1945,
-    "processTime": 954,
-    "responseTime": 1954
+    "queryTime": 1939,
+    "processTime": 947,
+    "responseTime": 1948
   }
 }
