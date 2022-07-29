@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 575615,
+    "numFound": 575616,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "2617eab4-f69f-6da4-247e-72783971b7b3",
+        "file_id": "2617eab4-f69f-6da4-247e-72783971b7b3",
+        "file_name": "NAB Form for Yes on 27 CAS30TV9346H Big Tribe vs Little Tribe 072822",
+        "file_extension": "pdf",
+        "file_size": 1083359,
+        "file_status": "com_cpy",
+        "folder_id": "fc626077-fb75-e8fd-03df-94aba0dfa22d",
+        "create_ts": "2022-07-29T03:02:18.154Z",
+        "last_update_ts": "2022-07-29T03:01:56.281Z",
+        "active_ind": "Y",
+        "file_manager_id": "14a1f16f-549b-476e-b6f1-53f0e1b49038",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/California/Californians for Solutions to Homelessness and Mental Health Support",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/California/Californians for Solutions to Homelessness and Mental Health Support/NAB Form for Yes on 27 CAS30TV9346H Big Tribe vs Little Tribe 072822",
+        "entity_id": "DIRECTV",
+        "source_service_code": "DBS",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1739654418994823200,
+        "score": 0.24995676
+      },
       {
         "id": "d15cabbd-482c-f30c-78ec-c9f901a79a90",
         "file_id": "d15cabbd-482c-f30c-78ec-c9f901a79a90",
@@ -201,27 +222,6 @@
         "non_political_file_folder": "FCC Authorizations",
         "_version_": 1739643500868141000,
         "score": 0.24995676
-      },
-      {
-        "id": "6de78850-e0e6-570d-5317-a5770d8432d6",
-        "file_id": "6de78850-e0e6-570d-5317-a5770d8432d6",
-        "file_name": "EEO-Public-File-Report_2021-09-30",
-        "file_extension": "pdf",
-        "file_size": 177359,
-        "file_status": "com_cpy",
-        "folder_id": "491010a5-9c08-506c-e11e-31771cfe5091",
-        "create_ts": "2022-07-29T00:05:47.911Z",
-        "last_update_ts": "2022-07-29T00:07:04.445Z",
-        "active_ind": "Y",
-        "file_manager_id": "d8f9be4b-008c-4bf2-bc44-2d7e3a16ce56",
-        "file_folder_path": "FCC Authorizations/Additional Documents",
-        "full_qualified_file_name": "FCC Authorizations/Additional Documents/EEO-Public-File-Report_2021-09-30",
-        "entity_id": "58629",
-        "source_service_code": "FM",
-        "callsign": "KPDQ-FM",
-        "non_political_file_folder": "FCC Authorizations",
-        "_version_": 1739643314188058600,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -400,7 +400,7 @@
         "2019": 13891,
         "2020": 123949,
         "2021": 22746,
-        "2022": 56367,
+        "2022": 56368,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -446,11 +446,11 @@
         "CABLE": 134806,
         "FM": 124701,
         "AM": 48413,
-        "DBS": 6723
+        "DBS": 6724
       },
       "political_file_type": {
         "PA": 254082,
-        "NCIA": 138526
+        "NCIA": 138527
       }
     }
   },
@@ -466,8 +466,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 227,
-    "processTime": 235,
-    "responseTime": 235
+    "queryTime": 1914,
+    "processTime": 922,
+    "responseTime": 1923
   }
 }
