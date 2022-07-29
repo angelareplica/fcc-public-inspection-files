@@ -1,9 +1,34 @@
 {
   "response": {
-    "numFound": 575623,
+    "numFound": 575624,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "0ec745f0-5042-0799-eb31-6b87733d20a6",
+        "file_id": "0ec745f0-5042-0799-eb31-6b87733d20a6",
+        "file_name": "1195085-0",
+        "file_extension": "pdf",
+        "file_size": 129918,
+        "file_status": "com_cpy",
+        "folder_id": "406db16a-baea-1a33-c8a5-cae7462ff0ad",
+        "create_ts": "2022-07-29T12:09:46.527Z",
+        "last_update_ts": "2022-07-29T12:09:46.074Z",
+        "active_ind": "Y",
+        "file_manager_id": "321752f2-4cb6-46f1-94f0-4e892ffe93bd",
+        "file_folder_path": "Political Files/2022/Federal/US House/Dan Goldman",
+        "full_qualified_file_name": "Political Files/2022/Federal/US House/Dan Goldman/1195085-0",
+        "entity_id": "22206",
+        "source_service_code": "TV",
+        "network_affiliation": "FOX",
+        "nielsen_dma_rank": "NEW YORK",
+        "callsign": "WNYW",
+        "political_file_type": "PA",
+        "office_type": "US House",
+        "campaign_year": "2022",
+        "_version_": 1739688862569988000,
+        "score": 0.24995676
+      },
       {
         "id": "ca4834b4-6049-e553-20a9-e3c3ff196273",
         "file_id": "ca4834b4-6049-e553-20a9-e3c3ff196273",
@@ -194,31 +219,6 @@
         "campaign_year": "2022",
         "_version_": 1739649993795436500,
         "score": 0.24995676
-      },
-      {
-        "id": "a156648a-4756-0f8f-8589-8a1e7268d039",
-        "file_id": "a156648a-4756-0f8f-8589-8a1e7268d039",
-        "file_name": "EXYZ Sherry-Gay-Dagnogo-for-Congress-Political-PFD-07-27-2022",
-        "file_extension": "pdf",
-        "file_size": 61583,
-        "file_status": "com_cpy",
-        "folder_id": "1275fe75-3fb9-73c2-1230-811a7c0b7193",
-        "create_ts": "2022-07-29T01:40:09.052Z",
-        "last_update_ts": "2022-07-29T01:40:08.745Z",
-        "active_ind": "Y",
-        "file_manager_id": "82084601-e619-47ed-a582-039a301d2f3e",
-        "file_folder_path": "Political Files/2022/Federal/US House/WXYZ D2/Sherry Gay-Dagnogo/Political Disclosure",
-        "full_qualified_file_name": "Political Files/2022/Federal/US House/WXYZ D2/Sherry Gay-Dagnogo/Political Disclosure/EXYZ Sherry-Gay-Dagnogo-for-Congress-Political-PFD-07-27-2022",
-        "entity_id": "10267",
-        "source_service_code": "TV",
-        "network_affiliation": "ABC",
-        "nielsen_dma_rank": "DETROIT",
-        "callsign": "WXYZ-TV",
-        "political_file_type": "PA",
-        "office_type": "US House",
-        "campaign_year": "2022",
-        "_version_": 1739649250140094500,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -289,7 +289,7 @@
         "GAINESVILLE": 1268,
         "JOHNSTOWN-ALTOONA-ST COLGE": 1243,
         "LOUISVILLE": 1191,
-        "NEW YORK": 1142,
+        "NEW YORK": 1143,
         "COLUMBUS OH": 1117,
         "CHARLOTTE": 1112,
         "SALT LAKE CITY": 1112,
@@ -328,7 +328,7 @@
         "ABC": 65575,
         "NBC": 61674,
         "CBS": 43226,
-        "FOX": 30922,
+        "FOX": 30923,
         "PBS": 15187,
         "CW": 12501,
         "IND": 3096,
@@ -397,14 +397,14 @@
         "2019": 13891,
         "2020": 123949,
         "2021": 22746,
-        "2022": 56368,
+        "2022": 56369,
         "KYAZ": 5,
         "Fede": 1
       },
       "office_type": {
         "State": 83885,
         "US Senate": 54316,
-        "US House": 47606,
+        "US House": 47607,
         "Presidential": 37796,
         "Local": 28626
       },
@@ -439,14 +439,14 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 260972,
+        "TV": 260973,
         "CABLE": 134806,
         "FM": 124708,
         "AM": 48413,
         "DBS": 6724
       },
       "political_file_type": {
-        "PA": 254082,
+        "PA": 254083,
         "NCIA": 138527
       }
     }
@@ -463,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1842,
-    "processTime": 851,
-    "responseTime": 1852
+    "queryTime": 1883,
+    "processTime": 891,
+    "responseTime": 1892
   }
 }
