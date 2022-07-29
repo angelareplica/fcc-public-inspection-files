@@ -1,9 +1,33 @@
 {
   "response": {
-    "numFound": 576076,
+    "numFound": 576077,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "12cdbf6d-0e72-ab87-6e49-8ec90b232313",
+        "file_id": "12cdbf6d-0e72-ab87-6e49-8ec90b232313",
+        "file_name": "Club-for-Growth-Action-Political-PFD-07-29-2022",
+        "file_extension": "pdf",
+        "file_size": 64749,
+        "file_status": "com_cpy",
+        "folder_id": "f117b528-95d5-f918-7289-917297a02012",
+        "create_ts": "2022-07-29T22:49:20.682Z",
+        "last_update_ts": "2022-07-29T22:48:58.157Z",
+        "active_ind": "Y",
+        "file_manager_id": "f1d4768b-707b-4a86-b377-60e520e1b34c",
+        "file_folder_path": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action",
+        "full_qualified_file_name": "Political Files/2022/Non-Candidate Issue Ads/Club for Growth Action/Club-for-Growth-Action-Political-PFD-07-29-2022",
+        "entity_id": "59440",
+        "source_service_code": "TV",
+        "network_affiliation": "ABC",
+        "nielsen_dma_rank": "PHOENIX (PRESCOTT)",
+        "callsign": "KNXV-TV",
+        "political_file_type": "NCIA",
+        "campaign_year": "2022",
+        "_version_": 1739729100805767200,
+        "score": 0.24995676
+      },
       {
         "id": "8725f4b9-cb04-6416-d180-38836238659d",
         "file_id": "8725f4b9-cb04-6416-d180-38836238659d",
@@ -214,31 +238,6 @@
         "campaign_year": "2022",
         "_version_": 1739726855615807500,
         "score": 0.24995676
-      },
-      {
-        "id": "046bd69e-adf8-efc8-3af8-9c6616d2de06",
-        "file_id": "046bd69e-adf8-efc8-3af8-9c6616d2de06",
-        "file_name": "8-02-22 to 8-08-22 ord",
-        "file_extension": "pdf",
-        "file_size": 251032,
-        "file_status": "com_cpy",
-        "folder_id": "7981f1a9-15ab-42ac-a5f4-f6ad4c57bd40",
-        "create_ts": "2022-07-29T22:10:18.302Z",
-        "last_update_ts": "2022-07-29T22:11:36.83Z",
-        "active_ind": "Y",
-        "file_manager_id": "241dd140-3b4b-45f8-a50e-451d8d8fb28c",
-        "file_folder_path": "Political Files/2022/Federal/US Senate/Masto General",
-        "full_qualified_file_name": "Political Files/2022/Federal/US Senate/Masto General/8-02-22 to 8-08-22 ord",
-        "entity_id": "35870",
-        "source_service_code": "TV",
-        "network_affiliation": "FOX",
-        "nielsen_dma_rank": "LAS VEGAS",
-        "callsign": "KVVU-TV",
-        "political_file_type": "PA",
-        "office_type": "US Senate",
-        "campaign_year": "2022",
-        "_version_": 1739726644734591000,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -292,7 +291,7 @@
         "SIOUX CITY": 1731,
         "PADUCAH-CAPE GIRARD-HARSBG": 1699,
         "LINCOLN & HASTINGS-KRNY": 1668,
-        "PHOENIX (PRESCOTT)": 1661,
+        "PHOENIX (PRESCOTT)": 1662,
         "BINGHAMTON": 1624,
         "PROVIDENCE-NEW BEDFORD": 1571,
         "GREENVLL-SPART-ASHEVLL-AND": 1559,
@@ -345,7 +344,7 @@
         "EL PASO (LAS CRUCES)": 642
       },
       "network_affiliation": {
-        "ABC": 65699,
+        "ABC": 65700,
         "NBC": 61710,
         "CBS": 43281,
         "FOX": 30940,
@@ -417,7 +416,7 @@
         "2019": 13881,
         "2020": 123949,
         "2021": 22746,
-        "2022": 56800,
+        "2022": 56801,
         "KYAZ": 5,
         "Fede": 1
       },
@@ -459,7 +458,7 @@
         "Noncommercial Set-Aside": 1
       },
       "source_service_code": {
-        "TV": 261234,
+        "TV": 261235,
         "CABLE": 134811,
         "FM": 124832,
         "AM": 48475,
@@ -467,7 +466,7 @@
       },
       "political_file_type": {
         "PA": 254379,
-        "NCIA": 138652
+        "NCIA": 138653
       }
     }
   },
@@ -483,8 +482,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1882,
-    "processTime": 890,
-    "responseTime": 1891
+    "queryTime": 220,
+    "processTime": 230,
+    "responseTime": 231
   }
 }
