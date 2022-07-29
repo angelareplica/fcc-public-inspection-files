@@ -1,9 +1,30 @@
 {
   "response": {
-    "numFound": 575622,
+    "numFound": 575623,
     "start": 0,
     "maxScore": 0.5001635,
     "docs": [
+      {
+        "id": "ca4834b4-6049-e553-20a9-e3c3ff196273",
+        "file_id": "ca4834b4-6049-e553-20a9-e3c3ff196273",
+        "file_name": "Los Angeles,CA_EEO_Public Aug 01, 2021- July 31, 2022",
+        "file_extension": "pdf",
+        "file_size": 101845,
+        "file_status": "com_cpy",
+        "folder_id": "c6b3a8a3-89cb-52ec-f8f8-6dfbe83db68e",
+        "create_ts": "2022-07-29T06:43:33.852Z",
+        "last_update_ts": "2022-07-29T06:43:33.451Z",
+        "active_ind": "Y",
+        "file_manager_id": "cfd90f3d-2e39-4898-8c68-814f747e3a1b",
+        "file_folder_path": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2021-2022",
+        "full_qualified_file_name": "Equal Employment Opportunity Records/Additional Documents/EEO Public File Reports/2021-2022/Los Angeles,CA_EEO_Public Aug 01, 2021- July 31, 2022",
+        "entity_id": "58809",
+        "source_service_code": "FM",
+        "callsign": "KLYY",
+        "non_political_file_folder": "Equal Employment Opportunity Records",
+        "_version_": 1739668339172573200,
+        "score": 0.24995676
+      },
       {
         "id": "9f9b4ffa-7bfe-b572-587d-fd784d629528",
         "file_id": "9f9b4ffa-7bfe-b572-587d-fd784d629528",
@@ -198,27 +219,6 @@
         "campaign_year": "2022",
         "_version_": 1739649250140094500,
         "score": 0.24995676
-      },
-      {
-        "id": "2158ddd6-9979-c1d7-9e43-7fbbc0a4a445",
-        "file_id": "2158ddd6-9979-c1d7-9e43-7fbbc0a4a445",
-        "file_name": "WNOB-AARP-NAB Form for Contract CON-NOR-RR-3961-072822",
-        "file_extension": "pdf",
-        "file_size": 1788100,
-        "file_status": "com_cpy",
-        "folder_id": "a52f329e-e3de-4514-9845-92fcf139a29a",
-        "create_ts": "2022-07-29T01:10:12.499Z",
-        "last_update_ts": "2022-07-29T01:11:29.513Z",
-        "active_ind": "Y",
-        "file_manager_id": "0564bd4a-89e4-4ea1-91ef-ef7cd987d9ad",
-        "file_folder_path": "Political Matters and Controversial Issues Disclosures/2022/AARP",
-        "full_qualified_file_name": "Political Matters and Controversial Issues Disclosures/2022/AARP/WNOB-AARP-NAB Form for Contract CON-NOR-RR-3961-072822",
-        "entity_id": "73184",
-        "source_service_code": "FM",
-        "callsign": "WNOB",
-        "non_political_file_folder": "Political Matters and Controversial Issues Disclosures",
-        "_version_": 1739647366902841300,
-        "score": 0.24995676
       }
     ],
     "facets": {
@@ -411,7 +411,7 @@
       "non_political_file_folder": {
         "Records Concerning Commercial Limits in Childrens Programs": 63710,
         "Issues and Programs Lists": 47730,
-        "Equal Employment Opportunity Records": 37686,
+        "Equal Employment Opportunity Records": 37687,
         "Donor Lists - Applicable Only for NCEs": 12473,
         "FCC Authorizations": 7568,
         "Local Public Notice Announcements": 1883,
@@ -441,7 +441,7 @@
       "source_service_code": {
         "TV": 260972,
         "CABLE": 134806,
-        "FM": 124707,
+        "FM": 124708,
         "AM": 48413,
         "DBS": 6724
       },
@@ -463,8 +463,8 @@
   "responseStatus": {
     "status": 200,
     "type": "OK",
-    "queryTime": 1882,
-    "processTime": 889,
-    "responseTime": 1890
+    "queryTime": 223,
+    "processTime": 231,
+    "responseTime": 231
   }
 }
